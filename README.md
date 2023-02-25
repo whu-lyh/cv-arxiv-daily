@@ -15,6 +15,7 @@
     <li><a href=#Keypoint-Detection>Keypoint Detection</a></li>
     <li><a href=#Image-Matching>Image Matching</a></li>
     <li><a href=#NeRF>NeRF</a></li>
+    <li><a href=#Kinematic-Mapping>Kinematic Mapping</a></li>
   </ol>
 </details>
 
@@ -1217,6 +1218,23 @@
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741v2](http://arxiv.org/abs/2207.14741v2)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
+
+<p align=right>(<a href=#Updated-on-20230225>back to top</a>)</p>
+
+## Kinematic Mapping
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-02-23**|**Time Complexity of Broadcast and Consensus for Randomized Oblivious Message Adversaries**|Antoine El-Hayek et.al.|[2302.11988v1](http://arxiv.org/abs/2302.11988v1)|null|
+|**2023-02-20**|**Dynamic Optimal Control: A Real-Time Control Optimization Algorithm for Dynamic Networks**|Chunyu Pan et.al.|[2302.09743v1](http://arxiv.org/abs/2302.09743v1)|null|
+|**2023-02-18**|**Co-trading networks for modeling dynamic interdependency structures and estimating high-dimensional covariances in US equity markets**|Yutong Lu et.al.|[2302.09382v1](http://arxiv.org/abs/2302.09382v1)|null|
+|**2023-02-15**|**Dynamic Flows with Time-Dependent Capacities**|Thomas Bläsius et.al.|[2302.07657v1](http://arxiv.org/abs/2302.07657v1)|null|
+|**2023-02-08**|**ER network heterogeneity guides diffusive transport and kinetics**|Zubenelgenubi C. Scott et.al.|[2302.04377v1](http://arxiv.org/abs/2302.04377v1)|null|
+|**2023-02-07**|**Wealth distribution on a dynamic complex network**|Gustavo Kohlrausch et.al.|[2302.03677v1](http://arxiv.org/abs/2302.03677v1)|null|
+|**2023-02-06**|**SUPER VII. Morphology and kinematics of H $α$ emission in AGN host galaxies at Cosmic noon using SINFONI**|D. Kakkad et.al.|[2302.03039v1](http://arxiv.org/abs/2302.03039v1)|null|
+|**2023-02-05**|**A Game-Theoretic Approach to Solving the Roman Domination Problem**|Xiuyang Chen et.al.|[2302.02313v1](http://arxiv.org/abs/2302.02313v1)|null|
+|**2023-02-03**|**Coevolving Boolean and Multi-Valued Regulatory Networks**|Larry Bull et.al.|[2302.01694v1](http://arxiv.org/abs/2302.01694v1)|null|
+|**2023-01-30**|**Quantifying and maximizing the information flux in recurrent neural networks**|Claus Metzner et.al.|[2301.12892v1](http://arxiv.org/abs/2301.12892v1)|null|
 
 <p align=right>(<a href=#Updated-on-20230225>back to top</a>)</p>
 
