@@ -31,7 +31,7 @@ keywords:
         filters: ["Multimodel", "Multi-Modality", "Cross-Modality", "Cross-Modality",
                 "Multi model", "Multi Modality", "Cross Modality", "Cross Modality", "Point Cloud image fusion"]
     "Point Cloud Localization":
-        filters: ["Point Cloud Localization", "Cross matching"
+        filters: ["Point Cloud Localization", "Cross matching", 
                   "Point Cloud Re-localisation", "Point cloud image registraction",
                   "Point cloud image matching", "Point cloud image alignment"]
     "Place Recognization":
