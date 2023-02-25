@@ -5,7 +5,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 30
+max_results: 50
 
 publish_readme: True
 publish_gitpage: True
@@ -31,7 +31,7 @@ keywords:
         filters: ["Multimodel", "Multi-Modality", "Cross-Modality", "Cross-Modality",
                 "Multi model", "Multi Modality", "Cross Modality", "Cross Modality", "Point Cloud image fusion"]
     "Point Cloud Localization":
-        filters: ["Point Cloud Localization", "Cross matching", 
+        filters: ["Point Cloud Localization", 
                   "Point Cloud Re-localisation", "Point cloud image registraction",
                   "Point cloud image matching", "Point cloud image alignment"]
     "Place Recognization":
