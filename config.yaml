@@ -25,4 +25,6 @@ keywords:
     "Kinematic Mapping":
         filters: ["Kinematic Mapping", "Trajectory Estimation", 
                   "Trajectory Estimation", "Dynamic Networks"]
+        "Map fusion":
+        filters:["Map fusion", "Map merging"]
 
