@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Vincentqyw"
+user_name: "whu-lyh"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
@@ -22,18 +22,24 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
+    "Kinematic Mapping":
+        filters: ["Kinematic Mapping", "Trajectory Estimation", 
+                  "Trajectory Estimation", "Dynamic Networks"]
+    "Map fusion":
+        filters:["Map fusion", "Map merging"]
+    "MultiModality":
+        filters: ["Multimodel", "Multi-Modality", "Cross-Modality", "Cross-Modality",
+                "Multi model", "Multi Modality", "Cross Modality", "Cross Modality", "Point Cloud image fusion"]
+    "Point Cloud Localization":
+        filters: ["Point Cloud Localization"," Localization",
+                  "Point Cloud Re-localisation","Point cloud image registraction",
+                  "Point cloud image matching","Point cloud image alignment"]
+    "Place Recognization":
+        filters: ["Place Recognization", "Loop Closure Detection", "Point Cloud retrieval"]
+    "LiDAR SLAM": 
+        filters: ["LiDAR SLAM", "Laser Odometry", "Mapping"]
+    "Transformer":
+        filters: ["transformer", "point cloud transformer", 
+                  "point transformer"]
     "NeRF":
         filters: ["NeRF"]
