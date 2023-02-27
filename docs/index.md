@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.02.26
+## Updated on 2023.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -131,7 +131,7 @@ layout: default
 |**2023-02-22**|**Fusing Visual Appearance and Geometry for Multi-modality 6DoF Object Tracking**|Manuel Stoiber et.al.|[2302.11458v1](http://arxiv.org/abs/2302.11458v1)|**[link](https://github.com/dlr-rm/3dobjecttracking)**|
 |**2023-02-22**|**X-TRA: Improving Chest X-ray Tasks with Cross-Modal Retrieval Augmentation**|Tom van Sonsbeek et.al.|[2302.11352v1](http://arxiv.org/abs/2302.11352v1)|null|
 |**2023-02-22**|**Cross-modal Audio-visual Co-learning for Text-independent Speaker Verification**|Meng Liu et.al.|[2302.11254v1](http://arxiv.org/abs/2302.11254v1)|**[link](https://github.com/danielmengliu/audiovisuallip)**|
-|**2023-02-22**|**Open-domain Visual Entity Recognition: Towards Recognizing Millions of Wikipedia Entities**|Hexiang Hu et.al.|[2302.11154v1](http://arxiv.org/abs/2302.11154v1)|null|
+|**2023-02-24**|**Open-domain Visual Entity Recognition: Towards Recognizing Millions of Wikipedia Entities**|Hexiang Hu et.al.|[2302.11154v2](http://arxiv.org/abs/2302.11154v2)|null|
 |**2023-02-22**|**A Multi-Modal Neural Geometric Solver with Textual Clauses Parsed from Diagram**|Ming-Liang Zhang et.al.|[2302.11097v1](http://arxiv.org/abs/2302.11097v1)|null|
 |**2023-02-22**|**BB-GCN: A Bi-modal Bridged Graph Convolutional Network for Multi-label Chest X-Ray Recognition**|Guoli Wang et.al.|[2302.11082v1](http://arxiv.org/abs/2302.11082v1)|null|
 |**2023-02-21**|**Asteroseismology of $δ$ Scuti stars: emulating model grids using a neural network**|Owen J. Scutt et.al.|[2302.11025v1](http://arxiv.org/abs/2302.11025v1)|null|
