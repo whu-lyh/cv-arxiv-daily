@@ -7,19 +7,20 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.02.27
+## Updated on 2023.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-24**|**Modularity-based approach for tracking communities in dynamic social networks**|Michele Mazza et.al.|[2302.12759v1](http://arxiv.org/abs/2302.12759v1)|null|
 |**2023-02-23**|**Time Complexity of Broadcast and Consensus for Randomized Oblivious Message Adversaries**|Antoine El-Hayek et.al.|[2302.11988v1](http://arxiv.org/abs/2302.11988v1)|null|
 |**2023-02-20**|**Dynamic Optimal Control: A Real-Time Control Optimization Algorithm for Dynamic Networks**|Chunyu Pan et.al.|[2302.09743v1](http://arxiv.org/abs/2302.09743v1)|null|
 |**2023-02-18**|**Co-trading networks for modeling dynamic interdependency structures and estimating high-dimensional covariances in US equity markets**|Yutong Lu et.al.|[2302.09382v1](http://arxiv.org/abs/2302.09382v1)|null|
 |**2023-02-15**|**Dynamic Flows with Time-Dependent Capacities**|Thomas Bläsius et.al.|[2302.07657v1](http://arxiv.org/abs/2302.07657v1)|null|
 |**2023-02-08**|**ER network heterogeneity guides diffusive transport and kinetics**|Zubenelgenubi C. Scott et.al.|[2302.04377v1](http://arxiv.org/abs/2302.04377v1)|null|
-|**2023-02-07**|**Wealth distribution on a dynamic complex network**|Gustavo Kohlrausch et.al.|[2302.03677v1](http://arxiv.org/abs/2302.03677v1)|null|
+|**2023-02-24**|**Wealth distribution on a dynamic complex network**|Gustavo Kohlrausch et.al.|[2302.03677v2](http://arxiv.org/abs/2302.03677v2)|null|
 |**2023-02-06**|**SUPER VII. Morphology and kinematics of H $α$ emission in AGN host galaxies at Cosmic noon using SINFONI**|D. Kakkad et.al.|[2302.03039v1](http://arxiv.org/abs/2302.03039v1)|null|
 |**2023-02-05**|**A Game-Theoretic Approach to Solving the Roman Domination Problem**|Xiuyang Chen et.al.|[2302.02313v1](http://arxiv.org/abs/2302.02313v1)|null|
 |**2023-02-03**|**Coevolving Boolean and Multi-Valued Regulatory Networks**|Larry Bull et.al.|[2302.01694v1](http://arxiv.org/abs/2302.01694v1)|null|
@@ -124,9 +125,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-24**|**Floquet Analysis of Frequency Collisions**|Kentaro Heya et.al.|[2302.12816v1](http://arxiv.org/abs/2302.12816v1)|null|
+|**2023-02-24**|**A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter**|Kechun Xu et.al.|[2302.12610v1](http://arxiv.org/abs/2302.12610v1)|null|
+|**2023-02-24**|**Deep Learning for Video-Text Retrieval: a Review**|Cunjuan Zhu et.al.|[2302.12552v1](http://arxiv.org/abs/2302.12552v1)|null|
+|**2023-02-23**|**Data leakage in cross-modal retrieval training: A case study**|Benno Weck et.al.|[2302.12258v1](http://arxiv.org/abs/2302.12258v1)|null|
 |**2023-02-23**|**Learning Visual Representations via Language-Guided Sampling**|Mohamed El Banani et.al.|[2302.12248v1](http://arxiv.org/abs/2302.12248v1)|**[link](https://github.com/mbanani/lgssl)**|
 |**2023-02-23**|**Power Time Series Forecasting by Pretrained LM**|Tian Zhou et.al.|[2302.11939v1](http://arxiv.org/abs/2302.11939v1)|null|
-|**2023-02-23**|**Can Pre-trained Vision and Language Models Answer Visual Information-Seeking Questions?**|Yang Chen et.al.|[2302.11713v1](http://arxiv.org/abs/2302.11713v1)|null|
+|**2023-02-24**|**Can Pre-trained Vision and Language Models Answer Visual Information-Seeking Questions?**|Yang Chen et.al.|[2302.11713v2](http://arxiv.org/abs/2302.11713v2)|null|
 |**2023-02-22**|**Modular Deep Learning**|Jonas Pfeiffer et.al.|[2302.11529v1](http://arxiv.org/abs/2302.11529v1)|null|
 |**2023-02-22**|**Fusing Visual Appearance and Geometry for Multi-modality 6DoF Object Tracking**|Manuel Stoiber et.al.|[2302.11458v1](http://arxiv.org/abs/2302.11458v1)|**[link](https://github.com/dlr-rm/3dobjecttracking)**|
 |**2023-02-22**|**X-TRA: Improving Chest X-ray Tasks with Cross-Modal Retrieval Augmentation**|Tom van Sonsbeek et.al.|[2302.11352v1](http://arxiv.org/abs/2302.11352v1)|null|
@@ -358,7 +363,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-02-23**|**Learning Neural Volumetric Representations of Dynamic Humans in Minutes**|Chen Geng et.al.|[2302.12237v1](http://arxiv.org/abs/2302.12237v1)|null|
+|**2023-02-24**|**Learning Neural Volumetric Representations of Dynamic Humans in Minutes**|Chen Geng et.al.|[2302.12237v2](http://arxiv.org/abs/2302.12237v2)|null|
 |**2023-02-23**|**DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models**|Jamie Wynn et.al.|[2302.12231v1](http://arxiv.org/abs/2302.12231v1)|null|
 |**2023-02-20**|**NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion**|Jiatao Gu et.al.|[2302.10109v1](http://arxiv.org/abs/2302.10109v1)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486v1](http://arxiv.org/abs/2302.09486v1)|null|
