@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.01
+## Updated on 2023.03.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -127,13 +127,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-28**|**Joint Representations of Text and Knowledge Graphs for Retrieval and Evaluation**|Teven Le Scao et.al.|[2302.14785v1](http://arxiv.org/abs/2302.14785v1)|null|
+|**2023-02-28**|**VQA with Cascade of Self- and Co-Attention Blocks**|Aakansha Mishra et.al.|[2302.14777v1](http://arxiv.org/abs/2302.14777v1)|null|
+|**2023-02-28**|**Exploring Self-supervised Pre-trained ASR Models For Dysarthric and Elderly Speech Recognition**|Shujie Hu et.al.|[2302.14564v1](http://arxiv.org/abs/2302.14564v1)|null|
+|**2023-02-28**|**PCR-CG: Point Cloud Registration via Deep Color and Geometry**|Yu Zhang et.al.|[2302.14418v1](http://arxiv.org/abs/2302.14418v1)|**[link](https://github.com/gardlin/pcr-cg)**|
+|**2023-02-28**|**RGB-D Grasp Detection via Depth Guided Learning with Cross-modal Attention**|Ran Qin et.al.|[2302.14264v1](http://arxiv.org/abs/2302.14264v1)|null|
+|**2023-02-27**|**Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning**|Antoine Yang et.al.|[2302.14115v1](http://arxiv.org/abs/2302.14115v1)|null|
+|**2023-02-27**|**Detecting and Mitigating Mode-Collapse for Flow-based Sampling of Lattice Field Theories**|Kim A. Nicoli et.al.|[2302.14082v1](http://arxiv.org/abs/2302.14082v1)|null|
 |**2023-02-27**|**Language Is Not All You Need: Aligning Perception with Language Models**|Shaohan Huang et.al.|[2302.14045v1](http://arxiv.org/abs/2302.14045v1)|null|
 |**2023-02-27**|**Knowledge-enhanced Pre-training for Auto-diagnosis of Chest Radiology Images**|Xiaoman Zhang et.al.|[2302.14042v1](http://arxiv.org/abs/2302.14042v1)|null|
 |**2023-02-27**|**Joint-MAE: 2D-3D Joint Masked Autoencoders for 3D Point Cloud Pre-training**|Ziyu Guo et.al.|[2302.14007v1](http://arxiv.org/abs/2302.14007v1)|null|
 |**2023-02-27**|**Cross-modal Face- and Voice-style Transfer**|Naoya Takahashi et.al.|[2302.13838v1](http://arxiv.org/abs/2302.13838v1)|null|
 |**2023-02-27**|**Contrastive Video Question Answering via Video Graph Transformer**|Junbin Xiao et.al.|[2302.13668v1](http://arxiv.org/abs/2302.13668v1)|null|
-|**2023-02-26**|**Multi-Modality in Music: Predicting Emotion in Music from High-Level Audio Features and Lyrics**|Tibor Krols et.al.|[2302.13321v1](http://arxiv.org/abs/2302.13321v1)|null|
-|**2023-02-26**|**Understanding Social Media Cross-Modality Discourse in Linguistic Space**|Chunpu Xu et.al.|[2302.13311v1](http://arxiv.org/abs/2302.13311v1)|null|
+|**2023-02-26**|**Multi-Modality in Music: Predicting Emotion in Music from High-Level Audio Features and Lyrics**|Tibor Krols et.al.|[2302.13321v1](http://arxiv.org/abs/2302.13321v1)|**[link](https://github.com/tibor-krols/cogsci2-spotify)**|
+|**2023-02-26**|**Understanding Social Media Cross-Modality Discourse in Linguistic Space**|Chunpu Xu et.al.|[2302.13311v1](http://arxiv.org/abs/2302.13311v1)|**[link](https://github.com/cpaaax/multimodal_discourse)**|
 |**2023-02-25**|**Tractable Diversity: Scalable Multiperspective Ontology Management via Standpoint EL**|Lucía Gómez Álvarez et.al.|[2302.13187v1](http://arxiv.org/abs/2302.13187v1)|null|
 |**2023-02-25**|**Knowledge-infused Contrastive Learning for Urban Imagery-based Socioeconomic Prediction**|Yu Liu et.al.|[2302.13094v1](http://arxiv.org/abs/2302.13094v1)|**[link](https://github.com/tsinghua-fib-lab/urbankg-knowcl)**|
 |**2023-02-25**|**BrainCLIP: Bridging Brain and Visual-Linguistic Representation via CLIP for Generic Natural Visual Stimulus Decoding from fMRI**|Yulong Liu et.al.|[2302.12971v1](http://arxiv.org/abs/2302.12971v1)|null|
@@ -270,7 +277,7 @@ layout: default
 |**2022-12-12**|**An Integrated LiDAR-SLAM System for Complex Environment with Noisy Point Clouds**|Kangcheng Liu et.al.|[2212.05705v1](http://arxiv.org/abs/2212.05705v1)|**[link](https://github.com/KangchengLiu/DLC_LiDAR_SLAM)**|
 |**2022-12-05**|**DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**|Xuebo Tian et.al.|[2212.02077v1](http://arxiv.org/abs/2212.02077v1)|null|
 |**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz et.al.|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
-|**2022-11-07**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|**[link](https://github.com/dan11003/CFEAR_Radarodometry)**|
+|**2022-11-07**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|**[link](https://github.com/dan11003/cfear_evaluation)**|
 |**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong et.al.|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|**[link](https://github.com/pengyu-team/dcl-slam)**|
 |**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier et.al.|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|**[link](https://github.com/tiers/tiers-lidars-dataset-enhanced)**|
 |**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang et.al.|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
@@ -376,6 +383,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-02-28**|**IntrinsicNGP: Intrinsic Coordinate based Hash Encoding for Human NeRF**|Bo Peng et.al.|[2302.14683v1](http://arxiv.org/abs/2302.14683v1)|null|
 |**2023-02-27**|**BaLi-RF: Bandlimited Radiance Fields for Dynamic Scene Modeling**|Sameera Ramasinghe et.al.|[2302.13543v1](http://arxiv.org/abs/2302.13543v1)|null|
 |**2023-02-26**|**Efficient physics-informed neural networks using hash encoding**|Xinquan Huang et.al.|[2302.13397v1](http://arxiv.org/abs/2302.13397v1)|null|
 |**2023-02-24**|**CATNIPS: Collision Avoidance Through Neural Implicit Probabilistic Scenes**|Timothy Chen et.al.|[2302.12931v1](http://arxiv.org/abs/2302.12931v1)|null|
