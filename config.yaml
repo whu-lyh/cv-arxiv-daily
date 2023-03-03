@@ -24,12 +24,12 @@ md_wechat_path: './docs/wechat.md'
 keywords:        
     "Kinematic Mapping":
         filters: ["Kinematic Mapping", "Trajectory Estimation", 
-                  "Trajectory Estimation", "Dynamic Networks"]
+                  "Trajectory Estimation"]
     "Map fusion":
         filters: ["Map fusion", "Map merging"]
     "MultiModality":
         filters: ["Multimodel", "Multi-Modality", "Cross-Modality", "Cross-Modality",
-                "Multi model", "Multi Modality", "Cross Modality", "Cross Modality", "Point Cloud image fusion"]
+                "Multi model", "Multi Modality", "Cross Model", "Cross Modality", "Point Cloud Image Fusion"]
     "Point Cloud Localization":
         filters: ["Point Cloud Localization", 
                   "Point Cloud Re-localisation", "Point cloud image registraction",
