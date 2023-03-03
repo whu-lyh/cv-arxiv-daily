@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.02
+## Updated on 2023.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -67,6 +67,13 @@ layout: default
 |**2022-11-15**|**Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction**|Ali Behrouz et.al.|[2211.08378v1](http://arxiv.org/abs/2211.08378v1)|**[link](https://github.com/ubc-systopia/anomuly)**|
 |**2022-11-14**|**Tides Need STEMMED: A Locally Operating Spatio-Temporal Mutually Exciting Point Process with Dynamic Network for Improving Opioid Overdose Death Prediction**|Che-Yi Liao et.al.|[2211.07570v1](http://arxiv.org/abs/2211.07570v1)|null|
 |**2022-11-14**|**Dual-based Online Learning of Dynamic Network Topologies**|Seyed Saman Saboksayr et.al.|[2211.07449v1](http://arxiv.org/abs/2211.07449v1)|null|
+|**2022-12-07**|**Mapping the Milky Way Disk with Gaia DR3: 3D extended kinematic maps and rotation curve to $\approx 30$ kpc**|Hai-Feng Wang et.al.|[2211.05668v2](http://arxiv.org/abs/2211.05668v2)|null|
+|**2022-11-04**|**$D^2$ SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu et.al.|[2211.01538v2](http://arxiv.org/abs/2211.01538v2)|null|
+|**2022-10-26**|**Continuum Robot State Estimation Using Gaussian Process Regression on $SE(3)$**|Sven Lilge et.al.|[2210.14842v1](http://arxiv.org/abs/2210.14842v1)|null|
+|**2022-10-10**|**Floorplan-Aware Camera Poses Refinement**|Anna Sokolova et.al.|[2210.04572v1](http://arxiv.org/abs/2210.04572v1)|null|
+|**2022-10-07**|**The Trajectory PHD Filter for Coexisting Point and Extended Target Tracking**|Shaoxiu Wei et.al.|[2210.03412v1](http://arxiv.org/abs/2210.03412v1)|null|
+|**2022-11-23**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v2](http://arxiv.org/abs/2210.01320v2)|null|
+|**2023-02-22**|**GANet: Goal Area Network for Motion Forecasting**|Mingkun Wang et.al.|[2209.09723v3](http://arxiv.org/abs/2209.09723v3)|**[link](https://github.com/kingwmk/ganet)**|
 
 ## Map fusion
 
@@ -127,6 +134,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-01**|**Cross-Modal Entity Matching for Visually Rich Documents**|Ritesh Sarkhel et.al.|[2303.00720v1](http://arxiv.org/abs/2303.00720v1)|null|
+|**2023-03-01**|**RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training**|Zheng Yuan et.al.|[2303.00534v1](http://arxiv.org/abs/2303.00534v1)|null|
+|**2023-03-01**|**Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision**|Fangqiang Ding et.al.|[2303.00462v1](http://arxiv.org/abs/2303.00462v1)|**[link](https://github.com/toytiny/cmflow)**|
+|**2023-03-01**|**The style transformer with common knowledge optimization for image-text retrieval**|Wenrui Li et.al.|[2303.00448v1](http://arxiv.org/abs/2303.00448v1)|null|
+|**2023-03-02**|**Indescribable Multi-modal Spatial Evaluator**|Lingke Kong et.al.|[2303.00369v2](http://arxiv.org/abs/2303.00369v2)|null|
+|**2023-03-01**|**StrucTexTv2: Masked Visual-Textual Prediction for Document Image Pre-training**|Yuechen Yu et.al.|[2303.00289v1](http://arxiv.org/abs/2303.00289v1)|**[link](https://github.com/PaddlePaddle/VIMER/tree/main/StrucTexT/v2)**|
+|**2023-03-01**|**UAV Tracking with Lidar as a Camera Sensors in GNSS-Denied Environments**|Ha Sier et.al.|[2303.00277v1](http://arxiv.org/abs/2303.00277v1)|null|
+|**2023-03-01**|**Single-Cell Multimodal Prediction via Transformers**|Wenzhuo Tang et.al.|[2303.00233v1](http://arxiv.org/abs/2303.00233v1)|**[link](https://github.com/omicsml/scmoformer)**|
+|**2023-03-01**|**Feature Extraction Matters More: Universal Deepfake Disruption through Attacking Ensemble Feature Extractors**|Long Tang et.al.|[2303.00200v1](http://arxiv.org/abs/2303.00200v1)|null|
+|**2023-02-28**|**Cross-correlated quantum thermometry using diamond containing dual-defect centers**|Madhav Gupta et.al.|[2303.00073v1](http://arxiv.org/abs/2303.00073v1)|null|
+|**2023-02-28**|**Towards Generalisable Video Moment Retrieval: Visual-Dynamic Injection to Image-Text Pre-Training**|Dezhao Luo et.al.|[2303.00040v1](http://arxiv.org/abs/2303.00040v1)|null|
 |**2023-02-28**|**Joint Representations of Text and Knowledge Graphs for Retrieval and Evaluation**|Teven Le Scao et.al.|[2302.14785v1](http://arxiv.org/abs/2302.14785v1)|null|
 |**2023-02-28**|**VQA with Cascade of Self- and Co-Attention Blocks**|Aakansha Mishra et.al.|[2302.14777v1](http://arxiv.org/abs/2302.14777v1)|null|
 |**2023-02-28**|**Exploring Self-supervised Pre-trained ASR Models For Dysarthric and Elderly Speech Recognition**|Shujie Hu et.al.|[2302.14564v1](http://arxiv.org/abs/2302.14564v1)|null|
@@ -217,11 +235,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-01**|**ORCHNet: A Robust Global Feature Aggregation approach for 3D LiDAR-based Place recognition in Orchards**|T. Barros et.al.|[2303.00477v1](http://arxiv.org/abs/2303.00477v1)|**[link](https://github.com/cybonic/orchnet)**|
+|**2023-03-01**|**Region Prediction for Efficient Robot Localization on Large Maps**|Matteo Scucchia et.al.|[2303.00295v1](http://arxiv.org/abs/2303.00295v1)|null|
 |**2023-02-13**|**Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation**|Binqian Jiang et.al.|[2302.06149v1](http://arxiv.org/abs/2302.06149v1)|**[link](https://github.com/lewisjiang/contour-context)**|
 |**2023-01-13**|**A LiDAR-Inertial-Visual SLAM System with Loop Detection**|Kangcheng Liu et.al.|[2301.05604v1](http://arxiv.org/abs/2301.05604v1)|null|
 |**2022-12-24**|**GraffMatch: Global Matching of 3D Lines and Planes for Wide Baseline LiDAR Registration**|Parker C. Lusk et.al.|[2212.12745v1](http://arxiv.org/abs/2212.12745v1)|null|
 |**2022-11-27**|**A Faster, Lighter and Stronger Deep Learning-Based Approach for Place Recognition**|Rui Huang et.al.|[2211.14864v1](http://arxiv.org/abs/2211.14864v1)|null|
-|**2022-11-29**|**Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments**|Joshua Knights et.al.|[2211.12732v2](http://arxiv.org/abs/2211.12732v2)|null|
+|**2023-03-02**|**Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments**|Joshua Knights et.al.|[2211.12732v3](http://arxiv.org/abs/2211.12732v3)|null|
 |**2022-11-02**|**A Framework for Collaborative Multi-Robot Mapping using Spectral Graph Wavelets**|Lukas Bernreiter et.al.|[2210.13856v2](http://arxiv.org/abs/2210.13856v2)|null|
 |**2022-10-20**|**DeepRING: Learning Roto-translation Invariant Representation for LiDAR based Place Recognition**|Sha Lu et.al.|[2210.11029v1](http://arxiv.org/abs/2210.11029v1)|null|
 |**2022-10-10**|**Spectral Geometric Verification: Re-Ranking Point Cloud Retrieval for Metric Localization**|Kavisha Vidanapathirana et.al.|[2210.04432v1](http://arxiv.org/abs/2210.04432v1)|null|
@@ -383,6 +403,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-01**|**S-NeRF: Neural Radiance Fields for Street Views**|Ziyang Xie et.al.|[2303.00749v1](http://arxiv.org/abs/2303.00749v1)|null|
 |**2023-02-28**|**IntrinsicNGP: Intrinsic Coordinate based Hash Encoding for Human NeRF**|Bo Peng et.al.|[2302.14683v1](http://arxiv.org/abs/2302.14683v1)|null|
 |**2023-02-27**|**BaLi-RF: Bandlimited Radiance Fields for Dynamic Scene Modeling**|Sameera Ramasinghe et.al.|[2302.13543v1](http://arxiv.org/abs/2302.13543v1)|null|
 |**2023-02-26**|**Efficient physics-informed neural networks using hash encoding**|Xinquan Huang et.al.|[2302.13397v1](http://arxiv.org/abs/2302.13397v1)|null|
