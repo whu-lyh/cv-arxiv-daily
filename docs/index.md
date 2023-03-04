@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.03
+## Updated on 2023.03.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -134,6 +134,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-02**|**Delivering Arbitrary-Modal Semantic Segmentation**|Jiaming Zhang et.al.|[2303.01480v1](http://arxiv.org/abs/2303.01480v1)|**[link](https://github.com/jamycheung/DELIVER)**|
+|**2023-03-02**|**Zero-Shot Text-to-Parameter Translation for Game Character Auto-Creation**|Rui Zhao et.al.|[2303.01311v1](http://arxiv.org/abs/2303.01311v1)|null|
+|**2023-03-02**|**Learning Language-Conditioned Deformable Object Manipulation with Graph Dynamics**|Kai Mo et.al.|[2303.01310v1](http://arxiv.org/abs/2303.01310v1)|null|
+|**2023-03-02**|**Synthetic Misinformers: Generating and Combating Multimodal Misinformation**|Stefanos-Iordanis Papadopoulos et.al.|[2303.01217v1](http://arxiv.org/abs/2303.01217v1)|null|
+|**2023-03-02**|**I2P-Rec: Recognizing Images on Large-scale Point Cloud Maps through Bird's Eye View Projections**|Yixuan Li et.al.|[2303.01043v1](http://arxiv.org/abs/2303.01043v1)|null|
+|**2023-03-02**|**X-Ray2EM: Uncertainty-Aware Cross-Modality Image Reconstruction from X-Ray to Electron Microscopy in Connectomics**|Yicong Li et.al.|[2303.00882v1](http://arxiv.org/abs/2303.00882v1)|null|
+|**2023-03-01**|**AMIGO: Sparse Multi-Modal Graph Transformer with Shared-Context Processing for Representation Learning of Giga-pixel Images**|Ramin Nakhli et.al.|[2303.00865v1](http://arxiv.org/abs/2303.00865v1)|**[link](https://github.com/raminnakhli/amigo)**|
+|**2023-03-01**|**Survival modelling of smartphone trigger data for earthquake parameter estimation in early warning. With applications to 2023 Turkish-Syrian and 2019 Ridgecrest events**|Luca Aiello et.al.|[2303.00806v1](http://arxiv.org/abs/2303.00806v1)|null|
 |**2023-03-01**|**Cross-Modal Entity Matching for Visually Rich Documents**|Ritesh Sarkhel et.al.|[2303.00720v1](http://arxiv.org/abs/2303.00720v1)|null|
 |**2023-03-01**|**RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training**|Zheng Yuan et.al.|[2303.00534v1](http://arxiv.org/abs/2303.00534v1)|null|
 |**2023-03-01**|**Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision**|Fangqiang Ding et.al.|[2303.00462v1](http://arxiv.org/abs/2303.00462v1)|**[link](https://github.com/toytiny/cmflow)**|
@@ -292,6 +300,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-02**|**Marker-based Visual SLAM leveraging Hierarchical Representations**|Ali Tourani et.al.|[2303.01155v1](http://arxiv.org/abs/2303.01155v1)|null|
 |**2023-02-27**|**Evaluation of Lidar-based 3D SLAM algorithms in SubT environment**|Anton Koval et.al.|[2302.13613v1](http://arxiv.org/abs/2302.13613v1)|null|
 |**2022-12-29**|**An Enhanced LiDAR-Inertial SLAM System for Robotics Localization and Mapping**|Kangcheng Liu et.al.|[2212.14209v1](http://arxiv.org/abs/2212.14209v1)|**[link](https://github.com/KangchengLiu/slam_resources)**|
 |**2022-12-12**|**An Integrated LiDAR-SLAM System for Complex Environment with Noisy Point Clouds**|Kangcheng Liu et.al.|[2212.05705v1](http://arxiv.org/abs/2212.05705v1)|**[link](https://github.com/KangchengLiu/DLC_LiDAR_SLAM)**|
@@ -348,6 +357,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-02**|**BPT: Binary Point Cloud Transformer for Place Recognition**|Zhixing Hou et.al.|[2303.01166v1](http://arxiv.org/abs/2303.01166v1)|null|
 |**2023-02-16**|**Multiscalar field cosmological model and possible solutions using Noether symmetry approach**|Santu Mondal et.al.|[2302.08104v1](http://arxiv.org/abs/2302.08104v1)|null|
 |**2023-01-30**|**Darboux transformations for Dunkl-Schroedinger equations with energy dependent potential and position dependent mass**|Axel Schulze-Halberg et.al.|[2301.11622v2](http://arxiv.org/abs/2301.11622v2)|null|
 |**2023-01-23**|**On uniqueness of submaximally symmetric vector ordinary differential equations of C-class**|Johnson Allen Kessy et.al.|[2301.09364v1](http://arxiv.org/abs/2301.09364v1)|null|
