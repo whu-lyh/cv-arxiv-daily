@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.05
+## Updated on 2023.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -144,7 +144,7 @@ layout: default
 |**2023-03-01**|**Survival modelling of smartphone trigger data for earthquake parameter estimation in early warning. With applications to 2023 Turkish-Syrian and 2019 Ridgecrest events**|Luca Aiello et.al.|[2303.00806v1](http://arxiv.org/abs/2303.00806v1)|null|
 |**2023-03-01**|**Cross-Modal Entity Matching for Visually Rich Documents**|Ritesh Sarkhel et.al.|[2303.00720v1](http://arxiv.org/abs/2303.00720v1)|null|
 |**2023-03-01**|**RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training**|Zheng Yuan et.al.|[2303.00534v1](http://arxiv.org/abs/2303.00534v1)|null|
-|**2023-03-01**|**Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision**|Fangqiang Ding et.al.|[2303.00462v1](http://arxiv.org/abs/2303.00462v1)|**[link](https://github.com/toytiny/cmflow)**|
+|**2023-03-02**|**Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision**|Fangqiang Ding et.al.|[2303.00462v2](http://arxiv.org/abs/2303.00462v2)|**[link](https://github.com/toytiny/cmflow)**|
 |**2023-03-01**|**The style transformer with common knowledge optimization for image-text retrieval**|Wenrui Li et.al.|[2303.00448v1](http://arxiv.org/abs/2303.00448v1)|null|
 |**2023-03-02**|**Indescribable Multi-modal Spatial Evaluator**|Lingke Kong et.al.|[2303.00369v2](http://arxiv.org/abs/2303.00369v2)|null|
 |**2023-03-01**|**StrucTexTv2: Masked Visual-Textual Prediction for Document Image Pre-training**|Yuechen Yu et.al.|[2303.00289v1](http://arxiv.org/abs/2303.00289v1)|**[link](https://github.com/PaddlePaddle/VIMER/tree/main/StrucTexT/v2)**|
