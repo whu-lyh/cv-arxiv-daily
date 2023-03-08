@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.07
+## Updated on 2023.03.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -134,6 +134,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-06**|**PaLM-E: An Embodied Multimodal Language Model**|Danny Driess et.al.|[2303.03378v1](http://arxiv.org/abs/2303.03378v1)|null|
+|**2023-03-06**|**Video Question Answering Using CLIP-Guided Visual-Text Attention**|Shuhong Ye et.al.|[2303.03131v1](http://arxiv.org/abs/2303.03131v1)|null|
+|**2023-03-06**|**A Miniaturised Camera-based Multi-Modal Tactile Sensor**|Kaspar Althoefer et.al.|[2303.03093v1](http://arxiv.org/abs/2303.03093v1)|null|
+|**2023-03-06**|**MOISST: Multi-modal Optimization of Implicit Scene for SpatioTemporal calibration**|Quentin Herau et.al.|[2303.03056v1](http://arxiv.org/abs/2303.03056v1)|null|
+|**2023-03-06**|**DeCap: Decoding CLIP Latents for Zero-Shot Captioning via Text-Only Training**|Wei Li et.al.|[2303.03032v1](http://arxiv.org/abs/2303.03032v1)|**[link](https://github.com/dhg-wei/decap)**|
+|**2023-03-06**|**HiCLIP: Contrastive Language-Image Pretraining with Hierarchy-aware Attention**|Shijie Geng et.al.|[2303.02995v1](http://arxiv.org/abs/2303.02995v1)|**[link](https://github.com/jeykigung/hiclip)**|
+|**2023-03-06**|**Dronument: System for Reliable Deployment of Micro Aerial Vehicles in Dark Areas of Large Historical Monuments**|Pavel Petracek et.al.|[2303.02976v1](http://arxiv.org/abs/2303.02976v1)|null|
+|**2023-03-05**|**Text2Face: A Multi-Modal 3D Face Model**|Will Rowan et.al.|[2303.02688v1](http://arxiv.org/abs/2303.02688v1)|null|
+|**2023-03-05**|**Robust Multi-Modal Multi-LiDAR-Inertial Odometry and Mapping for Indoor Environments**|Li Qingqing et.al.|[2303.02684v1](http://arxiv.org/abs/2303.02684v1)|null|
+|**2023-03-04**|**Prismer: A Vision-Language Model with An Ensemble of Experts**|Shikun Liu et.al.|[2303.02506v1](http://arxiv.org/abs/2303.02506v1)|**[link](https://github.com/nvlabs/prismer)**|
+|**2023-03-04**|**FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks**|Xiao Han et.al.|[2303.02483v1](http://arxiv.org/abs/2303.02483v1)|null|
+|**2023-03-04**|**Chronic Kidney Disease of Unknown Aetiolgy (CKDu)-the search for causes and the impact of its politicization**|Chandre Dharma-wardana et.al.|[2303.02479v1](http://arxiv.org/abs/2303.02479v1)|null|
+|**2023-03-04**|**Local Navigation Among Movable Obstacles with Deep Reinforcement Learning**|Linghong Yao et.al.|[2303.02407v1](http://arxiv.org/abs/2303.02407v1)|null|
+|**2023-03-04**|**APE: An Open and Shared Annotated Dataset for Learning Urban Pedestrian Path Networks**|Yuxiang Zhang et.al.|[2303.02323v1](http://arxiv.org/abs/2303.02323v1)|null|
+|**2023-03-03**|**X $^3$ KD: Knowledge Distillation Across Modalities, Tasks and Stages for Multi-Camera 3D Object Detection**|Marvin Klingner et.al.|[2303.02203v1](http://arxiv.org/abs/2303.02203v1)|null|
 |**2023-03-03**|**Data Association Aware POMDP Planning with Hypothesis Pruning Performance Guarantees**|Moran Barenboim et.al.|[2303.02139v1](http://arxiv.org/abs/2303.02139v1)|null|
 |**2023-03-03**|**BogieCopter: A Multi-Modal Aerial-Ground Vehicle for Long-Endurance Inspection Applications**|Teodoro Dias et.al.|[2303.01933v1](http://arxiv.org/abs/2303.01933v1)|null|
 |**2023-03-02**|**INO at Factify 2: Structure Coherence based Multi-Modal Fact Verification**|Yinuo Zhang et.al.|[2303.01510v1](http://arxiv.org/abs/2303.01510v1)|**[link](https://github.com/catrin-baze/ino-of-factify)**|
@@ -255,7 +270,7 @@ layout: default
 |**2023-03-02**|**Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments**|Joshua Knights et.al.|[2211.12732v3](http://arxiv.org/abs/2211.12732v3)|null|
 |**2022-11-02**|**A Framework for Collaborative Multi-Robot Mapping using Spectral Graph Wavelets**|Lukas Bernreiter et.al.|[2210.13856v2](http://arxiv.org/abs/2210.13856v2)|null|
 |**2022-10-20**|**DeepRING: Learning Roto-translation Invariant Representation for LiDAR based Place Recognition**|Sha Lu et.al.|[2210.11029v1](http://arxiv.org/abs/2210.11029v1)|null|
-|**2022-10-10**|**Spectral Geometric Verification: Re-Ranking Point Cloud Retrieval for Metric Localization**|Kavisha Vidanapathirana et.al.|[2210.04432v1](http://arxiv.org/abs/2210.04432v1)|null|
+|**2023-03-06**|**Spectral Geometric Verification: Re-Ranking Point Cloud Retrieval for Metric Localization**|Kavisha Vidanapathirana et.al.|[2210.04432v2](http://arxiv.org/abs/2210.04432v2)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
 |**2022-11-23**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v2](http://arxiv.org/abs/2210.01320v2)|null|
 |**2022-09-26**|**NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**|Ruihao Zhou et.al.|[2209.12513v1](http://arxiv.org/abs/2209.12513v1)|**[link](https://github.com/zhouruihao1001/ndd)**|
@@ -416,6 +431,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-06**|**Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervisio**|Xiaoshuai Zhang et.al.|[2303.03361v1](http://arxiv.org/abs/2303.03361v1)|null|
+|**2023-03-06**|**Efficient Large-scale Scene Representation with a Hybrid of High-resolution Grid and Plane Features**|Yuqi Zhang et.al.|[2303.03003v1](http://arxiv.org/abs/2303.03003v1)|null|
 |**2023-03-03**|**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**|Jiaxiang Tang et.al.|[2303.02091v1](http://arxiv.org/abs/2303.02091v1)|null|
 |**2023-03-03**|**Multi-Plane Neural Radiance Fields for Novel View Synthesis**|Youssef Abdelkareem et.al.|[2303.01736v1](http://arxiv.org/abs/2303.01736v1)|null|
 |**2023-03-01**|**S-NeRF: Neural Radiance Fields for Street Views**|Ziyang Xie et.al.|[2303.00749v1](http://arxiv.org/abs/2303.00749v1)|null|
