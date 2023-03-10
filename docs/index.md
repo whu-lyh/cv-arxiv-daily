@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.09
+## Updated on 2023.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -134,12 +134,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-07**|**OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception**|Xiaofeng Wang et.al.|[2303.03991v1](http://arxiv.org/abs/2303.03991v1)|null|
+|**2023-03-08**|**CLIP-FO3D: Learning Free Open-world 3D Scene Representations from 2D Dense CLIP**|Junbo Zhang et.al.|[2303.04748v1](http://arxiv.org/abs/2303.04748v1)|null|
+|**2023-03-08**|**New Audio Representations Image Gan Generation from BriVL**|Sen Fang et.al.|[2303.04585v1](http://arxiv.org/abs/2303.04585v1)|**[link](https://github.com/fangsen9000/brivl-generation)**|
+|**2023-03-08**|**A Light Weight Model for Active Speaker Detection**|Junhua Liao et.al.|[2303.04439v1](http://arxiv.org/abs/2303.04439v1)|**[link](https://github.com/junhua-liao/light-asd)**|
+|**2023-03-08**|**Implications of Personality on Cognitive Workload, Affect, and Task Performance in Robot Remote Control**|Go-Eum Cha et.al.|[2303.04398v1](http://arxiv.org/abs/2303.04398v1)|null|
+|**2023-03-08**|**Dynamic Scenario Representation Learning for Motion Forecasting with Heterogeneous Graph Convolutional Recurrent Networks**|Xing Gao et.al.|[2303.04364v1](http://arxiv.org/abs/2303.04364v1)|null|
+|**2023-03-07**|**OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception**|Xiaofeng Wang et.al.|[2303.03991v1](http://arxiv.org/abs/2303.03991v1)|**[link](https://github.com/jeffwang987/openoccupancy)**|
 |**2023-03-07**|**A convergence analysis of a structure-preserving gradient flow method for the all-electron Kohn-Sham model**|Yedan Shen et.al.|[2303.03878v1](http://arxiv.org/abs/2303.03878v1)|null|
-|**2023-03-07**|**LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion**|Xin Li et.al.|[2303.03595v1](http://arxiv.org/abs/2303.03595v1)|null|
+|**2023-03-07**|**LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion**|Xin Li et.al.|[2303.03595v1](http://arxiv.org/abs/2303.03595v1)|**[link](https://github.com/sankin97/logonet)**|
 |**2023-03-06**|**Dual-encoded magnetization transfer and diffusion imaging and its application to tract-specific microstructure mapping**|Ilana R Leppert et.al.|[2303.03449v1](http://arxiv.org/abs/2303.03449v1)|null|
 |**2023-03-06**|**PaLM-E: An Embodied Multimodal Language Model**|Danny Driess et.al.|[2303.03378v1](http://arxiv.org/abs/2303.03378v1)|null|
-|**2023-03-06**|**Video Question Answering Using CLIP-Guided Visual-Text Attention**|Shuhong Ye et.al.|[2303.03131v1](http://arxiv.org/abs/2303.03131v1)|null|
+|**2023-03-08**|**Video Question Answering Using CLIP-Guided Visual-Text Attention**|Shuhong Ye et.al.|[2303.03131v2](http://arxiv.org/abs/2303.03131v2)|null|
 |**2023-03-06**|**A Miniaturised Camera-based Multi-Modal Tactile Sensor**|Kaspar Althoefer et.al.|[2303.03093v1](http://arxiv.org/abs/2303.03093v1)|null|
 |**2023-03-07**|**MOISST: Multi-modal Optimization of Implicit Scene for SpatioTemporal calibration**|Quentin Herau et.al.|[2303.03056v2](http://arxiv.org/abs/2303.03056v2)|null|
 |**2023-03-06**|**DeCap: Decoding CLIP Latents for Zero-Shot Captioning via Text-Only Training**|Wei Li et.al.|[2303.03032v1](http://arxiv.org/abs/2303.03032v1)|**[link](https://github.com/dhg-wei/decap)**|
@@ -379,6 +384,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-08**|**Full Point Encoding for Local Feature Aggregation in 3D Point Clouds**|Yong He et.al.|[2303.04458v1](http://arxiv.org/abs/2303.04458v1)|null|
 |**2023-03-02**|**BPT: Binary Point Cloud Transformer for Place Recognition**|Zhixing Hou et.al.|[2303.01166v1](http://arxiv.org/abs/2303.01166v1)|null|
 |**2023-02-16**|**Multiscalar field cosmological model and possible solutions using Noether symmetry approach**|Santu Mondal et.al.|[2302.08104v1](http://arxiv.org/abs/2302.08104v1)|null|
 |**2023-01-30**|**Darboux transformations for Dunkl-Schroedinger equations with energy dependent potential and position dependent mass**|Axel Schulze-Halberg et.al.|[2301.11622v2](http://arxiv.org/abs/2301.11622v2)|null|
@@ -435,11 +441,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-08**|**FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning**|Seunghwan Lee et.al.|[2303.04508v1](http://arxiv.org/abs/2303.04508v1)|null|
+|**2023-03-08**|**DroNeRF: Real-time Multi-agent Drone Pose Optimization for Computing Neural Radiance Fields**|Dipam Patel et.al.|[2303.04322v1](http://arxiv.org/abs/2303.04322v1)|null|
 |**2023-03-07**|**NEPHELE: A Neural Platform for Highly Realistic Cloud Radiance Rendering**|Haimin Luo et.al.|[2303.04086v1](http://arxiv.org/abs/2303.04086v1)|null|
 |**2023-03-05**|**Semantic-aware Occlusion Filtering Neural Radiance Fields in the Wild**|Jaewon Lee et.al.|[2303.03966v1](http://arxiv.org/abs/2303.03966v1)|null|
 |**2023-03-07**|**Multiscale Tensor Decomposition and Rendering Equation Encoding for View Synthesis**|Kang Han et.al.|[2303.03808v1](http://arxiv.org/abs/2303.03808v1)|null|
 |**2023-03-06**|**Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervisio**|Xiaoshuai Zhang et.al.|[2303.03361v1](http://arxiv.org/abs/2303.03361v1)|null|
-|**2023-03-07**|**Efficient Large-scale Scene Representation with a Hybrid of High-resolution Grid and Plane Features**|Yuqi Zhang et.al.|[2303.03003v2](http://arxiv.org/abs/2303.03003v2)|null|
+|**2023-03-07**|**Efficient Large-scale Scene Representation with a Hybrid of High-resolution Grid and Plane Features**|Yuqi Zhang et.al.|[2303.03003v2](http://arxiv.org/abs/2303.03003v2)|**[link](https://github.com/zyqz97/gp-nerf)**|
 |**2023-03-03**|**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**|Jiaxiang Tang et.al.|[2303.02091v1](http://arxiv.org/abs/2303.02091v1)|null|
 |**2023-03-03**|**Multi-Plane Neural Radiance Fields for Novel View Synthesis**|Youssef Abdelkareem et.al.|[2303.01736v1](http://arxiv.org/abs/2303.01736v1)|null|
 |**2023-03-01**|**S-NeRF: Neural Radiance Fields for Street Views**|Ziyang Xie et.al.|[2303.00749v1](http://arxiv.org/abs/2303.00749v1)|null|
