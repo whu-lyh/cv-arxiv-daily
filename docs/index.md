@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.10
+## Updated on 2023.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -134,6 +134,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-09**|**Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**|Shilong Liu et.al.|[2303.05499v1](http://arxiv.org/abs/2303.05499v1)|null|
+|**2023-03-09**|**MMCosine: Multi-Modal Cosine Loss Towards Balanced Audio-Visual Fine-Grained Learning**|Ruize Xu et.al.|[2303.05338v1](http://arxiv.org/abs/2303.05338v1)|null|
+|**2023-03-09**|**Replacement as a Self-supervision for Fine-grained Vision-language Pre-training**|Lisai Zhang et.al.|[2303.05313v1](http://arxiv.org/abs/2303.05313v1)|null|
+|**2023-03-09**|**MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition**|Xize Cheng et.al.|[2303.05309v1](http://arxiv.org/abs/2303.05309v1)|null|
+|**2023-03-09**|**GOATS: Goal Sampling Adaptation for Scooping with Curriculum Reinforcement Learning**|Yaru Niu et.al.|[2303.05193v1](http://arxiv.org/abs/2303.05193v1)|null|
+|**2023-03-09**|**Improving Video Retrieval by Adaptive Margin**|Feng He et.al.|[2303.05093v1](http://arxiv.org/abs/2303.05093v1)|null|
+|**2023-03-09**|**SSL^2: Self-Supervised Learning meets Semi-Supervised Learning: Multiple Sclerosis Segmentation in 7T-MRI from large-scale 3T-MRI**|Jiacheng Wang et.al.|[2303.05026v1](http://arxiv.org/abs/2303.05026v1)|null|
+|**2023-03-09**|**Exploring Smart Commercial Building Occupants' Perceptions and Notification Preferences of Internet of Things Data Collection in the United States**|Tu Le et.al.|[2303.04955v1](http://arxiv.org/abs/2303.04955v1)|null|
 |**2023-03-08**|**CLIP-FO3D: Learning Free Open-world 3D Scene Representations from 2D Dense CLIP**|Junbo Zhang et.al.|[2303.04748v1](http://arxiv.org/abs/2303.04748v1)|null|
 |**2023-03-08**|**New Audio Representations Image Gan Generation from BriVL**|Sen Fang et.al.|[2303.04585v1](http://arxiv.org/abs/2303.04585v1)|**[link](https://github.com/fangsen9000/brivl-generation)**|
 |**2023-03-08**|**A Light Weight Model for Active Speaker Detection**|Junhua Liao et.al.|[2303.04439v1](http://arxiv.org/abs/2303.04439v1)|**[link](https://github.com/junhua-liao/light-asd)**|
@@ -327,6 +335,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-09**|**SLAMesh: Real-time LiDAR Simultaneous Localization and Meshing**|Jianyuan Ruan et.al.|[2303.05252v1](http://arxiv.org/abs/2303.05252v1)|null|
 |**2023-03-02**|**Marker-based Visual SLAM leveraging Hierarchical Representations**|Ali Tourani et.al.|[2303.01155v1](http://arxiv.org/abs/2303.01155v1)|null|
 |**2023-02-27**|**Evaluation of Lidar-based 3D SLAM algorithms in SubT environment**|Anton Koval et.al.|[2302.13613v1](http://arxiv.org/abs/2302.13613v1)|null|
 |**2022-12-29**|**An Enhanced LiDAR-Inertial SLAM System for Robotics Localization and Mapping**|Kangcheng Liu et.al.|[2212.14209v1](http://arxiv.org/abs/2212.14209v1)|**[link](https://github.com/KangchengLiu/slam_resources)**|
@@ -441,6 +450,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-09**|**PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification**|Xuan Li et.al.|[2303.05512v1](http://arxiv.org/abs/2303.05512v1)|null|
 |**2023-03-08**|**FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning**|Seunghwan Lee et.al.|[2303.04508v1](http://arxiv.org/abs/2303.04508v1)|null|
 |**2023-03-08**|**DroNeRF: Real-time Multi-agent Drone Pose Optimization for Computing Neural Radiance Fields**|Dipam Patel et.al.|[2303.04322v1](http://arxiv.org/abs/2303.04322v1)|null|
 |**2023-03-07**|**NEPHELE: A Neural Platform for Highly Realistic Cloud Radiance Rendering**|Haimin Luo et.al.|[2303.04086v1](http://arxiv.org/abs/2303.04086v1)|null|
