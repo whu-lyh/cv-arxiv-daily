@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.13
+## Updated on 2023.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -68,7 +68,7 @@ layout: default
 |**2022-11-14**|**Tides Need STEMMED: A Locally Operating Spatio-Temporal Mutually Exciting Point Process with Dynamic Network for Improving Opioid Overdose Death Prediction**|Che-Yi Liao et.al.|[2211.07570v1](http://arxiv.org/abs/2211.07570v1)|null|
 |**2022-11-14**|**Dual-based Online Learning of Dynamic Network Topologies**|Seyed Saman Saboksayr et.al.|[2211.07449v1](http://arxiv.org/abs/2211.07449v1)|null|
 |**2022-12-07**|**Mapping the Milky Way Disk with Gaia DR3: 3D extended kinematic maps and rotation curve to $\approx 30$ kpc**|Hai-Feng Wang et.al.|[2211.05668v2](http://arxiv.org/abs/2211.05668v2)|null|
-|**2022-11-04**|**$D^2$ SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu et.al.|[2211.01538v2](http://arxiv.org/abs/2211.01538v2)|null|
+|**2023-03-12**|**$D^2$ SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu et.al.|[2211.01538v3](http://arxiv.org/abs/2211.01538v3)|null|
 |**2022-10-26**|**Continuum Robot State Estimation Using Gaussian Process Regression on $SE(3)$**|Sven Lilge et.al.|[2210.14842v1](http://arxiv.org/abs/2210.14842v1)|null|
 |**2022-10-10**|**Floorplan-Aware Camera Poses Refinement**|Anna Sokolova et.al.|[2210.04572v1](http://arxiv.org/abs/2210.04572v1)|null|
 |**2022-10-07**|**The Trajectory PHD Filter for Coexisting Point and Extended Target Tracking**|Shaoxiu Wei et.al.|[2210.03412v1](http://arxiv.org/abs/2210.03412v1)|null|
@@ -134,10 +134,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-10**|**Single-branch Network for Multimodal Training**|Muhammad Saad Saeed et.al.|[2303.06129v1](http://arxiv.org/abs/2303.06129v1)|**[link](https://github.com/msaadsaeed/sbnet)**|
+|**2023-03-10**|**Understanding and Constructing Latent Modality Structures in Multi-modal Representation Learning**|Qian Jiang et.al.|[2303.05952v1](http://arxiv.org/abs/2303.05952v1)|null|
+|**2023-03-10**|**Learning Decoupled Multi-touch Force Estimation, Localization and Stretch for Soft Capacitive E-skin**|Abu Bakar Dawood et.al.|[2303.05936v1](http://arxiv.org/abs/2303.05936v1)|null|
+|**2023-03-10**|**Analyzing covariate clustering effects in healthcare cost subgroups: insights and applications for prediction**|Zhengxiao Li et.al.|[2303.05793v1](http://arxiv.org/abs/2303.05793v1)|**[link](https://github.com/huangyf2217/fmr-covariates-clustering)**|
+|**2023-03-10**|**CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment**|Jiangbin Zheng et.al.|[2303.05725v1](http://arxiv.org/abs/2303.05725v1)|null|
+|**2023-03-10**|**Simultaneous estimation of multiple eigenvalues with short-depth quantum circuit on early fault-tolerant quantum computers**|Zhiyan Ding et.al.|[2303.05714v1](http://arxiv.org/abs/2303.05714v1)|null|
+|**2023-03-10**|**MuLTI: Efficient Video-and-Language Understanding with MultiWay-Sampler and Multiple Choice Modeling**|Jiaqi Xu et.al.|[2303.05707v1](http://arxiv.org/abs/2303.05707v1)|null|
 |**2023-03-10**|**Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**|Shilong Liu et.al.|[2303.05499v2](http://arxiv.org/abs/2303.05499v2)|**[link](https://github.com/idea-research/groundingdino)**|
-|**2023-03-09**|**MMCosine: Multi-Modal Cosine Loss Towards Balanced Audio-Visual Fine-Grained Learning**|Ruize Xu et.al.|[2303.05338v1](http://arxiv.org/abs/2303.05338v1)|null|
+|**2023-03-11**|**MMCosine: Multi-Modal Cosine Loss Towards Balanced Audio-Visual Fine-Grained Learning**|Ruize Xu et.al.|[2303.05338v2](http://arxiv.org/abs/2303.05338v2)|null|
 |**2023-03-09**|**Replacement as a Self-supervision for Fine-grained Vision-language Pre-training**|Lisai Zhang et.al.|[2303.05313v1](http://arxiv.org/abs/2303.05313v1)|null|
-|**2023-03-09**|**MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition**|Xize Cheng et.al.|[2303.05309v1](http://arxiv.org/abs/2303.05309v1)|null|
+|**2023-03-09**|**MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition**|Xize Cheng et.al.|[2303.05309v1](http://arxiv.org/abs/2303.05309v1)|**[link](https://github.com/exgc/avmust-ted)**|
 |**2023-03-09**|**GOATS: Goal Sampling Adaptation for Scooping with Curriculum Reinforcement Learning**|Yaru Niu et.al.|[2303.05193v1](http://arxiv.org/abs/2303.05193v1)|null|
 |**2023-03-09**|**Improving Video Retrieval by Adaptive Margin**|Feng He et.al.|[2303.05093v1](http://arxiv.org/abs/2303.05093v1)|null|
 |**2023-03-09**|**SSL^2: Self-Supervised Learning meets Semi-Supervised Learning: Multiple Sclerosis Segmentation in 7T-MRI from large-scale 3T-MRI**|Jiacheng Wang et.al.|[2303.05026v1](http://arxiv.org/abs/2303.05026v1)|null|
@@ -337,7 +344,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-03-09**|**SLAMesh: Real-time LiDAR Simultaneous Localization and Meshing**|Jianyuan Ruan et.al.|[2303.05252v1](http://arxiv.org/abs/2303.05252v1)|**[link](https://github.com/lab-sun/slamesh)**|
 |**2023-03-02**|**Marker-based Visual SLAM leveraging Hierarchical Representations**|Ali Tourani et.al.|[2303.01155v1](http://arxiv.org/abs/2303.01155v1)|null|
-|**2023-02-27**|**Evaluation of Lidar-based 3D SLAM algorithms in SubT environment**|Anton Koval et.al.|[2302.13613v1](http://arxiv.org/abs/2302.13613v1)|null|
+|**2023-03-13**|**Evaluation of Lidar-based 3D SLAM algorithms in SubT environment**|Anton Koval et.al.|[2302.13613v2](http://arxiv.org/abs/2302.13613v2)|null|
 |**2022-12-29**|**An Enhanced LiDAR-Inertial SLAM System for Robotics Localization and Mapping**|Kangcheng Liu et.al.|[2212.14209v1](http://arxiv.org/abs/2212.14209v1)|**[link](https://github.com/KangchengLiu/slam_resources)**|
 |**2022-12-12**|**An Integrated LiDAR-SLAM System for Complex Environment with Noisy Point Clouds**|Kangcheng Liu et.al.|[2212.05705v1](http://arxiv.org/abs/2212.05705v1)|**[link](https://github.com/KangchengLiu/DLC_LiDAR_SLAM)**|
 |**2022-12-05**|**DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**|Xuebo Tian et.al.|[2212.02077v1](http://arxiv.org/abs/2212.02077v1)|null|
@@ -450,6 +457,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-10**|**You Only Train Once: Multi-Identity Free-Viewpoint Neural Human Rendering from Monocular Videos**|Jaehyeok Kim et.al.|[2303.05835v1](http://arxiv.org/abs/2303.05835v1)|null|
+|**2023-03-10**|**Aleth-NeRF: Low-light Condition View Synthesis with Concealing Fields**|Ziteng Cui et.al.|[2303.05807v1](http://arxiv.org/abs/2303.05807v1)|null|
+|**2023-03-10**|**Self-NeRF: A Self-Training Pipeline for Few-Shot Neural Radiance Fields**|Jiayang Bai et.al.|[2303.05775v1](http://arxiv.org/abs/2303.05775v1)|null|
+|**2023-03-10**|**Hardware Acceleration of Neural Graphics**|Muhammad Husnain Mubarik et.al.|[2303.05735v1](http://arxiv.org/abs/2303.05735v1)|null|
+|**2023-03-10**|**MovingParts: Motion-based 3D Part Discovery in Dynamic Radiance Field**|Kaizhi Yang et.al.|[2303.05703v1](http://arxiv.org/abs/2303.05703v1)|null|
 |**2023-03-09**|**PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification**|Xuan Li et.al.|[2303.05512v1](http://arxiv.org/abs/2303.05512v1)|null|
 |**2023-03-08**|**FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning**|Seunghwan Lee et.al.|[2303.04508v1](http://arxiv.org/abs/2303.04508v1)|**[link](https://github.com/ROKIT-Healthcare/FastSurf)**|
 |**2023-03-08**|**DroNeRF: Real-time Multi-agent Drone Pose Optimization for Computing Neural Radiance Fields**|Dipam Patel et.al.|[2303.04322v1](http://arxiv.org/abs/2303.04322v1)|null|
