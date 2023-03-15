@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.14
+## Updated on 2023.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -68,7 +68,7 @@ layout: default
 |**2022-11-14**|**Tides Need STEMMED: A Locally Operating Spatio-Temporal Mutually Exciting Point Process with Dynamic Network for Improving Opioid Overdose Death Prediction**|Che-Yi Liao et.al.|[2211.07570v1](http://arxiv.org/abs/2211.07570v1)|null|
 |**2022-11-14**|**Dual-based Online Learning of Dynamic Network Topologies**|Seyed Saman Saboksayr et.al.|[2211.07449v1](http://arxiv.org/abs/2211.07449v1)|null|
 |**2022-12-07**|**Mapping the Milky Way Disk with Gaia DR3: 3D extended kinematic maps and rotation curve to $\approx 30$ kpc**|Hai-Feng Wang et.al.|[2211.05668v2](http://arxiv.org/abs/2211.05668v2)|null|
-|**2023-03-12**|**$D^2$ SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu et.al.|[2211.01538v3](http://arxiv.org/abs/2211.01538v3)|null|
+|**2023-03-12**|**$D^2$ SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu et.al.|[2211.01538v3](http://arxiv.org/abs/2211.01538v3)|**[link](https://github.com/hkust-aerial-robotics/d2slam)**|
 |**2022-10-26**|**Continuum Robot State Estimation Using Gaussian Process Regression on $SE(3)$**|Sven Lilge et.al.|[2210.14842v1](http://arxiv.org/abs/2210.14842v1)|null|
 |**2022-10-10**|**Floorplan-Aware Camera Poses Refinement**|Anna Sokolova et.al.|[2210.04572v1](http://arxiv.org/abs/2210.04572v1)|null|
 |**2022-10-07**|**The Trajectory PHD Filter for Coexisting Point and Extended Target Tracking**|Shaoxiu Wei et.al.|[2210.03412v1](http://arxiv.org/abs/2210.03412v1)|null|
@@ -134,6 +134,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-13**|**Align and Attend: Multimodal Summarization with Dual Contrastive Losses**|Bo He et.al.|[2303.07284v1](http://arxiv.org/abs/2303.07284v1)|**[link](https://github.com/boheumd/A2Summ)**|
+|**2023-03-13**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|Nitzan Bitton-Guetta et.al.|[2303.07274v1](http://arxiv.org/abs/2303.07274v1)|null|
+|**2023-03-13**|**Multimodal Reinforcement Learning for Robots Collaborating with Humans**|Afagh Mehri Shervedani et.al.|[2303.07265v1](http://arxiv.org/abs/2303.07265v1)|null|
+|**2023-03-13**|**A Generalized Multi-Modal Fusion Detection Framework**|Leichao Cui et.al.|[2303.07064v1](http://arxiv.org/abs/2303.07064v1)|null|
+|**2023-03-13**|**Predicting Density of States via Multi-modal Transformer**|Namkyeong Lee et.al.|[2303.07000v1](http://arxiv.org/abs/2303.07000v1)|**[link](https://github.com/heewoongnoh/dostransformer)**|
+|**2023-03-13**|**A Multi-Modal Simulation Framework to Enable Digital Twin-based V2X Communications in Dynamic Environments**|Lorenzo Cazzella et.al.|[2303.06947v1](http://arxiv.org/abs/2303.06947v1)|null|
+|**2023-03-13**|**DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion**|Zixiang Zhao et.al.|[2303.06840v1](http://arxiv.org/abs/2303.06840v1)|null|
+|**2023-03-12**|**Fuzzy Alignments in Directed Acyclic Graph for Non-Autoregressive Machine Translation**|Zhengrui Ma et.al.|[2303.06662v1](http://arxiv.org/abs/2303.06662v1)|**[link](https://github.com/ictnlp/fa-dat)**|
+|**2023-03-12**|**One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale**|Fan Bao et.al.|[2303.06555v1](http://arxiv.org/abs/2303.06555v1)|**[link](https://github.com/thu-ml/unidiffuser)**|
+|**2023-03-12**|**AutoOptLib: A Library of Automatically Designing Metaheuristic Optimization Algorithms in MATLAB**|Qi Zhao et.al.|[2303.06536v1](http://arxiv.org/abs/2303.06536v1)|null|
+|**2023-03-11**|**PARASOL: Parametric Style Control for Diffusion Image Synthesis**|Gemma Canet Tarrés et.al.|[2303.06464v1](http://arxiv.org/abs/2303.06464v1)|null|
+|**2023-03-11**|**An approximate control variates approach to multifidelity distribution estimation**|Ruijian Han et.al.|[2303.06422v1](http://arxiv.org/abs/2303.06422v1)|null|
+|**2023-03-11**|**Variational Gaussian filtering via Wasserstein gradient flows**|Adrie Corenflos et.al.|[2303.06398v1](http://arxiv.org/abs/2303.06398v1)|**[link](https://github.com/hanyas/wasserstein-flow-filter)**|
+|**2023-03-11**|**Learning Grounded Vision-Language Representation for Versatile Understanding in Untrimmed Videos**|Teng Wang et.al.|[2303.06378v1](http://arxiv.org/abs/2303.06378v1)|null|
+|**2023-03-11**|**Semantics-Aware Dynamic Localization and Refinement for Referring Image Segmentation**|Zhao Yang et.al.|[2303.06345v1](http://arxiv.org/abs/2303.06345v1)|null|
 |**2023-03-10**|**Single-branch Network for Multimodal Training**|Muhammad Saad Saeed et.al.|[2303.06129v1](http://arxiv.org/abs/2303.06129v1)|**[link](https://github.com/msaadsaeed/sbnet)**|
 |**2023-03-10**|**Understanding and Constructing Latent Modality Structures in Multi-modal Representation Learning**|Qian Jiang et.al.|[2303.05952v1](http://arxiv.org/abs/2303.05952v1)|null|
 |**2023-03-10**|**Learning Decoupled Multi-touch Force Estimation, Localization and Stretch for Soft Capacitive E-skin**|Abu Bakar Dawood et.al.|[2303.05936v1](http://arxiv.org/abs/2303.05936v1)|null|
@@ -457,10 +472,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-13**|**NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer**|Kun Zhou et.al.|[2303.06919v1](http://arxiv.org/abs/2303.06919v1)|null|
+|**2023-03-11**|**Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**|Minjae Lee et.al.|[2303.06335v1](http://arxiv.org/abs/2303.06335v1)|**[link](https://github.com/minjae-lulu/just-flip)**|
+|**2023-03-10**|**NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering**|Wojciech Zając et.al.|[2303.06226v1](http://arxiv.org/abs/2303.06226v1)|**[link](https://github.com/wojtekz4/nerflame)**|
 |**2023-03-10**|**You Only Train Once: Multi-Identity Free-Viewpoint Neural Human Rendering from Monocular Videos**|Jaehyeok Kim et.al.|[2303.05835v1](http://arxiv.org/abs/2303.05835v1)|null|
 |**2023-03-10**|**Aleth-NeRF: Low-light Condition View Synthesis with Concealing Fields**|Ziteng Cui et.al.|[2303.05807v1](http://arxiv.org/abs/2303.05807v1)|null|
 |**2023-03-10**|**Self-NeRF: A Self-Training Pipeline for Few-Shot Neural Radiance Fields**|Jiayang Bai et.al.|[2303.05775v1](http://arxiv.org/abs/2303.05775v1)|null|
-|**2023-03-10**|**Hardware Acceleration of Neural Graphics**|Muhammad Husnain Mubarik et.al.|[2303.05735v1](http://arxiv.org/abs/2303.05735v1)|null|
+|**2023-03-14**|**Hardware Acceleration of Neural Graphics**|Muhammad Husnain Mubarik et.al.|[2303.05735v2](http://arxiv.org/abs/2303.05735v2)|null|
 |**2023-03-10**|**MovingParts: Motion-based 3D Part Discovery in Dynamic Radiance Field**|Kaizhi Yang et.al.|[2303.05703v1](http://arxiv.org/abs/2303.05703v1)|null|
 |**2023-03-09**|**PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification**|Xuan Li et.al.|[2303.05512v1](http://arxiv.org/abs/2303.05512v1)|null|
 |**2023-03-08**|**FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning**|Seunghwan Lee et.al.|[2303.04508v1](http://arxiv.org/abs/2303.04508v1)|**[link](https://github.com/ROKIT-Healthcare/FastSurf)**|
