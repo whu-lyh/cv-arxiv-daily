@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.15
+## Updated on 2023.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -134,8 +134,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**PiMAE: Point Cloud and Image Interactive Masked Autoencoders for 3D Object Detection**|Anthony Chen et.al.|[2303.08129v1](http://arxiv.org/abs/2303.08129v1)|**[link](https://github.com/blvlab/pimae)**|
+|**2023-03-15**|**Statistical Hardware Design With Multi-model Active Learning**|Alireza Ghaffari et.al.|[2303.08054v2](http://arxiv.org/abs/2303.08054v2)|null|
+|**2023-03-14**|**Reliable Beamforming at Terahertz Bands: Are Causal Representations the Way Forward?**|Christo Kurisummoottil Thomas et.al.|[2303.08017v1](http://arxiv.org/abs/2303.08017v1)|null|
+|**2023-03-14**|**Automated Ensemble Search Framework for Semantic Segmentation Using Medical Imaging Labels**|Erik Ostrowski et.al.|[2303.07896v1](http://arxiv.org/abs/2303.07896v1)|**[link](https://github.com/erikostrowski/automated_ensemble)**|
+|**2023-03-14**|**Data-Free Sketch-Based Image Retrieval**|Abhra Chaudhuri et.al.|[2303.07775v1](http://arxiv.org/abs/2303.07775v1)|null|
+|**2023-03-14**|**Generation-Guided Multi-Level Unified Network for Video Grounding**|Xing Cheng et.al.|[2303.07748v1](http://arxiv.org/abs/2303.07748v1)|null|
+|**2023-03-14**|**ForDigitStress: A multi-modal stress dataset employing a digital job interview scenario**|Alexander Heimerl et.al.|[2303.07742v1](http://arxiv.org/abs/2303.07742v1)|null|
+|**2023-03-14**|**Koos Classification of Vestibular Schwannoma via Image Translation-Based Unsupervised Cross-Modality Domain Adaptation**|Tao Yang et.al.|[2303.07674v1](http://arxiv.org/abs/2303.07674v1)|null|
+|**2023-03-14**|**Improving Music Genre Classification from multi-modal properties of music and genre correlations Perspective**|Ganghui Ru et.al.|[2303.07667v1](http://arxiv.org/abs/2303.07667v1)|null|
+|**2023-03-15**|**Recent Advances and Applications of Machine Learning in Experimental Solid Mechanics: A Review**|Hanxun Jin et.al.|[2303.07647v2](http://arxiv.org/abs/2303.07647v2)|null|
+|**2023-03-14**|**V2V4Real: A Real-world Large-scale Dataset for Vehicle-to-Vehicle Cooperative Perception**|Runsheng Xu et.al.|[2303.07601v1](http://arxiv.org/abs/2303.07601v1)|**[link](https://github.com/ucla-mobility/v2v4real)**|
+|**2023-03-14**|**WDiscOOD: Out-of-Distribution Detection via Whitened Linear Discriminative Analysis**|Yiye Chen et.al.|[2303.07543v1](http://arxiv.org/abs/2303.07543v1)|null|
+|**2023-03-13**|**Audio Visual Language Maps for Robot Navigation**|Chenguang Huang et.al.|[2303.07522v1](http://arxiv.org/abs/2303.07522v1)|null|
 |**2023-03-13**|**Align and Attend: Multimodal Summarization with Dual Contrastive Losses**|Bo He et.al.|[2303.07284v1](http://arxiv.org/abs/2303.07284v1)|**[link](https://github.com/boheumd/A2Summ)**|
-|**2023-03-13**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|Nitzan Bitton-Guetta et.al.|[2303.07274v1](http://arxiv.org/abs/2303.07274v1)|null|
+|**2023-03-14**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|Nitzan Bitton-Guetta et.al.|[2303.07274v2](http://arxiv.org/abs/2303.07274v2)|null|
 |**2023-03-13**|**Multimodal Reinforcement Learning for Robots Collaborating with Humans**|Afagh Mehri Shervedani et.al.|[2303.07265v1](http://arxiv.org/abs/2303.07265v1)|null|
 |**2023-03-13**|**A Generalized Multi-Modal Fusion Detection Framework**|Leichao Cui et.al.|[2303.07064v1](http://arxiv.org/abs/2303.07064v1)|null|
 |**2023-03-13**|**Predicting Density of States via Multi-modal Transformer**|Namkyeong Lee et.al.|[2303.07000v1](http://arxiv.org/abs/2303.07000v1)|**[link](https://github.com/heewoongnoh/dostransformer)**|
@@ -415,6 +428,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**Classical and quantum cosmology in $f(T)$ -gravity theory: A Noether symmetry approach**|Roshni Bhaumik et.al.|[2303.07766v1](http://arxiv.org/abs/2303.07766v1)|null|
 |**2023-03-08**|**Full Point Encoding for Local Feature Aggregation in 3D Point Clouds**|Yong He et.al.|[2303.04458v1](http://arxiv.org/abs/2303.04458v1)|null|
 |**2023-03-02**|**BPT: Binary Point Cloud Transformer for Place Recognition**|Zhixing Hou et.al.|[2303.01166v1](http://arxiv.org/abs/2303.01166v1)|null|
 |**2023-02-16**|**Multiscalar field cosmological model and possible solutions using Noether symmetry approach**|Santu Mondal et.al.|[2302.08104v1](http://arxiv.org/abs/2302.08104v1)|null|
@@ -472,6 +486,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-14**|**MELON: NeRF with Unposed Images Using Equivalence Class Estimation**|Axel Levy et.al.|[2303.08096v1](http://arxiv.org/abs/2303.08096v1)|null|
+|**2023-03-15**|**Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**|Junyoung Seo et.al.|[2303.07937v2](http://arxiv.org/abs/2303.07937v2)|null|
+|**2023-03-14**|**NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-view Images**|Yunfan Ye et.al.|[2303.07653v1](http://arxiv.org/abs/2303.07653v1)|null|
+|**2023-03-14**|**Frequency-Modulated Point Cloud Rendering with Easy Editing**|Yi Zhang et.al.|[2303.07596v1](http://arxiv.org/abs/2303.07596v1)|null|
+|**2023-03-13**|**FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**|Jiawei Yang et.al.|[2303.07418v1](http://arxiv.org/abs/2303.07418v1)|**[link](https://github.com/jiawei-yang/freenerf)**|
 |**2023-03-13**|**NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer**|Kun Zhou et.al.|[2303.06919v1](http://arxiv.org/abs/2303.06919v1)|null|
 |**2023-03-11**|**Just Flip: Flipped Observation Generation and Optimization for Neural Radiance Fields to Cover Unobserved View**|Minjae Lee et.al.|[2303.06335v1](http://arxiv.org/abs/2303.06335v1)|**[link](https://github.com/minjae-lulu/just-flip)**|
 |**2023-03-10**|**NeRFlame: FLAME-based conditioning of NeRF for 3D face rendering**|Wojciech Zając et.al.|[2303.06226v1](http://arxiv.org/abs/2303.06226v1)|**[link](https://github.com/wojtekz4/nerflame)**|
