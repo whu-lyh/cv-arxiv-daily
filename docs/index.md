@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.17
+## Updated on 2023.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -134,6 +134,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-16**|**An Autonomous System for Head-to-Head Race: Design, Implementation and Analysis; Team KAIST at the Indy Autonomous Challenge**|Chanyoung Jung et.al.|[2303.09463v1](http://arxiv.org/abs/2303.09463v1)|null|
+|**2023-03-16**|**Multi-modal Differentiable Unsupervised Feature Selection**|Junchen Yang et.al.|[2303.09381v1](http://arxiv.org/abs/2303.09381v1)|**[link](https://github.com/jcyang34/mmdufs)**|
+|**2023-03-16**|**3D Masked Autoencoding and Pseudo-labeling for Domain Adaptive Segmentation of Heterogeneous Infant Brain MRI**|Xuzhe Zhang et.al.|[2303.09373v1](http://arxiv.org/abs/2303.09373v1)|null|
+|**2023-03-16**|**Goal-conditioned Offline Reinforcement Learning through State Space Partitioning**|Mianchu Wang et.al.|[2303.09367v1](http://arxiv.org/abs/2303.09367v1)|null|
+|**2023-03-16**|**Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation**|Yiyang Ma et.al.|[2303.09319v1](http://arxiv.org/abs/2303.09319v1)|null|
+|**2023-03-16**|**SpectralCLIP: Preventing Artifacts in Text-Guided Style Transfer from a Spectral Perspective**|Zipeng Xu et.al.|[2303.09270v1](http://arxiv.org/abs/2303.09270v1)|null|
+|**2023-03-16**|**Emotional Reaction Intensity Estimation Based on Multimodal Data**|Shangfei Wang et.al.|[2303.09167v1](http://arxiv.org/abs/2303.09167v1)|null|
+|**2023-03-16**|**Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation**|Lingting Zhu et.al.|[2303.09119v1](http://arxiv.org/abs/2303.09119v1)|**[link](https://github.com/advocate99/diffgesture)**|
+|**2023-03-16**|**Visual-Linguistic Causal Intervention for Radiology Report Generation**|Weixing Chen et.al.|[2303.09117v1](http://arxiv.org/abs/2303.09117v1)|null|
+|**2023-03-15**|**Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution**|Zixiang Zhao et.al.|[2303.08942v1](http://arxiv.org/abs/2303.08942v1)|null|
 |**2023-03-15**|**SpiderMesh: Spatial-aware Demand-guided Recursive Meshing for RGB-T Semantic Segmentation**|Siqi Fan et.al.|[2303.08692v1](http://arxiv.org/abs/2303.08692v1)|**[link](https://github.com/leofansq/spidermesh)**|
 |**2023-03-15**|**MSeg3D: Multi-modal 3D Semantic Segmentation for Autonomous Driving**|Jiale Li et.al.|[2303.08600v1](http://arxiv.org/abs/2303.08600v1)|**[link](https://github.com/jialeli1/lidarseg3d)**|
 |**2023-03-15**|**MGA: Medical generalist agent through text-guided knowledge transformation**|Weijian Huang et.al.|[2303.08562v1](http://arxiv.org/abs/2303.08562v1)|null|
@@ -496,6 +506,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-16**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554v1](http://arxiv.org/abs/2303.09554v1)|null|
+|**2023-03-16**|**LERF: Language Embedded Radiance Fields**|Justin Kerr et.al.|[2303.09553v1](http://arxiv.org/abs/2303.09553v1)|null|
+|**2023-03-16**|**NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes**|Marie-Julie Rakotosaona et.al.|[2303.09431v1](http://arxiv.org/abs/2303.09431v1)|null|
+|**2023-03-16**|**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**|Hannah Schieber et.al.|[2303.09412v1](http://arxiv.org/abs/2303.09412v1)|null|
+|**2023-03-16**|**Reliable Image Dehazing by NeRF**|Zheyan Jin et.al.|[2303.09153v1](http://arxiv.org/abs/2303.09153v1)|null|
 |**2023-03-15**|**Mesh Strikes Back: Fast and Efficient Human Reconstruction from RGB videos**|Rohit Jena et.al.|[2303.08808v1](http://arxiv.org/abs/2303.08808v1)|null|
 |**2023-03-15**|**Re-ReND: Real-time Rendering of NeRFs across Devices**|Sara Rojas et.al.|[2303.08717v1](http://arxiv.org/abs/2303.08717v1)|null|
 |**2023-03-15**|**RefiNeRF: Modelling dynamic neural radiance fields with inconsistent or missing camera parameters**|Shuja Khalid et.al.|[2303.08695v1](http://arxiv.org/abs/2303.08695v1)|null|
