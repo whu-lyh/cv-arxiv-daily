@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.19
+## Updated on 2023.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -46,7 +46,7 @@ layout: default
 |**2022-12-15**|**Topological Data Analysis Detects Percolation Thresholds in Arctic Melt-Pond Evolution**|Wilfred Offord et.al.|[2212.07961v1](http://arxiv.org/abs/2212.07961v1)|**[link](https://github.com/wilfofford/tda-for-sea-ice-percolation)**|
 |**2022-12-12**|**Evaluation of RGB-D SLAM in Large Indoor Environments**|Kirill Muravyev et.al.|[2212.05980v1](http://arxiv.org/abs/2212.05980v1)|null|
 |**2022-12-07**|**On the application of dimensionality reduction and clustering algorithms for the classification of kinematic morphologies of galaxies**|M. S. Rosito et.al.|[2212.03999v1](http://arxiv.org/abs/2212.03999v1)|null|
-|**2022-12-05**|**Antipodal Self-Duality for a Four-Particle Form Factor**|Lance J. Dixon et.al.|[2212.02410v1](http://arxiv.org/abs/2212.02410v1)|null|
+|**2023-03-17**|**Antipodal Self-Duality for a Four-Particle Form Factor**|Lance J. Dixon et.al.|[2212.02410v2](http://arxiv.org/abs/2212.02410v2)|null|
 |**2022-12-05**|**An Approach for Detecting Dynamic Communities in Social Networks**|Souaad Boudebza et.al.|[2212.02383v1](http://arxiv.org/abs/2212.02383v1)|**[link](https://github.com/Yquetzal/ECML_PKDD_2019)**|
 |**2022-12-03**|**Parameterized temporal exploration problems**|Thomas Erlebach et.al.|[2212.01594v1](http://arxiv.org/abs/2212.01594v1)|null|
 |**2022-11-30**|**Boosted Dynamic Neural Networks**|Haichao Yu et.al.|[2211.16726v1](http://arxiv.org/abs/2211.16726v1)|**[link](https://github.com/SHI-Labs/Boosted-Dynamic-Networks)**|
@@ -509,7 +509,7 @@ layout: default
 |**2023-03-16**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554v1](http://arxiv.org/abs/2303.09554v1)|null|
 |**2023-03-16**|**LERF: Language Embedded Radiance Fields**|Justin Kerr et.al.|[2303.09553v1](http://arxiv.org/abs/2303.09553v1)|null|
 |**2023-03-16**|**NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes**|Marie-Julie Rakotosaona et.al.|[2303.09431v1](http://arxiv.org/abs/2303.09431v1)|null|
-|**2023-03-16**|**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**|Hannah Schieber et.al.|[2303.09412v1](http://arxiv.org/abs/2303.09412v1)|**[link](https://github.com/hannahhaensen/nerftrinsic_four)**|
+|**2023-03-17**|**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**|Hannah Schieber et.al.|[2303.09412v2](http://arxiv.org/abs/2303.09412v2)|**[link](https://github.com/hannahhaensen/nerftrinsic_four)**|
 |**2023-03-16**|**Reliable Image Dehazing by NeRF**|Zheyan Jin et.al.|[2303.09153v1](http://arxiv.org/abs/2303.09153v1)|null|
 |**2023-03-15**|**Mesh Strikes Back: Fast and Efficient Human Reconstruction from RGB videos**|Rohit Jena et.al.|[2303.08808v1](http://arxiv.org/abs/2303.08808v1)|null|
 |**2023-03-15**|**Re-ReND: Real-time Rendering of NeRFs across Devices**|Sara Rojas et.al.|[2303.08717v1](http://arxiv.org/abs/2303.08717v1)|null|
