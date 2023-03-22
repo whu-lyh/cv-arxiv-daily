@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.21
+## Updated on 2023.03.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -134,6 +134,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**Non-Markovian paths and cycles in NFT trades**|Haaroon Yousaf et.al.|[2303.11181v1](http://arxiv.org/abs/2303.11181v1)|null|
+|**2023-03-20**|**Scene Graph Based Fusion Network For Image-Text Retrieval**|Guoliang Wang et.al.|[2303.11090v1](http://arxiv.org/abs/2303.11090v1)|null|
+|**2023-03-20**|**Leapfrog Diffusion Model for Stochastic Trajectory Prediction**|Weibo Mao et.al.|[2303.10895v1](http://arxiv.org/abs/2303.10895v1)|**[link](https://github.com/mediabrain-sjtu/led)**|
+|**2023-03-21**|**Rotating Objects via In-Hand Pivoting using Vision, Force and Touch**|Shiyu Xu et.al.|[2303.10865v2](http://arxiv.org/abs/2303.10865v2)|null|
+|**2023-03-20**|**Facial Affective Analysis based on MAE and Multi-modal Information for 5th ABAW Competition**|Wei Zhang et.al.|[2303.10849v1](http://arxiv.org/abs/2303.10849v1)|null|
+|**2023-03-21**|**MXM-CLR: A Unified Framework for Contrastive Learning of Multifold Cross-Modal Representations**|Ye Wang et.al.|[2303.10839v2](http://arxiv.org/abs/2303.10839v2)|null|
+|**2023-03-20**|**Bifurcation analysis of the Keynesian cross model**|Xinyu Li et.al.|[2303.10835v1](http://arxiv.org/abs/2303.10835v1)|null|
+|**2023-03-20**|**Visual Prompt Multi-Modal Tracking**|Jiawen Zhu et.al.|[2303.10826v1](http://arxiv.org/abs/2303.10826v1)|null|
+|**2023-03-19**|**PheME: A deep ensemble framework for improving phenotype prediction from multi-modal data**|Shenghan Zhang et.al.|[2303.10794v1](http://arxiv.org/abs/2303.10794v1)|null|
+|**2023-03-21**|**Multi-modal reward for visual relationships-based image captioning**|Ali Abedi et.al.|[2303.10766v2](http://arxiv.org/abs/2303.10766v2)|null|
+|**2023-03-19**|**Audio-Text Models Do Not Yet Leverage Natural Language**|Ho-Hsiang Wu et.al.|[2303.10667v1](http://arxiv.org/abs/2303.10667v1)|null|
+|**2023-03-19**|**Multi-modal Facial Action Unit Detection with Large Pre-trained Models for the 5th Competition on Affective Behavior Analysis in-the-wild**|Yufeng Yin et.al.|[2303.10590v1](http://arxiv.org/abs/2303.10590v1)|null|
+|**2023-03-19**|**CLIP4MC: An RL-Friendly Vision-Language Model for Minecraft**|Ziluo Ding et.al.|[2303.10571v1](http://arxiv.org/abs/2303.10571v1)|null|
+|**2023-03-18**|**Multi-Modal Continual Test-Time Adaptation for 3D Semantic Segmentation**|Haozhi Cao et.al.|[2303.10457v1](http://arxiv.org/abs/2303.10457v1)|null|
+|**2023-03-18**|**3DQD: Generalized Deep 3D Shape Prior via Part-Discretized Diffusion Process**|Yuhan Li et.al.|[2303.10406v1](http://arxiv.org/abs/2303.10406v1)|**[link](https://github.com/colorful-liyu/3dqd)**|
 |**2023-03-17**|**GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation**|Can Qin et.al.|[2303.10056v1](http://arxiv.org/abs/2303.10056v1)|null|
 |**2023-03-17**|**Multi-modal Expression Recognition with Ensemble Method**|Chuanhe Liu et.al.|[2303.10033v1](http://arxiv.org/abs/2303.10033v1)|null|
 |**2023-03-20**|**MedLocker: A Transferable Adversarial Watermarking for Preventing Unauthorized Analysis of Medical Image Dataset**|Bangzheng Pu et.al.|[2303.09858v2](http://arxiv.org/abs/2303.09858v2)|null|
@@ -517,9 +532,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**ContraNeRF: Generalizable Neural Radiance Fields for Synthetic-to-real Novel View Synthesis via Contrastive Learning**|Hao Yang et.al.|[2303.11052v1](http://arxiv.org/abs/2303.11052v1)|null|
+|**2023-03-19**|**SKED: Sketch-guided Text-based 3D Editing**|Aryan Mikaeili et.al.|[2303.10735v1](http://arxiv.org/abs/2303.10735v1)|null|
+|**2023-03-19**|**NeRF-LOAM: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping**|Junyuan Deng et.al.|[2303.10709v1](http://arxiv.org/abs/2303.10709v1)|**[link](https://github.com/junyuandeng/nerf-loam)**|
+|**2023-03-18**|**3D Data Augmentation for Driving Scenes on Camera**|Wenwen Tong et.al.|[2303.10340v1](http://arxiv.org/abs/2303.10340v1)|null|
 |**2023-03-17**|**$α$ Surf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity**|Tianhao Wu et.al.|[2303.10083v1](http://arxiv.org/abs/2303.10083v1)|null|
 |**2023-03-17**|**Single-view Neural Radiance Fields with Depth Teacher**|Yurui Chen et.al.|[2303.09952v1](http://arxiv.org/abs/2303.09952v1)|null|
-|**2023-03-20**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554v2](http://arxiv.org/abs/2303.09554v2)|null|
+|**2023-03-21**|**PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision**|Konstantinos Tertikas et.al.|[2303.09554v3](http://arxiv.org/abs/2303.09554v3)|null|
 |**2023-03-16**|**LERF: Language Embedded Radiance Fields**|Justin Kerr et.al.|[2303.09553v1](http://arxiv.org/abs/2303.09553v1)|null|
 |**2023-03-16**|**NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes**|Marie-Julie Rakotosaona et.al.|[2303.09431v1](http://arxiv.org/abs/2303.09431v1)|null|
 |**2023-03-17**|**NeRFtrinsic Four: An End-To-End Trainable NeRF Jointly Optimizing Diverse Intrinsic and Extrinsic Camera Parameters**|Hannah Schieber et.al.|[2303.09412v2](http://arxiv.org/abs/2303.09412v2)|**[link](https://github.com/hannahhaensen/nerftrinsic_four)**|
