@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.23
+## Updated on 2023.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -134,6 +134,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-22**|**Cross-Modal Implicit Relation Reasoning and Aligning for Text-to-Image Person Retrieval**|Ding Jiang et.al.|[2303.12501v1](http://arxiv.org/abs/2303.12501v1)|**[link](https://github.com/anosorae/irra)**|
+|**2023-03-22**|**MEDIMP: Medical Images and Prompts for renal transplant representation learning**|Leo Milecki et.al.|[2303.12445v1](http://arxiv.org/abs/2303.12445v1)|**[link](https://github.com/leomlck/medimp)**|
+|**2023-03-22**|**Text with Knowledge Graph Augmented Transformer for Video Captioning**|Xin Gu et.al.|[2303.12423v1](http://arxiv.org/abs/2303.12423v1)|null|
+|**2023-03-22**|**BiCro: Noisy Correspondence Rectification for Multi-modality Data via Bi-directional Cross-modal Similarity Consistency**|Shuo Yang et.al.|[2303.12419v1](http://arxiv.org/abs/2303.12419v1)|**[link](https://github.com/xu5zhao/bicro)**|
+|**2023-03-22**|**CLIP^2: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data**|Yihan Zeng et.al.|[2303.12417v1](http://arxiv.org/abs/2303.12417v1)|null|
+|**2023-03-22**|**VMCML: Video and Music Matching via Cross-Modality Lifting**|Yi-Shan Lee et.al.|[2303.12379v1](http://arxiv.org/abs/2303.12379v1)|null|
+|**2023-03-21**|**Positive-Augmented Constrastive Learning for Image and Video Captioning Evaluation**|Sara Sarto et.al.|[2303.12112v1](http://arxiv.org/abs/2303.12112v1)|**[link](https://github.com/aimagelab/pacscore)**|
 |**2023-03-21**|**VideoXum: Cross-modal Visual and Textural Summarization of Videos**|Jingyang Lin et.al.|[2303.12060v1](http://arxiv.org/abs/2303.12060v1)|null|
 |**2023-03-21**|**Self-Sufficient Framework for Continuous Sign Language Recognition**|Youngjoon Jang et.al.|[2303.11771v1](http://arxiv.org/abs/2303.11771v1)|null|
 |**2023-03-21**|**Multi-modal Prompting for Low-Shot Temporal Action Localization**|Chen Ju et.al.|[2303.11732v1](http://arxiv.org/abs/2303.11732v1)|null|
@@ -536,6 +543,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-22**|**SHERF: Generalizable Human NeRF from a Single Image**|Shoukang Hu et.al.|[2303.12791v1](http://arxiv.org/abs/2303.12791v1)|**[link](https://github.com/skhu101/sherf)**|
+|**2023-03-22**|**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**|Ayaan Haque et.al.|[2303.12789v1](http://arxiv.org/abs/2303.12789v1)|null|
+|**2023-03-22**|**FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models**|Jianglong Ye et.al.|[2303.12786v1](http://arxiv.org/abs/2303.12786v1)|null|
+|**2023-03-22**|**Balanced Spherical Grid for Egocentric View Synthesis**|Changwoon Choi et.al.|[2303.12408v1](http://arxiv.org/abs/2303.12408v1)|**[link](https://github.com/changwoonchoi/EgoNeRF)**|
+|**2023-03-21**|**Pre-NeRF 360: Enriching Unbounded Appearances for Neural Radiance Fields**|Ahmad AlMughrabi et.al.|[2303.12234v1](http://arxiv.org/abs/2303.12234v1)|null|
 |**2023-03-21**|**3D-CLFusion: Fast Text-to-3D Rendering with Contrastive Latent Diffusion**|Yu-Jhe Li et.al.|[2303.11938v1](http://arxiv.org/abs/2303.11938v1)|null|
 |**2023-03-22**|**ExtremeNeRF: Few-shot Neural Radiance Fields Under Unconstrained Illumination**|SeokYeong Lee et.al.|[2303.11728v2](http://arxiv.org/abs/2303.11728v2)|null|
 |**2023-03-20**|**DehazeNeRF: Multiple Image Haze Removal and 3D Shape Reconstruction using Neural Radiance Fields**|Wei-Ting Chen et.al.|[2303.11364v1](http://arxiv.org/abs/2303.11364v1)|null|
