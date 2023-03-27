@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.26
+## Updated on 2023.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -27,7 +27,7 @@ layout: default
 |**2023-02-05**|**A Game-Theoretic Approach to Solving the Roman Domination Problem**|Xiuyang Chen et.al.|[2302.02313v1](http://arxiv.org/abs/2302.02313v1)|null|
 |**2023-02-03**|**Coevolving Boolean and Multi-Valued Regulatory Networks**|Larry Bull et.al.|[2302.01694v1](http://arxiv.org/abs/2302.01694v1)|null|
 |**2023-01-30**|**Quantifying and maximizing the information flux in recurrent neural networks**|Claus Metzner et.al.|[2301.12892v1](http://arxiv.org/abs/2301.12892v1)|null|
-|**2023-01-28**|**Perspective: How to overcome dynamical density functional theory**|Daniel de las Heras et.al.|[2301.12156v1](http://arxiv.org/abs/2301.12156v1)|null|
+|**2023-03-23**|**Perspective: How to overcome dynamical density functional theory**|Daniel de las Heras et.al.|[2301.12156v2](http://arxiv.org/abs/2301.12156v2)|null|
 |**2023-02-01**|**Strategy evolution on dynamic networks**|Qi Su et.al.|[2301.11982v2](http://arxiv.org/abs/2301.11982v2)|null|
 |**2023-01-26**|**Scheduling Policy for Value-of-Information (VoI) in Trajectory Estimation for Digital Twins**|Van-Phuc Bui et.al.|[2301.10962v1](http://arxiv.org/abs/2301.10962v1)|null|
 |**2023-01-19**|**Efficient Computation in Congested Anonymous Dynamic Networks**|Giuseppe A. Di Luna et.al.|[2301.07849v1](http://arxiv.org/abs/2301.07849v1)|null|
@@ -144,7 +144,7 @@ layout: default
 |**2023-03-23**|**gDoc: Automatic Generation of Structured API Documentation**|Shujun Wang et.al.|[2303.13041v1](http://arxiv.org/abs/2303.13041v1)|null|
 |**2023-03-23**|**MELTR: Meta Loss Transformer for Learning to Fine-tune Video Foundation Models**|Dohwan Ko et.al.|[2303.13009v1](http://arxiv.org/abs/2303.13009v1)|**[link](https://github.com/mlvlab/MELTR)**|
 |**2023-03-23**|**FER-former: Multi-modal Transformer for Facial Expression Recognition**|Yande Li et.al.|[2303.12997v1](http://arxiv.org/abs/2303.12997v1)|null|
-|**2023-03-22**|**Dense-Localizing Audio-Visual Events in Untrimmed Videos: A Large-Scale Benchmark and Baseline**|Tiantian Geng et.al.|[2303.12930v1](http://arxiv.org/abs/2303.12930v1)|null|
+|**2023-03-24**|**Dense-Localizing Audio-Visual Events in Untrimmed Videos: A Large-Scale Benchmark and Baseline**|Tiantian Geng et.al.|[2303.12930v2](http://arxiv.org/abs/2303.12930v2)|null|
 |**2023-03-22**|**Cross-Modal Implicit Relation Reasoning and Aligning for Text-to-Image Person Retrieval**|Ding Jiang et.al.|[2303.12501v1](http://arxiv.org/abs/2303.12501v1)|**[link](https://github.com/anosorae/irra)**|
 |**2023-03-22**|**MEDIMP: Medical Images and Prompts for renal transplant representation learning**|Leo Milecki et.al.|[2303.12445v1](http://arxiv.org/abs/2303.12445v1)|**[link](https://github.com/leomlck/medimp)**|
 |**2023-03-22**|**Text with Knowledge Graph Augmented Transformer for Video Captioning**|Xin Gu et.al.|[2303.12423v1](http://arxiv.org/abs/2303.12423v1)|null|
@@ -444,7 +444,7 @@ layout: default
 |**2022-12-12**|**An Integrated LiDAR-SLAM System for Complex Environment with Noisy Point Clouds**|Kangcheng Liu et.al.|[2212.05705v1](http://arxiv.org/abs/2212.05705v1)|**[link](https://github.com/KangchengLiu/DLC_LiDAR_SLAM)**|
 |**2022-12-05**|**DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**|Xuebo Tian et.al.|[2212.02077v1](http://arxiv.org/abs/2212.02077v1)|null|
 |**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz et.al.|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
-|**2022-11-07**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|**[link](https://github.com/dan11003/cfear_evaluation)**|
+|**2022-11-07**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|**[link](https://github.com/dan11003/CFEAR_Radarodometry)**|
 |**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong et.al.|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|**[link](https://github.com/pengyu-team/dcl-slam)**|
 |**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier et.al.|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|**[link](https://github.com/tiers/tiers-lidars-dataset-enhanced)**|
 |**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang et.al.|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
@@ -564,7 +564,7 @@ layout: default
 |**2023-03-22**|**SHERF: Generalizable Human NeRF from a Single Image**|Shoukang Hu et.al.|[2303.12791v1](http://arxiv.org/abs/2303.12791v1)|**[link](https://github.com/skhu101/sherf)**|
 |**2023-03-22**|**Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions**|Ayaan Haque et.al.|[2303.12789v1](http://arxiv.org/abs/2303.12789v1)|null|
 |**2023-03-22**|**FeatureNeRF: Learning Generalizable NeRFs by Distilling Foundation Models**|Jianglong Ye et.al.|[2303.12786v1](http://arxiv.org/abs/2303.12786v1)|null|
-|**2023-03-22**|**Balanced Spherical Grid for Egocentric View Synthesis**|Changwoon Choi et.al.|[2303.12408v1](http://arxiv.org/abs/2303.12408v1)|**[link](https://github.com/changwoonchoi/EgoNeRF)**|
+|**2023-03-24**|**Balanced Spherical Grid for Egocentric View Synthesis**|Changwoon Choi et.al.|[2303.12408v2](http://arxiv.org/abs/2303.12408v2)|**[link](https://github.com/changwoonchoi/EgoNeRF)**|
 |**2023-03-21**|**Pre-NeRF 360: Enriching Unbounded Appearances for Neural Radiance Fields**|Ahmad AlMughrabi et.al.|[2303.12234v1](http://arxiv.org/abs/2303.12234v1)|null|
 |**2023-03-21**|**3D-CLFusion: Fast Text-to-3D Rendering with Contrastive Latent Diffusion**|Yu-Jhe Li et.al.|[2303.11938v1](http://arxiv.org/abs/2303.11938v1)|null|
 |**2023-03-22**|**ExtremeNeRF: Few-shot Neural Radiance Fields Under Unconstrained Illumination**|SeokYeong Lee et.al.|[2303.11728v2](http://arxiv.org/abs/2303.11728v2)|null|
