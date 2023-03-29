@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.28
+## Updated on 2023.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -135,6 +135,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-27**|**Quantum Multi-Model Fitting**|Matteo Farina et.al.|[2303.15444v1](http://arxiv.org/abs/2303.15444v1)|**[link](https://github.com/farinamatteo/qmmf)**|
+|**2023-03-27**|**Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning**|Siteng Huang et.al.|[2303.15230v1](http://arxiv.org/abs/2303.15230v1)|null|
+|**2023-03-27**|**Knowing the Distance: Understanding the Gap Between Synthetic and Real Data For Face Parsing**|Eli Friedman et.al.|[2303.15219v1](http://arxiv.org/abs/2303.15219v1)|null|
+|**2023-03-27**|**Contrastive Learning Is Spectral Clustering On Similarity Graph**|Zhiquan Tan et.al.|[2303.15103v1](http://arxiv.org/abs/2303.15103v1)|null|
+|**2023-03-27**|**UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View**|Shengchao Zhou et.al.|[2303.15083v1](http://arxiv.org/abs/2303.15083v1)|**[link](https://github.com/megvii-research/cvpr2023-unidistill)**|
+|**2023-03-27**|**Borrowing Human Senses: Comment-Aware Self-Training for Social Media Multimodal Classification**|Chunpu Xu et.al.|[2303.15016v1](http://arxiv.org/abs/2303.15016v1)|**[link](https://github.com/cpaaax/multimodal_cast)**|
+|**2023-03-27**|**Curriculum Learning for Compositional Visual Reasoning**|Wafa Aissa et.al.|[2303.15006v1](http://arxiv.org/abs/2303.15006v1)|null|
+|**2023-03-27**|**Multi-view Cross-Modality MR Image Translation for Vestibular Schwannoma and Cochlea Segmentation**|Bogyeong Kang et.al.|[2303.14998v1](http://arxiv.org/abs/2303.14998v1)|null|
+|**2023-03-27**|**Toward Human-Like Social Robot Navigation: A Large-Scale, Multi-Modal, Social Human Navigation Dataset**|Duc M. Nguyen et.al.|[2303.14880v1](http://arxiv.org/abs/2303.14880v1)|null|
+|**2023-03-27**|**Revisiting Multimodal Representation in Contrastive Learning: From Patch and Token Embeddings to Finite Discrete Tokens**|Yuxiao Chen et.al.|[2303.14865v1](http://arxiv.org/abs/2303.14865v1)|null|
+|**2023-03-26**|**On the Importance of Accurate Geometry Data for Dense 3D Vision Tasks**|HyunJun Jung et.al.|[2303.14840v1](http://arxiv.org/abs/2303.14840v1)|null|
+|**2023-03-26**|**Collaborative Noisy Label Cleaner: Learning Scene-aware Trailers for Multi-modal Highlight Detection in Movies**|Bei Gan et.al.|[2303.14768v1](http://arxiv.org/abs/2303.14768v1)|null|
+|**2023-03-26**|**Semantic Neural Decoding via Cross-Modal Generation**|Xuelin Qian et.al.|[2303.14730v1](http://arxiv.org/abs/2303.14730v1)|null|
+|**2023-03-26**|**Generalization Matters: Loss Minima Flattening via Parameter Hybridization for Efficient Online Knowledge Distillation**|Tianli Zhang et.al.|[2303.14666v1](http://arxiv.org/abs/2303.14666v1)|null|
+|**2023-03-26**|**MRCN: A Novel Modality Restitution and Compensation Network for Visible-Infrared Person Re-identification**|Yukang Zhang et.al.|[2303.14626v1](http://arxiv.org/abs/2303.14626v1)|null|
 |**2023-03-24**|**Local Contrastive Learning for Medical Image Recognition**|S. A. Rizvi et.al.|[2303.14153v1](http://arxiv.org/abs/2303.14153v1)|null|
 |**2023-03-24**|**MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion**|Yizhuo Lu et.al.|[2303.14139v1](http://arxiv.org/abs/2303.14139v1)|null|
 |**2023-03-24**|**CoLa-Diff: Conditional Latent Diffusion Model for Multi-Modal MRI Synthesis**|Lan Jiang et.al.|[2303.14081v1](http://arxiv.org/abs/2303.14081v1)|null|
@@ -400,7 +415,7 @@ layout: default
 |**2022-11-23**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v2](http://arxiv.org/abs/2210.01320v2)|null|
 |**2022-09-26**|**NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**|Ruihao Zhou et.al.|[2209.12513v1](http://arxiv.org/abs/2209.12513v1)|**[link](https://github.com/zhouruihao1001/ndd)**|
 |**2022-09-24**|**Closing the Loop: Graph Networks to Unify Semantic Objects and Visual Features for Multi-object Scenes**|Jonathan J. Y. Kim et.al.|[2209.11894v1](http://arxiv.org/abs/2209.11894v1)|null|
-|**2023-01-30**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration Using Panoptic Attention**|José Arce et.al.|[2209.09699v2](http://arxiv.org/abs/2209.09699v2)|**[link](https://github.com/robot-learning-freiburg/PADLoC)**|
+|**2023-03-28**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration Using Panoptic Attention**|José Arce et.al.|[2209.09699v3](http://arxiv.org/abs/2209.09699v3)|**[link](https://github.com/robot-learning-freiburg/PADLoC)**|
 |**2022-09-18**|**HGI-SLAM: Loop Closure With Human and Geometric Importance Features**|Shuhul Mujoo et.al.|[2209.08608v1](http://arxiv.org/abs/2209.08608v1)|null|
 |**2022-09-18**|**Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**|Jiarui Tan et.al.|[2209.08578v1](http://arxiv.org/abs/2209.08578v1)|**[link](https://github.com/tjr16/bathy_nn_learning)**|
 |**2022-10-15**|**Efficient Planar Pose Estimation via UWB Measurements**|Haodong Jiang et.al.|[2209.06779v3](http://arxiv.org/abs/2209.06779v3)|**[link](https://github.com/SLAMLab-CUHKSZ/Efficient-Pose-Estimation-via-UWB-measurements)**|
@@ -450,7 +465,7 @@ layout: default
 |**2022-12-12**|**An Integrated LiDAR-SLAM System for Complex Environment with Noisy Point Clouds**|Kangcheng Liu et.al.|[2212.05705v1](http://arxiv.org/abs/2212.05705v1)|**[link](https://github.com/KangchengLiu/DLC_LiDAR_SLAM)**|
 |**2022-12-05**|**DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**|Xuebo Tian et.al.|[2212.02077v1](http://arxiv.org/abs/2212.02077v1)|null|
 |**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz et.al.|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
-|**2022-11-07**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|**[link](https://github.com/dan11003/CFEAR_Radarodometry)**|
+|**2022-11-07**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|**[link](https://github.com/dan11003/CFEAR_Radarodometry_code_public)**|
 |**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong et.al.|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|**[link](https://github.com/pengyu-team/dcl-slam)**|
 |**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier et.al.|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|**[link](https://github.com/tiers/tiers-lidars-dataset-enhanced)**|
 |**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang et.al.|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
@@ -501,6 +516,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-22**|**Noether's theorem and Lie symmetries for time-dependent Hamilton-Lagrange systems**|Jürgen Struckmeier et.al.|[2303.15320v1](http://arxiv.org/abs/2303.15320v1)|null|
 |**2023-03-14**|**GeoSpark: Sparking up Point Cloud Segmentation with Geometry Clue**|Zhening Huang et.al.|[2303.08274v1](http://arxiv.org/abs/2303.08274v1)|null|
 |**2023-03-14**|**Classical and quantum cosmology in $f(T)$ -gravity theory: A Noether symmetry approach**|Roshni Bhaumik et.al.|[2303.07766v1](http://arxiv.org/abs/2303.07766v1)|null|
 |**2023-03-08**|**Full Point Encoding for Local Feature Aggregation in 3D Point Clouds**|Yong He et.al.|[2303.04458v1](http://arxiv.org/abs/2303.04458v1)|null|
@@ -560,6 +576,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-27**|**JAWS: Just A Wild Shot for Cinematic Transfer in Neural Radiance Fields**|Xi Wang et.al.|[2303.15427v1](http://arxiv.org/abs/2303.15427v1)|null|
+|**2023-03-27**|**Generalizable Neural Voxels for Fast Human Radiance Fields**|Taoran Yi et.al.|[2303.15387v1](http://arxiv.org/abs/2303.15387v1)|null|
+|**2023-03-27**|**NeUDF: Learning Unsigned Distance Fields from Multi-view Images for Reconstructing Non-watertight Models**|Fei Hou et.al.|[2303.15368v1](http://arxiv.org/abs/2303.15368v1)|null|
+|**2023-03-24**|**Perceptual Quality Assessment of NeRF and Neural View Synthesis Methods for Front-Facing Views**|Hanxue Liang et.al.|[2303.15206v1](http://arxiv.org/abs/2303.15206v1)|null|
+|**2023-03-27**|**3D-Aware Multi-Class Image-to-Image Translation with NeRFs**|Senmao Li et.al.|[2303.15012v1](http://arxiv.org/abs/2303.15012v1)|**[link](https://github.com/sen-mao/3di2i-translation)**|
+|**2023-03-26**|**Clean-NeRF: Reformulating NeRF to account for View-Dependent Observations**|Xinhang Liu et.al.|[2303.14707v1](http://arxiv.org/abs/2303.14707v1)|null|
+|**2023-03-25**|**SUDS: Scalable Urban Dynamic Scenes**|Haithem Turki et.al.|[2303.14536v1](http://arxiv.org/abs/2303.14536v1)|null|
+|**2023-03-25**|**DBARF: Deep Bundle-Adjusting Generalizable Neural Radiance Fields**|Yu Chen et.al.|[2303.14478v1](http://arxiv.org/abs/2303.14478v1)|null|
+|**2023-03-25**|**NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects**|Zhiwen Yan et.al.|[2303.14435v1](http://arxiv.org/abs/2303.14435v1)|**[link](https://github.com/jokeryan/nerf-ds)**|
 |**2023-03-24**|**Grid-guided Neural Radiance Fields for Large Urban Scenes**|Linning Xu et.al.|[2303.14001v1](http://arxiv.org/abs/2303.14001v1)|null|
 |**2023-03-24**|**CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout**|Yiqi Lin et.al.|[2303.13843v1](http://arxiv.org/abs/2303.13843v1)|null|
 |**2023-03-24**|**HandNeRF: Neural Radiance Fields for Animatable Interacting Hands**|Zhiyang Guo et.al.|[2303.13825v1](http://arxiv.org/abs/2303.13825v1)|null|
