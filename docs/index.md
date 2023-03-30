@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.29
+## Updated on 2023.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -135,6 +135,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**|Renrui Zhang et.al.|[2303.16199v1](http://arxiv.org/abs/2303.16199v1)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
+|**2023-03-28**|**Medical Image Analysis using Deep Relational Learning**|Zhihua Liu et.al.|[2303.16099v1](http://arxiv.org/abs/2303.16099v1)|null|
+|**2023-03-28**|**Unmasked Teacher: Towards Training-Efficient Video Foundation Models**|Kunchang Li et.al.|[2303.16058v1](http://arxiv.org/abs/2303.16058v1)|**[link](https://github.com/opengvlab/unmasked_teacher)**|
+|**2023-03-29**|**Unify, Align and Refine: Multi-Level Semantic Alignment for Radiology Report Generation**|Yaowei Li et.al.|[2303.15932v2](http://arxiv.org/abs/2303.15932v2)|null|
+|**2023-03-28**|**MS-MT: Multi-Scale Mean Teacher with Contrastive Unpaired Translation for Cross-Modality Vestibular Schwannoma and Cochlea Segmentation**|Ziyuan Zhao et.al.|[2303.15826v1](http://arxiv.org/abs/2303.15826v1)|null|
+|**2023-03-28**|**Imbalance Knowledge-Driven Multi-modal Network for Land-Cover Semantic Segmentation Using Images and LiDAR Point Clouds**|Yameng Wang et.al.|[2303.15777v1](http://arxiv.org/abs/2303.15777v1)|null|
+|**2023-03-28**|**DDMM-Synth: A Denoising Diffusion Model for Cross-modal Medical Image Synthesis with Sparse-view Measurement Embedding**|Xiaoyue Li et.al.|[2303.15770v1](http://arxiv.org/abs/2303.15770v1)|null|
+|**2023-03-28**|**Explicit Attention-Enhanced Fusion for RGB-Thermal Perception Tasks**|Mingjian Liang et.al.|[2303.15710v1](http://arxiv.org/abs/2303.15710v1)|**[link](https://github.com/freeformrobotics/eaefnet)**|
 |**2023-03-27**|**Quantum Multi-Model Fitting**|Matteo Farina et.al.|[2303.15444v1](http://arxiv.org/abs/2303.15444v1)|**[link](https://github.com/farinamatteo/qmmf)**|
 |**2023-03-27**|**Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning**|Siteng Huang et.al.|[2303.15230v1](http://arxiv.org/abs/2303.15230v1)|null|
 |**2023-03-27**|**Knowing the Distance: Understanding the Gap Between Synthetic and Real Data For Face Parsing**|Eli Friedman et.al.|[2303.15219v1](http://arxiv.org/abs/2303.15219v1)|null|
@@ -576,6 +584,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-28**|**SparseNeRF: Distilling Depth Ranking for Few-shot Novel View Synthesis**|Guangcong Wang et.al.|[2303.16196v1](http://arxiv.org/abs/2303.16196v1)|null|
+|**2023-03-28**|**VMesh: Hybrid Volume-Mesh Representation for Efficient View Synthesis**|Yuan-Chen Guo et.al.|[2303.16184v1](http://arxiv.org/abs/2303.16184v1)|null|
+|**2023-03-28**|**Adaptive Voronoi NeRFs**|Tim Elsner et.al.|[2303.16001v1](http://arxiv.org/abs/2303.16001v1)|null|
+|**2023-03-28**|**F $^{2}$ -NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories**|Peng Wang et.al.|[2303.15951v1](http://arxiv.org/abs/2303.15951v1)|null|
 |**2023-03-27**|**JAWS: Just A Wild Shot for Cinematic Transfer in Neural Radiance Fields**|Xi Wang et.al.|[2303.15427v1](http://arxiv.org/abs/2303.15427v1)|null|
 |**2023-03-27**|**Generalizable Neural Voxels for Fast Human Radiance Fields**|Taoran Yi et.al.|[2303.15387v1](http://arxiv.org/abs/2303.15387v1)|null|
 |**2023-03-27**|**NeUDF: Learning Unsigned Distance Fields from Multi-view Images for Reconstructing Non-watertight Models**|Fei Hou et.al.|[2303.15368v1](http://arxiv.org/abs/2303.15368v1)|null|
