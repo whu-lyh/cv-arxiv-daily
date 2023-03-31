@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.30
+## Updated on 2023.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -135,6 +135,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-30**|**BEVSimDet: Simulated Multi-modal Distillation in Bird's-Eye View for Multi-view 3D Object Detection**|Haimei Zhao et.al.|[2303.16818v2](http://arxiv.org/abs/2303.16818v2)|null|
+|**2023-03-29**|**Bi-directional Training for Composed Image Retrieval via Text Prompt Learning**|Zheyuan Liu et.al.|[2303.16604v1](http://arxiv.org/abs/2303.16604v1)|null|
+|**2023-03-29**|**Sounding Video Generator: A Unified Framework for Text-guided Sounding Video Generation**|Jiawei Liu et.al.|[2303.16541v1](http://arxiv.org/abs/2303.16541v1)|null|
+|**2023-03-29**|**A tensor based varying-coefficient model for multi-modal neuroimaging data analysis**|Pratim Guha Niyogi et.al.|[2303.16443v1](http://arxiv.org/abs/2303.16443v1)|null|
 |**2023-03-28**|**LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**|Renrui Zhang et.al.|[2303.16199v1](http://arxiv.org/abs/2303.16199v1)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
 |**2023-03-28**|**Medical Image Analysis using Deep Relational Learning**|Zhihua Liu et.al.|[2303.16099v1](http://arxiv.org/abs/2303.16099v1)|null|
 |**2023-03-28**|**Unmasked Teacher: Towards Training-Efficient Video Foundation Models**|Kunchang Li et.al.|[2303.16058v1](http://arxiv.org/abs/2303.16058v1)|**[link](https://github.com/opengvlab/unmasked_teacher)**|
@@ -532,7 +536,7 @@ layout: default
 |**2023-02-16**|**Multiscalar field cosmological model and possible solutions using Noether symmetry approach**|Santu Mondal et.al.|[2302.08104v1](http://arxiv.org/abs/2302.08104v1)|null|
 |**2023-01-30**|**Darboux transformations for Dunkl-Schroedinger equations with energy dependent potential and position dependent mass**|Axel Schulze-Halberg et.al.|[2301.11622v2](http://arxiv.org/abs/2301.11622v2)|null|
 |**2023-01-23**|**On uniqueness of submaximally symmetric vector ordinary differential equations of C-class**|Johnson Allen Kessy et.al.|[2301.09364v1](http://arxiv.org/abs/2301.09364v1)|null|
-|**2023-01-20**|**FlatFormer: Flattened Window Attention for Efficient Point Cloud Transformer**|Zhijian Liu et.al.|[2301.08739v1](http://arxiv.org/abs/2301.08739v1)|null|
+|**2023-03-30**|**FlatFormer: Flattened Window Attention for Efficient Point Cloud Transformer**|Zhijian Liu et.al.|[2301.08739v2](http://arxiv.org/abs/2301.08739v2)|null|
 |**2023-01-18**|**PTA-Det: Point Transformer Associating Point cloud and Image for 3D Object Detection**|Rui Wan et.al.|[2301.07301v1](http://arxiv.org/abs/2301.07301v1)|null|
 |**2023-01-06**|**Model-Agnostic Hierarchical Attention for 3D Object Detection**|Manli Shu et.al.|[2301.02650v1](http://arxiv.org/abs/2301.02650v1)|null|
 |**2022-12-28**|**Hermitian Topologies originating from non-Hermitian braidings**|W. B. Rui et.al.|[2212.13736v1](http://arxiv.org/abs/2212.13736v1)|null|
@@ -584,9 +588,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-29**|**TriVol: Point Cloud Rendering via Triple Volumes**|Tao Hu et.al.|[2303.16485v1](http://arxiv.org/abs/2303.16485v1)|**[link](https://github.com/dvlab-research/trivol)**|
+|**2023-03-29**|**Point2Pix: Photo-Realistic Point Cloud Rendering via Neural Radiance Fields**|Tao Hu et.al.|[2303.16482v1](http://arxiv.org/abs/2303.16482v1)|null|
+|**2023-03-28**|**Flow supervision for Deformable NeRF**|Chaoyang Wang et.al.|[2303.16333v1](http://arxiv.org/abs/2303.16333v1)|null|
 |**2023-03-28**|**SparseNeRF: Distilling Depth Ranking for Few-shot Novel View Synthesis**|Guangcong Wang et.al.|[2303.16196v1](http://arxiv.org/abs/2303.16196v1)|null|
 |**2023-03-28**|**VMesh: Hybrid Volume-Mesh Representation for Efficient View Synthesis**|Yuan-Chen Guo et.al.|[2303.16184v1](http://arxiv.org/abs/2303.16184v1)|null|
-|**2023-03-28**|**Adaptive Voronoi NeRFs**|Tim Elsner et.al.|[2303.16001v1](http://arxiv.org/abs/2303.16001v1)|null|
+|**2023-03-30**|**Adaptive Voronoi NeRFs**|Tim Elsner et.al.|[2303.16001v2](http://arxiv.org/abs/2303.16001v2)|null|
 |**2023-03-28**|**F $^{2}$ -NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories**|Peng Wang et.al.|[2303.15951v1](http://arxiv.org/abs/2303.15951v1)|null|
 |**2023-03-27**|**JAWS: Just A Wild Shot for Cinematic Transfer in Neural Radiance Fields**|Xi Wang et.al.|[2303.15427v1](http://arxiv.org/abs/2303.15427v1)|null|
 |**2023-03-27**|**Generalizable Neural Voxels for Fast Human Radiance Fields**|Taoran Yi et.al.|[2303.15387v1](http://arxiv.org/abs/2303.15387v1)|null|
