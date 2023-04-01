@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.31
+## Updated on 2023.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -135,7 +135,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-30**|**BEVSimDet: Simulated Multi-modal Distillation in Bird's-Eye View for Multi-view 3D Object Detection**|Haimei Zhao et.al.|[2303.16818v2](http://arxiv.org/abs/2303.16818v2)|null|
+|**2023-03-30**|**SoftCLIP: Softer Cross-modal Alignment Makes CLIP Stronger**|Yuting Gao et.al.|[2303.17561v1](http://arxiv.org/abs/2303.17561v1)|null|
+|**2023-03-30**|**Asymmetric Face Recognition with Cross Model Compatible Ensembles**|Ori Linial et.al.|[2303.17531v1](http://arxiv.org/abs/2303.17531v1)|null|
+|**2023-03-30**|**Hindi as a Second Language: Improving Visually Grounded Speech with Semantically Similar Samples**|Hyeonggon Ryu et.al.|[2303.17517v1](http://arxiv.org/abs/2303.17517v1)|null|
+|**2023-03-30**|**Sound to Visual Scene Generation by Audio-to-Visual Latent Alignment**|Kim Sung-Bin et.al.|[2303.17490v1](http://arxiv.org/abs/2303.17490v1)|null|
+|**2023-03-30**|**Steered Mixture of Experts Regression for Image Denoising with Multi-Model-Inference**|Aytac Özkan et.al.|[2303.17409v1](http://arxiv.org/abs/2303.17409v1)|null|
+|**2023-03-30**|**Complementary Random Masking for RGB-Thermal Semantic Segmentation**|Ukcheol Shin et.al.|[2303.17386v1](http://arxiv.org/abs/2303.17386v1)|**[link](https://github.com/UkcheolShin/CRM_RGBTSeg)**|
+|**2023-03-30**|**Understanding the Robustness of 3D Object Detection with Bird's-Eye-View Representations in Autonomous Driving**|Zijian Zhu et.al.|[2303.17297v1](http://arxiv.org/abs/2303.17297v1)|null|
+|**2023-03-30**|**Decomposed Cross-modal Distillation for RGB-based Temporal Action Detection**|Pilhyeon Lee et.al.|[2303.17285v1](http://arxiv.org/abs/2303.17285v1)|null|
+|**2023-03-30**|**Task-Oriented Multi-Modal Mutual Leaning for Vision-Language Models**|Sifan Long et.al.|[2303.17169v1](http://arxiv.org/abs/2303.17169v1)|null|
+|**2023-03-30**|**BEVFusion4D: Learning LiDAR-Camera Fusion Under Bird's-Eye-View via Cross-Modality Guidance and Temporal Aggregation**|Hongxiang Cai et.al.|[2303.17099v1](http://arxiv.org/abs/2303.17099v1)|null|
+|**2023-03-30**|**BEVSimDet: Simulated Multi-modal Distillation in Bird's-Eye View for Multi-view 3D Object Detection**|Haimei Zhao et.al.|[2303.16818v2](http://arxiv.org/abs/2303.16818v2)|**[link](https://github.com/vitae-transformer/bevsimdet)**|
 |**2023-03-29**|**Bi-directional Training for Composed Image Retrieval via Text Prompt Learning**|Zheyuan Liu et.al.|[2303.16604v1](http://arxiv.org/abs/2303.16604v1)|null|
 |**2023-03-29**|**Sounding Video Generator: A Unified Framework for Text-guided Sounding Video Generation**|Jiawei Liu et.al.|[2303.16541v1](http://arxiv.org/abs/2303.16541v1)|null|
 |**2023-03-29**|**A tensor based varying-coefficient model for multi-modal neuroimaging data analysis**|Pratim Guha Niyogi et.al.|[2303.16443v1](http://arxiv.org/abs/2303.16443v1)|null|
@@ -588,6 +598,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-30**|**NeRF-Supervised Deep Stereo**|Fabio Tosi et.al.|[2303.17603v1](http://arxiv.org/abs/2303.17603v1)|**[link](https://github.com/fabiotosi92/nerf-supervised-deep-stereo)**|
+|**2023-03-30**|**SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling**|Zhitao Yang et.al.|[2303.17368v1](http://arxiv.org/abs/2303.17368v1)|null|
+|**2023-03-30**|**NeILF++: Inter-Reflectable Light Fields for Geometry and Material Estimation**|Jingyang Zhang et.al.|[2303.17147v1](http://arxiv.org/abs/2303.17147v1)|null|
+|**2023-03-30**|**Enhanced Stable View Synthesis**|Nishant Jain et.al.|[2303.17094v1](http://arxiv.org/abs/2303.17094v1)|null|
 |**2023-03-29**|**TriVol: Point Cloud Rendering via Triple Volumes**|Tao Hu et.al.|[2303.16485v1](http://arxiv.org/abs/2303.16485v1)|**[link](https://github.com/dvlab-research/trivol)**|
 |**2023-03-29**|**Point2Pix: Photo-Realistic Point Cloud Rendering via Neural Radiance Fields**|Tao Hu et.al.|[2303.16482v1](http://arxiv.org/abs/2303.16482v1)|null|
 |**2023-03-28**|**Flow supervision for Deformable NeRF**|Chaoyang Wang et.al.|[2303.16333v1](http://arxiv.org/abs/2303.16333v1)|null|
