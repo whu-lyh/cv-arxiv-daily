@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.02
+## Updated on 2023.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -432,7 +432,7 @@ layout: default
 |**2023-03-02**|**Wild-Places: A Large-Scale Dataset for Lidar Place Recognition in Unstructured Natural Environments**|Joshua Knights et.al.|[2211.12732v3](http://arxiv.org/abs/2211.12732v3)|null|
 |**2022-11-02**|**A Framework for Collaborative Multi-Robot Mapping using Spectral Graph Wavelets**|Lukas Bernreiter et.al.|[2210.13856v2](http://arxiv.org/abs/2210.13856v2)|null|
 |**2022-10-20**|**DeepRING: Learning Roto-translation Invariant Representation for LiDAR based Place Recognition**|Sha Lu et.al.|[2210.11029v1](http://arxiv.org/abs/2210.11029v1)|null|
-|**2023-03-06**|**Spectral Geometric Verification: Re-Ranking Point Cloud Retrieval for Metric Localization**|Kavisha Vidanapathirana et.al.|[2210.04432v2](http://arxiv.org/abs/2210.04432v2)|null|
+|**2023-03-06**|**Spectral Geometric Verification: Re-Ranking Point Cloud Retrieval for Metric Localization**|Kavisha Vidanapathirana et.al.|[2210.04432v2](http://arxiv.org/abs/2210.04432v2)|**[link](https://github.com/csiro-robotics/spectralgv)**|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
 |**2022-11-23**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v2](http://arxiv.org/abs/2210.01320v2)|null|
 |**2022-09-26**|**NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection**|Ruihao Zhou et.al.|[2209.12513v1](http://arxiv.org/abs/2209.12513v1)|**[link](https://github.com/zhouruihao1001/ndd)**|
