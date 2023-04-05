@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.04
+## Updated on 2023.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -135,6 +135,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-03**|**HypLiLoc: Towards Effective LiDAR Pose Regression with Hyperbolic Fusion**|Sijie Wang et.al.|[2304.00932v1](http://arxiv.org/abs/2304.00932v1)|**[link](https://github.com/sijieaaa/hypliloc)**|
+|**2023-04-03**|**Multi-modal Fake News Detection on Social Media via Multi-grained Information Fusion**|Yangming Zhou et.al.|[2304.00827v1](http://arxiv.org/abs/2304.00827v1)|null|
+|**2023-04-03**|**Open-Vocabulary Point-Cloud Object Detection without 3D Annotation**|Yuheng Lu et.al.|[2304.00788v1](http://arxiv.org/abs/2304.00788v1)|null|
+|**2023-04-03**|**Multi-Modal Representation Learning with Text-Driven Soft Masks**|Jaeyoo Park et.al.|[2304.00719v1](http://arxiv.org/abs/2304.00719v1)|null|
+|**2023-04-03**|**CRN: Camera Radar Net for Accurate, Robust, Efficient 3D Perception**|Youngseok Kim et.al.|[2304.00670v1](http://arxiv.org/abs/2304.00670v1)|null|
+|**2023-04-02**|**Multimodal Hyperspectral Image Classification via Interconnected Fusion**|Lu Huo et.al.|[2304.00495v1](http://arxiv.org/abs/2304.00495v1)|null|
+|**2023-04-02**|**Sketch-based Video Object Localization**|Sangmin Woo et.al.|[2304.00450v1](http://arxiv.org/abs/2304.00450v1)|null|
+|**2023-04-01**|**Improved Multimodal Fusion for Small Datasets with Auxiliary Supervision**|Gregory Holste et.al.|[2304.00379v1](http://arxiv.org/abs/2304.00379v1)|null|
+|**2023-03-31**|**Robotic Perception of Transparent Objects: A Review**|Jiaqi Jiang et.al.|[2304.00157v1](http://arxiv.org/abs/2304.00157v1)|null|
 |**2023-03-31**|**Towards Flexible Multi-modal Document Models**|Naoto Inoue et.al.|[2303.18248v1](http://arxiv.org/abs/2303.18248v1)|null|
 |**2023-03-31**|**Knowledge Distillation for Feature Extraction in Underwater VSLAM**|Jinghe Yang et.al.|[2303.17981v1](http://arxiv.org/abs/2303.17981v1)|**[link](https://github.com/jinghe-mel/ufen-slam)**|
 |**2023-03-31**|**MapFormer: Boosting Change Detection by Using Pre-change Information**|Maximilian Bernhard et.al.|[2303.17859v1](http://arxiv.org/abs/2303.17859v1)|null|
@@ -603,6 +612,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-03**|**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**|Yukang Cao et.al.|[2304.00916v1](http://arxiv.org/abs/2304.00916v1)|null|
+|**2023-04-01**|**JacobiNeRF: NeRF Shaping with Mutual Information Gradients**|Xiaomeng Xu et.al.|[2304.00341v1](http://arxiv.org/abs/2304.00341v1)|**[link](https://github.com/xxm19/jacobinerf)**|
 |**2023-03-31**|**VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization**|Bingfan Zhu et.al.|[2303.17968v1](http://arxiv.org/abs/2303.17968v1)|null|
 |**2023-03-30**|**NeRF-Supervised Deep Stereo**|Fabio Tosi et.al.|[2303.17603v1](http://arxiv.org/abs/2303.17603v1)|**[link](https://github.com/fabiotosi92/nerf-supervised-deep-stereo)**|
 |**2023-03-30**|**SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling**|Zhitao Yang et.al.|[2303.17368v1](http://arxiv.org/abs/2303.17368v1)|null|
