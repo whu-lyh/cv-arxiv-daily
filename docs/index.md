@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.05
+## Updated on 2023.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -135,6 +135,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-04**|**AToMiC: An Image/Text Retrieval Test Collection to Support Multimedia Content Creation**|Jheng-Hong Yang et.al.|[2304.01961v1](http://arxiv.org/abs/2304.01961v1)|**[link](https://github.com/trec-atomic/atomic)**|
+|**2023-04-04**|**naplib-python: Neural Acoustic Data Processing and Analysis Tools in Python**|Gavin Mischler et.al.|[2304.01799v1](http://arxiv.org/abs/2304.01799v1)|null|
+|**2023-04-04**|**Cross-modal tumor segmentation using generative blending augmentation and self training**|Guillaume Sallé et.al.|[2304.01705v1](http://arxiv.org/abs/2304.01705v1)|null|
+|**2023-04-04**|**Locate Then Generate: Bridging Vision and Language with Bounding Box for Scene-Text VQA**|Yongxin Zhu et.al.|[2304.01603v1](http://arxiv.org/abs/2304.01603v1)|null|
+|**2023-04-04**|**Primitive Simultaneous Optimization of Similarity Metrics for Image Registration**|Diana Waldmannstetter et.al.|[2304.01601v1](http://arxiv.org/abs/2304.01601v1)|null|
+|**2023-04-04**|**Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment**|Qian Li et.al.|[2304.01563v1](http://arxiv.org/abs/2304.01563v1)|null|
+|**2023-04-04**|**Multi model LSTM architecture for Track Association based on Automatic Identification System Data**|Md Asif Bin Syed et.al.|[2304.01491v1](http://arxiv.org/abs/2304.01491v1)|null|
+|**2023-04-04**|**A Deep Multi-Modal Cyber-Attack Detection in Industrial Control Systems**|Sepideh Bahadoripour et.al.|[2304.01440v1](http://arxiv.org/abs/2304.01440v1)|null|
+|**2023-04-04**|**Divided Attention: Unsupervised Multi-Object Discovery with Contextually Separated Slots**|Dong Lao et.al.|[2304.01430v1](http://arxiv.org/abs/2304.01430v1)|null|
+|**2023-04-03**|**Multi-Modal Perceiver Language Model for Outcome Prediction in Emergency Department**|Sabri Boughorbel et.al.|[2304.01233v1](http://arxiv.org/abs/2304.01233v1)|null|
 |**2023-04-03**|**HypLiLoc: Towards Effective LiDAR Pose Regression with Hyperbolic Fusion**|Sijie Wang et.al.|[2304.00932v1](http://arxiv.org/abs/2304.00932v1)|**[link](https://github.com/sijieaaa/hypliloc)**|
 |**2023-04-03**|**Multi-modal Fake News Detection on Social Media via Multi-grained Information Fusion**|Yangming Zhou et.al.|[2304.00827v1](http://arxiv.org/abs/2304.00827v1)|null|
 |**2023-04-03**|**Open-Vocabulary Point-Cloud Object Detection without 3D Annotation**|Yuheng Lu et.al.|[2304.00788v1](http://arxiv.org/abs/2304.00788v1)|null|
@@ -551,6 +561,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-04**|**NPC: Neural Point Characters from Video**|Shih-Yang Su et.al.|[2304.02013v1](http://arxiv.org/abs/2304.02013v1)|null|
 |**2023-03-31**|**APPT : Asymmetric Parallel Point Transformer for 3D Point Cloud Understanding**|Hengjia Li et.al.|[2303.17815v1](http://arxiv.org/abs/2303.17815v1)|null|
 |**2023-03-22**|**Noether's theorem and Lie symmetries for time-dependent Hamilton-Lagrange systems**|Jürgen Struckmeier et.al.|[2303.15320v1](http://arxiv.org/abs/2303.15320v1)|null|
 |**2023-03-14**|**GeoSpark: Sparking up Point Cloud Segmentation with Geometry Clue**|Zhening Huang et.al.|[2303.08274v1](http://arxiv.org/abs/2303.08274v1)|null|
@@ -612,6 +623,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-04**|**MonoHuman: Animatable Human Neural Field from Monocular Video**|Zhengming Yu et.al.|[2304.02001v1](http://arxiv.org/abs/2304.02001v1)|null|
 |**2023-04-03**|**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**|Yukang Cao et.al.|[2304.00916v1](http://arxiv.org/abs/2304.00916v1)|null|
 |**2023-04-01**|**JacobiNeRF: NeRF Shaping with Mutual Information Gradients**|Xiaomeng Xu et.al.|[2304.00341v1](http://arxiv.org/abs/2304.00341v1)|**[link](https://github.com/xxm19/jacobinerf)**|
 |**2023-03-31**|**VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization**|Bingfan Zhu et.al.|[2303.17968v1](http://arxiv.org/abs/2303.17968v1)|null|
