@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.06
+## Updated on 2023.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -135,8 +135,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-05**|**Detecting and Grounding Multi-Modal Media Manipulation**|Rui Shao et.al.|[2304.02556v1](http://arxiv.org/abs/2304.02556v1)|**[link](https://github.com/rshaojimmy/multimodal-deepfake)**|
+|**2023-04-05**|**Goal-Conditioned Imitation Learning using Score-based Diffusion Policies**|Moritz Reuss et.al.|[2304.02532v1](http://arxiv.org/abs/2304.02532v1)|null|
+|**2023-04-05**|**TM2D: Bimodality Driven 3D Dance Generation via Music-Text Integration**|Kehong Gong et.al.|[2304.02419v1](http://arxiv.org/abs/2304.02419v1)|**[link](https://github.com/Garfield-kh/TM2D)**|
+|**2023-04-05**|**Explaining Multimodal Data Fusion: Occlusion Analysis for Wilderness Mapping**|Burak Ekim et.al.|[2304.02407v1](http://arxiv.org/abs/2304.02407v1)|null|
+|**2023-04-05**|**Enhancing Multimodal Entity and Relation Extraction with Variational Information Bottleneck**|Shiyao Cui et.al.|[2304.02328v1](http://arxiv.org/abs/2304.02328v1)|null|
+|**2023-04-05**|**Calibrating Cross-modal Feature for Text-Based Person Searching**|Donglai Wei et.al.|[2304.02278v1](http://arxiv.org/abs/2304.02278v1)|null|
 |**2023-04-04**|**AToMiC: An Image/Text Retrieval Test Collection to Support Multimedia Content Creation**|Jheng-Hong Yang et.al.|[2304.01961v1](http://arxiv.org/abs/2304.01961v1)|**[link](https://github.com/trec-atomic/atomic)**|
-|**2023-04-04**|**naplib-python: Neural Acoustic Data Processing and Analysis Tools in Python**|Gavin Mischler et.al.|[2304.01799v1](http://arxiv.org/abs/2304.01799v1)|null|
+|**2023-04-04**|**naplib-python: Neural Acoustic Data Processing and Analysis Tools in Python**|Gavin Mischler et.al.|[2304.01799v1](http://arxiv.org/abs/2304.01799v1)|**[link](https://github.com/naplab/naplib-python)**|
 |**2023-04-04**|**Cross-modal tumor segmentation using generative blending augmentation and self training**|Guillaume Sallé et.al.|[2304.01705v1](http://arxiv.org/abs/2304.01705v1)|null|
 |**2023-04-04**|**Locate Then Generate: Bridging Vision and Language with Bounding Box for Scene-Text VQA**|Yongxin Zhu et.al.|[2304.01603v1](http://arxiv.org/abs/2304.01603v1)|null|
 |**2023-04-04**|**Primitive Simultaneous Optimization of Similarity Metrics for Image Registration**|Diana Waldmannstetter et.al.|[2304.01601v1](http://arxiv.org/abs/2304.01601v1)|null|
@@ -570,7 +576,7 @@ layout: default
 |**2023-03-02**|**BPT: Binary Point Cloud Transformer for Place Recognition**|Zhixing Hou et.al.|[2303.01166v1](http://arxiv.org/abs/2303.01166v1)|null|
 |**2023-02-16**|**Multiscalar field cosmological model and possible solutions using Noether symmetry approach**|Santu Mondal et.al.|[2302.08104v1](http://arxiv.org/abs/2302.08104v1)|null|
 |**2023-01-30**|**Darboux transformations for Dunkl-Schroedinger equations with energy dependent potential and position dependent mass**|Axel Schulze-Halberg et.al.|[2301.11622v2](http://arxiv.org/abs/2301.11622v2)|null|
-|**2023-01-23**|**On uniqueness of submaximally symmetric vector ordinary differential equations of C-class**|Johnson Allen Kessy et.al.|[2301.09364v1](http://arxiv.org/abs/2301.09364v1)|null|
+|**2023-04-06**|**On uniqueness of submaximally symmetric vector ordinary differential equations of C-class**|Johnson Allen Kessy et.al.|[2301.09364v2](http://arxiv.org/abs/2301.09364v2)|null|
 |**2023-03-30**|**FlatFormer: Flattened Window Attention for Efficient Point Cloud Transformer**|Zhijian Liu et.al.|[2301.08739v2](http://arxiv.org/abs/2301.08739v2)|null|
 |**2023-01-18**|**PTA-Det: Point Transformer Associating Point cloud and Image for 3D Object Detection**|Rui Wan et.al.|[2301.07301v1](http://arxiv.org/abs/2301.07301v1)|null|
 |**2023-01-06**|**Model-Agnostic Hierarchical Attention for 3D Object Detection**|Manli Shu et.al.|[2301.02650v1](http://arxiv.org/abs/2301.02650v1)|null|
@@ -623,8 +629,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-04**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061v1](http://arxiv.org/abs/2304.02061v1)|null|
 |**2023-04-04**|**MonoHuman: Animatable Human Neural Field from Monocular Video**|Zhengming Yu et.al.|[2304.02001v1](http://arxiv.org/abs/2304.02001v1)|null|
-|**2023-04-03**|**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**|Yukang Cao et.al.|[2304.00916v1](http://arxiv.org/abs/2304.00916v1)|null|
+|**2023-04-06**|**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**|Yukang Cao et.al.|[2304.00916v2](http://arxiv.org/abs/2304.00916v2)|null|
 |**2023-04-01**|**JacobiNeRF: NeRF Shaping with Mutual Information Gradients**|Xiaomeng Xu et.al.|[2304.00341v1](http://arxiv.org/abs/2304.00341v1)|**[link](https://github.com/xxm19/jacobinerf)**|
 |**2023-03-31**|**VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization**|Bingfan Zhu et.al.|[2303.17968v1](http://arxiv.org/abs/2303.17968v1)|null|
 |**2023-03-30**|**NeRF-Supervised Deep Stereo**|Fabio Tosi et.al.|[2303.17603v1](http://arxiv.org/abs/2303.17603v1)|**[link](https://github.com/fabiotosi92/nerf-supervised-deep-stereo)**|
