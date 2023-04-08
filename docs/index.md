@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.07
+## Updated on 2023.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -135,6 +135,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-06**|**ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments**|Dong An et.al.|[2304.03047v1](http://arxiv.org/abs/2304.03047v1)|null|
+|**2023-04-06**|**Exploiting the Complementarity of 2D and 3D Networks to Address Domain-Shift in 3D Semantic Segmentation**|Adriano Cardace et.al.|[2304.02991v1](http://arxiv.org/abs/2304.02991v1)|**[link](https://github.com/cvlab-unibo/mm2d3d)**|
+|**2023-04-06**|**FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead**|Kang Chen et.al.|[2304.02948v1](http://arxiv.org/abs/2304.02948v1)|null|
+|**2023-04-06**|**Efficient Audio Captioning Transformer with Patchout and Text Guidance**|Thodoris Kouzelis et.al.|[2304.02916v1](http://arxiv.org/abs/2304.02916v1)|null|
+|**2023-04-06**|**Towards Efficient MCMC Sampling in Bayesian Neural Networks by Exploiting Symmetry**|Jonas Gregor Wiese et.al.|[2304.02902v1](http://arxiv.org/abs/2304.02902v1)|null|
+|**2023-04-06**|**Learning Instance-Level Representation for Large-Scale Multi-Modal Pretraining in E-commerce**|Yang Jin et.al.|[2304.02853v1](http://arxiv.org/abs/2304.02853v1)|null|
 |**2023-04-05**|**Detecting and Grounding Multi-Modal Media Manipulation**|Rui Shao et.al.|[2304.02556v1](http://arxiv.org/abs/2304.02556v1)|**[link](https://github.com/rshaojimmy/multimodal-deepfake)**|
 |**2023-04-05**|**Goal-Conditioned Imitation Learning using Score-based Diffusion Policies**|Moritz Reuss et.al.|[2304.02532v1](http://arxiv.org/abs/2304.02532v1)|null|
 |**2023-04-05**|**TM2D: Bimodality Driven 3D Dance Generation via Music-Text Integration**|Kehong Gong et.al.|[2304.02419v1](http://arxiv.org/abs/2304.02419v1)|**[link](https://github.com/Garfield-kh/TM2D)**|
@@ -629,6 +635,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-06**|**LANe: Lighting-Aware Neural Fields for Compositional Scene Synthesis**|Akshay Krishnan et.al.|[2304.03280v1](http://arxiv.org/abs/2304.03280v1)|null|
+|**2023-04-06**|**Neural Fields meet Explicit Geometric Representation for Inverse Rendering of Urban Scenes**|Zian Wang et.al.|[2304.03266v1](http://arxiv.org/abs/2304.03266v1)|null|
+|**2023-04-06**|**DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model**|Hoigi Seo et.al.|[2304.02827v1](http://arxiv.org/abs/2304.02827v1)|null|
+|**2023-04-05**|**Image Stabilization for Hololens Camera in Remote Collaboration**|Gowtham Senthil et.al.|[2304.02736v1](http://arxiv.org/abs/2304.02736v1)|null|
 |**2023-04-04**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061v1](http://arxiv.org/abs/2304.02061v1)|null|
 |**2023-04-04**|**MonoHuman: Animatable Human Neural Field from Monocular Video**|Zhengming Yu et.al.|[2304.02001v1](http://arxiv.org/abs/2304.02001v1)|null|
 |**2023-04-06**|**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**|Yukang Cao et.al.|[2304.00916v2](http://arxiv.org/abs/2304.00916v2)|null|
