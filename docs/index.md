@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.10
+## Updated on 2023.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -135,6 +135,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**DATE: Domain Adaptive Product Seeker for E-commerce**|Haoyuan Li et.al.|[2304.03669v1](http://arxiv.org/abs/2304.03669v1)|null|
+|**2023-04-07**|**Better "CMOS" Produces Clearer Images: Learning Space-Variant Blur Estimation for Blind Image Super-Resolution**|Xuhai Chen et.al.|[2304.03542v1](http://arxiv.org/abs/2304.03542v1)|null|
+|**2023-04-06**|**Exposing and Mitigating Spurious Correlations for Cross-Modal Retrieval**|Jae Myung Kim et.al.|[2304.03391v1](http://arxiv.org/abs/2304.03391v1)|null|
 |**2023-04-07**|**ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments**|Dong An et.al.|[2304.03047v2](http://arxiv.org/abs/2304.03047v2)|**[link](https://github.com/marsaki/etpnav)**|
 |**2023-04-06**|**Exploiting the Complementarity of 2D and 3D Networks to Address Domain-Shift in 3D Semantic Segmentation**|Adriano Cardace et.al.|[2304.02991v1](http://arxiv.org/abs/2304.02991v1)|**[link](https://github.com/cvlab-unibo/mm2d3d)**|
 |**2023-04-06**|**FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead**|Kang Chen et.al.|[2304.02948v1](http://arxiv.org/abs/2304.02948v1)|null|
@@ -635,6 +638,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field**|Leheng Li et.al.|[2304.03526v1](http://arxiv.org/abs/2304.03526v1)|null|
+|**2023-04-06**|**Beyond NeRF Underwater: Learning Neural Reflectance Fields for True Color Correction of Marine Imagery**|Tianyi Zhang et.al.|[2304.03384v1](http://arxiv.org/abs/2304.03384v1)|null|
 |**2023-04-06**|**LANe: Lighting-Aware Neural Fields for Compositional Scene Synthesis**|Akshay Krishnan et.al.|[2304.03280v1](http://arxiv.org/abs/2304.03280v1)|null|
 |**2023-04-06**|**Neural Fields meet Explicit Geometric Representation for Inverse Rendering of Urban Scenes**|Zian Wang et.al.|[2304.03266v1](http://arxiv.org/abs/2304.03266v1)|null|
 |**2023-04-06**|**DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model**|Hoigi Seo et.al.|[2304.02827v1](http://arxiv.org/abs/2304.02827v1)|null|
