@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.11
+## Updated on 2023.04.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -135,6 +135,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-10**|**PoseFusion: Robust Object-in-Hand Pose Estimation with SelectLSTM**|Yuyang Tu et.al.|[2304.04523v1](http://arxiv.org/abs/2304.04523v1)|null|
+|**2023-04-09**|**Bionic Collapsible Wings in Aquatic-aerial Robot**|Xiao Xiong et.al.|[2304.04302v1](http://arxiv.org/abs/2304.04302v1)|null|
+|**2023-04-09**|**Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction**|Guangyi Chen et.al.|[2304.04298v1](http://arxiv.org/abs/2304.04298v1)|**[link](https://github.com/viewsetting/unsupervised_sampling_promoting)**|
+|**2023-04-09**|**Distributed Conditional GAN (discGAN) For Synthetic Healthcare Data Generation**|David Fuentes et.al.|[2304.04290v1](http://arxiv.org/abs/2304.04290v1)|null|
+|**2023-04-09**|**CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model**|Dingkang Liang et.al.|[2304.04231v1](http://arxiv.org/abs/2304.04231v1)|**[link](https://github.com/dk-liang/crowdclip)**|
+|**2023-04-09**|**Similarity-Aware Multimodal Prompt Learning for Fake News Detection**|Ye Jiang et.al.|[2304.04187v1](http://arxiv.org/abs/2304.04187v1)|null|
+|**2023-04-08**|**An Automated Fully-Computational Framework to Construct Printability Maps for Additively Manufactured Metal Alloys**|Sofia Sheikh et.al.|[2304.04113v1](http://arxiv.org/abs/2304.04113v1)|null|
+|**2023-04-08**|**Predicting multiple sclerosis disease severity with multimodal deep neural networks**|Kai Zhang et.al.|[2304.04062v1](http://arxiv.org/abs/2304.04062v1)|**[link](https://github.com/anotherkaizhang/ms)**|
+|**2023-04-08**|**Mitigating Spurious Correlations in Multi-modal Models during Fine-tuning**|Yu Yang et.al.|[2304.03916v1](http://arxiv.org/abs/2304.03916v1)|null|
+|**2023-04-08**|**Co-attention Propagation Network for Zero-Shot Video Object Segmentation**|Gensheng Pei et.al.|[2304.03910v1](http://arxiv.org/abs/2304.03910v1)|**[link](https://github.com/nust-machine-intelligence-laboratory/hcpn)**|
+|**2023-04-08**|**Factify 2: A Multimodal Fake News and Satire News Dataset**|S Suryavardan et.al.|[2304.03897v1](http://arxiv.org/abs/2304.03897v1)|null|
 |**2023-04-07**|**DATE: Domain Adaptive Product Seeker for E-commerce**|Haoyuan Li et.al.|[2304.03669v1](http://arxiv.org/abs/2304.03669v1)|null|
 |**2023-04-07**|**Better "CMOS" Produces Clearer Images: Learning Space-Variant Blur Estimation for Blind Image Super-Resolution**|Xuhai Chen et.al.|[2304.03542v1](http://arxiv.org/abs/2304.03542v1)|null|
 |**2023-04-06**|**Exposing and Mitigating Spurious Correlations for Cross-Modal Retrieval**|Jae Myung Kim et.al.|[2304.03391v1](http://arxiv.org/abs/2304.03391v1)|null|
@@ -461,6 +472,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-08**|**SGIDN-LCD: An Appearance-based Loop Closure Detection Algorithm using Superpixel Grids and Incremental Dynamic Nodes**|Baosheng Zhang et.al.|[2304.03872v1](http://arxiv.org/abs/2304.03872v1)|null|
 |**2023-03-01**|**ORCHNet: A Robust Global Feature Aggregation approach for 3D LiDAR-based Place recognition in Orchards**|T. Barros et.al.|[2303.00477v1](http://arxiv.org/abs/2303.00477v1)|**[link](https://github.com/cybonic/orchnet)**|
 |**2023-03-01**|**Region Prediction for Efficient Robot Localization on Large Maps**|Matteo Scucchia et.al.|[2303.00295v1](http://arxiv.org/abs/2303.00295v1)|null|
 |**2023-02-13**|**Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation**|Binqian Jiang et.al.|[2302.06149v1](http://arxiv.org/abs/2302.06149v1)|**[link](https://github.com/lewisjiang/contour-context)**|
@@ -638,13 +650,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-07**|**Event-based Camera Tracker by $\nabla$ t NeRF**|Mana Masuda et.al.|[2304.04559v1](http://arxiv.org/abs/2304.04559v1)|null|
+|**2023-04-10**|**Neural Residual Radiance Fields for Streamably Free-Viewpoint Videos**|Liao Wang et.al.|[2304.04452v1](http://arxiv.org/abs/2304.04452v1)|null|
+|**2023-04-10**|**Inferring Fluid Dynamics via Inverse Rendering**|Jinxian Liu et.al.|[2304.04446v1](http://arxiv.org/abs/2304.04446v1)|null|
+|**2023-04-10**|**Instance Neural Radiance Field**|Benran Hu et.al.|[2304.04395v1](http://arxiv.org/abs/2304.04395v1)|null|
+|**2023-04-11**|**NeRF applied to satellite imagery for surface reconstruction**|Federico Semeraro et.al.|[2304.04133v2](http://arxiv.org/abs/2304.04133v2)|**[link](https://github.com/fsemerar/satnerf)**|
+|**2023-04-08**|**PVD-AL: Progressive Volume Distillation with Active Learning for Efficient Conversion Between Different NeRF Architectures**|Shuangkang Fang et.al.|[2304.04012v1](http://arxiv.org/abs/2304.04012v1)|null|
 |**2023-04-07**|**Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field**|Leheng Li et.al.|[2304.03526v1](http://arxiv.org/abs/2304.03526v1)|null|
 |**2023-04-06**|**Beyond NeRF Underwater: Learning Neural Reflectance Fields for True Color Correction of Marine Imagery**|Tianyi Zhang et.al.|[2304.03384v1](http://arxiv.org/abs/2304.03384v1)|null|
 |**2023-04-06**|**LANe: Lighting-Aware Neural Fields for Compositional Scene Synthesis**|Akshay Krishnan et.al.|[2304.03280v1](http://arxiv.org/abs/2304.03280v1)|null|
 |**2023-04-06**|**Neural Fields meet Explicit Geometric Representation for Inverse Rendering of Urban Scenes**|Zian Wang et.al.|[2304.03266v1](http://arxiv.org/abs/2304.03266v1)|null|
 |**2023-04-06**|**DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model**|Hoigi Seo et.al.|[2304.02827v1](http://arxiv.org/abs/2304.02827v1)|null|
 |**2023-04-05**|**Image Stabilization for Hololens Camera in Remote Collaboration**|Gowtham Senthil et.al.|[2304.02736v1](http://arxiv.org/abs/2304.02736v1)|null|
-|**2023-04-04**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061v1](http://arxiv.org/abs/2304.02061v1)|null|
+|**2023-04-11**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061v2](http://arxiv.org/abs/2304.02061v2)|null|
 |**2023-04-04**|**MonoHuman: Animatable Human Neural Field from Monocular Video**|Zhengming Yu et.al.|[2304.02001v1](http://arxiv.org/abs/2304.02001v1)|null|
 |**2023-04-06**|**DreamAvatar: Text-and-Shape Guided 3D Human Avatar Generation via Diffusion Models**|Yukang Cao et.al.|[2304.00916v2](http://arxiv.org/abs/2304.00916v2)|null|
 |**2023-04-01**|**JacobiNeRF: NeRF Shaping with Mutual Information Gradients**|Xiaomeng Xu et.al.|[2304.00341v1](http://arxiv.org/abs/2304.00341v1)|**[link](https://github.com/xxm19/jacobinerf)**|
