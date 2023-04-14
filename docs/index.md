@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.13
+## Updated on 2023.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -135,6 +135,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-12**|**NaviSTAR: Socially Aware Robot Navigation with Hybrid Spatio-Temporal Graph Transformer and Preference Learning**|Weizheng Wang et.al.|[2304.05979v1](http://arxiv.org/abs/2304.05979v1)|null|
+|**2023-04-12**|**Self-Supervised Learning with Cluster-Aware-DINO for High-Performance Robust Speaker Verification**|Bing Han et.al.|[2304.05754v1](http://arxiv.org/abs/2304.05754v1)|null|
+|**2023-04-12**|**Towards a more comprehensive open-source model for interdisciplinary smart integrated energy systems**|Béla Wiegel et.al.|[2304.05720v1](http://arxiv.org/abs/2304.05720v1)|null|
+|**2023-04-12**|**Modality-Invariant Representation for Infrared and Visible Image Registration**|Zhiying Jiang et.al.|[2304.05646v1](http://arxiv.org/abs/2304.05646v1)|null|
+|**2023-04-12**|**WildRefer: 3D Object Localization in Large-scale Dynamic Scenes with Multi-modal Visual Data and Natural Language**|Zhenxiang Lin et.al.|[2304.05645v1](http://arxiv.org/abs/2304.05645v1)|null|
+|**2023-04-12**|**Looking Similar, Sounding Different: Leveraging Counterfactual Cross-Modal Pairs for Audiovisual Representation Learning**|Nikhil Singh et.al.|[2304.05600v1](http://arxiv.org/abs/2304.05600v1)|null|
+|**2023-04-11**|**MoMo: A shared encoder Model for text, image and multi-Modal representations**|Rakesh Chada et.al.|[2304.05523v1](http://arxiv.org/abs/2304.05523v1)|null|
+|**2023-04-11**|**Boosting Cross-task Transferability of Adversarial Patches with Visual Relations**|Tony Ma et.al.|[2304.05402v1](http://arxiv.org/abs/2304.05402v1)|null|
 |**2023-04-11**|**Unified Multi-Modal Image Synthesis for Missing Modality Imputation**|Yue Zhang et.al.|[2304.05340v1](http://arxiv.org/abs/2304.05340v1)|null|
 |**2023-04-11**|**Curriculum-Based Imitation of Versatile Skills**|Maximilian Xiling Li et.al.|[2304.05171v1](http://arxiv.org/abs/2304.05171v1)|**[link](https://github.com/intuitive-robots/ml-cur)**|
 |**2023-04-11**|**TrajFlow: Learning the Distribution over Trajectories**|Anna Mészáros et.al.|[2304.05166v1](http://arxiv.org/abs/2304.05166v1)|null|
@@ -544,7 +552,7 @@ layout: default
 |**2022-12-05**|**DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization**|Xuebo Tian et.al.|[2212.02077v1](http://arxiv.org/abs/2212.02077v1)|null|
 |**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz et.al.|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
 |**2022-11-07**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson et.al.|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|**[link](https://github.com/dan11003/CFEAR_Radarodometry_code_public)**|
-|**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong et.al.|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|**[link](https://github.com/pengyu-team/dcl-slam)**|
+|**2023-04-13**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong et.al.|[2210.11978v2](http://arxiv.org/abs/2210.11978v2)|**[link](https://github.com/pengyu-team/dcl-slam)**|
 |**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier et.al.|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|**[link](https://github.com/tiers/tiers-lidars-dataset-enhanced)**|
 |**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang et.al.|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
 |**2022-09-29**|**PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments**|Adam Dai et.al.|[2209.08248v2](http://arxiv.org/abs/2209.08248v2)|**[link](https://github.com/stanford-navlab/planeslam)**|
@@ -656,6 +664,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-12**|**NutritionVerse-Thin: An Optimized Strategy for Enabling Improved Rendering of 3D Thin Food Models**|Chi-en Amy Tai et.al.|[2304.05620v1](http://arxiv.org/abs/2304.05620v1)|null|
 |**2023-04-11**|**Improving Neural Radiance Fields with Depth-aware Optimization for Novel View Synthesis**|Shu Chen et.al.|[2304.05218v1](http://arxiv.org/abs/2304.05218v1)|**[link](https://github.com/xtu-pr-lab/sfmnerf)**|
 |**2023-04-11**|**One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field**|Weichuang Li et.al.|[2304.05097v1](http://arxiv.org/abs/2304.05097v1)|null|
 |**2023-04-11**|**MRVM-NeRF: Mask-Based Pretraining for Neural Radiance Fields**|Ganlin Yang et.al.|[2304.04962v1](http://arxiv.org/abs/2304.04962v1)|null|
