@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.18
+## Updated on 2023.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -135,6 +135,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-17**|**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**|Sihan Chen et.al.|[2304.08345v1](http://arxiv.org/abs/2304.08345v1)|**[link](https://github.com/TXH-mercury/VALOR)**|
+|**2023-04-17**|**SDVRF: Sparse-to-Dense Voxel Region Fusion for Multi-modal 3D Object Detection**|Binglu Ren et.al.|[2304.08304v1](http://arxiv.org/abs/2304.08304v1)|null|
+|**2023-04-17**|**Causality-aware Visual Scene Discovery for Cross-Modal Question Reasoning**|Yang Liu et.al.|[2304.08083v1](http://arxiv.org/abs/2304.08083v1)|null|
+|**2023-04-17**|**Two-stage MR Image Segmentation Method for Brain Tumors based on Attention Mechanism**|Li Zhu et.al.|[2304.08072v1](http://arxiv.org/abs/2304.08072v1)|null|
+|**2023-04-17**|**One-Class SVM on siamese neural network latent space for Unsupervised Anomaly Detection on brain MRI White Matter Hyperintensities**|Nicolas Pinon et.al.|[2304.08058v1](http://arxiv.org/abs/2304.08058v1)|null|
+|**2023-04-17**|**Fed-MIWAE: Federated Imputation of Incomplete Data via Deep Generative Models**|Irene Balelli et.al.|[2304.08054v1](http://arxiv.org/abs/2304.08054v1)|null|
+|**2023-04-16**|**Robust Cross-Modal Knowledge Distillation for Unconstrained Videos**|Wenke Xia et.al.|[2304.07775v1](http://arxiv.org/abs/2304.07775v1)|null|
+|**2023-04-16**|**TransFusionOdom: Interpretable Transformer-based LiDAR-Inertial Fusion Odometry Estimation**|Leyuan Sun et.al.|[2304.07728v1](http://arxiv.org/abs/2304.07728v1)|null|
+|**2023-04-15**|**Detecting Out-of-Context Multimodal Misinformation with interpretable neural-symbolic model**|Yizhou Zhang et.al.|[2304.07633v1](http://arxiv.org/abs/2304.07633v1)|null|
+|**2023-04-15**|**CoVLR: Coordinating Cross-Modal Consistency and Intra-Modal Structure for Vision-Language Retrieval**|Yang Yang et.al.|[2304.07567v1](http://arxiv.org/abs/2304.07567v1)|null|
+|**2023-04-15**|**MA-ViT: Modality-Agnostic Vision Transformers for Face Anti-Spoofing**|Ajian Liu et.al.|[2304.07549v1](http://arxiv.org/abs/2304.07549v1)|null|
+|**2023-04-14**|**Cross-domain Food Image-to-Recipe Retrieval by Weighted Adversarial Learning**|Bin Zhu et.al.|[2304.07387v1](http://arxiv.org/abs/2304.07387v1)|null|
 |**2023-04-14**|**CROVIA: Seeing Drone Scenes from Car Perspective via Cross-View Adaptation**|Thanh-Dat Truong et.al.|[2304.07199v1](http://arxiv.org/abs/2304.07199v1)|null|
 |**2023-04-14**|**End-to-End Learning with Multiple Modalities for System-Optimised Renewables Nowcasting**|Rushil Vohra et.al.|[2304.07151v1](http://arxiv.org/abs/2304.07151v1)|null|
 |**2023-04-14**|**Cross Attention Transformers for Multi-modal Unsupervised Whole-Body PET Anomaly Detection**|Ashay Patel et.al.|[2304.07147v1](http://arxiv.org/abs/2304.07147v1)|null|
@@ -613,6 +625,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-17**|**MoDA: Modeling Deformable 3D Objects from Casual Videos**|Chaoyue Song et.al.|[2304.08279v1](http://arxiv.org/abs/2304.08279v1)|**[link](https://github.com/chaoyuesong/moda)**|
 |**2023-04-04**|**NPC: Neural Point Characters from Video**|Shih-Yang Su et.al.|[2304.02013v1](http://arxiv.org/abs/2304.02013v1)|null|
 |**2023-03-31**|**APPT : Asymmetric Parallel Point Transformer for 3D Point Cloud Understanding**|Hengjia Li et.al.|[2303.17815v1](http://arxiv.org/abs/2303.17815v1)|null|
 |**2023-03-22**|**Noether's theorem and Lie symmetries for time-dependent Hamilton-Lagrange systems**|Jürgen Struckmeier et.al.|[2303.15320v1](http://arxiv.org/abs/2303.15320v1)|null|
@@ -675,8 +688,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-17**|**MoDA: Modeling Deformable 3D Objects from Casual Videos**|Chaoyue Song et.al.|[2304.08279v1](http://arxiv.org/abs/2304.08279v1)|**[link](https://github.com/chaoyuesong/moda)**|
+|**2023-04-17**|**NeRF-Loc: Visual Localization with Conditional Neural Radiance Field**|Jianlin Liu et.al.|[2304.07979v1](http://arxiv.org/abs/2304.07979v1)|null|
+|**2023-04-16**|**Likelihood-Based Generative Radiance Field with Latent Space Energy-Based Model for 3D-Aware Disentangled Image Representation**|Yaxuan Zhu et.al.|[2304.07918v1](http://arxiv.org/abs/2304.07918v1)|null|
+|**2023-04-16**|**CAT-NeRF: Constancy-Aware Tx $^2$ Former for Dynamic Body Modeling**|Haidong Zhu et.al.|[2304.07915v1](http://arxiv.org/abs/2304.07915v1)|**[link](https://github.com/haidongz-usc/CAT-NeRF)**|
+|**2023-04-16**|**SeaThru-NeRF: Neural Radiance Fields in Scattering Media**|Deborah Levy et.al.|[2304.07743v1](http://arxiv.org/abs/2304.07743v1)|null|
 |**2023-04-14**|**UVA: Towards Unified Volumetric Avatar for View Synthesis, Pose rendering, Geometry and Texture Editing**|Jinlong Fan et.al.|[2304.06969v1](http://arxiv.org/abs/2304.06969v1)|null|
-|**2023-04-13**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714v1](http://arxiv.org/abs/2304.06714v1)|null|
+|**2023-04-17**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714v2](http://arxiv.org/abs/2304.06714v2)|null|
 |**2023-04-13**|**Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields**|Jonathan T. Barron et.al.|[2304.06706v1](http://arxiv.org/abs/2304.06706v1)|null|
 |**2023-04-13**|**NeRFVS: Neural Radiance Fields for Free View Synthesis via Geometry Scaffolds**|Chen Yang et.al.|[2304.06287v1](http://arxiv.org/abs/2304.06287v1)|null|
 |**2023-04-12**|**NutritionVerse-Thin: An Optimized Strategy for Enabling Improved Rendering of 3D Thin Food Models**|Chi-en Amy Tai et.al.|[2304.05620v1](http://arxiv.org/abs/2304.05620v1)|null|
