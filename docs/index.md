@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.19
+## Updated on 2023.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-18**|**Continuous-Time Range-Only Pose Estimation**|Abhishek Goudar et.al.|[2304.09043v1](http://arxiv.org/abs/2304.09043v1)|null|
 |**2023-02-27**|**Estimation of continuous environments by robot swarms: Correlated networks and decision-making**|Mohsen Raoufi et.al.|[2302.13629v1](http://arxiv.org/abs/2302.13629v1)|null|
 |**2023-02-26**|**Discovering Top-k Structural Hole Spanners in Dynamic Networks**|Diksha Goel et.al.|[2302.13292v1](http://arxiv.org/abs/2302.13292v1)|null|
 |**2023-02-24**|**Modularity-based approach for tracking communities in dynamic social networks**|Michele Mazza et.al.|[2302.12759v1](http://arxiv.org/abs/2302.12759v1)|null|
@@ -135,6 +136,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-18**|**Hyperbolic Image-Text Representations**|Karan Desai et.al.|[2304.09172v1](http://arxiv.org/abs/2304.09172v1)|null|
+|**2023-04-18**|**Structure Preserving Cycle-GAN for Unsupervised Medical Image Domain Adaptation**|Paolo Iacono et.al.|[2304.09164v1](http://arxiv.org/abs/2304.09164v1)|null|
+|**2023-04-18**|**Unsupervised Semantic Segmentation of 3D Point Clouds via Cross-modal Distillation and Super-Voxel Clustering**|Zisheng Chen et.al.|[2304.08965v1](http://arxiv.org/abs/2304.08965v1)|null|
+|**2023-04-18**|**Segmentation of glioblastomas in early post-operative multi-modal MRI with deep neural networks**|Ragnhild Holden Helland et.al.|[2304.08881v1](http://arxiv.org/abs/2304.08881v1)|null|
+|**2023-04-18**|**You Only Need Two Detectors to Achieve Multi-Modal 3D Multi-Object Tracking**|Xiyang Wang et.al.|[2304.08709v1](http://arxiv.org/abs/2304.08709v1)|**[link](https://github.com/wangxiyang2022/YONTD-MOT)**|
+|**2023-04-17**|**(LC) $^2$ : LiDAR-Camera Loop Constraints For Cross-Modal Place Recognition**|Alex Junho Lee et.al.|[2304.08660v1](http://arxiv.org/abs/2304.08660v1)|null|
+|**2023-04-17**|**In-situ surface porosity prediction in DED (directed energy deposition) printed SS316L parts using multimodal sensor fusion**|Adithyaa Karthikeyan et.al.|[2304.08658v1](http://arxiv.org/abs/2304.08658v1)|null|
 |**2023-04-17**|**VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset**|Sihan Chen et.al.|[2304.08345v1](http://arxiv.org/abs/2304.08345v1)|**[link](https://github.com/TXH-mercury/VALOR)**|
 |**2023-04-17**|**SDVRF: Sparse-to-Dense Voxel Region Fusion for Multi-modal 3D Object Detection**|Binglu Ren et.al.|[2304.08304v1](http://arxiv.org/abs/2304.08304v1)|null|
 |**2023-04-17**|**Causality-aware Visual Scene Discovery for Cross-Modal Question Reasoning**|Yang Liu et.al.|[2304.08083v1](http://arxiv.org/abs/2304.08083v1)|null|
@@ -625,6 +633,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-18**|**The integer point transform as a complete invariant**|Sinai Robins et.al.|[2304.08681v1](http://arxiv.org/abs/2304.08681v1)|null|
 |**2023-04-17**|**MoDA: Modeling Deformable 3D Objects from Casual Videos**|Chaoyue Song et.al.|[2304.08279v1](http://arxiv.org/abs/2304.08279v1)|**[link](https://github.com/chaoyuesong/moda)**|
 |**2023-04-04**|**NPC: Neural Point Characters from Video**|Shih-Yang Su et.al.|[2304.02013v1](http://arxiv.org/abs/2304.02013v1)|null|
 |**2023-03-31**|**APPT : Asymmetric Parallel Point Transformer for 3D Point Cloud Understanding**|Hengjia Li et.al.|[2303.17815v1](http://arxiv.org/abs/2303.17815v1)|null|
@@ -688,6 +697,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-18**|**SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes**|Yiming Gao et.al.|[2304.08971v1](http://arxiv.org/abs/2304.08971v1)|null|
+|**2023-04-18**|**NeAI: A Pre-convoluted Representation for Plug-and-Play Neural Ambient Illumination**|Yiyu Zhuang et.al.|[2304.08757v1](http://arxiv.org/abs/2304.08757v1)|null|
 |**2023-04-17**|**MoDA: Modeling Deformable 3D Objects from Casual Videos**|Chaoyue Song et.al.|[2304.08279v1](http://arxiv.org/abs/2304.08279v1)|**[link](https://github.com/chaoyuesong/moda)**|
 |**2023-04-17**|**NeRF-Loc: Visual Localization with Conditional Neural Radiance Field**|Jianlin Liu et.al.|[2304.07979v1](http://arxiv.org/abs/2304.07979v1)|null|
 |**2023-04-16**|**Likelihood-Based Generative Radiance Field with Latent Space Energy-Based Model for 3D-Aware Disentangled Image Representation**|Yaxuan Zhu et.al.|[2304.07918v1](http://arxiv.org/abs/2304.07918v1)|null|
