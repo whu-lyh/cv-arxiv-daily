@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.21
+## Updated on 2023.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -136,6 +136,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Collaborative Diffusion for Multi-Modal Face Generation and Editing**|Ziqi Huang et.al.|[2304.10530v1](http://arxiv.org/abs/2304.10530v1)|**[link](https://github.com/ziqihuangg/collaborative-diffusion)**|
+|**2023-04-19**|**Conditional Generative Models for Learning Stochastic Processes**|Salvatore Certo et.al.|[2304.10382v1](http://arxiv.org/abs/2304.10382v1)|null|
+|**2023-04-20**|**Improving Speech Translation by Cross-Modal Multi-Grained Contrastive Learning**|Hao Zhang et.al.|[2304.10309v1](http://arxiv.org/abs/2304.10309v1)|null|
+|**2023-04-20**|**Image-text Retrieval via preserving main Semantics of Vision**|Xu Zhang et.al.|[2304.10254v1](http://arxiv.org/abs/2304.10254v1)|**[link](https://github.com/zhangxu0963/vsl)**|
+|**2023-04-20**|**Learning CLIP Guided Visual-Text Fusion Transformer for Video-based Pedestrian Attribute Recognition**|Jun Zhu et.al.|[2304.10091v1](http://arxiv.org/abs/2304.10091v1)|null|
+|**2023-04-19**|**A robust and interpretable deep learning framework for multi-modal registration via keypoints**|Alan Q. Wang et.al.|[2304.09941v1](http://arxiv.org/abs/2304.09941v1)|**[link](https://github.com/evanmy/keymorph)**|
+|**2023-04-19**|**Regularization for distributionally robust state estimation and prediction**|Jean-Sébastien Brouillon et.al.|[2304.09921v1](http://arxiv.org/abs/2304.09921v1)|null|
 |**2023-04-19**|**MetaBEV: Solving Sensor Failures for BEV Detection and Map Segmentation**|Chongjian Ge et.al.|[2304.09801v1](http://arxiv.org/abs/2304.09801v1)|null|
 |**2023-04-19**|**CrossFusion: Interleaving Cross-modal Complementation for Noise-resistant 3D Object Detection**|Yang Yang et.al.|[2304.09694v1](http://arxiv.org/abs/2304.09694v1)|null|
 |**2023-04-19**|**MMDR: A Result Feature Fusion Object Detection Approach for Autonomous System**|Wendong Zhang et.al.|[2304.09609v1](http://arxiv.org/abs/2304.09609v1)|null|
@@ -705,6 +712,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Learning Neural Duplex Radiance Fields for Real-Time View Synthesis**|Ziyu Wan et.al.|[2304.10537v1](http://arxiv.org/abs/2304.10537v1)|null|
+|**2023-04-20**|**Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**|Frederik Warburg et.al.|[2304.10532v1](http://arxiv.org/abs/2304.10532v1)|**[link](https://github.com/ethanweber/nerfbusters)**|
+|**2023-04-20**|**ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects**|Marco Toschi et.al.|[2304.10448v1](http://arxiv.org/abs/2304.10448v1)|null|
+|**2023-04-20**|**LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields**|Tang Tao et.al.|[2304.10406v1](http://arxiv.org/abs/2304.10406v1)|null|
+|**2023-04-20**|**Revisiting Implicit Neural Representations in Low-Level Vision**|Wentian Xu et.al.|[2304.10250v1](http://arxiv.org/abs/2304.10250v1)|**[link](https://github.com/wentxul/linr)**|
+|**2023-04-20**|**Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering**|Dongting Hu et.al.|[2304.10075v1](http://arxiv.org/abs/2304.10075v1)|null|
+|**2023-04-20**|**Neural Radiance Fields: Past, Present, and Future**|Ansh Mittal et.al.|[2304.10050v1](http://arxiv.org/abs/2304.10050v1)|null|
+|**2023-04-19**|**Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra**|Jonas Kulhanek et.al.|[2304.09987v1](http://arxiv.org/abs/2304.09987v1)|**[link](https://github.com/jkulhanek/tetra-nerf)**|
 |**2023-04-20**|**Reference-guided Controllable Inpainting of Neural Radiance Fields**|Ashkan Mirzaei et.al.|[2304.09677v2](http://arxiv.org/abs/2304.09677v2)|null|
 |**2023-04-18**|**SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes**|Yiming Gao et.al.|[2304.08971v1](http://arxiv.org/abs/2304.08971v1)|null|
 |**2023-04-18**|**NeAI: A Pre-convoluted Representation for Plug-and-Play Neural Ambient Illumination**|Yiyu Zhuang et.al.|[2304.08757v1](http://arxiv.org/abs/2304.08757v1)|null|
