@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.24
+## Updated on 2023.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -136,6 +136,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-21**|**Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study**|Ruichen Zhang et.al.|[2304.11098v1](http://arxiv.org/abs/2304.11098v1)|null|
+|**2023-04-24**|**CLaMP: Contrastive Language-Music Pre-training for Cross-Modal Symbolic Music Information Retrieval**|Shangda Wu et.al.|[2304.11029v2](http://arxiv.org/abs/2304.11029v2)|**[link](https://github.com/microsoft/muzic/tree/main/clamp)**|
+|**2023-04-21**|**FindVehicle and VehicleFinder: A NER dataset for natural language-based vehicle retrieval and a keyword-based cross-modal vehicle retrieval system**|Runwei Guan et.al.|[2304.10893v1](http://arxiv.org/abs/2304.10893v1)|**[link](https://github.com/guanrunwei/vehiclefinder-ctim)**|
+|**2023-04-21**|**Rethinking Benchmarks for Cross-modal Image-text Retrieval**|Weijing Chen et.al.|[2304.10824v1](http://arxiv.org/abs/2304.10824v1)|**[link](https://github.com/cwj1412/mscoco-flikcr30k_fg)**|
+|**2023-04-21**|**GeoLayoutLM: Geometric Pre-training for Visual Information Extraction**|Chuwei Luo et.al.|[2304.10759v1](http://arxiv.org/abs/2304.10759v1)|**[link](https://github.com/alibabaresearch/advancedliteratemachinery)**|
+|**2023-04-21**|**Missing Modality Robustness in Semi-Supervised Multi-Modal Semantic Segmentation**|Harsh Maheshwari et.al.|[2304.10756v1](http://arxiv.org/abs/2304.10756v1)|**[link](https://github.com/harshm121/m3l)**|
+|**2023-04-21**|**Multi-Modal Deep Learning for Credit Rating Prediction Using Text and Numerical Data Streams**|Mahsa Tavakoli et.al.|[2304.10740v1](http://arxiv.org/abs/2304.10740v1)|null|
+|**2023-04-21**|**RoCOCO: Robust Benchmark MS-COCO to Stress-test Robustness of Image-Text Matching Models**|Seulki Park et.al.|[2304.10727v1](http://arxiv.org/abs/2304.10727v1)|**[link](https://github.com/pseulki/rococo)**|
+|**2023-04-20**|**Linear to multi-linear algebra and systems using tensors**|Divyanshu Pandey et.al.|[2304.10658v1](http://arxiv.org/abs/2304.10658v1)|null|
+|**2023-04-20**|**HM-ViT: Hetero-modal Vehicle-to-Vehicle Cooperative perception with vision transformer**|Hao Xiang et.al.|[2304.10628v1](http://arxiv.org/abs/2304.10628v1)|null|
+|**2023-04-20**|**MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models**|Deyao Zhu et.al.|[2304.10592v1](http://arxiv.org/abs/2304.10592v1)|**[link](https://github.com/vision-cair/minigpt-4)**|
 |**2023-04-20**|**Collaborative Diffusion for Multi-Modal Face Generation and Editing**|Ziqi Huang et.al.|[2304.10530v1](http://arxiv.org/abs/2304.10530v1)|**[link](https://github.com/ziqihuangg/collaborative-diffusion)**|
 |**2023-04-21**|**Conditional Generative Models for Learning Stochastic Processes**|Salvatore Certo et.al.|[2304.10382v2](http://arxiv.org/abs/2304.10382v2)|null|
 |**2023-04-20**|**Improving Speech Translation by Cross-Modal Multi-Grained Contrastive Learning**|Hao Zhang et.al.|[2304.10309v1](http://arxiv.org/abs/2304.10309v1)|null|
@@ -712,8 +723,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-21**|**Omni-Line-of-Sight Imaging for Holistic Shape Reconstruction**|Binbin Huang et.al.|[2304.10780v1](http://arxiv.org/abs/2304.10780v1)|null|
+|**2023-04-20**|**A Comparative Neural Radiance Field (NeRF) 3D Analysis of Camera Poses from HoloLens Trajectories and Structure from Motion**|Miriam Jäger et.al.|[2304.10664v1](http://arxiv.org/abs/2304.10664v1)|null|
 |**2023-04-20**|**Learning Neural Duplex Radiance Fields for Real-Time View Synthesis**|Ziyu Wan et.al.|[2304.10537v1](http://arxiv.org/abs/2304.10537v1)|null|
-|**2023-04-20**|**Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**|Frederik Warburg et.al.|[2304.10532v1](http://arxiv.org/abs/2304.10532v1)|**[link](https://github.com/ethanweber/nerfbusters)**|
+|**2023-04-21**|**Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**|Frederik Warburg et.al.|[2304.10532v2](http://arxiv.org/abs/2304.10532v2)|**[link](https://github.com/ethanweber/nerfbusters)**|
 |**2023-04-20**|**ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects**|Marco Toschi et.al.|[2304.10448v1](http://arxiv.org/abs/2304.10448v1)|null|
 |**2023-04-20**|**LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields**|Tang Tao et.al.|[2304.10406v1](http://arxiv.org/abs/2304.10406v1)|null|
 |**2023-04-20**|**Revisiting Implicit Neural Representations in Low-Level Vision**|Wentian Xu et.al.|[2304.10250v1](http://arxiv.org/abs/2304.10250v1)|**[link](https://github.com/wentxul/linr)**|
