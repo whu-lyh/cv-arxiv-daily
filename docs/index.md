@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.25
+## Updated on 2023.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-25**|**Vehicle State Estimation and Prediction**|Xinchen Li et.al.|[2304.11694v2](http://arxiv.org/abs/2304.11694v2)|null|
 |**2023-04-18**|**Continuous-Time Range-Only Pose Estimation**|Abhishek Goudar et.al.|[2304.09043v1](http://arxiv.org/abs/2304.09043v1)|null|
 |**2023-02-27**|**Estimation of continuous environments by robot swarms: Correlated networks and decision-making**|Mohsen Raoufi et.al.|[2302.13629v1](http://arxiv.org/abs/2302.13629v1)|null|
 |**2023-02-26**|**Discovering Top-k Structural Hole Spanners in Dynamic Networks**|Diksha Goel et.al.|[2302.13292v1](http://arxiv.org/abs/2302.13292v1)|null|
@@ -136,6 +137,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**Enriching Source Code with Contextual Data for Code Completion Models: An Empirical Study**|Tim van Dam et.al.|[2304.12269v1](http://arxiv.org/abs/2304.12269v1)|**[link](https://github.com/aise-tudelft/contextualdatacodecompletion)**|
+|**2023-04-24**|**Imaging 3D Chemistry at 1 nm Resolution with Fused Multi-Modal Electron Tomography**|Jonathan Schwartz et.al.|[2304.12259v1](http://arxiv.org/abs/2304.12259v1)|null|
+|**2023-04-25**|**MMC: Multi-Modal Colorization of Images using Textual Descriptions**|Subhankar Ghosh et.al.|[2304.11993v2](http://arxiv.org/abs/2304.11993v2)|null|
+|**2023-04-24**|**Underwater object classification combining SAS and transferred optical-to-SAS Imagery**|Avi Abu et.al.|[2304.11875v1](http://arxiv.org/abs/2304.11875v1)|null|
+|**2023-04-25**|**Hierarchical Diffusion Autoencoders and Disentangled Image Manipulation**|Zeyu Lu et.al.|[2304.11829v2](http://arxiv.org/abs/2304.11829v2)|null|
+|**2023-04-23**|**Learning-enabled multi-modal motion prediction in urban environments**|Vinicius Trentin et.al.|[2304.11764v1](http://arxiv.org/abs/2304.11764v1)|null|
+|**2023-04-23**|**Informative Data Selection with Uncertainty for Multi-modal Object Detection**|Xinyu Zhang et.al.|[2304.11697v1](http://arxiv.org/abs/2304.11697v1)|null|
+|**2023-04-23**|**Modality-Aware Negative Sampling for Multi-modal Knowledge Graph Embedding**|Yichi Zhang et.al.|[2304.11618v1](http://arxiv.org/abs/2304.11618v1)|**[link](https://github.com/zjukg/mans)**|
+|**2023-04-23**|**LaMD: Latent Motion Diffusion for Video Generation**|Yaosi Hu et.al.|[2304.11603v1](http://arxiv.org/abs/2304.11603v1)|null|
+|**2023-04-21**|**Combining Vision and Tactile Sensation for Video Prediction**|Willow Mandil et.al.|[2304.11193v1](http://arxiv.org/abs/2304.11193v1)|null|
 |**2023-04-21**|**Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study**|Ruichen Zhang et.al.|[2304.11098v1](http://arxiv.org/abs/2304.11098v1)|null|
 |**2023-04-24**|**CLaMP: Contrastive Language-Music Pre-training for Cross-Modal Symbolic Music Information Retrieval**|Shangda Wu et.al.|[2304.11029v2](http://arxiv.org/abs/2304.11029v2)|**[link](https://github.com/microsoft/muzic/tree/main/clamp)**|
 |**2023-04-21**|**FindVehicle and VehicleFinder: A NER dataset for natural language-based vehicle retrieval and a keyword-based cross-modal vehicle retrieval system**|Runwei Guan et.al.|[2304.10893v1](http://arxiv.org/abs/2304.10893v1)|**[link](https://github.com/guanrunwei/vehiclefinder-ctim)**|
@@ -723,6 +734,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**Segment Anything in 3D with NeRFs**|Jiazhong Cen et.al.|[2304.12308v1](http://arxiv.org/abs/2304.12308v1)|null|
+|**2023-04-24**|**Explicit Correspondence Matching for Generalizable Neural Radiance Fields**|Yuedong Chen et.al.|[2304.12294v1](http://arxiv.org/abs/2304.12294v1)|**[link](https://github.com/donydchen/matchnerf)**|
+|**2023-04-25**|**Gen-NeRF: Efficient and Generalizable Neural Radiance Fields via Algorithm-Hardware Co-Design**|Yonggan Fu et.al.|[2304.11842v2](http://arxiv.org/abs/2304.11842v2)|null|
+|**2023-04-22**|**3D-IntPhys: Towards More Generalized 3D-grounded Visual Intuitive Physics under Challenging Scenes**|Haotian Xue et.al.|[2304.11470v1](http://arxiv.org/abs/2304.11470v1)|null|
+|**2023-04-22**|**Dehazing-NeRF: Neural Radiance Fields from Hazy Images**|Tian Li et.al.|[2304.11448v1](http://arxiv.org/abs/2304.11448v1)|null|
+|**2023-04-22**|**NaviNeRF: NeRF-based 3D Representation Disentanglement by Latent Semantic Navigation**|Baao Xie et.al.|[2304.11342v1](http://arxiv.org/abs/2304.11342v1)|null|
+|**2023-04-21**|**AutoNeRF: Training Implicit Scene Representations with Autonomous Agents**|Pierre Marza et.al.|[2304.11241v1](http://arxiv.org/abs/2304.11241v1)|null|
 |**2023-04-21**|**Omni-Line-of-Sight Imaging for Holistic Shape Reconstruction**|Binbin Huang et.al.|[2304.10780v1](http://arxiv.org/abs/2304.10780v1)|null|
 |**2023-04-20**|**A Comparative Neural Radiance Field (NeRF) 3D Analysis of Camera Poses from HoloLens Trajectories and Structure from Motion**|Miriam Jäger et.al.|[2304.10664v1](http://arxiv.org/abs/2304.10664v1)|null|
 |**2023-04-20**|**Learning Neural Duplex Radiance Fields for Real-Time View Synthesis**|Ziyu Wan et.al.|[2304.10537v1](http://arxiv.org/abs/2304.10537v1)|null|
