@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.30
+## Updated on 2023.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -147,7 +147,7 @@ layout: default
 |**2023-04-26**|**Mixtures of Gaussian process experts based on kernel stick-breaking processes**|Yuji Saikai et.al.|[2304.13833v1](http://arxiv.org/abs/2304.13833v1)|**[link](https://github.com/ysaikai/gpksbp)**|
 |**2023-04-26**|**A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering**|Alireza Salemi et.al.|[2304.13649v1](http://arxiv.org/abs/2304.13649v1)|**[link](https://github.com/alirezasalemi7/dedr-mm-fid)**|
 |**2023-04-26**|**Multi-Modality Deep Network for Extreme Learned Image Compression**|Xuhao Jiang et.al.|[2304.13583v1](http://arxiv.org/abs/2304.13583v1)|null|
-|**2023-04-26**|**Towards Multi-Modal DBMSs for Seamless Querying of Texts and Tables**|Matthias Urban et.al.|[2304.13559v1](http://arxiv.org/abs/2304.13559v1)|null|
+|**2023-04-28**|**Towards Multi-Modal DBMSs for Seamless Querying of Texts and Tables**|Matthias Urban et.al.|[2304.13559v2](http://arxiv.org/abs/2304.13559v2)|null|
 |**2023-04-26**|**Learnable Ophthalmology SAM**|Zhongxi Qiu et.al.|[2304.13425v1](http://arxiv.org/abs/2304.13425v1)|**[link](https://github.com/qsingle/learnablepromptsam)**|
 |**2023-04-26**|**Deep Lifelong Cross-modal Hashing**|Liming Xu et.al.|[2304.13357v1](http://arxiv.org/abs/2304.13357v1)|null|
 |**2023-04-26**|**Self-Supervised Multi-Modal Sequential Recommendation**|Kunzhe Song et.al.|[2304.13277v1](http://arxiv.org/abs/2304.13277v1)|**[link](https://github.com/kz-song/mmsrec)**|
@@ -695,7 +695,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-04-27**|**Human Semantic Segmentation using Millimeter-Wave Radar Sparse Point Clouds**|Pengfei Song et.al.|[2304.14132v1](http://arxiv.org/abs/2304.14132v1)|null|
+|**2023-04-28**|**Human Semantic Segmentation using Millimeter-Wave Radar Sparse Point Clouds**|Pengfei Song et.al.|[2304.14132v2](http://arxiv.org/abs/2304.14132v2)|null|
 |**2023-04-18**|**The integer point transform as a complete invariant**|Sinai Robins et.al.|[2304.08681v1](http://arxiv.org/abs/2304.08681v1)|null|
 |**2023-04-17**|**MoDA: Modeling Deformable 3D Objects from Casual Videos**|Chaoyue Song et.al.|[2304.08279v1](http://arxiv.org/abs/2304.08279v1)|**[link](https://github.com/chaoyuesong/moda)**|
 |**2023-04-04**|**NPC: Neural Point Characters from Video**|Shih-Yang Su et.al.|[2304.02013v1](http://arxiv.org/abs/2304.02013v1)|null|
