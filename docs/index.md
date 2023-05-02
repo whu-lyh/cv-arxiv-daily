@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.01
+## Updated on 2023.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -137,6 +137,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-28**|**LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model**|Peng Gao et.al.|[2304.15010v1](http://arxiv.org/abs/2304.15010v1)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
+|**2023-04-28**|**The Emotions of the Crowd: Learning Image Sentiment from Tweets via Cross-modal Distillation**|Alessio Serra et.al.|[2304.14942v1](http://arxiv.org/abs/2304.14942v1)|null|
+|**2023-04-28**|**Information Redundancy and Biases in Public Document Information Extraction Benchmarks**|Seif Laatiri et.al.|[2304.14936v1](http://arxiv.org/abs/2304.14936v1)|**[link](https://github.com/seif-lat/bias-study-funsd-sroie)**|
+|**2023-04-28**|**An Empirical Study of Multimodal Model Merging**|Yi-Lin Sung et.al.|[2304.14933v1](http://arxiv.org/abs/2304.14933v1)|**[link](https://github.com/ylsung/vl-merging)**|
+|**2023-04-28**|**SGAligner : 3D Scene Alignment with Scene Graphs**|Sayan Deb Sarkar et.al.|[2304.14880v1](http://arxiv.org/abs/2304.14880v1)|**[link](https://github.com/sayands/sgaligner)**|
 |**2023-04-27**|**SparseFusion: Fusing Multi-Modal Sparse Representations for Multi-Sensor 3D Object Detection**|Yichen Xie et.al.|[2304.14340v1](http://arxiv.org/abs/2304.14340v1)|**[link](https://github.com/yichen928/sparsefusion)**|
 |**2023-04-27**|**Pushing the Boundaries of Tractable Multiperspective Reasoning: A Deduction Calculus for Standpoint EL+**|Lucía {Gómez Álvarez} et.al.|[2304.14323v1](http://arxiv.org/abs/2304.14323v1)|**[link](https://github.com/cl-tud/standpoint-el-souffle-reasoner)**|
 |**2023-04-27**|**Standpoint Linear Temporal Logic**|Nicola Gigante et.al.|[2304.14243v1](http://arxiv.org/abs/2304.14243v1)|null|
@@ -760,6 +765,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-28**|**NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields**|Junge Zhang et.al.|[2304.14811v1](http://arxiv.org/abs/2304.14811v1)|null|
+|**2023-04-27**|**Learning a Diffusion Prior for NeRFs**|Guandao Yang et.al.|[2304.14473v1](http://arxiv.org/abs/2304.14473v1)|null|
 |**2023-04-27**|**ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs**|Jiteng Mu et.al.|[2304.14401v1](http://arxiv.org/abs/2304.14401v1)|null|
 |**2023-04-27**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301v1](http://arxiv.org/abs/2304.14301v1)|null|
 |**2023-04-27**|**Compositional 3D Human-Object Neural Animation**|Zhi Hou et.al.|[2304.14070v1](http://arxiv.org/abs/2304.14070v1)|null|
