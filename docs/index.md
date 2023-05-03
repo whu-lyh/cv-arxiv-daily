@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.02
+## Updated on 2023.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -137,6 +137,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-01**|**ArK: Augmented Reality with Knowledge Interactive Emergent Ability**|Qiuyuan Huang et.al.|[2305.00970v1](http://arxiv.org/abs/2305.00970v1)|null|
+|**2023-05-01**|**Multi-scale Transformer-based Network for Emotion Recognition from Multi Physiological Signals**|Tu Vu et.al.|[2305.00769v1](http://arxiv.org/abs/2305.00769v1)|null|
+|**2023-04-30**|**Interpretability of Machine Learning: Recent Advances and Future Prospects**|Lei Gao et.al.|[2305.00537v1](http://arxiv.org/abs/2305.00537v1)|null|
+|**2023-04-29**|**MH-DETR: Video Moment and Highlight Detection with Cross-modal Transformer**|Yifang Xu et.al.|[2305.00355v1](http://arxiv.org/abs/2305.00355v1)|null|
+|**2023-04-29**|**Fusion for Visual-Infrared Person ReID in Real-World Surveillance Using Corrupted Multimodal Data**|Arthur Josi et.al.|[2305.00320v1](http://arxiv.org/abs/2305.00320v1)|**[link](https://github.com/art2611/mreid-ucd-ccd)**|
+|**2023-04-29**|**InfraDet3D: Multi-Modal 3D Object Detection based on Roadside Infrastructure Camera and LiDAR Sensors**|Walter Zimmer et.al.|[2305.00314v1](http://arxiv.org/abs/2305.00314v1)|null|
+|**2023-04-29**|**Mixed-Response State-Space Model for Analyzing Multi-Dimensional Digital Phenotypes**|Tianchen Xu et.al.|[2305.00207v1](http://arxiv.org/abs/2305.00207v1)|**[link](https://github.com/zjph602xtc/MRSS)**|
+|**2023-04-29**|**Instruction-ViT: Multi-Modal Prompts for Instruction Learning in ViT**|Zhenxiang Xiao et.al.|[2305.00201v1](http://arxiv.org/abs/2305.00201v1)|null|
+|**2023-04-28**|**Cycle-guided Denoising Diffusion Probability Model for 3D Cross-modality MRI Synthesis**|Shaoyan Pan et.al.|[2305.00042v1](http://arxiv.org/abs/2305.00042v1)|null|
 |**2023-04-28**|**LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model**|Peng Gao et.al.|[2304.15010v1](http://arxiv.org/abs/2304.15010v1)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
 |**2023-04-28**|**The Emotions of the Crowd: Learning Image Sentiment from Tweets via Cross-modal Distillation**|Alessio Serra et.al.|[2304.14942v1](http://arxiv.org/abs/2304.14942v1)|null|
 |**2023-04-28**|**Information Redundancy and Biases in Public Document Information Extraction Benchmarks**|Seif Laatiri et.al.|[2304.14936v1](http://arxiv.org/abs/2304.14936v1)|**[link](https://github.com/seif-lat/bias-study-funsd-sroie)**|
@@ -700,6 +709,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-01**|**Point Cloud Semantic Segmentation**|Ivan Martinović et.al.|[2305.00773v1](http://arxiv.org/abs/2305.00773v1)|null|
 |**2023-04-28**|**Human Semantic Segmentation using Millimeter-Wave Radar Sparse Point Clouds**|Pengfei Song et.al.|[2304.14132v2](http://arxiv.org/abs/2304.14132v2)|null|
 |**2023-04-18**|**The integer point transform as a complete invariant**|Sinai Robins et.al.|[2304.08681v1](http://arxiv.org/abs/2304.08681v1)|null|
 |**2023-04-17**|**MoDA: Modeling Deformable 3D Objects from Casual Videos**|Chaoyue Song et.al.|[2304.08279v1](http://arxiv.org/abs/2304.08279v1)|**[link](https://github.com/chaoyuesong/moda)**|
@@ -765,6 +775,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-01**|**GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**|Zhenhui Ye et.al.|[2305.00787v1](http://arxiv.org/abs/2305.00787v1)|null|
+|**2023-04-30**|**Neural Radiance Fields (NeRFs): A Review and Some Recent Developments**|Mohamed Debbagh et.al.|[2305.00375v1](http://arxiv.org/abs/2305.00375v1)|null|
+|**2023-04-28**|**ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields**|Nagabhushan Somraj et.al.|[2305.00041v1](http://arxiv.org/abs/2305.00041v1)|null|
 |**2023-04-28**|**NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields**|Junge Zhang et.al.|[2304.14811v1](http://arxiv.org/abs/2304.14811v1)|null|
 |**2023-04-27**|**Learning a Diffusion Prior for NeRFs**|Guandao Yang et.al.|[2304.14473v1](http://arxiv.org/abs/2304.14473v1)|null|
 |**2023-04-27**|**ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs**|Jiteng Mu et.al.|[2304.14401v1](http://arxiv.org/abs/2304.14401v1)|null|
