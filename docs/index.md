@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.04
+## Updated on 2023.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -137,6 +137,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**M2-CTTS: End-to-End Multi-scale Multi-modal Conversational Text-to-Speech Synthesis**|Jinlong Xue et.al.|[2305.02269v1](http://arxiv.org/abs/2305.02269v1)|null|
+|**2023-05-03**|**District-scale surface temperatures generated from high-resolution longitudinal thermal infrared images**|Subin Lin et.al.|[2305.01971v1](http://arxiv.org/abs/2305.01971v1)|**[link](https://github.com/buds-lab/project-iris-dataset)**|
+|**2023-05-03**|**Denoising Multi-modal Sequential Recommenders with Contrastive Learning**|Dong Yao et.al.|[2305.01915v1](http://arxiv.org/abs/2305.01915v1)|null|
+|**2023-05-03**|**MolKD: Distilling Cross-Modal Knowledge in Chemical Reactions for Molecular Property Prediction**|Liang Zeng et.al.|[2305.01912v1](http://arxiv.org/abs/2305.01912v1)|null|
+|**2023-05-04**|**The Impacts of Dimensionality, Diffusion, and Directedness on Intrinsic Cross-Model Simulation in Tile-Based Self-Assembly**|Daniel Hader et.al.|[2305.01877v2](http://arxiv.org/abs/2305.01877v2)|null|
+|**2023-05-03**|**Unsupervised Improvement of Audio-Text Cross-Modal Representations**|Zhepei Wang et.al.|[2305.01864v1](http://arxiv.org/abs/2305.01864v1)|null|
+|**2023-05-03**|**AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation**|Shentong Mo et.al.|[2305.01836v1](http://arxiv.org/abs/2305.01836v1)|null|
+|**2023-05-02**|**SLTUNET: A Simple Unified Model for Sign Language Translation**|Biao Zhang et.al.|[2305.01778v1](http://arxiv.org/abs/2305.01778v1)|**[link](https://github.com/bzhangGo/sltunet)**|
+|**2023-05-02**|**SIA-FTP: A Spoken Instruction Aware Flight Trajectory Prediction Framework**|Dongyue Guo et.al.|[2305.01661v1](http://arxiv.org/abs/2305.01661v1)|null|
 |**2023-05-02**|**A Computational Approach for the Characterization of Airborne Pathogen Transmission in Turbulent Molecular Communication Channels**|Fatih Gulec et.al.|[2305.01412v1](http://arxiv.org/abs/2305.01412v1)|null|
 |**2023-05-02**|**Establishing a Learning Model for Correct Hand Hygiene Technique in a NICU**|Irén A. Kopcsóné Németh et.al.|[2305.01366v1](http://arxiv.org/abs/2305.01366v1)|null|
 |**2023-05-02**|**MDENet: Multi-modal Dual-embedding Networks for Malware Open-set Recognition**|Jingcai Guo et.al.|[2305.01245v1](http://arxiv.org/abs/2305.01245v1)|null|
@@ -657,6 +666,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**Direct LiDAR-Inertial Odometry and Mapping: Perceptive and Connective SLAM**|Kenny Chen et.al.|[2305.01843v1](http://arxiv.org/abs/2305.01843v1)|null|
 |**2023-03-09**|**SLAMesh: Real-time LiDAR Simultaneous Localization and Meshing**|Jianyuan Ruan et.al.|[2303.05252v1](http://arxiv.org/abs/2303.05252v1)|**[link](https://github.com/lab-sun/slamesh)**|
 |**2023-04-07**|**Marker-based Visual SLAM leveraging Hierarchical Representations**|Ali Tourani et.al.|[2303.01155v2](http://arxiv.org/abs/2303.01155v2)|null|
 |**2023-03-13**|**Evaluation of Lidar-based 3D SLAM algorithms in SubT environment**|Anton Koval et.al.|[2302.13613v2](http://arxiv.org/abs/2302.13613v2)|null|
