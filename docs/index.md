@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.05
+## Updated on 2023.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -137,6 +137,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-04**|**Piecewise Normalizing Flows**|Harry Bevins et.al.|[2305.02930v1](http://arxiv.org/abs/2305.02930v1)|null|
+|**2023-05-04**|**Spatial and Modal Optimal Transport for Fast Cross-Modal MRI Reconstruction**|Qi Wang et.al.|[2305.02774v1](http://arxiv.org/abs/2305.02774v1)|null|
+|**2023-05-04**|**Multi-Modality Deep Network for JPEG Artifacts Reduction**|Xuhao Jiang et.al.|[2305.02760v1](http://arxiv.org/abs/2305.02760v1)|null|
+|**2023-05-04**|**Text Reading Order in Uncontrolled Conditions by Sparse Graph Segmentation**|Renshen Wang et.al.|[2305.02577v1](http://arxiv.org/abs/2305.02577v1)|null|
+|**2023-05-04**|**High-fidelity Generalized Emotional Talking Face Generation with Multi-modal Emotion Space Learning**|Chao Xu et.al.|[2305.02572v1](http://arxiv.org/abs/2305.02572v1)|null|
+|**2023-05-04**|**Learning Missing Modal Electronic Health Records with Unified Multi-modal Data Embedding and Modality-Aware Attention**|Kwanhyung Lee et.al.|[2305.02504v1](http://arxiv.org/abs/2305.02504v1)|null|
 |**2023-05-03**|**M2-CTTS: End-to-End Multi-scale Multi-modal Conversational Text-to-Speech Synthesis**|Jinlong Xue et.al.|[2305.02269v1](http://arxiv.org/abs/2305.02269v1)|null|
 |**2023-05-03**|**District-scale surface temperatures generated from high-resolution longitudinal thermal infrared images**|Subin Lin et.al.|[2305.01971v1](http://arxiv.org/abs/2305.01971v1)|**[link](https://github.com/buds-lab/project-iris-dataset)**|
 |**2023-05-03**|**Denoising Multi-modal Sequential Recommenders with Contrastive Learning**|Dong Yao et.al.|[2305.01915v1](http://arxiv.org/abs/2305.01915v1)|null|
@@ -725,6 +731,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-04**|**OctFormer: Octree-based Transformers for 3D Point Clouds**|Peng-Shuai Wang et.al.|[2305.03045v1](http://arxiv.org/abs/2305.03045v1)|null|
+|**2023-05-04**|**Point Transformer For Coronary Artery Labeling**|Xu Wang et.al.|[2305.02533v1](http://arxiv.org/abs/2305.02533v1)|null|
 |**2023-05-01**|**Point Cloud Semantic Segmentation**|Ivan Martinović et.al.|[2305.00773v1](http://arxiv.org/abs/2305.00773v1)|null|
 |**2023-04-28**|**Human Semantic Segmentation using Millimeter-Wave Radar Sparse Point Clouds**|Pengfei Song et.al.|[2304.14132v2](http://arxiv.org/abs/2304.14132v2)|null|
 |**2023-04-18**|**The integer point transform as a complete invariant**|Sinai Robins et.al.|[2304.08681v1](http://arxiv.org/abs/2304.08681v1)|null|
@@ -791,6 +799,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-04**|**NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds**|Jun-Kun Chen et.al.|[2305.03049v1](http://arxiv.org/abs/2305.03049v1)|null|
+|**2023-05-04**|**Radiance Field Gradient Scaling for Unbiased Near-Camera Training**|Julien Philip et.al.|[2305.02756v1](http://arxiv.org/abs/2305.02756v1)|**[link](https://github.com/gradient-scaling/gradient-scaling.github.io)**|
+|**2023-05-04**|**Semantic-aware Generation of Multi-view Portrait Drawings**|Biao Ma et.al.|[2305.02618v1](http://arxiv.org/abs/2305.02618v1)|**[link](https://github.com/aiart-hdu/sage)**|
 |**2023-05-02**|**Neural LiDAR Fields for Novel View Synthesis**|Shengyu Huang et.al.|[2305.01643v1](http://arxiv.org/abs/2305.01643v1)|null|
 |**2023-05-03**|**LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar**|Yuelang Xu et.al.|[2305.01190v2](http://arxiv.org/abs/2305.01190v2)|null|
 |**2023-05-02**|**Federated Neural Radiance Fields**|Lachlan Holden et.al.|[2305.01163v1](http://arxiv.org/abs/2305.01163v1)|null|
