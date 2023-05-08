@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.07
+## Updated on 2023.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -148,7 +148,7 @@ layout: default
 |**2023-05-03**|**Denoising Multi-modal Sequential Recommenders with Contrastive Learning**|Dong Yao et.al.|[2305.01915v1](http://arxiv.org/abs/2305.01915v1)|null|
 |**2023-05-03**|**MolKD: Distilling Cross-Modal Knowledge in Chemical Reactions for Molecular Property Prediction**|Liang Zeng et.al.|[2305.01912v1](http://arxiv.org/abs/2305.01912v1)|null|
 |**2023-05-04**|**The Impacts of Dimensionality, Diffusion, and Directedness on Intrinsic Cross-Model Simulation in Tile-Based Self-Assembly**|Daniel Hader et.al.|[2305.01877v2](http://arxiv.org/abs/2305.01877v2)|null|
-|**2023-05-03**|**Unsupervised Improvement of Audio-Text Cross-Modal Representations**|Zhepei Wang et.al.|[2305.01864v1](http://arxiv.org/abs/2305.01864v1)|null|
+|**2023-05-05**|**Unsupervised Improvement of Audio-Text Cross-Modal Representations**|Zhepei Wang et.al.|[2305.01864v2](http://arxiv.org/abs/2305.01864v2)|null|
 |**2023-05-03**|**AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation**|Shentong Mo et.al.|[2305.01836v1](http://arxiv.org/abs/2305.01836v1)|null|
 |**2023-05-02**|**SLTUNET: A Simple Unified Model for Sign Language Translation**|Biao Zhang et.al.|[2305.01778v1](http://arxiv.org/abs/2305.01778v1)|**[link](https://github.com/bzhangGo/sltunet)**|
 |**2023-05-02**|**SIA-FTP: A Spoken Instruction Aware Flight Trajectory Prediction Framework**|Dongyue Guo et.al.|[2305.01661v1](http://arxiv.org/abs/2305.01661v1)|null|
