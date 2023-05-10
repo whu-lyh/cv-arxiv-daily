@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.09
+## Updated on 2023.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -137,6 +137,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**Learning Summary-Worthy Visual Representation for Abstractive Summarization in Video**|Zenan Xu et.al.|[2305.04824v1](http://arxiv.org/abs/2305.04824v1)|null|
+|**2023-05-09**|**MultiModal-GPT: A Vision and Language Model for Dialogue with Humans**|Tao Gong et.al.|[2305.04790v2](http://arxiv.org/abs/2305.04790v2)|**[link](https://github.com/open-mmlab/multimodal-gpt)**|
+|**2023-05-08**|**ARDIE: AR, Dialogue, and Eye Gaze Policies for Human-Robot Collaboration**|Chelsea Zou et.al.|[2305.04685v1](http://arxiv.org/abs/2305.04685v1)|null|
+|**2023-05-08**|**A Multi-Modal Context Reasoning Approach for Conditional Inference on Joint Textual and Visual Clues**|Yunxin Li et.al.|[2305.04530v1](http://arxiv.org/abs/2305.04530v1)|**[link](https://github.com/yunxinli/multimodal-context-reasoning)**|
+|**2023-05-09**|**AlignSTS: Speech-to-Singing Conversion via Cross-Modal Alignment**|Ruiqi Li et.al.|[2305.04476v2](http://arxiv.org/abs/2305.04476v2)|null|
+|**2023-05-09**|**Vision Langauge Pre-training by Contrastive Learning with Cross-Modal Similarity Regulation**|Chaoya Jiang et.al.|[2305.04474v2](http://arxiv.org/abs/2305.04474v2)|null|
+|**2023-05-08**|**HACK: Learning a Parametric Head and Neck Model for High-fidelity Animation**|Longwen Zhang et.al.|[2305.04469v1](http://arxiv.org/abs/2305.04469v1)|null|
+|**2023-05-08**|**FashionTex: Controllable Virtual Try-on with Text and Texture**|Anran Lin et.al.|[2305.04451v1](http://arxiv.org/abs/2305.04451v1)|null|
+|**2023-05-07**|**Poses as Queries: Image-to-LiDAR Map Localization with Transformers**|Jinyu Miao et.al.|[2305.04298v1](http://arxiv.org/abs/2305.04298v1)|null|
+|**2023-05-07**|**Instance-Variant Loss with Gaussian RBF Kernel for 3D Cross-modal Retriveal**|Zhitao Liu et.al.|[2305.04239v1](http://arxiv.org/abs/2305.04239v1)|null|
+|**2023-05-07**|**Visual Causal Scene Refinement for Video Question Answering**|Yushen Wei et.al.|[2305.04224v1](http://arxiv.org/abs/2305.04224v1)|null|
+|**2023-05-07**|**Cross-Modal Retrieval for Motion and Text via MildTriple Loss**|Sheng Yan et.al.|[2305.04195v1](http://arxiv.org/abs/2305.04195v1)|**[link](https://github.com/eanson023/rehamot)**|
+|**2023-05-07**|**X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages**|Feilong Chen et.al.|[2305.04160v1](http://arxiv.org/abs/2305.04160v1)|null|
+|**2023-05-07**|**SynthMix: Mixing up Aligned Synthesis for Medical Cross-Modality Domain Adaptation**|Xinwen Zhang et.al.|[2305.04156v1](http://arxiv.org/abs/2305.04156v1)|null|
+|**2023-05-06**|**Keyword-Based Diverse Image Retrieval by Semantics-aware Contrastive Learning and Transformer**|Minyi Zhao et.al.|[2305.04072v1](http://arxiv.org/abs/2305.04072v1)|null|
 |**2023-05-05**|**Otter: A Multi-Modal Model with In-Context Instruction Tuning**|Bo Li et.al.|[2305.03726v1](http://arxiv.org/abs/2305.03726v1)|null|
 |**2023-05-05**|**DualCross: Cross-Modality Cross-Domain Adaptation for Monocular BEV Perception**|Yunze Man et.al.|[2305.03724v1](http://arxiv.org/abs/2305.03724v1)|null|
 |**2023-05-05**|**COLA: How to adapt vision-language models to Compose Objects Localized with Attributes?**|Arijit Ray et.al.|[2305.03689v1](http://arxiv.org/abs/2305.03689v1)|null|
@@ -809,6 +824,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**AvatarReX: Real-time Expressive Full-body Avatars**|Zerong Zheng et.al.|[2305.04789v1](http://arxiv.org/abs/2305.04789v1)|null|
+|**2023-05-07**|**HashCC: Lightweight Method to Improve the Quality of the Camera-less NeRF Scene Generation**|Jan Olszewski et.al.|[2305.04296v1](http://arxiv.org/abs/2305.04296v1)|null|
+|**2023-05-07**|**Multi-Space Neural Radiance Fields**|Ze-Xin Yin et.al.|[2305.04268v1](http://arxiv.org/abs/2305.04268v1)|null|
 |**2023-05-04**|**NeRF-QA: Neural Radiance Fields Quality Assessment Database**|Pedro Martin et.al.|[2305.03176v1](http://arxiv.org/abs/2305.03176v1)|null|
 |**2023-05-04**|**NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds**|Jun-Kun Chen et.al.|[2305.03049v1](http://arxiv.org/abs/2305.03049v1)|null|
 |**2023-05-04**|**Radiance Field Gradient Scaling for Unbiased Near-Camera Training**|Julien Philip et.al.|[2305.02756v1](http://arxiv.org/abs/2305.02756v1)|**[link](https://github.com/gradient-scaling/gradient-scaling.github.io)**|
