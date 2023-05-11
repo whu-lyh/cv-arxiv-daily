@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.10
+## Updated on 2023.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -137,6 +137,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**ImageBind: One Embedding Space To Bind Them All**|Rohit Girdhar et.al.|[2305.05665v1](http://arxiv.org/abs/2305.05665v1)|**[link](https://github.com/facebookresearch/imagebind)**|
+|**2023-05-10**|**InternChat: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language**|Zhaoyang Liu et.al.|[2305.05662v2](http://arxiv.org/abs/2305.05662v2)|**[link](https://github.com/opengvlab/internchat)**|
+|**2023-05-09**|**Integrating Holistic and Local Information to Estimate Emotional Reaction Intensity**|Yini Fang et.al.|[2305.05534v1](http://arxiv.org/abs/2305.05534v1)|**[link](https://github.com/hkust-nisl/abaw5)**|
+|**2023-05-09**|**Exploiting Pseudo Image Captions for Multimodal Summarization**|Chaoya Jiang et.al.|[2305.05496v1](http://arxiv.org/abs/2305.05496v1)|**[link](https://github.com/sitaproject/sita)**|
+|**2023-05-09**|**Guided Focal Stack Refinement Network for Light Field Salient Object Detection**|Bo Yuan et.al.|[2305.05260v1](http://arxiv.org/abs/2305.05260v1)|null|
+|**2023-05-09**|**SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models**|Shanshan Zhong et.al.|[2305.05189v1](http://arxiv.org/abs/2305.05189v1)|null|
+|**2023-05-10**|**E2TIMT: Efficient and Effective Modal Adapter for Text Image Machine Translation**|Cong Ma et.al.|[2305.05166v2](http://arxiv.org/abs/2305.05166v2)|**[link](https://github.com/ericongma/e2timt)**|
+|**2023-05-09**|**Comparing Foundation Models using Data Kernels**|Brandon Duderstadt et.al.|[2305.05126v1](http://arxiv.org/abs/2305.05126v1)|null|
+|**2023-05-08**|**Joint Moment Retrieval and Highlight Detection Via Natural Language Queries**|Richard Luo et.al.|[2305.04961v1](http://arxiv.org/abs/2305.04961v1)|**[link](https://github.com/skyline-9/visionary-vids)**|
 |**2023-05-08**|**Learning Summary-Worthy Visual Representation for Abstractive Summarization in Video**|Zenan Xu et.al.|[2305.04824v1](http://arxiv.org/abs/2305.04824v1)|null|
 |**2023-05-09**|**MultiModal-GPT: A Vision and Language Model for Dialogue with Humans**|Tao Gong et.al.|[2305.04790v2](http://arxiv.org/abs/2305.04790v2)|**[link](https://github.com/open-mmlab/multimodal-gpt)**|
 |**2023-05-08**|**ARDIE: AR, Dialogue, and Eye Gaze Policies for Human-Robot Collaboration**|Chelsea Zou et.al.|[2305.04685v1](http://arxiv.org/abs/2305.04685v1)|null|
@@ -824,6 +833,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces**|Yiqun Wang et.al.|[2305.05594v1](http://arxiv.org/abs/2305.05594v1)|**[link](https://github.com/yiqun-wang/pet-neus)**|
+|**2023-05-08**|**NerfAcc: Efficient Sampling Accelerates NeRFs**|Ruilong Li et.al.|[2305.04966v1](http://arxiv.org/abs/2305.04966v1)|null|
 |**2023-05-08**|**AvatarReX: Real-time Expressive Full-body Avatars**|Zerong Zheng et.al.|[2305.04789v1](http://arxiv.org/abs/2305.04789v1)|null|
 |**2023-05-07**|**HashCC: Lightweight Method to Improve the Quality of the Camera-less NeRF Scene Generation**|Jan Olszewski et.al.|[2305.04296v1](http://arxiv.org/abs/2305.04296v1)|null|
 |**2023-05-07**|**Multi-Space Neural Radiance Fields**|Ze-Xin Yin et.al.|[2305.04268v1](http://arxiv.org/abs/2305.04268v1)|null|
