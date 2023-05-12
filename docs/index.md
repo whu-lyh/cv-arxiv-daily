@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.11
+## Updated on 2023.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -137,8 +137,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-10**|**Joint Metrics Matter: A Better Standard for Trajectory Forecasting**|Erica Weng et.al.|[2305.06292v1](http://arxiv.org/abs/2305.06292v1)|null|
+|**2023-05-10**|**A Multi-modal Garden Dataset and Hybrid 3D Dense Reconstruction Framework Based on Panoramic Stereo Images for a Trimming Robot**|Can Pu et.al.|[2305.06278v1](http://arxiv.org/abs/2305.06278v1)|**[link](https://github.com/canpu999/trimbot-wageningen-slam-dataset)**|
+|**2023-05-10**|**DaGAN++: Depth-Aware Generative Adversarial Network for Talking Head Video Generation**|Fa-Ting Hong et.al.|[2305.06225v1](http://arxiv.org/abs/2305.06225v1)|**[link](https://github.com/harlanhong/cvpr2022-dagan)**|
+|**2023-05-10**|**Multi-Prompt with Depth Partitioned Cross-Modal Learning**|Yiqi Wang et.al.|[2305.06221v1](http://arxiv.org/abs/2305.06221v1)|**[link](https://github.com/wangyiqi/pmpo)**|
+|**2023-05-10**|**Multiclass MRI Brain Tumor Segmentation using 3D Attention-based U-Net**|Maryann M. Gitonga et.al.|[2305.06203v1](http://arxiv.org/abs/2305.06203v1)|null|
+|**2023-05-11**|**A Multi-modal Approach to Single-modal Visual Place Classification**|Tomoya Iwasaki et.al.|[2305.06179v2](http://arxiv.org/abs/2305.06179v2)|null|
+|**2023-05-10**|**MMoT: Mixture-of-Modality-Tokens Transformer for Composed Multimodal Conditional Image Synthesis**|Jianbin Zheng et.al.|[2305.05992v1](http://arxiv.org/abs/2305.05992v1)|null|
+|**2023-05-10**|**ChinaOpen: A Dataset for Open-world Multimodal Learning**|Aozhu Chen et.al.|[2305.05880v1](http://arxiv.org/abs/2305.05880v1)|null|
 |**2023-05-09**|**ImageBind: One Embedding Space To Bind Them All**|Rohit Girdhar et.al.|[2305.05665v1](http://arxiv.org/abs/2305.05665v1)|**[link](https://github.com/facebookresearch/imagebind)**|
-|**2023-05-10**|**InternChat: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language**|Zhaoyang Liu et.al.|[2305.05662v2](http://arxiv.org/abs/2305.05662v2)|**[link](https://github.com/opengvlab/internchat)**|
+|**2023-05-11**|**InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language**|Zhaoyang Liu et.al.|[2305.05662v3](http://arxiv.org/abs/2305.05662v3)|**[link](https://github.com/opengvlab/interngpt)**|
 |**2023-05-09**|**Integrating Holistic and Local Information to Estimate Emotional Reaction Intensity**|Yini Fang et.al.|[2305.05534v1](http://arxiv.org/abs/2305.05534v1)|**[link](https://github.com/hkust-nisl/abaw5)**|
 |**2023-05-09**|**Exploiting Pseudo Image Captions for Multimodal Summarization**|Chaoya Jiang et.al.|[2305.05496v1](http://arxiv.org/abs/2305.05496v1)|**[link](https://github.com/sitaproject/sita)**|
 |**2023-05-09**|**Guided Focal Stack Refinement Network for Light Field Salient Object Detection**|Bo Yuan et.al.|[2305.05260v1](http://arxiv.org/abs/2305.05260v1)|null|
@@ -833,6 +841,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-10**|**Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era**|Chenghao Li et.al.|[2305.06131v1](http://arxiv.org/abs/2305.06131v1)|null|
+|**2023-05-10**|**NeRF $^\textbf{2}$ : Neural Radio-Frequency Radiance Fields**|Xiaopeng Zhao et.al.|[2305.06118v1](http://arxiv.org/abs/2305.06118v1)|null|
+|**2023-05-09**|**Instant-NeRF: Instant On-Device Neural Radiance Field Training via Algorithm-Accelerator Co-Designed Near-Memory Processing**|Yang Zhao et.al.|[2305.05766v1](http://arxiv.org/abs/2305.05766v1)|null|
 |**2023-05-09**|**PET-NeuS: Positional Encoding Tri-Planes for Neural Surfaces**|Yiqun Wang et.al.|[2305.05594v1](http://arxiv.org/abs/2305.05594v1)|**[link](https://github.com/yiqun-wang/pet-neus)**|
 |**2023-05-08**|**NerfAcc: Efficient Sampling Accelerates NeRFs**|Ruilong Li et.al.|[2305.04966v1](http://arxiv.org/abs/2305.04966v1)|null|
 |**2023-05-08**|**AvatarReX: Real-time Expressive Full-body Avatars**|Zerong Zheng et.al.|[2305.04789v1](http://arxiv.org/abs/2305.04789v1)|null|
