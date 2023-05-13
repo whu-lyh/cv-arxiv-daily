@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.12
+## Updated on 2023.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -137,6 +137,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-11**|**Meta-hallucinator: Towards Few-Shot Cross-Modality Cardiac Image Segmentation**|Ziyuan Zhao et.al.|[2305.06978v1](http://arxiv.org/abs/2305.06978v1)|null|
+|**2023-05-11**|**EAML: Ensemble Self-Attention-based Mutual Learning Network for Document Image Classification**|Souhail Bakkali et.al.|[2305.06923v1](http://arxiv.org/abs/2305.06923v1)|null|
+|**2023-05-11**|**Multi-modal Multi-level Fusion for 3D Single Object Tracking**|Zhiheng Li et.al.|[2305.06794v1](http://arxiv.org/abs/2305.06794v1)|null|
+|**2023-05-11**|**Bi-level Dynamic Learning for Jointly Multi-modality Image Fusion and Beyond**|Zhu Liu et.al.|[2305.06720v1](http://arxiv.org/abs/2305.06720v1)|null|
+|**2023-05-10**|**ChatGPT-Like Large-Scale Foundation Models for Prognostics and Health Management: A Survey and Roadmaps**|Yan-Fu Li et.al.|[2305.06472v1](http://arxiv.org/abs/2305.06472v1)|null|
+|**2023-05-10**|**Combo of Thinking and Observing for Outside-Knowledge VQA**|Qingyi Si et.al.|[2305.06407v1](http://arxiv.org/abs/2305.06407v1)|**[link](https://github.com/phoebussi/thinking-while-observing)**|
+|**2023-05-10**|**Text-To-Concept (and Back) via Cross-Model Alignment**|Mazda Moayeri et.al.|[2305.06386v1](http://arxiv.org/abs/2305.06386v1)|null|
 |**2023-05-10**|**Joint Metrics Matter: A Better Standard for Trajectory Forecasting**|Erica Weng et.al.|[2305.06292v1](http://arxiv.org/abs/2305.06292v1)|null|
 |**2023-05-10**|**A Multi-modal Garden Dataset and Hybrid 3D Dense Reconstruction Framework Based on Panoramic Stereo Images for a Trimming Robot**|Can Pu et.al.|[2305.06278v1](http://arxiv.org/abs/2305.06278v1)|**[link](https://github.com/canpu999/trimbot-wageningen-slam-dataset)**|
 |**2023-05-10**|**DaGAN++: Depth-Aware Generative Adversarial Network for Talking Head Video Generation**|Fa-Ting Hong et.al.|[2305.06225v1](http://arxiv.org/abs/2305.06225v1)|**[link](https://github.com/harlanhong/cvpr2022-dagan)**|
