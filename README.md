@@ -171,7 +171,7 @@
 |**2023-05-09**|**Integrating Holistic and Local Information to Estimate Emotional Reaction Intensity**|Yini Fang et.al.|[2305.05534v1](http://arxiv.org/abs/2305.05534v1)|**[link](https://github.com/hkust-nisl/abaw5)**|
 |**2023-05-09**|**Exploiting Pseudo Image Captions for Multimodal Summarization**|Chaoya Jiang et.al.|[2305.05496v1](http://arxiv.org/abs/2305.05496v1)|**[link](https://github.com/sitaproject/sita)**|
 |**2023-05-09**|**Guided Focal Stack Refinement Network for Light Field Salient Object Detection**|Bo Yuan et.al.|[2305.05260v1](http://arxiv.org/abs/2305.05260v1)|null|
-|**2023-05-09**|**SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models**|Shanshan Zhong et.al.|[2305.05189v1](http://arxiv.org/abs/2305.05189v1)|null|
+|**2023-05-09**|**SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models**|Shanshan Zhong et.al.|[2305.05189v1](http://arxiv.org/abs/2305.05189v1)|**[link](https://github.com/Qrange-group/SUR-adapter)**|
 |**2023-05-10**|**E2TIMT: Efficient and Effective Modal Adapter for Text Image Machine Translation**|Cong Ma et.al.|[2305.05166v2](http://arxiv.org/abs/2305.05166v2)|**[link](https://github.com/ericongma/e2timt)**|
 |**2023-05-09**|**Comparing Foundation Models using Data Kernels**|Brandon Duderstadt et.al.|[2305.05126v1](http://arxiv.org/abs/2305.05126v1)|null|
 |**2023-05-08**|**Joint Moment Retrieval and Highlight Detection Via Natural Language Queries**|Richard Luo et.al.|[2305.04961v1](http://arxiv.org/abs/2305.04961v1)|**[link](https://github.com/skyline-9/visionary-vids)**|
@@ -181,7 +181,7 @@
 |**2023-05-08**|**A Multi-Modal Context Reasoning Approach for Conditional Inference on Joint Textual and Visual Clues**|Yunxin Li et.al.|[2305.04530v1](http://arxiv.org/abs/2305.04530v1)|**[link](https://github.com/yunxinli/multimodal-context-reasoning)**|
 |**2023-05-09**|**AlignSTS: Speech-to-Singing Conversion via Cross-Modal Alignment**|Ruiqi Li et.al.|[2305.04476v2](http://arxiv.org/abs/2305.04476v2)|null|
 |**2023-05-09**|**Vision Langauge Pre-training by Contrastive Learning with Cross-Modal Similarity Regulation**|Chaoya Jiang et.al.|[2305.04474v2](http://arxiv.org/abs/2305.04474v2)|null|
-|**2023-05-08**|**HACK: Learning a Parametric Head and Neck Model for High-fidelity Animation**|Longwen Zhang et.al.|[2305.04469v1](http://arxiv.org/abs/2305.04469v1)|null|
+|**2023-05-08**|**HACK: Learning a Parametric Head and Neck Model for High-fidelity Animation**|Longwen Zhang et.al.|[2305.04469v1](http://arxiv.org/abs/2305.04469v1)|**[link](https://github.com/zonelikewonderland/hack-model)**|
 |**2023-05-08**|**FashionTex: Controllable Virtual Try-on with Text and Texture**|Anran Lin et.al.|[2305.04451v1](http://arxiv.org/abs/2305.04451v1)|null|
 |**2023-05-07**|**Poses as Queries: Image-to-LiDAR Map Localization with Transformers**|Jinyu Miao et.al.|[2305.04298v1](http://arxiv.org/abs/2305.04298v1)|null|
 |**2023-05-07**|**Instance-Variant Loss with Gaussian RBF Kernel for 3D Cross-modal Retriveal**|Zhitao Liu et.al.|[2305.04239v1](http://arxiv.org/abs/2305.04239v1)|null|
@@ -190,7 +190,7 @@
 |**2023-05-07**|**X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages**|Feilong Chen et.al.|[2305.04160v1](http://arxiv.org/abs/2305.04160v1)|null|
 |**2023-05-07**|**SynthMix: Mixing up Aligned Synthesis for Medical Cross-Modality Domain Adaptation**|Xinwen Zhang et.al.|[2305.04156v1](http://arxiv.org/abs/2305.04156v1)|null|
 |**2023-05-06**|**Keyword-Based Diverse Image Retrieval by Semantics-aware Contrastive Learning and Transformer**|Minyi Zhao et.al.|[2305.04072v1](http://arxiv.org/abs/2305.04072v1)|null|
-|**2023-05-05**|**Otter: A Multi-Modal Model with In-Context Instruction Tuning**|Bo Li et.al.|[2305.03726v1](http://arxiv.org/abs/2305.03726v1)|null|
+|**2023-05-05**|**Otter: A Multi-Modal Model with In-Context Instruction Tuning**|Bo Li et.al.|[2305.03726v1](http://arxiv.org/abs/2305.03726v1)|**[link](https://github.com/luodian/otter)**|
 |**2023-05-05**|**DualCross: Cross-Modality Cross-Domain Adaptation for Monocular BEV Perception**|Yunze Man et.al.|[2305.03724v1](http://arxiv.org/abs/2305.03724v1)|null|
 |**2023-05-05**|**COLA: How to adapt vision-language models to Compose Objects Localized with Attributes?**|Arijit Ray et.al.|[2305.03689v1](http://arxiv.org/abs/2305.03689v1)|null|
 |**2023-05-04**|**SI-LSTM: Speaker Hybrid Long-short Term Memory and Cross Modal Attention for Emotion Recognition in Conversation**|Xingwei Liang et.al.|[2305.03506v1](http://arxiv.org/abs/2305.03506v1)|null|
@@ -211,7 +211,7 @@
 |**2023-05-03**|**Denoising Multi-modal Sequential Recommenders with Contrastive Learning**|Dong Yao et.al.|[2305.01915v1](http://arxiv.org/abs/2305.01915v1)|null|
 |**2023-05-03**|**MolKD: Distilling Cross-Modal Knowledge in Chemical Reactions for Molecular Property Prediction**|Liang Zeng et.al.|[2305.01912v1](http://arxiv.org/abs/2305.01912v1)|null|
 |**2023-05-04**|**The Impacts of Dimensionality, Diffusion, and Directedness on Intrinsic Cross-Model Simulation in Tile-Based Self-Assembly**|Daniel Hader et.al.|[2305.01877v2](http://arxiv.org/abs/2305.01877v2)|null|
-|**2023-05-05**|**Unsupervised Improvement of Audio-Text Cross-Modal Representations**|Zhepei Wang et.al.|[2305.01864v2](http://arxiv.org/abs/2305.01864v2)|null|
+|**2023-05-05**|**Unsupervised Improvement of Audio-Text Cross-Modal Representations**|Zhepei Wang et.al.|[2305.01864v2](http://arxiv.org/abs/2305.01864v2)|**[link](https://github.com/zhepeiw/clap_curation)**|
 |**2023-05-03**|**AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation**|Shentong Mo et.al.|[2305.01836v1](http://arxiv.org/abs/2305.01836v1)|null|
 |**2023-05-02**|**SLTUNET: A Simple Unified Model for Sign Language Translation**|Biao Zhang et.al.|[2305.01778v1](http://arxiv.org/abs/2305.01778v1)|**[link](https://github.com/bzhangGo/sltunet)**|
 |**2023-05-02**|**SIA-FTP: A Spoken Instruction Aware Flight Trajectory Prediction Framework**|Dongyue Guo et.al.|[2305.01661v1](http://arxiv.org/abs/2305.01661v1)|null|
@@ -287,7 +287,7 @@
 |**2023-04-20**|**Learning CLIP Guided Visual-Text Fusion Transformer for Video-based Pedestrian Attribute Recognition**|Jun Zhu et.al.|[2304.10091v1](http://arxiv.org/abs/2304.10091v1)|null|
 |**2023-04-19**|**A robust and interpretable deep learning framework for multi-modal registration via keypoints**|Alan Q. Wang et.al.|[2304.09941v1](http://arxiv.org/abs/2304.09941v1)|**[link](https://github.com/evanmy/keymorph)**|
 |**2023-04-19**|**Regularization for distributionally robust state estimation and prediction**|Jean-Sébastien Brouillon et.al.|[2304.09921v1](http://arxiv.org/abs/2304.09921v1)|null|
-|**2023-04-19**|**MetaBEV: Solving Sensor Failures for BEV Detection and Map Segmentation**|Chongjian Ge et.al.|[2304.09801v1](http://arxiv.org/abs/2304.09801v1)|null|
+|**2023-04-19**|**MetaBEV: Solving Sensor Failures for BEV Detection and Map Segmentation**|Chongjian Ge et.al.|[2304.09801v1](http://arxiv.org/abs/2304.09801v1)|**[link](https://github.com/ChongjianGE/MetaBEV)**|
 |**2023-04-19**|**CrossFusion: Interleaving Cross-modal Complementation for Noise-resistant 3D Object Detection**|Yang Yang et.al.|[2304.09694v1](http://arxiv.org/abs/2304.09694v1)|null|
 |**2023-04-19**|**MMDR: A Result Feature Fusion Object Detection Approach for Autonomous System**|Wendong Zhang et.al.|[2304.09609v1](http://arxiv.org/abs/2304.09609v1)|null|
 |**2023-04-19**|**Learning Robust Visual-Semantic Embedding for Generalizable Person Re-identification**|Suncheng Xiang et.al.|[2304.09498v1](http://arxiv.org/abs/2304.09498v1)|**[link](https://github.com/jeremyxsc/mmet)**|
