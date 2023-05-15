@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.14
+## Updated on 2023.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -141,7 +141,7 @@ layout: default
 |**2023-05-11**|**EAML: Ensemble Self-Attention-based Mutual Learning Network for Document Image Classification**|Souhail Bakkali et.al.|[2305.06923v1](http://arxiv.org/abs/2305.06923v1)|null|
 |**2023-05-11**|**Multi-modal Multi-level Fusion for 3D Single Object Tracking**|Zhiheng Li et.al.|[2305.06794v1](http://arxiv.org/abs/2305.06794v1)|null|
 |**2023-05-11**|**Bi-level Dynamic Learning for Jointly Multi-modality Image Fusion and Beyond**|Zhu Liu et.al.|[2305.06720v1](http://arxiv.org/abs/2305.06720v1)|null|
-|**2023-05-10**|**ChatGPT-Like Large-Scale Foundation Models for Prognostics and Health Management: A Survey and Roadmaps**|Yan-Fu Li et.al.|[2305.06472v1](http://arxiv.org/abs/2305.06472v1)|null|
+|**2023-05-12**|**ChatGPT-Like Large-Scale Foundation Models for Prognostics and Health Management: A Survey and Roadmaps**|Yan-Fu Li et.al.|[2305.06472v2](http://arxiv.org/abs/2305.06472v2)|null|
 |**2023-05-10**|**Combo of Thinking and Observing for Outside-Knowledge VQA**|Qingyi Si et.al.|[2305.06407v1](http://arxiv.org/abs/2305.06407v1)|**[link](https://github.com/phoebussi/thinking-while-observing)**|
 |**2023-05-10**|**Text-To-Concept (and Back) via Cross-Model Alignment**|Mazda Moayeri et.al.|[2305.06386v1](http://arxiv.org/abs/2305.06386v1)|null|
 |**2023-05-10**|**Joint Metrics Matter: A Better Standard for Trajectory Forecasting**|Erica Weng et.al.|[2305.06292v1](http://arxiv.org/abs/2305.06292v1)|null|
