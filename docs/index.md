@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.21
+## Updated on 2023.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -142,7 +142,7 @@ layout: default
 |**2023-05-18**|**XFormer: Fast and Accurate Monocular 3D Body Capture**|Lihui Qian et.al.|[2305.11101v1](http://arxiv.org/abs/2305.11101v1)|null|
 |**2023-05-18**|**Cross-modality Data Augmentation for End-to-End Sign Language Translation**|Jinhui Ye et.al.|[2305.11096v1](http://arxiv.org/abs/2305.11096v1)|null|
 |**2023-05-18**|**SDC-UDA: Volumetric Unsupervised Domain Adaptation Framework for Slice-Direction Continuous Cross-Modality Medical Image Segmentation**|Hyungseob Shin et.al.|[2305.11012v1](http://arxiv.org/abs/2305.11012v1)|null|
-|**2023-05-18**|**SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities**|Dong Zhang et.al.|[2305.11000v1](http://arxiv.org/abs/2305.11000v1)|**[link](https://github.com/0nutation/speechgpt)**|
+|**2023-05-19**|**SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities**|Dong Zhang et.al.|[2305.11000v2](http://arxiv.org/abs/2305.11000v2)|**[link](https://github.com/0nutation/speechgpt)**|
 |**2023-05-18**|**Emergent Communication with Attention**|Ryokan Ri et.al.|[2305.10920v1](http://arxiv.org/abs/2305.10920v1)|null|
 |**2023-05-18**|**ProgSG: Cross-Modality Representation Learning for Programs in Electronic Design Automation**|Yunsheng Bai et.al.|[2305.10838v1](http://arxiv.org/abs/2305.10838v1)|null|
 |**2023-05-18**|**Transforming Human-Centered AI Collaboration: Redefining Embodied Agents Capabilities through Interactive Grounded Language Instructions**|Shrestha Mohanty et.al.|[2305.10783v1](http://arxiv.org/abs/2305.10783v1)|null|
