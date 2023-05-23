@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.22
+## Updated on 2023.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -137,10 +137,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-19**|**Improving Multimodal Joint Variational Autoencoders through Normalizing Flows and Correlation Analysis**|Agathe Senellart et.al.|[2305.11832v1](http://arxiv.org/abs/2305.11832v1)|null|
+|**2023-05-19**|**MaGIC: Multi-modality Guided Image Completion**|Yongsheng Yu et.al.|[2305.11818v1](http://arxiv.org/abs/2305.11818v1)|null|
+|**2023-05-19**|**Information Screening whilst Exploiting! Multimodal Relation Extraction with Feature Denoising and Multimodal Topic Modeling**|Shengqiong Wu et.al.|[2305.11719v1](http://arxiv.org/abs/2305.11719v1)|**[link](https://github.com/chocowu/mre-ise)**|
+|**2023-05-19**|**Speech-Text Dialog Pre-training for Spoken Dialog Understanding with Explicit Cross-Modal Alignment**|Tianshu Yu et.al.|[2305.11579v1](http://arxiv.org/abs/2305.11579v1)|**[link](https://github.com/alibabaresearch/damo-convai)**|
+|**2023-05-19**|**A Topic-aware Summarization Framework with Different Modal Side Information**|Xiuying Chen et.al.|[2305.11503v1](http://arxiv.org/abs/2305.11503v1)|null|
+|**2023-05-22**|**CM-MaskSD: Cross-Modality Masked Self-Distillation for Referring Image Segmentation**|Wenxuan Wang et.al.|[2305.11481v2](http://arxiv.org/abs/2305.11481v2)|null|
+|**2023-05-19**|**Equivariant Multi-Modality Image Fusion**|Zixiang Zhao et.al.|[2305.11443v1](http://arxiv.org/abs/2305.11443v1)|null|
+|**2023-05-19**|**Few-Shot Learning with Visual Distribution Calibration and Cross-Modal Distribution Alignment**|Runqi Wang et.al.|[2305.11439v1](http://arxiv.org/abs/2305.11439v1)|**[link](https://github.com/bhrqw/sada)**|
+|**2023-05-19**|**Fast-StrucTexT: An Efficient Hourglass Transformer with Modality-guided Dynamic Token Merge for Document Understanding**|Mingliang Zhai et.al.|[2305.11392v1](http://arxiv.org/abs/2305.11392v1)|null|
+|**2023-05-18**|**Unsupervised Domain-agnostic Fake News Detection using Multi-modal Weak Signals**|Amila Silva et.al.|[2305.11349v1](http://arxiv.org/abs/2305.11349v1)|null|
+|**2023-05-18**|**MALM: Mask Augmentation based Local Matching for Food-Recipe Retrieval**|Bhanu Prakash Voutharoja et.al.|[2305.11327v1](http://arxiv.org/abs/2305.11327v1)|**[link](https://github.com/myfoodchoice/malm_mask_augmentation_based_local_matching-_for-_food_recipe_retrieval)**|
 |**2023-05-18**|**Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**|Siyuan Huang et.al.|[2305.11176v1](http://arxiv.org/abs/2305.11176v1)|**[link](https://github.com/opengvlab/instruct2act)**|
 |**2023-05-18**|**ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities**|Peng Wang et.al.|[2305.11172v1](http://arxiv.org/abs/2305.11172v1)|**[link](https://github.com/OFA-Sys/ONE-PEACE)**|
 |**2023-05-18**|**XFormer: Fast and Accurate Monocular 3D Body Capture**|Lihui Qian et.al.|[2305.11101v1](http://arxiv.org/abs/2305.11101v1)|null|
-|**2023-05-18**|**Cross-modality Data Augmentation for End-to-End Sign Language Translation**|Jinhui Ye et.al.|[2305.11096v1](http://arxiv.org/abs/2305.11096v1)|null|
+|**2023-05-22**|**Cross-modality Data Augmentation for End-to-End Sign Language Translation**|Jinhui Ye et.al.|[2305.11096v2](http://arxiv.org/abs/2305.11096v2)|null|
 |**2023-05-18**|**SDC-UDA: Volumetric Unsupervised Domain Adaptation Framework for Slice-Direction Continuous Cross-Modality Medical Image Segmentation**|Hyungseob Shin et.al.|[2305.11012v1](http://arxiv.org/abs/2305.11012v1)|null|
 |**2023-05-19**|**SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities**|Dong Zhang et.al.|[2305.11000v2](http://arxiv.org/abs/2305.11000v2)|**[link](https://github.com/0nutation/speechgpt)**|
 |**2023-05-18**|**Emergent Communication with Attention**|Ryokan Ri et.al.|[2305.10920v1](http://arxiv.org/abs/2305.10920v1)|null|
@@ -894,6 +905,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-19**|**Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields**|Jingbo Zhang et.al.|[2305.11588v1](http://arxiv.org/abs/2305.11588v1)|null|
 |**2023-05-18**|**MVPSNet: Fast Generalizable Multi-view Photometric Stereo**|Dongxu Zhao et.al.|[2305.11167v1](http://arxiv.org/abs/2305.11167v1)|null|
 |**2023-05-18**|**ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis**|Shoukang Hu et.al.|[2305.11031v1](http://arxiv.org/abs/2305.11031v1)|**[link](https://github.com/skhu101/consistentnerf)**|
 |**2023-05-17**|**MultiPlaneNeRF: Neural Radiance Field with Non-Trainable Representation**|Dominik Zimny et.al.|[2305.10579v1](http://arxiv.org/abs/2305.10579v1)|**[link](https://github.com/gmum/multiplanenerf)**|
