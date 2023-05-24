@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.23
+## Updated on 2023.05.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -137,6 +137,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-22**|**Fast Monocular Scene Reconstruction with Global-Sparse Local-Dense Grids**|Wei Dong et.al.|[2305.13220v1](http://arxiv.org/abs/2305.13220v1)|null|
+|**2023-05-22**|**Enhancing Next Active Object-based Egocentric Action Anticipation with Guided Attention**|Sanket Thakur et.al.|[2305.12953v1](http://arxiv.org/abs/2305.12953v1)|null|
+|**2023-05-22**|**DiffAVA: Personalized Text-to-Audio Generation with Visual Alignment**|Shentong Mo et.al.|[2305.12903v1](http://arxiv.org/abs/2305.12903v1)|null|
+|**2023-05-22**|**Non-Autoregressive Document-Level Machine Translation (NA-DMT): Exploring Effective Approaches, Challenges, and Opportunities**|Guangsheng Bao et.al.|[2305.12878v1](http://arxiv.org/abs/2305.12878v1)|**[link](https://github.com/baoguangsheng/nat-on-doc)**|
+|**2023-05-22**|**Multi-task Combinatorial Optimization: Adaptive Multi-modality Knowledge Transfer by an Explicit Inter-task Distance**|Peng Li et.al.|[2305.12807v1](http://arxiv.org/abs/2305.12807v1)|null|
+|**2023-05-22**|**Zero-Shot End-to-End Spoken Language Understanding via Cross-Modal Selective Self-Training**|Jianfeng He et.al.|[2305.12793v1](http://arxiv.org/abs/2305.12793v1)|null|
+|**2023-05-22**|**Unsupervised Visible-Infrared Person ReID by Collaborative Learning with Neighbor-Guided Label Refinement**|De Cheng et.al.|[2305.12711v1](http://arxiv.org/abs/2305.12711v1)|null|
+|**2023-05-22**|**Progressive Sub-Graph Clustering Algorithm for Semi-Supervised Domain Adaptation Speaker Verification**|Zhuo Li et.al.|[2305.12703v1](http://arxiv.org/abs/2305.12703v1)|null|
+|**2023-05-22**|**Efficient Bilateral Cross-Modality Cluster Matching for Unsupervised Visible-Infrared Person ReID**|De cheng et.al.|[2305.12673v1](http://arxiv.org/abs/2305.12673v1)|null|
+|**2023-05-21**|**Towards Robust Family-Infant Audio Analysis Based on Unsupervised Pretraining of Wav2vec 2.0 on Large-Scale Unlabeled Family Audio**|Jialu Li et.al.|[2305.12530v1](http://arxiv.org/abs/2305.12530v1)|null|
+|**2023-05-21**|**Advancing Referring Expression Segmentation Beyond Single Image**|Yixuan Wu et.al.|[2305.12452v1](http://arxiv.org/abs/2305.12452v1)|null|
+|**2023-05-21**|**HIINT: Historical, Intra- and Inter- personal Dynamics Modeling with Cross-person Memory Transformer**|Yubin Kim et.al.|[2305.12369v1](http://arxiv.org/abs/2305.12369v1)|null|
+|**2023-05-20**|**Cross2StrA: Unpaired Cross-lingual Image Captioning with Cross-lingual Cross-modal Structure-pivoted Alignment**|Shengqiong Wu et.al.|[2305.12260v1](http://arxiv.org/abs/2305.12260v1)|null|
+|**2023-05-20**|**Text-Video Retrieval with Disentangled Conceptualization and Set-to-Set Alignment**|Peng Jin et.al.|[2305.12218v1](http://arxiv.org/abs/2305.12218v1)|**[link](https://github.com/jpthu17/dicosa)**|
+|**2023-05-19**|**Boosting Crop Classification by Hierarchically Fusing Satellite, Rotational, and Contextual Data**|Barriere Valentin et.al.|[2305.12011v1](http://arxiv.org/abs/2305.12011v1)|null|
 |**2023-05-19**|**Improving Multimodal Joint Variational Autoencoders through Normalizing Flows and Correlation Analysis**|Agathe Senellart et.al.|[2305.11832v1](http://arxiv.org/abs/2305.11832v1)|null|
 |**2023-05-19**|**MaGIC: Multi-modality Guided Image Completion**|Yongsheng Yu et.al.|[2305.11818v1](http://arxiv.org/abs/2305.11818v1)|null|
 |**2023-05-19**|**Information Screening whilst Exploiting! Multimodal Relation Extraction with Feature Denoising and Multimodal Topic Modeling**|Shengqiong Wu et.al.|[2305.11719v1](http://arxiv.org/abs/2305.11719v1)|**[link](https://github.com/chocowu/mre-ise)**|
@@ -905,6 +920,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-22**|**NeRFuser: Large-Scale Scene Representation by NeRF Fusion**|Jiading Fang et.al.|[2305.13307v1](http://arxiv.org/abs/2305.13307v1)|**[link](https://github.com/ripl/nerfuser)**|
+|**2023-05-22**|**Registering Neural Radiance Fields as 3D Density Images**|Han Jiang et.al.|[2305.12843v1](http://arxiv.org/abs/2305.12843v1)|null|
 |**2023-05-19**|**Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields**|Jingbo Zhang et.al.|[2305.11588v1](http://arxiv.org/abs/2305.11588v1)|null|
 |**2023-05-18**|**MVPSNet: Fast Generalizable Multi-view Photometric Stereo**|Dongxu Zhao et.al.|[2305.11167v1](http://arxiv.org/abs/2305.11167v1)|null|
 |**2023-05-18**|**ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis**|Shoukang Hu et.al.|[2305.11031v1](http://arxiv.org/abs/2305.11031v1)|**[link](https://github.com/skhu101/consistentnerf)**|
