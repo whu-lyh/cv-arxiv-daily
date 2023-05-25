@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.24
+## Updated on 2023.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -137,6 +137,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-23**|**Text-guided 3D Human Generation from 2D Collections**|Tsu-Jui Fu et.al.|[2305.14312v1](http://arxiv.org/abs/2305.14312v1)|null|
+|**2023-05-24**|**DetGPT: Detect What You Need via Reasoning**|Renjie Pi et.al.|[2305.14167v2](http://arxiv.org/abs/2305.14167v2)|null|
+|**2023-05-23**|**Improving speech translation by fusing speech and text**|Wenbiao Yin et.al.|[2305.14042v1](http://arxiv.org/abs/2305.14042v1)|null|
+|**2023-05-23**|**Faster Video Moment Retrieval with Point-Level Supervision**|Xun Jiang et.al.|[2305.14017v1](http://arxiv.org/abs/2305.14017v1)|null|
+|**2023-05-23**|**CLIP4STR: A Simple Baseline for Scene Text Recognition with Pre-trained Vision-Language Model**|Shuai Zhao et.al.|[2305.14014v1](http://arxiv.org/abs/2305.14014v1)|null|
+|**2023-05-23**|**A Multi-Modal Network Equilibrium Model with Interacting Mobility Service Providers'Strategies**|Claudia Bandiera et.al.|[2305.13986v1](http://arxiv.org/abs/2305.13986v1)|null|
+|**2023-05-23**|**DiffHand: End-to-End Hand Mesh Reconstruction via Diffusion Models**|Lijun Li et.al.|[2305.13705v1](http://arxiv.org/abs/2305.13705v1)|null|
+|**2023-05-23**|**UNIMO-3: Multi-granularity Interaction for Vision-Language Representation Learning**|Hao Yang et.al.|[2305.13697v1](http://arxiv.org/abs/2305.13697v1)|null|
+|**2023-05-23**|**Optimizing Non-Autoregressive Transformers with Contrastive Learning**|Chenxin An et.al.|[2305.13667v1](http://arxiv.org/abs/2305.13667v1)|null|
+|**2023-05-23**|**Flare-Aware Cross-modal Enhancement Network for Multi-spectral Vehicle Re-identification**|Aihua Zheng et.al.|[2305.13659v1](http://arxiv.org/abs/2305.13659v1)|null|
+|**2023-05-23**|**RaSa: Relation and Sensitivity Aware Representation Learning for Text-based Person Search**|Yang Bai et.al.|[2305.13653v1](http://arxiv.org/abs/2305.13653v1)|null|
+|**2023-05-23**|**EDIS: Entity-Driven Image Search over Multimodal Web Content**|Siqi Liu et.al.|[2305.13631v1](http://arxiv.org/abs/2305.13631v1)|null|
+|**2023-05-22**|**Asynchronous Multi-Model Federated Learning over Wireless Networks: Theory, Modeling, and Optimization**|Zhan-Lun Chang et.al.|[2305.13503v1](http://arxiv.org/abs/2305.13503v1)|null|
 |**2023-05-22**|**Fast Monocular Scene Reconstruction with Global-Sparse Local-Dense Grids**|Wei Dong et.al.|[2305.13220v1](http://arxiv.org/abs/2305.13220v1)|null|
 |**2023-05-22**|**Enhancing Next Active Object-based Egocentric Action Anticipation with Guided Attention**|Sanket Thakur et.al.|[2305.12953v1](http://arxiv.org/abs/2305.12953v1)|null|
 |**2023-05-22**|**DiffAVA: Personalized Text-to-Audio Generation with Visual Alignment**|Shentong Mo et.al.|[2305.12903v1](http://arxiv.org/abs/2305.12903v1)|null|
@@ -920,13 +933,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**3D Open-vocabulary Segmentation with Foundation Models**|Kunhao Liu et.al.|[2305.14093v2](http://arxiv.org/abs/2305.14093v2)|**[link](https://github.com/kunhao-liu/3d-ovs)**|
 |**2023-05-22**|**NeRFuser: Large-Scale Scene Representation by NeRF Fusion**|Jiading Fang et.al.|[2305.13307v1](http://arxiv.org/abs/2305.13307v1)|**[link](https://github.com/ripl/nerfuser)**|
 |**2023-05-22**|**Registering Neural Radiance Fields as 3D Density Images**|Han Jiang et.al.|[2305.12843v1](http://arxiv.org/abs/2305.12843v1)|null|
 |**2023-05-19**|**Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields**|Jingbo Zhang et.al.|[2305.11588v1](http://arxiv.org/abs/2305.11588v1)|null|
 |**2023-05-18**|**MVPSNet: Fast Generalizable Multi-view Photometric Stereo**|Dongxu Zhao et.al.|[2305.11167v1](http://arxiv.org/abs/2305.11167v1)|null|
 |**2023-05-18**|**ConsistentNeRF: Enhancing Neural Radiance Fields with 3D Consistency for Sparse View Synthesis**|Shoukang Hu et.al.|[2305.11031v1](http://arxiv.org/abs/2305.11031v1)|**[link](https://github.com/skhu101/consistentnerf)**|
 |**2023-05-17**|**MultiPlaneNeRF: Neural Radiance Field with Non-Trainable Representation**|Dominik Zimny et.al.|[2305.10579v1](http://arxiv.org/abs/2305.10579v1)|**[link](https://github.com/gmum/multiplanenerf)**|
-|**2023-05-17**|**OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields**|Youtan Yin et.al.|[2305.10503v1](http://arxiv.org/abs/2305.10503v1)|null|
+|**2023-05-24**|**OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields**|Youtan Yin et.al.|[2305.10503v2](http://arxiv.org/abs/2305.10503v2)|**[link](https://github.com/cuteyyt/or-nerf)**|
 |**2023-05-16**|**NerfBridge: Bringing Real-time, Online Neural Radiance Field Training to Robotics**|Javier Yu et.al.|[2305.09761v1](http://arxiv.org/abs/2305.09761v1)|**[link](https://github.com/javieryu/nerf_bridge)**|
 |**2023-05-15**|**MV-Map: Offboard HD-Map Generation with Multi-view Consistency**|Ziyang Xie et.al.|[2305.08851v1](http://arxiv.org/abs/2305.08851v1)|**[link](https://github.com/ziyang-xie/mv-map)**|
 |**2023-05-12**|**BundleRecon: Ray Bundle-Based 3D Neural Reconstruction**|Weikun Zhang et.al.|[2305.07342v1](http://arxiv.org/abs/2305.07342v1)|null|
