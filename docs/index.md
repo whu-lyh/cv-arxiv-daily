@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.25
+## Updated on 2023.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -137,6 +137,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation**|Rongjie Huang et.al.|[2305.15403v1](http://arxiv.org/abs/2305.15403v1)|null|
+|**2023-05-24**|**Multi-Modal Mutual Attention and Iterative Interaction for Referring Image Segmentation**|Chang Liu et.al.|[2305.15302v1](http://arxiv.org/abs/2305.15302v1)|null|
+|**2023-05-24**|**MultiFusion: Fusing Pre-Trained Models for Multi-Lingual, Multi-Modal Image Generation**|Marco Bellagente et.al.|[2305.15296v1](http://arxiv.org/abs/2305.15296v1)|null|
+|**2023-05-24**|**Multi-modal Machine Learning for Vehicle Rating Predictions Using Image, Text, and Parametric Data**|Hanqi Su et.al.|[2305.15218v1](http://arxiv.org/abs/2305.15218v1)|null|
+|**2023-05-24**|**L-CAD: Language-based Colorization with Any-level Descriptions**|Zheng Chang et.al.|[2305.15217v1](http://arxiv.org/abs/2305.15217v1)|null|
+|**2023-05-24**|**Collaborative Recommendation Model Based on Multi-modal Multi-view Attention Network: Movie and literature cases**|Zheng Hu et.al.|[2305.15159v1](http://arxiv.org/abs/2305.15159v1)|null|
+|**2023-05-24**|**InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields**|Dongqing Wang et.al.|[2305.15094v1](http://arxiv.org/abs/2305.15094v1)|null|
+|**2023-05-24**|**SmartTrim: Adaptive Tokens and Parameters Pruning for Efficient Vision-Language Models**|Zekun Wang et.al.|[2305.15033v1](http://arxiv.org/abs/2305.15033v1)|null|
+|**2023-05-24**|**Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models**|Gen Luo et.al.|[2305.15023v1](http://arxiv.org/abs/2305.15023v1)|null|
+|**2023-05-24**|**EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought**|Yao Mu et.al.|[2305.15021v1](http://arxiv.org/abs/2305.15021v1)|null|
+|**2023-05-24**|**MMNet: Multi-Mask Network for Referring Image Segmentation**|Yichen Yan et.al.|[2305.14969v1](http://arxiv.org/abs/2305.14969v1)|null|
+|**2023-05-24**|**GAMUS: A Geometry-aware Multi-modal Semantic Segmentation Benchmark for Remote Sensing Data**|Zhitong Xiong et.al.|[2305.14914v1](http://arxiv.org/abs/2305.14914v1)|null|
+|**2023-05-24**|**Text encoders are performance bottlenecks in contrastive vision-language models**|Amita Kamath et.al.|[2305.14897v1](http://arxiv.org/abs/2305.14897v1)|null|
+|**2023-05-24**|**Meta-Learning For Vision-and-Language Cross-lingual Transfer**|Hanxu Hu et.al.|[2305.14843v1](http://arxiv.org/abs/2305.14843v1)|null|
+|**2023-05-24**|**PaCE: Unified Multi-modal Dialogue Pre-training with Progressive and Compositional Experts**|Yunshui Li et.al.|[2305.14839v1](http://arxiv.org/abs/2305.14839v1)|null|
 |**2023-05-23**|**Text-guided 3D Human Generation from 2D Collections**|Tsu-Jui Fu et.al.|[2305.14312v1](http://arxiv.org/abs/2305.14312v1)|null|
 |**2023-05-24**|**DetGPT: Detect What You Need via Reasoning**|Renjie Pi et.al.|[2305.14167v2](http://arxiv.org/abs/2305.14167v2)|null|
 |**2023-05-23**|**Improving speech translation by fusing speech and text**|Wenbiao Yin et.al.|[2305.14042v1](http://arxiv.org/abs/2305.14042v1)|null|
@@ -933,6 +948,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**|Xinhang Liu et.al.|[2305.15171v1](http://arxiv.org/abs/2305.15171v1)|null|
+|**2023-05-24**|**InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields**|Dongqing Wang et.al.|[2305.15094v1](http://arxiv.org/abs/2305.15094v1)|null|
+|**2023-05-24**|**OD-NeRF: Efficient Training of On-the-Fly Dynamic Neural Radiance Fields**|Zhiwen Yan et.al.|[2305.14831v1](http://arxiv.org/abs/2305.14831v1)|null|
 |**2023-05-24**|**3D Open-vocabulary Segmentation with Foundation Models**|Kunhao Liu et.al.|[2305.14093v2](http://arxiv.org/abs/2305.14093v2)|**[link](https://github.com/kunhao-liu/3d-ovs)**|
 |**2023-05-22**|**NeRFuser: Large-Scale Scene Representation by NeRF Fusion**|Jiading Fang et.al.|[2305.13307v1](http://arxiv.org/abs/2305.13307v1)|**[link](https://github.com/ripl/nerfuser)**|
 |**2023-05-22**|**Registering Neural Radiance Fields as 3D Density Images**|Han Jiang et.al.|[2305.12843v1](http://arxiv.org/abs/2305.12843v1)|null|
