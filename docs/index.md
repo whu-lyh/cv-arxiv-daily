@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.26
+## Updated on 2023.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -137,6 +137,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-25**|**Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation**|Shilin Yan et.al.|[2305.16318v1](http://arxiv.org/abs/2305.16318v1)|**[link](https://github.com/opengvlab/mutr)**|
+|**2023-05-25**|**Candidate Set Re-ranking for Composed Image Retrieval with Dual Multi-modal Encoder**|Zheyuan Liu et.al.|[2305.16304v1](http://arxiv.org/abs/2305.16304v1)|null|
+|**2023-05-25**|**Multimodal Relation Extraction with Cross-Modal Retrieval and Synthesis**|Xuming Hu et.al.|[2305.16166v1](http://arxiv.org/abs/2305.16166v1)|null|
+|**2023-05-25**|**VioLA: Unified Codec Language Models for Speech Recognition, Synthesis, and Translation**|Tianrui Wang et.al.|[2305.16107v1](http://arxiv.org/abs/2305.16107v1)|null|
+|**2023-05-25**|**DiffCLIP: Leveraging Stable Diffusion for Language Grounded 3D Classification**|Sitian Shen et.al.|[2305.15957v1](http://arxiv.org/abs/2305.15957v1)|null|
+|**2023-05-25**|**Learning and accurate generation of stochastic dynamics based on multi-model Generative Adversarial Networks**|Daniele Lanzoni et.al.|[2305.15920v1](http://arxiv.org/abs/2305.15920v1)|null|
+|**2023-05-25**|**MEMEX: Detecting Explanatory Evidence for Memes via Knowledge-Enriched Contextualization**|Shivam Sharma et.al.|[2305.15913v1](http://arxiv.org/abs/2305.15913v1)|**[link](https://github.com/lcs2-iiitd/memex_meme_evidence)**|
+|**2023-05-25**|**Language-Guided 3D Object Detection in Point Cloud for Autonomous Driving**|Wenhao Cheng et.al.|[2305.15765v1](http://arxiv.org/abs/2305.15765v1)|null|
+|**2023-05-25**|**Dynamic Enhancement Network for Partial Multi-modality Person Re-identification**|Aihua Zheng et.al.|[2305.15762v1](http://arxiv.org/abs/2305.15762v1)|null|
+|**2023-05-25**|**T2TD: Text-3D Generation Model based on Prior Knowledge Guidance**|Weizhi Nie et.al.|[2305.15753v1](http://arxiv.org/abs/2305.15753v1)|null|
+|**2023-05-25**|**CLIP3Dstyler: Language Guided 3D Arbitrary Neural Style Transfer**|Ming Gao et.al.|[2305.15732v1](http://arxiv.org/abs/2305.15732v1)|null|
+|**2023-05-25**|**Frame-Event Alignment and Fusion Network for High Frame Rate Tracking**|Jiqing Zhang et.al.|[2305.15688v1](http://arxiv.org/abs/2305.15688v1)|null|
+|**2023-05-24**|**Weakly Supervised Vision-and-Language Pre-training with Relative Representations**|Chi Chen et.al.|[2305.15483v1](http://arxiv.org/abs/2305.15483v1)|null|
 |**2023-05-24**|**AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation**|Rongjie Huang et.al.|[2305.15403v1](http://arxiv.org/abs/2305.15403v1)|null|
 |**2023-05-24**|**Multi-Modal Mutual Attention and Iterative Interaction for Referring Image Segmentation**|Chang Liu et.al.|[2305.15302v1](http://arxiv.org/abs/2305.15302v1)|null|
 |**2023-05-24**|**MultiFusion: Fusing Pre-Trained Models for Multi-Lingual, Multi-Modal Image Generation**|Marco Bellagente et.al.|[2305.15296v1](http://arxiv.org/abs/2305.15296v1)|null|
@@ -948,6 +961,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-25**|**Interactive Segment Anything NeRF with Feature Imitation**|Xiaokang Chen et.al.|[2305.16233v1](http://arxiv.org/abs/2305.16233v1)|null|
+|**2023-05-25**|**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**|Zhengyi Wang et.al.|[2305.16213v1](http://arxiv.org/abs/2305.16213v1)|**[link](https://github.com/thu-ml/prolificdreamer)**|
 |**2023-05-24**|**Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**|Xinhang Liu et.al.|[2305.15171v1](http://arxiv.org/abs/2305.15171v1)|null|
 |**2023-05-24**|**InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields**|Dongqing Wang et.al.|[2305.15094v1](http://arxiv.org/abs/2305.15094v1)|null|
 |**2023-05-24**|**OD-NeRF: Efficient Training of On-the-Fly Dynamic Neural Radiance Fields**|Zhiwen Yan et.al.|[2305.14831v1](http://arxiv.org/abs/2305.14831v1)|null|
