@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.29
+## Updated on 2023.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -137,13 +137,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**GeoVLN: Learning Geometry-Enhanced Visual Representation with Slot Attention for Vision-and-Language Navigation**|Jingyang Huo et.al.|[2305.17102v1](http://arxiv.org/abs/2305.17102v1)|null|
+|**2023-05-26**|**BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks**|Kai Zhang et.al.|[2305.17100v1](http://arxiv.org/abs/2305.17100v1)|**[link](https://github.com/taokz/biomedgpt)**|
+|**2023-05-26**|**SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation**|Zhuoyan Luo et.al.|[2305.17011v1](http://arxiv.org/abs/2305.17011v1)|null|
+|**2023-05-29**|**NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models**|Gengze Zhou et.al.|[2305.16986v2](http://arxiv.org/abs/2305.16986v2)|null|
+|**2023-05-26**|**S4M: Generating Radiology Reports by A Single Model for Multiple Body Parts**|Qi Chen et.al.|[2305.16685v1](http://arxiv.org/abs/2305.16685v1)|**[link](https://github.com/ytongxie/s4m)**|
+|**2023-05-26**|**LANISTR: Multimodal Learning from Structured and Unstructured Data**|Sayna Ebrahimi et.al.|[2305.16556v1](http://arxiv.org/abs/2305.16556v1)|null|
+|**2023-05-25**|**Credit Valuation Adjustment in Financial Networks**|Irena Barjašić et.al.|[2305.16434v1](http://arxiv.org/abs/2305.16434v1)|null|
+|**2023-05-25**|**Context-Aware Attention Layers coupled with Optimal Transport Domain Adaptation methods for recognizing dementia from spontaneous speech**|Loukas Ilias et.al.|[2305.16406v1](http://arxiv.org/abs/2305.16406v1)|null|
 |**2023-05-25**|**Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation**|Shilin Yan et.al.|[2305.16318v1](http://arxiv.org/abs/2305.16318v1)|**[link](https://github.com/opengvlab/mutr)**|
 |**2023-05-25**|**Candidate Set Re-ranking for Composed Image Retrieval with Dual Multi-modal Encoder**|Zheyuan Liu et.al.|[2305.16304v1](http://arxiv.org/abs/2305.16304v1)|null|
 |**2023-05-25**|**Multimodal Relation Extraction with Cross-Modal Retrieval and Synthesis**|Xuming Hu et.al.|[2305.16166v1](http://arxiv.org/abs/2305.16166v1)|null|
 |**2023-05-25**|**VioLA: Unified Codec Language Models for Speech Recognition, Synthesis, and Translation**|Tianrui Wang et.al.|[2305.16107v1](http://arxiv.org/abs/2305.16107v1)|null|
 |**2023-05-25**|**DiffCLIP: Leveraging Stable Diffusion for Language Grounded 3D Classification**|Sitian Shen et.al.|[2305.15957v1](http://arxiv.org/abs/2305.15957v1)|null|
 |**2023-05-25**|**Learning and accurate generation of stochastic dynamics based on multi-model Generative Adversarial Networks**|Daniele Lanzoni et.al.|[2305.15920v1](http://arxiv.org/abs/2305.15920v1)|null|
-|**2023-05-25**|**MEMEX: Detecting Explanatory Evidence for Memes via Knowledge-Enriched Contextualization**|Shivam Sharma et.al.|[2305.15913v1](http://arxiv.org/abs/2305.15913v1)|**[link](https://github.com/lcs2-iiitd/memex_meme_evidence)**|
+|**2023-05-27**|**MEMEX: Detecting Explanatory Evidence for Memes via Knowledge-Enriched Contextualization**|Shivam Sharma et.al.|[2305.15913v2](http://arxiv.org/abs/2305.15913v2)|**[link](https://github.com/lcs2-iiitd/memex_meme_evidence)**|
 |**2023-05-25**|**Language-Guided 3D Object Detection in Point Cloud for Autonomous Driving**|Wenhao Cheng et.al.|[2305.15765v1](http://arxiv.org/abs/2305.15765v1)|null|
 |**2023-05-25**|**Dynamic Enhancement Network for Partial Multi-modality Person Re-identification**|Aihua Zheng et.al.|[2305.15762v1](http://arxiv.org/abs/2305.15762v1)|null|
 |**2023-05-25**|**T2TD: Text-3D Generation Model based on Prior Knowledge Guidance**|Weizhi Nie et.al.|[2305.15753v1](http://arxiv.org/abs/2305.15753v1)|null|
@@ -898,7 +906,7 @@ layout: default
 |**2023-05-01**|**Point Cloud Semantic Segmentation**|Ivan Martinović et.al.|[2305.00773v1](http://arxiv.org/abs/2305.00773v1)|null|
 |**2023-04-28**|**Human Semantic Segmentation using Millimeter-Wave Radar Sparse Point Clouds**|Pengfei Song et.al.|[2304.14132v2](http://arxiv.org/abs/2304.14132v2)|null|
 |**2023-04-18**|**The integer point transform as a complete invariant**|Sinai Robins et.al.|[2304.08681v1](http://arxiv.org/abs/2304.08681v1)|null|
-|**2023-04-17**|**MoDA: Modeling Deformable 3D Objects from Casual Videos**|Chaoyue Song et.al.|[2304.08279v1](http://arxiv.org/abs/2304.08279v1)|**[link](https://github.com/chaoyuesong/moda)**|
+|**2023-05-27**|**MoDA: Modeling Deformable 3D Objects from Casual Videos**|Chaoyue Song et.al.|[2304.08279v2](http://arxiv.org/abs/2304.08279v2)|**[link](https://github.com/chaoyuesong/moda)**|
 |**2023-04-04**|**NPC: Neural Point Characters from Video**|Shih-Yang Su et.al.|[2304.02013v1](http://arxiv.org/abs/2304.02013v1)|null|
 |**2023-03-31**|**APPT : Asymmetric Parallel Point Transformer for 3D Point Cloud Understanding**|Hengjia Li et.al.|[2303.17815v1](http://arxiv.org/abs/2303.17815v1)|null|
 |**2023-03-22**|**Noether's theorem and Lie symmetries for time-dependent Hamilton-Lagrange systems**|Jürgen Struckmeier et.al.|[2303.15320v1](http://arxiv.org/abs/2303.15320v1)|null|
@@ -961,6 +969,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction**|Fusang Wang et.al.|[2305.16914v1](http://arxiv.org/abs/2305.16914v1)|null|
+|**2023-05-25**|**ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image**|Zhenzhen Weng et.al.|[2305.16411v1](http://arxiv.org/abs/2305.16411v1)|null|
 |**2023-05-25**|**Interactive Segment Anything NeRF with Feature Imitation**|Xiaokang Chen et.al.|[2305.16233v1](http://arxiv.org/abs/2305.16233v1)|null|
 |**2023-05-25**|**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**|Zhengyi Wang et.al.|[2305.16213v1](http://arxiv.org/abs/2305.16213v1)|**[link](https://github.com/thu-ml/prolificdreamer)**|
 |**2023-05-24**|**Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**|Xinhang Liu et.al.|[2305.15171v1](http://arxiv.org/abs/2305.15171v1)|null|
