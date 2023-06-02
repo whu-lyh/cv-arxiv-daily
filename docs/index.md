@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.01
+## Updated on 2023.06.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -137,6 +137,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**ViLaS: Integrating Vision and Language into Automatic Speech Recognition**|Minglun Han et.al.|[2305.19972v1](http://arxiv.org/abs/2305.19972v1)|null|
+|**2023-06-01**|**Joint Adaptive Representations for Image-Language Learning**|AJ Piergiovanni et.al.|[2305.19924v2](http://arxiv.org/abs/2305.19924v2)|null|
+|**2023-05-31**|**Structure-Aware Language Model Pretraining Improves Dense Retrieval on Structured Data**|Xinze Li et.al.|[2305.19912v1](http://arxiv.org/abs/2305.19912v1)|**[link](https://github.com/openmatch/openmatch)**|
+|**2023-05-31**|**Med-UniC: Unifying Cross-Lingual Medical Vision-Language Pre-Training by Diminishing Bias**|Zhongwei Wan et.al.|[2305.19894v1](http://arxiv.org/abs/2305.19894v1)|null|
+|**2023-05-31**|**Unveiling Cross Modality Bias in Visual Question Answering: A Causal View with Possible Worlds VQA**|Ali Vosoughi et.al.|[2305.19664v1](http://arxiv.org/abs/2305.19664v1)|null|
+|**2023-05-31**|**A Multi-Modal Transformer Network for Action Detection**|Matthew Korban et.al.|[2305.19624v1](http://arxiv.org/abs/2305.19624v1)|null|
+|**2023-06-01**|**Dense and Aligned Captions (DAC) Promote Compositional Reasoning in VL Models**|Sivan Doveh et.al.|[2305.19595v2](http://arxiv.org/abs/2305.19595v2)|null|
+|**2023-06-01**|**PromptStyle: Controllable Style Transfer for Text-to-Speech with Natural Language Descriptions**|Guanghou Liu et.al.|[2305.19522v2](http://arxiv.org/abs/2305.19522v2)|null|
 |**2023-05-30**|**Learning without Forgetting for Vision-Language Models**|Da-Wei Zhou et.al.|[2305.19270v1](http://arxiv.org/abs/2305.19270v1)|null|
 |**2023-05-30**|**NetHack is Hard to Hack**|Ulyana Piterbarg et.al.|[2305.19240v1](http://arxiv.org/abs/2305.19240v1)|null|
 |**2023-05-30**|**Unsupervised Melody-to-Lyric Generation**|Yufei Tian et.al.|[2305.19228v1](http://arxiv.org/abs/2305.19228v1)|null|
@@ -1000,13 +1008,13 @@ layout: default
 |**2023-05-30**|**DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**|Jiuhn Song et.al.|[2305.19201v1](http://arxiv.org/abs/2305.19201v1)|null|
 |**2023-05-30**|**Template-free Articulated Neural Point Clouds for Reposable View Synthesis**|Lukas Uzolas et.al.|[2305.19065v1](http://arxiv.org/abs/2305.19065v1)|**[link](https://github.com/lukasuz/articulated-point-nerf)**|
 |**2023-05-31**|**HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance**|Junzhe Zhu et.al.|[2305.18766v2](http://arxiv.org/abs/2305.18766v2)|null|
-|**2023-05-30**|**Towards a Robust Framework for NeRF Evaluation**|Adrian Azzarelli et.al.|[2305.18079v2](http://arxiv.org/abs/2305.18079v2)|null|
+|**2023-05-31**|**Towards a Robust Framework for NeRF Evaluation**|Adrian Azzarelli et.al.|[2305.18079v3](http://arxiv.org/abs/2305.18079v3)|null|
 |**2023-05-31**|**Volume Feature Rendering for Fast Neural Radiance Field Reconstruction**|Kang Han et.al.|[2305.17916v2](http://arxiv.org/abs/2305.17916v2)|null|
 |**2023-05-30**|**PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction**|Fusang Wang et.al.|[2305.16914v2](http://arxiv.org/abs/2305.16914v2)|null|
 |**2023-05-25**|**ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image**|Zhenzhen Weng et.al.|[2305.16411v1](http://arxiv.org/abs/2305.16411v1)|null|
 |**2023-05-25**|**Interactive Segment Anything NeRF with Feature Imitation**|Xiaokang Chen et.al.|[2305.16233v1](http://arxiv.org/abs/2305.16233v1)|null|
 |**2023-05-25**|**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**|Zhengyi Wang et.al.|[2305.16213v1](http://arxiv.org/abs/2305.16213v1)|**[link](https://github.com/thu-ml/prolificdreamer)**|
-|**2023-05-24**|**Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**|Xinhang Liu et.al.|[2305.15171v1](http://arxiv.org/abs/2305.15171v1)|null|
+|**2023-05-31**|**Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**|Xinhang Liu et.al.|[2305.15171v2](http://arxiv.org/abs/2305.15171v2)|null|
 |**2023-05-24**|**InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields**|Dongqing Wang et.al.|[2305.15094v1](http://arxiv.org/abs/2305.15094v1)|null|
 |**2023-05-24**|**OD-NeRF: Efficient Training of On-the-Fly Dynamic Neural Radiance Fields**|Zhiwen Yan et.al.|[2305.14831v1](http://arxiv.org/abs/2305.14831v1)|null|
 |**2023-05-24**|**3D Open-vocabulary Segmentation with Foundation Models**|Kunhao Liu et.al.|[2305.14093v2](http://arxiv.org/abs/2305.14093v2)|**[link](https://github.com/kunhao-liu/3d-ovs)**|
