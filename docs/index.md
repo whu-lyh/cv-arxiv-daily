@@ -185,8 +185,8 @@ layout: default
 |**2023-05-27**|**PuMer: Pruning and Merging Tokens for Efficient Vision Language Models**|Qingqing Cao et.al.|[2305.17530v1](http://arxiv.org/abs/2305.17530v1)|null|
 |**2023-05-27**|**CIF-PT: Bridging Speech and Text Representations for Spoken Language Understanding via Continuous Integrate-and-Fire Pre-Training**|Linhao Dong et.al.|[2305.17499v1](http://arxiv.org/abs/2305.17499v1)|null|
 |**2023-05-27**|**CrossGET: Cross-Guided Ensemble of Tokens for Accelerating Vision-Language Transformers**|Dachuan Shi et.al.|[2305.17455v1](http://arxiv.org/abs/2305.17455v1)|**[link](https://github.com/sdc17/crossget)**|
-|**2023-05-27**|**Modality-Independent Teachers Meet Weakly-Supervised Audio-Visual Event Parser**|Yung-Hsuan Lai et.al.|[2305.17343v1](http://arxiv.org/abs/2305.17343v1)|null|
-|**2023-05-26**|**GVdoc: Graph-based Visual Document Classification**|Fnu Mohbat et.al.|[2305.17219v1](http://arxiv.org/abs/2305.17219v1)|null|
+|**2023-05-27**|**Modality-Independent Teachers Meet Weakly-Supervised Audio-Visual Event Parser**|Yung-Hsuan Lai et.al.|[2305.17343v1](http://arxiv.org/abs/2305.17343v1)|**[link](https://github.com/franklin905/valor)**|
+|**2023-05-26**|**GVdoc: Graph-based Visual Document Classification**|Fnu Mohbat et.al.|[2305.17219v1](http://arxiv.org/abs/2305.17219v1)|**[link](https://github.com/mohbattharani/GVdoc)**|
 |**2023-05-26**|**GeoVLN: Learning Geometry-Enhanced Visual Representation with Slot Attention for Vision-and-Language Navigation**|Jingyang Huo et.al.|[2305.17102v1](http://arxiv.org/abs/2305.17102v1)|null|
 |**2023-05-26**|**BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks**|Kai Zhang et.al.|[2305.17100v1](http://arxiv.org/abs/2305.17100v1)|**[link](https://github.com/taokz/biomedgpt)**|
 |**2023-05-26**|**SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation**|Zhuoyan Luo et.al.|[2305.17011v1](http://arxiv.org/abs/2305.17011v1)|null|
@@ -232,7 +232,7 @@ layout: default
 |**2023-05-23**|**DiffHand: End-to-End Hand Mesh Reconstruction via Diffusion Models**|Lijun Li et.al.|[2305.13705v1](http://arxiv.org/abs/2305.13705v1)|null|
 |**2023-05-23**|**UNIMO-3: Multi-granularity Interaction for Vision-Language Representation Learning**|Hao Yang et.al.|[2305.13697v1](http://arxiv.org/abs/2305.13697v1)|null|
 |**2023-05-23**|**Optimizing Non-Autoregressive Transformers with Contrastive Learning**|Chenxin An et.al.|[2305.13667v1](http://arxiv.org/abs/2305.13667v1)|null|
-|**2023-05-23**|**Flare-Aware Cross-modal Enhancement Network for Multi-spectral Vehicle Re-identification**|Aihua Zheng et.al.|[2305.13659v1](http://arxiv.org/abs/2305.13659v1)|null|
+|**2023-05-23**|**Flare-Aware Cross-modal Enhancement Network for Multi-spectral Vehicle Re-identification**|Aihua Zheng et.al.|[2305.13659v1](http://arxiv.org/abs/2305.13659v1)|**[link](https://github.com/Mzq12138/Official-Implementation-for-Flare-Aware-Cross-modal-Enhancement-for-Multi-spectral-Vehicle-ReID)**|
 |**2023-05-23**|**RaSa: Relation and Sensitivity Aware Representation Learning for Text-based Person Search**|Yang Bai et.al.|[2305.13653v1](http://arxiv.org/abs/2305.13653v1)|null|
 |**2023-05-23**|**EDIS: Entity-Driven Image Search over Multimodal Web Content**|Siqi Liu et.al.|[2305.13631v1](http://arxiv.org/abs/2305.13631v1)|null|
 |**2023-05-22**|**Asynchronous Multi-Model Federated Learning over Wireless Networks: Theory, Modeling, and Optimization**|Zhan-Lun Chang et.al.|[2305.13503v1](http://arxiv.org/abs/2305.13503v1)|null|
@@ -270,7 +270,7 @@ layout: default
 |**2023-05-19**|**SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities**|Dong Zhang et.al.|[2305.11000v2](http://arxiv.org/abs/2305.11000v2)|**[link](https://github.com/0nutation/speechgpt)**|
 |**2023-05-18**|**Emergent Communication with Attention**|Ryokan Ri et.al.|[2305.10920v1](http://arxiv.org/abs/2305.10920v1)|null|
 |**2023-05-18**|**ProgSG: Cross-Modality Representation Learning for Programs in Electronic Design Automation**|Yunsheng Bai et.al.|[2305.10838v1](http://arxiv.org/abs/2305.10838v1)|null|
-|**2023-05-18**|**Transforming Human-Centered AI Collaboration: Redefining Embodied Agents Capabilities through Interactive Grounded Language Instructions**|Shrestha Mohanty et.al.|[2305.10783v1](http://arxiv.org/abs/2305.10783v1)|null|
+|**2023-05-18**|**Transforming Human-Centered AI Collaboration: Redefining Embodied Agents Capabilities through Interactive Grounded Language Instructions**|Shrestha Mohanty et.al.|[2305.10783v1](http://arxiv.org/abs/2305.10783v1)|**[link](https://github.com/iglu-contest/nlp-baselines-2022)**|
 |**2023-05-18**|**Rate-Adaptive Coding Mechanism for Semantic Communications With Multi-Modal Data**|Yangshuo He et.al.|[2305.10773v1](http://arxiv.org/abs/2305.10773v1)|null|
 |**2023-05-18**|**OpenShape: Scaling Up 3D Shape Representation Towards Open-World Understanding**|Minghua Liu et.al.|[2305.10764v1](http://arxiv.org/abs/2305.10764v1)|null|
 |**2023-05-18**|**CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-training**|Zhenhui Ye et.al.|[2305.10763v1](http://arxiv.org/abs/2305.10763v1)|null|
@@ -396,7 +396,7 @@ layout: default
 |**2023-04-27**|**Standpoint Linear Temporal Logic**|Nicola Gigante et.al.|[2304.14243v1](http://arxiv.org/abs/2304.14243v1)|null|
 |**2023-04-26**|**Towards Medical Artificial General Intelligence via Knowledge-Enhanced Multimodal Pretraining**|Bingqian Lin et.al.|[2304.14204v1](http://arxiv.org/abs/2304.14204v1)|**[link](https://github.com/chenzcv7/motor)**|
 |**2023-04-27**|**mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality**|Qinghao Ye et.al.|[2304.14178v1](http://arxiv.org/abs/2304.14178v1)|**[link](https://github.com/x-plug/mplug-owl)**|
-|**2023-04-27**|**Adaptive-Mask Fusion Network for Segmentation of Drivable Road and Negative Obstacle With Untrustworthy Features**|Zhen Feng et.al.|[2304.13979v1](http://arxiv.org/abs/2304.13979v1)|null|
+|**2023-04-27**|**Adaptive-Mask Fusion Network for Segmentation of Drivable Road and Negative Obstacle With Untrustworthy Features**|Zhen Feng et.al.|[2304.13979v1](http://arxiv.org/abs/2304.13979v1)|**[link](https://github.com/lab-sun/amfnet)**|
 |**2023-04-27**|**Retrieval-based Knowledge Augmented Vision Language Pre-training**|Jiahua Rao et.al.|[2304.13923v1](http://arxiv.org/abs/2304.13923v1)|null|
 |**2023-04-26**|**Mixtures of Gaussian process experts based on kernel stick-breaking processes**|Yuji Saikai et.al.|[2304.13833v1](http://arxiv.org/abs/2304.13833v1)|**[link](https://github.com/ysaikai/gpksbp)**|
 |**2023-04-26**|**A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering**|Alireza Salemi et.al.|[2304.13649v1](http://arxiv.org/abs/2304.13649v1)|**[link](https://github.com/alirezasalemi7/dedr-mm-fid)**|
@@ -568,7 +568,7 @@ layout: default
 |**2023-03-27**|**Quantum Multi-Model Fitting**|Matteo Farina et.al.|[2303.15444v1](http://arxiv.org/abs/2303.15444v1)|**[link](https://github.com/farinamatteo/qmmf)**|
 |**2023-03-27**|**Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning**|Siteng Huang et.al.|[2303.15230v1](http://arxiv.org/abs/2303.15230v1)|null|
 |**2023-03-27**|**Knowing the Distance: Understanding the Gap Between Synthetic and Real Data For Face Parsing**|Eli Friedman et.al.|[2303.15219v1](http://arxiv.org/abs/2303.15219v1)|null|
-|**2023-03-27**|**Contrastive Learning Is Spectral Clustering On Similarity Graph**|Zhiquan Tan et.al.|[2303.15103v1](http://arxiv.org/abs/2303.15103v1)|null|
+|**2023-03-27**|**Contrastive Learning Is Spectral Clustering On Similarity Graph**|Zhiquan Tan et.al.|[2303.15103v1](http://arxiv.org/abs/2303.15103v1)|**[link](https://github.com/yifanzhang-pro/kernel-infonce)**|
 |**2023-03-27**|**UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View**|Shengchao Zhou et.al.|[2303.15083v1](http://arxiv.org/abs/2303.15083v1)|**[link](https://github.com/megvii-research/cvpr2023-unidistill)**|
 |**2023-03-27**|**Borrowing Human Senses: Comment-Aware Self-Training for Social Media Multimodal Classification**|Chunpu Xu et.al.|[2303.15016v1](http://arxiv.org/abs/2303.15016v1)|**[link](https://github.com/cpaaax/multimodal_cast)**|
 |**2023-03-27**|**Curriculum Learning for Compositional Visual Reasoning**|Wafa Aissa et.al.|[2303.15006v1](http://arxiv.org/abs/2303.15006v1)|null|
@@ -801,7 +801,7 @@ layout: default
 |**2023-02-16**|**Unsupervised Domain Adaptation for MRI Volume Segmentation and Classification Using Image-to-Image Translation**|Satoshi Kondo et.al.|[2302.08016v1](http://arxiv.org/abs/2302.08016v1)|null|
 |**2023-02-15**|**COVID-VTS: Fact Extraction and Verification on Short Video Platforms**|Fuxiao Liu et.al.|[2302.07919v1](http://arxiv.org/abs/2302.07919v1)|**[link](https://github.com/fuxiaoliu/twitter-video-dataset)**|
 |**2023-02-15**|**Audio-Visual Contrastive Learning with Temporal Self-Supervision**|Simon Jenni et.al.|[2302.07702v1](http://arxiv.org/abs/2302.07702v1)|null|
-|**2023-02-16**|**Fine-tuning of sign language recognition models: a technical report**|Maxim Novopoltsev et.al.|[2302.07693v2](http://arxiv.org/abs/2302.07693v2)|null|
+|**2023-02-16**|**Fine-tuning of sign language recognition models: a technical report**|Maxim Novopoltsev et.al.|[2302.07693v2](http://arxiv.org/abs/2302.07693v2)|**[link](https://github.com/ds-hub-sochi/sl-techreport)**|
 |**2023-02-15**|**Depth- and Semantics-aware Multi-modal Domain Translation: Generating 3D Panoramic Color Images from LiDAR Point Clouds**|Tiago Cortinhal et.al.|[2302.07661v1](http://arxiv.org/abs/2302.07661v1)|**[link](https://github.com/tiagocortinhal/titan-next)**|
 |**2023-02-15**|**Continuous-Time Fixed-Lag Smoothing for LiDAR-Inertial-Camera SLAM**|Jiajun Lv et.al.|[2302.07456v1](http://arxiv.org/abs/2302.07456v1)|**[link](https://github.com/april-zju/clic)**|
 |**2023-02-14**|**Dual-mode adaptive-SVD ghost imaging**|Dajing Wang et.al.|[2302.07269v1](http://arxiv.org/abs/2302.07269v1)|null|
@@ -1201,7 +1201,7 @@ layout: default
 |**2023-03-08**|**DroNeRF: Real-time Multi-agent Drone Pose Optimization for Computing Neural Radiance Fields**|Dipam Patel et.al.|[2303.04322v1](http://arxiv.org/abs/2303.04322v1)|null|
 |**2023-03-07**|**NEPHELE: A Neural Platform for Highly Realistic Cloud Radiance Rendering**|Haimin Luo et.al.|[2303.04086v1](http://arxiv.org/abs/2303.04086v1)|null|
 |**2023-03-05**|**Semantic-aware Occlusion Filtering Neural Radiance Fields in the Wild**|Jaewon Lee et.al.|[2303.03966v1](http://arxiv.org/abs/2303.03966v1)|null|
-|**2023-03-07**|**Multiscale Tensor Decomposition and Rendering Equation Encoding for View Synthesis**|Kang Han et.al.|[2303.03808v1](http://arxiv.org/abs/2303.03808v1)|null|
+|**2023-03-07**|**Multiscale Tensor Decomposition and Rendering Equation Encoding for View Synthesis**|Kang Han et.al.|[2303.03808v1](http://arxiv.org/abs/2303.03808v1)|**[link](https://github.com/imkanghan/nrff)**|
 |**2023-03-10**|**Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervision**|Xiaoshuai Zhang et.al.|[2303.03361v2](http://arxiv.org/abs/2303.03361v2)|null|
 |**2023-03-07**|**Efficient Large-scale Scene Representation with a Hybrid of High-resolution Grid and Plane Features**|Yuqi Zhang et.al.|[2303.03003v2](http://arxiv.org/abs/2303.03003v2)|**[link](https://github.com/zyqz97/gp-nerf)**|
 |**2023-03-03**|**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**|Jiaxiang Tang et.al.|[2303.02091v1](http://arxiv.org/abs/2303.02091v1)|null|
@@ -1258,7 +1258,7 @@ layout: default
 |**2022-12-31**|**MEIL-NeRF: Memory-Efficient Incremental Learning of Neural Radiance Fields**|Jaeyoung Chung et.al.|[2212.08328v2](http://arxiv.org/abs/2212.08328v2)|null|
 |**2022-12-15**|**NeRF-Art: Text-Driven Neural Radiance Fields Stylization**|Can Wang et.al.|[2212.08070v1](http://arxiv.org/abs/2212.08070v1)|**[link](https://github.com/cassiePython/NeRF-Art)**|
 |**2022-12-15**|**Real-Time Neural Light Field on Mobile Devices**|Junli Cao et.al.|[2212.08057v1](http://arxiv.org/abs/2212.08057v1)|null|
-|**2022-12-14**|**NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior**|Wenjing Bian et.al.|[2212.07388v1](http://arxiv.org/abs/2212.07388v1)|null|
+|**2022-12-14**|**NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior**|Wenjing Bian et.al.|[2212.07388v1](http://arxiv.org/abs/2212.07388v1)|**[link](https://github.com/ActiveVisionLab/nope-nerf)**|
 |**2022-12-08**|**GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields**|Alessandro Ruzzi et.al.|[2212.04823v1](http://arxiv.org/abs/2212.04823v1)|**[link](https://github.com/alessandroruzzi/gazenerf)**|
 |**2022-12-09**|**4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**|Zhongshu Wang et.al.|[2212.04701v1](http://arxiv.org/abs/2212.04701v1)|**[link](https://github.com/frozoul/4k-nerf)**|
 
