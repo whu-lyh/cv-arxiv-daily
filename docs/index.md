@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.05
+## Updated on 2023.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-01**|**Event-based Visual Odometry with Full Temporal Resolution via Continuous-time Gaussian Process Regression**|Jianeng Wang et.al.|[2306.01188v1](http://arxiv.org/abs/2306.01188v1)|null|
+|**2023-06-01**|**ERGO-ML: Towards a robust machine learning model for inferring the fraction of accreted stars in galaxies from integral-field spectroscopic maps**|Eirini Angeloudi et.al.|[2306.01056v1](http://arxiv.org/abs/2306.01056v1)|null|
 |**2023-04-25**|**Vehicle State Estimation and Prediction**|Xinchen Li et.al.|[2304.11694v2](http://arxiv.org/abs/2304.11694v2)|null|
 |**2023-05-16**|**Continuous-Time Range-Only Pose Estimation**|Abhishek Goudar et.al.|[2304.09043v2](http://arxiv.org/abs/2304.09043v2)|null|
 |**2023-02-27**|**Estimation of continuous environments by robot swarms: Correlated networks and decision-making**|Mohsen Raoufi et.al.|[2302.13629v1](http://arxiv.org/abs/2302.13629v1)|null|
@@ -137,6 +139,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-02**|**DocFormerv2: Local Features for Document Understanding**|Srikar Appalaraju et.al.|[2306.01733v1](http://arxiv.org/abs/2306.01733v1)|null|
+|**2023-06-02**|**Bayesian Segmentation Modeling of Epidemic Growth**|Tejasv Bedi et.al.|[2306.01675v1](http://arxiv.org/abs/2306.01675v1)|null|
+|**2023-06-02**|**Backchannel Detection and Agreement Estimation from Video with Transformer Networks**|Ahmed Amer et.al.|[2306.01656v1](http://arxiv.org/abs/2306.01656v1)|null|
+|**2023-06-02**|**Transformer-based Multi-Modal Learning for Multi Label Remote Sensing Image Classification**|David Hoffmann et.al.|[2306.01523v1](http://arxiv.org/abs/2306.01523v1)|null|
+|**2023-06-02**|**Multi-Modal Emotion Recognition for Enhanced Requirements Engineering: A Novel Approach**|Ben Cheng et.al.|[2306.01492v1](http://arxiv.org/abs/2306.01492v1)|null|
+|**2023-06-02**|**Syntax-aware Hybrid prompt model for Few-shot multi-modal sentiment analysis**|Zikai Zhou et.al.|[2306.01312v1](http://arxiv.org/abs/2306.01312v1)|null|
+|**2023-06-02**|**MetaVL: Transferring In-Context Learning Ability From Language Models to Vision-Language Models**|Masoud Monajatipoor et.al.|[2306.01311v1](http://arxiv.org/abs/2306.01311v1)|null|
+|**2023-06-01**|**A Multi-Modal Latent-Features based Service Recommendation System for the Social Internet of Things**|Amar Khelloufi et.al.|[2306.01163v1](http://arxiv.org/abs/2306.01163v1)|null|
+|**2023-06-01**|**Evaluating the Capabilities of Multi-modal Reasoning Models with Synthetic Task Data**|Nathan Vaska et.al.|[2306.01144v1](http://arxiv.org/abs/2306.01144v1)|null|
+|**2023-06-01**|**What if We Enrich day-ahead Solar Irradiance Time Series Forecasting with Spatio-Temporal Context?**|Oussama Boussif et.al.|[2306.01112v1](http://arxiv.org/abs/2306.01112v1)|**[link](https://github.com/gitbooo/CrossViVit)**|
 |**2023-06-01**|**AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration**|Ji Lin et.al.|[2306.00978v1](http://arxiv.org/abs/2306.00978v1)|**[link](https://github.com/mit-han-lab/llm-awq)**|
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964v1](http://arxiv.org/abs/2306.00964v1)|null|
 |**2023-06-01**|**LIV: Language-Image Representations and Rewards for Robotic Control**|Yecheng Jason Ma et.al.|[2306.00958v1](http://arxiv.org/abs/2306.00958v1)|**[link](https://github.com/penn-pal-lab/liv)**|
