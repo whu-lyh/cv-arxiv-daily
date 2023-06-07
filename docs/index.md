@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.06
+## Updated on 2023.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -139,6 +139,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**Simultaneous or Sequential Training? How Speech Representations Cooperate in a Multi-Task Self-Supervised Learning System**|Khazar Khorrami et.al.|[2306.02972v1](http://arxiv.org/abs/2306.02972v1)|null|
+|**2023-06-05**|**A Vessel-Segmentation-Based CycleGAN for Unpaired Multi-modal Retinal Image Synthesis**|Aline Sindel et.al.|[2306.02901v1](http://arxiv.org/abs/2306.02901v1)|null|
+|**2023-06-05**|**Recyclable Semi-supervised Method Based on Multi-model Ensemble for Video Scene Parsing**|Biao Wu et.al.|[2306.02894v1](http://arxiv.org/abs/2306.02894v1)|null|
+|**2023-06-06**|**Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding**|Hang Zhang et.al.|[2306.02858v2](http://arxiv.org/abs/2306.02858v2)|**[link](https://github.com/damo-nlp-sg/video-llama)**|
+|**2023-06-05**|**CTRL: Connect Tabular and Language Model for CTR Prediction**|Xiangyang Li et.al.|[2306.02841v1](http://arxiv.org/abs/2306.02841v1)|null|
+|**2023-06-05**|**MM-DAG: Multi-task DAG Learning for Multi-modal Data -- with Application for Traffic Congestion Analysis**|Tian Lan et.al.|[2306.02831v1](http://arxiv.org/abs/2306.02831v1)|**[link](https://github.com/lantian72/mm-dag)**|
+|**2023-06-05**|**Cross-Modal Vertical Federated Learning for MRI Reconstruction**|Yunlu Yan et.al.|[2306.02673v1](http://arxiv.org/abs/2306.02673v1)|null|
+|**2023-06-05**|**A Novel Interpretable and Generalizable Re-synchronization Model for Cued Speech based on a Multi-Cuer Corpus**|Lufei Gao et.al.|[2306.02596v1](http://arxiv.org/abs/2306.02596v1)|null|
+|**2023-06-05**|**LmPa: Improving Decompilation by Synergy of Large Language Model and Program Analysis**|Xiangzhe Xu et.al.|[2306.02546v1](http://arxiv.org/abs/2306.02546v1)|null|
+|**2023-06-04**|**Multi-CLIP: Contrastive Vision-Language Pre-training for Question Answering tasks in 3D Scenes**|Alexandros Delitzas et.al.|[2306.02329v1](http://arxiv.org/abs/2306.02329v1)|null|
+|**2023-06-04**|**Finding the SWEET Spot: Analysis and Improvement of Adaptive Inference in Low Resource Settings**|Daniel Rotem et.al.|[2306.02307v1](http://arxiv.org/abs/2306.02307v1)|null|
+|**2023-06-04**|**Predicting Information Pathways Across Online Communities**|Yiqiao Jin et.al.|[2306.02259v1](http://arxiv.org/abs/2306.02259v1)|null|
+|**2023-06-03**|**Inconsistent Matters: A Knowledge-guided Dual-consistency Network for Multi-modal Rumor Detection**|Mengzhu Sun et.al.|[2306.02137v1](http://arxiv.org/abs/2306.02137v1)|**[link](https://github.com/mengzsun/kdcn)**|
+|**2023-06-06**|**Provable Dynamic Fusion for Low-Quality Multimodal Data**|Qingyang Zhang et.al.|[2306.02050v2](http://arxiv.org/abs/2306.02050v2)|**[link](https://github.com/qingyangzhang/qmf)**|
+|**2023-06-02**|**Recent Advances of Local Mechanisms in Computer Vision: A Survey and Outlook of Recent Work**|Qiangchang Wang et.al.|[2306.01929v1](http://arxiv.org/abs/2306.01929v1)|null|
 |**2023-06-02**|**DocFormerv2: Local Features for Document Understanding**|Srikar Appalaraju et.al.|[2306.01733v1](http://arxiv.org/abs/2306.01733v1)|null|
 |**2023-06-02**|**Bayesian Segmentation Modeling of Epidemic Growth**|Tejasv Bedi et.al.|[2306.01675v1](http://arxiv.org/abs/2306.01675v1)|null|
 |**2023-06-02**|**Backchannel Detection and Agreement Estimation from Video with Transformer Networks**|Ahmed Amer et.al.|[2306.01656v1](http://arxiv.org/abs/2306.01656v1)|null|
@@ -1032,6 +1047,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields**|AKM Shahariar Azad Rabby et.al.|[2306.03000v1](http://arxiv.org/abs/2306.03000v1)|null|
+|**2023-06-05**|**ZIGNeRF: Zero-shot 3D Scene Representation with Invertible Generative Neural Radiance Fields**|Kanghyeok Ko et.al.|[2306.02741v1](http://arxiv.org/abs/2306.02741v1)|null|
 |**2023-06-01**|**FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models**|Hao Zhang et.al.|[2306.00783v1](http://arxiv.org/abs/2306.00783v1)|**[link](https://github.com/billyxyb/fdnerf)**|
 |**2023-06-01**|**Analyzing the Internals of Neural Radiance Fields**|Lukas Radl et.al.|[2306.00696v1](http://arxiv.org/abs/2306.00696v1)|**[link](https://github.com/r4dl/nerfinternals)**|
 |**2023-06-02**|**AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars**|Mohit Mendiratta et.al.|[2306.00547v2](http://arxiv.org/abs/2306.00547v2)|null|
@@ -1040,7 +1057,7 @@ layout: default
 |**2023-05-31**|**HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance**|Junzhe Zhu et.al.|[2305.18766v2](http://arxiv.org/abs/2305.18766v2)|null|
 |**2023-05-31**|**Towards a Robust Framework for NeRF Evaluation**|Adrian Azzarelli et.al.|[2305.18079v3](http://arxiv.org/abs/2305.18079v3)|null|
 |**2023-05-31**|**Volume Feature Rendering for Fast Neural Radiance Field Reconstruction**|Kang Han et.al.|[2305.17916v2](http://arxiv.org/abs/2305.17916v2)|null|
-|**2023-05-30**|**PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction**|Fusang Wang et.al.|[2305.16914v2](http://arxiv.org/abs/2305.16914v2)|null|
+|**2023-06-06**|**PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction**|Fusang Wang et.al.|[2305.16914v3](http://arxiv.org/abs/2305.16914v3)|null|
 |**2023-05-25**|**ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image**|Zhenzhen Weng et.al.|[2305.16411v1](http://arxiv.org/abs/2305.16411v1)|null|
 |**2023-05-25**|**Interactive Segment Anything NeRF with Feature Imitation**|Xiaokang Chen et.al.|[2305.16233v1](http://arxiv.org/abs/2305.16233v1)|null|
 |**2023-05-25**|**ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation**|Zhengyi Wang et.al.|[2305.16213v1](http://arxiv.org/abs/2305.16213v1)|**[link](https://github.com/thu-ml/prolificdreamer)**|
