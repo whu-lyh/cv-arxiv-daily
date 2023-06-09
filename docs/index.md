@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.08
+## Updated on 2023.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -139,7 +139,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-06**|**Towards Label-free Scene Understanding by Vision Foundation Models**|Runnan Chen et.al.|[2306.03899v1](http://arxiv.org/abs/2306.03899v1)|null|
+|**2023-06-07**|**Multi-modal Latent Diffusion**|Mustapha Bounoua et.al.|[2306.04445v1](http://arxiv.org/abs/2306.04445v1)|null|
+|**2023-06-08**|**M $^3$ IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning**|Lei Li et.al.|[2306.04387v2](http://arxiv.org/abs/2306.04387v2)|null|
+|**2023-06-07**|**Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks**|Haiyang Xu et.al.|[2306.04362v1](http://arxiv.org/abs/2306.04362v1)|**[link](https://github.com/x-plug/youku-mplug)**|
+|**2023-06-07**|**On the Generalization of Multi-modal Contrastive Learning**|Qi Zhang et.al.|[2306.04272v1](http://arxiv.org/abs/2306.04272v1)|null|
+|**2023-06-07**|**Enhancing Virtual Assistant Intelligence: Precise Area Targeting for Instance-level User Intents beyond Metadata**|Mengyu Chen et.al.|[2306.04163v1](http://arxiv.org/abs/2306.04163v1)|null|
+|**2023-06-07**|**Coverage Path Planning with Budget Constraints for Multiple Unmanned Ground Vehicles**|Vu Phi Tran et.al.|[2306.04083v1](http://arxiv.org/abs/2306.04083v1)|null|
+|**2023-06-06**|**Energy-Based Models for Cross-Modal Localization using Convolutional Transformers**|Alan Wu et.al.|[2306.04021v1](http://arxiv.org/abs/2306.04021v1)|null|
+|**2023-06-06**|**Towards Label-free Scene Understanding by Vision Foundation Models**|Runnan Chen et.al.|[2306.03899v1](http://arxiv.org/abs/2306.03899v1)|**[link](https://github.com/runnanchen/label-free-scene-understanding)**|
 |**2023-06-06**|**X-Align++: cross-modal cross-view alignment for Bird's-eye-view segmentation**|Shubhankar Borse et.al.|[2306.03810v1](http://arxiv.org/abs/2306.03810v1)|null|
 |**2023-06-06**|**Learning to Ground Instructional Articles in Videos through Narrations**|Effrosyni Mavroudi et.al.|[2306.03802v1](http://arxiv.org/abs/2306.03802v1)|null|
 |**2023-06-06**|**Modality-Agnostic Learning for Medical Image Segmentation Using Multi-modality Self-distillation**|Qisheng He et.al.|[2306.03730v1](http://arxiv.org/abs/2306.03730v1)|null|
