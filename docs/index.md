@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.13
+## Updated on 2023.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -139,6 +139,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-12**|**Zero-shot Composed Text-Image Retrieval**|Yikun Liu et.al.|[2306.07272v1](http://arxiv.org/abs/2306.07272v1)|null|
+|**2023-06-12**|**MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**|Junchen Zhu et.al.|[2306.07257v1](http://arxiv.org/abs/2306.07257v1)|null|
+|**2023-06-12**|**Valley: Video Assistant with Large Language model Enhanced abilitY**|Ruipu Luo et.al.|[2306.07207v1](http://arxiv.org/abs/2306.07207v1)|null|
+|**2023-06-12**|**Retrieval-Enhanced Contrastive Vision-Text Models**|Ahmet Iscen et.al.|[2306.07196v1](http://arxiv.org/abs/2306.07196v1)|null|
+|**2023-06-12**|**Video-to-Music Recommendation using Temporal Alignment of Segments**|Laure Prétet et.al.|[2306.07187v1](http://arxiv.org/abs/2306.07187v1)|null|
+|**2023-06-12**|**Global and Local Semantic Completion Learning for Vision-Language Pre-training**|Rong-Cheng Tu et.al.|[2306.07096v1](http://arxiv.org/abs/2306.07096v1)|**[link](https://github.com/iigroup/scl)**|
+|**2023-06-12**|**NPVForensics: Jointing Non-critical Phonemes and Visemes for Deepfake Detection**|Yu Chen et.al.|[2306.06885v1](http://arxiv.org/abs/2306.06885v1)|null|
+|**2023-06-11**|**Self-Enhancement Improves Text-Image Retrieval in Foundation Visual-Language Models**|Yuguang Yang et.al.|[2306.06691v1](http://arxiv.org/abs/2306.06691v1)|null|
+|**2023-06-11**|**LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark**|Zhenfei Yin et.al.|[2306.06687v1](http://arxiv.org/abs/2306.06687v1)|null|
+|**2023-06-11**|**Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective**|Jiatong Li et.al.|[2306.06615v1](http://arxiv.org/abs/2306.06615v1)|**[link](https://github.com/phenixace/molregpt)**|
+|**2023-06-11**|**REACT2023: the first Multi-modal Multiple Appropriate Facial Reaction Generation Challenge**|Siyang Song et.al.|[2306.06583v1](http://arxiv.org/abs/2306.06583v1)|**[link](https://github.com/reactmultimodalchallenge/baseline_react2023)**|
+|**2023-06-10**|**Multi-modal Pre-training for Medical Vision-language Understanding and Generation: An Empirical Study with A New Benchmark**|Li Xu et.al.|[2306.06494v1](http://arxiv.org/abs/2306.06494v1)|**[link](https://github.com/control-xl/medical-vision-langauge-transformer)**|
+|**2023-06-10**|**Modality Influence in Multimodal Machine Learning**|Abdelhamid Haouhat et.al.|[2306.06476v1](http://arxiv.org/abs/2306.06476v1)|null|
+|**2023-06-10**|**Simultaneous Trajectory Optimization and Contact Selection for Multi-Modal Manipulation Planning**|Mengchao Zhang et.al.|[2306.06465v1](http://arxiv.org/abs/2306.06465v1)|null|
+|**2023-06-10**|**OpenSR: Open-Modality Speech Recognition via Maintaining Multi-Modality Alignment**|Xize Cheng et.al.|[2306.06410v1](http://arxiv.org/abs/2306.06410v1)|null|
 |**2023-06-09**|**How Does Fine-Tuning Impact Out-of-Distribution Detection for Vision-Language Models?**|Yifei Ming et.al.|[2306.06048v1](http://arxiv.org/abs/2306.06048v1)|null|
 |**2023-06-09**|**Pave the Way to Grasp Anything: Transferring Foundation Models for Universal Pick-Place Robots**|Jiange Yang et.al.|[2306.05716v1](http://arxiv.org/abs/2306.05716v1)|null|
 |**2023-06-08**|**Multi-Modal Classifiers for Open-Vocabulary Object Detection**|Prannay Kaul et.al.|[2306.05493v1](http://arxiv.org/abs/2306.05493v1)|null|
@@ -1069,6 +1084,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-10**|**From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm**|Kun Zhou et.al.|[2306.06388v1](http://arxiv.org/abs/2306.06388v1)|null|
+|**2023-06-09**|**NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**|Ali Karami et.al.|[2306.06300v1](http://arxiv.org/abs/2306.06300v1)|**[link](https://github.com/3dom-fbk/nerfbk)**|
 |**2023-06-09**|**HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork**|Bipasha Sen et.al.|[2306.06093v1](http://arxiv.org/abs/2306.06093v1)|null|
 |**2023-06-09**|**GANeRF: Leveraging Discriminators to Optimize Neural Radiance Fields**|Barbara Roessle et.al.|[2306.06044v1](http://arxiv.org/abs/2306.06044v1)|null|
 |**2023-06-09**|**RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models**|Xingchen Zhou et.al.|[2306.05668v1](http://arxiv.org/abs/2306.05668v1)|null|
