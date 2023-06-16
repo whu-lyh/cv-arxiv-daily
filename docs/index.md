@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.15
+## Updated on 2023.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -145,7 +145,7 @@ layout: default
 |**2023-06-11**|**A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks**|Saidul Islam et.al.|[2306.07303v1](http://arxiv.org/abs/2306.07303v1)|null|
 |**2023-06-12**|**Zero-shot Composed Text-Image Retrieval**|Yikun Liu et.al.|[2306.07272v1](http://arxiv.org/abs/2306.07272v1)|null|
 |**2023-06-12**|**MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**|Junchen Zhu et.al.|[2306.07257v1](http://arxiv.org/abs/2306.07257v1)|null|
-|**2023-06-12**|**Valley: Video Assistant with Large Language model Enhanced abilitY**|Ruipu Luo et.al.|[2306.07207v1](http://arxiv.org/abs/2306.07207v1)|null|
+|**2023-06-12**|**Valley: Video Assistant with Large Language model Enhanced abilitY**|Ruipu Luo et.al.|[2306.07207v1](http://arxiv.org/abs/2306.07207v1)|**[link](https://github.com/rupertluo/valley)**|
 |**2023-06-12**|**Retrieval-Enhanced Contrastive Vision-Text Models**|Ahmet Iscen et.al.|[2306.07196v1](http://arxiv.org/abs/2306.07196v1)|null|
 |**2023-06-12**|**Video-to-Music Recommendation using Temporal Alignment of Segments**|Laure Prétet et.al.|[2306.07187v1](http://arxiv.org/abs/2306.07187v1)|null|
 |**2023-06-12**|**Global and Local Semantic Completion Learning for Vision-Language Pre-training**|Rong-Cheng Tu et.al.|[2306.07096v1](http://arxiv.org/abs/2306.07096v1)|**[link](https://github.com/iigroup/scl)**|
@@ -1090,7 +1090,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-13**|**Binary Radiance Fields**|Seungjoo Shin et.al.|[2306.07581v1](http://arxiv.org/abs/2306.07581v1)|null|
 |**2023-06-10**|**From NeRFLiX to NeRFLiX++: A General NeRF-Agnostic Restorer Paradigm**|Kun Zhou et.al.|[2306.06388v1](http://arxiv.org/abs/2306.06388v1)|null|
-|**2023-06-09**|**NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**|Ali Karami et.al.|[2306.06300v1](http://arxiv.org/abs/2306.06300v1)|**[link](https://github.com/3dom-fbk/nerfbk)**|
+|**2023-06-15**|**NERFBK: A High-Quality Benchmark for NERF-Based 3D Reconstruction**|Ali Karami et.al.|[2306.06300v2](http://arxiv.org/abs/2306.06300v2)|**[link](https://github.com/3dom-fbk/nerfbk)**|
 |**2023-06-09**|**HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork**|Bipasha Sen et.al.|[2306.06093v1](http://arxiv.org/abs/2306.06093v1)|null|
 |**2023-06-09**|**GANeRF: Leveraging Discriminators to Optimize Neural Radiance Fields**|Barbara Roessle et.al.|[2306.06044v1](http://arxiv.org/abs/2306.06044v1)|null|
 |**2023-06-09**|**RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models**|Xingchen Zhou et.al.|[2306.05668v1](http://arxiv.org/abs/2306.05668v1)|null|
