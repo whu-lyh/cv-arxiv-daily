@@ -168,7 +168,7 @@
 |**2023-06-14**|**Challenges of Indoor SLAM: A multi-modal multi-floor dataset for SLAM evaluation**|Pushyami Kaveti et.al.|[2306.08522v1](http://arxiv.org/abs/2306.08522v1)|**[link](https://github.com/neufieldrobotics/nufr-m3f)**|
 |**2023-06-14**|**RISCLIP: Referring Image Segmentation Framework using CLIP**|Seoyeon Kim et.al.|[2306.08498v1](http://arxiv.org/abs/2306.08498v1)|null|
 |**2023-06-14**|**Diffusion in Diffusion: Cyclic One-Way Diffusion for Text-Vision-Conditioned Generation**|Yongqi Yang et.al.|[2306.08247v1](http://arxiv.org/abs/2306.08247v1)|null|
-|**2023-06-13**|**Contrastive Learning-Based Audio to Lyrics Alignment for Multiple Languages**|Simon Durand et.al.|[2306.07744v1](http://arxiv.org/abs/2306.07744v1)|null|
+|**2023-06-13**|**Contrastive Learning-Based Audio to Lyrics Alignment for Multiple Languages**|Simon Durand et.al.|[2306.07744v1](http://arxiv.org/abs/2306.07744v1)|**[link](https://github.com/f90/jamendolyrics)**|
 |**2023-06-13**|**Enhanced Multimodal Representation Learning with Cross-modal KD**|Mengxi Chen et.al.|[2306.07646v1](http://arxiv.org/abs/2306.07646v1)|null|
 |**2023-06-13**|**Deep learning radiomics for assessment of gastroesophageal varices in people with compensated advanced chronic liver disease**|Lan Wang et.al.|[2306.07505v1](http://arxiv.org/abs/2306.07505v1)|null|
 |**2023-06-11**|**A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks**|Saidul Islam et.al.|[2306.07303v1](http://arxiv.org/abs/2306.07303v1)|null|
@@ -186,7 +186,7 @@
 |**2023-06-10**|**Multi-modal Pre-training for Medical Vision-language Understanding and Generation: An Empirical Study with A New Benchmark**|Li Xu et.al.|[2306.06494v1](http://arxiv.org/abs/2306.06494v1)|**[link](https://github.com/control-xl/medical-vision-langauge-transformer)**|
 |**2023-06-10**|**Modality Influence in Multimodal Machine Learning**|Abdelhamid Haouhat et.al.|[2306.06476v1](http://arxiv.org/abs/2306.06476v1)|null|
 |**2023-06-10**|**Simultaneous Trajectory Optimization and Contact Selection for Multi-Modal Manipulation Planning**|Mengchao Zhang et.al.|[2306.06465v1](http://arxiv.org/abs/2306.06465v1)|null|
-|**2023-06-10**|**OpenSR: Open-Modality Speech Recognition via Maintaining Multi-Modality Alignment**|Xize Cheng et.al.|[2306.06410v1](http://arxiv.org/abs/2306.06410v1)|null|
+|**2023-06-10**|**OpenSR: Open-Modality Speech Recognition via Maintaining Multi-Modality Alignment**|Xize Cheng et.al.|[2306.06410v1](http://arxiv.org/abs/2306.06410v1)|**[link](https://github.com/exgc/opensr)**|
 |**2023-06-09**|**How Does Fine-Tuning Impact Out-of-Distribution Detection for Vision-Language Models?**|Yifei Ming et.al.|[2306.06048v1](http://arxiv.org/abs/2306.06048v1)|null|
 |**2023-06-09**|**Pave the Way to Grasp Anything: Transferring Foundation Models for Universal Pick-Place Robots**|Jiange Yang et.al.|[2306.05716v1](http://arxiv.org/abs/2306.05716v1)|null|
 |**2023-06-08**|**Multi-Modal Classifiers for Open-Vocabulary Object Detection**|Prannay Kaul et.al.|[2306.05493v1](http://arxiv.org/abs/2306.05493v1)|null|
@@ -195,7 +195,7 @@
 |**2023-06-07**|**Multi-modal Latent Diffusion**|Mustapha Bounoua et.al.|[2306.04445v1](http://arxiv.org/abs/2306.04445v1)|null|
 |**2023-06-08**|**M $^3$ IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning**|Lei Li et.al.|[2306.04387v2](http://arxiv.org/abs/2306.04387v2)|null|
 |**2023-06-07**|**Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks**|Haiyang Xu et.al.|[2306.04362v1](http://arxiv.org/abs/2306.04362v1)|**[link](https://github.com/x-plug/youku-mplug)**|
-|**2023-06-07**|**On the Generalization of Multi-modal Contrastive Learning**|Qi Zhang et.al.|[2306.04272v1](http://arxiv.org/abs/2306.04272v1)|null|
+|**2023-06-07**|**On the Generalization of Multi-modal Contrastive Learning**|Qi Zhang et.al.|[2306.04272v1](http://arxiv.org/abs/2306.04272v1)|**[link](https://github.com/pku-ml/clip-help-simclr)**|
 |**2023-06-07**|**Enhancing Virtual Assistant Intelligence: Precise Area Targeting for Instance-level User Intents beyond Metadata**|Mengyu Chen et.al.|[2306.04163v1](http://arxiv.org/abs/2306.04163v1)|null|
 |**2023-06-07**|**Coverage Path Planning with Budget Constraints for Multiple Unmanned Ground Vehicles**|Vu Phi Tran et.al.|[2306.04083v1](http://arxiv.org/abs/2306.04083v1)|null|
 |**2023-06-06**|**Energy-Based Models for Cross-Modal Localization using Convolutional Transformers**|Alan Wu et.al.|[2306.04021v1](http://arxiv.org/abs/2306.04021v1)|null|
@@ -417,7 +417,7 @@
 |**2023-05-10**|**Multiclass MRI Brain Tumor Segmentation using 3D Attention-based U-Net**|Maryann M. Gitonga et.al.|[2305.06203v1](http://arxiv.org/abs/2305.06203v1)|null|
 |**2023-05-11**|**A Multi-modal Approach to Single-modal Visual Place Classification**|Tomoya Iwasaki et.al.|[2305.06179v2](http://arxiv.org/abs/2305.06179v2)|null|
 |**2023-05-10**|**MMoT: Mixture-of-Modality-Tokens Transformer for Composed Multimodal Conditional Image Synthesis**|Jianbin Zheng et.al.|[2305.05992v1](http://arxiv.org/abs/2305.05992v1)|null|
-|**2023-05-10**|**ChinaOpen: A Dataset for Open-world Multimodal Learning**|Aozhu Chen et.al.|[2305.05880v1](http://arxiv.org/abs/2305.05880v1)|null|
+|**2023-05-10**|**ChinaOpen: A Dataset for Open-world Multimodal Learning**|Aozhu Chen et.al.|[2305.05880v1](http://arxiv.org/abs/2305.05880v1)|**[link](https://github.com/dong03/GenerativeVideo2Text)**|
 |**2023-05-09**|**ImageBind: One Embedding Space To Bind Them All**|Rohit Girdhar et.al.|[2305.05665v1](http://arxiv.org/abs/2305.05665v1)|**[link](https://github.com/facebookresearch/imagebind)**|
 |**2023-05-11**|**InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language**|Zhaoyang Liu et.al.|[2305.05662v3](http://arxiv.org/abs/2305.05662v3)|**[link](https://github.com/opengvlab/interngpt)**|
 |**2023-05-09**|**Integrating Holistic and Local Information to Estimate Emotional Reaction Intensity**|Yini Fang et.al.|[2305.05534v1](http://arxiv.org/abs/2305.05534v1)|**[link](https://github.com/hkust-nisl/abaw5)**|
@@ -434,7 +434,7 @@
 |**2023-05-09**|**AlignSTS: Speech-to-Singing Conversion via Cross-Modal Alignment**|Ruiqi Li et.al.|[2305.04476v2](http://arxiv.org/abs/2305.04476v2)|null|
 |**2023-05-09**|**Vision Langauge Pre-training by Contrastive Learning with Cross-Modal Similarity Regulation**|Chaoya Jiang et.al.|[2305.04474v2](http://arxiv.org/abs/2305.04474v2)|null|
 |**2023-05-08**|**HACK: Learning a Parametric Head and Neck Model for High-fidelity Animation**|Longwen Zhang et.al.|[2305.04469v1](http://arxiv.org/abs/2305.04469v1)|**[link](https://github.com/zonelikewonderland/hack-model)**|
-|**2023-05-08**|**FashionTex: Controllable Virtual Try-on with Text and Texture**|Anran Lin et.al.|[2305.04451v1](http://arxiv.org/abs/2305.04451v1)|null|
+|**2023-05-08**|**FashionTex: Controllable Virtual Try-on with Text and Texture**|Anran Lin et.al.|[2305.04451v1](http://arxiv.org/abs/2305.04451v1)|**[link](https://github.com/picksh/fashiontex)**|
 |**2023-05-07**|**Poses as Queries: Image-to-LiDAR Map Localization with Transformers**|Jinyu Miao et.al.|[2305.04298v1](http://arxiv.org/abs/2305.04298v1)|null|
 |**2023-05-07**|**Instance-Variant Loss with Gaussian RBF Kernel for 3D Cross-modal Retriveal**|Zhitao Liu et.al.|[2305.04239v1](http://arxiv.org/abs/2305.04239v1)|null|
 |**2023-05-07**|**Visual Causal Scene Refinement for Video Question Answering**|Yushen Wei et.al.|[2305.04224v1](http://arxiv.org/abs/2305.04224v1)|null|
@@ -651,7 +651,7 @@
 |**2023-03-30**|**BEVFusion4D: Learning LiDAR-Camera Fusion Under Bird's-Eye-View via Cross-Modality Guidance and Temporal Aggregation**|Hongxiang Cai et.al.|[2303.17099v1](http://arxiv.org/abs/2303.17099v1)|null|
 |**2023-03-30**|**BEVSimDet: Simulated Multi-modal Distillation in Bird's-Eye View for Multi-view 3D Object Detection**|Haimei Zhao et.al.|[2303.16818v2](http://arxiv.org/abs/2303.16818v2)|**[link](https://github.com/vitae-transformer/bevsimdet)**|
 |**2023-03-29**|**Bi-directional Training for Composed Image Retrieval via Text Prompt Learning**|Zheyuan Liu et.al.|[2303.16604v1](http://arxiv.org/abs/2303.16604v1)|null|
-|**2023-03-29**|**Sounding Video Generator: A Unified Framework for Text-guided Sounding Video Generation**|Jiawei Liu et.al.|[2303.16541v1](http://arxiv.org/abs/2303.16541v1)|null|
+|**2023-03-29**|**Sounding Video Generator: A Unified Framework for Text-guided Sounding Video Generation**|Jiawei Liu et.al.|[2303.16541v1](http://arxiv.org/abs/2303.16541v1)|**[link](https://github.com/jwliu-cc/svg)**|
 |**2023-03-29**|**A tensor based varying-coefficient model for multi-modal neuroimaging data analysis**|Pratim Guha Niyogi et.al.|[2303.16443v1](http://arxiv.org/abs/2303.16443v1)|null|
 |**2023-03-28**|**LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**|Renrui Zhang et.al.|[2303.16199v1](http://arxiv.org/abs/2303.16199v1)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
 |**2023-03-28**|**Medical Image Analysis using Deep Relational Learning**|Zhihua Liu et.al.|[2303.16099v1](http://arxiv.org/abs/2303.16099v1)|null|
@@ -670,7 +670,7 @@
 |**2023-03-27**|**Curriculum Learning for Compositional Visual Reasoning**|Wafa Aissa et.al.|[2303.15006v1](http://arxiv.org/abs/2303.15006v1)|null|
 |**2023-03-27**|**Multi-view Cross-Modality MR Image Translation for Vestibular Schwannoma and Cochlea Segmentation**|Bogyeong Kang et.al.|[2303.14998v1](http://arxiv.org/abs/2303.14998v1)|null|
 |**2023-03-27**|**Toward Human-Like Social Robot Navigation: A Large-Scale, Multi-Modal, Social Human Navigation Dataset**|Duc M. Nguyen et.al.|[2303.14880v1](http://arxiv.org/abs/2303.14880v1)|null|
-|**2023-03-27**|**Revisiting Multimodal Representation in Contrastive Learning: From Patch and Token Embeddings to Finite Discrete Tokens**|Yuxiao Chen et.al.|[2303.14865v1](http://arxiv.org/abs/2303.14865v1)|null|
+|**2023-03-27**|**Revisiting Multimodal Representation in Contrastive Learning: From Patch and Token Embeddings to Finite Discrete Tokens**|Yuxiao Chen et.al.|[2303.14865v1](http://arxiv.org/abs/2303.14865v1)|**[link](https://github.com/yuxiaochen1103/fdt)**|
 |**2023-03-26**|**On the Importance of Accurate Geometry Data for Dense 3D Vision Tasks**|HyunJun Jung et.al.|[2303.14840v1](http://arxiv.org/abs/2303.14840v1)|**[link](https://github.com/junggy/hammer-dataset)**|
 |**2023-03-26**|**Collaborative Noisy Label Cleaner: Learning Scene-aware Trailers for Multi-modal Highlight Detection in Movies**|Bei Gan et.al.|[2303.14768v1](http://arxiv.org/abs/2303.14768v1)|**[link](https://github.com/tencentyouturesearch/highlightdetection-clc)**|
 |**2023-03-26**|**Semantic Neural Decoding via Cross-Modal Generation**|Xuelin Qian et.al.|[2303.14730v1](http://arxiv.org/abs/2303.14730v1)|null|
@@ -1334,7 +1334,7 @@
 |**2023-02-26**|**Efficient physics-informed neural networks using hash encoding**|Xinquan Huang et.al.|[2302.13397v1](http://arxiv.org/abs/2302.13397v1)|null|
 |**2023-02-24**|**CATNIPS: Collision Avoidance Through Neural Implicit Probabilistic Scenes**|Timothy Chen et.al.|[2302.12931v1](http://arxiv.org/abs/2302.12931v1)|null|
 |**2023-02-24**|**Learning Neural Volumetric Representations of Dynamic Humans in Minutes**|Chen Geng et.al.|[2302.12237v2](http://arxiv.org/abs/2302.12237v2)|null|
-|**2023-02-23**|**DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models**|Jamie Wynn et.al.|[2302.12231v1](http://arxiv.org/abs/2302.12231v1)|null|
+|**2023-02-23**|**DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models**|Jamie Wynn et.al.|[2302.12231v1](http://arxiv.org/abs/2302.12231v1)|**[link](https://github.com/nianticlabs/diffusionerf)**|
 |**2023-02-20**|**NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion**|Jiatao Gu et.al.|[2302.10109v1](http://arxiv.org/abs/2302.10109v1)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486v1](http://arxiv.org/abs/2302.09486v1)|null|
 |**2023-02-17**|**MixNeRF: Modeling a Ray with Mixture Density for Novel View Synthesis from Sparse Inputs**|Seunghyeon Seo et.al.|[2302.08788v1](http://arxiv.org/abs/2302.08788v1)|null|
