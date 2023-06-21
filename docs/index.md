@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.20
+## Updated on 2023.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -141,7 +141,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-16**|**Joint multi-modal Self-Supervised pre-training in Remote Sensing: Application to Methane Source Classification**|Paul Berg et.al.|[2306.09851v1](http://arxiv.org/abs/2306.09851v1)|null|
 |**2023-06-15**|**Cross-Modal Video to Body-joints Augmentation for Rehabilitation Exercise Quality Assessment**|Ali Abedi et.al.|[2306.09546v1](http://arxiv.org/abs/2306.09546v1)|null|
-|**2023-06-15**|**Tell Me Where to Go: A Composable Framework for Context-Aware Embodied Robot Navigation**|Harel Biggie et.al.|[2306.09523v1](http://arxiv.org/abs/2306.09523v1)|null|
+|**2023-06-19**|**Tell Me Where to Go: A Composable Framework for Context-Aware Embodied Robot Navigation**|Harel Biggie et.al.|[2306.09523v2](http://arxiv.org/abs/2306.09523v2)|null|
 |**2023-06-15**|**Diff-TTSG: Denoising probabilistic integrated speech and gesture synthesis**|Shivam Mehta et.al.|[2306.09417v1](http://arxiv.org/abs/2306.09417v1)|null|
 |**2023-06-15**|**Segment Any Point Cloud Sequences by Distilling Vision Foundation Models**|Youquan Liu et.al.|[2306.09347v1](http://arxiv.org/abs/2306.09347v1)|**[link](https://github.com/youquanl/segment-any-point-cloud)**|
 |**2023-06-15**|**LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models**|Peng Xu et.al.|[2306.09265v1](http://arxiv.org/abs/2306.09265v1)|**[link](https://github.com/opengvlab/multi-modality-arena)**|
