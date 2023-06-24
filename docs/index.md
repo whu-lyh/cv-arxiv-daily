@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.23
+## Updated on 2023.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -140,6 +140,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**A Comparison of Time-based Models for Multimodal Emotion Recognition**|Ege Kesim et.al.|[2306.13076v1](http://arxiv.org/abs/2306.13076v1)|null|
+|**2023-06-22**|**XACML Extension for Graphs: Flexible Authorization Policy Specification and Datastore-independent Enforcement**|Aya Mohamed et.al.|[2306.12819v1](http://arxiv.org/abs/2306.12819v1)|null|
+|**2023-06-22**|**Learning Unseen Modality Interaction**|Yunhua Zhang et.al.|[2306.12795v1](http://arxiv.org/abs/2306.12795v1)|null|
+|**2023-06-22**|**Generative Multimodal Entity Linking**|Senbao Shi et.al.|[2306.12725v1](http://arxiv.org/abs/2306.12725v1)|null|
+|**2023-06-21**|**Exploring the Role of Audio in Video Captioning**|Yuhan Shen et.al.|[2306.12559v1](http://arxiv.org/abs/2306.12559v1)|null|
+|**2023-06-21**|**LPFormer: LiDAR Pose Estimation Transformer with Multi-Task Network**|Dongqiangzi Ye et.al.|[2306.12525v1](http://arxiv.org/abs/2306.12525v1)|null|
 |**2023-06-21**|**Solving Dialogue Grounding Embodied Task in a Simulated Environment using Further Masked Language Modeling**|Weijie Jack Zhang et.al.|[2306.12387v1](http://arxiv.org/abs/2306.12387v1)|null|
 |**2023-06-20**|**MultiEarth 2023 Deforestation Challenge -- Team FOREVER**|Seunghan Park et.al.|[2306.11762v1](http://arxiv.org/abs/2306.11762v1)|null|
 |**2023-06-20**|**Pushing the Limits of 3D Shape Generation at Scale**|Wang Yu et.al.|[2306.11510v1](http://arxiv.org/abs/2306.11510v1)|null|
@@ -1127,6 +1133,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-22**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760v1](http://arxiv.org/abs/2306.12760v1)|null|
+|**2023-06-21**|**Local 3D Editing via 3D Distillation of CLIP Knowledge**|Junha Hyung et.al.|[2306.12570v1](http://arxiv.org/abs/2306.12570v1)|null|
 |**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423v1](http://arxiv.org/abs/2306.12423v1)|**[link](https://github.com/qiuyu96/carver)**|
 |**2023-06-21**|**DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation**|Yukun Huang et.al.|[2306.12422v1](http://arxiv.org/abs/2306.12422v1)|null|
 |**2023-06-20**|**NeRF synthesis with shading guidance**|Chenbin Li et.al.|[2306.11556v1](http://arxiv.org/abs/2306.11556v1)|null|
