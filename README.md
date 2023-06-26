@@ -187,7 +187,7 @@
 |**2023-06-15**|**Winning Solution for the CVPR2023 Visual Anomaly and Novelty Detection Challenge: Multimodal Prompting for Data-centric Anomaly Detection**|Yunkang Cao et.al.|[2306.09067v1](http://arxiv.org/abs/2306.09067v1)|**[link](https://github.com/caoyunkang/segment-any-anomaly)**|
 |**2023-06-15**|**Training Multimedia Event Extraction With Generated Images and Captions**|Zilin Du et.al.|[2306.08966v1](http://arxiv.org/abs/2306.08966v1)|null|
 |**2023-06-15**|**LOVM: Language-Only Vision Model Selection**|Orr Zohar et.al.|[2306.08893v1](http://arxiv.org/abs/2306.08893v1)|**[link](https://github.com/orrzohar/lovm)**|
-|**2023-06-15**|**Med-MMHL: A Multi-Modal Dataset for Detecting Human- and LLM-Generated Misinformation in the Medical Domain**|Yanshen Sun et.al.|[2306.08871v1](http://arxiv.org/abs/2306.08871v1)|null|
+|**2023-06-15**|**Med-MMHL: A Multi-Modal Dataset for Detecting Human- and LLM-Generated Misinformation in the Medical Domain**|Yanshen Sun et.al.|[2306.08871v1](http://arxiv.org/abs/2306.08871v1)|**[link](https://github.com/styxsys0927/med-mmhl)**|
 |**2023-06-15**|**Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Fine-grained Understanding**|Le Zhang et.al.|[2306.08832v1](http://arxiv.org/abs/2306.08832v1)|**[link](https://github.com/magiccircuit/enhance-finegrained)**|
 |**2023-06-15**|**Efficient Token-Guided Image-Text Retrieval with Consistent Multimodal Contrastive Training**|Chong Liu et.al.|[2306.08789v1](http://arxiv.org/abs/2306.08789v1)|null|
 |**2023-06-14**|**Utilizing Longitudinal Chest X-Rays and Reports to Pre-Fill Radiology Reports**|Qingqing Zhu et.al.|[2306.08749v1](http://arxiv.org/abs/2306.08749v1)|null|
@@ -208,7 +208,7 @@
 |**2023-06-12**|**Global and Local Semantic Completion Learning for Vision-Language Pre-training**|Rong-Cheng Tu et.al.|[2306.07096v1](http://arxiv.org/abs/2306.07096v1)|**[link](https://github.com/iigroup/scl)**|
 |**2023-06-12**|**NPVForensics: Jointing Non-critical Phonemes and Visemes for Deepfake Detection**|Yu Chen et.al.|[2306.06885v1](http://arxiv.org/abs/2306.06885v1)|null|
 |**2023-06-11**|**Self-Enhancement Improves Text-Image Retrieval in Foundation Visual-Language Models**|Yuguang Yang et.al.|[2306.06691v1](http://arxiv.org/abs/2306.06691v1)|null|
-|**2023-06-11**|**LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark**|Zhenfei Yin et.al.|[2306.06687v1](http://arxiv.org/abs/2306.06687v1)|null|
+|**2023-06-11**|**LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark**|Zhenfei Yin et.al.|[2306.06687v1](http://arxiv.org/abs/2306.06687v1)|**[link](https://github.com/openlamm/lamm)**|
 |**2023-06-11**|**Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective**|Jiatong Li et.al.|[2306.06615v1](http://arxiv.org/abs/2306.06615v1)|**[link](https://github.com/phenixace/molregpt)**|
 |**2023-06-11**|**REACT2023: the first Multi-modal Multiple Appropriate Facial Reaction Generation Challenge**|Siyang Song et.al.|[2306.06583v1](http://arxiv.org/abs/2306.06583v1)|**[link](https://github.com/reactmultimodalchallenge/baseline_react2023)**|
 |**2023-06-10**|**Multi-modal Pre-training for Medical Vision-language Understanding and Generation: An Empirical Study with A New Benchmark**|Li Xu et.al.|[2306.06494v1](http://arxiv.org/abs/2306.06494v1)|**[link](https://github.com/control-xl/medical-vision-langauge-transformer)**|
