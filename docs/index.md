@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.27
+## Updated on 2023.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-26**|**Hydrodynamic simulations of the Disk of Gas Around Supermassive black holes (HDGAS) -I; Molecular Gas Dynamics**|Mojtaba Raouf et.al.|[2306.14573v1](http://arxiv.org/abs/2306.14573v1)|null|
 |**2023-06-19**|**Composite Bulges -- IV. Detecting Signatures of Gas Inflows in the IFU data: The MUSE View of Ionized Gas Kinematics in NGC 1097**|Tutku Kolcu et.al.|[2306.11091v1](http://arxiv.org/abs/2306.11091v1)|null|
 |**2023-06-01**|**Event-based Visual Odometry with Full Temporal Resolution via Continuous-time Gaussian Process Regression**|Jianeng Wang et.al.|[2306.01188v1](http://arxiv.org/abs/2306.01188v1)|null|
 |**2023-06-01**|**ERGO-ML: Towards a robust machine learning model for inferring the fraction of accreted stars in galaxies from integral-field spectroscopic maps**|Eirini Angeloudi et.al.|[2306.01056v1](http://arxiv.org/abs/2306.01056v1)|null|
@@ -94,7 +95,7 @@ layout: default
 |**2022-09-07**|**Spherical wedge billiard: from chaos to fractals and Talbot carpets**|Tomáš Tyc et.al.|[2209.03096v1](http://arxiv.org/abs/2209.03096v1)|null|
 |**2022-08-12**|**dual unet:a novel siamese network for change detection with cascade differential fusion**|Kaixuan Jiang et.al.|[2208.06293v1](http://arxiv.org/abs/2208.06293v1)|null|
 |**2022-08-27**|**KinD-LCE Curve Estimation And Retinex Fusion On Low-Light Image**|Xiaochun Lei et.al.|[2207.09210v2](http://arxiv.org/abs/2207.09210v2)|null|
-|**2022-09-28**|**AutoMerge: A Framework for Map Assembling and Smoothing in City-scale Environments**|Peng Yin et.al.|[2207.06965v3](http://arxiv.org/abs/2207.06965v3)|null|
+|**2023-06-27**|**AutoMerge: A Framework for Map Assembling and Smoothing in City-scale Environments**|Peng Yin et.al.|[2207.06965v4](http://arxiv.org/abs/2207.06965v4)|null|
 |**2022-03-01**|**Boundary Corrected Multi-scale Fusion Network for Real-time Semantic Segmentation**|Tianjiao Jiang et.al.|[2203.00436v1](http://arxiv.org/abs/2203.00436v1)|null|
 |**2022-02-17**|**Mirror-Yolo: An attention-based instance segmentation and detection model for mirrors**|Fengze Li et.al.|[2202.08498v1](http://arxiv.org/abs/2202.08498v1)|null|
 |**2022-01-28**|**Stereo Matching with Cost Volume based Sparse Disparity Propagation**|Wei Xue et.al.|[2201.11937v1](http://arxiv.org/abs/2201.11937v1)|null|
@@ -140,6 +141,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-26**|**MotionGPT: Human Motion as a Foreign Language**|Biao Jiang et.al.|[2306.14795v1](http://arxiv.org/abs/2306.14795v1)|**[link](https://github.com/openmotionlab/motiongpt)**|
+|**2023-06-26**|**Aligning Large Multi-Modal Model with Robust Instruction Tuning**|Fuxiao Liu et.al.|[2306.14565v1](http://arxiv.org/abs/2306.14565v1)|**[link](https://github.com/FuxiaoLiu/LRV-Instruction)**|
+|**2023-06-26**|**TCEIP: Text Condition Embedded Regression Network for Dental Implant Position Prediction**|Xinquan Yang et.al.|[2306.14406v1](http://arxiv.org/abs/2306.14406v1)|null|
+|**2023-06-26**|**Mutual Query Network for Multi-Modal Product Image Segmentation**|Yun Guo et.al.|[2306.14399v1](http://arxiv.org/abs/2306.14399v1)|**[link](https://github.com/weifeng-github/mqn)**|
+|**2023-06-25**|**Enhancing Mapless Trajectory Prediction through Knowledge Distillation**|Yuning Wang et.al.|[2306.14177v1](http://arxiv.org/abs/2306.14177v1)|null|
+|**2023-06-25**|**AV-SepFormer: Cross-Attention SepFormer for Audio-Visual Target Speaker Extraction**|Jiuxin Lin et.al.|[2306.14170v1](http://arxiv.org/abs/2306.14170v1)|null|
+|**2023-06-25**|**Intelligent Multi-Modal Sensing-Communication Integration: Synesthesia of Machines**|Xiang Cheng et.al.|[2306.14143v1](http://arxiv.org/abs/2306.14143v1)|null|
+|**2023-06-25**|**M $^3$ SC: A Generic Dataset for Mixed Multi-Modal (MMM) Sensing and Communication Integration**|Xiang Cheng et.al.|[2306.14125v1](http://arxiv.org/abs/2306.14125v1)|null|
+|**2023-06-25**|**Enhancing Dynamic Image Advertising with Vision-Language Pre-training**|Zhoufutu Wen et.al.|[2306.14112v1](http://arxiv.org/abs/2306.14112v1)|null|
+|**2023-06-24**|**Learning-to-Rank Meets Language: Boosting Language-Driven Ordering Alignment for Ordinal Classification**|Rui Wang et.al.|[2306.13856v1](http://arxiv.org/abs/2306.13856v1)|null|
+|**2023-06-27**|**Cross-Language Speech Emotion Recognition Using Multimodal Dual Attention Transformers**|Syed Aun Muhammad Zaidi et.al.|[2306.13804v2](http://arxiv.org/abs/2306.13804v2)|null|
 |**2023-06-23**|**TACOformer:Token-channel compounded Cross Attention for Multimodal Emotion Recognition**|Xinda Li et.al.|[2306.13592v1](http://arxiv.org/abs/2306.13592v1)|null|
 |**2023-06-23**|**Learning Scene Flow With Skeleton Guidance For 3D Action Recognition**|Vasileios Magoulianitis et.al.|[2306.13285v1](http://arxiv.org/abs/2306.13285v1)|null|
 |**2023-06-22**|**Continuous Online Extrinsic Calibration of Fisheye Camera and LiDAR**|Jack Borer et.al.|[2306.13240v1](http://arxiv.org/abs/2306.13240v1)|null|
