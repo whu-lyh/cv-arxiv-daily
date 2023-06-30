@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.29
+## Updated on 2023.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -142,9 +142,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**Accurate, uncertainty-aware classification of molecular chemical motifs from multi-modal X-ray absorption spectroscopy**|Matthew R. Carbone et.al.|[2306.16349v1](http://arxiv.org/abs/2306.16349v1)|null|
+|**2023-06-28**|**DiffComplete: Diffusion-based Generative 3D Shape Completion**|Ruihang Chu et.al.|[2306.16329v1](http://arxiv.org/abs/2306.16329v1)|null|
+|**2023-06-28**|**Inferring the Goals of Communicating Agents from Actions and Instructions**|Lance Ying et.al.|[2306.16207v1](http://arxiv.org/abs/2306.16207v1)|null|
+|**2023-06-28**|**Stone Needle: A General Multimodal Large-scale Model Framework towards Healthcare**|Weihua Liu et.al.|[2306.16034v1](http://arxiv.org/abs/2306.16034v1)|null|
+|**2023-06-28**|**A Dimensional Structure based Knowledge Distillation Method for Cross-Modal Learning**|Lingyu Si et.al.|[2306.15977v1](http://arxiv.org/abs/2306.15977v1)|null|
+|**2023-06-29**|**Bridging the Gap: Neural Collapse Inspired Prompt Tuning for Generalization under Class Imbalance**|Didi Zhu et.al.|[2306.15955v2](http://arxiv.org/abs/2306.15955v2)|null|
+|**2023-06-28**|**Knowledge-Enhanced Hierarchical Information Correlation Learning for Multi-Modal Rumor Detection**|Jiawei Liu et.al.|[2306.15946v1](http://arxiv.org/abs/2306.15946v1)|null|
+|**2023-06-28**|**No Transfers Required: Integrating Last Mile with Public Transit Using Opti-Mile**|Raashid Altaf et.al.|[2306.15943v1](http://arxiv.org/abs/2306.15943v1)|null|
+|**2023-06-27**|**Symbol emergence as interpersonal cross-situational learning: the emergence of lexical knowledge with combinatoriality**|Yoshinobu Hagiwara et.al.|[2306.15837v1](http://arxiv.org/abs/2306.15837v1)|null|
+|**2023-06-27**|**Classification of Infant Sleep/Wake States: Cross-Attention among Large Scale Pretrained Transformer Networks using Audio, ECG, and IMU Data**|Kai Chieh Chang et.al.|[2306.15808v1](http://arxiv.org/abs/2306.15808v1)|null|
+|**2023-06-27**|**Semi-supervised Multimodal Representation Learning through a Global Workspace**|Benjamin Devillers et.al.|[2306.15711v1](http://arxiv.org/abs/2306.15711v1)|**[link](https://github.com/bdvllrs/bimgw)**|
 |**2023-06-27**|**Style-transfer based Speech and Audio-visual Scene Understanding for Robot Action Sequence Acquisition from Videos**|Chiori Hori et.al.|[2306.15644v1](http://arxiv.org/abs/2306.15644v1)|null|
 |**2023-06-27**|**Rethinking Cross-Entropy Loss for Stereo Matching Networks**|Peng Xu et.al.|[2306.15612v1](http://arxiv.org/abs/2306.15612v1)|null|
-|**2023-06-27**|**Deep Normalizing Flows for State Estimation**|Harrison Delecki et.al.|[2306.15605v1](http://arxiv.org/abs/2306.15605v1)|null|
+|**2023-06-27**|**Deep Normalizing Flows for State Estimation**|Harrison Delecki et.al.|[2306.15605v1](http://arxiv.org/abs/2306.15605v1)|**[link](https://github.com/sisl/deepnfstateestimation)**|
 |**2023-06-27**|**Large-scale unsupervised audio pre-training for video-to-speech synthesis**|Triantafyllos Kefalas et.al.|[2306.15464v1](http://arxiv.org/abs/2306.15464v1)|null|
 |**2023-06-27**|**GroundNLQ @ Ego4D Natural Language Queries Challenge 2023**|Zhijian Hou et.al.|[2306.15255v1](http://arxiv.org/abs/2306.15255v1)|**[link](https://github.com/houzhijian/groundnlq)**|
 |**2023-06-27**|**Emulating Reader Behaviors for Fake News Detection**|Junwei Yin et.al.|[2306.15231v1](http://arxiv.org/abs/2306.15231v1)|null|
