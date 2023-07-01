@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.30
+## Updated on 2023.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -142,6 +142,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-29**|**Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation**|Zibo Zhao et.al.|[2306.17115v1](http://arxiv.org/abs/2306.17115v1)|null|
+|**2023-06-29**|**LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding**|Yanzhe Zhang et.al.|[2306.17107v1](http://arxiv.org/abs/2306.17107v1)|null|
+|**2023-06-29**|**MotionTrack: End-to-End Transformer-based Multi-Object Tracing with LiDAR-Camera Fusion**|Ce Zhang et.al.|[2306.17000v1](http://arxiv.org/abs/2306.17000v1)|null|
+|**2023-06-29**|**End-to-end Autonomous Driving: Challenges and Frontiers**|Li Chen et.al.|[2306.16927v1](http://arxiv.org/abs/2306.16927v1)|**[link](https://github.com/opendrivelab/end-to-end-autonomous-driving)**|
+|**2023-06-29**|**Sustainable Palm Tree Farming: Leveraging IoT and Multi-Modal Data for Early Detection and Mapping of Red Palm Weevil**|Yosra Hajjaji et.al.|[2306.16862v1](http://arxiv.org/abs/2306.16862v1)|null|
+|**2023-06-29**|**Unified Language Representation for Question Answering over Text, Tables, and Images**|Bowen Yu et.al.|[2306.16762v1](http://arxiv.org/abs/2306.16762v1)|null|
+|**2023-06-28**|**Pre-Training Multi-Modal Dense Retrievers for Outside-Knowledge Visual Question Answering**|Alireza Salemi et.al.|[2306.16478v1](http://arxiv.org/abs/2306.16478v1)|**[link](https://github.com/alirezasalemi7/pretraining-multimodal-dense-retriever-for-okvqa)**|
 |**2023-06-28**|**Accurate, uncertainty-aware classification of molecular chemical motifs from multi-modal X-ray absorption spectroscopy**|Matthew R. Carbone et.al.|[2306.16349v1](http://arxiv.org/abs/2306.16349v1)|null|
 |**2023-06-28**|**DiffComplete: Diffusion-based Generative 3D Shape Completion**|Ruihang Chu et.al.|[2306.16329v1](http://arxiv.org/abs/2306.16329v1)|null|
 |**2023-06-28**|**Inferring the Goals of Communicating Agents from Actions and Instructions**|Lance Ying et.al.|[2306.16207v1](http://arxiv.org/abs/2306.16207v1)|null|
@@ -1168,6 +1175,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541v1](http://arxiv.org/abs/2306.16541v1)|null|
 |**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203v1](http://arxiv.org/abs/2306.15203v1)|null|
 |**2023-06-22**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760v1](http://arxiv.org/abs/2306.12760v1)|null|
 |**2023-06-21**|**Local 3D Editing via 3D Distillation of CLIP Knowledge**|Junha Hyung et.al.|[2306.12570v1](http://arxiv.org/abs/2306.12570v1)|null|
