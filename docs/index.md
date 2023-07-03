@@ -221,7 +221,7 @@ layout: default
 |**2023-06-14**|**EMERSK -- Explainable Multimodal Emotion Recognition with Situational Knowledge**|Mijanur Palash et.al.|[2306.08657v1](http://arxiv.org/abs/2306.08657v1)|null|
 |**2023-06-14**|**AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn**|Difei Gao et.al.|[2306.08640v1](http://arxiv.org/abs/2306.08640v1)|null|
 |**2023-06-14**|**Challenges of Indoor SLAM: A multi-modal multi-floor dataset for SLAM evaluation**|Pushyami Kaveti et.al.|[2306.08522v1](http://arxiv.org/abs/2306.08522v1)|**[link](https://github.com/neufieldrobotics/nufr-m3f)**|
-|**2023-06-14**|**RISCLIP: Referring Image Segmentation Framework using CLIP**|Seoyeon Kim et.al.|[2306.08498v1](http://arxiv.org/abs/2306.08498v1)|null|
+|**2023-06-14**|**RISCLIP: Referring Image Segmentation Framework using CLIP**|Seoyeon Kim et.al.|[2306.08498v1](http://arxiv.org/abs/2306.08498v1)|**[link](https://github.com/Yeon07/RISCLIP)**|
 |**2023-06-14**|**Diffusion in Diffusion: Cyclic One-Way Diffusion for Text-Vision-Conditioned Generation**|Yongqi Yang et.al.|[2306.08247v1](http://arxiv.org/abs/2306.08247v1)|null|
 |**2023-06-13**|**Contrastive Learning-Based Audio to Lyrics Alignment for Multiple Languages**|Simon Durand et.al.|[2306.07744v1](http://arxiv.org/abs/2306.07744v1)|**[link](https://github.com/f90/jamendolyrics)**|
 |**2023-06-13**|**Enhanced Multimodal Representation Learning with Cross-modal KD**|Mengxi Chen et.al.|[2306.07646v1](http://arxiv.org/abs/2306.07646v1)|null|
@@ -280,7 +280,7 @@ layout: default
 |**2023-06-02**|**Recent Advances of Local Mechanisms in Computer Vision: A Survey and Outlook of Recent Work**|Qiangchang Wang et.al.|[2306.01929v1](http://arxiv.org/abs/2306.01929v1)|null|
 |**2023-06-02**|**DocFormerv2: Local Features for Document Understanding**|Srikar Appalaraju et.al.|[2306.01733v1](http://arxiv.org/abs/2306.01733v1)|null|
 |**2023-06-02**|**Bayesian Segmentation Modeling of Epidemic Growth**|Tejasv Bedi et.al.|[2306.01675v1](http://arxiv.org/abs/2306.01675v1)|null|
-|**2023-06-02**|**Backchannel Detection and Agreement Estimation from Video with Transformer Networks**|Ahmed Amer et.al.|[2306.01656v1](http://arxiv.org/abs/2306.01656v1)|null|
+|**2023-06-02**|**Backchannel Detection and Agreement Estimation from Video with Transformer Networks**|Ahmed Amer et.al.|[2306.01656v1](http://arxiv.org/abs/2306.01656v1)|**[link](https://git.opendfki.de/body_language/ijcnn23-backchannel-detection)**|
 |**2023-06-02**|**Transformer-based Multi-Modal Learning for Multi Label Remote Sensing Image Classification**|David Hoffmann et.al.|[2306.01523v1](http://arxiv.org/abs/2306.01523v1)|null|
 |**2023-06-02**|**Multi-Modal Emotion Recognition for Enhanced Requirements Engineering: A Novel Approach**|Ben Cheng et.al.|[2306.01492v1](http://arxiv.org/abs/2306.01492v1)|null|
 |**2023-06-02**|**Syntax-aware Hybrid prompt model for Few-shot multi-modal sentiment analysis**|Zikai Zhou et.al.|[2306.01312v1](http://arxiv.org/abs/2306.01312v1)|null|
@@ -329,7 +329,7 @@ layout: default
 |**2023-05-29**|**Safety of autonomous vehicles: A survey on Model-based vs. AI-based approaches**|Dimia Iberraken et.al.|[2305.17941v1](http://arxiv.org/abs/2305.17941v1)|null|
 |**2023-05-29**|**Identifying shifts in multi-modal travel patterns during special events using mobile data: Celebrating Vappu in Helsinki**|Zhiren Huang et.al.|[2305.17925v1](http://arxiv.org/abs/2305.17925v1)|null|
 |**2023-05-29**|**TotalDefMeme: A Multi-Attribute Meme dataset on Total Defence in Singapore**|Nirmalendu Prakash et.al.|[2305.17911v1](http://arxiv.org/abs/2305.17911v1)|null|
-|**2023-05-30**|**Deeply Coupled Cross-Modal Prompt Learning**|Xuejing Liu et.al.|[2305.17903v2](http://arxiv.org/abs/2305.17903v2)|null|
+|**2023-05-30**|**Deeply Coupled Cross-Modal Prompt Learning**|Xuejing Liu et.al.|[2305.17903v2](http://arxiv.org/abs/2305.17903v2)|**[link](https://github.com/gingl/cmpa)**|
 |**2023-05-28**|**ConaCLIP: Exploring Distillation of Fully-Connected Knowledge Interaction Graph for Lightweight Text-Image Retrieval**|Jiapeng Wang et.al.|[2305.17652v1](http://arxiv.org/abs/2305.17652v1)|null|
 |**2023-05-28**|**Multi-Modal Wireless Flexible Gel-Free Sensors with Edge Deep Learning for Detecting and Alerting Freezing of Gait in Parkinson's Patients**|Yuhan Hou et.al.|[2305.17629v1](http://arxiv.org/abs/2305.17629v1)|null|
 |**2023-05-28**|**GAME-UP: Game-Aware Mode Enumeration and Understanding for Trajectory Prediction**|Justin Lidard et.al.|[2305.17600v1](http://arxiv.org/abs/2305.17600v1)|null|
@@ -903,7 +903,7 @@ layout: default
 |**2023-02-27**|**Knowledge-enhanced Pre-training for Auto-diagnosis of Chest Radiology Images**|Xiaoman Zhang et.al.|[2302.14042v1](http://arxiv.org/abs/2302.14042v1)|null|
 |**2023-02-27**|**Joint-MAE: 2D-3D Joint Masked Autoencoders for 3D Point Cloud Pre-training**|Ziyu Guo et.al.|[2302.14007v1](http://arxiv.org/abs/2302.14007v1)|null|
 |**2023-02-27**|**Cross-modal Face- and Voice-style Transfer**|Naoya Takahashi et.al.|[2302.13838v1](http://arxiv.org/abs/2302.13838v1)|null|
-|**2023-02-27**|**Contrastive Video Question Answering via Video Graph Transformer**|Junbin Xiao et.al.|[2302.13668v1](http://arxiv.org/abs/2302.13668v1)|null|
+|**2023-02-27**|**Contrastive Video Question Answering via Video Graph Transformer**|Junbin Xiao et.al.|[2302.13668v1](http://arxiv.org/abs/2302.13668v1)|**[link](https://github.com/doc-doc/covgt)**|
 |**2023-02-26**|**Multi-Modality in Music: Predicting Emotion in Music from High-Level Audio Features and Lyrics**|Tibor Krols et.al.|[2302.13321v1](http://arxiv.org/abs/2302.13321v1)|**[link](https://github.com/tibor-krols/cogsci2-spotify)**|
 |**2023-02-26**|**Understanding Social Media Cross-Modality Discourse in Linguistic Space**|Chunpu Xu et.al.|[2302.13311v1](http://arxiv.org/abs/2302.13311v1)|**[link](https://github.com/cpaaax/multimodal_discourse)**|
 |**2023-02-25**|**Tractable Diversity: Scalable Multiperspective Ontology Management via Standpoint EL**|Lucía Gómez Álvarez et.al.|[2302.13187v1](http://arxiv.org/abs/2302.13187v1)|null|
@@ -1280,7 +1280,7 @@ layout: default
 |**2023-04-16**|**CAT-NeRF: Constancy-Aware Tx $^2$ Former for Dynamic Body Modeling**|Haidong Zhu et.al.|[2304.07915v1](http://arxiv.org/abs/2304.07915v1)|**[link](https://github.com/haidongz-usc/CAT-NeRF)**|
 |**2023-04-16**|**SeaThru-NeRF: Neural Radiance Fields in Scattering Media**|Deborah Levy et.al.|[2304.07743v1](http://arxiv.org/abs/2304.07743v1)|null|
 |**2023-04-14**|**UVA: Towards Unified Volumetric Avatar for View Synthesis, Pose rendering, Geometry and Texture Editing**|Jinlong Fan et.al.|[2304.06969v1](http://arxiv.org/abs/2304.06969v1)|null|
-|**2023-04-17**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714v2](http://arxiv.org/abs/2304.06714v2)|null|
+|**2023-04-17**|**Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction**|Hansheng Chen et.al.|[2304.06714v2](http://arxiv.org/abs/2304.06714v2)|**[link](https://github.com/Lakonik/SSDNeRF)**|
 |**2023-04-13**|**Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields**|Jonathan T. Barron et.al.|[2304.06706v1](http://arxiv.org/abs/2304.06706v1)|null|
 |**2023-04-13**|**NeRFVS: Neural Radiance Fields for Free View Synthesis via Geometry Scaffolds**|Chen Yang et.al.|[2304.06287v1](http://arxiv.org/abs/2304.06287v1)|null|
 |**2023-04-12**|**NutritionVerse-Thin: An Optimized Strategy for Enabling Improved Rendering of 3D Thin Food Models**|Chi-en Amy Tai et.al.|[2304.05620v1](http://arxiv.org/abs/2304.05620v1)|null|
@@ -1436,7 +1436,7 @@ layout: default
 |**2022-12-15**|**SteerNeRF: Accelerating NeRF Rendering via Smooth Viewpoint Trajectory**|Sicheng Li et.al.|[2212.08476v1](http://arxiv.org/abs/2212.08476v1)|null|
 |**2022-12-31**|**MEIL-NeRF: Memory-Efficient Incremental Learning of Neural Radiance Fields**|Jaeyoung Chung et.al.|[2212.08328v2](http://arxiv.org/abs/2212.08328v2)|null|
 |**2022-12-15**|**NeRF-Art: Text-Driven Neural Radiance Fields Stylization**|Can Wang et.al.|[2212.08070v1](http://arxiv.org/abs/2212.08070v1)|**[link](https://github.com/cassiePython/NeRF-Art)**|
-|**2022-12-15**|**Real-Time Neural Light Field on Mobile Devices**|Junli Cao et.al.|[2212.08057v1](http://arxiv.org/abs/2212.08057v1)|null|
+|**2022-12-15**|**Real-Time Neural Light Field on Mobile Devices**|Junli Cao et.al.|[2212.08057v1](http://arxiv.org/abs/2212.08057v1)|**[link](https://github.com/snap-research/mobiler2l)**|
 |**2022-12-14**|**NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior**|Wenjing Bian et.al.|[2212.07388v1](http://arxiv.org/abs/2212.07388v1)|**[link](https://github.com/ActiveVisionLab/nope-nerf)**|
 |**2022-12-08**|**GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields**|Alessandro Ruzzi et.al.|[2212.04823v1](http://arxiv.org/abs/2212.04823v1)|**[link](https://github.com/alessandroruzzi/gazenerf)**|
 |**2022-12-09**|**4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**|Zhongshu Wang et.al.|[2212.04701v1](http://arxiv.org/abs/2212.04701v1)|**[link](https://github.com/frozoul/4k-nerf)**|
