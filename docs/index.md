@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.06
+## Updated on 2023.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -144,6 +144,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-05**|**What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?**|Yan Zeng et.al.|[2307.02469v1](http://arxiv.org/abs/2307.02469v1)|null|
+|**2023-07-05**|**Interactive Image Segmentation with Cross-Modality Vision Transformers**|Kun Li et.al.|[2307.02280v1](http://arxiv.org/abs/2307.02280v1)|**[link](https://github.com/lik1996/icmformer)**|
+|**2023-07-05**|**Multimodal Imbalance-Aware Gradient Modulation for Weakly-supervised Audio-Visual Video Parsing**|Jie Fu et.al.|[2307.02041v1](http://arxiv.org/abs/2307.02041v1)|null|
+|**2023-07-05**|**Multi-Modal Prototypes for Open-Set Semantic Segmentation**|Yuhuan Yang et.al.|[2307.02003v1](http://arxiv.org/abs/2307.02003v1)|null|
+|**2023-07-04**|**Causal Video Summarizer for Video Exploration**|Jia-Hong Huang et.al.|[2307.01947v1](http://arxiv.org/abs/2307.01947v1)|null|
+|**2023-07-04**|**Multi-Channel Feature Extraction for Virtual Histological Staining of Photon Absorption Remote Sensing Images**|Marian Boktor et.al.|[2307.01824v1](http://arxiv.org/abs/2307.01824v1)|null|
+|**2023-07-04**|**Edge-aware Multi-task Network for Integrating Quantification Segmentation and Uncertainty Prediction of Liver Tumor on Multi-modality Non-contrast MRI**|Xiaojiao Xiao et.al.|[2307.01798v1](http://arxiv.org/abs/2307.01798v1)|null|
+|**2023-07-04**|**Ben-ge: Extending BigEarthNet with Geographical and Environmental Data**|Michael Mommert et.al.|[2307.01741v1](http://arxiv.org/abs/2307.01741v1)|null|
+|**2023-07-04**|**Graph-Ensemble Learning Model for Multi-label Skin Lesion Classification using Dermoscopy and Clinical Images**|Peng Tang et.al.|[2307.01704v1](http://arxiv.org/abs/2307.01704v1)|null|
+|**2023-07-06**|**SeePrivacy: Automated Contextual Privacy Policy Generation for Mobile Applications**|Shidong Pan et.al.|[2307.01691v2](http://arxiv.org/abs/2307.01691v2)|null|
+|**2023-07-04**|**Conceptual Cognitive Maps Formation with Neural Successor Networks and Word Embeddings**|Paul Stoewer et.al.|[2307.01577v1](http://arxiv.org/abs/2307.01577v1)|null|
+|**2023-07-04**|**LPN: Language-guided Prototypical Network for few-shot classification**|Kaihui Cheng et.al.|[2307.01515v1](http://arxiv.org/abs/2307.01515v1)|null|
+|**2023-07-04**|**Consistent Multimodal Generation via A Unified GAN Framework**|Zhen Zhu et.al.|[2307.01425v1](http://arxiv.org/abs/2307.01425v1)|null|
+|**2023-07-04**|**Generative Flow Networks: a Markov Chain Perspective**|Tristan Deleu et.al.|[2307.01422v1](http://arxiv.org/abs/2307.01422v1)|null|
 |**2023-07-05**|**AVSegFormer: Audio-Visual Segmentation with Transformer**|Shengyi Gao et.al.|[2307.01146v2](http://arxiv.org/abs/2307.01146v2)|**[link](https://github.com/vvvb-github/avsegformer)**|
 |**2023-07-03**|**Cross-modality Attention Adapter: A Glioma Segmentation Fine-tuning Method for SAM Using Multimodal Brain MR Images**|Xiaoyu Shi et.al.|[2307.01124v1](http://arxiv.org/abs/2307.01124v1)|null|
 |**2023-07-03**|**Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization**|Federico Rollo et.al.|[2307.01121v1](http://arxiv.org/abs/2307.01121v1)|null|
