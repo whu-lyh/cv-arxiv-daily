@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.07
+## Updated on 2023.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -144,6 +144,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-06**|**A Hybrid End-to-End Spatio-Temporal Attention Neural Network with Graph-Smooth Signals for EEG Emotion Recognition**|Shadi Sartipi et.al.|[2307.03068v1](http://arxiv.org/abs/2307.03068v1)|null|
+|**2023-07-06**|**Multi-modal multi-class Parkinson disease classification using CNN and decision level fusion**|Sushanta Kumar Sahu et.al.|[2307.02978v1](http://arxiv.org/abs/2307.02978v1)|null|
+|**2023-07-06**|**On the Cultural Gap in Text-to-Image Generation**|Bingshuai Liu et.al.|[2307.02971v1](http://arxiv.org/abs/2307.02971v1)|null|
+|**2023-07-06**|**A Critical Look at the Current Usage of Foundation Model for Dense Recognition Task**|Shiqi Yang et.al.|[2307.02862v1](http://arxiv.org/abs/2307.02862v1)|null|
+|**2023-07-06**|**VerifAI: Verified Generative AI**|Nan Tang et.al.|[2307.02796v1](http://arxiv.org/abs/2307.02796v1)|null|
+|**2023-07-06**|**Cross-Modal Content Inference and Feature Enrichment for Cold-Start Recommendation**|Haokai Ma et.al.|[2307.02761v1](http://arxiv.org/abs/2307.02761v1)|null|
+|**2023-07-06**|**Fine-grained Action Analysis: A Multi-modality and Multi-task Dataset of Figure Skating**|Sheng-Lan Liu et.al.|[2307.02730v1](http://arxiv.org/abs/2307.02730v1)|null|
 |**2023-07-05**|**What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?**|Yan Zeng et.al.|[2307.02469v1](http://arxiv.org/abs/2307.02469v1)|null|
 |**2023-07-05**|**Interactive Image Segmentation with Cross-Modality Vision Transformers**|Kun Li et.al.|[2307.02280v1](http://arxiv.org/abs/2307.02280v1)|**[link](https://github.com/lik1996/icmformer)**|
 |**2023-07-05**|**Multimodal Imbalance-Aware Gradient Modulation for Weakly-supervised Audio-Visual Video Parsing**|Jie Fu et.al.|[2307.02041v1](http://arxiv.org/abs/2307.02041v1)|null|
