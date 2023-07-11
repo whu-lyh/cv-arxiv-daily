@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.10
+## Updated on 2023.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-06**|**H $α$ Kinematics of Superbubbles and Supernova Remnants of the Dwarf galaxy NGC 4214**|M. Sánchez-Cruces et.al.|[2307.03207v1](http://arxiv.org/abs/2307.03207v1)|null|
 |**2023-07-03**|**A new approach to QCD evolution in processes with massive partons**|Benoit Assi et.al.|[2307.00728v1](http://arxiv.org/abs/2307.00728v1)|null|
 |**2023-06-26**|**Hydrodynamic simulations of the Disk of Gas Around Supermassive black holes (HDGAS) -I; Molecular Gas Dynamics**|Mojtaba Raouf et.al.|[2306.14573v1](http://arxiv.org/abs/2306.14573v1)|null|
 |**2023-06-19**|**Composite Bulges -- IV. Detecting Signatures of Gas Inflows in the IFU data: The MUSE View of Ionized Gas Kinematics in NGC 1097**|Tutku Kolcu et.al.|[2306.11091v1](http://arxiv.org/abs/2306.11091v1)|null|
@@ -144,6 +145,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-07**|**Counterion-controlled phase equilibria in a charge-regulated polymer solution**|Giulia L. Celora et.al.|[2307.03706v1](http://arxiv.org/abs/2307.03706v1)|null|
+|**2023-07-07**|**Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition**|Jianyuan Ni et.al.|[2307.03638v1](http://arxiv.org/abs/2307.03638v1)|null|
+|**2023-07-07**|**Robust Human Detection under Visual Degradation via Thermal and mmWave Radar Fusion**|Kaiwen Cai et.al.|[2307.03623v1](http://arxiv.org/abs/2307.03623v1)|null|
+|**2023-07-06**|**Structure Guided Multi-modal Pre-trained Transformer for Knowledge Graph Reasoning**|Ke Liang et.al.|[2307.03591v1](http://arxiv.org/abs/2307.03591v1)|null|
+|**2023-07-07**|**Matching in the Wild: Learning Anatomical Embeddings for Multi-Modality Images**|Xiaoyu Bai et.al.|[2307.03535v1](http://arxiv.org/abs/2307.03535v1)|null|
+|**2023-07-07**|**Merging-Diverging Hybrid Transformer Networks for Survival Prediction in Head and Neck Cancer**|Mingyuan Meng et.al.|[2307.03427v1](http://arxiv.org/abs/2307.03427v1)|null|
+|**2023-07-07**|**General-Purpose Multimodal Transformer meets Remote Sensing Semantic Segmentation**|Nhi Kieu et.al.|[2307.03388v1](http://arxiv.org/abs/2307.03388v1)|null|
+|**2023-07-07**|**All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment**|Chunhui Zhang et.al.|[2307.03373v1](http://arxiv.org/abs/2307.03373v1)|null|
+|**2023-07-07**|**Open-Vocabulary Object Detection via Scene Graph Discovery**|Hengcan Shi et.al.|[2307.03339v1](http://arxiv.org/abs/2307.03339v1)|null|
+|**2023-07-06**|**It is not Sexually Suggestive, It is Educative. Separating Sex Education from Suggestive Content on TikTok Videos**|Enfa George et.al.|[2307.03274v1](http://arxiv.org/abs/2307.03274v1)|null|
+|**2023-07-06**|**Adaptive Generation of Privileged Intermediate Information for Visible-Infrared Person Re-Identification**|Mahdi Alehdaghi et.al.|[2307.03240v1](http://arxiv.org/abs/2307.03240v1)|null|
 |**2023-07-06**|**A Hybrid End-to-End Spatio-Temporal Attention Neural Network with Graph-Smooth Signals for EEG Emotion Recognition**|Shadi Sartipi et.al.|[2307.03068v1](http://arxiv.org/abs/2307.03068v1)|null|
 |**2023-07-06**|**Multi-modal multi-class Parkinson disease classification using CNN and decision level fusion**|Sushanta Kumar Sahu et.al.|[2307.02978v1](http://arxiv.org/abs/2307.02978v1)|null|
 |**2023-07-06**|**On the Cultural Gap in Text-to-Image Generation**|Bingshuai Liu et.al.|[2307.02971v1](http://arxiv.org/abs/2307.02971v1)|null|
@@ -1216,6 +1228,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441v1](http://arxiv.org/abs/2307.03441v1)|null|
+|**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404v1](http://arxiv.org/abs/2307.03404v1)|null|
 |**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v1](http://arxiv.org/abs/2306.17723v1)|null|
 |**2023-07-03**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624v2](http://arxiv.org/abs/2306.17624v2)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541v1](http://arxiv.org/abs/2306.16541v1)|null|
