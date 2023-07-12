@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.11
+## Updated on 2023.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -92,6 +92,7 @@ layout: default
 |**2023-07-04**|**Irregular Change Detection in Sparse Bi-Temporal Point Clouds using Learned Place Recognition Descriptors and Point-to-Voxel Comparison**|Nikolaos Stathoulopoulos et.al.|[2306.15416v2](http://arxiv.org/abs/2306.15416v2)|null|
 |**2023-02-22**|**Multi-Head Feature Pyramid Networks for Breast Mass Detection**|Hexiang Zhang et.al.|[2302.11106v1](http://arxiv.org/abs/2302.11106v1)|null|
 |**2023-01-24**|**FRAME: Fast and Robust Autonomous 3D point cloud Map-merging for Egocentric multi-robot exploration**|Nikolaos Stathoulopoulos et.al.|[2301.09213v2](http://arxiv.org/abs/2301.09213v2)|null|
+|**2023-07-10**|**Lightweight integration of 3D features to improve 2D image segmentation**|Olivier Pradelle et.al.|[2212.08334v2](http://arxiv.org/abs/2212.08334v2)|**[link](https://github.com/opradelle/2dguidedlight3d)**|
 |**2022-12-03**|**Multi-resolution Monocular Depth Map Fusion by Self-supervised Gradient-based Composition**|Yaqiao Dai et.al.|[2212.01538v1](http://arxiv.org/abs/2212.01538v1)|**[link](https://github.com/yuinsky/gradient-based-depth-map-fusion)**|
 |**2022-11-07**|**Detecting Invalid Map Merges in Lifelong SLAM**|Matthias Holoch et.al.|[2211.03423v1](http://arxiv.org/abs/2211.03423v1)|null|
 |**2022-09-22**|**MUI-TARE: Multi-Agent Cooperative Exploration with Unknown Initial Position**|Jingtian Yan et.al.|[2209.10775v1](http://arxiv.org/abs/2209.10775v1)|null|
@@ -145,6 +146,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement**|Anthony Simeonov et.al.|[2307.04751v1](http://arxiv.org/abs/2307.04751v1)|null|
+|**2023-07-10**|**Divide, Evaluate, and Refine: Evaluating and Improving Text-to-Image Alignment with Iterative VQA Feedback**|Jaskirat Singh et.al.|[2307.04749v1](http://arxiv.org/abs/2307.04749v1)|null|
+|**2023-07-10**|**Advances and Challenges in Meta-Learning: A Technical Review**|Anna Vettoruzzo et.al.|[2307.04722v1](http://arxiv.org/abs/2307.04722v1)|null|
+|**2023-07-10**|**Test-Time Adaptation for Nighttime Color-Thermal Semantic Segmentation**|Yexin Liu et.al.|[2307.04470v1](http://arxiv.org/abs/2307.04470v1)|null|
+|**2023-07-10**|**Multi-modal Graph Learning over UMLS Knowledge Graphs**|Manuel Burger et.al.|[2307.04461v1](http://arxiv.org/abs/2307.04461v1)|null|
+|**2023-07-10**|**Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference**|Lei Li et.al.|[2307.04421v1](http://arxiv.org/abs/2307.04421v1)|null|
+|**2023-07-10**|**Enhancing Cross-lingual Transfer via Phonemic Transcription Integration**|Hoang H. Nguyen et.al.|[2307.04361v1](http://arxiv.org/abs/2307.04361v1)|null|
+|**2023-07-10**|**K-Space-Aware Cross-Modality Score for Synthesized Neuroimage Quality Assessment**|Jinbao Wang et.al.|[2307.04296v1](http://arxiv.org/abs/2307.04296v1)|null|
+|**2023-07-09**|**Mx2M: Masked Cross-Modality Modeling in Domain Adaptation for 3D Semantic Segmentation**|Boxiang Zhang et.al.|[2307.04231v1](http://arxiv.org/abs/2307.04231v1)|null|
+|**2023-07-09**|**Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers**|Zhiyu Zhu et.al.|[2307.04129v1](http://arxiv.org/abs/2307.04129v1)|null|
+|**2023-07-09**|**CMDFusion: Bidirectional Fusion Network with Cross-modality Knowledge Distillation for LIDAR Semantic Segmentation**|Jun Cen et.al.|[2307.04091v1](http://arxiv.org/abs/2307.04091v1)|null|
+|**2023-07-08**|**FTFDNet: Learning to Detect Talking Face Video Manipulation with Tri-Modality Interaction**|Ganglai Wang et.al.|[2307.03990v1](http://arxiv.org/abs/2307.03990v1)|null|
+|**2023-07-08**|**Ariadne's Thread:Using Text Prompts to Improve Segmentation of Infected Areas from Chest X-ray images**|Yi Zhong et.al.|[2307.03942v1](http://arxiv.org/abs/2307.03942v1)|**[link](https://github.com/junelin2333/languidemedseg-miccai2023)**|
+|**2023-07-08**|**Adversarial Self-Attack Defense and Spatial-Temporal Relation Mining for Visible-Infrared Video Person Re-Identification**|Huafeng Li et.al.|[2307.03903v1](http://arxiv.org/abs/2307.03903v1)|null|
+|**2023-07-07**|**CLIPMasterPrints: Fooling Contrastive Language-Image Pre-training Using Latent Variable Evolution**|Matthias Freiberger et.al.|[2307.03798v1](http://arxiv.org/abs/2307.03798v1)|**[link](https://github.com/matfrei/clipmasterprints)**|
 |**2023-07-07**|**Counterion-controlled phase equilibria in a charge-regulated polymer solution**|Giulia L. Celora et.al.|[2307.03706v1](http://arxiv.org/abs/2307.03706v1)|null|
 |**2023-07-07**|**Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition**|Jianyuan Ni et.al.|[2307.03638v1](http://arxiv.org/abs/2307.03638v1)|null|
 |**2023-07-07**|**Robust Human Detection under Visual Degradation via Thermal and mmWave Radar Fusion**|Kaiwen Cai et.al.|[2307.03623v1](http://arxiv.org/abs/2307.03623v1)|null|
@@ -1035,6 +1051,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**RaPlace: Place Recognition for Imaging Radar using Radon Transform and Mutable Threshold**|Hyesu Jang et.al.|[2307.04321v1](http://arxiv.org/abs/2307.04321v1)|null|
 |**2023-05-29**|**TReR: A Lightweight Transformer Re-Ranking Approach for 3D LiDAR Place Recognition**|Tiago Barros et.al.|[2305.18013v1](http://arxiv.org/abs/2305.18013v1)|null|
 |**2023-05-11**|**Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**|Nathan Hughes et.al.|[2305.07154v1](http://arxiv.org/abs/2305.07154v1)|**[link](https://github.com/mit-spark/hydra)**|
 |**2023-04-26**|**Hydra-Multi: Collaborative Online Construction of 3D Scene Graphs with Multi-Robot Teams**|Yun Chang et.al.|[2304.13487v1](http://arxiv.org/abs/2304.13487v1)|null|
@@ -1157,6 +1174,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Quark/Gluon Discrimination and Top Tagging with Dual Attention Transformer**|Minxuan He et.al.|[2307.04723v1](http://arxiv.org/abs/2307.04723v1)|null|
 |**2023-06-21**|**Sigma-point Kalman Filter with Nonlinear Unknown Input Estimation via Optimization and Data-driven Approach for Dynamic Systems**|Junn Yong Loo et.al.|[2306.12361v1](http://arxiv.org/abs/2306.12361v1)|null|
 |**2023-06-23**|**ExpPoint-MAE: Better interpretability and performance for self-supervised point cloud transformers**|Ioannis Romanelis et.al.|[2306.10798v2](http://arxiv.org/abs/2306.10798v2)|**[link](https://github.com/vvrpanda/exppoint-mae)**|
 |**2023-06-19**|**Simplifying and Empowering Transformers for Large-Graph Representations**|Qitian Wu et.al.|[2306.10759v1](http://arxiv.org/abs/2306.10759v1)|null|
