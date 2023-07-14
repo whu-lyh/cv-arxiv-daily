@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.13
+## Updated on 2023.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -146,6 +146,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**MMBench: Is Your Multi-modal Model an All-around Player?**|Yuan Liu et.al.|[2307.06281v1](http://arxiv.org/abs/2307.06281v1)|**[link](https://github.com/InternLM/opencompass)**|
+|**2023-07-12**|**Identification in Multiple Treatment Models under Discrete Variation**|Vishal Kamat et.al.|[2307.06174v1](http://arxiv.org/abs/2307.06174v1)|null|
+|**2023-07-10**|**SITTA: A Semantic Image-Text Alignment for Image Captioning**|Fabian Paischer et.al.|[2307.05591v1](http://arxiv.org/abs/2307.05591v1)|**[link](https://github.com/ml-jku/semantic-image-text-alignment)**|
 |**2023-07-11**|**EgoVLPv2: Egocentric Video-Language Pre-training with Fusion in the Backbone**|Shraman Pramanick et.al.|[2307.05463v1](http://arxiv.org/abs/2307.05463v1)|null|
 |**2023-07-11**|**One-Versus-Others Attention: Scalable Multimodal Integration**|Michal Golovanevsky et.al.|[2307.05435v1](http://arxiv.org/abs/2307.05435v1)|**[link](https://github.com/rsinghlab/ovo)**|
 |**2023-07-11**|**Diffusion idea exploration for art generation**|Nikhil Verma et.al.|[2307.04978v1](http://arxiv.org/abs/2307.04978v1)|null|
@@ -155,7 +158,7 @@ layout: default
 |**2023-07-10**|**Test-Time Adaptation for Nighttime Color-Thermal Semantic Segmentation**|Yexin Liu et.al.|[2307.04470v1](http://arxiv.org/abs/2307.04470v1)|null|
 |**2023-07-10**|**Multi-modal Graph Learning over UMLS Knowledge Graphs**|Manuel Burger et.al.|[2307.04461v1](http://arxiv.org/abs/2307.04461v1)|null|
 |**2023-07-10**|**Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference**|Lei Li et.al.|[2307.04421v1](http://arxiv.org/abs/2307.04421v1)|null|
-|**2023-07-10**|**Enhancing Cross-lingual Transfer via Phonemic Transcription Integration**|Hoang H. Nguyen et.al.|[2307.04361v1](http://arxiv.org/abs/2307.04361v1)|null|
+|**2023-07-10**|**Enhancing Cross-lingual Transfer via Phonemic Transcription Integration**|Hoang H. Nguyen et.al.|[2307.04361v1](http://arxiv.org/abs/2307.04361v1)|**[link](https://github.com/nhhoang96/phonemic_xlingual)**|
 |**2023-07-10**|**K-Space-Aware Cross-Modality Score for Synthesized Neuroimage Quality Assessment**|Jinbao Wang et.al.|[2307.04296v1](http://arxiv.org/abs/2307.04296v1)|null|
 |**2023-07-09**|**Mx2M: Masked Cross-Modality Modeling in Domain Adaptation for 3D Semantic Segmentation**|Boxiang Zhang et.al.|[2307.04231v1](http://arxiv.org/abs/2307.04231v1)|null|
 |**2023-07-09**|**Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers**|Zhiyu Zhu et.al.|[2307.04129v1](http://arxiv.org/abs/2307.04129v1)|null|
