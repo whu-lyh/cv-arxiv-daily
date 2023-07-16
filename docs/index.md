@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.15
+## Updated on 2023.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -146,7 +146,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-13**|**WaterScenes: A Multi-Task 4D Radar-Camera Fusion Dataset and Benchmark for Autonomous Driving on Water Surfaces**|Shanliang Yao et.al.|[2307.06505v1](http://arxiv.org/abs/2307.06505v1)|null|
+|**2023-07-13**|**WaterScenes: A Multi-Task 4D Radar-Camera Fusion Dataset and Benchmark for Autonomous Driving on Water Surfaces**|Shanliang Yao et.al.|[2307.06505v1](http://arxiv.org/abs/2307.06505v1)|**[link](https://github.com/waterscenes/waterscenes)**|
 |**2023-07-12**|**Robust scalable initialization for Bayesian variational inference with multi-modal Laplace approximations**|Wyatt Bridgman et.al.|[2307.06424v1](http://arxiv.org/abs/2307.06424v1)|null|
 |**2023-07-12**|**MMBench: Is Your Multi-modal Model an All-around Player?**|Yuan Liu et.al.|[2307.06281v1](http://arxiv.org/abs/2307.06281v1)|**[link](https://github.com/InternLM/opencompass)**|
 |**2023-07-12**|**Identification in Multiple Treatment Models under Discrete Variation**|Vishal Kamat et.al.|[2307.06174v1](http://arxiv.org/abs/2307.06174v1)|null|
