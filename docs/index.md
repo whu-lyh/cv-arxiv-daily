@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.16
+## Updated on 2023.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -159,7 +159,7 @@ layout: default
 |**2023-07-10**|**Advances and Challenges in Meta-Learning: A Technical Review**|Anna Vettoruzzo et.al.|[2307.04722v1](http://arxiv.org/abs/2307.04722v1)|null|
 |**2023-07-10**|**Test-Time Adaptation for Nighttime Color-Thermal Semantic Segmentation**|Yexin Liu et.al.|[2307.04470v1](http://arxiv.org/abs/2307.04470v1)|null|
 |**2023-07-10**|**Multi-modal Graph Learning over UMLS Knowledge Graphs**|Manuel Burger et.al.|[2307.04461v1](http://arxiv.org/abs/2307.04461v1)|null|
-|**2023-07-10**|**Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference**|Lei Li et.al.|[2307.04421v1](http://arxiv.org/abs/2307.04421v1)|null|
+|**2023-07-13**|**Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference**|Lei Li et.al.|[2307.04421v2](http://arxiv.org/abs/2307.04421v2)|null|
 |**2023-07-10**|**Enhancing Cross-lingual Transfer via Phonemic Transcription Integration**|Hoang H. Nguyen et.al.|[2307.04361v1](http://arxiv.org/abs/2307.04361v1)|**[link](https://github.com/nhhoang96/phonemic_xlingual)**|
 |**2023-07-10**|**K-Space-Aware Cross-Modality Score for Synthesized Neuroimage Quality Assessment**|Jinbao Wang et.al.|[2307.04296v1](http://arxiv.org/abs/2307.04296v1)|null|
 |**2023-07-09**|**Mx2M: Masked Cross-Modality Modeling in Domain Adaptation for 3D Semantic Segmentation**|Boxiang Zhang et.al.|[2307.04231v1](http://arxiv.org/abs/2307.04231v1)|null|
