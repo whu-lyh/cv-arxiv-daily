@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.17
+## Updated on 2023.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -88,6 +88,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Multi-Session, Localization-oriented and Lightweight LiDAR Mapping Using Semantic Lines and Planes**|Zehuan Yu et.al.|[2307.07126v1](http://arxiv.org/abs/2307.07126v1)|null|
 |**2023-07-02**|**CQLite: Communication-Efficient Multi-Robot Exploration Using Coverage-biased Distributed Q-Learning**|Ehsan Latif et.al.|[2307.00500v1](http://arxiv.org/abs/2307.00500v1)|null|
 |**2023-07-04**|**Irregular Change Detection in Sparse Bi-Temporal Point Clouds using Learned Place Recognition Descriptors and Point-to-Voxel Comparison**|Nikolaos Stathoulopoulos et.al.|[2306.15416v2](http://arxiv.org/abs/2306.15416v2)|null|
 |**2023-02-22**|**Multi-Head Feature Pyramid Networks for Breast Mass Detection**|Hexiang Zhang et.al.|[2302.11106v1](http://arxiv.org/abs/2302.11106v1)|null|
@@ -146,6 +147,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Investigation of Deep Learning-Based Filtered Density Function for Large Eddy Simulation of Turbulent Scalar Mixing**|Shubhangi Bansude et.al.|[2307.07453v1](http://arxiv.org/abs/2307.07453v1)|null|
+|**2023-07-14**|**A scoping review on multimodal deep learning in biomedical images and texts**|Zhaoyi Sun et.al.|[2307.07362v1](http://arxiv.org/abs/2307.07362v1)|null|
+|**2023-07-14**|**PiTL: Cross-modal Retrieval with Weakly-supervised Vision-language Pre-training via Prompting**|Zixin Guo et.al.|[2307.07341v1](http://arxiv.org/abs/2307.07341v1)|null|
+|**2023-07-14**|**TVPR: Text-to-Video Person Retrieval and a New Benchmark**|Fan Ni et.al.|[2307.07184v1](http://arxiv.org/abs/2307.07184v1)|null|
+|**2023-07-14**|**TriFormer: A Multi-modal Transformer Framework For Mild Cognitive Impairment Conversion Prediction**|Linfeng Liu et.al.|[2307.07177v1](http://arxiv.org/abs/2307.07177v1)|null|
+|**2023-07-14**|**CFI2P: Coarse-to-Fine Cross-Modal Correspondence Learning for Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2307.07142v1](http://arxiv.org/abs/2307.07142v1)|null|
+|**2023-07-14**|**MMSD2.0: Towards a Reliable Multi-modal Sarcasm Detection System**|Libo Qin et.al.|[2307.07135v1](http://arxiv.org/abs/2307.07135v1)|**[link](https://github.com/joeying1019/mmsd2.0)**|
 |**2023-07-13**|**WaterScenes: A Multi-Task 4D Radar-Camera Fusion Dataset and Benchmark for Autonomous Driving on Water Surfaces**|Shanliang Yao et.al.|[2307.06505v1](http://arxiv.org/abs/2307.06505v1)|**[link](https://github.com/waterscenes/waterscenes)**|
 |**2023-07-12**|**Robust scalable initialization for Bayesian variational inference with multi-modal Laplace approximations**|Wyatt Bridgman et.al.|[2307.06424v1](http://arxiv.org/abs/2307.06424v1)|null|
 |**2023-07-12**|**MMBench: Is Your Multi-modal Model an All-around Player?**|Yuan Liu et.al.|[2307.06281v1](http://arxiv.org/abs/2307.06281v1)|**[link](https://github.com/InternLM/opencompass)**|
@@ -1257,7 +1265,7 @@ layout: default
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087v1](http://arxiv.org/abs/2307.05087v1)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441v1](http://arxiv.org/abs/2307.03441v1)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404v1](http://arxiv.org/abs/2307.03404v1)|null|
-|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v1](http://arxiv.org/abs/2306.17723v1)|null|
+|**2023-07-16**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v2](http://arxiv.org/abs/2306.17723v2)|null|
 |**2023-07-03**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624v2](http://arxiv.org/abs/2306.17624v2)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541v1](http://arxiv.org/abs/2306.16541v1)|null|
 |**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203v1](http://arxiv.org/abs/2306.15203v1)|null|

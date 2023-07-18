@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.17
+## Updated on 2023.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -94,12 +94,13 @@
 |**2022-11-23**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v2](http://arxiv.org/abs/2210.01320v2)|null|
 |**2023-02-22**|**GANet: Goal Area Network for Motion Forecasting**|Mingkun Wang et.al.|[2209.09723v3](http://arxiv.org/abs/2209.09723v3)|**[link](https://github.com/kingwmk/ganet)**|
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 ## Map fusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-14**|**Multi-Session, Localization-oriented and Lightweight LiDAR Mapping Using Semantic Lines and Planes**|Zehuan Yu et.al.|[2307.07126v1](http://arxiv.org/abs/2307.07126v1)|null|
 |**2023-07-02**|**CQLite: Communication-Efficient Multi-Robot Exploration Using Coverage-biased Distributed Q-Learning**|Ehsan Latif et.al.|[2307.00500v1](http://arxiv.org/abs/2307.00500v1)|null|
 |**2023-07-04**|**Irregular Change Detection in Sparse Bi-Temporal Point Clouds using Learned Place Recognition Descriptors and Point-to-Voxel Comparison**|Nikolaos Stathoulopoulos et.al.|[2306.15416v2](http://arxiv.org/abs/2306.15416v2)|null|
 |**2023-02-22**|**Multi-Head Feature Pyramid Networks for Breast Mass Detection**|Hexiang Zhang et.al.|[2302.11106v1](http://arxiv.org/abs/2302.11106v1)|null|
@@ -154,12 +155,19 @@
 |**2019-03-14**|**AgriColMap: Aerial-Ground Collaborative 3D Mapping for Precision Farming**|Ciro Potena et.al.|[1810.00457v2](http://arxiv.org/abs/1810.00457v2)|null|
 |**2019-03-05**|**Efficient Constellation-Based Map-Merging for Semantic SLAM**|Kristoffer M. Frey et.al.|[1809.09646v2](http://arxiv.org/abs/1809.09646v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 ## MultiModality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-14**|**Investigation of Deep Learning-Based Filtered Density Function for Large Eddy Simulation of Turbulent Scalar Mixing**|Shubhangi Bansude et.al.|[2307.07453v1](http://arxiv.org/abs/2307.07453v1)|null|
+|**2023-07-14**|**A scoping review on multimodal deep learning in biomedical images and texts**|Zhaoyi Sun et.al.|[2307.07362v1](http://arxiv.org/abs/2307.07362v1)|null|
+|**2023-07-14**|**PiTL: Cross-modal Retrieval with Weakly-supervised Vision-language Pre-training via Prompting**|Zixin Guo et.al.|[2307.07341v1](http://arxiv.org/abs/2307.07341v1)|null|
+|**2023-07-14**|**TVPR: Text-to-Video Person Retrieval and a New Benchmark**|Fan Ni et.al.|[2307.07184v1](http://arxiv.org/abs/2307.07184v1)|null|
+|**2023-07-14**|**TriFormer: A Multi-modal Transformer Framework For Mild Cognitive Impairment Conversion Prediction**|Linfeng Liu et.al.|[2307.07177v1](http://arxiv.org/abs/2307.07177v1)|null|
+|**2023-07-14**|**CFI2P: Coarse-to-Fine Cross-Modal Correspondence Learning for Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2307.07142v1](http://arxiv.org/abs/2307.07142v1)|null|
+|**2023-07-14**|**MMSD2.0: Towards a Reliable Multi-modal Sarcasm Detection System**|Libo Qin et.al.|[2307.07135v1](http://arxiv.org/abs/2307.07135v1)|**[link](https://github.com/joeying1019/mmsd2.0)**|
 |**2023-07-13**|**WaterScenes: A Multi-Task 4D Radar-Camera Fusion Dataset and Benchmark for Autonomous Driving on Water Surfaces**|Shanliang Yao et.al.|[2307.06505v1](http://arxiv.org/abs/2307.06505v1)|**[link](https://github.com/waterscenes/waterscenes)**|
 |**2023-07-12**|**Robust scalable initialization for Bayesian variational inference with multi-modal Laplace approximations**|Wyatt Bridgman et.al.|[2307.06424v1](http://arxiv.org/abs/2307.06424v1)|null|
 |**2023-07-12**|**MMBench: Is Your Multi-modal Model an All-around Player?**|Yuan Liu et.al.|[2307.06281v1](http://arxiv.org/abs/2307.06281v1)|**[link](https://github.com/InternLM/opencompass)**|
@@ -1055,7 +1063,7 @@
 |**2023-02-13**|**CLIP-RR: Improved CLIP Network for Relation-Focused Cross-Modal Information Retrieval**|Yan Gong et.al.|[2302.06350v1](http://arxiv.org/abs/2302.06350v1)|null|
 |**2023-02-13**|**CoMAE: Single Model Hybrid Pre-training on Small-Scale RGB-D Datasets**|Jiange Yang et.al.|[2302.06148v1](http://arxiv.org/abs/2302.06148v1)|**[link](https://github.com/mcg-nju/comae)**|
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 ## Point Cloud Localization
 
@@ -1071,7 +1079,7 @@
 |**2018-04-03**|**Mining Point Cloud Local Structures by Kernel Correlation and Graph Pooling**|Yiru Shen et.al.|[1712.06760v2](http://arxiv.org/abs/1712.06760v2)|null|
 |**2017-02-14**|**Graph Based Over-Segmentation Methods for 3D Point Clouds**|Yizhak Ben-Shabat et.al.|[1702.04114v1](http://arxiv.org/abs/1702.04114v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 ## Place Recognization
 
@@ -1136,7 +1144,7 @@
 |**2021-05-24**|**OverlapNet: Loop Closing for LiDAR-based SLAM**|Xieyuanli Chen et.al.|[2105.11344v1](http://arxiv.org/abs/2105.11344v1)|**[link](https://github.com/PRBonn/OverlapNet)**|
 |**2021-03-23**|**NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation**|Zhicheng Zhou et.al.|[2103.12292v1](http://arxiv.org/abs/2103.12292v1)|**[link](https://github.com/dachengxiaocheng/NDT-Transformer)**|
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 ## LiDAR SLAM
 
@@ -1198,7 +1206,7 @@
 |**2020-08-09**|**LiDAR Data Enrichment Using Deep Learning Based on High-Resolution Image: An Approach to Achieve High-Performance LiDAR SLAM Using Low-cost LiDAR**|Jiang Yue et.al.|[2008.03694v1](http://arxiv.org/abs/2008.03694v1)|null|
 |**2020-08-05**|**Elasticity Meets Continuous-Time: Map-Centric Dense 3D LiDAR SLAM**|Chanoh Park et.al.|[2008.02274v1](http://arxiv.org/abs/2008.02274v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 ## Transformer
 
@@ -1272,7 +1280,7 @@
 |**2021-10-14**|**Investigating Attention Mechanism in 3D Point Cloud Object Detection**|Shi Qiu et.al.|[2108.00620v2](http://arxiv.org/abs/2108.00620v2)|**[link](https://github.com/ShiQiu0419/attentions_in_3D_detection)**|
 |**2021-07-29**|**Reduction of balance laws in (3+1)--dimensions to autonomous conservation laws by means of equivalence transformations**|Matteo Gorgone et.al.|[2107.14144v1](http://arxiv.org/abs/2107.14144v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 ## NeRF
 
@@ -1281,7 +1289,7 @@
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087v1](http://arxiv.org/abs/2307.05087v1)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441v1](http://arxiv.org/abs/2307.03441v1)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404v1](http://arxiv.org/abs/2307.03404v1)|null|
-|**2023-06-30**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v1](http://arxiv.org/abs/2306.17723v1)|null|
+|**2023-07-16**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v2](http://arxiv.org/abs/2306.17723v2)|null|
 |**2023-07-03**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624v2](http://arxiv.org/abs/2306.17624v2)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541v1](http://arxiv.org/abs/2306.16541v1)|null|
 |**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203v1](http://arxiv.org/abs/2306.15203v1)|null|
@@ -1549,7 +1557,7 @@
 |**2022-12-08**|**GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields**|Alessandro Ruzzi et.al.|[2212.04823v1](http://arxiv.org/abs/2212.04823v1)|**[link](https://github.com/alessandroruzzi/gazenerf)**|
 |**2022-12-09**|**4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**|Zhongshu Wang et.al.|[2212.04701v1](http://arxiv.org/abs/2212.04701v1)|**[link](https://github.com/frozoul/4k-nerf)**|
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
