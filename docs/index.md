@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.18
+## Updated on 2023.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -147,6 +147,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs**|Yang Zhao et.al.|[2307.08581v1](http://arxiv.org/abs/2307.08581v1)|null|
+|**2023-07-17**|**SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator**|Zhe Zhu et.al.|[2307.08492v1](http://arxiv.org/abs/2307.08492v1)|**[link](https://github.com/czvvd/svdformer)**|
+|**2023-07-17**|**Monocular 3D Object Detection with LiDAR Guided Semi Supervised Active Learning**|Aral Hekimoglu et.al.|[2307.08415v1](http://arxiv.org/abs/2307.08415v1)|null|
+|**2023-07-17**|**Multi-Task Cross-Modality Attention-Fusion for 2D Object Detection**|Huawei Sun et.al.|[2307.08339v1](http://arxiv.org/abs/2307.08339v1)|null|
+|**2023-07-17**|**Bridging the Gap: Multi-Level Cross-Modality Joint Alignment for Visible-Infrared Person Re-Identification**|Tengfei Liang et.al.|[2307.08316v1](http://arxiv.org/abs/2307.08316v1)|null|
+|**2023-07-17**|**Unified Open-Vocabulary Dense Visual Prediction**|Hengcan Shi et.al.|[2307.08238v1](http://arxiv.org/abs/2307.08238v1)|null|
+|**2023-07-17**|**ROFusion: Efficient Object Detection using Hybrid Point-wise Radar-Optical Fusion**|Liu Liu et.al.|[2307.08233v1](http://arxiv.org/abs/2307.08233v1)|null|
+|**2023-07-17**|**Video Frame Interpolation with Stereo Event and Intensity Camera**|Chao Ding et.al.|[2307.08228v1](http://arxiv.org/abs/2307.08228v1)|null|
+|**2023-07-16**|**CalibNet: Dual-branch Cross-modal Calibration for RGB-D Salient Instance Segmentation**|Jialun Pei et.al.|[2307.08098v1](http://arxiv.org/abs/2307.08098v1)|**[link](https://github.com/pjlallen/calibnet)**|
+|**2023-07-16**|**A Multi-model and Multi-scenario Assessment of the Impact of Climate Change on the Heating and Cooling Load Components of an Archetypical Residential Room in Major Indian Cities**|Raj S. Srivastava et.al.|[2307.08019v1](http://arxiv.org/abs/2307.08019v1)|null|
+|**2023-07-16**|**Breaking Down the Task: A Unit-Grained Hybrid Training Framework for Vision and Language Decision Making**|Ruipu Luo et.al.|[2307.08016v1](http://arxiv.org/abs/2307.08016v1)|null|
+|**2023-07-15**|**Unified Adversarial Patch for Cross-modal Attacks in the Physical World**|Xingxing Wei et.al.|[2307.07859v1](http://arxiv.org/abs/2307.07859v1)|null|
+|**2023-07-15**|**MUVF-YOLOX: A Multi-modal Ultrasound Video Fusion Network for Renal Tumor Diagnosis**|Junyu Li et.al.|[2307.07807v1](http://arxiv.org/abs/2307.07807v1)|**[link](https://github.com/jeunyuli/muaf)**|
+|**2023-07-15**|**Joint Adversarial and Collaborative Learning for Self-Supervised Action Recognition**|Tianyu Guo et.al.|[2307.07791v1](http://arxiv.org/abs/2307.07791v1)|**[link](https://github.com/levigty/acl)**|
+|**2023-07-15**|**Tightly-Coupled LiDAR-Visual SLAM Based on Geometric Features for Mobile Agents**|Ke Cao et.al.|[2307.07763v1](http://arxiv.org/abs/2307.07763v1)|null|
 |**2023-07-14**|**Investigation of Deep Learning-Based Filtered Density Function for Large Eddy Simulation of Turbulent Scalar Mixing**|Shubhangi Bansude et.al.|[2307.07453v1](http://arxiv.org/abs/2307.07453v1)|null|
 |**2023-07-14**|**A scoping review on multimodal deep learning in biomedical images and texts**|Zhaoyi Sun et.al.|[2307.07362v1](http://arxiv.org/abs/2307.07362v1)|null|
 |**2023-07-14**|**PiTL: Cross-modal Retrieval with Weakly-supervised Vision-language Pre-training via Prompting**|Zixin Guo et.al.|[2307.07341v1](http://arxiv.org/abs/2307.07341v1)|null|
@@ -1067,6 +1082,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221v1](http://arxiv.org/abs/2307.08221v1)|**[link](https://github.com/SlamCabbage/NDTMC)**|
 |**2023-07-10**|**RaPlace: Place Recognition for Imaging Radar using Radon Transform and Mutable Threshold**|Hyesu Jang et.al.|[2307.04321v1](http://arxiv.org/abs/2307.04321v1)|null|
 |**2023-05-29**|**TReR: A Lightweight Transformer Re-Ranking Approach for 3D LiDAR Place Recognition**|Tiago Barros et.al.|[2305.18013v1](http://arxiv.org/abs/2305.18013v1)|null|
 |**2023-05-11**|**Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**|Nathan Hughes et.al.|[2305.07154v1](http://arxiv.org/abs/2305.07154v1)|**[link](https://github.com/mit-spark/hydra)**|
@@ -1130,6 +1146,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221v1](http://arxiv.org/abs/2307.08221v1)|**[link](https://github.com/SlamCabbage/NDTMC)**|
 |**2023-06-06**|**PQM: A Point Quality Evaluation Metric for Dense Maps**|Yash Turkar et.al.|[2306.03660v1](http://arxiv.org/abs/2306.03660v1)|null|
 |**2023-05-03**|**Direct LiDAR-Inertial Odometry and Mapping: Perceptive and Connective SLAM**|Kenny Chen et.al.|[2305.01843v1](http://arxiv.org/abs/2305.01843v1)|null|
 |**2023-03-09**|**SLAMesh: Real-time LiDAR Simultaneous Localization and Meshing**|Jianyuan Ruan et.al.|[2303.05252v1](http://arxiv.org/abs/2303.05252v1)|**[link](https://github.com/lab-sun/slamesh)**|
@@ -1190,7 +1207,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-10**|**Quark/Gluon Discrimination and Top Tagging with Dual Attention Transformer**|Minxuan He et.al.|[2307.04723v1](http://arxiv.org/abs/2307.04723v1)|null|
+|**2023-07-18**|**Quark/Gluon Discrimination and Top Tagging with Dual Attention Transformer**|Minxuan He et.al.|[2307.04723v2](http://arxiv.org/abs/2307.04723v2)|null|
 |**2023-06-21**|**Sigma-point Kalman Filter with Nonlinear Unknown Input Estimation via Optimization and Data-driven Approach for Dynamic Systems**|Junn Yong Loo et.al.|[2306.12361v1](http://arxiv.org/abs/2306.12361v1)|null|
 |**2023-06-23**|**ExpPoint-MAE: Better interpretability and performance for self-supervised point cloud transformers**|Ioannis Romanelis et.al.|[2306.10798v2](http://arxiv.org/abs/2306.10798v2)|**[link](https://github.com/vvrpanda/exppoint-mae)**|
 |**2023-06-19**|**Simplifying and Empowering Transformers for Large-Graph Representations**|Qitian Wu et.al.|[2306.10759v1](http://arxiv.org/abs/2306.10759v1)|null|
@@ -1262,6 +1279,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-16**|**Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**|Yifan Yang et.al.|[2307.08093v1](http://arxiv.org/abs/2307.08093v1)|**[link](https://github.com/yifyang993/cr-nerf-pytorch)**|
+|**2023-07-15**|**Improving NeRF with Height Data for Utilization of GIS Data**|Hinata Aoki et.al.|[2307.07729v1](http://arxiv.org/abs/2307.07729v1)|null|
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087v1](http://arxiv.org/abs/2307.05087v1)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441v1](http://arxiv.org/abs/2307.03441v1)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404v1](http://arxiv.org/abs/2307.03404v1)|null|
