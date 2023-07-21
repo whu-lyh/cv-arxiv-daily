@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.20
+## Updated on 2023.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -147,6 +147,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis**|Lingting Zhu et.al.|[2307.10094v1](http://arxiv.org/abs/2307.10094v1)|null|
+|**2023-07-19**|**DISA: DIfferentiable Similarity Approximation for Universal Multimodal Registration**|Matteo Ronchetti et.al.|[2307.09931v1](http://arxiv.org/abs/2307.09931v1)|**[link](https://github.com/imfusiongmbh/disa-universal-multimodal-registration)**|
+|**2023-07-19**|**Embedded Heterogeneous Attention Transformer for Cross-lingual Image Captioning**|Zijie Song et.al.|[2307.09915v1](http://arxiv.org/abs/2307.09915v1)|null|
+|**2023-07-19**|**Multi-modal Learning based Prediction for Disease**|Yaran Chen et.al.|[2307.09823v1](http://arxiv.org/abs/2307.09823v1)|null|
+|**2023-07-19**|**Source-Free Domain Adaptation for Medical Image Segmentation via Prototype-Anchored Feature Alignment and Contrastive Learning**|Qinji Yu et.al.|[2307.09769v1](http://arxiv.org/abs/2307.09769v1)|**[link](https://github.com/cscyqj/miccai23-protocontra-sfda)**|
+|**2023-07-19**|**Towards Robust Scene Text Image Super-resolution via Explicit Location Enhancement**|Hang Guo et.al.|[2307.09749v1](http://arxiv.org/abs/2307.09749v1)|null|
+|**2023-07-19**|**Multi-Grained Multimodal Interaction Network for Entity Linking**|Pengfei Luo et.al.|[2307.09721v1](http://arxiv.org/abs/2307.09721v1)|**[link](https://github.com/pengfei-luo/mimic)**|
 |**2023-07-18**|**OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation**|Dongming Wu et.al.|[2307.09356v1](http://arxiv.org/abs/2307.09356v1)|**[link](https://github.com/wudongming97/onlinerefer)**|
 |**2023-07-18**|**Towards a performance analysis on pre-trained Visual Question Answering models for autonomous driving**|Kaavya Rekanar et.al.|[2307.09329v1](http://arxiv.org/abs/2307.09329v1)|**[link](https://github.com/kaavyarekanar/towards-a-performance-analysis-on-pre-trained-vqa-models-for-autonomous-driving)**|
 |**2023-07-18**|**Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Jiahe Li et.al.|[2307.09323v1](http://arxiv.org/abs/2307.09323v1)|**[link](https://github.com/fictionarry/er-nerf)**|
@@ -1295,6 +1302,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**An Improved NeuMIP with Better Accuracy**|Bowen Xue et.al.|[2307.10135v1](http://arxiv.org/abs/2307.10135v1)|null|
+|**2023-07-19**|**Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**|Ke Li et.al.|[2307.09860v1](http://arxiv.org/abs/2307.09860v1)|null|
+|**2023-07-14**|**Transient Neural Radiance Fields for Lidar View Synthesis and 3D Reconstruction**|Anagh Malik et.al.|[2307.09555v1](http://arxiv.org/abs/2307.09555v1)|null|
 |**2023-07-18**|**Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Jiahe Li et.al.|[2307.09323v1](http://arxiv.org/abs/2307.09323v1)|**[link](https://github.com/fictionarry/er-nerf)**|
 |**2023-07-16**|**Cross-Ray Neural Radiance Fields for Novel-view Synthesis from Unconstrained Image Collections**|Yifan Yang et.al.|[2307.08093v1](http://arxiv.org/abs/2307.08093v1)|**[link](https://github.com/yifyang993/cr-nerf-pytorch)**|
 |**2023-07-15**|**Improving NeRF with Height Data for Utilization of GIS Data**|Hinata Aoki et.al.|[2307.07729v1](http://arxiv.org/abs/2307.07729v1)|null|
