@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.22
+## Updated on 2023.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -155,7 +155,7 @@ layout: default
 |**2023-07-20**|**SCA-PVNet: Self-and-Cross Attention Based Aggregation of Point Cloud and Multi-View for 3D Object Retrieval**|Dongyun Lin et.al.|[2307.10601v1](http://arxiv.org/abs/2307.10601v1)|null|
 |**2023-07-20**|**Ethosight: A Joint-Embedding Based System for Nuanced Perception Using Contextual Label Affinity Metric and Reasoning Based Iterative Learning**|Hugo Latapie et.al.|[2307.10577v1](http://arxiv.org/abs/2307.10577v1)|null|
 |**2023-07-20**|**Probabilistic Multimodal Depth Estimation Based on Camera-LiDAR Sensor Fusion**|Johan S. Obando-Ceron et.al.|[2307.10519v1](http://arxiv.org/abs/2307.10519v1)|null|
-|**2023-07-19**|**(Ab)using Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs**|Eugene Bagdasaryan et.al.|[2307.10490v1](http://arxiv.org/abs/2307.10490v1)|null|
+|**2023-07-19**|**(Ab)using Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs**|Eugene Bagdasaryan et.al.|[2307.10490v1](http://arxiv.org/abs/2307.10490v1)|**[link](https://github.com/ebagdasa/multimodal_injection)**|
 |**2023-07-19**|**Findings of Factify 2: Multimodal Fake News Detection**|S Suryavardan et.al.|[2307.10475v1](http://arxiv.org/abs/2307.10475v1)|null|
 |**2023-07-19**|**Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis**|Lingting Zhu et.al.|[2307.10094v1](http://arxiv.org/abs/2307.10094v1)|null|
 |**2023-07-19**|**DISA: DIfferentiable Similarity Approximation for Universal Multimodal Registration**|Matteo Ronchetti et.al.|[2307.09931v1](http://arxiv.org/abs/2307.09931v1)|**[link](https://github.com/imfusiongmbh/disa-universal-multimodal-registration)**|
