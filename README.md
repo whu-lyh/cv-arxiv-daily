@@ -451,7 +451,7 @@
 |**2023-05-31**|**ViLaS: Integrating Vision and Language into Automatic Speech Recognition**|Minglun Han et.al.|[2305.19972v1](http://arxiv.org/abs/2305.19972v1)|null|
 |**2023-06-01**|**Joint Adaptive Representations for Image-Language Learning**|AJ Piergiovanni et.al.|[2305.19924v2](http://arxiv.org/abs/2305.19924v2)|null|
 |**2023-05-31**|**Structure-Aware Language Model Pretraining Improves Dense Retrieval on Structured Data**|Xinze Li et.al.|[2305.19912v1](http://arxiv.org/abs/2305.19912v1)|**[link](https://github.com/openmatch/openmatch)**|
-|**2023-05-31**|**Med-UniC: Unifying Cross-Lingual Medical Vision-Language Pre-Training by Diminishing Bias**|Zhongwei Wan et.al.|[2305.19894v1](http://arxiv.org/abs/2305.19894v1)|null|
+|**2023-05-31**|**Med-UniC: Unifying Cross-Lingual Medical Vision-Language Pre-Training by Diminishing Bias**|Zhongwei Wan et.al.|[2305.19894v1](http://arxiv.org/abs/2305.19894v1)|**[link](https://github.com/SUSTechBruce/Med-UniC)**|
 |**2023-05-31**|**Unveiling Cross Modality Bias in Visual Question Answering: A Causal View with Possible Worlds VQA**|Ali Vosoughi et.al.|[2305.19664v1](http://arxiv.org/abs/2305.19664v1)|null|
 |**2023-05-31**|**A Multi-Modal Transformer Network for Action Detection**|Matthew Korban et.al.|[2305.19624v1](http://arxiv.org/abs/2305.19624v1)|null|
 |**2023-06-01**|**Dense and Aligned Captions (DAC) Promote Compositional Reasoning in VL Models**|Sivan Doveh et.al.|[2305.19595v2](http://arxiv.org/abs/2305.19595v2)|null|
@@ -1379,7 +1379,7 @@
 |**2023-05-30**|**DäRF: Boosting Radiance Fields from Sparse Inputs with Monocular Depth Adaptation**|Jiuhn Song et.al.|[2305.19201v1](http://arxiv.org/abs/2305.19201v1)|null|
 |**2023-05-30**|**Template-free Articulated Neural Point Clouds for Reposable View Synthesis**|Lukas Uzolas et.al.|[2305.19065v1](http://arxiv.org/abs/2305.19065v1)|**[link](https://github.com/lukasuz/articulated-point-nerf)**|
 |**2023-05-31**|**HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance**|Junzhe Zhu et.al.|[2305.18766v2](http://arxiv.org/abs/2305.18766v2)|null|
-|**2023-05-31**|**Towards a Robust Framework for NeRF Evaluation**|Adrian Azzarelli et.al.|[2305.18079v3](http://arxiv.org/abs/2305.18079v3)|null|
+|**2023-05-31**|**Towards a Robust Framework for NeRF Evaluation**|Adrian Azzarelli et.al.|[2305.18079v3](http://arxiv.org/abs/2305.18079v3)|**[link](https://github.com/azzarelli/wape)**|
 |**2023-05-31**|**Volume Feature Rendering for Fast Neural Radiance Field Reconstruction**|Kang Han et.al.|[2305.17916v2](http://arxiv.org/abs/2305.17916v2)|null|
 |**2023-06-06**|**PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction**|Fusang Wang et.al.|[2305.16914v3](http://arxiv.org/abs/2305.16914v3)|null|
 |**2023-05-25**|**ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image**|Zhenzhen Weng et.al.|[2305.16411v1](http://arxiv.org/abs/2305.16411v1)|null|
@@ -1586,7 +1586,7 @@
 |**2023-01-27**|**SNeRL: Semantic-aware Neural Radiance Fields for Reinforcement Learning**|Dongseok Shim et.al.|[2301.11520v1](http://arxiv.org/abs/2301.11520v1)|null|
 |**2023-01-26**|**Text-To-4D Dynamic Scene Generation**|Uriel Singer et.al.|[2301.11280v1](http://arxiv.org/abs/2301.11280v1)|null|
 |**2023-01-26**|**GeCoNeRF: Few-shot Neural Radiance Fields via Geometric Consistency**|Minseop Kwak et.al.|[2301.10941v1](http://arxiv.org/abs/2301.10941v1)|null|
-|**2023-01-23**|**HexPlane: A Fast Representation for Dynamic Scenes**|Ang Cao et.al.|[2301.09632v1](http://arxiv.org/abs/2301.09632v1)|null|
+|**2023-01-23**|**HexPlane: A Fast Representation for Dynamic Scenes**|Ang Cao et.al.|[2301.09632v1](http://arxiv.org/abs/2301.09632v1)|**[link](https://github.com/Caoang327/HexPlane)**|
 |**2023-02-02**|**3D Reconstruction of Non-cooperative Resident Space Objects using Instant NGP-accelerated NeRF and D-NeRF**|Trupti Mahendrakar et.al.|[2301.09060v2](http://arxiv.org/abs/2301.09060v2)|null|
 |**2023-01-18**|**NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis**|Allan Zhou et.al.|[2301.08556v1](http://arxiv.org/abs/2301.08556v1)|null|
 |**2023-02-05**|**RecolorNeRF: Layer Decomposed Radiance Fields for Efficient Color Editing of 3D Scenes**|Bingchen Gong et.al.|[2301.07958v2](http://arxiv.org/abs/2301.07958v2)|null|
