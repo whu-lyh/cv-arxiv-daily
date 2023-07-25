@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.24
+## Updated on 2023.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -148,6 +148,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**A multi-modal representation of El Niño Southern Oscillation Diversity**|Jakob Schlör et.al.|[2307.11552v1](http://arxiv.org/abs/2307.11552v1)|null|
+|**2023-07-21**|**Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation**|Zunnan Xu et.al.|[2307.11545v1](http://arxiv.org/abs/2307.11545v1)|null|
+|**2023-07-21**|**UWAT-GAN: Fundus Fluorescein Angiography Synthesis via Ultra-wide-angle Transformation Multi-scale GAN**|Zhaojie Fang et.al.|[2307.11530v1](http://arxiv.org/abs/2307.11530v1)|**[link](https://github.com/Tinysqua/UWAT-GAN)**|
+|**2023-07-21**|**Topic Identification For Spontaneous Speech: Enriching Audio Features With Embedded Linguistic Information**|Dejan Porjazovski et.al.|[2307.11450v1](http://arxiv.org/abs/2307.11450v1)|null|
+|**2023-07-21**|**HVDetFusion: A Simple and Robust Camera-Radar Fusion Framework**|Kai Lei et.al.|[2307.11323v1](http://arxiv.org/abs/2307.11323v1)|null|
 |**2023-07-20**|**On Combining Expert Demonstrations in Imitation Learning via Optimal Transport**|Ilana Sebag et.al.|[2307.10810v1](http://arxiv.org/abs/2307.10810v1)|null|
 |**2023-07-20**|**See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data**|Yuhang Lu et.al.|[2307.10782v1](http://arxiv.org/abs/2307.10782v1)|null|
 |**2023-07-20**|**MSQNet: Actor-agnostic Action Recognition with Multi-modal Query**|Anindya Mondal et.al.|[2307.10763v1](http://arxiv.org/abs/2307.10763v1)|**[link](https://github.com/mondalanindya/msqnet)**|
@@ -155,7 +160,7 @@ layout: default
 |**2023-07-20**|**SCA-PVNet: Self-and-Cross Attention Based Aggregation of Point Cloud and Multi-View for 3D Object Retrieval**|Dongyun Lin et.al.|[2307.10601v1](http://arxiv.org/abs/2307.10601v1)|null|
 |**2023-07-21**|**Ethosight: A Reasoning-Guided Iterative Learning System for Nuanced Perception based on Joint-Embedding & Contextual Label Affinity**|Hugo Latapie et.al.|[2307.10577v2](http://arxiv.org/abs/2307.10577v2)|null|
 |**2023-07-20**|**Probabilistic Multimodal Depth Estimation Based on Camera-LiDAR Sensor Fusion**|Johan S. Obando-Ceron et.al.|[2307.10519v1](http://arxiv.org/abs/2307.10519v1)|null|
-|**2023-07-21**|**(Ab)using Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs**|Eugene Bagdasaryan et.al.|[2307.10490v2](http://arxiv.org/abs/2307.10490v2)|**[link](https://github.com/ebagdasa/multimodal_injection)**|
+|**2023-07-24**|**(Ab)using Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs**|Eugene Bagdasaryan et.al.|[2307.10490v3](http://arxiv.org/abs/2307.10490v3)|**[link](https://github.com/ebagdasa/multimodal_injection)**|
 |**2023-07-19**|**Findings of Factify 2: Multimodal Fake News Detection**|S Suryavardan et.al.|[2307.10475v1](http://arxiv.org/abs/2307.10475v1)|null|
 |**2023-07-19**|**Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis**|Lingting Zhu et.al.|[2307.10094v1](http://arxiv.org/abs/2307.10094v1)|null|
 |**2023-07-19**|**DISA: DIfferentiable Similarity Approximation for Universal Multimodal Registration**|Matteo Ronchetti et.al.|[2307.09931v1](http://arxiv.org/abs/2307.09931v1)|**[link](https://github.com/imfusiongmbh/disa-universal-multimodal-registration)**|
@@ -1312,6 +1317,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**|Ziyuan Luo et.al.|[2307.11526v1](http://arxiv.org/abs/2307.11526v1)|null|
+|**2023-07-21**|**FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields**|Sungwon Hwang et.al.|[2307.11418v1](http://arxiv.org/abs/2307.11418v1)|null|
+|**2023-07-21**|**Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields**|Wenbo Hu et.al.|[2307.11335v1](http://arxiv.org/abs/2307.11335v1)|null|
 |**2023-07-20**|**Urban Radiance Field Representation with Deformable Neural Mesh Primitives**|Fan Lu et.al.|[2307.10776v1](http://arxiv.org/abs/2307.10776v1)|null|
 |**2023-07-20**|**Lighting up NeRF via Unsupervised Decomposition and Enhancement**|Haoyuan Wang et.al.|[2307.10664v1](http://arxiv.org/abs/2307.10664v1)|**[link](https://github.com/onpix/LLNeRF)**|
 |**2023-07-19**|**An Improved NeuMIP with Better Accuracy**|Bowen Xue et.al.|[2307.10135v1](http://arxiv.org/abs/2307.10135v1)|null|
