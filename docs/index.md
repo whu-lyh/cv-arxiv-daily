@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.25
+## Updated on 2023.07.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -148,8 +148,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-21**|**A multi-modal representation of El Niño Southern Oscillation Diversity**|Jakob Schlör et.al.|[2307.11552v1](http://arxiv.org/abs/2307.11552v1)|null|
-|**2023-07-21**|**Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation**|Zunnan Xu et.al.|[2307.11545v1](http://arxiv.org/abs/2307.11545v1)|null|
+|**2023-07-24**|**Audio-Enhanced Text-to-Video Retrieval using Text-Conditioned Feature Alignment**|Sarah Ibrahimi et.al.|[2307.12964v1](http://arxiv.org/abs/2307.12964v1)|null|
+|**2023-07-25**|**Spatiotemporal Modeling Encounters 3D Medical Image Analysis: Slice-Shift UNet with Multi-View Fusion**|C. I. Ugwu et.al.|[2307.12853v2](http://arxiv.org/abs/2307.12853v2)|null|
+|**2023-07-24**|**CLIP-KD: An Empirical Study of Distilling CLIP Models**|Chuanguang Yang et.al.|[2307.12732v1](http://arxiv.org/abs/2307.12732v1)|null|
+|**2023-07-24**|**Enhancing Human-like Multi-Modal Reasoning: A New Challenging Dataset and Comprehensive Framework**|Jingxuan Wei et.al.|[2307.12626v1](http://arxiv.org/abs/2307.12626v1)|null|
+|**2023-07-24**|**PRIOR: Prototype Representation Joint Learning from Medical Images and Reports**|Pujin Cheng et.al.|[2307.12577v1](http://arxiv.org/abs/2307.12577v1)|**[link](https://github.com/qtacierp/prior)**|
+|**2023-07-24**|**Towards Video Anomaly Retrieval from Video Anomaly Detection: New Benchmarks and Model**|Peng Wu et.al.|[2307.12545v1](http://arxiv.org/abs/2307.12545v1)|null|
+|**2023-07-23**|**HealthPrism: A Visual Analytics System for Exploring Children's Physical and Mental Health Profiles with Multimodal Data**|Zhihan Jiang et.al.|[2307.12242v1](http://arxiv.org/abs/2307.12242v1)|null|
+|**2023-07-23**|**Multi-Modal Machine Learning for Assessing Gaming Skills in Online Streaming: A Case Study with CS:GO**|Longxiang Zhang et.al.|[2307.12236v1](http://arxiv.org/abs/2307.12236v1)|null|
+|**2023-07-22**|**Prototype-Driven and Multi-Expert Integrated Multi-Modal MR Brain Tumor Image Segmentation**|Yafei Zhang et.al.|[2307.12180v1](http://arxiv.org/abs/2307.12180v1)|**[link](https://github.com/linzy0227/pdminet)**|
+|**2023-07-22**|**Replay: Multi-modal Multi-view Acted Videos for Casual Holography**|Roman Shapovalov et.al.|[2307.12067v1](http://arxiv.org/abs/2307.12067v1)|**[link](https://github.com/facebookresearch/replay_dataset)**|
+|**2023-07-22**|**Discovering Spatio-Temporal Rationales for Video Question Answering**|Yicong Li et.al.|[2307.12058v1](http://arxiv.org/abs/2307.12058v1)|null|
+|**2023-07-21**|**Poverty rate prediction using multi-modal survey and earth observation data**|Simone Fobi et.al.|[2307.11921v1](http://arxiv.org/abs/2307.11921v1)|null|
+|**2023-07-21**|**A multi-modal representation of El Niño Southern Oscillation Diversity**|Jakob Schlör et.al.|[2307.11552v1](http://arxiv.org/abs/2307.11552v1)|**[link](https://github.com/jakob-schloer/latentgmm)**|
+|**2023-07-21**|**Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation**|Zunnan Xu et.al.|[2307.11545v1](http://arxiv.org/abs/2307.11545v1)|**[link](https://github.com/kkakkkka/etris)**|
 |**2023-07-21**|**UWAT-GAN: Fundus Fluorescein Angiography Synthesis via Ultra-wide-angle Transformation Multi-scale GAN**|Zhaojie Fang et.al.|[2307.11530v1](http://arxiv.org/abs/2307.11530v1)|**[link](https://github.com/Tinysqua/UWAT-GAN)**|
 |**2023-07-21**|**Topic Identification For Spontaneous Speech: Enriching Audio Features With Embedded Linguistic Information**|Dejan Porjazovski et.al.|[2307.11450v1](http://arxiv.org/abs/2307.11450v1)|null|
 |**2023-07-21**|**HVDetFusion: A Simple and Robust Camera-Radar Fusion Framework**|Kai Lei et.al.|[2307.11323v1](http://arxiv.org/abs/2307.11323v1)|null|
@@ -1245,6 +1257,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-22**|**Two-stream Multi-level Dynamic Point Transformer for Two-person Interaction Recognition**|Yao Liu et.al.|[2307.11973v1](http://arxiv.org/abs/2307.11973v1)|null|
 |**2023-07-18**|**Quark/Gluon Discrimination and Top Tagging with Dual Attention Transformer**|Minxuan He et.al.|[2307.04723v2](http://arxiv.org/abs/2307.04723v2)|null|
 |**2023-06-21**|**Sigma-point Kalman Filter with Nonlinear Unknown Input Estimation via Optimization and Data-driven Approach for Dynamic Systems**|Junn Yong Loo et.al.|[2306.12361v1](http://arxiv.org/abs/2306.12361v1)|null|
 |**2023-06-23**|**ExpPoint-MAE: Better interpretability and performance for self-supervised point cloud transformers**|Ioannis Romanelis et.al.|[2306.10798v2](http://arxiv.org/abs/2306.10798v2)|**[link](https://github.com/vvrpanda/exppoint-mae)**|
@@ -1317,6 +1330,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields**|Shangzhan Zhang et.al.|[2307.12909v1](http://arxiv.org/abs/2307.12909v1)|null|
+|**2023-07-24**|**CarPatch: A Synthetic Benchmark for Radiance Field Evaluation on Vehicle Components**|Davide Di Nucci et.al.|[2307.12718v1](http://arxiv.org/abs/2307.12718v1)|null|
+|**2023-07-23**|**TransHuman: A Transformer-based Human Representation for Generalizable Neural Human Rendering**|Xiao Pan et.al.|[2307.12291v1](http://arxiv.org/abs/2307.12291v1)|null|
 |**2023-07-21**|**CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields**|Ziyuan Luo et.al.|[2307.11526v1](http://arxiv.org/abs/2307.11526v1)|null|
 |**2023-07-21**|**FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields**|Sungwon Hwang et.al.|[2307.11418v1](http://arxiv.org/abs/2307.11418v1)|null|
 |**2023-07-21**|**Tri-MipRF: Tri-Mip Representation for Efficient Anti-Aliasing Neural Radiance Fields**|Wenbo Hu et.al.|[2307.11335v1](http://arxiv.org/abs/2307.11335v1)|null|
