@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.26
+## Updated on 2023.07.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -19,7 +19,7 @@ layout: default
 |**2023-07-03**|**A new approach to QCD evolution in processes with massive partons**|Benoit Assi et.al.|[2307.00728v1](http://arxiv.org/abs/2307.00728v1)|null|
 |**2023-06-26**|**Hydrodynamic simulations of the Disk of Gas Around Supermassive black holes (HDGAS) -I; Molecular Gas Dynamics**|Mojtaba Raouf et.al.|[2306.14573v1](http://arxiv.org/abs/2306.14573v1)|null|
 |**2023-06-19**|**Composite Bulges -- IV. Detecting Signatures of Gas Inflows in the IFU data: The MUSE View of Ionized Gas Kinematics in NGC 1097**|Tutku Kolcu et.al.|[2306.11091v1](http://arxiv.org/abs/2306.11091v1)|null|
-|**2023-06-01**|**Event-based Visual Odometry with Full Temporal Resolution via Continuous-time Gaussian Process Regression**|Jianeng Wang et.al.|[2306.01188v1](http://arxiv.org/abs/2306.01188v1)|null|
+|**2023-07-26**|**Event-based Stereo Visual Odometry with Native Temporal Resolution via Continuous-time Gaussian Process Regression**|Jianeng Wang et.al.|[2306.01188v2](http://arxiv.org/abs/2306.01188v2)|null|
 |**2023-06-01**|**ERGO-ML: Towards a robust machine learning model for inferring the fraction of accreted stars in galaxies from integral-field spectroscopic maps**|Eirini Angeloudi et.al.|[2306.01056v1](http://arxiv.org/abs/2306.01056v1)|null|
 |**2023-04-25**|**Vehicle State Estimation and Prediction**|Xinchen Li et.al.|[2304.11694v2](http://arxiv.org/abs/2304.11694v2)|null|
 |**2023-05-16**|**Continuous-Time Range-Only Pose Estimation**|Abhishek Goudar et.al.|[2304.09043v2](http://arxiv.org/abs/2304.09043v2)|null|
@@ -148,6 +148,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Decisive Data using Multi-Modality Optical Sensors for Advanced Vehicular Systems**|Muhammad Ali Farooq et.al.|[2307.13600v1](http://arxiv.org/abs/2307.13600v1)|null|
+|**2023-07-25**|**Spectrum-guided Multi-granularity Referring Video Object Segmentation**|Bo Miao et.al.|[2307.13537v1](http://arxiv.org/abs/2307.13537v1)|**[link](https://github.com/bo-miao/sgmg)**|
+|**2023-07-25**|**Re-mine, Learn and Reason: Exploring the Cross-modal Semantic Correlations for Language-guided HOI detection**|Yichao Cao et.al.|[2307.13529v1](http://arxiv.org/abs/2307.13529v1)|null|
+|**2023-07-25**|**Text-oriented Modality Reinforcement Network for Multimodal Sentiment Analysis from Unaligned Multimodal Sequences**|Yuxuan Lei et.al.|[2307.13205v1](http://arxiv.org/abs/2307.13205v1)|null|
+|**2023-07-24**|**Deep Learning Approaches for Data Augmentation in Medical Imaging: A Review**|Aghiles Kebaili et.al.|[2307.13125v1](http://arxiv.org/abs/2307.13125v1)|null|
+|**2023-07-24**|**General-Purpose Multi-Modal OOD Detection Framework**|Viet Duong et.al.|[2307.13069v1](http://arxiv.org/abs/2307.13069v1)|null|
 |**2023-07-24**|**Audio-Enhanced Text-to-Video Retrieval using Text-Conditioned Feature Alignment**|Sarah Ibrahimi et.al.|[2307.12964v1](http://arxiv.org/abs/2307.12964v1)|null|
 |**2023-07-25**|**Spatiotemporal Modeling Encounters 3D Medical Image Analysis: Slice-Shift UNet with Multi-View Fusion**|C. I. Ugwu et.al.|[2307.12853v2](http://arxiv.org/abs/2307.12853v2)|null|
 |**2023-07-24**|**CLIP-KD: An Empirical Study of Distilling CLIP Models**|Chuanguang Yang et.al.|[2307.12732v1](http://arxiv.org/abs/2307.12732v1)|null|
@@ -1266,7 +1272,7 @@ layout: default
 |**2023-05-04**|**Point Transformer For Coronary Artery Labeling**|Xu Wang et.al.|[2305.02533v1](http://arxiv.org/abs/2305.02533v1)|null|
 |**2023-05-01**|**Point Cloud Semantic Segmentation**|Ivan Martinović et.al.|[2305.00773v1](http://arxiv.org/abs/2305.00773v1)|null|
 |**2023-04-28**|**Human Semantic Segmentation using Millimeter-Wave Radar Sparse Point Clouds**|Pengfei Song et.al.|[2304.14132v2](http://arxiv.org/abs/2304.14132v2)|null|
-|**2023-07-11**|**The integer point transform as a complete invariant**|Sinai Robins et.al.|[2304.08681v2](http://arxiv.org/abs/2304.08681v2)|null|
+|**2023-07-26**|**The integer point transform as a complete invariant**|Sinai Robins et.al.|[2304.08681v3](http://arxiv.org/abs/2304.08681v3)|null|
 |**2023-05-27**|**MoDA: Modeling Deformable 3D Objects from Casual Videos**|Chaoyue Song et.al.|[2304.08279v2](http://arxiv.org/abs/2304.08279v2)|**[link](https://github.com/chaoyuesong/moda)**|
 |**2023-04-04**|**NPC: Neural Point Characters from Video**|Shih-Yang Su et.al.|[2304.02013v1](http://arxiv.org/abs/2304.02013v1)|null|
 |**2023-03-31**|**APPT : Asymmetric Parallel Point Transformer for 3D Point Cloud Understanding**|Hengjia Li et.al.|[2303.17815v1](http://arxiv.org/abs/2303.17815v1)|null|
