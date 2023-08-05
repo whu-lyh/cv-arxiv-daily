@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.04
+## Updated on 2023.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -149,6 +149,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-03**|**Quantification of Predictive Uncertainty via Inference-Time Sampling**|Katarína Tóthová et.al.|[2308.01731v1](http://arxiv.org/abs/2308.01731v1)|null|
+|**2023-08-03**|**MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies**|Ke Chen et.al.|[2308.01546v1](http://arxiv.org/abs/2308.01546v1)|null|
+|**2023-08-03**|**Data Augmentation for Human Behavior Analysis in Multi-Person Conversations**|Kun Li et.al.|[2308.01526v1](http://arxiv.org/abs/2308.01526v1)|null|
+|**2023-08-02**|**A vision transformer-based framework for knowledge transfer from multi-modal to mono-modal lymphoma subtyping models**|Bilel Guetarni et.al.|[2308.01328v1](http://arxiv.org/abs/2308.01328v1)|null|
 |**2023-08-02**|**TeachCLIP: Multi-Grained Teaching for Efficient Text-to-Video Retrieval**|Kaibin Tian et.al.|[2308.01217v1](http://arxiv.org/abs/2308.01217v1)|null|
 |**2023-08-02**|**Contrast-augmented Diffusion Model with Fine-grained Sequence Alignment for Markup-to-Image Generation**|Guojin Zhong et.al.|[2308.01147v1](http://arxiv.org/abs/2308.01147v1)|**[link](https://github.com/zgj77/fsacdm)**|
 |**2023-08-03**|**FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving**|Tengju Ye et.al.|[2308.01006v2](http://arxiv.org/abs/2308.01006v2)|**[link](https://github.com/westlake-autolab/fusionad)**|
