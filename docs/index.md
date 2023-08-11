@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.10
+## Updated on 2023.08.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -91,7 +91,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-04**|**Group- $k$ consistent measurement set maximization via maximum clique over k-Uniform hypergraphs for robust multi-robot map merging**|Brendon Forsgren et.al.|[2308.02674v1](http://arxiv.org/abs/2308.02674v1)|null|
+|**2023-08-04**|**Group- $k$ consistent measurement set maximization via maximum clique over k-Uniform hypergraphs for robust multi-robot map merging**|Brendon Forsgren et.al.|[2308.02674v1](http://arxiv.org/abs/2308.02674v1)|**[link](https://bitbucket.org/jmangelson/gkcm)**|
 |**2023-07-14**|**Multi-Session, Localization-oriented and Lightweight LiDAR Mapping Using Semantic Lines and Planes**|Zehuan Yu et.al.|[2307.07126v1](http://arxiv.org/abs/2307.07126v1)|null|
 |**2023-07-02**|**CQLite: Communication-Efficient Multi-Robot Exploration Using Coverage-biased Distributed Q-Learning**|Ehsan Latif et.al.|[2307.00500v1](http://arxiv.org/abs/2307.00500v1)|null|
 |**2023-07-04**|**Irregular Change Detection in Sparse Bi-Temporal Point Clouds using Learned Place Recognition Descriptors and Point-to-Voxel Comparison**|Nikolaos Stathoulopoulos et.al.|[2306.15416v2](http://arxiv.org/abs/2306.15416v2)|null|
@@ -151,6 +151,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-09**|**Prompting In-Context Operator Learning with Sensor Data, Equations, and Natural Language**|Liu Yang et.al.|[2308.05061v1](http://arxiv.org/abs/2308.05061v1)|null|
+|**2023-08-09**|**AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities**|Jingdan Zhang et.al.|[2308.04992v1](http://arxiv.org/abs/2308.04992v1)|**[link](https://github.com/thezjd/aspectmmkg)**|
+|**2023-08-09**|**MixReorg: Cross-Modal Mixed Patch Reorganization is a Good Mask Learner for Open-World Semantic Segmentation**|Kaixin Cai et.al.|[2308.04829v1](http://arxiv.org/abs/2308.04829v1)|null|
+|**2023-08-09**|**Strategic Interactions in Multi-modal Mobility Systems: A Game-Theoretic Perspective**|Gioele Zardini et.al.|[2308.04820v1](http://arxiv.org/abs/2308.04820v1)|null|
+|**2023-08-09**|**Multi-View Fusion and Distillation for Subgrade Distresses Detection based on 3D-GPR**|Chunpeng Zhou et.al.|[2308.04779v1](http://arxiv.org/abs/2308.04779v1)|null|
+|**2023-08-09**|**Multi-modal Multi-view Clustering based on Non-negative Matrix Factorization**|Yasser Khalafaoui et.al.|[2308.04778v1](http://arxiv.org/abs/2308.04778v1)|null|
+|**2023-08-09**|**Pareto Invariant Representation Learning for Multimedia Recommendation**|Shanshan Huang et.al.|[2308.04706v1](http://arxiv.org/abs/2308.04706v1)|null|
+|**2023-08-09**|**Continual Road-Scene Semantic Segmentation via Feature-Aligned Symmetric Multi-Modal Network**|Francesco Barbato et.al.|[2308.04702v1](http://arxiv.org/abs/2308.04702v1)|null|
+|**2023-08-09**|**Classification of lung cancer subtypes on CT images with synthetic pathological priors**|Wentao Zhu et.al.|[2308.04663v1](http://arxiv.org/abs/2308.04663v1)|null|
+|**2023-08-08**|**RECipe: Does a Multi-Modal Recipe Knowledge Graph Fit a Multi-Purpose Recommendation System?**|Ali Pesaranghader et.al.|[2308.04579v1](http://arxiv.org/abs/2308.04579v1)|null|
+|**2023-08-08**|**FocalFormer3D : Focusing on Hard Instance for 3D Object Detection**|Yilun Chen et.al.|[2308.04556v1](http://arxiv.org/abs/2308.04556v1)|null|
 |**2023-08-08**|**SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition**|Xiao Wang et.al.|[2308.04369v1](http://arxiv.org/abs/2308.04369v1)|**[link](https://github.com/event-ahu/sstformer)**|
 |**2023-08-08**|**3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment**|Ziyu Zhu et.al.|[2308.04352v1](http://arxiv.org/abs/2308.04352v1)|null|
 |**2023-08-08**|**Unifying Two-Stream Encoders with Transformers for Cross-Modal Retrieval**|Yi Bin et.al.|[2308.04343v1](http://arxiv.org/abs/2308.04343v1)|**[link](https://github.com/luminosityx/hat)**|
@@ -1355,6 +1366,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-09**|**Sparse Binary Transformers for Multivariate Time Series Modeling**|Matt Gorbett et.al.|[2308.04637v1](http://arxiv.org/abs/2308.04637v1)|null|
 |**2023-07-22**|**Two-stream Multi-level Dynamic Point Transformer for Two-person Interaction Recognition**|Yao Liu et.al.|[2307.11973v1](http://arxiv.org/abs/2307.11973v1)|null|
 |**2023-07-18**|**Quark/Gluon Discrimination and Top Tagging with Dual Attention Transformer**|Minxuan He et.al.|[2307.04723v2](http://arxiv.org/abs/2307.04723v2)|null|
 |**2023-06-21**|**Sigma-point Kalman Filter with Nonlinear Unknown Input Estimation via Optimization and Data-driven Approach for Dynamic Systems**|Junn Yong Loo et.al.|[2306.12361v1](http://arxiv.org/abs/2306.12361v1)|null|
@@ -1428,6 +1440,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826v1](http://arxiv.org/abs/2308.04826v1)|null|
+|**2023-08-09**|**A General Implicit Framework for Fast NeRF Composition and Rendering**|Xinyu Gao et.al.|[2308.04669v1](http://arxiv.org/abs/2308.04669v1)|null|
 |**2023-08-08**|**Digging into Depth Priors for Outdoor Neural Radiance Fields**|Chen Wang et.al.|[2308.04413v1](http://arxiv.org/abs/2308.04413v1)|null|
 |**2023-07-27**|**Improved Neural Radiance Fields Using Pseudo-depth and Fusion**|Jingliang Li et.al.|[2308.03772v1](http://arxiv.org/abs/2308.03772v1)|null|
 |**2023-08-07**|**Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**|Junyi Zeng et.al.|[2308.03280v1](http://arxiv.org/abs/2308.03280v1)|null|
