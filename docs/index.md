@@ -167,7 +167,7 @@ layout: default
 |**2023-08-09**|**Continual Road-Scene Semantic Segmentation via Feature-Aligned Symmetric Multi-Modal Network**|Francesco Barbato et.al.|[2308.04702v1](http://arxiv.org/abs/2308.04702v1)|null|
 |**2023-08-09**|**Classification of lung cancer subtypes on CT images with synthetic pathological priors**|Wentao Zhu et.al.|[2308.04663v1](http://arxiv.org/abs/2308.04663v1)|null|
 |**2023-08-08**|**RECipe: Does a Multi-Modal Recipe Knowledge Graph Fit a Multi-Purpose Recommendation System?**|Ali Pesaranghader et.al.|[2308.04579v1](http://arxiv.org/abs/2308.04579v1)|null|
-|**2023-08-08**|**FocalFormer3D : Focusing on Hard Instance for 3D Object Detection**|Yilun Chen et.al.|[2308.04556v1](http://arxiv.org/abs/2308.04556v1)|null|
+|**2023-08-08**|**FocalFormer3D : Focusing on Hard Instance for 3D Object Detection**|Yilun Chen et.al.|[2308.04556v1](http://arxiv.org/abs/2308.04556v1)|**[link](https://github.com/NVlabs/FocalFormer3D)**|
 |**2023-08-08**|**SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition**|Xiao Wang et.al.|[2308.04369v1](http://arxiv.org/abs/2308.04369v1)|**[link](https://github.com/event-ahu/sstformer)**|
 |**2023-08-08**|**3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment**|Ziyu Zhu et.al.|[2308.04352v1](http://arxiv.org/abs/2308.04352v1)|null|
 |**2023-08-08**|**Unifying Two-Stream Encoders with Transformers for Cross-Modal Retrieval**|Yi Bin et.al.|[2308.04343v1](http://arxiv.org/abs/2308.04343v1)|**[link](https://github.com/luminosityx/hat)**|
@@ -177,11 +177,11 @@ layout: default
 |**2023-08-07**|**Tiny LVLM-eHub: Early Multimodal Experiments with Bard**|Wenqi Shao et.al.|[2308.03729v1](http://arxiv.org/abs/2308.03729v1)|**[link](https://github.com/opengvlab/multi-modality-arena)**|
 |**2023-08-07**|**Bridging Trustworthiness and Open-World Learning: An Exploratory Neural Approach for Enhancing Interpretability, Generalization, and Robustness**|Shide Du et.al.|[2308.03666v1](http://arxiv.org/abs/2308.03666v1)|null|
 |**2023-08-07**|**COPA: Efficient Vision-Language Pre-training Through Collaborative Object- and Patch-Text Alignment**|Chaoya Jiang et.al.|[2308.03475v1](http://arxiv.org/abs/2308.03475v1)|null|
-|**2023-08-07**|**Cuing Without Sharing: A Federated Cued Speech Recognition Framework via Mutual Knowledge Distillation**|Yuxuan Zhang et.al.|[2308.03432v1](http://arxiv.org/abs/2308.03432v1)|null|
+|**2023-08-07**|**Cuing Without Sharing: A Federated Cued Speech Recognition Framework via Mutual Knowledge Distillation**|Yuxuan Zhang et.al.|[2308.03432v1](http://arxiv.org/abs/2308.03432v1)|**[link](https://github.com/yuxuanzhang0713/fedcsr)**|
 |**2023-08-07**|**CAESURA: Language Models as Multi-Modal Query Planners**|Matthias Urban et.al.|[2308.03424v1](http://arxiv.org/abs/2308.03424v1)|null|
 |**2023-08-07**|**Redundancy-aware Transformer for Video Question Answering**|Yicong Li et.al.|[2308.03267v1](http://arxiv.org/abs/2308.03267v1)|null|
 |**2023-08-07**|**Learning a Graph Neural Network with Cross Modality Interaction for Image Fusion**|Jiawei Li et.al.|[2308.03256v1](http://arxiv.org/abs/2308.03256v1)|**[link](https://github.com/lok-18/ignet)**|
-|**2023-08-06**|**Food-500 Cap: A Fine-Grained Food Caption Benchmark for Evaluating Vision-Language Models**|Zheng Ma et.al.|[2308.03151v1](http://arxiv.org/abs/2308.03151v1)|null|
+|**2023-08-06**|**Food-500 Cap: A Fine-Grained Food Caption Benchmark for Evaluating Vision-Language Models**|Zheng Ma et.al.|[2308.03151v1](http://arxiv.org/abs/2308.03151v1)|**[link](https://github.com/aaronma2020/Food500-Cap)**|
 |**2023-08-06**|**E-CLIP: Towards Label-efficient Event-based Open-world Understanding by CLIP**|Jiazhou Zhou et.al.|[2308.03135v1](http://arxiv.org/abs/2308.03135v1)|null|
 |**2023-08-06**|**Beyond First Impressions: Integrating Joint Multi-modal Cues for Comprehensive 3D Representation**|Haowei Wang et.al.|[2308.02982v1](http://arxiv.org/abs/2308.02982v1)|**[link](https://github.com/mr-neko/jm3d)**|
 |**2023-08-05**|**Cross-modal & Cross-domain Learning for Unsupervised LiDAR Semantic Segmentation**|Yiyang Chen et.al.|[2308.02883v1](http://arxiv.org/abs/2308.02883v1)|null|
@@ -251,7 +251,7 @@ layout: default
 |**2023-07-26**|**Boon: A Neural Search Engine for Cross-Modal Information Retrieval**|Yan Gong et.al.|[2307.14240v1](http://arxiv.org/abs/2307.14240v1)|null|
 |**2023-07-26**|**A comparison of machine learning surrogate models of street-scale flooding in Norfolk, Virginia**|Diana McSpadden et.al.|[2307.14185v1](http://arxiv.org/abs/2307.14185v1)|null|
 |**2023-07-26**|**Multi-modal Learning with Missing Modality via Shared-Specific Feature Modelling**|Hu Wang et.al.|[2307.14126v1](http://arxiv.org/abs/2307.14126v1)|null|
-|**2023-07-26**|**Set-level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-training Models**|Dong Lu et.al.|[2307.14061v1](http://arxiv.org/abs/2307.14061v1)|null|
+|**2023-07-26**|**Set-level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-training Models**|Dong Lu et.al.|[2307.14061v1](http://arxiv.org/abs/2307.14061v1)|**[link](https://github.com/Zoky-2020/Set-level_Guidance_Attack)**|
 |**2023-07-26**|**Deep Robust Multi-Robot Re-localisation in Natural Environments**|Milad Ramezani et.al.|[2307.13950v1](http://arxiv.org/abs/2307.13950v1)|null|
 |**2023-07-26**|**AIDE: A Vision-Driven Multi-View, Multi-Modal, Multi-Tasking Dataset for Assistive Driving Perception**|Dingkang Yang et.al.|[2307.13933v1](http://arxiv.org/abs/2307.13933v1)|**[link](https://github.com/ydk122024/aide)**|
 |**2023-07-27**|**EasyNet: An Easy Network for 3D Industrial Anomaly Detection**|Ruitao Chen et.al.|[2307.13925v2](http://arxiv.org/abs/2307.13925v2)|null|
@@ -1480,7 +1480,7 @@ layout: default
 |**2023-07-11**|**SAR-NeRF: Neural Radiance Fields for Synthetic Aperture Radar Multi-View Representation**|Zhengxin Lei et.al.|[2307.05087v1](http://arxiv.org/abs/2307.05087v1)|null|
 |**2023-07-07**|**NOFA: NeRF-based One-shot Facial Avatar Reconstruction**|Wangbo Yu et.al.|[2307.03441v1](http://arxiv.org/abs/2307.03441v1)|null|
 |**2023-07-07**|**RGB-D Mapping and Tracking in a Plenoxel Radiance Field**|Andreas L. Teigen et.al.|[2307.03404v1](http://arxiv.org/abs/2307.03404v1)|null|
-|**2023-07-16**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v2](http://arxiv.org/abs/2306.17723v2)|null|
+|**2023-07-16**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v2](http://arxiv.org/abs/2306.17723v2)|**[link](https://github.com/shawn615/FlipNeRF)**|
 |**2023-07-03**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624v2](http://arxiv.org/abs/2306.17624v2)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541v1](http://arxiv.org/abs/2306.16541v1)|null|
 |**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203v1](http://arxiv.org/abs/2306.15203v1)|null|
@@ -1701,7 +1701,7 @@ layout: default
 |**2023-02-23**|**DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models**|Jamie Wynn et.al.|[2302.12231v1](http://arxiv.org/abs/2302.12231v1)|**[link](https://github.com/nianticlabs/diffusionerf)**|
 |**2023-02-20**|**NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion**|Jiatao Gu et.al.|[2302.10109v1](http://arxiv.org/abs/2302.10109v1)|null|
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486v1](http://arxiv.org/abs/2302.09486v1)|null|
-|**2023-02-17**|**MixNeRF: Modeling a Ray with Mixture Density for Novel View Synthesis from Sparse Inputs**|Seunghyeon Seo et.al.|[2302.08788v1](http://arxiv.org/abs/2302.08788v1)|null|
+|**2023-02-17**|**MixNeRF: Modeling a Ray with Mixture Density for Novel View Synthesis from Sparse Inputs**|Seunghyeon Seo et.al.|[2302.08788v1](http://arxiv.org/abs/2302.08788v1)|**[link](https://github.com/shawn615/MixNeRF)**|
 |**2023-02-14**|**VQ3D: Learning a 3D-Aware Generative Model on ImageNet**|Kyle Sargent et.al.|[2302.06833v1](http://arxiv.org/abs/2302.06833v1)|null|
 |**2023-02-13**|**3D-aware Blending with Generative NeRFs**|Hyunsu Kim et.al.|[2302.06608v1](http://arxiv.org/abs/2302.06608v1)|null|
 |**2023-02-11**|**3D Colored Shape Reconstruction from a Single RGB Image through Diffusion**|Bo Li et.al.|[2302.05573v1](http://arxiv.org/abs/2302.05573v1)|null|
