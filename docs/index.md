@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.14
+## Updated on 2023.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -151,7 +151,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-10**|**2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**|Minhao Li et.al.|[2308.05667v1](http://arxiv.org/abs/2308.05667v1)|null|
+|**2023-08-11**|**Foundation Model is Efficient Multimodal Multitask Model Selector**|Fanqing Meng et.al.|[2308.06262v1](http://arxiv.org/abs/2308.06262v1)|**[link](https://github.com/opengvlab/multitask-model-selector)**|
+|**2023-08-11**|**Thinking Like an Expert:Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals**|Fanglong Yao et.al.|[2308.06207v1](http://arxiv.org/abs/2308.06207v1)|null|
+|**2023-08-11**|**Improving Joint Speech-Text Representations Without Alignment**|Cal Peyser et.al.|[2308.06125v1](http://arxiv.org/abs/2308.06125v1)|null|
+|**2023-08-11**|**Spatial-information Guided Adaptive Context-aware Network for Efficient RGB-D Semantic Segmentation**|Yang Zhang et.al.|[2308.06024v1](http://arxiv.org/abs/2308.06024v1)|**[link](https://github.com/mvme-hbut/sgacnet)**|
+|**2023-08-11**|**ViGT: Proposal-free Video Grounding with Learnable Token in Transformer**|Kun Li et.al.|[2308.06009v1](http://arxiv.org/abs/2308.06009v1)|null|
+|**2023-08-11**|**Image-based Geolocalization by Ground-to-2.5D Map Matching**|Mengjie Zhou et.al.|[2308.05993v1](http://arxiv.org/abs/2308.05993v1)|null|
+|**2023-08-11**|**Uncertainty-Aware Cross-Modal Transfer Network for Sketch-Based 3D Shape Retrieval**|Yiyang Cai et.al.|[2308.05948v1](http://arxiv.org/abs/2308.05948v1)|null|
+|**2023-08-10**|**The Multi-modality Cell Segmentation Challenge: Towards Universal Solutions**|Jun Ma et.al.|[2308.05864v1](http://arxiv.org/abs/2308.05864v1)|null|
+|**2023-08-14**|**2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**|Minhao Li et.al.|[2308.05667v2](http://arxiv.org/abs/2308.05667v2)|null|
 |**2023-08-10**|**Counterfactual Cross-modality Reasoning for Weakly Supervised Video Moment Localization**|Zezhong Lv et.al.|[2308.05648v1](http://arxiv.org/abs/2308.05648v1)|**[link](https://github.com/sldz0306/ccr)**|
 |**2023-08-10**|**Reviewing 3D Object Detectors in the Context of High-Resolution 3+1D Radar**|Patrick Palmer et.al.|[2308.05478v1](http://arxiv.org/abs/2308.05478v1)|null|
 |**2023-08-10**|**Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation**|Jun Zhou et.al.|[2308.05438v1](http://arxiv.org/abs/2308.05438v1)|**[link](https://github.com/junzastar/dftr_voting)**|
@@ -1446,8 +1454,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**Focused Specific Objects NeRF**|Yuesong Li et.al.|[2308.05970v1](http://arxiv.org/abs/2308.05970v1)|null|
+|**2023-08-11**|**VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields**|Dominic Maggio et.al.|[2308.05939v1](http://arxiv.org/abs/2308.05939v1)|null|
 |**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826v1](http://arxiv.org/abs/2308.04826v1)|null|
-|**2023-08-09**|**A General Implicit Framework for Fast NeRF Composition and Rendering**|Xinyu Gao et.al.|[2308.04669v1](http://arxiv.org/abs/2308.04669v1)|null|
+|**2023-08-14**|**A General Implicit Framework for Fast NeRF Composition and Rendering**|Xinyu Gao et.al.|[2308.04669v2](http://arxiv.org/abs/2308.04669v2)|null|
 |**2023-08-08**|**Digging into Depth Priors for Outdoor Neural Radiance Fields**|Chen Wang et.al.|[2308.04413v1](http://arxiv.org/abs/2308.04413v1)|null|
 |**2023-07-27**|**Improved Neural Radiance Fields Using Pseudo-depth and Fusion**|Jingliang Li et.al.|[2308.03772v1](http://arxiv.org/abs/2308.03772v1)|null|
 |**2023-08-07**|**Mirror-NeRF: Learning Neural Radiance Fields for Mirrors with Whitted-Style Ray Tracing**|Junyi Zeng et.al.|[2308.03280v1](http://arxiv.org/abs/2308.03280v1)|null|
