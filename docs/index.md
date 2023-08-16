@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.15
+## Updated on 2023.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -151,6 +151,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**MM-GEF: Multi-modal representation meet collaborative filtering**|Hao Wu et.al.|[2308.07222v1](http://arxiv.org/abs/2308.07222v1)|null|
+|**2023-08-14**|**Automated Ensemble-Based Segmentation of Adult Brain Tumors: A Novel Approach Using the BraTS AFRICA Challenge Data**|Chiranjeewee Prasad Koirala et.al.|[2308.07214v1](http://arxiv.org/abs/2308.07214v1)|null|
+|**2023-08-14**|**Enhancing State Estimator for Autonomous Race Car : Leveraging Multi-modal System and Managing Computing Resources**|Daegyu Lee et.al.|[2308.07173v1](http://arxiv.org/abs/2308.07173v1)|null|
+|**2023-08-14**|**CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation**|Hongguang Zhu et.al.|[2308.07146v1](http://arxiv.org/abs/2308.07146v1)|**[link](https://github.com/kevinlight831/ctp)**|
+|**2023-08-14**|**AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning**|Ziqi Zhou et.al.|[2308.07026v1](http://arxiv.org/abs/2308.07026v1)|**[link](https://github.com/cgcl-codes/advclip)**|
+|**2023-08-14**|**GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text**|Pengfei Liu et.al.|[2308.06911v1](http://arxiv.org/abs/2308.06911v1)|null|
+|**2023-08-13**|**Improving Face Recognition from Caption Supervision with Multi-Granular Contextual Feature Aggregation**|Md Mahedi Hasan et.al.|[2308.06866v1](http://arxiv.org/abs/2308.06866v1)|null|
+|**2023-08-13**|**AerialVLN: Vision-and-Language Navigation for UAVs**|Shubo Liu et.al.|[2308.06735v1](http://arxiv.org/abs/2308.06735v1)|null|
+|**2023-08-13**|**MACO: A Modality Adversarial and Contrastive Framework for Modality-missing Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2308.06696v1](http://arxiv.org/abs/2308.06696v1)|null|
+|**2023-08-12**|**4DRVO-Net: Deep 4D Radar-Visual Odometry Using Multi-Modal and Multi-Scale Adaptive Fusion**|Guirong Zhuo et.al.|[2308.06573v1](http://arxiv.org/abs/2308.06573v1)|null|
+|**2023-08-12**|**Contrastive Learning for Cross-modal Artist Retrieval**|Andres Ferraro et.al.|[2308.06556v1](http://arxiv.org/abs/2308.06556v1)|null|
+|**2023-08-12**|**BEV-DG: Cross-Modal Learning under Bird's-Eye View for Domain Generalization of 3D Semantic Segmentation**|Miaoyu Li et.al.|[2308.06530v1](http://arxiv.org/abs/2308.06530v1)|null|
+|**2023-08-12**|**Latent Emission-Augmented Perspective-Taking (LEAPT) for Human-Robot Interaction**|Kaiqi Chen et.al.|[2308.06498v1](http://arxiv.org/abs/2308.06498v1)|null|
+|**2023-08-11**|**Detecting and Preventing Hallucinations in Large Vision Language Models**|Anisha Gunjal et.al.|[2308.06394v1](http://arxiv.org/abs/2308.06394v1)|null|
+|**2023-08-11**|**CATS v2: Hybrid encoders for robust medical segmentation**|Hao Li et.al.|[2308.06377v1](http://arxiv.org/abs/2308.06377v1)|**[link](https://github.com/haoli12345/cats)**|
 |**2023-08-11**|**Foundation Model is Efficient Multimodal Multitask Model Selector**|Fanqing Meng et.al.|[2308.06262v1](http://arxiv.org/abs/2308.06262v1)|**[link](https://github.com/opengvlab/multitask-model-selector)**|
 |**2023-08-11**|**Thinking Like an Expert:Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals**|Fanglong Yao et.al.|[2308.06207v1](http://arxiv.org/abs/2308.06207v1)|null|
 |**2023-08-11**|**Improving Joint Speech-Text Representations Without Alignment**|Cal Peyser et.al.|[2308.06125v1](http://arxiv.org/abs/2308.06125v1)|null|
@@ -1454,6 +1469,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118v1](http://arxiv.org/abs/2308.07118v1)|**[link](https://github.com/maftej/iisnerf)**|
+|**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032v1](http://arxiv.org/abs/2308.07032v1)|null|
 |**2023-08-11**|**Focused Specific Objects NeRF**|Yuesong Li et.al.|[2308.05970v1](http://arxiv.org/abs/2308.05970v1)|null|
 |**2023-08-11**|**VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields**|Dominic Maggio et.al.|[2308.05939v1](http://arxiv.org/abs/2308.05939v1)|null|
 |**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826v1](http://arxiv.org/abs/2308.04826v1)|null|
