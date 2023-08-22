@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.21
+## Updated on 2023.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**Advancing Brain-Computer Interface System Performance in Hand Trajectory Estimation with NeuroKinect**|Sidharth Pancholi et.al.|[2308.08654v1](http://arxiv.org/abs/2308.08654v1)|null|
 |**2023-08-08**|**Path Signatures for Diversity in Probabilistic Trajectory Optimisation**|Lucas Barcelos et.al.|[2308.04071v1](http://arxiv.org/abs/2308.04071v1)|null|
 |**2023-07-26**|**Multi-IMU Proprioceptive State Estimator for Humanoid Robots**|Fabio Elnecave Xavier et.al.|[2307.14125v1](http://arxiv.org/abs/2307.14125v1)|null|
 |**2023-07-19**|**Accelerating galaxy dynamical modeling using a neural network for joint lensing and kinematics analyses**|Matthew R. Gomer et.al.|[2307.10381v1](http://arxiv.org/abs/2307.10381v1)|null|
@@ -97,12 +98,13 @@
 |**2022-11-23**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v2](http://arxiv.org/abs/2210.01320v2)|null|
 |**2023-02-22**|**GANet: Goal Area Network for Motion Forecasting**|Mingkun Wang et.al.|[2209.09723v3](http://arxiv.org/abs/2209.09723v3)|**[link](https://github.com/kingwmk/ganet)**|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
 ## Map fusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-17**|**V-FUSE: Volumetric Depth Map Fusion with Long-Range Constraints**|Nathaniel Burgdorfer et.al.|[2308.08715v1](http://arxiv.org/abs/2308.08715v1)|null|
 |**2023-08-04**|**Group- $k$ consistent measurement set maximization via maximum clique over k-Uniform hypergraphs for robust multi-robot map merging**|Brendon Forsgren et.al.|[2308.02674v1](http://arxiv.org/abs/2308.02674v1)|**[link](https://bitbucket.org/jmangelson/gkcm)**|
 |**2023-07-14**|**Multi-Session, Localization-oriented and Lightweight LiDAR Mapping Using Semantic Lines and Planes**|Zehuan Yu et.al.|[2307.07126v1](http://arxiv.org/abs/2307.07126v1)|null|
 |**2023-07-02**|**CQLite: Communication-Efficient Multi-Robot Exploration Using Coverage-biased Distributed Q-Learning**|Ehsan Latif et.al.|[2307.00500v1](http://arxiv.org/abs/2307.00500v1)|null|
@@ -159,12 +161,27 @@
 |**2019-03-14**|**AgriColMap: Aerial-Ground Collaborative 3D Mapping for Precision Farming**|Ciro Potena et.al.|[1810.00457v2](http://arxiv.org/abs/1810.00457v2)|null|
 |**2019-03-05**|**Efficient Constellation-Based Map-Merging for Semantic SLAM**|Kristoffer M. Frey et.al.|[1809.09646v2](http://arxiv.org/abs/1809.09646v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
 ## MultiModality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Is context all you need? Scaling Neural Sign Language Translation to Large Domains of Discourse**|Ozge Mercanoglu Sincan et.al.|[2308.09622v1](http://arxiv.org/abs/2308.09622v1)|null|
+|**2023-08-18**|**Language-Guided Diffusion Model for Visual Grounding**|Sijia Chen et.al.|[2308.09599v1](http://arxiv.org/abs/2308.09599v1)|null|
+|**2023-08-18**|**PUMGPT: A Large Vision-Language Model for Product Understanding**|Shuhui Wu et.al.|[2308.09568v1](http://arxiv.org/abs/2308.09568v1)|null|
+|**2023-08-18**|**Video-Instrument Synergistic Network for Referring Video Instrument Segmentation in Robotic Surgery**|Hongqiu Wang et.al.|[2308.09475v1](http://arxiv.org/abs/2308.09475v1)|null|
+|**2023-08-18**|**An updated mass-radius analysis of the 2017-2018 NICER data set of PSR J0030+0451**|Serena Vinciguerra et.al.|[2308.09469v1](http://arxiv.org/abs/2308.09469v1)|null|
+|**2023-08-21**|**BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine**|Yizhen Luo et.al.|[2308.09442v2](http://arxiv.org/abs/2308.09442v2)|null|
+|**2023-08-18**|**Single Frame Semantic Segmentation Using Multi-Modal Spherical Images**|Suresh Guttikonda et.al.|[2308.09369v1](http://arxiv.org/abs/2308.09369v1)|**[link](https://github.com/sguttikon/SFSS-MMSI)**|
+|**2023-08-18**|**Open-vocabulary Video Question Answering: A New Benchmark for Evaluating the Generalizability of Video Question Answering Models**|Dohwan Ko et.al.|[2308.09363v1](http://arxiv.org/abs/2308.09363v1)|null|
+|**2023-08-18**|**RLIPv2: Fast Scaling of Relational Language-Image Pre-training**|Hangjie Yuan et.al.|[2308.09351v1](http://arxiv.org/abs/2308.09351v1)|**[link](https://github.com/jacobyuan7/rlipv2)**|
+|**2023-08-18**|**Audio-Visual Glance Network for Efficient Video Recognition**|Muhammad Adi Nugroho et.al.|[2308.09322v1](http://arxiv.org/abs/2308.09322v1)|null|
+|**2023-08-18**|**DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability**|Runhui Huang et.al.|[2308.09306v1](http://arxiv.org/abs/2308.09306v1)|null|
+|**2023-08-21**|**V2A-Mapper: A Lightweight Solution for Vision-to-Audio Generation by Connecting Foundation Models**|Heng Wang et.al.|[2308.09300v2](http://arxiv.org/abs/2308.09300v2)|null|
+|**2023-08-18**|**Deep Boosting Multi-Modal Ensemble Face Recognition with Sample-Level Weighting**|Sahar Rahimi Malakshan et.al.|[2308.09234v1](http://arxiv.org/abs/2308.09234v1)|null|
+|**2023-08-17**|**Versatile Multi-Contact Planning and Control for Legged Loco-Manipulation**|Jean-Pierre Sleiman et.al.|[2308.09179v1](http://arxiv.org/abs/2308.09179v1)|null|
+|**2023-08-17**|**Point-aware Interaction and CNN-induced Refinement Network for RGB-D Salient Object Detection**|Runmin Cong et.al.|[2308.08930v1](http://arxiv.org/abs/2308.08930v1)|**[link](https://github.com/rmcong/picr-net_acmmm23)**|
 |**2023-08-16**|**What is the source of the PTA GW signal?**|John Ellis et.al.|[2308.08546v1](http://arxiv.org/abs/2308.08546v1)|null|
 |**2023-08-16**|**X-PSI Parameter Recovery for Temperature Map Configurations Inspired by PSR J0030+0451**|Serena Vinciguerra et.al.|[2308.08409v1](http://arxiv.org/abs/2308.08409v1)|null|
 |**2023-08-16**|**Leveraging Next-Active Objects for Context-Aware Anticipation in Egocentric Videos**|Sanket Thakur et.al.|[2308.08303v1](http://arxiv.org/abs/2308.08303v1)|null|
@@ -1278,7 +1295,7 @@
 |**2023-02-13**|**CLIP-RR: Improved CLIP Network for Relation-Focused Cross-Modal Information Retrieval**|Yan Gong et.al.|[2302.06350v1](http://arxiv.org/abs/2302.06350v1)|null|
 |**2023-02-13**|**CoMAE: Single Model Hybrid Pre-training on Small-Scale RGB-D Datasets**|Jiange Yang et.al.|[2302.06148v1](http://arxiv.org/abs/2302.06148v1)|**[link](https://github.com/mcg-nju/comae)**|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
 ## Point Cloud Localization
 
@@ -1294,7 +1311,7 @@
 |**2018-04-03**|**Mining Point Cloud Local Structures by Kernel Correlation and Graph Pooling**|Yiru Shen et.al.|[1712.06760v2](http://arxiv.org/abs/1712.06760v2)|null|
 |**2017-02-14**|**Graph Based Over-Segmentation Methods for 3D Point Clouds**|Yizhak Ben-Shabat et.al.|[1702.04114v1](http://arxiv.org/abs/1702.04114v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
 ## Place Recognization
 
@@ -1361,7 +1378,7 @@
 |**2021-05-24**|**OverlapNet: Loop Closing for LiDAR-based SLAM**|Xieyuanli Chen et.al.|[2105.11344v1](http://arxiv.org/abs/2105.11344v1)|**[link](https://github.com/PRBonn/OverlapNet)**|
 |**2021-03-23**|**NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation**|Zhicheng Zhou et.al.|[2103.12292v1](http://arxiv.org/abs/2103.12292v1)|**[link](https://github.com/dachengxiaocheng/NDT-Transformer)**|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
 ## LiDAR SLAM
 
@@ -1426,12 +1443,13 @@
 |**2020-08-09**|**LiDAR Data Enrichment Using Deep Learning Based on High-Resolution Image: An Approach to Achieve High-Performance LiDAR SLAM Using Low-cost LiDAR**|Jiang Yue et.al.|[2008.03694v1](http://arxiv.org/abs/2008.03694v1)|null|
 |**2020-08-05**|**Elasticity Meets Continuous-Time: Map-Centric Dense 3D LiDAR SLAM**|Chanoh Park et.al.|[2008.02274v1](http://arxiv.org/abs/2008.02274v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
 ## Transformer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-18**|**Target Clustering Based Multi-Bernoulli Filter for Superpositional Sensors**|Wang Sen et.al.|[2308.09403v1](http://arxiv.org/abs/2308.09403v1)|null|
 |**2023-08-09**|**Sparse Binary Transformers for Multivariate Time Series Modeling**|Matt Gorbett et.al.|[2308.04637v1](http://arxiv.org/abs/2308.04637v1)|null|
 |**2023-07-22**|**Two-stream Multi-level Dynamic Point Transformer for Two-person Interaction Recognition**|Yao Liu et.al.|[2307.11973v1](http://arxiv.org/abs/2307.11973v1)|null|
 |**2023-07-18**|**Quark/Gluon Discrimination and Top Tagging with Dual Attention Transformer**|Minxuan He et.al.|[2307.04723v2](http://arxiv.org/abs/2307.04723v2)|null|
@@ -1502,13 +1520,16 @@
 |**2021-10-14**|**Investigating Attention Mechanism in 3D Point Cloud Object Detection**|Shi Qiu et.al.|[2108.00620v2](http://arxiv.org/abs/2108.00620v2)|**[link](https://github.com/ShiQiu0419/attentions_in_3D_detection)**|
 |**2021-07-29**|**Reduction of balance laws in (3+1)--dimensions to autonomous conservation laws by means of equivalence transformations**|Matteo Gorgone et.al.|[2107.14144v1](http://arxiv.org/abs/2107.14144v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-17**|**Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstructio**|Georgios Kouros et.al.|[2308.08530v2](http://arxiv.org/abs/2308.08530v2)|**[link](https://github.com/gkouros/ref-dvgo)**|
+|**2023-08-18**|**MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection**|Junkai Xu et.al.|[2308.09421v1](http://arxiv.org/abs/2308.09421v1)|**[link](https://github.com/cskkxjk/mononerd)**|
+|**2023-08-18**|**DReg-NeRF: Deep Registration for Neural Radiance Fields**|Yu Chen et.al.|[2308.09386v1](http://arxiv.org/abs/2308.09386v1)|**[link](https://github.com/aibluefisher/dreg-nerf)**|
+|**2023-08-17**|**Watch Your Steps: Local Image and Scene Editing by Text Instructions**|Ashkan Mirzaei et.al.|[2308.08947v1](http://arxiv.org/abs/2308.08947v1)|null|
+|**2023-08-21**|**Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstruction**|Georgios Kouros et.al.|[2308.08530v3](http://arxiv.org/abs/2308.08530v3)|**[link](https://github.com/gkouros/ref-dvgo)**|
 |**2023-08-16**|**SceNeRFlow: Time-Consistent Reconstruction of General Dynamic Scenes**|Edith Tretschk et.al.|[2308.08258v1](http://arxiv.org/abs/2308.08258v1)|null|
 |**2023-08-16**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118v2](http://arxiv.org/abs/2308.07118v2)|**[link](https://github.com/maftej/iisnerf)**|
 |**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032v1](http://arxiv.org/abs/2308.07032v1)|null|
@@ -1816,7 +1837,7 @@
 |**2022-12-08**|**GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields**|Alessandro Ruzzi et.al.|[2212.04823v1](http://arxiv.org/abs/2212.04823v1)|**[link](https://github.com/alessandroruzzi/gazenerf)**|
 |**2022-12-09**|**4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**|Zhongshu Wang et.al.|[2212.04701v1](http://arxiv.org/abs/2212.04701v1)|**[link](https://github.com/frozoul/4k-nerf)**|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
