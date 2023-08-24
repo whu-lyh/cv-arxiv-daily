@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.23
+## Updated on 2023.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**Looking into the faintEst WIth MUSE (LEWIS): on the nature of ultra-diffuse galaxies in the Hydra-I cluster.I. Project description and preliminary results**|Enrichetta Iodice et.al.|[2308.11493v1](http://arxiv.org/abs/2308.11493v1)|null|
 |**2023-08-16**|**Advancing Brain-Computer Interface System Performance in Hand Trajectory Estimation with NeuroKinect**|Sidharth Pancholi et.al.|[2308.08654v1](http://arxiv.org/abs/2308.08654v1)|null|
 |**2023-08-08**|**Path Signatures for Diversity in Probabilistic Trajectory Optimisation**|Lucas Barcelos et.al.|[2308.04071v1](http://arxiv.org/abs/2308.04071v1)|null|
 |**2023-07-26**|**Multi-IMU Proprioceptive State Estimator for Humanoid Robots**|Fabio Elnecave Xavier et.al.|[2307.14125v1](http://arxiv.org/abs/2307.14125v1)|null|
@@ -153,6 +154,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**Tryage: Real-time, intelligent Routing of User Prompts to Large Language Models**|Surya Narayanan Hari et.al.|[2308.11601v2](http://arxiv.org/abs/2308.11601v2)|null|
+|**2023-08-23**|**Target-Grounded Graph-Aware Transformer for Aerial Vision-and-Dialog Navigation**|Yifei Su et.al.|[2308.11561v2](http://arxiv.org/abs/2308.11561v2)|**[link](https://github.com/yifeisu/avdn-challenge)**|
+|**2023-08-22**|**Multi-event Video-Text Retrieval**|Gengyuan Zhang et.al.|[2308.11551v1](http://arxiv.org/abs/2308.11551v1)|**[link](https://github.com/gengyuanmax/mevtr)**|
+|**2023-08-22**|**Furnishing Sound Event Detection with Language Model Abilities**|Hualei Wang et.al.|[2308.11530v1](http://arxiv.org/abs/2308.11530v1)|null|
+|**2023-08-22**|**TrackFlow: Multi-Object Tracking with Normalizing Flows**|Gianluca Mancusi et.al.|[2308.11513v1](http://arxiv.org/abs/2308.11513v1)|null|
+|**2023-08-22**|**Four years of multi-modal odometry and mapping on the rail vehicles**|Yusheng Wang et.al.|[2308.11501v1](http://arxiv.org/abs/2308.11501v1)|null|
+|**2023-08-22**|**A LiDAR-Inertial SLAM Tightly-Coupled with Dropout-Tolerant GNSS Fusion for Autonomous Mine Service Vehicles**|Yusheng Wang et.al.|[2308.11492v1](http://arxiv.org/abs/2308.11492v1)|null|
+|**2023-08-22**|**Semantic RGB-D Image Synthesis**|Shijie Li et.al.|[2308.11356v1](http://arxiv.org/abs/2308.11356v1)|null|
+|**2023-08-22**|**M3PS: End-to-End Multi-Grained Multi-Modal Attribute-Aware Product Summarization in E-commerce**|Tao Chen et.al.|[2308.11351v1](http://arxiv.org/abs/2308.11351v1)|null|
+|**2023-08-22**|**GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training**|Xinchi Deng et.al.|[2308.11331v1](http://arxiv.org/abs/2308.11331v1)|null|
+|**2023-08-22**|**DiffCloth: Diffusion Based Garment Synthesis and Manipulation via Structural Cross-modal Semantic Alignment**|Xujie Zhang et.al.|[2308.11206v1](http://arxiv.org/abs/2308.11206v1)|null|
+|**2023-08-22**|**MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation**|Jinpeng Wang et.al.|[2308.11175v1](http://arxiv.org/abs/2308.11175v1)|null|
+|**2023-08-22**|**Improving Misaligned Multi-modality Image Fusion with One-stage Progressive Dense Registration**|Di Wang et.al.|[2308.11165v1](http://arxiv.org/abs/2308.11165v1)|null|
 |**2023-08-21**|**I-BaR: Integrated Balance Rehabilitation Framework**|Tugce Ersoy et.al.|[2308.10777v1](http://arxiv.org/abs/2308.10777v1)|null|
 |**2023-08-21**|**On the Adversarial Robustness of Multi-Modal Foundation Models**|Christian Schlarmann et.al.|[2308.10741v1](http://arxiv.org/abs/2308.10741v1)|null|
 |**2023-08-21**|**PsyMo: A Dataset for Estimating Self-Reported Psychological Traits from Gait**|Adrian Cosma et.al.|[2308.10631v1](http://arxiv.org/abs/2308.10631v1)|null|
@@ -1517,6 +1531,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views**|Wentian Qu et.al.|[2308.11198v1](http://arxiv.org/abs/2308.11198v1)|null|
+|**2023-08-22**|**Efficient View Synthesis with Neural Radiance Distribution Field**|Yushuang Wu et.al.|[2308.11130v1](http://arxiv.org/abs/2308.11130v1)|null|
 |**2023-08-21**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park et.al.|[2308.10902v1](http://arxiv.org/abs/2308.10902v1)|null|
 |**2023-08-20**|**Strata-NeRF : Neural Radiance Fields for Stratified Scenes**|Ankit Dhiman et.al.|[2308.10337v1](http://arxiv.org/abs/2308.10337v1)|null|
 |**2023-08-19**|**HollowNeRF: Pruning Hashgrid-Based NeRFs with Trainable Collision Mitigation**|Xiufeng Xie et.al.|[2308.10122v1](http://arxiv.org/abs/2308.10122v1)|null|
