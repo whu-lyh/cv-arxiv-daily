@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.25
+## Updated on 2023.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**Certifiably Optimal Rotation and Pose Estimation Based on the Cayley Map**|Timothy D Barfoot et.al.|[2308.12418v1](http://arxiv.org/abs/2308.12418v1)|null|
 |**2023-08-22**|**Looking into the faintEst WIth MUSE (LEWIS): on the nature of ultra-diffuse galaxies in the Hydra-I cluster.I. Project description and preliminary results**|Enrichetta Iodice et.al.|[2308.11493v1](http://arxiv.org/abs/2308.11493v1)|null|
 |**2023-08-16**|**Advancing Brain-Computer Interface System Performance in Hand Trajectory Estimation with NeuroKinect**|Sidharth Pancholi et.al.|[2308.08654v1](http://arxiv.org/abs/2308.08654v1)|null|
 |**2023-08-08**|**Path Signatures for Diversity in Probabilistic Trajectory Optimisation**|Lucas Barcelos et.al.|[2308.04071v1](http://arxiv.org/abs/2308.04071v1)|null|
@@ -154,6 +155,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**DLIP: Distilling Language-Image Pre-training**|Huafeng Kuang et.al.|[2308.12956v1](http://arxiv.org/abs/2308.12956v1)|null|
+|**2023-08-24**|**IPA: Inference Pipeline Adaptation to Achieve High Accuracy and Cost-Efficiency**|Saeid Ghafouri et.al.|[2308.12871v1](http://arxiv.org/abs/2308.12871v1)|null|
+|**2023-08-24**|**SkipcrossNets: Adaptive Skip-cross Fusion for Road Detection**|Xinyu Zhang et.al.|[2308.12863v1](http://arxiv.org/abs/2308.12863v1)|null|
+|**2023-08-24**|**Acquiring Qualitative Explainable Graphs for Automated Driving Scene Interpretation**|Nassim Belmecheri et.al.|[2308.12755v1](http://arxiv.org/abs/2308.12755v1)|null|
+|**2023-08-24**|**FastSurfer-HypVINN: Automated sub-segmentation of the hypothalamus and adjacent structures on high-resolutional brain MRI**|Santiago Estrada et.al.|[2308.12736v1](http://arxiv.org/abs/2308.12736v1)|null|
+|**2023-08-24**|**Emotion-Aligned Contrastive Learning Between Images and Music**|Shanti Stewart et.al.|[2308.12610v1](http://arxiv.org/abs/2308.12610v1)|null|
+|**2023-08-24**|**PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation**|Haibo Jin et.al.|[2308.12604v1](http://arxiv.org/abs/2308.12604v1)|null|
+|**2023-08-24**|**Grounded Entity-Landmark Adaptive Pre-training for Vision-and-Language Navigation**|Yibo Cui et.al.|[2308.12587v1](http://arxiv.org/abs/2308.12587v1)|**[link](https://github.com/csir1996/vln-gela)**|
+|**2023-08-24**|**Hyperbolic Audio-visual Zero-shot Learning**|Jie Hong et.al.|[2308.12558v1](http://arxiv.org/abs/2308.12558v1)|null|
+|**2023-08-24**|**Parameter-Efficient Transfer Learning for Remote Sensing Image-Text Retrieval**|Yuan Yuan et.al.|[2308.12509v1](http://arxiv.org/abs/2308.12509v1)|null|
+|**2023-08-23**|**AdVerb: Visually Guided Audio Dereverberation**|Sanjoy Chowdhury et.al.|[2308.12370v1](http://arxiv.org/abs/2308.12370v1)|null|
+|**2023-08-23**|**Understanding Dark Scenes by Contrasting Multi-Modal Observations**|Xiaoyu Dong et.al.|[2308.12320v1](http://arxiv.org/abs/2308.12320v1)|**[link](https://github.com/palmdong/smmcl)**|
 |**2023-08-23**|**Towards Real-Time Analysis of Broadcast Badminton Videos**|Nitin Nilesh et.al.|[2308.12199v1](http://arxiv.org/abs/2308.12199v1)|null|
 |**2023-08-23**|**NPF-200: A Multi-Modal Eye Fixation Dataset and Method for Non-Photorealistic Videos**|Ziyu Yang et.al.|[2308.12163v1](http://arxiv.org/abs/2308.12163v1)|null|
 |**2023-08-23**|**Cross-Modality Proposal-guided Feature Mining for Unregistered RGB-Thermal Pedestrian Detection**|Chao Tian et.al.|[2308.12111v1](http://arxiv.org/abs/2308.12111v1)|null|
@@ -1541,6 +1554,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**NOVA: NOvel View Augmentation for Neural Composition of Dynamic Objects**|Dakshit Agrawal et.al.|[2308.12560v1](http://arxiv.org/abs/2308.12560v1)|**[link](https://github.com/dakshitagrawal/nova)**|
 |**2023-08-23**|**Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields**|Hyeonseop Song et.al.|[2308.11974v1](http://arxiv.org/abs/2308.11974v1)|null|
 |**2023-08-23**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951v1](http://arxiv.org/abs/2308.11951v1)|null|
 |**2023-08-22**|**Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts**|Wenyan Cong et.al.|[2308.11793v1](http://arxiv.org/abs/2308.11793v1)|null|
