@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.29
+## Updated on 2023.08.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -155,6 +155,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-28**|**R3D3: Dense 3D Reconstruction of Dynamic Scenes from Multiple Cameras**|Aron Schmied et.al.|[2308.14713v1](http://arxiv.org/abs/2308.14713v1)|null|
+|**2023-08-29**|**Compositional Semantic Mix for Domain Adaptation in Point Cloud Segmentation**|Cristiano Saltori et.al.|[2308.14619v2](http://arxiv.org/abs/2308.14619v2)|**[link](https://github.com/saltoricristiano/cosmix-uda)**|
+|**2023-08-28**|**MS-Net: A Multi-modal Self-supervised Network for Fine-Grained Classification of Aircraft in SAR Images**|Bingying Yue et.al.|[2308.14613v1](http://arxiv.org/abs/2308.14613v1)|null|
+|**2023-08-28**|**An Empirical Study of Consistency Regularization for End-to-End Speech-to-Text Translation**|Pengzhi Gao et.al.|[2308.14482v1](http://arxiv.org/abs/2308.14482v1)|null|
+|**2023-08-28**|**Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor**|Xinyang Liu et.al.|[2308.14383v1](http://arxiv.org/abs/2308.14383v1)|null|
+|**2023-08-28**|**Cross-Modal Retrieval: A Systematic Review of Methods and Future Directions**|Lei Zhu et.al.|[2308.14263v1](http://arxiv.org/abs/2308.14263v1)|**[link](https://github.com/bmc-sdnu/cross-modal-retrieval)**|
+|**2023-08-27**|**Exploring the Transfer Learning Capabilities of CLIP in Domain Generalization for Diabetic Retinopathy**|Sanoojan Baliah et.al.|[2308.14212v1](http://arxiv.org/abs/2308.14212v1)|**[link](https://github.com/sanoojan/clip-drdg)**|
+|**2023-08-27**|**AIGC for Various Data Modalities: A Survey**|Lin Geng Foo et.al.|[2308.14177v1](http://arxiv.org/abs/2308.14177v1)|null|
+|**2023-08-27**|**A Unified Transformer-based Network for multimodal Emotion Recognition**|Kamran Ali et.al.|[2308.14160v1](http://arxiv.org/abs/2308.14160v1)|null|
+|**2023-08-29**|**Unified and Dynamic Graph for Temporal Character Grouping in Long Videos**|Xiujun Shu et.al.|[2308.14105v2](http://arxiv.org/abs/2308.14105v2)|null|
+|**2023-08-27**|**4D Myocardium Reconstruction with Decoupled Motion and Shape Model**|Xiaohan Yuan et.al.|[2308.14083v1](http://arxiv.org/abs/2308.14083v1)|null|
+|**2023-08-27**|**Multi-model fusion for Aerial Vision and Dialog Navigation based on human attention aids**|Xinyi Wang et.al.|[2308.14064v1](http://arxiv.org/abs/2308.14064v1)|null|
+|**2023-08-27**|**Domain-Specificity Inducing Transformers for Source-Free Domain Adaptation**|Sunandini Sanyal et.al.|[2308.14023v1](http://arxiv.org/abs/2308.14023v1)|null|
+|**2023-08-27**|**Towards Fast and Accurate Image-Text Retrieval with Self-Supervised Fine-Grained Alignment**|Jiamin Zhuang et.al.|[2308.14009v1](http://arxiv.org/abs/2308.14009v1)|**[link](https://github.com/zjamie813/selfalign)**|
+|**2023-08-27**|**Label Denoising through Cross-Model Agreement**|Yu Wang et.al.|[2308.13976v1](http://arxiv.org/abs/2308.13976v1)|null|
 |**2023-08-25**|**Position-Enhanced Visual Instruction Tuning for Multimodal Large Language Models**|Chi Chen et.al.|[2308.13437v1](http://arxiv.org/abs/2308.13437v1)|null|
 |**2023-08-25**|**Self-Supervised Representation Learning with Cross-Context Learning between Global and Hypercolumn Features**|Zheng Gao et.al.|[2308.13392v1](http://arxiv.org/abs/2308.13392v1)|null|
 |**2023-08-25**|**WorldSmith: Iterative and Expressive Prompting for World Building with a Generative AI**|Hai Dang et.al.|[2308.13355v1](http://arxiv.org/abs/2308.13355v1)|null|
@@ -1559,6 +1574,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-26**|**InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**|Yanqi Bao et.al.|[2308.13897v1](http://arxiv.org/abs/2308.13897v1)|**[link](https://github.com/bbbbby-99/insertnerf)**|
 |**2023-08-24**|**NOVA: NOvel View Augmentation for Neural Composition of Dynamic Objects**|Dakshit Agrawal et.al.|[2308.12560v1](http://arxiv.org/abs/2308.12560v1)|**[link](https://github.com/dakshitagrawal/nova)**|
 |**2023-08-23**|**Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields**|Hyeonseop Song et.al.|[2308.11974v1](http://arxiv.org/abs/2308.11974v1)|null|
 |**2023-08-25**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951v2](http://arxiv.org/abs/2308.11951v2)|null|
