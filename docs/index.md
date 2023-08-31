@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.30
+## Updated on 2023.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -155,6 +155,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**Cross-Modal Retrieval Meets Inference:Improving Zero-Shot Classification with Cross-Modal Retrieval**|Seongha Eom et.al.|[2308.15273v1](http://arxiv.org/abs/2308.15273v1)|null|
+|**2023-08-29**|**Learning Cross-modality Information Bottleneck Representation for Heterogeneous Person Re-Identification**|Haichao Shi et.al.|[2308.15063v1](http://arxiv.org/abs/2308.15063v1)|null|
+|**2023-08-29**|**Vision Grid Transformer for Document Layout Analysis**|Cheng Da et.al.|[2308.14978v1](http://arxiv.org/abs/2308.14978v1)|**[link](https://github.com/alibabaresearch/advancedliteratemachinery)**|
+|**2023-08-28**|**Extending Cross-Modal Retrieval with Interactive Learning to Improve Image Retrieval Performance in Forensics**|Nils Böhne et.al.|[2308.14786v1](http://arxiv.org/abs/2308.14786v1)|null|
 |**2023-08-28**|**R3D3: Dense 3D Reconstruction of Dynamic Scenes from Multiple Cameras**|Aron Schmied et.al.|[2308.14713v1](http://arxiv.org/abs/2308.14713v1)|null|
 |**2023-08-29**|**Compositional Semantic Mix for Domain Adaptation in Point Cloud Segmentation**|Cristiano Saltori et.al.|[2308.14619v2](http://arxiv.org/abs/2308.14619v2)|**[link](https://github.com/saltoricristiano/cosmix-uda)**|
 |**2023-08-28**|**MS-Net: A Multi-modal Self-supervised Network for Fine-Grained Classification of Aircraft in SAR Images**|Bingying Yue et.al.|[2308.14613v1](http://arxiv.org/abs/2308.14613v1)|null|
@@ -1574,6 +1578,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**Pose-Free Neural Radiance Fields via Implicit Pose Regularization**|Jiahui Zhang et.al.|[2308.15049v1](http://arxiv.org/abs/2308.15049v1)|null|
+|**2023-08-28**|**CLNeRF: Continual Learning Meets NeRF**|Zhipeng Cai et.al.|[2308.14816v1](http://arxiv.org/abs/2308.14816v1)|**[link](https://github.com/intellabs/clnerf)**|
 |**2023-08-26**|**InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules**|Yanqi Bao et.al.|[2308.13897v1](http://arxiv.org/abs/2308.13897v1)|**[link](https://github.com/bbbbby-99/insertnerf)**|
 |**2023-08-24**|**NOVA: NOvel View Augmentation for Neural Composition of Dynamic Objects**|Dakshit Agrawal et.al.|[2308.12560v1](http://arxiv.org/abs/2308.12560v1)|**[link](https://github.com/dakshitagrawal/nova)**|
 |**2023-08-23**|**Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields**|Hyeonseop Song et.al.|[2308.11974v1](http://arxiv.org/abs/2308.11974v1)|null|
