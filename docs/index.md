@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.08
+## Updated on 2023.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Detection of open cluster rotation fields from Gaia EDR3 proper motions**|Pedro Guilherme-Garcia et.al.|[2309.03396v1](http://arxiv.org/abs/2309.03396v1)|null|
 |**2023-08-31**|**GA-NIFS: JWST/NIRSpec IFU observations of HFLS3 reveal a dense galaxy group at z~6.3**|G. C. Jones et.al.|[2308.16620v1](http://arxiv.org/abs/2308.16620v1)|null|
 |**2023-08-23**|**Certifiably Optimal Rotation and Pose Estimation Based on the Cayley Map**|Timothy D Barfoot et.al.|[2308.12418v1](http://arxiv.org/abs/2308.12418v1)|null|
 |**2023-08-22**|**Looking into the faintEst WIth MUSE (LEWIS): on the nature of ultra-diffuse galaxies in the Hydra-I cluster.I. Project description and preliminary results**|Enrichetta Iodice et.al.|[2308.11493v1](http://arxiv.org/abs/2308.11493v1)|null|
@@ -156,6 +157,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**ImageBind-LLM: Multi-modality Instruction Tuning**|Jiaming Han et.al.|[2309.03905v1](http://arxiv.org/abs/2309.03905v1)|null|
+|**2023-09-07**|**Text-to-feature diffusion for audio-visual few-shot learning**|Otniel-Bogdan Mercea et.al.|[2309.03869v1](http://arxiv.org/abs/2309.03869v1)|null|
+|**2023-09-07**|**ClusterFusion: Leveraging Radar Spatial Features for Radar-Camera 3D Object Detection in Autonomous Vehicles**|Irfan Tito Kurniawan et.al.|[2309.03734v1](http://arxiv.org/abs/2309.03734v1)|null|
+|**2023-09-07**|**Prompt-based Context- and Domain-aware Pretraining for Vision and Language Navigation**|Ting Liu et.al.|[2309.03661v1](http://arxiv.org/abs/2309.03661v1)|null|
+|**2023-09-07**|**Temporal Collection and Distribution for Referring Video Object Segmentation**|Jiajin Tang et.al.|[2309.03473v1](http://arxiv.org/abs/2309.03473v1)|null|
+|**2023-09-07**|**Multi-Modality Guidance Network For Missing Modality Inference**|Zhuokai Zhao et.al.|[2309.03452v1](http://arxiv.org/abs/2309.03452v1)|null|
 |**2023-09-06**|**3D Object Positioning Using Differentiable Multimodal Learning**|Sean Zanyk-McLean et.al.|[2309.03177v1](http://arxiv.org/abs/2309.03177v1)|null|
 |**2023-09-06**|**Real-Time Non-Invasive Imaging and Detection of Spreading Depolarizations through EEG: An Ultra-Light Explainable Deep Learning Approach**|Yinzhe Wu et.al.|[2309.03147v1](http://arxiv.org/abs/2309.03147v1)|null|
 |**2023-09-06**|**FArMARe: a Furniture-Aware Multi-task methodology for Recommending Apartments based on the user interests**|Ali Abdari et.al.|[2309.03100v1](http://arxiv.org/abs/2309.03100v1)|null|
@@ -1630,8 +1637,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550v1](http://arxiv.org/abs/2309.03550v1)|null|
 |**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185v1](http://arxiv.org/abs/2309.03185v1)|null|
-|**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160v1](http://arxiv.org/abs/2309.03160v1)|null|
+|**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160v1](http://arxiv.org/abs/2309.03160v1)|**[link](https://github.com/markomih/ResFields)**|
 |**2023-09-06**|**Instant Continual Learning of Neural Radiance Fields**|Ryan Po et.al.|[2309.01811v2](http://arxiv.org/abs/2309.01811v2)|null|
 |**2023-09-04**|**Adv3D: Generating 3D Adversarial Examples in Driving Scenarios with NeRF**|Leheng Li et.al.|[2309.01351v1](http://arxiv.org/abs/2309.01351v1)|null|
 |**2023-09-01**|**SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images**|Lulin Zhang et.al.|[2309.00277v1](http://arxiv.org/abs/2309.00277v1)|**[link](https://github.com/lulinzhang/sps-nerf)**|
