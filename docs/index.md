@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.14
+## Updated on 2023.09.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**Motion-Bias-Free Feature-Based SLAM**|Alejandro Fontan et.al.|[2309.06792v1](http://arxiv.org/abs/2309.06792v1)|null|
 |**2023-09-06**|**Detection of open cluster rotation fields from Gaia EDR3 proper motions**|Pedro Guilherme-Garcia et.al.|[2309.03396v1](http://arxiv.org/abs/2309.03396v1)|null|
 |**2023-08-31**|**GA-NIFS: JWST/NIRSpec IFU observations of HFLS3 reveal a dense galaxy group at z~6.3**|G. C. Jones et.al.|[2308.16620v1](http://arxiv.org/abs/2308.16620v1)|null|
 |**2023-08-23**|**Certifiably Optimal Rotation and Pose Estimation Based on the Cayley Map**|Timothy D Barfoot et.al.|[2308.12418v1](http://arxiv.org/abs/2308.12418v1)|null|
@@ -157,6 +158,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**Sight Beyond Text: Multi-Modal Training Enhances LLMs in Truthfulness and Ethics**|Haoqin Tu et.al.|[2309.07120v1](http://arxiv.org/abs/2309.07120v1)|**[link](https://github.com/ucsc-vlaa/sight-beyond-text)**|
+|**2023-09-13**|**CLiFF-LHMP: Using Spatial Dynamics Patterns for Long-Term Human Motion Prediction**|Yufei Zhu et.al.|[2309.07066v1](http://arxiv.org/abs/2309.07066v1)|null|
+|**2023-09-13**|**When Geoscience Meets Foundation Models: Towards General Geoscience Artificial Intelligence System**|Hao Zhang et.al.|[2309.06799v1](http://arxiv.org/abs/2309.06799v1)|null|
+|**2023-09-13**|**GelFlow: Self-supervised Learning of Optical Flow for Vision-Based Tactile Sensor Displacement Measurement**|Zhiyuan Zhang et.al.|[2309.06735v1](http://arxiv.org/abs/2309.06735v1)|null|
+|**2023-09-13**|**Leveraging Foundation models for Unsupervised Audio-Visual Segmentation**|Swapnil Bhosale et.al.|[2309.06728v1](http://arxiv.org/abs/2309.06728v1)|null|
+|**2023-09-12**|**Reasoning with Latent Diffusion in Offline Reinforcement Learning**|Siddarth Venkatraman et.al.|[2309.06599v1](http://arxiv.org/abs/2309.06599v1)|**[link](https://github.com/ldcq/ldcq)**|
+|**2023-09-12**|**Rank2Tell: A Multimodal Driving Dataset for Joint Importance Ranking and Reasoning**|Enna Sachdeva et.al.|[2309.06597v1](http://arxiv.org/abs/2309.06597v1)|null|
+|**2023-09-12**|**AmodalSynthDrive: A Synthetic Amodal Perception Dataset for Autonomous Driving**|Ahmed Rida Sekkat et.al.|[2309.06547v1](http://arxiv.org/abs/2309.06547v1)|null|
+|**2023-09-12**|**Overview of Memotion 3: Sentiment and Emotion Analysis of Codemixed Hinglish Memes**|Shreyash Mishra et.al.|[2309.06517v1](http://arxiv.org/abs/2309.06517v1)|null|
+|**2023-09-12**|**DF-TransFusion: Multimodal Deepfake Detection via Lip-Audio Cross-Attention and Facial Self-Attention**|Aaditya Kharel et.al.|[2309.06511v1](http://arxiv.org/abs/2309.06511v1)|null|
 |**2023-09-12**|**Modality Unifying Network for Visible-Infrared Person Re-Identification**|Hao Yu et.al.|[2309.06262v1](http://arxiv.org/abs/2309.06262v1)|null|
 |**2023-09-12**|**Enhancing Multi-modal Cooperation via Fine-grained Modality Valuation**|Yake Wei et.al.|[2309.06255v1](http://arxiv.org/abs/2309.06255v1)|null|
 |**2023-09-12**|**Dual-Path Temporal Map Optimization for Make-up Temporal Video Grounding**|Jiaxiu Li et.al.|[2309.06176v1](http://arxiv.org/abs/2309.06176v1)|null|
@@ -1463,6 +1474,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline**|Mirko Usuelli et.al.|[2309.07094v1](http://arxiv.org/abs/2309.07094v1)|null|
 |**2023-09-05**|**Magnetic Navigation using Attitude-Invariant Magnetic Field Information for Loop Closure Detection**|Natalia Pavlasek et.al.|[2309.02394v1](http://arxiv.org/abs/2309.02394v1)|null|
 |**2023-07-18**|**3D-SeqMOS: A Novel Sequential 3D Moving Object Segmentation in Autonomous Driving**|Qipeng Li et.al.|[2307.09044v1](http://arxiv.org/abs/2307.09044v1)|null|
 |**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221v1](http://arxiv.org/abs/2307.08221v1)|**[link](https://github.com/SlamCabbage/NDTMC)**|
@@ -1670,13 +1682,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**Text-Guided Generation and Editing of Compositional 3D Avatars**|Hao Zhang et.al.|[2309.07125v1](http://arxiv.org/abs/2309.07125v1)|null|
+|**2023-09-13**|**Dynamic NeRFs for Soccer Scenes**|Sacha Lewin et.al.|[2309.06802v1](http://arxiv.org/abs/2309.06802v1)|null|
 |**2023-09-12**|**Federated Learning for Large-Scale Scene Modeling with Neural Radiance Fields**|Teppei Suzuki et.al.|[2309.06030v1](http://arxiv.org/abs/2309.06030v1)|null|
 |**2023-09-11**|**PAg-NeRF: Towards fast and efficient end-to-end panoptic 3D representations for agricultural robotics**|Claus Smitt et.al.|[2309.05339v1](http://arxiv.org/abs/2309.05339v1)|null|
 |**2023-09-10**|**Text-driven Editing of 3D Scenes without Retraining**|Shuangkang Fang et.al.|[2309.04917v1](http://arxiv.org/abs/2309.04917v1)|null|
 |**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750v1](http://arxiv.org/abs/2309.04750v1)|null|
 |**2023-09-08**|**Dynamic Mesh-Aware Radiance Fields**|Yi-Ling Qiao et.al.|[2309.04581v1](http://arxiv.org/abs/2309.04581v1)|null|
 |**2023-09-08**|**DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields**|Junzhe Zhang et.al.|[2309.04410v1](http://arxiv.org/abs/2309.04410v1)|null|
-|**2023-09-07**|**SimpleNeRF: Regularizing Sparse Input Neural Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2309.03955v1](http://arxiv.org/abs/2309.03955v1)|null|
+|**2023-09-14**|**SimpleNeRF: Regularizing Sparse Input Neural Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2309.03955v2](http://arxiv.org/abs/2309.03955v2)|null|
 |**2023-09-07**|**BluNF: Blueprint Neural Field**|Robin Courant et.al.|[2309.03933v1](http://arxiv.org/abs/2309.03933v1)|null|
 |**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550v1](http://arxiv.org/abs/2309.03550v1)|null|
 |**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185v1](http://arxiv.org/abs/2309.03185v1)|null|
