@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.19
+## Updated on 2023.09.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**Coco-LIC: Continuous-Time Tightly-Coupled LiDAR-Inertial-Camera Odometry using Non-Uniform B-spline**|Xiaolei Lang et.al.|[2309.09808v1](http://arxiv.org/abs/2309.09808v1)|null|
+|**2023-09-16**|**Optimal Initialization Strategies for Range-Only Trajectory Estimation**|Abhishek Goudar et.al.|[2309.09011v1](http://arxiv.org/abs/2309.09011v1)|null|
+|**2023-09-15**|**Simultaneous Trajectory Estimation and Mapping for Autonomous Underwater Proximity Operations**|Aldo Terán Espinoza et.al.|[2309.08780v1](http://arxiv.org/abs/2309.08780v1)|null|
 |**2023-09-13**|**Motion-Bias-Free Feature-Based SLAM**|Alejandro Fontan et.al.|[2309.06792v1](http://arxiv.org/abs/2309.06792v1)|null|
 |**2023-09-06**|**Detection of open cluster rotation fields from Gaia EDR3 proper motions**|Pedro Guilherme-Garcia et.al.|[2309.03396v1](http://arxiv.org/abs/2309.03396v1)|null|
 |**2023-08-31**|**GA-NIFS: JWST/NIRSpec IFU observations of HFLS3 reveal a dense galaxy group at z~6.3**|G. C. Jones et.al.|[2308.16620v1](http://arxiv.org/abs/2308.16620v1)|null|
@@ -158,6 +161,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**An Empirical Study of Scaling Instruct-Tuned Large Multimodal Models**|Yadong Lu et.al.|[2309.09958v1](http://arxiv.org/abs/2309.09958v1)|**[link](https://github.com/haotian-liu/LLaVA)**|
+|**2023-09-18**|**RaLF: Flow-based Global and Metric Radar Localization in LiDAR Maps**|Abhijeet Nayak et.al.|[2309.09875v1](http://arxiv.org/abs/2309.09875v1)|null|
+|**2023-09-18**|**EGFE: End-to-end Grouping of Fragmented Elements in UI Designs with Multimodal Learning**|Liuqing Chen et.al.|[2309.09867v1](http://arxiv.org/abs/2309.09867v1)|null|
+|**2023-09-18**|**Task Selection and Assignment for Multi-modal Multi-task Dialogue Act Classification with Non-stationary Multi-armed Bandits**|Xiangheng He et.al.|[2309.09832v1](http://arxiv.org/abs/2309.09832v1)|null|
+|**2023-09-18**|**Unified Frequency-Assisted Transformer Framework for Detecting and Grounding Multi-Modal Manipulation**|Huan Liu et.al.|[2309.09667v1](http://arxiv.org/abs/2309.09667v1)|null|
+|**2023-09-18**|**Concurrent Haptic, Audio, and Visual Data Set During Bare Finger Interaction with Textured Surfaces**|Alexis W. M. Devillard et.al.|[2309.09646v1](http://arxiv.org/abs/2309.09646v1)|null|
+|**2023-09-18**|**Multi-Semantic Fusion Model for Generalized Zero-Shot Skeleton-Based Action Recognition**|Ming-Zhe Li et.al.|[2309.09592v1](http://arxiv.org/abs/2309.09592v1)|**[link](https://github.com/EHZ9NIWI7/MSF-GZSSAR)**|
+|**2023-09-18**|**Learning Parallax for Stereo Event-based Motion Deblurring**|Mingyuan Lin et.al.|[2309.09513v1](http://arxiv.org/abs/2309.09513v1)|null|
+|**2023-09-18**|**Discovering Sounding Objects by Audio Queries for Audio Visual Segmentation**|Shaofei Huang et.al.|[2309.09501v1](http://arxiv.org/abs/2309.09501v1)|null|
+|**2023-09-18**|**Self-supervised Multi-view Clustering in Computer Vision: A Survey**|Jiatai Wang et.al.|[2309.09473v1](http://arxiv.org/abs/2309.09473v1)|null|
+|**2023-09-18**|**Unified Pretraining Target Based Video-music Retrieval With Music Rhythm And Video Optical Flow Information**|Tianjun Mao et.al.|[2309.09421v1](http://arxiv.org/abs/2309.09421v1)|null|
+|**2023-09-17**|**Image-level supervision and self-training for transformer-based cross-modality tumor segmentation**|Malo de Boisredon et.al.|[2309.09246v1](http://arxiv.org/abs/2309.09246v1)|null|
+|**2023-09-16**|**Enhancing GAN-Based Vocoders with Contrastive Learning Under Data-limited Condition**|Haoming Guo et.al.|[2309.09088v1](http://arxiv.org/abs/2309.09088v1)|null|
+|**2023-09-19**|**MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer**|Fudong Lin et.al.|[2309.09067v2](http://arxiv.org/abs/2309.09067v2)|**[link](https://github.com/fudong03/mmst-vit)**|
+|**2023-09-16**|**FF-LOGO: Cross-Modality Point Cloud Registration with Feature Filtering and Local to Global Optimization**|Nan Ma et.al.|[2309.08966v1](http://arxiv.org/abs/2309.08966v1)|null|
 |**2023-09-15**|**Towards Practical and Efficient Image-to-Speech Captioning with Vision-Language Pre-training and Multi-modal Tokens**|Minsu Kim et.al.|[2309.08531v1](http://arxiv.org/abs/2309.08531v1)|null|
 |**2023-09-15**|**MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception**|Gyan Tatiya et.al.|[2309.08508v1](http://arxiv.org/abs/2309.08508v1)|**[link](https://github.com/gtatiya/MOSAIC)**|
 |**2023-09-15**|**Automated Multi-Drugs Administration During Total Intravenous Anesthesia Using Multi-Model Predictive Control**|Bob Aubouin-Pairault et.al.|[2309.08229v1](http://arxiv.org/abs/2309.08229v1)|null|
@@ -1491,6 +1509,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**DynaPix SLAM: A Pixel-Based Dynamic SLAM Approach**|Chenghao Xu et.al.|[2309.09879v1](http://arxiv.org/abs/2309.09879v1)|null|
+|**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914v1](http://arxiv.org/abs/2309.08914v1)|null|
 |**2023-09-13**|**RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline**|Mirko Usuelli et.al.|[2309.07094v1](http://arxiv.org/abs/2309.07094v1)|null|
 |**2023-09-05**|**Magnetic Navigation using Attitude-Invariant Magnetic Field Information for Loop Closure Detection**|Natalia Pavlasek et.al.|[2309.02394v1](http://arxiv.org/abs/2309.02394v1)|null|
 |**2023-07-18**|**3D-SeqMOS: A Novel Sequential 3D Moving Object Segmentation in Autonomous Driving**|Qipeng Li et.al.|[2307.09044v1](http://arxiv.org/abs/2307.09044v1)|null|
@@ -1700,6 +1720,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision**|Mingjie Pan et.al.|[2309.09502v1](http://arxiv.org/abs/2309.09502v1)|null|
+|**2023-09-17**|**NeRF-VINS: A Real-time Neural Radiance Field Map-based Visual-Inertial Navigation System**|Saimouli Katragadda et.al.|[2309.09295v1](http://arxiv.org/abs/2309.09295v1)|null|
+|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927v1](http://arxiv.org/abs/2309.08927v1)|null|
 |**2023-09-15**|**Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**|Weng Fei Low et.al.|[2309.08596v1](http://arxiv.org/abs/2309.08596v1)|**[link](https://github.com/wengflow/robust-e-nerf)**|
 |**2023-09-14**|**Gradient based Grasp Pose Optimization on a NeRF that Approximates Grasp Success**|Gergely Sóti et.al.|[2309.08040v1](http://arxiv.org/abs/2309.08040v1)|null|
 |**2023-09-14**|**MC-NeRF: Muti-Camera Neural Radiance Fields for Muti-Camera Image Acquisition Systems**|Yu Gao et.al.|[2309.07846v1](http://arxiv.org/abs/2309.07846v1)|null|
