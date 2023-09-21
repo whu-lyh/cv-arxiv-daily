@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.20
+## Updated on 2023.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-18**|**Coco-LIC: Continuous-Time Tightly-Coupled LiDAR-Inertial-Camera Odometry using Non-Uniform B-spline**|Xiaolei Lang et.al.|[2309.09808v1](http://arxiv.org/abs/2309.09808v1)|null|
+|**2023-09-18**|**Coco-LIC: Continuous-Time Tightly-Coupled LiDAR-Inertial-Camera Odometry using Non-Uniform B-spline**|Xiaolei Lang et.al.|[2309.09808v1](http://arxiv.org/abs/2309.09808v1)|**[link](https://github.com/april-zju/coco-lic)**|
 |**2023-09-16**|**Optimal Initialization Strategies for Range-Only Trajectory Estimation**|Abhishek Goudar et.al.|[2309.09011v1](http://arxiv.org/abs/2309.09011v1)|null|
 |**2023-09-15**|**Simultaneous Trajectory Estimation and Mapping for Autonomous Underwater Proximity Operations**|Aldo Terán Espinoza et.al.|[2309.08780v1](http://arxiv.org/abs/2309.08780v1)|null|
 |**2023-09-13**|**Motion-Bias-Free Feature-Based SLAM**|Alejandro Fontan et.al.|[2309.06792v1](http://arxiv.org/abs/2309.06792v1)|null|
@@ -161,9 +161,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**Sound Source Localization is All about Cross-Modal Alignment**|Arda Senocak et.al.|[2309.10724v1](http://arxiv.org/abs/2309.10724v1)|null|
+|**2023-09-19**|**Cross-modal and Cross-domain Knowledge Transfer for Label-free 3D Segmentation**|Jingyu Zhang et.al.|[2309.10649v1](http://arxiv.org/abs/2309.10649v1)|null|
+|**2023-09-19**|**A Novel Hybrid Algorithm for Optimized Solutions in Ocean Renewable Energy Industry: Enhancing Power Take-Off Parameters and Site Selection Procedure of Wave Energy Converters**|Hossein Mehdipour et.al.|[2309.10606v1](http://arxiv.org/abs/2309.10606v1)|null|
+|**2023-09-19**|**FoleyGen: Visually-Guided Audio Generation**|Xinhao Mei et.al.|[2309.10537v1](http://arxiv.org/abs/2309.10537v1)|null|
+|**2023-09-19**|**Testable Likelihoods for Beyond-the-Standard Model Fits**|Anja Beck et.al.|[2309.10365v1](http://arxiv.org/abs/2309.10365v1)|null|
+|**2023-09-19**|**Improving CLIP Robustness with Knowledge Distillation and Self-Training**|Clement Laroudie et.al.|[2309.10361v1](http://arxiv.org/abs/2309.10361v1)|null|
+|**2023-09-19**|**FRAMU: Attention-based Machine Unlearning using Federated Reinforcement Learning**|Thanveer Shaik et.al.|[2309.10283v1](http://arxiv.org/abs/2309.10283v1)|null|
+|**2023-09-19**|**UPL-SFDA: Uncertainty-aware Pseudo Label Guided Source-Free Domain Adaptation for Medical Image Segmentation**|Jianghao Wu et.al.|[2309.10244v1](http://arxiv.org/abs/2309.10244v1)|**[link](https://github.com/hilab-git/upl-sfda)**|
+|**2023-09-20**|**Multi-modality Meets Re-learning: Mitigating Negative Transfer in Sequential Recommendation**|Bo Peng et.al.|[2309.10195v2](http://arxiv.org/abs/2309.10195v2)|null|
+|**2023-09-18**|**Unified Coarse-to-Fine Alignment for Video-Text Retrieval**|Ziyang Wang et.al.|[2309.10091v1](http://arxiv.org/abs/2309.10091v1)|**[link](https://github.com/ziyang412/ucofia)**|
+|**2023-09-18**|**GAME: Generalized deep learning model towards multimodal data integration for early screening of adolescent mental disorders**|Zhicheng Du et.al.|[2309.10077v1](http://arxiv.org/abs/2309.10077v1)|null|
 |**2023-09-18**|**An Empirical Study of Scaling Instruct-Tuned Large Multimodal Models**|Yadong Lu et.al.|[2309.09958v1](http://arxiv.org/abs/2309.09958v1)|**[link](https://github.com/haotian-liu/LLaVA)**|
 |**2023-09-18**|**RaLF: Flow-based Global and Metric Radar Localization in LiDAR Maps**|Abhijeet Nayak et.al.|[2309.09875v1](http://arxiv.org/abs/2309.09875v1)|null|
-|**2023-09-18**|**EGFE: End-to-end Grouping of Fragmented Elements in UI Designs with Multimodal Learning**|Liuqing Chen et.al.|[2309.09867v1](http://arxiv.org/abs/2309.09867v1)|null|
+|**2023-09-18**|**EGFE: End-to-end Grouping of Fragmented Elements in UI Designs with Multimodal Learning**|Liuqing Chen et.al.|[2309.09867v1](http://arxiv.org/abs/2309.09867v1)|**[link](https://github.com/test2975/egfe)**|
 |**2023-09-18**|**Task Selection and Assignment for Multi-modal Multi-task Dialogue Act Classification with Non-stationary Multi-armed Bandits**|Xiangheng He et.al.|[2309.09832v1](http://arxiv.org/abs/2309.09832v1)|null|
 |**2023-09-18**|**Unified Frequency-Assisted Transformer Framework for Detecting and Grounding Multi-Modal Manipulation**|Huan Liu et.al.|[2309.09667v1](http://arxiv.org/abs/2309.09667v1)|null|
 |**2023-09-18**|**Concurrent Haptic, Audio, and Visual Data Set During Bare Finger Interaction with Textured Surfaces**|Alexis W. M. Devillard et.al.|[2309.09646v1](http://arxiv.org/abs/2309.09646v1)|null|
@@ -1720,6 +1731,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**Locally Stylized Neural Radiance Fields**|Hong-Wing Pang et.al.|[2309.10684v1](http://arxiv.org/abs/2309.10684v1)|null|
+|**2023-09-19**|**Steganography for Neural Radiance Fields by Backdooring**|Weina Dong et.al.|[2309.10503v1](http://arxiv.org/abs/2309.10503v1)|null|
+|**2023-09-18**|**Instant Photorealistic Style Transfer: A Lightweight and Adaptive Approach**|Rong Liu et.al.|[2309.10011v1](http://arxiv.org/abs/2309.10011v1)|null|
 |**2023-09-18**|**RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision**|Mingjie Pan et.al.|[2309.09502v1](http://arxiv.org/abs/2309.09502v1)|null|
 |**2023-09-17**|**NeRF-VINS: A Real-time Neural Radiance Field Map-based Visual-Inertial Navigation System**|Saimouli Katragadda et.al.|[2309.09295v1](http://arxiv.org/abs/2309.09295v1)|null|
 |**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927v1](http://arxiv.org/abs/2309.08927v1)|null|
