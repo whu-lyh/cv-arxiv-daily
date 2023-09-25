@@ -209,7 +209,7 @@ layout: default
 |**2023-09-16**|**FF-LOGO: Cross-Modality Point Cloud Registration with Feature Filtering and Local to Global Optimization**|Nan Ma et.al.|[2309.08966v1](http://arxiv.org/abs/2309.08966v1)|null|
 |**2023-09-15**|**Towards Practical and Efficient Image-to-Speech Captioning with Vision-Language Pre-training and Multi-modal Tokens**|Minsu Kim et.al.|[2309.08531v1](http://arxiv.org/abs/2309.08531v1)|null|
 |**2023-09-15**|**MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception**|Gyan Tatiya et.al.|[2309.08508v1](http://arxiv.org/abs/2309.08508v1)|**[link](https://github.com/gtatiya/MOSAIC)**|
-|**2023-09-15**|**Automated Multi-Drugs Administration During Total Intravenous Anesthesia Using Multi-Model Predictive Control**|Bob Aubouin-Pairault et.al.|[2309.08229v1](http://arxiv.org/abs/2309.08229v1)|null|
+|**2023-09-15**|**Automated Multi-Drugs Administration During Total Intravenous Anesthesia Using Multi-Model Predictive Control**|Bob Aubouin-Pairault et.al.|[2309.08229v1](http://arxiv.org/abs/2309.08229v1)|**[link](https://github.com/bobaubouin/tiva_drug_control)**|
 |**2023-09-15**|**One-stage Modality Distillation for Incomplete Multimodal Learning**|Shicai Wei et.al.|[2309.08204v1](http://arxiv.org/abs/2309.08204v1)|null|
 |**2023-09-15**|**Cross-Modal Synthesis of Structural MRI and Functional Connectivity Networks via Conditional ViT-GANs**|Yuda Bi et.al.|[2309.08160v1](http://arxiv.org/abs/2309.08160v1)|null|
 |**2023-09-15**|**Uncertainty-Aware Multi-View Visual Semantic Embedding**|Wenzhang Wei et.al.|[2309.08154v1](http://arxiv.org/abs/2309.08154v1)|null|
@@ -247,7 +247,7 @@ layout: default
 |**2023-09-11**|**Incorporating Pre-trained Model Prompting in Multimodal Stock Volume Movement Prediction**|Ruibo Chen et.al.|[2309.05608v1](http://arxiv.org/abs/2309.05608v1)|**[link](https://github.com/rayruibochen/promuse)**|
 |**2023-09-11**|**UniSeg: A Unified Multi-Modal LiDAR Segmentation Network and the OpenPCSeg Codebase**|Youquan Liu et.al.|[2309.05573v1](http://arxiv.org/abs/2309.05573v1)|**[link](https://github.com/pjlab-adg/pcseg)**|
 |**2023-09-13**|**NExT-GPT: Any-to-Any Multimodal LLM**|Shengqiong Wu et.al.|[2309.05519v2](http://arxiv.org/abs/2309.05519v2)|**[link](https://github.com/NExT-GPT/NExT-GPT)**|
-|**2023-09-11**|**Long-Range Transformer Architectures for Document Understanding**|Thibault Douzon et.al.|[2309.05503v1](http://arxiv.org/abs/2309.05503v1)|null|
+|**2023-09-11**|**Long-Range Transformer Architectures for Document Understanding**|Thibault Douzon et.al.|[2309.05503v1](http://arxiv.org/abs/2309.05503v1)|**[link](https://github.com/thibaultdouzon/long-range-document-transformer)**|
 |**2023-09-11**|**Dual-view Curricular Optimal Transport for Cross-lingual Cross-modal Retrieval**|Yabing Wang et.al.|[2309.05451v1](http://arxiv.org/abs/2309.05451v1)|null|
 |**2023-09-11**|**Multi-Modal Automatic Prosody Annotation with Contrastive Pretraining of SSWP**|Jinzuomu Zhong et.al.|[2309.05423v1](http://arxiv.org/abs/2309.05423v1)|null|
 |**2023-09-12**|**SlideSpeech: A Large-Scale Slide-Enriched Audio-Visual Corpus**|Haoxu Wang et.al.|[2309.05396v2](http://arxiv.org/abs/2309.05396v2)|null|
@@ -266,7 +266,7 @@ layout: default
 |**2023-09-08**|**3D Denoisers are Good 2D Teachers: Molecular Pretraining via Denoising and Cross-Modal Distillation**|Sungjun Cho et.al.|[2309.04062v1](http://arxiv.org/abs/2309.04062v1)|null|
 |**2023-09-07**|**Multimodal Transformer for Material Segmentation**|Md Kaykobad Reza et.al.|[2309.04001v1](http://arxiv.org/abs/2309.04001v1)|**[link](https://github.com/csiplab/mmsformer)**|
 |**2023-09-07**|**ImageBind-LLM: Multi-modality Instruction Tuning**|Jiaming Han et.al.|[2309.03905v1](http://arxiv.org/abs/2309.03905v1)|**[link](https://github.com/opengvlab/llama-adapter)**|
-|**2023-09-07**|**Text-to-feature diffusion for audio-visual few-shot learning**|Otniel-Bogdan Mercea et.al.|[2309.03869v1](http://arxiv.org/abs/2309.03869v1)|null|
+|**2023-09-07**|**Text-to-feature diffusion for audio-visual few-shot learning**|Otniel-Bogdan Mercea et.al.|[2309.03869v1](http://arxiv.org/abs/2309.03869v1)|**[link](https://github.com/explainableml/avdiff-gfsl)**|
 |**2023-09-07**|**ClusterFusion: Leveraging Radar Spatial Features for Radar-Camera 3D Object Detection in Autonomous Vehicles**|Irfan Tito Kurniawan et.al.|[2309.03734v1](http://arxiv.org/abs/2309.03734v1)|null|
 |**2023-09-07**|**Prompt-based Context- and Domain-aware Pretraining for Vision and Language Navigation**|Ting Liu et.al.|[2309.03661v1](http://arxiv.org/abs/2309.03661v1)|null|
 |**2023-09-07**|**Temporal Collection and Distribution for Referring Video Object Segmentation**|Jiajin Tang et.al.|[2309.03473v1](http://arxiv.org/abs/2309.03473v1)|null|
@@ -353,7 +353,7 @@ layout: default
 |**2023-08-24**|**PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation**|Haibo Jin et.al.|[2308.12604v1](http://arxiv.org/abs/2308.12604v1)|null|
 |**2023-08-24**|**Grounded Entity-Landmark Adaptive Pre-training for Vision-and-Language Navigation**|Yibo Cui et.al.|[2308.12587v1](http://arxiv.org/abs/2308.12587v1)|**[link](https://github.com/csir1996/vln-gela)**|
 |**2023-08-24**|**Hyperbolic Audio-visual Zero-shot Learning**|Jie Hong et.al.|[2308.12558v1](http://arxiv.org/abs/2308.12558v1)|null|
-|**2023-08-24**|**Parameter-Efficient Transfer Learning for Remote Sensing Image-Text Retrieval**|Yuan Yuan et.al.|[2308.12509v1](http://arxiv.org/abs/2308.12509v1)|null|
+|**2023-08-24**|**Parameter-Efficient Transfer Learning for Remote Sensing Image-Text Retrieval**|Yuan Yuan et.al.|[2308.12509v1](http://arxiv.org/abs/2308.12509v1)|**[link](https://github.com/ZhanYang-nwpu/PE-RSITR)**|
 |**2023-08-23**|**AdVerb: Visually Guided Audio Dereverberation**|Sanjoy Chowdhury et.al.|[2308.12370v1](http://arxiv.org/abs/2308.12370v1)|null|
 |**2023-08-23**|**Understanding Dark Scenes by Contrasting Multi-Modal Observations**|Xiaoyu Dong et.al.|[2308.12320v1](http://arxiv.org/abs/2308.12320v1)|**[link](https://github.com/palmdong/smmcl)**|
 |**2023-08-23**|**Towards Real-Time Analysis of Broadcast Badminton Videos**|Nitin Nilesh et.al.|[2308.12199v1](http://arxiv.org/abs/2308.12199v1)|null|
@@ -490,7 +490,7 @@ layout: default
 |**2023-08-04**|**Multi-interactive Feature Learning and a Full-time Multi-modality Benchmark for Image Fusion and Segmentation**|Jinyuan Liu et.al.|[2308.02097v1](http://arxiv.org/abs/2308.02097v1)|**[link](https://github.com/jinyuanliu-cv/segmif)**|
 |**2023-08-03**|**Explainable unsupervised multi-modal image registration using deep networks**|Chengjia Wang et.al.|[2308.01994v1](http://arxiv.org/abs/2308.01994v1)|null|
 |**2023-08-03**|**Quantification of Predictive Uncertainty via Inference-Time Sampling**|Katarína Tóthová et.al.|[2308.01731v1](http://arxiv.org/abs/2308.01731v1)|null|
-|**2023-08-03**|**MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies**|Ke Chen et.al.|[2308.01546v1](http://arxiv.org/abs/2308.01546v1)|null|
+|**2023-08-03**|**MusicLDM: Enhancing Novelty in Text-to-Music Generation Using Beat-Synchronous Mixup Strategies**|Ke Chen et.al.|[2308.01546v1](http://arxiv.org/abs/2308.01546v1)|**[link](https://github.com/retrocirce/musicldm)**|
 |**2023-08-03**|**Data Augmentation for Human Behavior Analysis in Multi-Person Conversations**|Kun Li et.al.|[2308.01526v1](http://arxiv.org/abs/2308.01526v1)|null|
 |**2023-08-02**|**A vision transformer-based framework for knowledge transfer from multi-modal to mono-modal lymphoma subtyping models**|Bilel Guetarni et.al.|[2308.01328v1](http://arxiv.org/abs/2308.01328v1)|null|
 |**2023-08-02**|**TeachCLIP: Multi-Grained Teaching for Efficient Text-to-Video Retrieval**|Kaibin Tian et.al.|[2308.01217v1](http://arxiv.org/abs/2308.01217v1)|null|
@@ -561,7 +561,7 @@ layout: default
 |**2023-07-24**|**Audio-Enhanced Text-to-Video Retrieval using Text-Conditioned Feature Alignment**|Sarah Ibrahimi et.al.|[2307.12964v1](http://arxiv.org/abs/2307.12964v1)|null|
 |**2023-07-25**|**Spatiotemporal Modeling Encounters 3D Medical Image Analysis: Slice-Shift UNet with Multi-View Fusion**|C. I. Ugwu et.al.|[2307.12853v2](http://arxiv.org/abs/2307.12853v2)|null|
 |**2023-07-24**|**CLIP-KD: An Empirical Study of Distilling CLIP Models**|Chuanguang Yang et.al.|[2307.12732v1](http://arxiv.org/abs/2307.12732v1)|null|
-|**2023-07-24**|**Enhancing Human-like Multi-Modal Reasoning: A New Challenging Dataset and Comprehensive Framework**|Jingxuan Wei et.al.|[2307.12626v1](http://arxiv.org/abs/2307.12626v1)|null|
+|**2023-07-24**|**Enhancing Human-like Multi-Modal Reasoning: A New Challenging Dataset and Comprehensive Framework**|Jingxuan Wei et.al.|[2307.12626v1](http://arxiv.org/abs/2307.12626v1)|**[link](https://github.com/weijingxuan/COCO-MMR)**|
 |**2023-07-24**|**PRIOR: Prototype Representation Joint Learning from Medical Images and Reports**|Pujin Cheng et.al.|[2307.12577v1](http://arxiv.org/abs/2307.12577v1)|**[link](https://github.com/qtacierp/prior)**|
 |**2023-07-24**|**Towards Video Anomaly Retrieval from Video Anomaly Detection: New Benchmarks and Model**|Peng Wu et.al.|[2307.12545v1](http://arxiv.org/abs/2307.12545v1)|null|
 |**2023-07-23**|**HealthPrism: A Visual Analytics System for Exploring Children's Physical and Mental Health Profiles with Multimodal Data**|Zhihan Jiang et.al.|[2307.12242v1](http://arxiv.org/abs/2307.12242v1)|null|
@@ -785,7 +785,7 @@ layout: default
 |**2023-06-13**|**Enhanced Multimodal Representation Learning with Cross-modal KD**|Mengxi Chen et.al.|[2306.07646v1](http://arxiv.org/abs/2306.07646v1)|null|
 |**2023-06-13**|**Deep learning radiomics for assessment of gastroesophageal varices in people with compensated advanced chronic liver disease**|Lan Wang et.al.|[2306.07505v1](http://arxiv.org/abs/2306.07505v1)|null|
 |**2023-06-11**|**A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks**|Saidul Islam et.al.|[2306.07303v1](http://arxiv.org/abs/2306.07303v1)|null|
-|**2023-06-12**|**Zero-shot Composed Text-Image Retrieval**|Yikun Liu et.al.|[2306.07272v1](http://arxiv.org/abs/2306.07272v1)|null|
+|**2023-06-12**|**Zero-shot Composed Text-Image Retrieval**|Yikun Liu et.al.|[2306.07272v1](http://arxiv.org/abs/2306.07272v1)|**[link](https://github.com/Code-kunkun/ZS-CIR)**|
 |**2023-06-12**|**MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images**|Junchen Zhu et.al.|[2306.07257v1](http://arxiv.org/abs/2306.07257v1)|null|
 |**2023-06-12**|**Valley: Video Assistant with Large Language model Enhanced abilitY**|Ruipu Luo et.al.|[2306.07207v1](http://arxiv.org/abs/2306.07207v1)|**[link](https://github.com/rupertluo/valley)**|
 |**2023-06-12**|**Retrieval-Enhanced Contrastive Vision-Text Models**|Ahmet Iscen et.al.|[2306.07196v1](http://arxiv.org/abs/2306.07196v1)|null|
