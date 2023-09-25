@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.24
+## Updated on 2023.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -169,7 +169,7 @@ layout: default
 |**2023-09-21**|**Passage Summarization with Recurrent Models for Audio-Sheet Music Retrieval**|Luis Carvalho et.al.|[2309.12111v1](http://arxiv.org/abs/2309.12111v1)|null|
 |**2023-09-21**|**Exploiting CLIP-based Multi-modal Approach for Artwork Classification and Retrieval**|Alberto Baldrati et.al.|[2309.12110v1](http://arxiv.org/abs/2309.12110v1)|null|
 |**2023-09-21**|**CAMERA: A Multimodal Dataset and Benchmark for Ad Text Generation**|Masato Mita et.al.|[2309.12030v1](http://arxiv.org/abs/2309.12030v1)|null|
-|**2023-09-21**|**Elevating Skeleton-Based Action Recognition with Efficient Multi-Modality Self-Supervision**|Yiping Wei et.al.|[2309.12009v1](http://arxiv.org/abs/2309.12009v1)|null|
+|**2023-09-21**|**Elevating Skeleton-Based Action Recognition with Efficient Multi-Modality Self-Supervision**|Yiping Wei et.al.|[2309.12009v1](http://arxiv.org/abs/2309.12009v1)|**[link](https://github.com/desehuileng0o0/ikem)**|
 |**2023-09-21**|**Fully Transformer-Equipped Architecture for End-to-End Referring Video Object Segmentation**|Ping Li et.al.|[2309.11933v1](http://arxiv.org/abs/2309.11933v1)|null|
 |**2023-09-21**|**TextCLIP: Text-Guided Face Image Generation And Manipulation Without Adversarial Training**|Xiaozhou You et.al.|[2309.11923v1](http://arxiv.org/abs/2309.11923v1)|null|
 |**2023-09-21**|**QUEST: An Efficient Query Evaluation Scheme Towards Scan-Intensive Cross-Model Analysis**|Jianfeng Huang et.al.|[2309.11860v1](http://arxiv.org/abs/2309.11860v1)|null|
@@ -1752,7 +1752,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-21**|**ORTexME: Occlusion-Robust Human Shape and Pose via Temporal Average Texture and Mesh Encoding**|Yu Cheng et.al.|[2309.12183v1](http://arxiv.org/abs/2309.12183v1)|null|
-|**2023-09-21**|**NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**|Floris Erich et.al.|[2309.11966v1](http://arxiv.org/abs/2309.11966v1)|null|
+|**2023-09-21**|**NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**|Floris Erich et.al.|[2309.11966v1](http://arxiv.org/abs/2309.11966v1)|**[link](https://github.com/FlorisE/neural-labeling)**|
 |**2023-09-21**|**Fast Satellite Tensorial Radiance Field for Multi-date Satellite Imagery of Large Size**|Tongtong Zhang et.al.|[2309.11767v1](http://arxiv.org/abs/2309.11767v1)|null|
 |**2023-09-21**|**MarkNerf:Watermarking for Neural Radiance Field**|Lifeng Chen et.al.|[2309.11747v1](http://arxiv.org/abs/2309.11747v1)|null|
 |**2023-09-21**|**Rendering stable features improves sampling-based localisation with Neural radiance fields**|Boxuan Zhang et.al.|[2309.11698v1](http://arxiv.org/abs/2309.11698v1)|null|
