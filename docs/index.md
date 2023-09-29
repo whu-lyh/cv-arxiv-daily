@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.28
+## Updated on 2023.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -163,9 +163,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**Cross-Modal Multi-Tasking for Speech-to-Text Translation via Hard Parameter Sharing**|Brian Yan et.al.|[2309.15826v1](http://arxiv.org/abs/2309.15826v1)|null|
+|**2023-09-27**|**InfraParis: A multi-modal and multi-task autonomous driving dataset**|Gianni Franchi et.al.|[2309.15751v1](http://arxiv.org/abs/2309.15751v1)|null|
+|**2023-09-27**|**Experience and Evidence are the eyes of an excellent summarizer! Towards Knowledge Infused Multi-modal Clinical Conversation Summarization**|Abhisek Tiwari et.al.|[2309.15739v1](http://arxiv.org/abs/2309.15739v1)|**[link](https://github.com/nlp-rl/mm-cliconsummation)**|
+|**2023-09-27**|**End-to-End Streaming Video Temporal Action Segmentation with Reinforce Learning**|Wujun Wen et.al.|[2309.15683v1](http://arxiv.org/abs/2309.15683v1)|**[link](https://github.com/Thinksky5124/SVTAS)**|
+|**2023-09-27**|**OceanBench: The Sea Surface Height Edition**|J. Emmanuel Johnson et.al.|[2309.15599v1](http://arxiv.org/abs/2309.15599v1)|**[link](https://github.com/jejjohnson/oceanbench)**|
+|**2023-09-27**|**Missing-modality Enabled Multi-modal Fusion Architecture for Medical Data**|Muyu Wang et.al.|[2309.15529v1](http://arxiv.org/abs/2309.15529v1)|null|
+|**2023-09-27**|**Graph Neural Prompting with Large Language Models**|Yijun Tian et.al.|[2309.15427v1](http://arxiv.org/abs/2309.15427v1)|null|
+|**2023-09-27**|**A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future**|Zheng Chu et.al.|[2309.15402v1](http://arxiv.org/abs/2309.15402v1)|**[link](https://github.com/zchuz/cot-reasoning-survey)**|
+|**2023-09-27**|**MINS: Efficient and Robust Multisensor-aided Inertial Navigation System**|Woosik Lee et.al.|[2309.15390v1](http://arxiv.org/abs/2309.15390v1)|null|
+|**2023-09-26**|**M $^{3}$ 3D: Learning 3D priors using Multi-Modal Masked Autoencoders for 2D image and video understanding**|Muhammad Abdullah Jamal et.al.|[2309.15313v1](http://arxiv.org/abs/2309.15313v1)|null|
+|**2023-09-26**|**Self-Supervised Terrain Representation Learning from Unconstrained Robot Experience**|Haresh Karnan et.al.|[2309.15302v1](http://arxiv.org/abs/2309.15302v1)|null|
+|**2023-09-26**|**Multi-Modal Planning on Regrasping for Stable Manipulation**|Jiaming Hu et.al.|[2309.15283v1](http://arxiv.org/abs/2309.15283v1)|null|
 |**2023-09-26**|**Generating Visual Scenes from Touch**|Fengyu Yang et.al.|[2309.15117v1](http://arxiv.org/abs/2309.15117v1)|null|
 |**2023-09-27**|**InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition**|Pan Zhang et.al.|[2309.15112v2](http://arxiv.org/abs/2309.15112v2)|**[link](https://github.com/internlm/internlm-xcomposer)**|
-|**2023-09-26**|**DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation**|Zeyu Wang et.al.|[2309.15109v1](http://arxiv.org/abs/2309.15109v1)|null|
+|**2023-09-26**|**DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation**|Zeyu Wang et.al.|[2309.15109v1](http://arxiv.org/abs/2309.15109v1)|**[link](https://github.com/qcraftai/distill-bev)**|
 |**2023-09-26**|**RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation**|Zhexiong Wan et.al.|[2309.15082v1](http://arxiv.org/abs/2309.15082v1)|**[link](https://github.com/danqu130/RPEFlow)**|
 |**2023-09-26**|**Tile Classification Based Viewport Prediction with Multi-modal Fusion Transformer**|Zhihao Zhang et.al.|[2309.14704v1](http://arxiv.org/abs/2309.14704v1)|null|
 |**2023-09-26**|**ALEX: Towards Effective Graph Transfer Learning with Noisy Labels**|Jingyang Yuan et.al.|[2309.14673v1](http://arxiv.org/abs/2309.14673v1)|null|
@@ -1783,6 +1795,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**P2I-NET: Mapping Camera Pose to Image via Adversarial Learning for New View Synthesis in Real Indoor Environments**|Xujie Kang et.al.|[2309.15526v1](http://arxiv.org/abs/2309.15526v1)|null|
+|**2023-09-27**|**BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields**|Shreya Saha et.al.|[2309.15329v1](http://arxiv.org/abs/2309.15329v1)|null|
 |**2023-09-26**|**3D Density-Gradient based Edge Detection on Neural Radiance Fields (NeRFs) for Geometric Reconstruction**|Miriam Jäger et.al.|[2309.14800v1](http://arxiv.org/abs/2309.14800v1)|null|
 |**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293v1](http://arxiv.org/abs/2309.14293v1)|null|
 |**2023-09-25**|**Variational Inference for Scalable 3D Object-centric Learning**|Tianyu Wang et.al.|[2309.14010v1](http://arxiv.org/abs/2309.14010v1)|null|
