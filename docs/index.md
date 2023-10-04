@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.03
+## Updated on 2023.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -169,7 +169,7 @@ layout: default
 |**2023-09-29**|**EGVD: Event-Guided Video Deraining**|Yueyi Zhang et.al.|[2309.17239v1](http://arxiv.org/abs/2309.17239v1)|**[link](https://github.com/booker-max/egvd)**|
 |**2023-09-29**|**TextField3D: Towards Enhancing Open-Vocabulary 3D Generation with Noisy Text Fields**|Tianyu Huang et.al.|[2309.17175v1](http://arxiv.org/abs/2309.17175v1)|null|
 |**2023-09-29**|**Fine-grained Late-interaction Multi-modal Retrieval for Retrieval Augmented Visual Question Answering**|Weizhe Lin et.al.|[2309.17133v1](http://arxiv.org/abs/2309.17133v1)|null|
-|**2023-09-29**|**Prototype-guided Cross-modal Completion and Alignment for Incomplete Text-based Person Re-identification**|Tiantian Gong et.al.|[2309.17104v1](http://arxiv.org/abs/2309.17104v1)|null|
+|**2023-10-03**|**Prototype-guided Cross-modal Completion and Alignment for Incomplete Text-based Person Re-identification**|Tiantian Gong et.al.|[2309.17104v2](http://arxiv.org/abs/2309.17104v2)|null|
 |**2023-09-29**|**Guiding Instruction-based Image Editing via Multimodal Large Language Models**|Tsu-Jui Fu et.al.|[2309.17102v1](http://arxiv.org/abs/2309.17102v1)|**[link](https://github.com/tsujuifu/pytorch_mgie)**|
 |**2023-09-29**|**Prototype-based Aleatoric Uncertainty Quantification for Cross-modal Retrieval**|Hao Li et.al.|[2309.17093v1](http://arxiv.org/abs/2309.17093v1)|null|
 |**2023-09-29**|**Beyond Co-occurrence: Multi-modal Session-based Recommendation**|Xiaokun Zhang et.al.|[2309.17037v1](http://arxiv.org/abs/2309.17037v1)|**[link](https://github.com/zhang-xiaokun/mmsbr)**|
@@ -177,7 +177,7 @@ layout: default
 |**2023-09-29**|**CrossZoom: Simultaneously Motion Deblurring and Event Super-Resolving**|Chi Zhang et.al.|[2309.16949v1](http://arxiv.org/abs/2309.16949v1)|null|
 |**2023-09-28**|**Robust Safe Control with Multi-Modal Uncertainty**|Tianhao Wei et.al.|[2309.16830v1](http://arxiv.org/abs/2309.16830v1)|null|
 |**2023-09-28**|**MEM: Multi-Modal Elevation Mapping for Robotics and Learning**|Gian Erni et.al.|[2309.16818v1](http://arxiv.org/abs/2309.16818v1)|null|
-|**2023-09-28**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772v1](http://arxiv.org/abs/2309.16772v1)|null|
+|**2023-10-02**|**XVO: Generalized Visual Odometry via Cross-Modal Self-Training**|Lei Lai et.al.|[2309.16772v2](http://arxiv.org/abs/2309.16772v2)|null|
 |**2023-09-28**|**Tensor Factorization for Leveraging Cross-Modal Knowledge in Data-Constrained Infrared Object Detection**|Manish Sharma et.al.|[2309.16592v1](http://arxiv.org/abs/2309.16592v1)|null|
 |**2023-09-28**|**Audio-Visual Speaker Verification via Joint Cross-Attention**|R. Gnana Praveen et.al.|[2309.16569v1](http://arxiv.org/abs/2309.16569v1)|null|
 |**2023-09-28**|**Self-supervised Cross-view Representation Reconstruction for Change Captioning**|Yunbin Tu et.al.|[2309.16283v1](http://arxiv.org/abs/2309.16283v1)|null|
