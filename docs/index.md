@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.04
+## Updated on 2023.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -163,6 +163,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond**|Liang Chen et.al.|[2310.02071v1](http://arxiv.org/abs/2310.02071v1)|**[link](https://github.com/pkunlp-icler/pca-eval)**|
+|**2023-10-03**|**Tuning Large language model for End-to-end Speech Translation**|Hao Zhang et.al.|[2310.02050v1](http://arxiv.org/abs/2310.02050v1)|null|
+|**2023-10-04**|**LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment**|Bin Zhu et.al.|[2310.01852v2](http://arxiv.org/abs/2310.01852v2)|**[link](https://github.com/pku-yuangroup/languagebind)**|
+|**2023-10-03**|**Health Guardian: Using Multi-modal Data to Understand Individual Health**|Vince S. Siu et.al.|[2310.01733v1](http://arxiv.org/abs/2310.01733v1)|null|
+|**2023-10-02**|**NEUCORE: Neural Concept Reasoning for Composed Image Retrieval**|Shu Zhao et.al.|[2310.01358v1](http://arxiv.org/abs/2310.01358v1)|null|
+|**2023-10-02**|**Streaming Motion Forecasting for Autonomous Driving**|Ziqi Pang et.al.|[2310.01351v1](http://arxiv.org/abs/2310.01351v1)|**[link](https://github.com/ziqipang/streamingforecasting)**|
+|**2023-10-02**|**Towards reporting bias in visual-language datasets: bimodal augmentation by decoupling object-attribute association**|Qiyu Wu et.al.|[2310.01330v1](http://arxiv.org/abs/2310.01330v1)|null|
+|**2023-10-02**|**A Dynamic Macroscopic Framework for Pricing of Ride-hailing Services with an Optional Bus Lane Access for Pool Vehicles**|Lynn Fayed et.al.|[2310.01286v1](http://arxiv.org/abs/2310.01286v1)|null|
+|**2023-10-02**|**Modality-aware Transformer for Time series Forecasting**|Hajar Emami et.al.|[2310.01232v1](http://arxiv.org/abs/2310.01232v1)|null|
+|**2023-10-02**|**Learnable Cross-modal Knowledge Distillation for Multi-modal Learning with Missing Modality**|Hu Wang et.al.|[2310.01035v1](http://arxiv.org/abs/2310.01035v1)|null|
+|**2023-10-02**|**Understanding Transferable Representation Learning and Zero-shot Transfer in CLIP**|Zixiang Chen et.al.|[2310.00927v1](http://arxiv.org/abs/2310.00927v1)|null|
+|**2023-10-02**|**Shack-Hartmann wavefront sensing: A new approach to time-resolved measurement of stress intensity during dynamic fracture of small brittle specimens**|Liuchi Li et.al.|[2310.00862v1](http://arxiv.org/abs/2310.00862v1)|null|
+|**2023-10-01**|**Deterministic Langevin Unconstrained Optimization with Normalizing Flows**|James M. Sullivan et.al.|[2310.00745v1](http://arxiv.org/abs/2310.00745v1)|null|
+|**2023-10-01**|**Top-down Green-ups: Satellite Sensing and Deep Models to Predict Buffelgrass Phenology**|Lucas Rosenblatt et.al.|[2310.00740v1](http://arxiv.org/abs/2310.00740v1)|null|
+|**2023-10-01**|**GeRA: Label-Efficient Geometrically Regularized Alignment**|Dustin Klebe et.al.|[2310.00672v1](http://arxiv.org/abs/2310.00672v1)|null|
 |**2023-09-29**|**AV-CPL: Continuous Pseudo-Labeling for Audio-Visual Speech Recognition**|Andrew Rouditchenko et.al.|[2309.17395v1](http://arxiv.org/abs/2309.17395v1)|null|
 |**2023-09-29**|**See Beyond Seeing: Robust 3D Object Detection from Point Clouds via Cross-Modal Hallucination**|Jianning Deng et.al.|[2309.17336v1](http://arxiv.org/abs/2309.17336v1)|null|
 |**2023-09-29**|**A Foundation Model for General Moving Object Segmentation in Medical Images**|Zhongnuo Yan et.al.|[2309.17264v1](http://arxiv.org/abs/2309.17264v1)|null|
@@ -1743,6 +1758,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-02**|**RF-ULM: Deep Learning for Radio-Frequency Ultrasound Localization Microscopy**|Christopher Hahne et.al.|[2310.01545v1](http://arxiv.org/abs/2310.01545v1)|**[link](https://github.com/hahnec/rf-ulm)**|
 |**2023-09-08**|**Weakly Supervised Point Clouds Transformer for 3D Object Detection**|Zuojin Tang et.al.|[2309.04105v1](http://arxiv.org/abs/2309.04105v1)|null|
 |**2023-09-01**|**Robust Point Cloud Processing through Positional Embedding**|Jianqiao Zheng et.al.|[2309.00339v1](http://arxiv.org/abs/2309.00339v1)|null|
 |**2023-08-18**|**Target Clustering Based Multi-Bernoulli Filter for Superpositional Sensors**|Wang Sen et.al.|[2308.09403v1](http://arxiv.org/abs/2308.09403v1)|null|
@@ -1820,12 +1836,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881v1](http://arxiv.org/abs/2310.01881v1)|null|
+|**2023-10-03**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821v1](http://arxiv.org/abs/2310.01821v1)|null|
+|**2023-10-02**|**PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2310.00874v1](http://arxiv.org/abs/2310.00874v1)|**[link](https://github.com/biter0088/pc-nerf)**|
+|**2023-10-01**|**How Many Views Are Needed to Reconstruct an Unknown Object Using NeRF?**|Sicong Pan et.al.|[2310.00684v1](http://arxiv.org/abs/2310.00684v1)|null|
+|**2023-10-01**|**Enabling Neural Radiance Fields (NeRF) for Large-scale Aerial Images -- A Multi-tiling Approaching and the Geometry Assessment of NeRF**|Ningli Xu et.al.|[2310.00530v1](http://arxiv.org/abs/2310.00530v1)|null|
+|**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249v1](http://arxiv.org/abs/2310.00249v1)|null|
 |**2023-09-29**|**Multi-task View Synthesis with Neural Radiance Fields**|Shuhong Zheng et.al.|[2309.17450v1](http://arxiv.org/abs/2309.17450v1)|**[link](https://github.com/zsh2000/muvienerf)**|
 |**2023-09-29**|**Forward Flow for Novel View Synthesis of Dynamic Scenes**|Xiang Guo et.al.|[2309.17390v1](http://arxiv.org/abs/2309.17390v1)|null|
 |**2023-09-29**|**HAvatar: High-fidelity Head Avatar via Facial Model Conditioned Neural Radiance Field**|Xiaochen Zhao et.al.|[2309.17128v1](http://arxiv.org/abs/2309.17128v1)|null|
 |**2023-09-28**|**Preface: A Data-driven Volumetric Prior for Few-shot Ultra High-resolution Face Synthesis**|Marcel C. Bühler et.al.|[2309.16859v1](http://arxiv.org/abs/2309.16859v1)|null|
 |**2023-09-28**|**MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond**|Yixuan Li et.al.|[2309.16553v1](http://arxiv.org/abs/2309.16553v1)|null|
-|**2023-09-28**|**FG-NeRF: Flow-GAN based Probabilistic Neural Radiance Field for Independence-Assumption-Free Uncertainty Estimation**|Songlin Wei et.al.|[2309.16364v1](http://arxiv.org/abs/2309.16364v1)|null|
+|**2023-10-04**|**FG-NeRF: Flow-GAN based Probabilistic Neural Radiance Field for Independence-Assumption-Free Uncertainty Estimation**|Songlin Wei et.al.|[2309.16364v2](http://arxiv.org/abs/2309.16364v2)|null|
 |**2023-09-28**|**Learning Effective NeRFs and SDFs Representations with 3D Generative Adversarial Networks for 3D Object Generation: Technical Report for ICCV 2023 OmniObject3D Challenge**|Zheyuan Yang et.al.|[2309.16110v1](http://arxiv.org/abs/2309.16110v1)|null|
 |**2023-09-27**|**P2I-NET: Mapping Camera Pose to Image via Adversarial Learning for New View Synthesis in Real Indoor Environments**|Xujie Kang et.al.|[2309.15526v1](http://arxiv.org/abs/2309.15526v1)|null|
 |**2023-09-27**|**BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields**|Shreya Saha et.al.|[2309.15329v1](http://arxiv.org/abs/2309.15329v1)|null|
