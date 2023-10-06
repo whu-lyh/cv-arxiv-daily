@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.05
+## Updated on 2023.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -163,6 +163,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**AstroCLIP: Cross-Modal Pre-Training for Astronomical Foundation Models**|Francois Lanusse et.al.|[2310.03024v1](http://arxiv.org/abs/2310.03024v1)|null|
+|**2023-10-04**|**CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection**|Yang Cao et.al.|[2310.02960v1](http://arxiv.org/abs/2310.02960v1)|**[link](https://github.com/yangcaoai/CoDA_NeurIPS2023)**|
+|**2023-10-04**|**Improving Vision Anomaly Detection with the Guidance of Language Modality**|Dong Chen et.al.|[2310.02821v1](http://arxiv.org/abs/2310.02821v1)|null|
+|**2023-10-04**|**The Role of Linguistic Priors in Measuring Compositional Generalization of Vision-Language Models**|Chenwei Wu et.al.|[2310.02777v1](http://arxiv.org/abs/2310.02777v1)|null|
+|**2023-10-04**|**Multi-Dimension-Embedding-Aware Modality Fusion Transformer for Psychiatric Disorder Clasification**|Guoxin Wang et.al.|[2310.02690v1](http://arxiv.org/abs/2310.02690v1)|null|
+|**2023-10-04**|**MedPrompt: Cross-Modal Prompting for Multi-Task Medical Image Translation**|Xuhang Chen et.al.|[2310.02663v1](http://arxiv.org/abs/2310.02663v1)|null|
+|**2023-10-04**|**ReForm-Eval: Evaluating Large Vision Language Models via Unified Re-Formulation of Task-Oriented Benchmarks**|Zejun Li et.al.|[2310.02569v1](http://arxiv.org/abs/2310.02569v1)|null|
+|**2023-10-04**|**Integrated Sensing and Communications towards Proactive Beamforming in mmWave V2I via Multi-Modal Feature Fusion (MMFF)**|Haotian Zhang et.al.|[2310.02561v1](http://arxiv.org/abs/2310.02561v1)|null|
+|**2023-10-04**|**On the Cognition of Visual Question Answering Models and Human Intelligence: A Comparative Study**|Liben Chen et.al.|[2310.02528v1](http://arxiv.org/abs/2310.02528v1)|null|
+|**2023-10-03**|**Event-Enhanced Multi-Modal Spiking Neural Network for Dynamic Obstacle Avoidance**|Yang Wang et.al.|[2310.02361v1](http://arxiv.org/abs/2310.02361v1)|null|
 |**2023-10-03**|**Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond**|Liang Chen et.al.|[2310.02071v1](http://arxiv.org/abs/2310.02071v1)|**[link](https://github.com/pkunlp-icler/pca-eval)**|
 |**2023-10-03**|**Tuning Large language model for End-to-end Speech Translation**|Hao Zhang et.al.|[2310.02050v1](http://arxiv.org/abs/2310.02050v1)|null|
 |**2023-10-04**|**LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment**|Bin Zhu et.al.|[2310.01852v2](http://arxiv.org/abs/2310.01852v2)|**[link](https://github.com/pku-yuangroup/languagebind)**|
@@ -1836,6 +1846,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977v1](http://arxiv.org/abs/2310.02977v1)|null|
+|**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712v1](http://arxiv.org/abs/2310.02712v1)|null|
+|**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687v1](http://arxiv.org/abs/2310.02687v1)|null|
+|**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437v1](http://arxiv.org/abs/2310.02437v1)|null|
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881v1](http://arxiv.org/abs/2310.01881v1)|null|
 |**2023-10-03**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821v1](http://arxiv.org/abs/2310.01821v1)|null|
 |**2023-10-02**|**PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2310.00874v1](http://arxiv.org/abs/2310.00874v1)|**[link](https://github.com/biter0088/pc-nerf)**|
