@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.08
+## Updated on 2023.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -1864,12 +1864,12 @@ layout: default
 |**2023-10-04**|**Shielding the Unseen: Privacy Protection through Poisoning NeRF with Spatial Deformation**|Yihan Wu et.al.|[2310.03125v1](http://arxiv.org/abs/2310.03125v1)|null|
 |**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977v1](http://arxiv.org/abs/2310.02977v1)|**[link](https://github.com/THU-LYJ-Lab/T3Bench)**|
 |**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712v1](http://arxiv.org/abs/2310.02712v1)|null|
-|**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687v1](http://arxiv.org/abs/2310.02687v1)|null|
+|**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687v2](http://arxiv.org/abs/2310.02687v2)|null|
 |**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437v1](http://arxiv.org/abs/2310.02437v1)|null|
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881v1](http://arxiv.org/abs/2310.01881v1)|null|
 |**2023-10-03**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821v1](http://arxiv.org/abs/2310.01821v1)|null|
 |**2023-10-02**|**PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2310.00874v1](http://arxiv.org/abs/2310.00874v1)|**[link](https://github.com/biter0088/pc-nerf)**|
-|**2023-10-01**|**How Many Views Are Needed to Reconstruct an Unknown Object Using NeRF?**|Sicong Pan et.al.|[2310.00684v1](http://arxiv.org/abs/2310.00684v1)|null|
+|**2023-10-01**|**How Many Views Are Needed to Reconstruct an Unknown Object Using NeRF?**|Sicong Pan et.al.|[2310.00684v1](http://arxiv.org/abs/2310.00684v1)|**[link](https://github.com/psc0628/nerf-prv)**|
 |**2023-10-01**|**Enabling Neural Radiance Fields (NeRF) for Large-scale Aerial Images -- A Multi-tiling Approaching and the Geometry Assessment of NeRF**|Ningli Xu et.al.|[2310.00530v1](http://arxiv.org/abs/2310.00530v1)|null|
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249v1](http://arxiv.org/abs/2310.00249v1)|null|
 |**2023-09-29**|**Multi-task View Synthesis with Neural Radiance Fields**|Shuhong Zheng et.al.|[2309.17450v1](http://arxiv.org/abs/2309.17450v1)|**[link](https://github.com/zsh2000/muvienerf)**|
