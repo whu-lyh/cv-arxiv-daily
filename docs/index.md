@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.11
+## Updated on 2023.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249v1](http://arxiv.org/abs/2310.06249v1)|null|
 |**2023-10-05**|**Deep Geometric Learning with Monotonicity Constraints for Alzheimer's Disease Progression**|Seungwoo Jeong et.al.|[2310.03353v1](http://arxiv.org/abs/2310.03353v1)|null|
 |**2023-09-26**|**Language-EXtended Indoor SLAM (LEXIS): A Versatile System for Real-time Visual Scene Understanding**|Christina Kassab et.al.|[2309.15065v1](http://arxiv.org/abs/2309.15065v1)|null|
 |**2023-09-20**|**GNSS/Multi-Sensor Fusion Using Continuous-Time Factor Graph Optimization for Robust Localization**|Haoming Zhang et.al.|[2309.11134v1](http://arxiv.org/abs/2309.11134v1)|null|
@@ -164,6 +165,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**Blind Dates: Examining the Expression of Temporality in Historical Photographs**|Alexandra Barancová et.al.|[2310.06633v1](http://arxiv.org/abs/2310.06633v1)|null|
+|**2023-10-10**|**What If the TV Was Off? Examining Counterfactual Reasoning Abilities of Multi-modal Language Models**|Letian Zhang et.al.|[2310.06627v1](http://arxiv.org/abs/2310.06627v1)|**[link](https://github.com/letian2003/c-vqa)**|
+|**2023-10-10**|**Solution for SMART-101 Challenge of ICCV Multi-modal Algorithmic Reasoning Task 2023**|Xiangyu Wu et.al.|[2310.06440v1](http://arxiv.org/abs/2310.06440v1)|null|
+|**2023-10-10**|**Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition**|Srijith Radhakrishnan et.al.|[2310.06434v1](http://arxiv.org/abs/2310.06434v1)|**[link](https://github.com/srijith-rkr/whispering-llama)**|
+|**2023-10-10**|**What Makes for Robust Multi-Modal Models in the Face of Missing Modalities?**|Siting Li et.al.|[2310.06383v1](http://arxiv.org/abs/2310.06383v1)|null|
+|**2023-10-10**|**Multi-Modal Knowledge Graph Transformer Framework for Multi-Modal Entity Alignment**|Qian Li et.al.|[2310.06365v1](http://arxiv.org/abs/2310.06365v1)|**[link](https://github.com/xiaoqian19940510/moalign)**|
+|**2023-10-10**|**Contrastive Prompt Learning-based Code Search based on Interaction Matrix**|Yubo Zhang et.al.|[2310.06342v1](http://arxiv.org/abs/2310.06342v1)|null|
+|**2023-10-11**|**MuseChat: A Conversational Music Recommendation System for Videos**|Zhikang Dong et.al.|[2310.06282v2](http://arxiv.org/abs/2310.06282v2)|null|
+|**2023-10-10**|**Cross-modal Cognitive Consensus guided Audio-Visual Segmentation**|Zhaofeng Shi et.al.|[2310.06259v1](http://arxiv.org/abs/2310.06259v1)|null|
+|**2023-10-09**|**Comparison of deep-learning data fusion strategies in mandibular osteoradionecrosis prediction modelling using clinical variables and radiation dose distribution volumes**|Laia Humbert-Vidan et.al.|[2310.06212v1](http://arxiv.org/abs/2310.06212v1)|null|
+|**2023-10-09**|**CoBEVFusion: Cooperative Perception with LiDAR-Camera Bird's-Eye View Fusion**|Donghao Qiao et.al.|[2310.06008v1](http://arxiv.org/abs/2310.06008v1)|null|
 |**2023-10-10**|**Fine-grained Audio-Visual Joint Representations for Multimodal Large Language Models**|Guangzhi Sun et.al.|[2310.05863v2](http://arxiv.org/abs/2310.05863v2)|**[link](https://github.com/briansidp/audiovisualllm)**|
 |**2023-10-09**|**Glitter or Gold? Deriving Structured Insights from Sustainability Reports via Large Language Models**|Marco Bronzini et.al.|[2310.05628v1](http://arxiv.org/abs/2310.05628v1)|null|
 |**2023-10-09**|**FlexKnot and Gaussian Process for 21 cm global signal analysis and foreground separation**|Stefan Heimersheim et.al.|[2310.05608v1](http://arxiv.org/abs/2310.05608v1)|null|
@@ -1876,6 +1888,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field**|Minghan Qin et.al.|[2310.06275v1](http://arxiv.org/abs/2310.06275v1)|null|
 |**2023-10-09**|**A Real-time Method for Inserting Virtual Objects into Neural Radiance Fields**|Keyang Ye et.al.|[2310.05837v1](http://arxiv.org/abs/2310.05837v1)|null|
 |**2023-10-09**|**Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation**|Ruiyang Liu et.al.|[2310.05391v1](http://arxiv.org/abs/2310.05391v1)|null|
 |**2023-10-08**|**LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization**|Artem Nenashev et.al.|[2310.05134v1](http://arxiv.org/abs/2310.05134v1)|null|
