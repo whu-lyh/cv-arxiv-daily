@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.14
+## Updated on 2023.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -167,7 +167,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-12**|**UniPose: Detecting Any Keypoints**|Jie Yang et.al.|[2310.08530v1](http://arxiv.org/abs/2310.08530v1)|**[link](https://github.com/IDEA-Research/UniPose)**|
 |**2023-10-12**|**GraphextQA: A Benchmark for Evaluating Graph-Enhanced Large Language Models**|Yuanchun Shen et.al.|[2310.08487v1](http://arxiv.org/abs/2310.08487v1)|**[link](https://github.com/happen2me/cross-gnn)**|
-|**2023-10-12**|**Towards Robust Multi-Modal Reasoning via Model Selection**|Xiangyan Liu et.al.|[2310.08446v1](http://arxiv.org/abs/2310.08446v1)|**[link](https://github.com/LINs-lab/M3)**|
+|**2023-10-12**|**Towards Robust Multi-Modal Reasoning via Model Selection**|Xiangyan Liu et.al.|[2310.08446v1](http://arxiv.org/abs/2310.08446v1)|null|
 |**2023-10-12**|**Multimodal Variational Auto-encoder based Audio-Visual Segmentation**|Yuxin Mao et.al.|[2310.08303v1](http://arxiv.org/abs/2310.08303v1)|**[link](https://github.com/opennlplab/mmvae-avs)**|
 |**2023-10-12**|**How would mobility-as-a-service (MaaS) platform survive as an intermediary? From the viewpoint of stability in many-to-many matching**|Rui Yao et.al.|[2310.08285v1](http://arxiv.org/abs/2310.08285v1)|null|
 |**2023-10-12**|**Hilbert Space Embedding-based Trajectory Optimization for Multi-Modal Uncertain Obstacle Trajectory Prediction**|Basant Sharma et.al.|[2310.08270v1](http://arxiv.org/abs/2310.08270v1)|null|
@@ -176,7 +176,7 @@ layout: default
 |**2023-10-12**|**Multi-Modal Sensor Fusion and Object Tracking for Autonomous Racing**|Phillip Karle et.al.|[2310.08114v1](http://arxiv.org/abs/2310.08114v1)|null|
 |**2023-10-12**|**Radio Galaxy Zoo: tagging radio subjects using text**|Dawei Chen et.al.|[2310.08103v1](http://arxiv.org/abs/2310.08103v1)|null|
 |**2023-10-12**|**Exploring Large Language Models for Multi-Modal Out-of-Distribution Detection**|Yi Dai et.al.|[2310.08027v1](http://arxiv.org/abs/2310.08027v1)|null|
-|**2023-10-12**|**Beyond Sharing Weights in Decoupling Feature Learning Network for UAV RGB-Infrared Vehicle Re-Identification**|Xingyue Liu et.al.|[2310.08026v1](http://arxiv.org/abs/2310.08026v1)|**[link](https://github.com/moonstarL/UAV-CM-VeID)**|
+|**2023-10-12**|**Beyond Sharing Weights in Decoupling Feature Learning Network for UAV RGB-Infrared Vehicle Re-Identification**|Xingyue Liu et.al.|[2310.08026v1](http://arxiv.org/abs/2310.08026v1)|null|
 |**2023-10-12**|**Multi-View Variational Autoencoder for Missing Value Imputation in Untargeted Metabolomics**|Chen Zhao et.al.|[2310.07990v1](http://arxiv.org/abs/2310.07990v1)|null|
 |**2023-10-11**|**AutoRepo: A general framework for multi-modal LLM-based automated construction reporting**|Hongxu Pu et.al.|[2310.07944v1](http://arxiv.org/abs/2310.07944v1)|null|
 |**2023-10-11**|**Cost-Driven Hardware-Software Co-Optimization of Machine Learning Pipelines**|Ravit Sharma et.al.|[2310.07940v1](http://arxiv.org/abs/2310.07940v1)|null|
