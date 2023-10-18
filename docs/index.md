@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.17
+## Updated on 2023.10.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -165,6 +165,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**HairCLIPv2: Unifying Hair Editing via Proxy Feature Blending**|Tianyi Wei et.al.|[2310.10651v1](http://arxiv.org/abs/2310.10651v1)|**[link](https://github.com/wty-ustc/hairclipv2)**|
+|**2023-10-16**|**Style transfer between Microscopy and Magnetic Resonance Imaging via Generative Adversarial Network in small sample size settings**|Monika Pytlarz et.al.|[2310.10414v1](http://arxiv.org/abs/2310.10414v1)|null|
+|**2023-10-16**|**Camera-LiDAR Fusion with Latent Contact for Place Recognition in Challenging Cross-Scenes**|Yan Pan et.al.|[2310.10371v1](http://arxiv.org/abs/2310.10371v1)|null|
+|**2023-10-16**|**Editable-DeepSC: Cross-Modal Editable Semantic Communication Systems**|Wenbo Yu et.al.|[2310.10347v1](http://arxiv.org/abs/2310.10347v1)|null|
+|**2023-10-16**|**Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**|Dharmateja Adapa et.al.|[2310.10290v1](http://arxiv.org/abs/2310.10290v1)|null|
+|**2023-10-16**|**Few-shot Action Recognition with Captioning Foundation Models**|Xiang Wang et.al.|[2310.10125v1](http://arxiv.org/abs/2310.10125v1)|null|
+|**2023-10-16**|**Black-box Targeted Adversarial Attack on Segment Anything (SAM)**|Sheng Zheng et.al.|[2310.10010v1](http://arxiv.org/abs/2310.10010v1)|null|
+|**2023-10-15**|**CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes**|Yulei Qin et.al.|[2310.09761v1](http://arxiv.org/abs/2310.09761v1)|**[link](https://github.com/yuleiqin/capro)**|
+|**2023-10-15**|**Beyond Segmentation: Road Network Generation with Multi-Modal LLMs**|Sumedh Rasal et.al.|[2310.09755v1](http://arxiv.org/abs/2310.09755v1)|null|
+|**2023-10-15**|**Enhancing Task Performance of Learned Simplified Models via Reinforcement Learning**|Hien Bui et.al.|[2310.09714v1](http://arxiv.org/abs/2310.09714v1)|null|
+|**2023-10-15**|**Progressive Evidence Refinement for Open-domain Multimodal Retrieval Question Answering**|Shuwen Yang et.al.|[2310.09696v1](http://arxiv.org/abs/2310.09696v1)|null|
+|**2023-10-14**|**JM3D & JM3D-LLM: Elevating 3D Representation with Joint Multi-modal Cues**|Jiayi Ji et.al.|[2310.09503v1](http://arxiv.org/abs/2310.09503v1)|**[link](https://github.com/mr-neko/jm3d)**|
+|**2023-10-14**|**MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning**|Jun Chen et.al.|[2310.09478v1](http://arxiv.org/abs/2310.09478v1)|null|
+|**2023-10-13**|**PaLI-3 Vision Language Models: Smaller, Faster, Stronger**|Xi Chen et.al.|[2310.09199v1](http://arxiv.org/abs/2310.09199v1)|null|
+|**2023-10-13**|**Towards Robust UAV Tracking in GNSS-Denied Environments: A Multi-LiDAR Multi-UAV Dataset**|Iacopo Catalano et.al.|[2310.09165v1](http://arxiv.org/abs/2310.09165v1)|null|
 |**2023-10-12**|**UniPose: Detecting Any Keypoints**|Jie Yang et.al.|[2310.08530v1](http://arxiv.org/abs/2310.08530v1)|**[link](https://github.com/IDEA-Research/UniPose)**|
 |**2023-10-12**|**GraphextQA: A Benchmark for Evaluating Graph-Enhanced Large Language Models**|Yuanchun Shen et.al.|[2310.08487v1](http://arxiv.org/abs/2310.08487v1)|**[link](https://github.com/happen2me/cross-gnn)**|
 |**2023-10-12**|**Towards Robust Multi-Modal Reasoning via Model Selection**|Xiangyan Liu et.al.|[2310.08446v1](http://arxiv.org/abs/2310.08446v1)|null|
@@ -1914,6 +1929,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650v1](http://arxiv.org/abs/2310.10650v1)|**[link](https://github.com/Rubikalubi/TraM-NeRF)**|
+|**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624v1](http://arxiv.org/abs/2310.10624v1)|null|
+|**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209v1](http://arxiv.org/abs/2310.10209v1)|null|
+|**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965v1](http://arxiv.org/abs/2310.09965v1)|null|
+|**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892v1](http://arxiv.org/abs/2310.09892v1)|null|
+|**2023-10-15**|**CBARF: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses**|Hongyu Fu et.al.|[2310.09776v1](http://arxiv.org/abs/2310.09776v1)|null|
 |**2023-10-11**|**Dynamic Appearance Particle Neural Radiance Field**|Ancheng Lin et.al.|[2310.07916v1](http://arxiv.org/abs/2310.07916v1)|null|
 |**2023-10-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449v2](http://arxiv.org/abs/2310.07449v2)|null|
 |**2023-10-11**|**rpcPRF: Generalizable MPI Neural Radiance Field for Satellite Camera**|Tongtong Zhang et.al.|[2310.07179v1](http://arxiv.org/abs/2310.07179v1)|null|
