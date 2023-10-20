@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.19
+## Updated on 2023.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -166,6 +166,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-18**|**DHOT-GM: Robust Graph Matching Using A Differentiable Hierarchical Optimal Transport Framework**|Haoran Cheng et.al.|[2310.12081v1](http://arxiv.org/abs/2310.12081v1)|null|
+|**2023-10-18**|**Image Clustering with External Guidance**|Yunfan Li et.al.|[2310.11989v1](http://arxiv.org/abs/2310.11989v1)|null|
+|**2023-10-18**|**Mixture distributions for probabilistic forecasts of disease outbreaks**|Spencer Wadsworth et.al.|[2310.11939v1](http://arxiv.org/abs/2310.11939v1)|null|
+|**2023-10-18**|**Grounded and Well-rounded: A Methodological Approach to the Study of Cross-modal and Cross-lingual Grounding**|Timothee Mickus et.al.|[2310.11938v1](http://arxiv.org/abs/2310.11938v1)|null|
+|**2023-10-18**|**Multi-modal Medical Neurological Image Fusion using Wavelet Pooled Edge Preserving Autoencoder**|Manisha Das et.al.|[2310.11910v1](http://arxiv.org/abs/2310.11910v1)|null|
+|**2023-10-18**|**Separating Invisible Sounds Toward Universal Audiovisual Scene-Aware Sound Separation**|Yiyang Su et.al.|[2310.11713v1](http://arxiv.org/abs/2310.11713v1)|null|
+|**2023-10-17**|**Balance Act: Mitigating Hubness in Cross-Modal Retrieval with Query and Gallery Banks**|Yimu Wang et.al.|[2310.11612v1](http://arxiv.org/abs/2310.11612v1)|**[link](https://github.com/yimuwangcs/Better_Cross_Modal_Retrieval)**|
 |**2023-10-17**|**DialogueLLM: Context and Emotion Knowledge-Tuned LLaMA Models for Emotion Recognition in Conversations**|Yazhou Zhang et.al.|[2310.11374v1](http://arxiv.org/abs/2310.11374v1)|null|
 |**2023-10-17**|**MonoSKD: General Distillation Framework for Monocular 3D Object Detection via Spearman Correlation Coefficient**|Sen Wang et.al.|[2310.11316v1](http://arxiv.org/abs/2310.11316v1)|**[link](https://github.com/senwang98/monoskd)**|
 |**2023-10-17**|**Multi Self-supervised Pre-fine-tuned Transformer Fusion for Better Intelligent Transportation Detection**|Juwu Zheng et.al.|[2310.11307v1](http://arxiv.org/abs/2310.11307v1)|null|
@@ -1936,6 +1943,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-18**|**VQ-NeRF: Neural Reflectance Decomposition and Editing with Vector Quantization**|Hongliang Zhong et.al.|[2310.11864v1](http://arxiv.org/abs/2310.11864v1)|null|
+|**2023-10-18**|**Towards Abdominal 3-D Scene Rendering from Laparoscopy Surgical Videos using NeRFs**|Khoa Tuan Nguyen et.al.|[2310.11645v1](http://arxiv.org/abs/2310.11645v1)|null|
 |**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650v1](http://arxiv.org/abs/2310.10650v1)|**[link](https://github.com/Rubikalubi/TraM-NeRF)**|
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624v1](http://arxiv.org/abs/2310.10624v1)|null|
 |**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209v1](http://arxiv.org/abs/2310.10209v1)|null|
