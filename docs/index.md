@@ -7,18 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.20
+## Updated on 2023.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**First holistic modelling of meteoroid ablation and fragmentation: A case study of the Orionids recorded by the Canadian Automated Meteor Observatory**|Denis Vida et.al.|[2310.12776v1](http://arxiv.org/abs/2310.12776v1)|null|
 |**2023-10-16**|**Kinematical coherence between satellite galaxies and host stellar discs for MaNGA & SAMI galaxies**|Sen Wang et.al.|[2310.10723v1](http://arxiv.org/abs/2310.10723v1)|null|
 |**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249v1](http://arxiv.org/abs/2310.06249v1)|null|
 |**2023-10-05**|**Deep Geometric Learning with Monotonicity Constraints for Alzheimer's Disease Progression**|Seungwoo Jeong et.al.|[2310.03353v1](http://arxiv.org/abs/2310.03353v1)|null|
 |**2023-09-26**|**Language-EXtended Indoor SLAM (LEXIS): A Versatile System for Real-time Visual Scene Understanding**|Christina Kassab et.al.|[2309.15065v1](http://arxiv.org/abs/2309.15065v1)|null|
-|**2023-09-20**|**GNSS/Multi-Sensor Fusion Using Continuous-Time Factor Graph Optimization for Robust Localization**|Haoming Zhang et.al.|[2309.11134v1](http://arxiv.org/abs/2309.11134v1)|null|
+|**2023-09-20**|**GNSS/Multi-Sensor Fusion Using Continuous-Time Factor Graph Optimization for Robust Localization**|Haoming Zhang et.al.|[2309.11134v1](http://arxiv.org/abs/2309.11134v1)|**[link](https://github.com/rwth-irt/gnssfgo)**|
 |**2023-09-18**|**Coco-LIC: Continuous-Time Tightly-Coupled LiDAR-Inertial-Camera Odometry using Non-Uniform B-spline**|Xiaolei Lang et.al.|[2309.09808v1](http://arxiv.org/abs/2309.09808v1)|**[link](https://github.com/april-zju/coco-lic)**|
 |**2023-09-16**|**Optimal Initialization Strategies for Range-Only Trajectory Estimation**|Abhishek Goudar et.al.|[2309.09011v1](http://arxiv.org/abs/2309.09011v1)|null|
 |**2023-09-15**|**Simultaneous Trajectory Estimation and Mapping for Autonomous Underwater Proximity Operations**|Aldo Terán Espinoza et.al.|[2309.08780v1](http://arxiv.org/abs/2309.08780v1)|null|
@@ -166,6 +167,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**Frozen Transformers in Language Models Are Effective Visual Encoder Layers**|Ziqi Pang et.al.|[2310.12973v1](http://arxiv.org/abs/2310.12973v1)|**[link](https://github.com/ziqipang/lm4visualencoding)**|
+|**2023-10-19**|**MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter**|Zhiyuan Liu et.al.|[2310.12798v1](http://arxiv.org/abs/2310.12798v1)|**[link](https://github.com/acharkq/molca)**|
+|**2023-10-19**|**Denoising Heat-inspired Diffusion with Insulators for Collision Free Motion Planning**|Junwoo Chang et.al.|[2310.12609v1](http://arxiv.org/abs/2310.12609v1)|null|
+|**2023-10-19**|**Lost in Translation: When GPT-4V(ision) Can't See Eye to Eye with Text. A Vision-Language-Consistency Analysis of VLLMs and Beyond**|Xiang Zhang et.al.|[2310.12520v1](http://arxiv.org/abs/2310.12520v1)|null|
+|**2023-10-19**|**Light-enhanced van der Waals force microscopy**|Han Yu-Xiao et.al.|[2310.12518v1](http://arxiv.org/abs/2310.12518v1)|null|
+|**2023-10-18**|**LACMA: Language-Aligning Contrastive Learning with Meta-Actions for Embodied Instruction Following**|Cheng-Fu Yang et.al.|[2310.12344v1](http://arxiv.org/abs/2310.12344v1)|**[link](https://github.com/joeyy5588/lacma)**|
 |**2023-10-18**|**DHOT-GM: Robust Graph Matching Using A Differentiable Hierarchical Optimal Transport Framework**|Haoran Cheng et.al.|[2310.12081v1](http://arxiv.org/abs/2310.12081v1)|null|
 |**2023-10-18**|**Image Clustering with External Guidance**|Yunfan Li et.al.|[2310.11989v1](http://arxiv.org/abs/2310.11989v1)|null|
 |**2023-10-18**|**Mixture distributions for probabilistic forecasts of disease outbreaks**|Spencer Wadsworth et.al.|[2310.11939v1](http://arxiv.org/abs/2310.11939v1)|null|
