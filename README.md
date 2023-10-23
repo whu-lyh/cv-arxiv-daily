@@ -214,7 +214,7 @@
 |**2023-10-14**|**JM3D & JM3D-LLM: Elevating 3D Representation with Joint Multi-modal Cues**|Jiayi Ji et.al.|[2310.09503v1](http://arxiv.org/abs/2310.09503v1)|**[link](https://github.com/mr-neko/jm3d)**|
 |**2023-10-14**|**MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning**|Jun Chen et.al.|[2310.09478v1](http://arxiv.org/abs/2310.09478v1)|null|
 |**2023-10-13**|**PaLI-3 Vision Language Models: Smaller, Faster, Stronger**|Xi Chen et.al.|[2310.09199v1](http://arxiv.org/abs/2310.09199v1)|null|
-|**2023-10-13**|**Towards Robust UAV Tracking in GNSS-Denied Environments: A Multi-LiDAR Multi-UAV Dataset**|Iacopo Catalano et.al.|[2310.09165v1](http://arxiv.org/abs/2310.09165v1)|null|
+|**2023-10-13**|**Towards Robust UAV Tracking in GNSS-Denied Environments: A Multi-LiDAR Multi-UAV Dataset**|Iacopo Catalano et.al.|[2310.09165v1](http://arxiv.org/abs/2310.09165v1)|**[link](https://github.com/tiers/uav_multi_lidar_dataset)**|
 |**2023-10-12**|**UniPose: Detecting Any Keypoints**|Jie Yang et.al.|[2310.08530v1](http://arxiv.org/abs/2310.08530v1)|**[link](https://github.com/IDEA-Research/UniPose)**|
 |**2023-10-12**|**GraphextQA: A Benchmark for Evaluating Graph-Enhanced Large Language Models**|Yuanchun Shen et.al.|[2310.08487v1](http://arxiv.org/abs/2310.08487v1)|**[link](https://github.com/happen2me/cross-gnn)**|
 |**2023-10-12**|**Towards Robust Multi-Modal Reasoning via Model Selection**|Xiangyan Liu et.al.|[2310.08446v1](http://arxiv.org/abs/2310.08446v1)|null|
@@ -223,7 +223,7 @@
 |**2023-10-12**|**Hilbert Space Embedding-based Trajectory Optimization for Multi-Modal Uncertain Obstacle Trajectory Prediction**|Basant Sharma et.al.|[2310.08270v1](http://arxiv.org/abs/2310.08270v1)|null|
 |**2023-10-12**|**GraphAlign: Enhancing Accurate Feature Alignment by Graph matching for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[2310.08261v1](http://arxiv.org/abs/2310.08261v1)|null|
 |**2023-10-12**|**Ziya-VL: Bilingual Large Vision-Language Model via Multi-Task Instruction Tuning**|Junyu Lu et.al.|[2310.08166v1](http://arxiv.org/abs/2310.08166v1)|null|
-|**2023-10-12**|**Multi-Modal Sensor Fusion and Object Tracking for Autonomous Racing**|Phillip Karle et.al.|[2310.08114v1](http://arxiv.org/abs/2310.08114v1)|null|
+|**2023-10-12**|**Multi-Modal Sensor Fusion and Object Tracking for Autonomous Racing**|Phillip Karle et.al.|[2310.08114v1](http://arxiv.org/abs/2310.08114v1)|**[link](https://github.com/tumftm/fusiontracking)**|
 |**2023-10-12**|**Radio Galaxy Zoo: tagging radio subjects using text**|Dawei Chen et.al.|[2310.08103v1](http://arxiv.org/abs/2310.08103v1)|null|
 |**2023-10-12**|**Exploring Large Language Models for Multi-Modal Out-of-Distribution Detection**|Yi Dai et.al.|[2310.08027v1](http://arxiv.org/abs/2310.08027v1)|null|
 |**2023-10-12**|**Beyond Sharing Weights in Decoupling Feature Learning Network for UAV RGB-Infrared Vehicle Re-Identification**|Xingyue Liu et.al.|[2310.08026v1](http://arxiv.org/abs/2310.08026v1)|null|
@@ -286,7 +286,7 @@
 |**2023-10-04**|**The Role of Linguistic Priors in Measuring Compositional Generalization of Vision-Language Models**|Chenwei Wu et.al.|[2310.02777v1](http://arxiv.org/abs/2310.02777v1)|null|
 |**2023-10-04**|**Multi-Dimension-Embedding-Aware Modality Fusion Transformer for Psychiatric Disorder Clasification**|Guoxin Wang et.al.|[2310.02690v1](http://arxiv.org/abs/2310.02690v1)|null|
 |**2023-10-04**|**MedPrompt: Cross-Modal Prompting for Multi-Task Medical Image Translation**|Xuhang Chen et.al.|[2310.02663v1](http://arxiv.org/abs/2310.02663v1)|null|
-|**2023-10-04**|**ReForm-Eval: Evaluating Large Vision Language Models via Unified Re-Formulation of Task-Oriented Benchmarks**|Zejun Li et.al.|[2310.02569v1](http://arxiv.org/abs/2310.02569v1)|null|
+|**2023-10-04**|**ReForm-Eval: Evaluating Large Vision Language Models via Unified Re-Formulation of Task-Oriented Benchmarks**|Zejun Li et.al.|[2310.02569v1](http://arxiv.org/abs/2310.02569v1)|**[link](https://github.com/fudandisc/reform-eval)**|
 |**2023-10-04**|**Integrated Sensing and Communications towards Proactive Beamforming in mmWave V2I via Multi-Modal Feature Fusion (MMFF)**|Haotian Zhang et.al.|[2310.02561v1](http://arxiv.org/abs/2310.02561v1)|null|
 |**2023-10-04**|**On the Cognition of Visual Question Answering Models and Human Intelligence: A Comparative Study**|Liben Chen et.al.|[2310.02528v1](http://arxiv.org/abs/2310.02528v1)|null|
 |**2023-10-03**|**Event-Enhanced Multi-Modal Spiking Neural Network for Dynamic Obstacle Avoidance**|Yang Wang et.al.|[2310.02361v1](http://arxiv.org/abs/2310.02361v1)|null|
@@ -326,7 +326,7 @@
 |**2023-09-28**|**VDC: Versatile Data Cleanser for Detecting Dirty Samples via Visual-Linguistic Inconsistency**|Zihao Zhu et.al.|[2309.16211v1](http://arxiv.org/abs/2309.16211v1)|null|
 |**2023-09-28**|**Cross-Modal Transformer GAN: Brain Structural-Functional Deep Fusing Network for Alzheimer's Disease Analysis**|Qiankun Zuo et.al.|[2309.16206v1](http://arxiv.org/abs/2309.16206v1)|null|
 |**2023-09-28**|**The Cloud Strikes Back: Investigating the Decentralization of IPFS**|Leonhard Balduf et.al.|[2309.16203v1](http://arxiv.org/abs/2309.16203v1)|null|
-|**2023-09-28**|**Align before Search: Aligning Ads Image to Text for Accurate Cross-Modal Sponsored Search**|Yuanmin Tang et.al.|[2309.16141v1](http://arxiv.org/abs/2309.16141v1)|null|
+|**2023-09-28**|**Align before Search: Aligning Ads Image to Text for Accurate Cross-Modal Sponsored Search**|Yuanmin Tang et.al.|[2309.16141v1](http://arxiv.org/abs/2309.16141v1)|**[link](https://github.com/pter61/aligncmss)**|
 |**2023-09-28**|**Hierarchical Cross-Modality Knowledge Transfer with Sinkhorn Attention for CTC-based ASR**|Xugang Lu et.al.|[2309.16093v1](http://arxiv.org/abs/2309.16093v1)|null|
 |**2023-09-27**|**The Devil is in the Details: A Deep Dive into the Rabbit Hole of Data Filtering**|Haichao Yu et.al.|[2309.15954v1](http://arxiv.org/abs/2309.15954v1)|null|
 |**2023-09-27**|**Zero-Shot and Few-Shot Video Question Answering with Multi-Modal Prompts**|Deniz Engin et.al.|[2309.15915v1](http://arxiv.org/abs/2309.15915v1)|null|
@@ -355,7 +355,7 @@
 |**2023-09-25**|**DeepSpeed-VisualChat: Multi-Round Multi-Image Interleave Chat via Multi-Modal Causal Attention**|Zhewei Yao et.al.|[2309.14327v1](http://arxiv.org/abs/2309.14327v1)|**[link](https://github.com/microsoft/deepspeedexamples)**|
 |**2023-09-25**|**MUTEX: Learning Unified Policies from Multimodal Task Specifications**|Rutav Shah et.al.|[2309.14320v1](http://arxiv.org/abs/2309.14320v1)|null|
 |**2023-09-25**|**Detecting and Grounding Multi-Modal Media Manipulation and Beyond**|Rui Shao et.al.|[2309.14203v1](http://arxiv.org/abs/2309.14203v1)|**[link](https://github.com/rshaojimmy/multimodal-deepfake)**|
-|**2023-09-26**|**Species196: A One-Million Semi-supervised Dataset for Fine-grained Species Recognition**|Wei He et.al.|[2309.14183v2](http://arxiv.org/abs/2309.14183v2)|null|
+|**2023-09-26**|**Species196: A One-Million Semi-supervised Dataset for Fine-grained Species Recognition**|Wei He et.al.|[2309.14183v2](http://arxiv.org/abs/2309.14183v2)|**[link](https://github.com/Species-Dataset/species-dataset.github.io)**|
 |**2023-09-25**|**Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision**|Haoning Wu et.al.|[2309.14181v1](http://arxiv.org/abs/2309.14181v1)|**[link](https://github.com/VQAssessment/Q-Bench)**|
 |**2023-09-26**|**AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation**|Siqi Du et.al.|[2309.14065v2](http://arxiv.org/abs/2309.14065v2)|**[link](https://github.com/Fourier7754/AsymFormer)**|
 |**2023-09-26**|**NNgTL: Neural Network Guided Optimal Temporal Logic Task Planning for Mobile Robots**|Ruijia Liu et.al.|[2309.14050v2](http://arxiv.org/abs/2309.14050v2)|null|
@@ -945,7 +945,7 @@
 |**2023-06-25**|**Intelligent Multi-Modal Sensing-Communication Integration: Synesthesia of Machines**|Xiang Cheng et.al.|[2306.14143v1](http://arxiv.org/abs/2306.14143v1)|null|
 |**2023-06-25**|**M $^3$ SC: A Generic Dataset for Mixed Multi-Modal (MMM) Sensing and Communication Integration**|Xiang Cheng et.al.|[2306.14125v1](http://arxiv.org/abs/2306.14125v1)|null|
 |**2023-06-25**|**Enhancing Dynamic Image Advertising with Vision-Language Pre-training**|Zhoufutu Wen et.al.|[2306.14112v1](http://arxiv.org/abs/2306.14112v1)|null|
-|**2023-06-24**|**Learning-to-Rank Meets Language: Boosting Language-Driven Ordering Alignment for Ordinal Classification**|Rui Wang et.al.|[2306.13856v1](http://arxiv.org/abs/2306.13856v1)|null|
+|**2023-06-24**|**Learning-to-Rank Meets Language: Boosting Language-Driven Ordering Alignment for Ordinal Classification**|Rui Wang et.al.|[2306.13856v1](http://arxiv.org/abs/2306.13856v1)|**[link](https://github.com/raywang335/l2rclip)**|
 |**2023-06-27**|**Cross-Language Speech Emotion Recognition Using Multimodal Dual Attention Transformers**|Syed Aun Muhammad Zaidi et.al.|[2306.13804v2](http://arxiv.org/abs/2306.13804v2)|null|
 |**2023-06-23**|**TACOformer:Token-channel compounded Cross Attention for Multimodal Emotion Recognition**|Xinda Li et.al.|[2306.13592v1](http://arxiv.org/abs/2306.13592v1)|null|
 |**2023-06-23**|**Learning Scene Flow With Skeleton Guidance For 3D Action Recognition**|Vasileios Magoulianitis et.al.|[2306.13285v1](http://arxiv.org/abs/2306.13285v1)|null|
@@ -1110,7 +1110,7 @@
 |**2023-05-26**|**GeoVLN: Learning Geometry-Enhanced Visual Representation with Slot Attention for Vision-and-Language Navigation**|Jingyang Huo et.al.|[2305.17102v1](http://arxiv.org/abs/2305.17102v1)|**[link](https://github.com/jingyanghuo/GeoVLN)**|
 |**2023-05-26**|**BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks**|Kai Zhang et.al.|[2305.17100v1](http://arxiv.org/abs/2305.17100v1)|**[link](https://github.com/taokz/biomedgpt)**|
 |**2023-05-26**|**SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation**|Zhuoyan Luo et.al.|[2305.17011v1](http://arxiv.org/abs/2305.17011v1)|null|
-|**2023-05-29**|**NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models**|Gengze Zhou et.al.|[2305.16986v2](http://arxiv.org/abs/2305.16986v2)|null|
+|**2023-05-29**|**NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models**|Gengze Zhou et.al.|[2305.16986v2](http://arxiv.org/abs/2305.16986v2)|**[link](https://github.com/gengzezhou/navgpt)**|
 |**2023-05-26**|**S4M: Generating Radiology Reports by A Single Model for Multiple Body Parts**|Qi Chen et.al.|[2305.16685v1](http://arxiv.org/abs/2305.16685v1)|**[link](https://github.com/ytongxie/s4m)**|
 |**2023-05-26**|**LANISTR: Multimodal Learning from Structured and Unstructured Data**|Sayna Ebrahimi et.al.|[2305.16556v1](http://arxiv.org/abs/2305.16556v1)|null|
 |**2023-05-25**|**Credit Valuation Adjustment in Financial Networks**|Irena Barjašić et.al.|[2305.16434v1](http://arxiv.org/abs/2305.16434v1)|null|
@@ -1275,7 +1275,7 @@
 |**2023-05-05**|**FM-ViT: Flexible Modal Vision Transformers for Face Anti-Spoofing**|Ajian Liu et.al.|[2305.03277v1](http://arxiv.org/abs/2305.03277v1)|null|
 |**2023-05-05**|**HeteroEdge: Addressing Asymmetry in Heterogeneous Collaborative Autonomous Systems**|Mohammad Saeid Anwar et.al.|[2305.03252v1](http://arxiv.org/abs/2305.03252v1)|null|
 |**2023-05-04**|**LLM2Loss: Leveraging Language Models for Explainable Model Diagnostics**|Shervin Ardeshir et.al.|[2305.03212v1](http://arxiv.org/abs/2305.03212v1)|null|
-|**2023-05-04**|**Generating Virtual On-body Accelerometer Data from Virtual Textual Descriptions for Human Activity Recognition**|Zikang Leng et.al.|[2305.03187v1](http://arxiv.org/abs/2305.03187v1)|null|
+|**2023-05-04**|**Generating Virtual On-body Accelerometer Data from Virtual Textual Descriptions for Human Activity Recognition**|Zikang Leng et.al.|[2305.03187v1](http://arxiv.org/abs/2305.03187v1)|**[link](https://github.com/ZikangLeng/IMUGPT)**|
 |**2023-05-04**|**Piecewise Normalizing Flows**|Harry Bevins et.al.|[2305.02930v1](http://arxiv.org/abs/2305.02930v1)|**[link](https://github.com/htjb/margarine)**|
 |**2023-05-04**|**Spatial and Modal Optimal Transport for Fast Cross-Modal MRI Reconstruction**|Qi Wang et.al.|[2305.02774v1](http://arxiv.org/abs/2305.02774v1)|null|
 |**2023-05-04**|**Multi-Modality Deep Network for JPEG Artifacts Reduction**|Xuhao Jiang et.al.|[2305.02760v1](http://arxiv.org/abs/2305.02760v1)|null|
@@ -1539,7 +1539,7 @@
 |**2023-03-21**|**Multi-modal reward for visual relationships-based image captioning**|Ali Abedi et.al.|[2303.10766v2](http://arxiv.org/abs/2303.10766v2)|null|
 |**2023-03-19**|**Audio-Text Models Do Not Yet Leverage Natural Language**|Ho-Hsiang Wu et.al.|[2303.10667v1](http://arxiv.org/abs/2303.10667v1)|**[link](https://github.com/hohsiangwu/preposition-synthesis)**|
 |**2023-03-19**|**Multi-modal Facial Action Unit Detection with Large Pre-trained Models for the 5th Competition on Affective Behavior Analysis in-the-wild**|Yufeng Yin et.al.|[2303.10590v1](http://arxiv.org/abs/2303.10590v1)|null|
-|**2023-03-19**|**CLIP4MC: An RL-Friendly Vision-Language Model for Minecraft**|Ziluo Ding et.al.|[2303.10571v1](http://arxiv.org/abs/2303.10571v1)|null|
+|**2023-03-19**|**CLIP4MC: An RL-Friendly Vision-Language Model for Minecraft**|Ziluo Ding et.al.|[2303.10571v1](http://arxiv.org/abs/2303.10571v1)|**[link](https://github.com/PKU-RL/CLIP4MC)**|
 |**2023-03-18**|**Multi-Modal Continual Test-Time Adaptation for 3D Semantic Segmentation**|Haozhi Cao et.al.|[2303.10457v1](http://arxiv.org/abs/2303.10457v1)|null|
 |**2023-03-18**|**3DQD: Generalized Deep 3D Shape Prior via Part-Discretized Diffusion Process**|Yuhan Li et.al.|[2303.10406v1](http://arxiv.org/abs/2303.10406v1)|**[link](https://github.com/colorful-liyu/3dqd)**|
 |**2023-03-17**|**GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation**|Can Qin et.al.|[2303.10056v1](http://arxiv.org/abs/2303.10056v1)|**[link](https://github.com/salesforce/gluegen)**|
@@ -2045,7 +2045,7 @@
 |**2023-09-13**|**Dynamic NeRFs for Soccer Scenes**|Sacha Lewin et.al.|[2309.06802v1](http://arxiv.org/abs/2309.06802v1)|null|
 |**2023-09-12**|**Federated Learning for Large-Scale Scene Modeling with Neural Radiance Fields**|Teppei Suzuki et.al.|[2309.06030v1](http://arxiv.org/abs/2309.06030v1)|null|
 |**2023-09-11**|**PAg-NeRF: Towards fast and efficient end-to-end panoptic 3D representations for agricultural robotics**|Claus Smitt et.al.|[2309.05339v1](http://arxiv.org/abs/2309.05339v1)|null|
-|**2023-09-10**|**Text-driven Editing of 3D Scenes without Retraining**|Shuangkang Fang et.al.|[2309.04917v1](http://arxiv.org/abs/2309.04917v1)|null|
+|**2023-09-10**|**Text-driven Editing of 3D Scenes without Retraining**|Shuangkang Fang et.al.|[2309.04917v1](http://arxiv.org/abs/2309.04917v1)|**[link](https://github.com/Fangkang515/DN2N)**|
 |**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750v1](http://arxiv.org/abs/2309.04750v1)|null|
 |**2023-09-08**|**Dynamic Mesh-Aware Radiance Fields**|Yi-Ling Qiao et.al.|[2309.04581v1](http://arxiv.org/abs/2309.04581v1)|null|
 |**2023-09-08**|**DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields**|Junzhe Zhang et.al.|[2309.04410v1](http://arxiv.org/abs/2309.04410v1)|**[link](https://github.com/junzhezhang/deformtoon3d)**|
