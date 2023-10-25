@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.24
+## Updated on 2023.10.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Label Space Partition Selection for Multi-Object Tracking Using Two-Layer Partitioning**|Ji Youn Lee et.al.|[2310.14506v1](http://arxiv.org/abs/2310.14506v1)|null|
 |**2023-10-19**|**First holistic modelling of meteoroid ablation and fragmentation: A case study of the Orionids recorded by the Canadian Automated Meteor Observatory**|Denis Vida et.al.|[2310.12776v1](http://arxiv.org/abs/2310.12776v1)|null|
 |**2023-10-16**|**Kinematical coherence between satellite galaxies and host stellar discs for MaNGA & SAMI galaxies**|Sen Wang et.al.|[2310.10723v1](http://arxiv.org/abs/2310.10723v1)|null|
 |**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249v1](http://arxiv.org/abs/2310.06249v1)|null|
@@ -167,6 +168,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924v1](http://arxiv.org/abs/2310.14924v1)|**[link](https://github.com/rlsch/depth-conversions)**|
+|**2023-10-23**|**Cross-Modal Conceptualization in Bottleneck Models**|Danis Alukaev et.al.|[2310.14805v1](http://arxiv.org/abs/2310.14805v1)|**[link](https://github.com/danisalukaev/xcbs)**|
+|**2023-10-23**|**Vision-Enhanced Semantic Entity Recognition in Document Images via Visually-Asymmetric Consistency Learning**|Hao Wang et.al.|[2310.14785v1](http://arxiv.org/abs/2310.14785v1)|null|
+|**2023-10-23**|**Extended Deep Adaptive Input Normalization for Preprocessing Time Series Data for Neural Networks**|Marcus A. K. September et.al.|[2310.14720v1](http://arxiv.org/abs/2310.14720v1)|**[link](https://github.com/marcusgh/edain_paper)**|
+|**2023-10-23**|**BM2CP: Efficient Collaborative Perception with LiDAR-Camera Modalities**|Binyu Zhao et.al.|[2310.14702v1](http://arxiv.org/abs/2310.14702v1)|**[link](https://github.com/byzhaoai/bm2cp)**|
+|**2023-10-23**|**Dynamic gain and frequency comb formation in exceptional-point lasers**|Xingwei Gao et.al.|[2310.14643v1](http://arxiv.org/abs/2310.14643v1)|null|
+|**2023-10-23**|**HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models**|Fuxiao Liu et.al.|[2310.14566v1](http://arxiv.org/abs/2310.14566v1)|null|
+|**2023-10-23**|**Multimodal Graph Learning for Modeling Emerging Pandemics with Big Data**|Khanh-Tung Tran et.al.|[2310.14549v1](http://arxiv.org/abs/2310.14549v1)|**[link](https://github.com/khanhtungtran/mgl4mep)**|
+|**2023-10-22**|**Conversational Speech Recognition by Learning Audio-textual Cross-modal Contextual Representation**|Kun Wei et.al.|[2310.14278v1](http://arxiv.org/abs/2310.14278v1)|null|
+|**2023-10-22**|**Multi-stream Cell Segmentation with Low-level Cues for Multi-modality Images**|Wei Lou et.al.|[2310.14226v1](http://arxiv.org/abs/2310.14226v1)|**[link](https://github.com/lhaof/cellseg)**|
+|**2023-10-22**|**UniMAP: Universal SMILES-Graph Representation Learning**|Shikun Feng et.al.|[2310.14216v1](http://arxiv.org/abs/2310.14216v1)|**[link](https://github.com/fengshikun/unimap)**|
+|**2023-10-22**|**Visual-Attribute Prompt Learning for Progressive Mild Cognitive Impairment Prediction**|Luoyao Kang et.al.|[2310.14158v1](http://arxiv.org/abs/2310.14158v1)|**[link](https://github.com/lhaof/vapl)**|
+|**2023-10-21**|**Unsupervised Sim-to-Real Adaptation of Soft Robot Proprioception using a Dual Cross-modal Autoencoder**|Chaeree Park et.al.|[2310.14075v1](http://arxiv.org/abs/2310.14075v1)|null|
+|**2023-10-21**|**Unlock Multi-Modal Capability of Dense Retrieval via Visual Module Plugin**|Tianshuo Zhou et.al.|[2310.14037v1](http://arxiv.org/abs/2310.14037v1)|**[link](https://github.com/openmatch/marvel)**|
+|**2023-10-21**|**Computational and Systems Biology Advances to Enable for Bioagent Agnostic Signatures**|Andy Lin et.al.|[2310.13898v1](http://arxiv.org/abs/2310.13898v1)|null|
 |**2023-10-20**|**Semi-supervised multimodal coreference resolution in image narrations**|Arushi Goel et.al.|[2310.13619v1](http://arxiv.org/abs/2310.13619v1)|null|
 |**2023-10-20**|**MarineGPT: Unlocking Secrets of Ocean to the Public**|Ziqiang Zheng et.al.|[2310.13596v1](http://arxiv.org/abs/2310.13596v1)|**[link](https://github.com/hkust-vgd/marinegpt)**|
 |**2023-10-20**|**Two-Stage Triplet Loss Training with Curriculum Augmentation for Audio-Visual Retrieval**|Donghuo Zeng et.al.|[2310.13451v1](http://arxiv.org/abs/2310.13451v1)|null|
@@ -1961,6 +1977,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**CAwa-NeRF: Instant Learning of Compression-Aware NeRF Features**|Omnia Mahmoud et.al.|[2310.14695v1](http://arxiv.org/abs/2310.14695v1)|null|
+|**2023-10-23**|**VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations**|Yiying Yang et.al.|[2310.14487v1](http://arxiv.org/abs/2310.14487v1)|null|
 |**2023-10-20**|**ManifoldNeRF: View-dependent Image Feature Supervision for Few-shot Neural Radiance Fields**|Daiju Kanaoka et.al.|[2310.13670v1](http://arxiv.org/abs/2310.13670v1)|null|
 |**2023-10-20**|**Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**|Seoha Kim et.al.|[2310.13356v1](http://arxiv.org/abs/2310.13356v1)|null|
 |**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263v1](http://arxiv.org/abs/2310.13263v1)|null|
