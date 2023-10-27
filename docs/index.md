@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.26
+## Updated on 2023.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -168,6 +168,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**Kiki or Bouba? Sound Symbolism in Vision-and-Language Models**|Morris Alper et.al.|[2310.16781v1](http://arxiv.org/abs/2310.16781v1)|null|
+|**2023-10-25**|**CAD -- Contextual Multi-modal Alignment for Dynamic AVQA**|Asmar Nadeem et.al.|[2310.16754v1](http://arxiv.org/abs/2310.16754v1)|null|
+|**2023-10-25**|**The Next Evolution of Artificial Sense of Touch**|Sonja Groß et.al.|[2310.16641v1](http://arxiv.org/abs/2310.16641v1)|null|
+|**2023-10-25**|**EdgeCalib: Multi-Frame Weighted Edge Features for Automatic Targetless LiDAR-Camera Calibration**|Xingchen Li et.al.|[2310.16629v1](http://arxiv.org/abs/2310.16629v1)|null|
+|**2023-10-25**|**$\mathbb{VD}$-$\mathbb{GR}$: Boosting $\mathbb{V}$isual $\mathbb{D}$ialog with Cascaded Spatial-Temporal Multi-Modal $\mathbb{GR}$ aphs**|Adnen Abdessaied et.al.|[2310.16590v1](http://arxiv.org/abs/2310.16590v1)|null|
+|**2023-10-25**|**Show from Tell: Audio-Visual Modelling in Clinical Settings**|Jianbo Jiao et.al.|[2310.16477v1](http://arxiv.org/abs/2310.16477v1)|null|
+|**2023-10-25**|**Video Referring Expression Comprehension via Transformer with Content-conditioned Query**|Ji Jiang et.al.|[2310.16402v1](http://arxiv.org/abs/2310.16402v1)|null|
+|**2023-10-25**|**A model for multi-attack classification to improve intrusion detection performance using deep learning approaches**|Arun Kumar Silivery et.al.|[2310.16380v1](http://arxiv.org/abs/2310.16380v1)|null|
+|**2023-10-25**|**A Multi-Modal Multilingual Benchmark for Document Image Classification**|Yoshinari Fujinuma et.al.|[2310.16356v1](http://arxiv.org/abs/2310.16356v1)|null|
+|**2023-10-25**|**Deep Learning for Plant Identification and Disease Classification from Leaf Images: Multi-prediction Approaches**|Jianping Yao et.al.|[2310.16273v1](http://arxiv.org/abs/2310.16273v1)|**[link](https://github.com/funzi-son/plant_pathology_dl)**|
 |**2023-10-24**|**AdaptiX -- A Transitional XR Framework for Development and Evaluation of Shared Control Applications in Assistive Robotics**|Max Pascher et.al.|[2310.15887v1](http://arxiv.org/abs/2310.15887v1)|**[link](https://github.com/maxpascher/AdaptiX)**|
 |**2023-10-24**|**Recent Advances in Multi-modal 3D Scene Understanding: A Comprehensive Survey and Evaluation**|Yinjie Lei et.al.|[2310.15676v1](http://arxiv.org/abs/2310.15676v1)|null|
 |**2023-10-24**|**Leveraging Vision-Centric Multi-Modal Expertise for 3D Object Detection**|Linyan Huang et.al.|[2310.15670v1](http://arxiv.org/abs/2310.15670v1)|**[link](https://github.com/opendrivelab/birds-eye-view-perception)**|
@@ -1987,6 +1997,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832v1](http://arxiv.org/abs/2310.16832v1)|**[link](https://github.com/lightspeed-r2l/lightspeed)**|
+|**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831v1](http://arxiv.org/abs/2310.16831v1)|null|
+|**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang et.al.|[2310.16383v1](http://arxiv.org/abs/2310.16383v1)|null|
+|**2023-10-25**|**UAV-Sim: NeRF-based Synthetic Data Generation for UAV-based Perception**|Christopher Maxey et.al.|[2310.16255v1](http://arxiv.org/abs/2310.16255v1)|null|
 |**2023-10-24**|**Cross-view Self-localization from Synthesized Scene-graphs**|Ryogo Yamamoto et.al.|[2310.15504v1](http://arxiv.org/abs/2310.15504v1)|null|
 |**2023-10-23**|**CAwa-NeRF: Instant Learning of Compression-Aware NeRF Features**|Omnia Mahmoud et.al.|[2310.14695v1](http://arxiv.org/abs/2310.14695v1)|null|
 |**2023-10-23**|**VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations**|Yiying Yang et.al.|[2310.14487v1](http://arxiv.org/abs/2310.14487v1)|null|
