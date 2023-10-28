@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.27
+## Updated on 2023.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -168,6 +168,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models**|Tsun-Hsuan Wang et.al.|[2310.17642v1](http://arxiv.org/abs/2310.17642v1)|null|
+|**2023-10-26**|**Navigating to Success in Multi-Modal Human-Robot Collaboration: Analysis and Corpus Release**|Stephanie M. Lukin et.al.|[2310.17568v1](http://arxiv.org/abs/2310.17568v1)|null|
+|**2023-10-26**|**EqDrive: Efficient Equivariant Motion Forecasting with Multi-Modality for Autonomous Driving**|Yuping Wang et.al.|[2310.17540v1](http://arxiv.org/abs/2310.17540v1)|null|
+|**2023-10-26**|**Cross-modal Active Complementary Learning with Self-refining Correspondence**|Yang Qin et.al.|[2310.17468v1](http://arxiv.org/abs/2310.17468v1)|**[link](https://github.com/qinyang79/crcl)**|
+|**2023-10-26**|**IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting**|Tim J. Schoonbeek et.al.|[2310.17323v1](http://arxiv.org/abs/2310.17323v1)|**[link](https://github.com/timschoonbeek/industreal)**|
+|**2023-10-26**|**Incorporating Probing Signals into Multimodal Machine Translation via Visual Question-Answering Pairs**|Yuxin Zuo et.al.|[2310.17133v1](http://arxiv.org/abs/2310.17133v1)|**[link](https://github.com/libeineu/mmt-vqa)**|
+|**2023-10-25**|**netFound: Foundation Model for Network Security**|Satyandra Guthula et.al.|[2310.17025v1](http://arxiv.org/abs/2310.17025v1)|null|
+|**2023-10-25**|**MimicTouch: Learning Human's Control Strategy with Multi-Modal Tactile Feedback**|Kelin Yu et.al.|[2310.16917v1](http://arxiv.org/abs/2310.16917v1)|null|
 |**2023-10-25**|**Kiki or Bouba? Sound Symbolism in Vision-and-Language Models**|Morris Alper et.al.|[2310.16781v1](http://arxiv.org/abs/2310.16781v1)|null|
 |**2023-10-25**|**CAD -- Contextual Multi-modal Alignment for Dynamic AVQA**|Asmar Nadeem et.al.|[2310.16754v1](http://arxiv.org/abs/2310.16754v1)|null|
 |**2023-10-25**|**The Next Evolution of Artificial Sense of Touch**|Sonja Groß et.al.|[2310.16641v1](http://arxiv.org/abs/2310.16641v1)|null|
@@ -1918,6 +1926,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**General Point Model with Autoencoding and Autoregressive**|Zhe Li et.al.|[2310.16861v1](http://arxiv.org/abs/2310.16861v1)|null|
 |**2023-10-09**|**Lie symmetries for the cosmological field equations in brane-world gravity with bulk scalar field**|Andronikos Paliathanasis et.al.|[2310.05780v1](http://arxiv.org/abs/2310.05780v1)|null|
 |**2023-10-02**|**RF-ULM: Deep Learning for Radio-Frequency Ultrasound Localization Microscopy**|Christopher Hahne et.al.|[2310.01545v1](http://arxiv.org/abs/2310.01545v1)|**[link](https://github.com/hahnec/rf-ulm)**|
 |**2023-09-08**|**Weakly Supervised Point Clouds Transformer for 3D Object Detection**|Zuojin Tang et.al.|[2309.04105v1](http://arxiv.org/abs/2309.04105v1)|null|
@@ -1997,8 +2006,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075v1](http://arxiv.org/abs/2310.17075v1)|null|
+|**2023-10-25**|**4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via 4D Semantic Segmentation**|Dadong Jiang et.al.|[2310.16858v1](http://arxiv.org/abs/2310.16858v1)|null|
 |**2023-10-25**|**LightSpeed: Light and Fast Neural Light Fields on Mobile Devices**|Aarush Gupta et.al.|[2310.16832v1](http://arxiv.org/abs/2310.16832v1)|**[link](https://github.com/lightspeed-r2l/lightspeed)**|
-|**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831v1](http://arxiv.org/abs/2310.16831v1)|null|
+|**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831v1](http://arxiv.org/abs/2310.16831v1)|**[link](https://github.com/perf-project/PeRF)**|
 |**2023-10-25**|**Open-NeRF: Towards Open Vocabulary NeRF Decomposition**|Hao Zhang et.al.|[2310.16383v1](http://arxiv.org/abs/2310.16383v1)|null|
 |**2023-10-25**|**UAV-Sim: NeRF-based Synthetic Data Generation for UAV-based Perception**|Christopher Maxey et.al.|[2310.16255v1](http://arxiv.org/abs/2310.16255v1)|null|
 |**2023-10-24**|**Cross-view Self-localization from Synthesized Scene-graphs**|Ryogo Yamamoto et.al.|[2310.15504v1](http://arxiv.org/abs/2310.15504v1)|null|
