@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.01
+## Updated on 2023.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -168,6 +168,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Predictive Control for Autonomous Driving with Uncertain, Multi-modal Predictions**|Siddharth H. Nair et.al.|[2310.20561v1](http://arxiv.org/abs/2310.20561v1)|null|
+|**2023-10-31**|**LAVSS: Location-Guided Audio-Visual Spatial Audio Separation**|Yuxin Ye et.al.|[2310.20446v1](http://arxiv.org/abs/2310.20446v1)|null|
+|**2023-11-01**|**Enhancing the Spatial Awareness Capability of Multi-Modal Large Language Model**|Yongqiang Zhao et.al.|[2310.20357v2](http://arxiv.org/abs/2310.20357v2)|null|
+|**2023-10-31**|**Large Multi-modal Encoders for Recommendation**|Zixuan Yi et.al.|[2310.20343v1](http://arxiv.org/abs/2310.20343v1)|null|
+|**2023-10-30**|**GOPlan: Goal-conditioned Offline Reinforcement Learning by Planning with Learned Models**|Mianchu Wang et.al.|[2310.20025v1](http://arxiv.org/abs/2310.20025v1)|null|
+|**2023-10-30**|**SimMMDG: A Simple and Effective Framework for Multi-modal Domain Generalization**|Hao Dong et.al.|[2310.19795v1](http://arxiv.org/abs/2310.19795v1)|**[link](https://github.com/donghao51/simmmdg)**|
+|**2023-10-30**|**Tell Me What Is Good About This Property: Leveraging Reviews For Segment-Personalized Image Collection Summarization**|Monika Wysoczanska et.al.|[2310.19743v1](http://arxiv.org/abs/2310.19743v1)|null|
+|**2023-10-30**|**MCAD: Multi-teacher Cross-modal Alignment Distillation for efficient image-text retrieval**|Youbo Lei et.al.|[2310.19654v1](http://arxiv.org/abs/2310.19654v1)|null|
+|**2023-10-30**|**Bidirectional Captioning for Clinically Accurate and Interpretable Models**|Keegan Quigley et.al.|[2310.19635v1](http://arxiv.org/abs/2310.19635v1)|null|
+|**2023-10-30**|**On Feynman--Kac training of partial Bayesian neural networks**|Zheng Zhao et.al.|[2310.19608v1](http://arxiv.org/abs/2310.19608v1)|null|
+|**2023-10-30**|**Disentangled Counterfactual Learning for Physical Audiovisual Commonsense Reasoning**|Changsheng Lv et.al.|[2310.19559v1](http://arxiv.org/abs/2310.19559v1)|null|
+|**2023-10-30**|**Harvest Video Foundation Models via Efficient Post-Pretraining**|Yizhuo Li et.al.|[2310.19554v1](http://arxiv.org/abs/2310.19554v1)|**[link](https://github.com/opengvlab/internvideo)**|
+|**2023-10-30**|**Explaining the Decisions of Deep Policy Networks for Robotic Manipulations**|Seongun Kim et.al.|[2310.19432v1](http://arxiv.org/abs/2310.19432v1)|null|
+|**2023-10-30**|**Sound of Story: Multi-modal Storytelling with Audio**|Jaeyeon Bae et.al.|[2310.19264v1](http://arxiv.org/abs/2310.19264v1)|null|
 |**2023-10-29**|**BirdSAT: Cross-View Contrastive Masked Autoencoders for Bird Species Classification and Mapping**|Srikumar Sastry et.al.|[2310.19168v1](http://arxiv.org/abs/2310.19168v1)|**[link](https://github.com/mvrl/birdsat)**|
 |**2023-10-29**|**Myriad: Large Multimodal Model by Applying Vision Experts for Industrial Anomaly Detection**|Yuanze Li et.al.|[2310.19070v1](http://arxiv.org/abs/2310.19070v1)|null|
 |**2023-10-29**|**A multi-modal table tennis robot system**|Andreas Ziegler et.al.|[2310.19062v1](http://arxiv.org/abs/2310.19062v1)|null|
@@ -1813,7 +1827,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-18**|**DynaPix SLAM: A Pixel-Based Dynamic SLAM Approach**|Chenghao Xu et.al.|[2309.09879v1](http://arxiv.org/abs/2309.09879v1)|null|
-|**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914v1](http://arxiv.org/abs/2309.08914v1)|null|
+|**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914v1](http://arxiv.org/abs/2309.08914v1)|**[link](https://github.com/pamphlett/outram)**|
 |**2023-09-13**|**RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline**|Mirko Usuelli et.al.|[2309.07094v1](http://arxiv.org/abs/2309.07094v1)|null|
 |**2023-09-05**|**Magnetic Navigation using Attitude-Invariant Magnetic Field Information for Loop Closure Detection**|Natalia Pavlasek et.al.|[2309.02394v1](http://arxiv.org/abs/2309.02394v1)|null|
 |**2023-07-18**|**3D-SeqMOS: A Novel Sequential 3D Moving Object Segmentation in Autonomous Driving**|Qipeng Li et.al.|[2307.09044v1](http://arxiv.org/abs/2307.09044v1)|null|
@@ -1946,6 +1960,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-22**|**Exact FLRW cosmological solutions via invariants of the symmetry groups**|E. Ahmadi Azar et.al.|[2310.19772v1](http://arxiv.org/abs/2310.19772v1)|null|
 |**2023-10-25**|**General Point Model with Autoencoding and Autoregressive**|Zhe Li et.al.|[2310.16861v1](http://arxiv.org/abs/2310.16861v1)|null|
 |**2023-10-09**|**Lie symmetries for the cosmological field equations in brane-world gravity with bulk scalar field**|Andronikos Paliathanasis et.al.|[2310.05780v1](http://arxiv.org/abs/2310.05780v1)|null|
 |**2023-10-02**|**RF-ULM: Deep Learning for Radio-Frequency Ultrasound Localization Microscopy**|Christopher Hahne et.al.|[2310.01545v1](http://arxiv.org/abs/2310.01545v1)|**[link](https://github.com/hahnec/rf-ulm)**|
@@ -1957,7 +1972,7 @@ layout: default
 |**2023-07-18**|**Quark/Gluon Discrimination and Top Tagging with Dual Attention Transformer**|Minxuan He et.al.|[2307.04723v2](http://arxiv.org/abs/2307.04723v2)|null|
 |**2023-06-21**|**Sigma-point Kalman Filter with Nonlinear Unknown Input Estimation via Optimization and Data-driven Approach for Dynamic Systems**|Junn Yong Loo et.al.|[2306.12361v1](http://arxiv.org/abs/2306.12361v1)|null|
 |**2023-06-23**|**ExpPoint-MAE: Better interpretability and performance for self-supervised point cloud transformers**|Ioannis Romanelis et.al.|[2306.10798v2](http://arxiv.org/abs/2306.10798v2)|**[link](https://github.com/vvrpanda/exppoint-mae)**|
-|**2023-10-31**|**Simplifying and Empowering Transformers for Large-Graph Representations**|Qitian Wu et.al.|[2306.10759v3](http://arxiv.org/abs/2306.10759v3)|null|
+|**2023-10-31**|**Simplifying and Empowering Transformers for Large-Graph Representations**|Qitian Wu et.al.|[2306.10759v3](http://arxiv.org/abs/2306.10759v3)|**[link](https://github.com/qitianwu/sgformer)**|
 |**2023-05-08**|**OctFormer: Octree-based Transformers for 3D Point Clouds**|Peng-Shuai Wang et.al.|[2305.03045v2](http://arxiv.org/abs/2305.03045v2)|**[link](https://github.com/octree-nn/octformer)**|
 |**2023-05-04**|**Point Transformer For Coronary Artery Labeling**|Xu Wang et.al.|[2305.02533v1](http://arxiv.org/abs/2305.02533v1)|null|
 |**2023-05-01**|**Point Cloud Semantic Segmentation**|Ivan Martinović et.al.|[2305.00773v1](http://arxiv.org/abs/2305.00773v1)|null|
@@ -2026,6 +2041,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710v1](http://arxiv.org/abs/2310.20710v1)|null|
+|**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685v1](http://arxiv.org/abs/2310.20685v1)|null|
+|**2023-10-30**|**Generative Neural Fields by Mixtures of Neural Implicit Functions**|Tackgeun You et.al.|[2310.19464v1](http://arxiv.org/abs/2310.19464v1)|null|
 |**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917v1](http://arxiv.org/abs/2310.18917v1)|null|
 |**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846v1](http://arxiv.org/abs/2310.18846v1)|null|
 |**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994v1](http://arxiv.org/abs/2310.17994v1)|null|
