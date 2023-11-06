@@ -211,7 +211,7 @@ layout: default
 |**2023-10-27**|**Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare**|Junling Liu et.al.|[2310.17956v1](http://arxiv.org/abs/2310.17956v1)|**[link](https://github.com/williamliujl/qilin-med-vl)**|
 |**2023-10-27**|**A barycenter-based approach for the multi-model ensembling of subseasonal forecasts**|Camille Le Coz et.al.|[2310.17933v1](http://arxiv.org/abs/2310.17933v1)|null|
 |**2023-10-27**|**Function Space Bayesian Pseudocoreset for Bayesian Neural Networks**|Balhae Kim et.al.|[2310.17852v1](http://arxiv.org/abs/2310.17852v1)|null|
-|**2023-10-26**|**ControlLLM: Augment Language Models with Tools by Searching on Graphs**|Zhaoyang Liu et.al.|[2310.17796v1](http://arxiv.org/abs/2310.17796v1)|null|
+|**2023-10-26**|**ControlLLM: Augment Language Models with Tools by Searching on Graphs**|Zhaoyang Liu et.al.|[2310.17796v1](http://arxiv.org/abs/2310.17796v1)|**[link](https://github.com/opengvlab/controlllm)**|
 |**2023-10-26**|**GROOViST: A Metric for Grounding Objects in Visual Storytelling**|Aditya K Surikuchi et.al.|[2310.17770v1](http://arxiv.org/abs/2310.17770v1)|**[link](https://github.com/akskuchi/groovist)**|
 |**2023-10-26**|**ArchBERT: Bi-Modal Understanding of Neural Architectures and Natural Languages**|Mohammad Akbari et.al.|[2310.17737v1](http://arxiv.org/abs/2310.17737v1)|null|
 |**2023-10-26**|**Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models**|Tsun-Hsuan Wang et.al.|[2310.17642v1](http://arxiv.org/abs/2310.17642v1)|null|
@@ -239,7 +239,7 @@ layout: default
 |**2023-10-24**|**Multimodal Representations for Teacher-Guided Compositional Visual Reasoning**|Wafa Aissa et.al.|[2310.15585v1](http://arxiv.org/abs/2310.15585v1)|null|
 |**2023-10-24**|**I $^2$ MD: 3D Action Representation Learning with Inter- and Intra-modal Mutual Distillation**|Yunyao Mao et.al.|[2310.15568v1](http://arxiv.org/abs/2310.15568v1)|null|
 |**2023-10-24**|**Salient Object Detection in RGB-D Videos**|Ao Mou et.al.|[2310.15482v1](http://arxiv.org/abs/2310.15482v1)|**[link](https://github.com/kerenfu/rdvs)**|
-|**2023-10-23**|**LXMERT Model Compression for Visual Question Answering**|Maryam Hashemi et.al.|[2310.15325v1](http://arxiv.org/abs/2310.15325v1)|null|
+|**2023-10-23**|**LXMERT Model Compression for Visual Question Answering**|Maryam Hashemi et.al.|[2310.15325v1](http://arxiv.org/abs/2310.15325v1)|**[link](https://github.com/ghazaleh-mahmoodi/lxmert_compression)**|
 |**2023-10-23**|**ADMarker: A Multi-Modal Federated Learning System for Monitoring Digital Biomarkers of Alzheimer's Disease**|Xiaomin Ouyang et.al.|[2310.15301v1](http://arxiv.org/abs/2310.15301v1)|null|
 |**2023-10-23**|**UncertaintyPlayground: A Fast and Simplified Python Library for Uncertainty Estimation**|Ilia Azizi et.al.|[2310.15281v1](http://arxiv.org/abs/2310.15281v1)|**[link](https://github.com/Unco3892/UncertaintyPlayground)**|
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924v1](http://arxiv.org/abs/2310.14924v1)|**[link](https://github.com/rlsch/depth-conversions)**|
@@ -703,7 +703,7 @@ layout: default
 |**2023-08-18**|**RLIPv2: Fast Scaling of Relational Language-Image Pre-training**|Hangjie Yuan et.al.|[2308.09351v1](http://arxiv.org/abs/2308.09351v1)|**[link](https://github.com/jacobyuan7/rlipv2)**|
 |**2023-08-18**|**Audio-Visual Glance Network for Efficient Video Recognition**|Muhammad Adi Nugroho et.al.|[2308.09322v1](http://arxiv.org/abs/2308.09322v1)|null|
 |**2023-08-18**|**DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability**|Runhui Huang et.al.|[2308.09306v1](http://arxiv.org/abs/2308.09306v1)|null|
-|**2023-08-21**|**V2A-Mapper: A Lightweight Solution for Vision-to-Audio Generation by Connecting Foundation Models**|Heng Wang et.al.|[2308.09300v2](http://arxiv.org/abs/2308.09300v2)|null|
+|**2023-08-21**|**V2A-Mapper: A Lightweight Solution for Vision-to-Audio Generation by Connecting Foundation Models**|Heng Wang et.al.|[2308.09300v2](http://arxiv.org/abs/2308.09300v2)|**[link](https://github.com/heng-hw/V2A-Mapper)**|
 |**2023-08-18**|**Deep Boosting Multi-Modal Ensemble Face Recognition with Sample-Level Weighting**|Sahar Rahimi Malakshan et.al.|[2308.09234v1](http://arxiv.org/abs/2308.09234v1)|null|
 |**2023-08-17**|**Versatile Multi-Contact Planning and Control for Legged Loco-Manipulation**|Jean-Pierre Sleiman et.al.|[2308.09179v1](http://arxiv.org/abs/2308.09179v1)|null|
 |**2023-08-17**|**Point-aware Interaction and CNN-induced Refinement Network for RGB-D Salient Object Detection**|Runmin Cong et.al.|[2308.08930v1](http://arxiv.org/abs/2308.08930v1)|**[link](https://github.com/rmcong/picr-net_acmmm23)**|
@@ -1168,7 +1168,7 @@ layout: default
 |**2023-06-01**|**Dense and Aligned Captions (DAC) Promote Compositional Reasoning in VL Models**|Sivan Doveh et.al.|[2305.19595v2](http://arxiv.org/abs/2305.19595v2)|null|
 |**2023-06-01**|**PromptStyle: Controllable Style Transfer for Text-to-Speech with Natural Language Descriptions**|Guanghou Liu et.al.|[2305.19522v2](http://arxiv.org/abs/2305.19522v2)|null|
 |**2023-05-30**|**Learning without Forgetting for Vision-Language Models**|Da-Wei Zhou et.al.|[2305.19270v1](http://arxiv.org/abs/2305.19270v1)|null|
-|**2023-05-30**|**NetHack is Hard to Hack**|Ulyana Piterbarg et.al.|[2305.19240v1](http://arxiv.org/abs/2305.19240v1)|null|
+|**2023-05-30**|**NetHack is Hard to Hack**|Ulyana Piterbarg et.al.|[2305.19240v1](http://arxiv.org/abs/2305.19240v1)|**[link](https://github.com/upiterbarg/hihack)**|
 |**2023-05-30**|**Unsupervised Melody-to-Lyric Generation**|Yufei Tian et.al.|[2305.19228v1](http://arxiv.org/abs/2305.19228v1)|**[link](https://github.com/amazon-science/unsupervised-melody-to-lyrics-generation)**|
 |**2023-05-30**|**Translation-Enhanced Multilingual Text-to-Image Generation**|Yaoyiran Li et.al.|[2305.19216v1](http://arxiv.org/abs/2305.19216v1)|null|
 |**2023-05-30**|**Multi-modal Queried Object Detection in the Wild**|Yifan Xu et.al.|[2305.18980v1](http://arxiv.org/abs/2305.18980v1)|**[link](https://github.com/yifanxu74/mq-det)**|
