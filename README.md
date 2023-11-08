@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.07
+## Updated on 2023.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -113,12 +113,13 @@
 |**2022-11-23**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v2](http://arxiv.org/abs/2210.01320v2)|null|
 |**2023-02-22**|**GANet: Goal Area Network for Motion Forecasting**|Mingkun Wang et.al.|[2209.09723v3](http://arxiv.org/abs/2209.09723v3)|**[link](https://github.com/kingwmk/ganet)**|
 
-<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231108>back to top</a>)</p>
 
 ## Map fusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-06**|**Enabling In-Situ Resources Utilisation by leveraging collaborative robotics and astronaut-robot interaction**|Silvia Romero-Azpitarte et.al.|[2311.03146v1](http://arxiv.org/abs/2311.03146v1)|null|
 |**2023-08-17**|**V-FUSE: Volumetric Depth Map Fusion with Long-Range Constraints**|Nathaniel Burgdorfer et.al.|[2308.08715v1](http://arxiv.org/abs/2308.08715v1)|**[link](https://github.com/nburgdorfer/v-fuse)**|
 |**2023-08-04**|**Group- $k$ consistent measurement set maximization via maximum clique over k-Uniform hypergraphs for robust multi-robot map merging**|Brendon Forsgren et.al.|[2308.02674v1](http://arxiv.org/abs/2308.02674v1)|**[link](https://bitbucket.org/jmangelson/gkcm)**|
 |**2023-07-14**|**Multi-Session, Localization-oriented and Lightweight LiDAR Mapping Using Semantic Lines and Planes**|Zehuan Yu et.al.|[2307.07126v1](http://arxiv.org/abs/2307.07126v1)|null|
@@ -176,12 +177,27 @@
 |**2019-03-14**|**AgriColMap: Aerial-Ground Collaborative 3D Mapping for Precision Farming**|Ciro Potena et.al.|[1810.00457v2](http://arxiv.org/abs/1810.00457v2)|null|
 |**2019-03-05**|**Efficient Constellation-Based Map-Merging for Semantic SLAM**|Kristoffer M. Frey et.al.|[1809.09646v2](http://arxiv.org/abs/1809.09646v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231108>back to top</a>)</p>
 
 ## MultiModality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-06**|**On Asynchrony, Memory, and Communication: Separations and Landscapes**|Paola Flocchini et.al.|[2311.03328v1](http://arxiv.org/abs/2311.03328v1)|null|
+|**2023-11-06**|**Leveraging Transformers to Improve Breast Cancer Classification and Risk Assessment with Multi-modal and Longitudinal Data**|Yiqiu Shen et.al.|[2311.03217v1](http://arxiv.org/abs/2311.03217v1)|null|
+|**2023-11-06**|**Unified Multi-modal Unsupervised Representation Learning for Skeleton-based Action Understanding**|Shengkai Sun et.al.|[2311.03106v1](http://arxiv.org/abs/2311.03106v1)|**[link](https://github.com/huiguanlab/umurl)**|
+|**2023-11-06**|**A multi-modal approach to continuous material identification through tactile sensing**|Augusto Gómez Eguíluz et.al.|[2311.03090v1](http://arxiv.org/abs/2311.03090v1)|null|
+|**2023-11-06**|**CogVLM: Visual Expert for Pretrained Language Models**|Weihan Wang et.al.|[2311.03079v1](http://arxiv.org/abs/2311.03079v1)|**[link](https://github.com/thudm/cogvlm)**|
+|**2023-11-06**|**Temporal Shift -- Multi-Objective Loss Function for Improved Anomaly Fall Detection**|Stefan Denkovski et.al.|[2311.02863v1](http://arxiv.org/abs/2311.02863v1)|null|
+|**2023-11-06**|**IR-STP: Enhancing Autonomous Driving with Interaction Reasoning in Spatio-Temporal Planning**|Yingbing Chen et.al.|[2311.02850v1](http://arxiv.org/abs/2311.02850v1)|null|
+|**2023-11-06**|**An invariant feature extraction for multi-modal images matching**|Chenzhong Gao et.al.|[2311.02842v1](http://arxiv.org/abs/2311.02842v1)|null|
+|**2023-11-06**|**Mesh Neural Cellular Automata**|Ehsan Pajouheshgar et.al.|[2311.02820v1](http://arxiv.org/abs/2311.02820v1)|null|
+|**2023-11-05**|**Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead**|Yunkang Cao et.al.|[2311.02782v1](http://arxiv.org/abs/2311.02782v1)|null|
+|**2023-11-05**|**AV-Lip-Sync+: Leveraging AV-HuBERT to Exploit Multimodal Inconsistency for Video Deepfake Detection**|Sahibzada Adil Shahzad et.al.|[2311.02733v1](http://arxiv.org/abs/2311.02733v1)|null|
+|**2023-11-05**|**Rotation Invariant Transformer for Recognizing Object in UAVs**|Shuoyi Chen et.al.|[2311.02559v1](http://arxiv.org/abs/2311.02559v1)|null|
+|**2023-11-04**|**Complex Organ Mask Guided Radiology Report Generation**|Gu Tiancheng et.al.|[2311.02329v1](http://arxiv.org/abs/2311.02329v1)|null|
+|**2023-11-04**|**Contrastive Multi-Modal Representation Learning for Spark Plug Fault Diagnosis**|Ardavan Modarres et.al.|[2311.02282v1](http://arxiv.org/abs/2311.02282v1)|null|
+|**2023-11-03**|**COSMIC: Data Efficient Instruction-tuning For Speech In-Context Learning**|Jing Pan et.al.|[2311.02248v1](http://arxiv.org/abs/2311.02248v1)|null|
 |**2023-11-03**|**LLM-driven Multimodal Target Volume Contouring in Radiation Oncology**|Yujin Oh et.al.|[2311.01908v1](http://arxiv.org/abs/2311.01908v1)|null|
 |**2023-11-03**|**Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion**|Xilai Li et.al.|[2311.01886v1](http://arxiv.org/abs/2311.01886v1)|null|
 |**2023-11-03**|**Quantitative Evaluation of a Multi-Modal Camera Setup for Fusing Event Data with RGB Images**|Julian Moosmann et.al.|[2311.01881v1](http://arxiv.org/abs/2311.01881v1)|null|
@@ -1844,7 +1860,7 @@
 |**2023-02-13**|**CLIP-RR: Improved CLIP Network for Relation-Focused Cross-Modal Information Retrieval**|Yan Gong et.al.|[2302.06350v1](http://arxiv.org/abs/2302.06350v1)|null|
 |**2023-02-13**|**CoMAE: Single Model Hybrid Pre-training on Small-Scale RGB-D Datasets**|Jiange Yang et.al.|[2302.06148v1](http://arxiv.org/abs/2302.06148v1)|**[link](https://github.com/mcg-nju/comae)**|
 
-<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231108>back to top</a>)</p>
 
 ## Point Cloud Localization
 
@@ -1860,7 +1876,7 @@
 |**2018-04-03**|**Mining Point Cloud Local Structures by Kernel Correlation and Graph Pooling**|Yiru Shen et.al.|[1712.06760v2](http://arxiv.org/abs/1712.06760v2)|null|
 |**2017-02-14**|**Graph Based Over-Segmentation Methods for 3D Point Clouds**|Yizhak Ben-Shabat et.al.|[1702.04114v1](http://arxiv.org/abs/1702.04114v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231108>back to top</a>)</p>
 
 ## Place Recognization
 
@@ -1931,12 +1947,13 @@
 |**2021-05-24**|**OverlapNet: Loop Closing for LiDAR-based SLAM**|Xieyuanli Chen et.al.|[2105.11344v1](http://arxiv.org/abs/2105.11344v1)|**[link](https://github.com/PRBonn/OverlapNet)**|
 |**2021-03-23**|**NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation**|Zhicheng Zhou et.al.|[2103.12292v1](http://arxiv.org/abs/2103.12292v1)|**[link](https://github.com/dachengxiaocheng/NDT-Transformer)**|
 
-<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231108>back to top</a>)</p>
 
 ## LiDAR SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-04**|**ECMD: An Event-Centric Multisensory Driving Dataset for SLAM**|Peiyu Chen et.al.|[2311.02327v1](http://arxiv.org/abs/2311.02327v1)|null|
 |**2023-11-02**|**Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM**|Hyungtae Lim et.al.|[2311.00928v1](http://arxiv.org/abs/2311.00928v1)|null|
 |**2023-09-15**|**Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM**|Chenghao Shi et.al.|[2309.08086v1](http://arxiv.org/abs/2309.08086v1)|null|
 |**2023-09-12**|**LONER: LiDAR Only Neural Representations for Real-Time SLAM**|Seth Isaacson et.al.|[2309.04937v2](http://arxiv.org/abs/2309.04937v2)|null|
@@ -1999,7 +2016,7 @@
 |**2020-08-09**|**LiDAR Data Enrichment Using Deep Learning Based on High-Resolution Image: An Approach to Achieve High-Performance LiDAR SLAM Using Low-cost LiDAR**|Jiang Yue et.al.|[2008.03694v1](http://arxiv.org/abs/2008.03694v1)|null|
 |**2020-08-05**|**Elasticity Meets Continuous-Time: Map-Centric Dense 3D LiDAR SLAM**|Chanoh Park et.al.|[2008.02274v1](http://arxiv.org/abs/2008.02274v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231108>back to top</a>)</p>
 
 ## Transformer
 
@@ -2082,12 +2099,14 @@
 |**2021-10-14**|**Investigating Attention Mechanism in 3D Point Cloud Object Detection**|Shi Qiu et.al.|[2108.00620v2](http://arxiv.org/abs/2108.00620v2)|**[link](https://github.com/ShiQiu0419/attentions_in_3D_detection)**|
 |**2021-07-29**|**Reduction of balance laws in (3+1)--dimensions to autonomous conservation laws by means of equivalence transformations**|Matteo Gorgone et.al.|[2107.14144v1](http://arxiv.org/abs/2107.14144v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231108>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-06**|**Animating NeRFs from Texture Space: A Framework for Pose-Dependent Rendering of Human Performances**|Paul Knoll et.al.|[2311.03140v1](http://arxiv.org/abs/2311.03140v1)|null|
+|**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826v1](http://arxiv.org/abs/2311.02826v1)|**[link](https://github.com/mybabyyh/instructpix2nerf)**|
 |**2023-11-03**|**Estimating 3D Uncertainty Field: Quantifying Uncertainty for Neural Radiance Fields**|Jianxiong Shen et.al.|[2311.01815v1](http://arxiv.org/abs/2311.01815v1)|null|
 |**2023-11-03**|**PDF: Point Diffusion Implicit Function for Large-scale Scene Neural Representation**|Yuhan Ding et.al.|[2311.01773v1](http://arxiv.org/abs/2311.01773v1)|null|
 |**2023-11-03**|**Efficient Cloud Pipelines for Neural Radiance Fields**|Derek Jacoby et.al.|[2311.01659v1](http://arxiv.org/abs/2311.01659v1)|null|
@@ -2095,7 +2114,7 @@
 |**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710v1](http://arxiv.org/abs/2310.20710v1)|null|
 |**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685v1](http://arxiv.org/abs/2310.20685v1)|null|
 |**2023-10-30**|**Generative Neural Fields by Mixtures of Neural Implicit Functions**|Tackgeun You et.al.|[2310.19464v1](http://arxiv.org/abs/2310.19464v1)|null|
-|**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917v1](http://arxiv.org/abs/2310.18917v1)|null|
+|**2023-11-04**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917v2](http://arxiv.org/abs/2310.18917v2)|null|
 |**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846v1](http://arxiv.org/abs/2310.18846v1)|**[link](https://github.com/xmindflow/INCODE)**|
 |**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994v1](http://arxiv.org/abs/2310.17994v1)|null|
 |**2023-10-27**|**Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D Scene Representations**|Tristan Aumentado-Armstrong et.al.|[2310.17880v1](http://arxiv.org/abs/2310.17880v1)|null|
@@ -2525,7 +2544,7 @@
 |**2022-12-08**|**GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields**|Alessandro Ruzzi et.al.|[2212.04823v1](http://arxiv.org/abs/2212.04823v1)|**[link](https://github.com/alessandroruzzi/gazenerf)**|
 |**2022-12-09**|**4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**|Zhongshu Wang et.al.|[2212.04701v1](http://arxiv.org/abs/2212.04701v1)|**[link](https://github.com/frozoul/4k-nerf)**|
 
-<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231108>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

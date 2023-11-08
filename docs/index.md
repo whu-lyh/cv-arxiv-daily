@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.07
+## Updated on 2023.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -107,6 +107,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Enabling In-Situ Resources Utilisation by leveraging collaborative robotics and astronaut-robot interaction**|Silvia Romero-Azpitarte et.al.|[2311.03146v1](http://arxiv.org/abs/2311.03146v1)|null|
 |**2023-08-17**|**V-FUSE: Volumetric Depth Map Fusion with Long-Range Constraints**|Nathaniel Burgdorfer et.al.|[2308.08715v1](http://arxiv.org/abs/2308.08715v1)|**[link](https://github.com/nburgdorfer/v-fuse)**|
 |**2023-08-04**|**Group- $k$ consistent measurement set maximization via maximum clique over k-Uniform hypergraphs for robust multi-robot map merging**|Brendon Forsgren et.al.|[2308.02674v1](http://arxiv.org/abs/2308.02674v1)|**[link](https://bitbucket.org/jmangelson/gkcm)**|
 |**2023-07-14**|**Multi-Session, Localization-oriented and Lightweight LiDAR Mapping Using Semantic Lines and Planes**|Zehuan Yu et.al.|[2307.07126v1](http://arxiv.org/abs/2307.07126v1)|null|
@@ -168,6 +169,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**On Asynchrony, Memory, and Communication: Separations and Landscapes**|Paola Flocchini et.al.|[2311.03328v1](http://arxiv.org/abs/2311.03328v1)|null|
+|**2023-11-06**|**Leveraging Transformers to Improve Breast Cancer Classification and Risk Assessment with Multi-modal and Longitudinal Data**|Yiqiu Shen et.al.|[2311.03217v1](http://arxiv.org/abs/2311.03217v1)|null|
+|**2023-11-06**|**Unified Multi-modal Unsupervised Representation Learning for Skeleton-based Action Understanding**|Shengkai Sun et.al.|[2311.03106v1](http://arxiv.org/abs/2311.03106v1)|**[link](https://github.com/huiguanlab/umurl)**|
+|**2023-11-06**|**A multi-modal approach to continuous material identification through tactile sensing**|Augusto Gómez Eguíluz et.al.|[2311.03090v1](http://arxiv.org/abs/2311.03090v1)|null|
+|**2023-11-06**|**CogVLM: Visual Expert for Pretrained Language Models**|Weihan Wang et.al.|[2311.03079v1](http://arxiv.org/abs/2311.03079v1)|**[link](https://github.com/thudm/cogvlm)**|
+|**2023-11-06**|**Temporal Shift -- Multi-Objective Loss Function for Improved Anomaly Fall Detection**|Stefan Denkovski et.al.|[2311.02863v1](http://arxiv.org/abs/2311.02863v1)|null|
+|**2023-11-06**|**IR-STP: Enhancing Autonomous Driving with Interaction Reasoning in Spatio-Temporal Planning**|Yingbing Chen et.al.|[2311.02850v1](http://arxiv.org/abs/2311.02850v1)|null|
+|**2023-11-06**|**An invariant feature extraction for multi-modal images matching**|Chenzhong Gao et.al.|[2311.02842v1](http://arxiv.org/abs/2311.02842v1)|null|
+|**2023-11-06**|**Mesh Neural Cellular Automata**|Ehsan Pajouheshgar et.al.|[2311.02820v1](http://arxiv.org/abs/2311.02820v1)|null|
+|**2023-11-05**|**Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead**|Yunkang Cao et.al.|[2311.02782v1](http://arxiv.org/abs/2311.02782v1)|null|
+|**2023-11-05**|**AV-Lip-Sync+: Leveraging AV-HuBERT to Exploit Multimodal Inconsistency for Video Deepfake Detection**|Sahibzada Adil Shahzad et.al.|[2311.02733v1](http://arxiv.org/abs/2311.02733v1)|null|
+|**2023-11-05**|**Rotation Invariant Transformer for Recognizing Object in UAVs**|Shuoyi Chen et.al.|[2311.02559v1](http://arxiv.org/abs/2311.02559v1)|null|
+|**2023-11-04**|**Complex Organ Mask Guided Radiology Report Generation**|Gu Tiancheng et.al.|[2311.02329v1](http://arxiv.org/abs/2311.02329v1)|null|
+|**2023-11-04**|**Contrastive Multi-Modal Representation Learning for Spark Plug Fault Diagnosis**|Ardavan Modarres et.al.|[2311.02282v1](http://arxiv.org/abs/2311.02282v1)|null|
+|**2023-11-03**|**COSMIC: Data Efficient Instruction-tuning For Speech In-Context Learning**|Jing Pan et.al.|[2311.02248v1](http://arxiv.org/abs/2311.02248v1)|null|
 |**2023-11-03**|**LLM-driven Multimodal Target Volume Contouring in Radiation Oncology**|Yujin Oh et.al.|[2311.01908v1](http://arxiv.org/abs/2311.01908v1)|null|
 |**2023-11-03**|**Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion**|Xilai Li et.al.|[2311.01886v1](http://arxiv.org/abs/2311.01886v1)|null|
 |**2023-11-03**|**Quantitative Evaluation of a Multi-Modal Camera Setup for Fusing Event Data with RGB Images**|Julian Moosmann et.al.|[2311.01881v1](http://arxiv.org/abs/2311.01881v1)|null|
@@ -1917,6 +1933,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-04**|**ECMD: An Event-Centric Multisensory Driving Dataset for SLAM**|Peiyu Chen et.al.|[2311.02327v1](http://arxiv.org/abs/2311.02327v1)|null|
 |**2023-11-02**|**Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM**|Hyungtae Lim et.al.|[2311.00928v1](http://arxiv.org/abs/2311.00928v1)|null|
 |**2023-09-15**|**Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM**|Chenghao Shi et.al.|[2309.08086v1](http://arxiv.org/abs/2309.08086v1)|null|
 |**2023-09-12**|**LONER: LiDAR Only Neural Representations for Real-Time SLAM**|Seth Isaacson et.al.|[2309.04937v2](http://arxiv.org/abs/2309.04937v2)|null|
@@ -2064,6 +2081,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Animating NeRFs from Texture Space: A Framework for Pose-Dependent Rendering of Human Performances**|Paul Knoll et.al.|[2311.03140v1](http://arxiv.org/abs/2311.03140v1)|null|
+|**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826v1](http://arxiv.org/abs/2311.02826v1)|**[link](https://github.com/mybabyyh/instructpix2nerf)**|
 |**2023-11-03**|**Estimating 3D Uncertainty Field: Quantifying Uncertainty for Neural Radiance Fields**|Jianxiong Shen et.al.|[2311.01815v1](http://arxiv.org/abs/2311.01815v1)|null|
 |**2023-11-03**|**PDF: Point Diffusion Implicit Function for Large-scale Scene Neural Representation**|Yuhan Ding et.al.|[2311.01773v1](http://arxiv.org/abs/2311.01773v1)|null|
 |**2023-11-03**|**Efficient Cloud Pipelines for Neural Radiance Fields**|Derek Jacoby et.al.|[2311.01659v1](http://arxiv.org/abs/2311.01659v1)|null|
@@ -2071,7 +2090,7 @@ layout: default
 |**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710v1](http://arxiv.org/abs/2310.20710v1)|null|
 |**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685v1](http://arxiv.org/abs/2310.20685v1)|null|
 |**2023-10-30**|**Generative Neural Fields by Mixtures of Neural Implicit Functions**|Tackgeun You et.al.|[2310.19464v1](http://arxiv.org/abs/2310.19464v1)|null|
-|**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917v1](http://arxiv.org/abs/2310.18917v1)|null|
+|**2023-11-04**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917v2](http://arxiv.org/abs/2310.18917v2)|null|
 |**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846v1](http://arxiv.org/abs/2310.18846v1)|**[link](https://github.com/xmindflow/INCODE)**|
 |**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994v1](http://arxiv.org/abs/2310.17994v1)|null|
 |**2023-10-27**|**Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D Scene Representations**|Tristan Aumentado-Armstrong et.al.|[2310.17880v1](http://arxiv.org/abs/2310.17880v1)|null|
