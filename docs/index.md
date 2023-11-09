@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.08
+## Updated on 2023.11.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -169,6 +169,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**OtterHD: A High-Resolution Multi-modality Model**|Bo Li et.al.|[2311.04219v1](http://arxiv.org/abs/2311.04219v1)|null|
+|**2023-11-07**|**"Tell me about that church": Exploring the Design and User Experience of In-Vehicle Multi-modal Intuitive Interface in the Context of Driving Scenario**|Yueteng Yu et.al.|[2311.04160v1](http://arxiv.org/abs/2311.04160v1)|null|
+|**2023-11-07**|**Proceedings of the 5th International Workshop on Reading Music Systems**|Jorge Calvo-Zaragoza et.al.|[2311.04091v1](http://arxiv.org/abs/2311.04091v1)|**[link](https://github.com/suziai/gui-tools)**|
+|**2023-11-07**|**mmFUSION: Multimodal Fusion for 3D Objects Detection**|Javed Ahmad et.al.|[2311.04058v1](http://arxiv.org/abs/2311.04058v1)|null|
+|**2023-11-07**|**Multi-View Causal Representation Learning with Partial Observability**|Dingling Yao et.al.|[2311.04056v1](http://arxiv.org/abs/2311.04056v1)|null|
+|**2023-11-07**|**Rethinking and Improving Multi-task Learning for End-to-end Speech Translation**|Yuhao Zhang et.al.|[2311.03810v1](http://arxiv.org/abs/2311.03810v1)|**[link](https://github.com/xiaozhang521/imtl)**|
+|**2023-11-07**|**FusionViT: Hierarchical 3D Object Detection via LiDAR-Camera Vision Transformer Fusion**|Xinhao Xiang et.al.|[2311.03620v1](http://arxiv.org/abs/2311.03620v1)|null|
+|**2023-11-06**|**Multimodal Stress Detection Using Facial Landmarks and Biometric Signals**|Majid Hosseini et.al.|[2311.03606v1](http://arxiv.org/abs/2311.03606v1)|null|
+|**2023-11-06**|**Discret2Di -- Deep Learning based Discretization for Model-based Diagnosis**|Lukas Moddemann et.al.|[2311.03413v1](http://arxiv.org/abs/2311.03413v1)|null|
 |**2023-11-06**|**On Asynchrony, Memory, and Communication: Separations and Landscapes**|Paola Flocchini et.al.|[2311.03328v1](http://arxiv.org/abs/2311.03328v1)|null|
 |**2023-11-06**|**Leveraging Transformers to Improve Breast Cancer Classification and Risk Assessment with Multi-modal and Longitudinal Data**|Yiqiu Shen et.al.|[2311.03217v1](http://arxiv.org/abs/2311.03217v1)|null|
 |**2023-11-06**|**Unified Multi-modal Unsupervised Representation Learning for Skeleton-based Action Understanding**|Shengkai Sun et.al.|[2311.03106v1](http://arxiv.org/abs/2311.03106v1)|**[link](https://github.com/huiguanlab/umurl)**|
@@ -2000,6 +2009,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**Learning Super-Resolution Ultrasound Localization Microscopy from Radio-Frequency Data**|Christopher Hahne et.al.|[2311.04081v1](http://arxiv.org/abs/2311.04081v1)|null|
 |**2023-10-22**|**Exact FLRW cosmological solutions via invariants of the symmetry groups**|E. Ahmadi Azar et.al.|[2310.19772v1](http://arxiv.org/abs/2310.19772v1)|null|
 |**2023-10-25**|**General Point Model with Autoencoding and Autoregressive**|Zhe Li et.al.|[2310.16861v1](http://arxiv.org/abs/2310.16861v1)|null|
 |**2023-10-09**|**Lie symmetries for the cosmological field equations in brane-world gravity with bulk scalar field**|Andronikos Paliathanasis et.al.|[2310.05780v1](http://arxiv.org/abs/2310.05780v1)|null|
@@ -2081,6 +2091,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154v1](http://arxiv.org/abs/2311.04154v1)|null|
+|**2023-11-07**|**Fast Sun-aligned Outdoor Scene Relighting based on TensoRF**|Yeonjin Chang et.al.|[2311.03965v1](http://arxiv.org/abs/2311.03965v1)|null|
+|**2023-11-07**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784v1](http://arxiv.org/abs/2311.03784v1)|null|
+|**2023-11-06**|**Osprey: Multi-Session Autonomous Aerial Mapping with LiDAR-based SLAM and Next Best View Planning**|Rowan Border et.al.|[2311.03484v1](http://arxiv.org/abs/2311.03484v1)|null|
 |**2023-11-06**|**Animating NeRFs from Texture Space: A Framework for Pose-Dependent Rendering of Human Performances**|Paul Knoll et.al.|[2311.03140v1](http://arxiv.org/abs/2311.03140v1)|null|
 |**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826v1](http://arxiv.org/abs/2311.02826v1)|**[link](https://github.com/mybabyyh/instructpix2nerf)**|
 |**2023-11-03**|**Estimating 3D Uncertainty Field: Quantifying Uncertainty for Neural Radiance Fields**|Jianxiong Shen et.al.|[2311.01815v1](http://arxiv.org/abs/2311.01815v1)|null|
