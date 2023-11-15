@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.14
+## Updated on 2023.11.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Dynamically Weighted Factor-Graph for Feature-based Geo-localization**|Miguel Ángel Muñoz-Bañón et.al.|[2311.07301v1](http://arxiv.org/abs/2311.07301v1)|null|
 |**2023-10-23**|**Label Space Partition Selection for Multi-Object Tracking Using Two-Layer Partitioning**|Ji Youn Lee et.al.|[2310.14506v1](http://arxiv.org/abs/2310.14506v1)|null|
 |**2023-10-19**|**First holistic modelling of meteoroid ablation and fragmentation: A case study of the Orionids recorded by the Canadian Automated Meteor Observatory**|Denis Vida et.al.|[2310.12776v1](http://arxiv.org/abs/2310.12776v1)|null|
 |**2023-10-16**|**Kinematical coherence between satellite galaxies and host stellar discs for MaNGA & SAMI galaxies**|Sen Wang et.al.|[2310.10723v1](http://arxiv.org/abs/2310.10723v1)|null|
@@ -169,6 +170,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**|Ziyi Lin et.al.|[2311.07575v1](http://arxiv.org/abs/2311.07575v1)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
+|**2023-11-13**|**Estimating optical vegetation indices with Sentinel-1 SAR data and AutoML**|Daniel Paluba et.al.|[2311.07537v1](http://arxiv.org/abs/2311.07537v1)|null|
+|**2023-11-13**|**VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**|Shuting He et.al.|[2311.07514v1](http://arxiv.org/abs/2311.07514v1)|null|
+|**2023-11-13**|**Finding and Editing Multi-Modal Neurons in Pre-Trained Transformer**|Haowen Pan et.al.|[2311.07470v1](http://arxiv.org/abs/2311.07470v1)|null|
+|**2023-11-13**|**Language Grounded QFormer for Efficient Vision Language Understanding**|Moulik Choraria et.al.|[2311.07449v1](http://arxiv.org/abs/2311.07449v1)|null|
+|**2023-11-13**|**An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation**|Junyang Wang et.al.|[2311.07397v1](http://arxiv.org/abs/2311.07397v1)|**[link](https://github.com/junyangwang0410/amber)**|
+|**2023-11-13**|**What Large Language Models Bring to Text-rich VQA?**|Xuejing Liu et.al.|[2311.07306v1](http://arxiv.org/abs/2311.07306v1)|null|
+|**2023-11-13**|**Large Language Models for Robotics: A Survey**|Fanlong Zeng et.al.|[2311.07226v1](http://arxiv.org/abs/2311.07226v1)|null|
+|**2023-11-13**|**Teach me with a Whisper: Enhancing Large Language Models for Analyzing Spoken Transcripts using Speech Embeddings**|Fatema Hasan et.al.|[2311.07014v1](http://arxiv.org/abs/2311.07014v1)|null|
+|**2023-11-12**|**Dual-Branch Reconstruction Network for Industrial Anomaly Detection with RGB-D Data**|Chenyang Bi et.al.|[2311.06797v1](http://arxiv.org/abs/2311.06797v1)|null|
+|**2023-11-12**|**Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models**|Haoning Wu et.al.|[2311.06783v1](http://arxiv.org/abs/2311.06783v1)|null|
+|**2023-11-12**|**Towards General-Purpose Speech Abilities for Large Language Models Using Unpaired Data**|Yassir Fathullah et.al.|[2311.06753v1](http://arxiv.org/abs/2311.06753v1)|null|
+|**2023-11-11**|**PerceptionGPT: Effectively Fusing Visual Perception into LLM**|Renjie Pi et.al.|[2311.06612v1](http://arxiv.org/abs/2311.06612v1)|null|
+|**2023-11-11**|**Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models**|Zhang Li et.al.|[2311.06607v1](http://arxiv.org/abs/2311.06607v1)|**[link](https://github.com/yuliang-liu/monkey)**|
+|**2023-11-11**|**Visual Commonsense based Heterogeneous Graph Contrastive Learning**|Zongzhao Li et.al.|[2311.06553v1](http://arxiv.org/abs/2311.06553v1)|null|
 |**2023-11-10**|**Automated Heterogeneous Low-Bit Quantization of Multi-Model Deep Learning Inference Pipeline**|Jayeeta Mondal et.al.|[2311.05870v1](http://arxiv.org/abs/2311.05870v1)|null|
 |**2023-11-10**|**Watermarking Vision-Language Pre-trained Models for Multi-modal Embedding as a Service**|Yuanmin Tang et.al.|[2311.05863v1](http://arxiv.org/abs/2311.05863v1)|**[link](https://github.com/Pter61/vlpmarker)**|
 |**2023-11-09**|**Cosmological parameter estimation with Genetic Algorithms**|Ricardo Medel-Esquivel et.al.|[2311.05699v1](http://arxiv.org/abs/2311.05699v1)|null|
@@ -1963,7 +1979,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-04**|**ECMD: An Event-Centric Multisensory Driving Dataset for SLAM**|Peiyu Chen et.al.|[2311.02327v1](http://arxiv.org/abs/2311.02327v1)|null|
+|**2023-11-04**|**ECMD: An Event-Centric Multisensory Driving Dataset for SLAM**|Peiyu Chen et.al.|[2311.02327v1](http://arxiv.org/abs/2311.02327v1)|**[link](https://github.com/arclab-hku/event_based_vo-vio-slam)**|
 |**2023-11-02**|**Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM**|Hyungtae Lim et.al.|[2311.00928v1](http://arxiv.org/abs/2311.00928v1)|null|
 |**2023-09-15**|**Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM**|Chenghao Shi et.al.|[2309.08086v1](http://arxiv.org/abs/2309.08086v1)|null|
 |**2023-09-12**|**LONER: LiDAR Only Neural Representations for Real-Time SLAM**|Seth Isaacson et.al.|[2309.04937v2](http://arxiv.org/abs/2309.04937v2)|null|
@@ -2112,6 +2128,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**$L_0$-Sampler: An $L_{0}$ Model Guided Volume Sampling for NeRF**|Liangchen Li et.al.|[2311.07044v1](http://arxiv.org/abs/2311.07044v1)|null|
+|**2023-11-11**|**Aria-NeRF: Multimodal Egocentric View Synthesis**|Jiankai Sun et.al.|[2311.06455v1](http://arxiv.org/abs/2311.06455v1)|null|
 |**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214v1](http://arxiv.org/abs/2311.06214v1)|null|
 |**2023-11-10**|**A Neural Height-Map Approach for the Binocular Photometric Stereo Problem**|Fotios Logothetis et.al.|[2311.05958v1](http://arxiv.org/abs/2311.05958v1)|null|
 |**2023-11-09**|**BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis**|Hao-Bin Duan et.al.|[2311.05521v1](http://arxiv.org/abs/2311.05521v1)|null|
