@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.15
+## Updated on 2023.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -108,6 +108,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**CP-SLAM: Collaborative Neural Point-based SLAM System**|Jiarui Hu et.al.|[2311.08013v1](http://arxiv.org/abs/2311.08013v1)|null|
 |**2023-11-06**|**Enabling In-Situ Resources Utilisation by leveraging collaborative robotics and astronaut-robot interaction**|Silvia Romero-Azpitarte et.al.|[2311.03146v1](http://arxiv.org/abs/2311.03146v1)|null|
 |**2023-08-17**|**V-FUSE: Volumetric Depth Map Fusion with Long-Range Constraints**|Nathaniel Burgdorfer et.al.|[2308.08715v1](http://arxiv.org/abs/2308.08715v1)|**[link](https://github.com/nburgdorfer/v-fuse)**|
 |**2023-08-04**|**Group- $k$ consistent measurement set maximization via maximum clique over k-Uniform hypergraphs for robust multi-robot map merging**|Brendon Forsgren et.al.|[2308.02674v1](http://arxiv.org/abs/2308.02674v1)|**[link](https://bitbucket.org/jmangelson/gkcm)**|
@@ -170,6 +171,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Hierarchical Experience-informed Navigation for Multi-modal Quadrupedal Rebar Grid Traversal**|Max Asselmeier et.al.|[2311.08354v1](http://arxiv.org/abs/2311.08354v1)|null|
+|**2023-11-14**|**Artificial Text Boundary Detection with Topological Data Analysis and Sliding Window Techniques**|Laida Kushnareva et.al.|[2311.08349v1](http://arxiv.org/abs/2311.08349v1)|null|
+|**2023-11-14**|**Defining the boundaries: challenges and advances in identifying cells in microscopy images**|Nodar Gogoberidze et.al.|[2311.08269v1](http://arxiv.org/abs/2311.08269v1)|null|
+|**2023-11-14**|**TENT: Connect Language Models with IoT Sensors for Zero-Shot Activity Recognition**|Yunjiao Zhou et.al.|[2311.08245v1](http://arxiv.org/abs/2311.08245v1)|null|
+|**2023-11-14**|**Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images**|Zhiyun Song et.al.|[2311.08225v1](http://arxiv.org/abs/2311.08225v1)|null|
+|**2023-11-14**|**Improving Image Captioning via Predicting Structured Concepts**|Ting Wang et.al.|[2311.08223v1](http://arxiv.org/abs/2311.08223v1)|null|
+|**2023-11-14**|**Unlock the Power: Competitive Distillation for Multi-Modal Large Language Models**|Xinwei Li et.al.|[2311.08213v1](http://arxiv.org/abs/2311.08213v1)|null|
+|**2023-11-14**|**Unlocking Science: Novel Dataset and Benchmark for Cross-Modality Scientific Information Extraction**|Yuhan Li et.al.|[2311.08189v1](http://arxiv.org/abs/2311.08189v1)|null|
+|**2023-11-14**|**Vision-Language Instruction Tuning: A Review and Analysis**|Chen Li et.al.|[2311.08172v1](http://arxiv.org/abs/2311.08172v1)|**[link](https://github.com/palchenli/vl-instruction-tuning)**|
+|**2023-11-14**|**Rethink Cross-Modal Fusion in Weakly-Supervised Audio-Visual Video Parsing**|Yating Xu et.al.|[2311.08151v1](http://arxiv.org/abs/2311.08151v1)|null|
+|**2023-11-14**|**Applying hybrid clustering in pulsar candidate sifting with multi-modality for FAST survey**|Zi-Yi You et.al.|[2311.08134v1](http://arxiv.org/abs/2311.08134v1)|null|
+|**2023-11-14**|**Smart Skin separation control using distributed-input distributed-output, multi-modal actuators, and machine learning**|Songqi Li et.al.|[2311.08116v1](http://arxiv.org/abs/2311.08116v1)|null|
+|**2023-11-14**|**ELF: An End-to-end Local and Global Multimodal Fusion Framework for Glaucoma Grading**|Wenyun Li et.al.|[2311.08032v1](http://arxiv.org/abs/2311.08032v1)|null|
+|**2023-11-14**|**Towards Transaction as a Service**|Yanfeng Zhang et.al.|[2311.07874v1](http://arxiv.org/abs/2311.07874v1)|null|
+|**2023-11-14**|**Overview of the TREC 2023 Product Product Search Track**|Daniel Campos et.al.|[2311.07861v1](http://arxiv.org/abs/2311.07861v1)|null|
 |**2023-11-13**|**SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**|Ziyi Lin et.al.|[2311.07575v1](http://arxiv.org/abs/2311.07575v1)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
 |**2023-11-13**|**Estimating optical vegetation indices with Sentinel-1 SAR data and AutoML**|Daniel Paluba et.al.|[2311.07537v1](http://arxiv.org/abs/2311.07537v1)|null|
 |**2023-11-13**|**VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**|Shuting He et.al.|[2311.07514v1](http://arxiv.org/abs/2311.07514v1)|null|
