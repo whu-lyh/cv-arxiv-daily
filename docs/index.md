@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.18
+## Updated on 2023.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -182,7 +182,7 @@ layout: default
 |**2023-11-15**|**HEALNet -- Hybrid Multi-Modal Fusion for Heterogeneous Biomedical Data**|Konstantin Hemker et.al.|[2311.09115v1](http://arxiv.org/abs/2311.09115v1)|null|
 |**2023-11-15**|**Contrastive Transformer Learning with Proximity Data Generation for Text-Based Person Search**|Hefeng Wu et.al.|[2311.09084v1](http://arxiv.org/abs/2311.09084v1)|**[link](https://github.com/hcplab-sysu/personsearch-ctlg)**|
 |**2023-11-15**|**Improving Zero-shot Visual Question Answering via Large Language Models with Reasoning Question Prompts**|Yunshi Lan et.al.|[2311.09050v1](http://arxiv.org/abs/2311.09050v1)|**[link](https://github.com/ecnu-dase-nlp/rqp)**|
-|**2023-11-15**|**Correlation-guided Query-Dependency Calibration in Video Representation Learning for Temporal Grounding**|WonJun Moon et.al.|[2311.08835v1](http://arxiv.org/abs/2311.08835v1)|null|
+|**2023-11-15**|**Correlation-guided Query-Dependency Calibration in Video Representation Learning for Temporal Grounding**|WonJun Moon et.al.|[2311.08835v1](http://arxiv.org/abs/2311.08835v1)|**[link](https://github.com/wjun0830/cgdetr)**|
 |**2023-11-15**|**Multiple-Question Multiple-Answer Text-VQA**|Peng Tang et.al.|[2311.08622v1](http://arxiv.org/abs/2311.08622v1)|null|
 |**2023-11-14**|**Hierarchical Experience-informed Navigation for Multi-modal Quadrupedal Rebar Grid Traversal**|Max Asselmeier et.al.|[2311.08354v1](http://arxiv.org/abs/2311.08354v1)|null|
 |**2023-11-14**|**Artificial Text Boundary Detection with Topological Data Analysis and Sliding Window Techniques**|Laida Kushnareva et.al.|[2311.08349v1](http://arxiv.org/abs/2311.08349v1)|null|
