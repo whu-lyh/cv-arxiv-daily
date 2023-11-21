@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.20
+## Updated on 2023.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Galaxy stellar and total mass estimation using machine learning**|Jiani Chu et.al.|[2311.10351v1](http://arxiv.org/abs/2311.10351v1)|null|
 |**2023-11-13**|**Dynamically Weighted Factor-Graph for Feature-based Geo-localization**|Miguel Ángel Muñoz-Bañón et.al.|[2311.07301v1](http://arxiv.org/abs/2311.07301v1)|null|
 |**2023-10-23**|**Label Space Partition Selection for Multi-Object Tracking Using Two-Layer Partitioning**|Ji Youn Lee et.al.|[2310.14506v1](http://arxiv.org/abs/2310.14506v1)|null|
 |**2023-10-19**|**First holistic modelling of meteoroid ablation and fragmentation: A case study of the Orionids recorded by the Canadian Automated Meteor Observatory**|Denis Vida et.al.|[2310.12776v1](http://arxiv.org/abs/2310.12776v1)|null|
@@ -108,6 +109,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**Consensus-based Resource Scheduling for Collaborative Multi-Robot Tasks**|Nazish Tahir et.al.|[2311.10194v1](http://arxiv.org/abs/2311.10194v1)|null|
 |**2023-11-14**|**CP-SLAM: Collaborative Neural Point-based SLAM System**|Jiarui Hu et.al.|[2311.08013v1](http://arxiv.org/abs/2311.08013v1)|null|
 |**2023-11-06**|**Enabling In-Situ Resources Utilisation by leveraging collaborative robotics and astronaut-robot interaction**|Silvia Romero-Azpitarte et.al.|[2311.03146v1](http://arxiv.org/abs/2311.03146v1)|null|
 |**2023-08-17**|**V-FUSE: Volumetric Depth Map Fusion with Long-Range Constraints**|Nathaniel Burgdorfer et.al.|[2308.08715v1](http://arxiv.org/abs/2308.08715v1)|**[link](https://github.com/nburgdorfer/v-fuse)**|
@@ -171,12 +173,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Multimodal Representation Learning by Alternating Unimodal Adaptation**|Xiaohui Zhang et.al.|[2311.10707v1](http://arxiv.org/abs/2311.10707v1)|null|
+|**2023-11-17**|**Versatile Medical Image Segmentation Learned from Multi-Source Datasets via Model Self-Disambiguation**|Xiaoyang Chen et.al.|[2311.10696v1](http://arxiv.org/abs/2311.10696v1)|null|
+|**2023-11-17**|**Cross-Modal Search and Exploration of Greek Painted Pottery**|Elisabeth Trinkl et.al.|[2311.10567v1](http://arxiv.org/abs/2311.10567v1)|null|
+|**2023-11-17**|**Meta-DSP: A Meta-Learning Approach for Data-Driven Nonlinear Compensation in High-Speed Optical Fiber Systems**|Xinyu Xiao et.al.|[2311.10416v1](http://arxiv.org/abs/2311.10416v1)|null|
+|**2023-11-17**|**Leveraging Multimodal Fusion for Enhanced Diagnosis of Multiple Retinal Diseases in Ultra-wide OCTA**|Hao Wei et.al.|[2311.10331v1](http://arxiv.org/abs/2311.10331v1)|**[link](https://github.com/hwei-hw/m3octa)**|
+|**2023-11-16**|**A case study of multi-modal, multi-institutional data management for the combinatorial materials science community**|Sarah I. Allec et.al.|[2311.10205v1](http://arxiv.org/abs/2311.10205v1)|null|
+|**2023-11-16**|**Video-LLaVA: Learning United Visual Representation by Alignment Before Projection**|Bin Lin et.al.|[2311.10122v1](http://arxiv.org/abs/2311.10122v1)|**[link](https://github.com/PKU-YuanGroup/Video-LLaVA)**|
 |**2023-11-16**|**Dynamic modeling of wing-assisted inclined running with a morphing multi-modal robot**|Eric Sihite et.al.|[2311.09963v1](http://arxiv.org/abs/2311.09963v1)|null|
 |**2023-11-16**|**Self-supervised learning of multi-omics embeddings in the low-label, high-data regime**|Christian John Hurry et.al.|[2311.09962v1](http://arxiv.org/abs/2311.09962v1)|null|
 |**2023-11-16**|**DSR-Diff: Depth Map Super-Resolution with Diffusion Model**|Yuan Shi et.al.|[2311.09919v1](http://arxiv.org/abs/2311.09919v1)|null|
 |**2023-11-16**|**PixT3: Pixel-based Table To Text generation**|Iñigo Alonso et.al.|[2311.09808v1](http://arxiv.org/abs/2311.09808v1)|null|
 |**2023-11-16**|**Gradient-Map-Guided Adaptive Domain Generalization for Cross Modality MRI Segmentation**|Bingnan Li et.al.|[2311.09737v1](http://arxiv.org/abs/2311.09737v1)|**[link](https://github.com/cuttle-fish-my/gm-guided-dg)**|
-|**2023-11-16**|**CDMPP: A Device-Model Agnostic Framework for Latency Prediction of Tensor Programs**|Hanpeng Hu et.al.|[2311.09690v1](http://arxiv.org/abs/2311.09690v1)|**[link](https://github.com/joapolarbear/cdmpp)**|
+|**2023-11-17**|**CDMPP: A Device-Model Agnostic Framework for Latency Prediction of Tensor Programs**|Hanpeng Hu et.al.|[2311.09690v2](http://arxiv.org/abs/2311.09690v2)|**[link](https://github.com/joapolarbear/cdmpp)**|
 |**2023-11-16**|**FedFusion: Manifold Driven Federated Learning for Multi-satellite and Multi-modality Fusion**|DaiXun Li et.al.|[2311.09540v1](http://arxiv.org/abs/2311.09540v1)|**[link](https://github.com/ldxdu/fedfusion)**|
 |**2023-11-16**|**MDFL: Multi-domain Diffusion-driven Feature Learning**|Daixun Li et.al.|[2311.09520v1](http://arxiv.org/abs/2311.09520v1)|null|
 |**2023-11-15**|**HEALNet -- Hybrid Multi-Modal Fusion for Heterogeneous Biomedical Data**|Konstantin Hemker et.al.|[2311.09115v1](http://arxiv.org/abs/2311.09115v1)|null|
@@ -2157,6 +2166,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Removing Adverse Volumetric Effects From Trained Neural Radiance Fields**|Andreas L. Teigen et.al.|[2311.10523v1](http://arxiv.org/abs/2311.10523v1)|null|
 |**2023-11-16**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806v1](http://arxiv.org/abs/2311.09806v1)|null|
 |**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646v1](http://arxiv.org/abs/2311.09646v1)|null|
 |**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221v1](http://arxiv.org/abs/2311.09221v1)|null|
