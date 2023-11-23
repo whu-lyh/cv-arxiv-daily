@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.22
+## Updated on 2023.11.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -173,7 +173,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-20**|**LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge**|Gongwei Chen et.al.|[2311.11860v1](http://arxiv.org/abs/2311.11860v1)|null|
+|**2023-11-21**|**ShareGPT4V: Improving Large Multi-Modal Models with Better Captions**|Lin Chen et.al.|[2311.12793v1](http://arxiv.org/abs/2311.12793v1)|null|
+|**2023-11-21**|**Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatially Relation Matching**|Meng Chu et.al.|[2311.12751v1](http://arxiv.org/abs/2311.12751v1)|null|
+|**2023-11-21**|**Managing ML-Based Application Non-Functional Behavior: A Multi-Model Approach**|Marco Anisetti et.al.|[2311.12686v1](http://arxiv.org/abs/2311.12686v1)|null|
+|**2023-11-21**|**LIP-RTVE: An Audiovisual Database for Continuous Spanish in the Wild**|David Gimeno-Gómez et.al.|[2311.12457v1](http://arxiv.org/abs/2311.12457v1)|**[link](https://github.com/david-gimeno/lip-rtve)**|
+|**2023-11-21**|**Learning Site-specific Styles for Multi-institutional Unsupervised Cross-modality Domain Adaptation**|Han Liu et.al.|[2311.12437v1](http://arxiv.org/abs/2311.12437v1)|null|
+|**2023-11-21**|**Modality Mixer Exploiting Complementary Information for Multi-modal Action Recognition**|Sumin Lee et.al.|[2311.12344v1](http://arxiv.org/abs/2311.12344v1)|null|
+|**2023-11-21**|**ViLaM: A Vision-Language Model with Enhanced Visual Grounding and Generalization Capability**|Xiaoyu Yang et.al.|[2311.12327v1](http://arxiv.org/abs/2311.12327v1)|**[link](https://github.com/anonymgiant/vilam)**|
+|**2023-11-21**|**Boosting Audio-visual Zero-shot Learning with Large Language Models**|Haoxing Chen et.al.|[2311.12268v1](http://arxiv.org/abs/2311.12268v1)|**[link](https://github.com/chenhaoxing/KDA)**|
+|**2023-11-20**|**Conditional Modeling Based Automatic Video Summarization**|Jia-Hong Huang et.al.|[2311.12159v1](http://arxiv.org/abs/2311.12159v1)|null|
+|**2023-11-20**|**LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge**|Gongwei Chen et.al.|[2311.11860v1](http://arxiv.org/abs/2311.11860v1)|**[link](https://github.com/rshaojimmy/jiutian)**|
 |**2023-11-20**|**Multimodal deep learning for mapping forest dominant height by fusing GEDI with earth observation data**|Man Chen et.al.|[2311.11777v1](http://arxiv.org/abs/2311.11777v1)|null|
 |**2023-11-20**|**MGCT: Mutual-Guided Cross-Modality Transformer for Survival Outcome Prediction using Integrative Histopathology-Genomic Features**|Mingxin Liu et.al.|[2311.11659v1](http://arxiv.org/abs/2311.11659v1)|null|
 |**2023-11-20**|**A 3D Multi-Style Cross-Modality Segmentation Framework for Segmenting Vestibular Schwannoma and Cochlea**|Yuzhou Zhuang et.al.|[2311.11578v1](http://arxiv.org/abs/2311.11578v1)|null|
@@ -1963,6 +1972,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**Towards Accurate Loop Closure Detection in Semantic SLAM with 3D Semantic Covisibility Graphs**|Zhentian Qian et.al.|[2311.12245v1](http://arxiv.org/abs/2311.12245v1)|null|
 |**2023-09-18**|**DynaPix SLAM: A Pixel-Based Dynamic SLAM Approach**|Chenghao Xu et.al.|[2309.09879v1](http://arxiv.org/abs/2309.09879v1)|null|
 |**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914v1](http://arxiv.org/abs/2309.08914v1)|**[link](https://github.com/pamphlett/outram)**|
 |**2023-09-13**|**RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline**|Mirko Usuelli et.al.|[2309.07094v1](http://arxiv.org/abs/2309.07094v1)|null|
@@ -2181,6 +2191,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775v1](http://arxiv.org/abs/2311.12775v1)|null|
+|**2023-11-21**|**Hyb-NeRF: A Multiresolution Hybrid Encoding for Neural Radiance Fields**|Yifan Wang et.al.|[2311.12490v1](http://arxiv.org/abs/2311.12490v1)|null|
+|**2023-11-18**|**Towards Function Space Mesh Watermarking: Protecting the Copyright of Signed Distance Fields**|Xingyu Zhu et.al.|[2311.12059v1](http://arxiv.org/abs/2311.12059v1)|null|
 |**2023-11-20**|**GP-NeRF: Generalized Perception NeRF for Context-Aware 3D Scene Understanding**|Hao Li et.al.|[2311.11863v1](http://arxiv.org/abs/2311.11863v1)|null|
 |**2023-11-20**|**Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**|Zhiyuan Min et.al.|[2311.11845v1](http://arxiv.org/abs/2311.11845v1)|**[link](https://github.com/tatakai1/evenerf)**|
 |**2023-11-19**|**GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**|Xinhai Li et.al.|[2311.11221v1](http://arxiv.org/abs/2311.11221v1)|null|
