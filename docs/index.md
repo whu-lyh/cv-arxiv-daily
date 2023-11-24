@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.23
+## Updated on 2023.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -173,11 +173,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-21**|**ShareGPT4V: Improving Large Multi-Modal Models with Better Captions**|Lin Chen et.al.|[2311.12793v1](http://arxiv.org/abs/2311.12793v1)|null|
+|**2023-11-22**|**Robust Multi-Model Subset Selection**|Anthony-Alexander Christidis et.al.|[2311.13202v1](http://arxiv.org/abs/2311.13202v1)|null|
+|**2023-11-22**|**SiGeo: Sub-One-Shot NAS via Information Theory and Geometry of Loss Landscape**|Hua Zheng et.al.|[2311.13169v1](http://arxiv.org/abs/2311.13169v1)|null|
+|**2023-11-22**|**Towards Better Parameter-Efficient Fine-Tuning for Large Language Models: A Position Paper**|Chengyu Wang et.al.|[2311.13126v1](http://arxiv.org/abs/2311.13126v1)|null|
+|**2023-11-22**|**Multi-modal In-Context Learning Makes an Ego-evolving Scene Text Recognizer**|Zhen Zhao et.al.|[2311.13120v1](http://arxiv.org/abs/2311.13120v1)|null|
+|**2023-11-22**|**FuseNet: Self-Supervised Dual-Path Network for Medical Image Segmentation**|Amirhossein Kazerouni et.al.|[2311.13069v1](http://arxiv.org/abs/2311.13069v1)|null|
+|**2023-11-21**|**GAIA: a benchmark for General AI Assistants**|Grégoire Mialon et.al.|[2311.12983v1](http://arxiv.org/abs/2311.12983v1)|null|
+|**2023-11-21**|**ShareGPT4V: Improving Large Multi-Modal Models with Better Captions**|Lin Chen et.al.|[2311.12793v1](http://arxiv.org/abs/2311.12793v1)|**[link](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V)**|
 |**2023-11-21**|**Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatially Relation Matching**|Meng Chu et.al.|[2311.12751v1](http://arxiv.org/abs/2311.12751v1)|null|
 |**2023-11-21**|**Managing ML-Based Application Non-Functional Behavior: A Multi-Model Approach**|Marco Anisetti et.al.|[2311.12686v1](http://arxiv.org/abs/2311.12686v1)|null|
 |**2023-11-21**|**LIP-RTVE: An Audiovisual Database for Continuous Spanish in the Wild**|David Gimeno-Gómez et.al.|[2311.12457v1](http://arxiv.org/abs/2311.12457v1)|**[link](https://github.com/david-gimeno/lip-rtve)**|
-|**2023-11-21**|**Learning Site-specific Styles for Multi-institutional Unsupervised Cross-modality Domain Adaptation**|Han Liu et.al.|[2311.12437v1](http://arxiv.org/abs/2311.12437v1)|null|
+|**2023-11-22**|**Learning Site-specific Styles for Multi-institutional Unsupervised Cross-modality Domain Adaptation**|Han Liu et.al.|[2311.12437v2](http://arxiv.org/abs/2311.12437v2)|**[link](https://github.com/medicl-vu/crossmoda2023)**|
 |**2023-11-21**|**Modality Mixer Exploiting Complementary Information for Multi-modal Action Recognition**|Sumin Lee et.al.|[2311.12344v1](http://arxiv.org/abs/2311.12344v1)|null|
 |**2023-11-21**|**ViLaM: A Vision-Language Model with Enhanced Visual Grounding and Generalization Capability**|Xiaoyu Yang et.al.|[2311.12327v1](http://arxiv.org/abs/2311.12327v1)|**[link](https://github.com/anonymgiant/vilam)**|
 |**2023-11-21**|**Boosting Audio-visual Zero-shot Learning with Large Language Models**|Haoxing Chen et.al.|[2311.12268v1](http://arxiv.org/abs/2311.12268v1)|**[link](https://github.com/chenhaoxing/KDA)**|
@@ -2191,6 +2197,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**|Keyang Ye et.al.|[2311.13404v1](http://arxiv.org/abs/2311.13404v1)|**[link](https://github.com/YessionCC/AnimatableGaussian)**|
+|**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398v1](http://arxiv.org/abs/2311.13398v1)|null|
+|**2023-11-22**|**3D Face Style Transfer with a Hybrid Solution of NeRF and Mesh Rasterization**|Jianwei Feng et.al.|[2311.13168v1](http://arxiv.org/abs/2311.13168v1)|null|
+|**2023-11-22**|**PIE-NeRF: Physics-based Interactive Elastodynamics with NeRF**|Yutao Feng et.al.|[2311.13099v1](http://arxiv.org/abs/2311.13099v1)|null|
 |**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775v1](http://arxiv.org/abs/2311.12775v1)|null|
 |**2023-11-21**|**Hyb-NeRF: A Multiresolution Hybrid Encoding for Neural Radiance Fields**|Yifan Wang et.al.|[2311.12490v1](http://arxiv.org/abs/2311.12490v1)|null|
 |**2023-11-18**|**Towards Function Space Mesh Watermarking: Protecting the Copyright of Signed Distance Fields**|Xingyu Zhu et.al.|[2311.12059v1](http://arxiv.org/abs/2311.12059v1)|null|
