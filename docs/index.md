@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.24
+## Updated on 2023.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -177,7 +177,7 @@ layout: default
 |**2023-11-22**|**SiGeo: Sub-One-Shot NAS via Information Theory and Geometry of Loss Landscape**|Hua Zheng et.al.|[2311.13169v1](http://arxiv.org/abs/2311.13169v1)|null|
 |**2023-11-22**|**Towards Better Parameter-Efficient Fine-Tuning for Large Language Models: A Position Paper**|Chengyu Wang et.al.|[2311.13126v1](http://arxiv.org/abs/2311.13126v1)|null|
 |**2023-11-22**|**Multi-modal In-Context Learning Makes an Ego-evolving Scene Text Recognizer**|Zhen Zhao et.al.|[2311.13120v1](http://arxiv.org/abs/2311.13120v1)|null|
-|**2023-11-22**|**FuseNet: Self-Supervised Dual-Path Network for Medical Image Segmentation**|Amirhossein Kazerouni et.al.|[2311.13069v1](http://arxiv.org/abs/2311.13069v1)|null|
+|**2023-11-22**|**FuseNet: Self-Supervised Dual-Path Network for Medical Image Segmentation**|Amirhossein Kazerouni et.al.|[2311.13069v1](http://arxiv.org/abs/2311.13069v1)|**[link](https://github.com/xmindflow/fusenet)**|
 |**2023-11-21**|**GAIA: a benchmark for General AI Assistants**|Grégoire Mialon et.al.|[2311.12983v1](http://arxiv.org/abs/2311.12983v1)|null|
 |**2023-11-21**|**ShareGPT4V: Improving Large Multi-Modal Models with Better Captions**|Lin Chen et.al.|[2311.12793v1](http://arxiv.org/abs/2311.12793v1)|**[link](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V)**|
 |**2023-11-21**|**Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatially Relation Matching**|Meng Chu et.al.|[2311.12751v1](http://arxiv.org/abs/2311.12751v1)|null|
