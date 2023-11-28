@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.27
+## Updated on 2023.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -173,6 +173,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Joint Diffusion: Mutual Consistency-Driven Diffusion Model for PET-MRI Co-Reconstruction**|Taofeng Xie et.al.|[2311.14473v1](http://arxiv.org/abs/2311.14473v1)|null|
+|**2023-11-24**|**Deformable multi-modal image registration for the correlation between optical measurements and histology images**|Lianne Feenstra et.al.|[2311.14414v1](http://arxiv.org/abs/2311.14414v1)|null|
+|**2023-11-24**|**Robust Domain Misinformation Detection via Multi-modal Feature Alignment**|Hui Liu et.al.|[2311.14315v1](http://arxiv.org/abs/2311.14315v1)|**[link](https://github.com/less-and-less-bugs/rdcm)**|
+|**2023-11-24**|**Image Super-Resolution with Text Prompt Diffusion**|Zheng Chen et.al.|[2311.14282v1](http://arxiv.org/abs/2311.14282v1)|**[link](https://github.com/zhengchen1999/promptsr)**|
+|**2023-11-24**|**Multi-modal Instance Refinement for Cross-domain Action Recognition**|Yuan Qing et.al.|[2311.14281v1](http://arxiv.org/abs/2311.14281v1)|null|
+|**2023-11-24**|**ZeroPS: High-quality Cross-modal Knowledge Transfer for Zero-Shot 3D Part Segmentation**|Yuheng Xue et.al.|[2311.14262v1](http://arxiv.org/abs/2311.14262v1)|null|
+|**2023-11-23**|**Uncovering Gender Stereotypes in Video Game Character Designs: A Multi-Modal Analysis of Honor of Kings**|Bingqing Liu et.al.|[2311.14226v1](http://arxiv.org/abs/2311.14226v1)|null|
+|**2023-11-23**|**A Systematic Review of Deep Learning-based Research on Radiology Report Generation**|Chang Liu et.al.|[2311.14199v1](http://arxiv.org/abs/2311.14199v1)|**[link](https://github.com/synlp/rrg-review)**|
+|**2023-11-23**|**AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**|Shicheng Xu et.al.|[2311.14084v1](http://arxiv.org/abs/2311.14084v1)|null|
+|**2023-11-23**|**MLLM-Bench, Evaluating Multi-modal LLMs using GPT-4V**|Wentao Ge et.al.|[2311.13951v1](http://arxiv.org/abs/2311.13951v1)|null|
+|**2023-11-23**|**Weakly-Supervised Video Moment Retrieval via Regularized Two-Branch Proposal Networks with Erasing Mechanism**|Haoyuan Li et.al.|[2311.13946v1](http://arxiv.org/abs/2311.13946v1)|null|
+|**2023-11-23**|**Perceptual Image Compression with Cooperative Cross-Modal Side Information**|Shiyu Qin et.al.|[2311.13847v1](http://arxiv.org/abs/2311.13847v1)|null|
+|**2023-11-23**|**Molecular Identification and Peak Assignment: Leveraging Multi-Level Multimodal Alignment on NMR**|Hao Xu et.al.|[2311.13817v1](http://arxiv.org/abs/2311.13817v1)|null|
+|**2023-11-23**|**On the Feasibility of Reasoning about the Internal States of Blackbox IoT Devices Using Side-Channel Information**|Wei Sun et.al.|[2311.13761v1](http://arxiv.org/abs/2311.13761v1)|null|
+|**2023-11-23**|**3D-MIR: A Benchmark and Empirical Study on 3D Medical Image Retrieval in Radiology**|Asma Ben Abacha et.al.|[2311.13752v1](http://arxiv.org/abs/2311.13752v1)|null|
 |**2023-11-22**|**Robust Multi-Model Subset Selection**|Anthony-Alexander Christidis et.al.|[2311.13202v1](http://arxiv.org/abs/2311.13202v1)|null|
 |**2023-11-22**|**SiGeo: Sub-One-Shot NAS via Information Theory and Geometry of Loss Landscape**|Hua Zheng et.al.|[2311.13169v1](http://arxiv.org/abs/2311.13169v1)|null|
 |**2023-11-22**|**Towards Better Parameter-Efficient Fine-Tuning for Large Language Models: A Position Paper**|Chengyu Wang et.al.|[2311.13126v1](http://arxiv.org/abs/2311.13126v1)|null|
@@ -2197,6 +2212,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Animate124: Animating One Image to 4D Dynamic Scene**|Yuyang Zhao et.al.|[2311.14603v1](http://arxiv.org/abs/2311.14603v1)|null|
+|**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521v1](http://arxiv.org/abs/2311.14521v1)|null|
+|**2023-11-23**|**ECRF: Entropy-Constrained Neural Radiance Fields Compression with Frequency Domain Optimization**|Soonbin Lee et.al.|[2311.14208v1](http://arxiv.org/abs/2311.14208v1)|null|
+|**2023-11-23**|**Tube-NeRF: Efficient Imitation Learning of Visuomotor Policies from MPC using Tube-Guided Data Augmentation and NeRFs**|Andrea Tagliabue et.al.|[2311.14153v1](http://arxiv.org/abs/2311.14153v1)|null|
+|**2023-11-23**|**Towards Transferable Multi-modal Perception Representation Learning for Autonomy: NeRF-Supervised Masked AutoEncoder**|Xiaohao Xu et.al.|[2311.13750v1](http://arxiv.org/abs/2311.13750v1)|null|
+|**2023-11-22**|**Compact 3D Gaussian Representation for Radiance Field**|Joo Chan Lee et.al.|[2311.13681v1](http://arxiv.org/abs/2311.13681v1)|null|
+|**2023-11-22**|**Boosting3D: High-Fidelity Image-to-3D by Boosting 2D Diffusion Prior to 3D Prior with Progressive Learning**|Kai Yu et.al.|[2311.13617v1](http://arxiv.org/abs/2311.13617v1)|null|
 |**2023-11-22**|**Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**|Keyang Ye et.al.|[2311.13404v1](http://arxiv.org/abs/2311.13404v1)|null|
 |**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398v1](http://arxiv.org/abs/2311.13398v1)|null|
 |**2023-11-22**|**3D Face Style Transfer with a Hybrid Solution of NeRF and Mesh Rasterization**|Jianwei Feng et.al.|[2311.13168v1](http://arxiv.org/abs/2311.13168v1)|null|
