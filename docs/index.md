@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.29
+## Updated on 2023.11.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -173,6 +173,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting**|Xian Liu et.al.|[2311.17061v1](http://arxiv.org/abs/2311.17061v1)|null|
+|**2023-11-28**|**MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training**|Pavan Kumar Anasosalu Vasu et.al.|[2311.17049v1](http://arxiv.org/abs/2311.17049v1)|null|
+|**2023-11-28**|**MVBench: A Comprehensive Multi-modal Video Understanding Benchmark**|Kunchang Li et.al.|[2311.17005v1](http://arxiv.org/abs/2311.17005v1)|**[link](https://github.com/opengvlab/ask-anything)**|
+|**2023-11-28**|**LLaFS: When Large-Language Models Meet Few-Shot Segmentation**|Lanyun Zhu et.al.|[2311.16926v1](http://arxiv.org/abs/2311.16926v1)|**[link](https://github.com/lanyunzhu99/llafs)**|
+|**2023-11-28**|**Stein Variational Belief Propagation for Multi-Robot Coordination**|Jana Pavlasek et.al.|[2311.16916v1](http://arxiv.org/abs/2311.16916v1)|null|
+|**2023-11-28**|**Optimisation-Based Multi-Modal Semantic Image Editing**|Bowen Li et.al.|[2311.16882v1](http://arxiv.org/abs/2311.16882v1)|null|
+|**2023-11-28**|**Unified-modal Salient Object Detection via Adaptive Prompt Learning**|Kunpeng Wang et.al.|[2311.16835v1](http://arxiv.org/abs/2311.16835v1)|null|
+|**2023-11-28**|**Multi-Channel Cross Modal Detection of Synthetic Face Images**|M. Ibsen et.al.|[2311.16773v1](http://arxiv.org/abs/2311.16773v1)|null|
+|**2023-11-28**|**Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld**|Yijun Yang et.al.|[2311.16714v1](http://arxiv.org/abs/2311.16714v1)|**[link](https://github.com/stevenyangyj/emma-alfworld)**|
+|**2023-11-28**|**Pseudo-Likelihood Inference**|Theo Gruner et.al.|[2311.16656v1](http://arxiv.org/abs/2311.16656v1)|null|
+|**2023-11-28**|**Graph Prompt Learning: A Comprehensive Survey and Beyond**|Xiangguo Sun et.al.|[2311.16534v1](http://arxiv.org/abs/2311.16534v1)|**[link](https://github.com/wxxshirley/awesome-graph-prompt)**|
+|**2023-11-28**|**Efficient Multimodal Diffusion Models Using Joint Data Infilling with Partially Shared U-Net**|Zizhao Hu et.al.|[2311.16488v1](http://arxiv.org/abs/2311.16488v1)|null|
+|**2023-11-27**|**ChartLlama: A Multimodal LLM for Chart Understanding and Generation**|Yucheng Han et.al.|[2311.16483v1](http://arxiv.org/abs/2311.16483v1)|null|
+|**2023-11-28**|**Bridging the Gap: A Unified Video Comprehension Framework for Moment Retrieval and Highlight Detection**|Yicheng Xiao et.al.|[2311.16464v1](http://arxiv.org/abs/2311.16464v1)|**[link](https://github.com/easonxiao-888/uvcom)**|
+|**2023-11-27**|**InstructMol: Multi-Modal Integration for Building a Versatile and Reliable Molecular Assistant in Drug Discovery**|He Cao et.al.|[2311.16208v1](http://arxiv.org/abs/2311.16208v1)|null|
 |**2023-11-27**|**Single-Model and Any-Modality for Video Object Tracking**|Zongwei Wu et.al.|[2311.15851v1](http://arxiv.org/abs/2311.15851v1)|null|
 |**2023-11-27**|**Side4Video: Spatial-Temporal Side Network for Memory-Efficient Image-to-Video Transfer Learning**|Huanjin Yao et.al.|[2311.15769v1](http://arxiv.org/abs/2311.15769v1)|**[link](https://github.com/HJYao00/Side4Video)**|
 |**2023-11-27**|**MARIS: Referring Image Segmentation via Mutual-Aware Attention Features**|Mengxi Zhang et.al.|[2311.15727v1](http://arxiv.org/abs/2311.15727v1)|null|
@@ -2157,7 +2172,7 @@ layout: default
 |**2023-07-18**|**Quark/Gluon Discrimination and Top Tagging with Dual Attention Transformer**|Minxuan He et.al.|[2307.04723v2](http://arxiv.org/abs/2307.04723v2)|null|
 |**2023-06-21**|**Sigma-point Kalman Filter with Nonlinear Unknown Input Estimation via Optimization and Data-driven Approach for Dynamic Systems**|Junn Yong Loo et.al.|[2306.12361v1](http://arxiv.org/abs/2306.12361v1)|null|
 |**2023-06-23**|**ExpPoint-MAE: Better interpretability and performance for self-supervised point cloud transformers**|Ioannis Romanelis et.al.|[2306.10798v2](http://arxiv.org/abs/2306.10798v2)|**[link](https://github.com/vvrpanda/exppoint-mae)**|
-|**2023-10-31**|**Simplifying and Empowering Transformers for Large-Graph Representations**|Qitian Wu et.al.|[2306.10759v3](http://arxiv.org/abs/2306.10759v3)|**[link](https://github.com/qitianwu/sgformer)**|
+|**2023-10-31**|**Simplifying and Empowering Transformers for Large-Graph Representations**|Qitian Wu et.al.|[2306.10759v3](http://arxiv.org/abs/2306.10759v3)|null|
 |**2023-05-08**|**OctFormer: Octree-based Transformers for 3D Point Clouds**|Peng-Shuai Wang et.al.|[2305.03045v2](http://arxiv.org/abs/2305.03045v2)|**[link](https://github.com/octree-nn/octformer)**|
 |**2023-05-04**|**Point Transformer For Coronary Artery Labeling**|Xu Wang et.al.|[2305.02533v1](http://arxiv.org/abs/2305.02533v1)|null|
 |**2023-05-01**|**Point Cloud Semantic Segmentation**|Ivan Martinović et.al.|[2305.00773v1](http://arxiv.org/abs/2305.00773v1)|null|
@@ -2226,6 +2241,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**UC-NeRF: Neural Radiance Field for Under-Calibrated multi-view cameras in autonomous driving**|Kai Cheng et.al.|[2311.16945v1](http://arxiv.org/abs/2311.16945v1)|null|
+|**2023-11-28**|**The Sky's the Limit: Re-lightable Outdoor Scenes via a Sky-pixel Constrained Illumination Prior and Outside-In Visibility**|James A. D. Gardner et.al.|[2311.16937v1](http://arxiv.org/abs/2311.16937v1)|**[link](https://github.com/jadgardner/neusky)**|
+|**2023-11-28**|**SplitNeRF: Split Sum Approximation Neural Field for Joint Geometry, Illumination, and Material Estimation**|Jesus Zarzar et.al.|[2311.16671v1](http://arxiv.org/abs/2311.16671v1)|null|
+|**2023-11-28**|**DGNR: Density-Guided Neural Point Rendering of Large Driving Scenes**|Zhuopeng Li et.al.|[2311.16664v1](http://arxiv.org/abs/2311.16664v1)|null|
+|**2023-11-28**|**SCALAR-NeRF: SCAlable LARge-scale Neural Radiance Fields for Scene Reconstruction**|Yu Chen et.al.|[2311.16657v1](http://arxiv.org/abs/2311.16657v1)|null|
+|**2023-11-28**|**Rethinking Directional Integration in Neural Radiance Fields**|Congyue Deng et.al.|[2311.16504v1](http://arxiv.org/abs/2311.16504v1)|null|
+|**2023-11-27**|**Deceptive-Human: Prompt-to-NeRF 3D Human Generation with 3D-Consistent Synthetic Images**|Shiu-hong Kao et.al.|[2311.16499v1](http://arxiv.org/abs/2311.16499v1)|null|
+|**2023-11-26**|**GS-IR: 3D Gaussian Splatting for Inverse Rendering**|Zhihao Liang et.al.|[2311.16473v1](http://arxiv.org/abs/2311.16473v1)|**[link](https://github.com/lzhnb/gs-ir)**|
 |**2023-11-27**|**Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**|Zhe Li et.al.|[2311.16096v1](http://arxiv.org/abs/2311.16096v1)|**[link](https://github.com/lizhe00/animatablegaussians)**|
 |**2023-11-27**|**SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using Neural Radiance Fields**|Quentin Herau et.al.|[2311.15803v1](http://arxiv.org/abs/2311.15803v1)|null|
 |**2023-11-27**|**CaesarNeRF: Calibrated Semantic Representation for Few-shot Generalizable Neural Rendering**|Haidong Zhu et.al.|[2311.15510v1](http://arxiv.org/abs/2311.15510v1)|**[link](https://github.com/haidongz-usc/CaesarNeRF)**|
