@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.30
+## Updated on 2023.12.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -173,6 +173,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation**|Qidong Huang et.al.|[2311.17911v1](http://arxiv.org/abs/2311.17911v1)|**[link](https://github.com/shikiw/opera)**|
+|**2023-11-29**|**DAP: Domain-aware Prompt Learning for Vision-and-Language Navigation**|Ting Liu et.al.|[2311.17812v1](http://arxiv.org/abs/2311.17812v1)|null|
+|**2023-11-29**|**ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model**|Fukun Yin et.al.|[2311.17618v1](http://arxiv.org/abs/2311.17618v1)|null|
+|**2023-11-29**|**Query-Relevant Images Jailbreak Large Multi-Modal Models**|Xin Liu et.al.|[2311.17600v1](http://arxiv.org/abs/2311.17600v1)|null|
+|**2023-11-29**|**Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning**|Yiwen Ye et.al.|[2311.17597v1](http://arxiv.org/abs/2311.17597v1)|null|
+|**2023-11-29**|**SigFormer: Sparse Signal-Guided Transformer for Multi-Modal Human Action Segmentation**|Qi Liu et.al.|[2311.17428v1](http://arxiv.org/abs/2311.17428v1)|**[link](https://github.com/liuqi-creat/sigformer)**|
+|**2023-11-29**|**Deepfakes, Misinformation, and Disinformation in the Era of Frontier AI, Generative AI, and Large AI Models**|Mohamed R. Shoaib et.al.|[2311.17394v1](http://arxiv.org/abs/2311.17394v1)|null|
+|**2023-11-29**|**eMotions: A Large-Scale Dataset for Emotion Recognition in Short Videos**|Xuecheng Wu et.al.|[2311.17335v1](http://arxiv.org/abs/2311.17335v1)|**[link](https://github.com/xuecwu/emotions)**|
+|**2023-11-29**|**Explaining CLIP's performance disparities on data from blind/low vision users**|Daniela Massiceti et.al.|[2311.17315v1](http://arxiv.org/abs/2311.17315v1)|null|
+|**2023-11-28**|**E-ViLM: Efficient Video-Language Model via Masked Video Modeling with Semantic Vector-Quantized Tokenizer**|Jacob Zhiyuan Fang et.al.|[2311.17267v1](http://arxiv.org/abs/2311.17267v1)|null|
+|**2023-11-28**|**THInImg: Cross-modal Steganography for Presenting Talking Heads in Images**|Lin Zhao et.al.|[2311.17177v1](http://arxiv.org/abs/2311.17177v1)|null|
 |**2023-11-28**|**HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting**|Xian Liu et.al.|[2311.17061v1](http://arxiv.org/abs/2311.17061v1)|null|
 |**2023-11-28**|**MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training**|Pavan Kumar Anasosalu Vasu et.al.|[2311.17049v1](http://arxiv.org/abs/2311.17049v1)|null|
 |**2023-11-28**|**MVBench: A Comprehensive Multi-modal Video Understanding Benchmark**|Kunchang Li et.al.|[2311.17005v1](http://arxiv.org/abs/2311.17005v1)|**[link](https://github.com/opengvlab/ask-anything)**|
@@ -2241,6 +2252,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**AvatarStudio: High-fidelity and Animatable 3D Avatar Creation from Text**|Jianfeng Zhang et.al.|[2311.17917v1](http://arxiv.org/abs/2311.17917v1)|null|
+|**2023-11-29**|**FisherRF: Active View Selection and Uncertainty Quantification for Radiance Fields using Fisher Information**|Wen Jiang et.al.|[2311.17874v1](http://arxiv.org/abs/2311.17874v1)|null|
+|**2023-11-29**|**Cinematic Behavior Transfer via NeRF-based Differentiable Filming**|Xuekun Jiang et.al.|[2311.17754v1](http://arxiv.org/abs/2311.17754v1)|null|
+|**2023-11-29**|**SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis**|Ziqiao Peng et.al.|[2311.17590v1](http://arxiv.org/abs/2311.17590v1)|**[link](https://github.com/ZiqiaoPeng/SyncTalk)**|
+|**2023-11-29**|**NeRFTAP: Enhancing Transferability of Adversarial Patches on Face Recognition using Neural Radiance Fields**|Xiaoliang Liu et.al.|[2311.17332v1](http://arxiv.org/abs/2311.17332v1)|null|
+|**2023-11-28**|**LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS**|Zhiwen Fan et.al.|[2311.17245v1](http://arxiv.org/abs/2311.17245v1)|**[link](https://github.com/VITA-Group/LightGaussian)**|
+|**2023-11-28**|**Continuous Pose for Monocular Cameras in Neural Implicit Representation**|Qi Ma et.al.|[2311.17119v1](http://arxiv.org/abs/2311.17119v1)|**[link](https://github.com/qimaqi/continuous-pose-in-nerf)**|
+|**2023-11-28**|**REF $^2$ -NeRF: Reflection and Refraction aware Neural Radiance Field**|Wooseok Kim et.al.|[2311.17116v1](http://arxiv.org/abs/2311.17116v1)|null|
 |**2023-11-28**|**UC-NeRF: Neural Radiance Field for Under-Calibrated multi-view cameras in autonomous driving**|Kai Cheng et.al.|[2311.16945v1](http://arxiv.org/abs/2311.16945v1)|null|
 |**2023-11-28**|**The Sky's the Limit: Re-lightable Outdoor Scenes via a Sky-pixel Constrained Illumination Prior and Outside-In Visibility**|James A. D. Gardner et.al.|[2311.16937v1](http://arxiv.org/abs/2311.16937v1)|**[link](https://github.com/jadgardner/neusky)**|
 |**2023-11-28**|**SplitNeRF: Split Sum Approximation Neural Field for Joint Geometry, Illumination, and Material Estimation**|Jesus Zarzar et.al.|[2311.16671v1](http://arxiv.org/abs/2311.16671v1)|null|
