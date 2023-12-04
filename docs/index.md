@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.03
+## Updated on 2023.12.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -181,7 +181,7 @@ layout: default
 |**2023-11-30**|**MLLMs-Augmented Visual-Language Representation Learning**|Yanqing Liu et.al.|[2311.18765v1](http://arxiv.org/abs/2311.18765v1)|**[link](https://github.com/lyq312318224/mllms-augmented)**|
 |**2023-11-30**|**Simple Semantic-Aided Few-Shot Learning**|Hai Zhang et.al.|[2311.18649v1](http://arxiv.org/abs/2311.18649v1)|null|
 |**2023-11-30**|**Heterogeneous Graph-based Trajectory Prediction using Local Map Context and Social Interactions**|Daniel Grimm et.al.|[2311.18553v1](http://arxiv.org/abs/2311.18553v1)|null|
-|**2023-11-30**|**VTimeLLM: Empower LLM to Grasp Video Moments**|Bin Huang et.al.|[2311.18445v1](http://arxiv.org/abs/2311.18445v1)|null|
+|**2023-11-30**|**VTimeLLM: Empower LLM to Grasp Video Moments**|Bin Huang et.al.|[2311.18445v1](http://arxiv.org/abs/2311.18445v1)|**[link](https://github.com/huangb23/vtimellm)**|
 |**2023-11-30**|**HMAS: enabling seamless collaboration between drones, quadruped robots, and human operators with efficient spatial awareness**|Amaury Saint-Jore et.al.|[2311.18394v1](http://arxiv.org/abs/2311.18394v1)|null|
 |**2023-11-30**|**Co-speech gestures for human-robot collaboration**|A. Ekrekli et.al.|[2311.18285v1](http://arxiv.org/abs/2311.18285v1)|null|
 |**2023-11-30**|**HKUST at SemEval-2023 Task 1: Visual Word Sense Disambiguation with Context Augmentation and Visual Assistance**|Zhuohao Yin et.al.|[2311.18273v1](http://arxiv.org/abs/2311.18273v1)|**[link](https://github.com/thomas-yin/semeval-2023-task1)**|
