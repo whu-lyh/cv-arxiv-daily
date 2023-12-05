@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.04
+## Updated on 2023.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -28,7 +28,7 @@ layout: default
 |**2023-09-15**|**Simultaneous Trajectory Estimation and Mapping for Autonomous Underwater Proximity Operations**|Aldo Terán Espinoza et.al.|[2309.08780v1](http://arxiv.org/abs/2309.08780v1)|null|
 |**2023-09-13**|**Motion-Bias-Free Feature-Based SLAM**|Alejandro Fontan et.al.|[2309.06792v1](http://arxiv.org/abs/2309.06792v1)|null|
 |**2023-09-06**|**Detection of open cluster rotation fields from Gaia EDR3 proper motions**|Pedro Guilherme-Garcia et.al.|[2309.03396v1](http://arxiv.org/abs/2309.03396v1)|null|
-|**2023-08-31**|**GA-NIFS: JWST/NIRSpec IFU observations of HFLS3 reveal a dense galaxy group at z~6.3**|G. C. Jones et.al.|[2308.16620v1](http://arxiv.org/abs/2308.16620v1)|null|
+|**2023-12-01**|**GA-NIFS: JWST/NIRSpec IFU observations of HFLS3 reveal a dense galaxy group at z~6.3**|G. C. Jones et.al.|[2308.16620v2](http://arxiv.org/abs/2308.16620v2)|null|
 |**2023-08-23**|**Certifiably Optimal Rotation and Pose Estimation Based on the Cayley Map**|Timothy D Barfoot et.al.|[2308.12418v1](http://arxiv.org/abs/2308.12418v1)|null|
 |**2023-08-22**|**Looking into the faintEst WIth MUSE (LEWIS): on the nature of ultra-diffuse galaxies in the Hydra-I cluster.I. Project description and preliminary results**|Enrichetta Iodice et.al.|[2308.11493v1](http://arxiv.org/abs/2308.11493v1)|null|
 |**2023-08-16**|**Advancing Brain-Computer Interface System Performance in Hand Trajectory Estimation with NeuroKinect**|Sidharth Pancholi et.al.|[2308.08654v1](http://arxiv.org/abs/2308.08654v1)|null|
@@ -173,12 +173,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Towards Generalizable Referring Image Segmentation via Target Prompt and Visual Coherence**|Yajie Liu et.al.|[2312.00452v1](http://arxiv.org/abs/2312.00452v1)|null|
+|**2023-11-30**|**Multi-Modal Video Topic Segmentation with Dual-Contrastive Domain Adaptation**|Linzi Xing et.al.|[2312.00220v1](http://arxiv.org/abs/2312.00220v1)|null|
+|**2023-11-30**|**EpiTESTER: Testing Autonomous Vehicles with Epigenetic Algorithm and Attention Mechanism**|Chengjie Lu et.al.|[2312.00207v1](http://arxiv.org/abs/2312.00207v1)|**[link](https://github.com/simula-complex/epitester)**|
+|**2023-11-30**|**CLIP-QDA: An Explainable Concept Bottleneck Model**|Rémi Kazmierczak et.al.|[2312.00110v1](http://arxiv.org/abs/2312.00110v1)|null|
 |**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837v1](http://arxiv.org/abs/2311.18837v1)|null|
 |**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836v1](http://arxiv.org/abs/2311.18836v1)|null|
 |**2023-11-30**|**InstructSeq: Unifying Vision Tasks with Instruction-conditioned Multi-modal Sequence Generation**|Rongyao Fang et.al.|[2311.18835v1](http://arxiv.org/abs/2311.18835v1)|**[link](https://github.com/rongyaofang/instructseq)**|
 |**2023-11-30**|**X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning**|Artemis Panagopoulou et.al.|[2311.18799v1](http://arxiv.org/abs/2311.18799v1)|**[link](https://github.com/artemisp/lavis-xinstructblip)**|
 |**2023-11-30**|**Displayed Type Theory and Semi-Simplicial Types**|Astra Kolomatskaia et.al.|[2311.18781v1](http://arxiv.org/abs/2311.18781v1)|null|
-|**2023-11-30**|**MLLMs-Augmented Visual-Language Representation Learning**|Yanqing Liu et.al.|[2311.18765v1](http://arxiv.org/abs/2311.18765v1)|**[link](https://github.com/lyq312318224/mllms-augmented)**|
+|**2023-12-01**|**MLLMs-Augmented Visual-Language Representation Learning**|Yanqing Liu et.al.|[2311.18765v2](http://arxiv.org/abs/2311.18765v2)|**[link](https://github.com/lyq312318224/mllms-augmented)**|
 |**2023-11-30**|**Simple Semantic-Aided Few-Shot Learning**|Hai Zhang et.al.|[2311.18649v1](http://arxiv.org/abs/2311.18649v1)|null|
 |**2023-11-30**|**Heterogeneous Graph-based Trajectory Prediction using Local Map Context and Social Interactions**|Daniel Grimm et.al.|[2311.18553v1](http://arxiv.org/abs/2311.18553v1)|null|
 |**2023-11-30**|**VTimeLLM: Empower LLM to Grasp Video Moments**|Bin Huang et.al.|[2311.18445v1](http://arxiv.org/abs/2311.18445v1)|**[link](https://github.com/huangb23/vtimellm)**|
@@ -2267,6 +2271,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732v1](http://arxiv.org/abs/2312.00732v1)|**[link](https://github.com/lkeab/gaussian-grouping)**|
+|**2023-11-30**|**LucidDreaming: Controllable Object-Centric 3D Generation**|Zhaoning Wang et.al.|[2312.00588v1](http://arxiv.org/abs/2312.00588v1)|null|
+|**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451v1](http://arxiv.org/abs/2312.00451v1)|null|
+|**2023-11-30**|**PyNeRF: Pyramidal Neural Radiance Fields**|Haithem Turki et.al.|[2312.00252v1](http://arxiv.org/abs/2312.00252v1)|null|
+|**2023-11-30**|**SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting**|Haolin Xiong et.al.|[2312.00206v1](http://arxiv.org/abs/2312.00206v1)|null|
 |**2023-11-30**|**Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing**|Hyelin Nam et.al.|[2311.18608v1](http://arxiv.org/abs/2311.18608v1)|null|
 |**2023-11-30**|**ZeST-NeRF: Using temporal aggregation for Zero-Shot Temporal NeRFs**|Violeta Menéndez González et.al.|[2311.18491v1](http://arxiv.org/abs/2311.18491v1)|null|
 |**2023-11-30**|**Anisotropic Neural Representation Learning for High-Quality Neural Rendering**|Y. Wang et.al.|[2311.18311v1](http://arxiv.org/abs/2311.18311v1)|null|

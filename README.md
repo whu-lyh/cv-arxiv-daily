@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.04
+## Updated on 2023.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -38,7 +38,7 @@
 |**2023-09-15**|**Simultaneous Trajectory Estimation and Mapping for Autonomous Underwater Proximity Operations**|Aldo Terán Espinoza et.al.|[2309.08780v1](http://arxiv.org/abs/2309.08780v1)|null|
 |**2023-09-13**|**Motion-Bias-Free Feature-Based SLAM**|Alejandro Fontan et.al.|[2309.06792v1](http://arxiv.org/abs/2309.06792v1)|null|
 |**2023-09-06**|**Detection of open cluster rotation fields from Gaia EDR3 proper motions**|Pedro Guilherme-Garcia et.al.|[2309.03396v1](http://arxiv.org/abs/2309.03396v1)|null|
-|**2023-08-31**|**GA-NIFS: JWST/NIRSpec IFU observations of HFLS3 reveal a dense galaxy group at z~6.3**|G. C. Jones et.al.|[2308.16620v1](http://arxiv.org/abs/2308.16620v1)|null|
+|**2023-12-01**|**GA-NIFS: JWST/NIRSpec IFU observations of HFLS3 reveal a dense galaxy group at z~6.3**|G. C. Jones et.al.|[2308.16620v2](http://arxiv.org/abs/2308.16620v2)|null|
 |**2023-08-23**|**Certifiably Optimal Rotation and Pose Estimation Based on the Cayley Map**|Timothy D Barfoot et.al.|[2308.12418v1](http://arxiv.org/abs/2308.12418v1)|null|
 |**2023-08-22**|**Looking into the faintEst WIth MUSE (LEWIS): on the nature of ultra-diffuse galaxies in the Hydra-I cluster.I. Project description and preliminary results**|Enrichetta Iodice et.al.|[2308.11493v1](http://arxiv.org/abs/2308.11493v1)|null|
 |**2023-08-16**|**Advancing Brain-Computer Interface System Performance in Hand Trajectory Estimation with NeuroKinect**|Sidharth Pancholi et.al.|[2308.08654v1](http://arxiv.org/abs/2308.08654v1)|null|
@@ -115,7 +115,7 @@
 |**2022-11-23**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v2](http://arxiv.org/abs/2210.01320v2)|null|
 |**2023-02-22**|**GANet: Goal Area Network for Motion Forecasting**|Mingkun Wang et.al.|[2209.09723v3](http://arxiv.org/abs/2209.09723v3)|**[link](https://github.com/kingwmk/ganet)**|
 
-<p align=right>(<a href=#Updated-on-20231204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231205>back to top</a>)</p>
 
 ## Map fusion
 
@@ -181,18 +181,22 @@
 |**2019-03-14**|**AgriColMap: Aerial-Ground Collaborative 3D Mapping for Precision Farming**|Ciro Potena et.al.|[1810.00457v2](http://arxiv.org/abs/1810.00457v2)|null|
 |**2019-03-05**|**Efficient Constellation-Based Map-Merging for Semantic SLAM**|Kristoffer M. Frey et.al.|[1809.09646v2](http://arxiv.org/abs/1809.09646v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231205>back to top</a>)</p>
 
 ## MultiModality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Towards Generalizable Referring Image Segmentation via Target Prompt and Visual Coherence**|Yajie Liu et.al.|[2312.00452v1](http://arxiv.org/abs/2312.00452v1)|null|
+|**2023-11-30**|**Multi-Modal Video Topic Segmentation with Dual-Contrastive Domain Adaptation**|Linzi Xing et.al.|[2312.00220v1](http://arxiv.org/abs/2312.00220v1)|null|
+|**2023-11-30**|**EpiTESTER: Testing Autonomous Vehicles with Epigenetic Algorithm and Attention Mechanism**|Chengjie Lu et.al.|[2312.00207v1](http://arxiv.org/abs/2312.00207v1)|**[link](https://github.com/simula-complex/epitester)**|
+|**2023-11-30**|**CLIP-QDA: An Explainable Concept Bottleneck Model**|Rémi Kazmierczak et.al.|[2312.00110v1](http://arxiv.org/abs/2312.00110v1)|null|
 |**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837v1](http://arxiv.org/abs/2311.18837v1)|null|
 |**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836v1](http://arxiv.org/abs/2311.18836v1)|null|
 |**2023-11-30**|**InstructSeq: Unifying Vision Tasks with Instruction-conditioned Multi-modal Sequence Generation**|Rongyao Fang et.al.|[2311.18835v1](http://arxiv.org/abs/2311.18835v1)|**[link](https://github.com/rongyaofang/instructseq)**|
 |**2023-11-30**|**X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning**|Artemis Panagopoulou et.al.|[2311.18799v1](http://arxiv.org/abs/2311.18799v1)|**[link](https://github.com/artemisp/lavis-xinstructblip)**|
 |**2023-11-30**|**Displayed Type Theory and Semi-Simplicial Types**|Astra Kolomatskaia et.al.|[2311.18781v1](http://arxiv.org/abs/2311.18781v1)|null|
-|**2023-11-30**|**MLLMs-Augmented Visual-Language Representation Learning**|Yanqing Liu et.al.|[2311.18765v1](http://arxiv.org/abs/2311.18765v1)|**[link](https://github.com/lyq312318224/mllms-augmented)**|
+|**2023-12-01**|**MLLMs-Augmented Visual-Language Representation Learning**|Yanqing Liu et.al.|[2311.18765v2](http://arxiv.org/abs/2311.18765v2)|**[link](https://github.com/lyq312318224/mllms-augmented)**|
 |**2023-11-30**|**Simple Semantic-Aided Few-Shot Learning**|Hai Zhang et.al.|[2311.18649v1](http://arxiv.org/abs/2311.18649v1)|null|
 |**2023-11-30**|**Heterogeneous Graph-based Trajectory Prediction using Local Map Context and Social Interactions**|Daniel Grimm et.al.|[2311.18553v1](http://arxiv.org/abs/2311.18553v1)|null|
 |**2023-11-30**|**VTimeLLM: Empower LLM to Grasp Video Moments**|Bin Huang et.al.|[2311.18445v1](http://arxiv.org/abs/2311.18445v1)|**[link](https://github.com/huangb23/vtimellm)**|
@@ -2043,7 +2047,7 @@
 |**2023-02-13**|**CLIP-RR: Improved CLIP Network for Relation-Focused Cross-Modal Information Retrieval**|Yan Gong et.al.|[2302.06350v1](http://arxiv.org/abs/2302.06350v1)|null|
 |**2023-02-13**|**CoMAE: Single Model Hybrid Pre-training on Small-Scale RGB-D Datasets**|Jiange Yang et.al.|[2302.06148v1](http://arxiv.org/abs/2302.06148v1)|**[link](https://github.com/mcg-nju/comae)**|
 
-<p align=right>(<a href=#Updated-on-20231204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231205>back to top</a>)</p>
 
 ## Point Cloud Localization
 
@@ -2060,7 +2064,7 @@
 |**2018-04-03**|**Mining Point Cloud Local Structures by Kernel Correlation and Graph Pooling**|Yiru Shen et.al.|[1712.06760v2](http://arxiv.org/abs/1712.06760v2)|null|
 |**2017-02-14**|**Graph Based Over-Segmentation Methods for 3D Point Clouds**|Yizhak Ben-Shabat et.al.|[1702.04114v1](http://arxiv.org/abs/1702.04114v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231205>back to top</a>)</p>
 
 ## Place Recognization
 
@@ -2132,7 +2136,7 @@
 |**2021-05-24**|**OverlapNet: Loop Closing for LiDAR-based SLAM**|Xieyuanli Chen et.al.|[2105.11344v1](http://arxiv.org/abs/2105.11344v1)|**[link](https://github.com/PRBonn/OverlapNet)**|
 |**2021-03-23**|**NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation**|Zhicheng Zhou et.al.|[2103.12292v1](http://arxiv.org/abs/2103.12292v1)|**[link](https://github.com/dachengxiaocheng/NDT-Transformer)**|
 
-<p align=right>(<a href=#Updated-on-20231204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231205>back to top</a>)</p>
 
 ## LiDAR SLAM
 
@@ -2201,7 +2205,7 @@
 |**2020-08-09**|**LiDAR Data Enrichment Using Deep Learning Based on High-Resolution Image: An Approach to Achieve High-Performance LiDAR SLAM Using Low-cost LiDAR**|Jiang Yue et.al.|[2008.03694v1](http://arxiv.org/abs/2008.03694v1)|null|
 |**2020-08-05**|**Elasticity Meets Continuous-Time: Map-Centric Dense 3D LiDAR SLAM**|Chanoh Park et.al.|[2008.02274v1](http://arxiv.org/abs/2008.02274v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231205>back to top</a>)</p>
 
 ## Transformer
 
@@ -2285,12 +2289,17 @@
 |**2021-10-14**|**Investigating Attention Mechanism in 3D Point Cloud Object Detection**|Shi Qiu et.al.|[2108.00620v2](http://arxiv.org/abs/2108.00620v2)|**[link](https://github.com/ShiQiu0419/attentions_in_3D_detection)**|
 |**2021-07-29**|**Reduction of balance laws in (3+1)--dimensions to autonomous conservation laws by means of equivalence transformations**|Matteo Gorgone et.al.|[2107.14144v1](http://arxiv.org/abs/2107.14144v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231205>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732v1](http://arxiv.org/abs/2312.00732v1)|**[link](https://github.com/lkeab/gaussian-grouping)**|
+|**2023-11-30**|**LucidDreaming: Controllable Object-Centric 3D Generation**|Zhaoning Wang et.al.|[2312.00588v1](http://arxiv.org/abs/2312.00588v1)|null|
+|**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451v1](http://arxiv.org/abs/2312.00451v1)|null|
+|**2023-11-30**|**PyNeRF: Pyramidal Neural Radiance Fields**|Haithem Turki et.al.|[2312.00252v1](http://arxiv.org/abs/2312.00252v1)|null|
+|**2023-11-30**|**SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting**|Haolin Xiong et.al.|[2312.00206v1](http://arxiv.org/abs/2312.00206v1)|null|
 |**2023-11-30**|**Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing**|Hyelin Nam et.al.|[2311.18608v1](http://arxiv.org/abs/2311.18608v1)|null|
 |**2023-11-30**|**ZeST-NeRF: Using temporal aggregation for Zero-Shot Temporal NeRFs**|Violeta Menéndez González et.al.|[2311.18491v1](http://arxiv.org/abs/2311.18491v1)|null|
 |**2023-11-30**|**Anisotropic Neural Representation Learning for High-Quality Neural Rendering**|Y. Wang et.al.|[2311.18311v1](http://arxiv.org/abs/2311.18311v1)|null|
@@ -2795,7 +2804,7 @@
 |**2022-12-08**|**GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields**|Alessandro Ruzzi et.al.|[2212.04823v1](http://arxiv.org/abs/2212.04823v1)|**[link](https://github.com/alessandroruzzi/gazenerf)**|
 |**2022-12-09**|**4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**|Zhongshu Wang et.al.|[2212.04701v1](http://arxiv.org/abs/2212.04701v1)|**[link](https://github.com/frozoul/4k-nerf)**|
 
-<p align=right>(<a href=#Updated-on-20231204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231205>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
