@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.05
+## Updated on 2023.12.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**GA-NIFS: The core of an extremely massive proto-cluster at the Epoch of Reionization probed with JWST/NIRSpec**|Santiago Arribas et.al.|[2312.00899v1](http://arxiv.org/abs/2312.00899v1)|null|
 |**2023-11-17**|**Galaxy stellar and total mass estimation using machine learning**|Jiani Chu et.al.|[2311.10351v1](http://arxiv.org/abs/2311.10351v1)|null|
 |**2023-11-13**|**Dynamically Weighted Factor-Graph for Feature-based Geo-localization**|Miguel Ángel Muñoz-Bañón et.al.|[2311.07301v1](http://arxiv.org/abs/2311.07301v1)|null|
 |**2023-10-23**|**Label Space Partition Selection for Multi-Object Tracking Using Two-Layer Partitioning**|Ji Youn Lee et.al.|[2310.14506v1](http://arxiv.org/abs/2310.14506v1)|null|
@@ -173,6 +174,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Aligning and Prompting Everything All at Once for Universal Visual Perception**|Yunhang Shen et.al.|[2312.02153v1](http://arxiv.org/abs/2312.02153v1)|**[link](https://github.com/shenyunhang/ape)**|
+|**2023-12-04**|**Unsupervised Anomaly Detection using Aggregated Normative Diffusion**|Alexander Frotscher et.al.|[2312.01904v1](http://arxiv.org/abs/2312.01904v1)|**[link](https://github.com/alexanderfrotscher/andi)**|
+|**2023-12-04**|**InstructTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models**|Xunguang Wang et.al.|[2312.01886v1](http://arxiv.org/abs/2312.01886v1)|null|
+|**2023-12-04**|**Exchange-of-Thought: Enhancing Large Language Model Capabilities through Cross-Model Communication**|Zhangyue Yin et.al.|[2312.01823v1](http://arxiv.org/abs/2312.01823v1)|**[link](https://github.com/yinzhangyue/eot)**|
+|**2023-12-04**|**Exploring Multi-Modal Fusion for Image Manipulation Detection and Localization**|Konstantinos Triaridis et.al.|[2312.01790v1](http://arxiv.org/abs/2312.01790v1)|**[link](https://github.com/idt-iti/mmfusion-iml)**|
+|**2023-12-04**|**Two-stage optimized unified adversarial patch for attacking visible-infrared cross-modal detectors in the physical world**|Chengyin Hu et.al.|[2312.01789v1](http://arxiv.org/abs/2312.01789v1)|null|
+|**2023-12-04**|**CZL-CIAE: CLIP-driven Zero-shot Learning for Correcting Inverse Age Estimation**|Yuntao Shou et.al.|[2312.01758v1](http://arxiv.org/abs/2312.01758v1)|null|
+|**2023-12-04**|**Cross-Modal Adaptive Dual Association for Text-to-Image Person Retrieval**|Dixuan Lin et.al.|[2312.01745v1](http://arxiv.org/abs/2312.01745v1)|null|
+|**2023-12-04**|**Retrieval-augmented Multi-modal Chain-of-Thoughts Reasoning for Large Language Models**|Bingshuai Liu et.al.|[2312.01714v1](http://arxiv.org/abs/2312.01714v1)|null|
+|**2023-12-04**|**Multimodality-guided Image Style Transfer using Cross-modal GAN Inversion**|Hanyu Wang et.al.|[2312.01671v1](http://arxiv.org/abs/2312.01671v1)|null|
+|**2023-12-04**|**The Contemporary Art of Image Search: Iterative User Intent Expansion via Vision-Language Model**|Yilin Ye et.al.|[2312.01656v1](http://arxiv.org/abs/2312.01656v1)|null|
+|**2023-12-04**|**TextAug: Test time Text Augmentation for Multimodal Person Re-identification**|Mulham Fawakherji et.al.|[2312.01605v1](http://arxiv.org/abs/2312.01605v1)|null|
+|**2023-12-04**|**Multimodal Speech Emotion Recognition Using Modality-specific Self-Supervised Frameworks**|Rutherford Agbeshi Patamia et.al.|[2312.01568v1](http://arxiv.org/abs/2312.01568v1)|null|
+|**2023-12-04**|**APoLLo: Unified Adapter and Prompt Learning for Vision Language Models**|Sanjoy Chowdhury et.al.|[2312.01564v1](http://arxiv.org/abs/2312.01564v1)|null|
+|**2023-12-03**|**Unlocking the Potential of Federated Learning: The Symphony of Dataset Distillation via Deep Generative Latents**|Yuqi Jia et.al.|[2312.01537v1](http://arxiv.org/abs/2312.01537v1)|**[link](https://github.com/feddg23/feddg-main)**|
 |**2023-12-01**|**Towards Generalizable Referring Image Segmentation via Target Prompt and Visual Coherence**|Yajie Liu et.al.|[2312.00452v1](http://arxiv.org/abs/2312.00452v1)|null|
 |**2023-11-30**|**Multi-Modal Video Topic Segmentation with Dual-Contrastive Domain Adaptation**|Linzi Xing et.al.|[2312.00220v1](http://arxiv.org/abs/2312.00220v1)|null|
 |**2023-11-30**|**EpiTESTER: Testing Autonomous Vehicles with Epigenetic Algorithm and Attention Mechanism**|Chengjie Lu et.al.|[2312.00207v1](http://arxiv.org/abs/2312.00207v1)|**[link](https://github.com/simula-complex/epitester)**|
@@ -2189,6 +2205,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**SARA-RT: Scaling up Robotics Transformers with Self-Adaptive Robust Attention**|Isabel Leal et.al.|[2312.01990v1](http://arxiv.org/abs/2312.01990v1)|null|
 |**2023-11-07**|**Learning Super-Resolution Ultrasound Localization Microscopy from Radio-Frequency Data**|Christopher Hahne et.al.|[2311.04081v1](http://arxiv.org/abs/2311.04081v1)|null|
 |**2023-10-22**|**Exact FLRW cosmological solutions via invariants of the symmetry groups**|E. Ahmadi Azar et.al.|[2310.19772v1](http://arxiv.org/abs/2310.19772v1)|null|
 |**2023-10-25**|**General Point Model with Autoencoding and Autoregressive**|Zhe Li et.al.|[2310.16861v1](http://arxiv.org/abs/2310.16861v1)|null|
@@ -2271,6 +2288,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction**|Yufei Shi et.al.|[2312.02015v1](http://arxiv.org/abs/2312.02015v1)|null|
+|**2023-12-04**|**Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training**|Runze He et.al.|[2312.01663v1](http://arxiv.org/abs/2312.01663v1)|null|
+|**2023-12-03**|**SANeRF-HQ: Segment Anything for NeRF in High Quality**|Yichen Liu et.al.|[2312.01531v1](http://arxiv.org/abs/2312.01531v1)|null|
+|**2023-12-03**|**VideoRF: Rendering Dynamic Radiance Fields as 2D Feature Video Streams**|Liao Wang et.al.|[2312.01407v1](http://arxiv.org/abs/2312.01407v1)|null|
+|**2023-12-02**|**Self-Evolving Neural Radiance Fields**|Jaewoo Jung et.al.|[2312.01003v1](http://arxiv.org/abs/2312.01003v1)|null|
 |**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732v1](http://arxiv.org/abs/2312.00732v1)|**[link](https://github.com/lkeab/gaussian-grouping)**|
 |**2023-11-30**|**LucidDreaming: Controllable Object-Centric 3D Generation**|Zhaoning Wang et.al.|[2312.00588v1](http://arxiv.org/abs/2312.00588v1)|null|
 |**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451v1](http://arxiv.org/abs/2312.00451v1)|null|
