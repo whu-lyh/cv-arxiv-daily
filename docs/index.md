@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.07
+## Updated on 2023.12.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-06**|**Markov Chain Monte Carlo Data Association for Sets of Trajectories**|Yuxuan Xia et.al.|[2312.03423v1](http://arxiv.org/abs/2312.03423v1)|null|
 |**2023-12-05**|**GNSS Odometry: Precise Trajectory Estimation Based on Carrier Phase Cycle Slip Estimation**|Taro Suzuki et.al.|[2312.02424v1](http://arxiv.org/abs/2312.02424v1)|null|
 |**2023-12-01**|**GA-NIFS: The core of an extremely massive proto-cluster at the Epoch of Reionization probed with JWST/NIRSpec**|Santiago Arribas et.al.|[2312.00899v1](http://arxiv.org/abs/2312.00899v1)|null|
 |**2023-11-17**|**Galaxy stellar and total mass estimation using machine learning**|Jiani Chu et.al.|[2311.10351v1](http://arxiv.org/abs/2311.10351v1)|null|
@@ -175,6 +176,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-06**|**Building a Digital Twin for British Cities**|Michael Batty et.al.|[2312.03674v1](http://arxiv.org/abs/2312.03674v1)|null|
+|**2023-12-06**|**WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on**|xujie zhang et.al.|[2312.03667v1](http://arxiv.org/abs/2312.03667v1)|null|
+|**2023-12-06**|**Transformer-Powered Surrogates Close the ICF Simulation-Experiment Gap with Extremely Limited Data**|Matthew L. Olson et.al.|[2312.03642v1](http://arxiv.org/abs/2312.03642v1)|null|
+|**2023-12-06**|**GPT-4 Enhanced Multimodal Grounding for Autonomous Driving: Leveraging Cross-Modal Attention with Large Language Models**|Haicheng Liao et.al.|[2312.03543v1](http://arxiv.org/abs/2312.03543v1)|**[link](https://github.com/petrichor625/talk2car_cavg)**|
+|**2023-12-06**|**UFineBench: Towards Text-based Person Retrieval with Ultra-fine Granularity**|Jialong Zuo et.al.|[2312.03441v1](http://arxiv.org/abs/2312.03441v1)|**[link](https://github.com/zplusdragon/ufinebench)**|
+|**2023-12-05**|**LLMs for Multi-Modal Knowledge Extraction and Analysis in Intelligence/Safety-Critical Applications**|Brett Israelsen et.al.|[2312.03088v1](http://arxiv.org/abs/2312.03088v1)|null|
+|**2023-12-05**|**Uni3DL: Unified Model for 3D and Language Understanding**|Xiang Li et.al.|[2312.03026v1](http://arxiv.org/abs/2312.03026v1)|null|
+|**2023-12-05**|**Training on Synthetic Data Beats Real Data in Multimodal Relation Extraction**|Zilin Du et.al.|[2312.03025v1](http://arxiv.org/abs/2312.03025v1)|null|
 |**2023-12-05**|**LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models**|Hao Zhang et.al.|[2312.02949v1](http://arxiv.org/abs/2312.02949v1)|**[link](https://github.com/ux-decoder/llava-grounding)**|
 |**2023-12-05**|**PMMTalk: Speech-Driven 3D Facial Animation from Complementary Pseudo Multi-modal Features**|Tianshun Han et.al.|[2312.02781v1](http://arxiv.org/abs/2312.02781v1)|null|
 |**2023-12-05**|**Scaling Laws for Adversarial Attacks on Language Model Activations**|Stanislav Fort et.al.|[2312.02780v1](http://arxiv.org/abs/2312.02780v1)|null|
@@ -2298,6 +2307,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-06**|**Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle**|Youtian Lin et.al.|[2312.03431v1](http://arxiv.org/abs/2312.03431v1)|null|
+|**2023-12-06**|**Artist-Friendly Relightable and Animatable Neural Heads**|Yingyan Xu et.al.|[2312.03420v1](http://arxiv.org/abs/2312.03420v1)|null|
+|**2023-12-06**|**Evaluating the point cloud of individual trees generated from images based on Neural Radiance fields (NeRF) method**|Hongyu Huang et.al.|[2312.03372v1](http://arxiv.org/abs/2312.03372v1)|null|
+|**2023-12-06**|**RING-NeRF: A Versatile Architecture based on Residual Implicit Neural Grids**|Doriand Petit et.al.|[2312.03357v1](http://arxiv.org/abs/2312.03357v1)|null|
+|**2023-12-06**|**SO-NeRF: Active View Planning for NeRF using Surrogate Objectives**|Keifer Lee et.al.|[2312.03266v1](http://arxiv.org/abs/2312.03266v1)|null|
+|**2023-12-06**|**Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields**|Shijie Zhou et.al.|[2312.03203v1](http://arxiv.org/abs/2312.03203v1)|null|
+|**2023-12-05**|**HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces**|Haithem Turki et.al.|[2312.03160v1](http://arxiv.org/abs/2312.03160v1)|null|
 |**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu et.al.|[2312.02981v1](http://arxiv.org/abs/2312.02981v1)|null|
 |**2023-12-05**|**GauHuman: Articulated Gaussian Splatting from Monocular Human Videos**|Shoukang Hu et.al.|[2312.02973v1](http://arxiv.org/abs/2312.02973v1)|**[link](https://github.com/skhu101/gauhuman)**|
 |**2023-12-05**|**Alchemist: Parametric Control of Material Properties with Diffusion Models**|Prafull Sharma et.al.|[2312.02970v1](http://arxiv.org/abs/2312.02970v1)|null|
