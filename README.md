@@ -316,7 +316,7 @@
 |**2023-11-21**|**GAIA: a benchmark for General AI Assistants**|Grégoire Mialon et.al.|[2311.12983v1](http://arxiv.org/abs/2311.12983v1)|null|
 |**2023-11-21**|**ShareGPT4V: Improving Large Multi-Modal Models with Better Captions**|Lin Chen et.al.|[2311.12793v1](http://arxiv.org/abs/2311.12793v1)|**[link](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V)**|
 |**2023-11-21**|**Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatially Relation Matching**|Meng Chu et.al.|[2311.12751v1](http://arxiv.org/abs/2311.12751v1)|null|
-|**2023-11-21**|**Managing ML-Based Application Non-Functional Behavior: A Multi-Model Approach**|Marco Anisetti et.al.|[2311.12686v1](http://arxiv.org/abs/2311.12686v1)|null|
+|**2023-11-21**|**Managing ML-Based Application Non-Functional Behavior: A Multi-Model Approach**|Marco Anisetti et.al.|[2311.12686v1](http://arxiv.org/abs/2311.12686v1)|**[link](https://github.com/sesarlab/continuous-management-of-ml-applications)**|
 |**2023-11-21**|**LIP-RTVE: An Audiovisual Database for Continuous Spanish in the Wild**|David Gimeno-Gómez et.al.|[2311.12457v1](http://arxiv.org/abs/2311.12457v1)|**[link](https://github.com/david-gimeno/lip-rtve)**|
 |**2023-11-22**|**Learning Site-specific Styles for Multi-institutional Unsupervised Cross-modality Domain Adaptation**|Han Liu et.al.|[2311.12437v2](http://arxiv.org/abs/2311.12437v2)|**[link](https://github.com/medicl-vu/crossmoda2023)**|
 |**2023-11-21**|**Modality Mixer Exploiting Complementary Information for Multi-modal Action Recognition**|Sumin Lee et.al.|[2311.12344v1](http://arxiv.org/abs/2311.12344v1)|null|
@@ -434,7 +434,7 @@
 |**2023-11-04**|**Contrastive Multi-Modal Representation Learning for Spark Plug Fault Diagnosis**|Ardavan Modarres et.al.|[2311.02282v1](http://arxiv.org/abs/2311.02282v1)|null|
 |**2023-11-03**|**COSMIC: Data Efficient Instruction-tuning For Speech In-Context Learning**|Jing Pan et.al.|[2311.02248v1](http://arxiv.org/abs/2311.02248v1)|null|
 |**2023-11-03**|**LLM-driven Multimodal Target Volume Contouring in Radiation Oncology**|Yujin Oh et.al.|[2311.01908v1](http://arxiv.org/abs/2311.01908v1)|null|
-|**2023-11-03**|**Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion**|Xilai Li et.al.|[2311.01886v1](http://arxiv.org/abs/2311.01886v1)|null|
+|**2023-11-03**|**Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion**|Xilai Li et.al.|[2311.01886v1](http://arxiv.org/abs/2311.01886v1)|**[link](https://github.com/ixilai/mfif-mmif)**|
 |**2023-11-03**|**Quantitative Evaluation of a Multi-Modal Camera Setup for Fusing Event Data with RGB Images**|Julian Moosmann et.al.|[2311.01881v1](http://arxiv.org/abs/2311.01881v1)|null|
 |**2023-11-03**|**Universal Multi-modal Multi-domain Pre-trained Recommendation**|Wenqi Sun et.al.|[2311.01831v1](http://arxiv.org/abs/2311.01831v1)|null|
 |**2023-11-03**|**Cross-modal Consistency Learning with Fine-grained Fusion Network for Multimodal Fake News Detection**|Jun Li et.al.|[2311.01807v1](http://arxiv.org/abs/2311.01807v1)|**[link](https://github.com/uestc-lj/cffn)**|
@@ -629,7 +629,7 @@
 |**2023-10-08**|**VisionFM: a Multi-Modal Multi-Task Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence**|Jianing Qiu et.al.|[2310.04992v1](http://arxiv.org/abs/2310.04992v1)|null|
 |**2023-10-10**|**Video-Teller: Enhancing Cross-Modal Generation with Fusion and Decoupling**|Haogeng Liu et.al.|[2310.04991v2](http://arxiv.org/abs/2310.04991v2)|null|
 |**2023-10-08**|**Understanding the Robustness of Multi-modal Contrastive Learning to Distribution Shift**|Yihao Xue et.al.|[2310.04971v1](http://arxiv.org/abs/2310.04971v1)|null|
-|**2023-10-06**|**VI-Diff: Unpaired Visible-Infrared Translation Diffusion Model for Single Modality Labeled Visible-Infrared Person Re-identification**|Han Huang et.al.|[2310.04122v1](http://arxiv.org/abs/2310.04122v1)|null|
+|**2023-10-06**|**VI-Diff: Unpaired Visible-Infrared Translation Diffusion Model for Single Modality Labeled Visible-Infrared Person Re-identification**|Han Huang et.al.|[2310.04122v1](http://arxiv.org/abs/2310.04122v1)|**[link](https://github.com/hanhuang22/VI-Diff)**|
 |**2023-10-06**|**The "Seen but Unnoticed" Vocabulary of Natural Touch: Revolutionizing Direct Interaction with Our Devices and One Another (UIST 2021 Vision)**|Ken Hinckley et.al.|[2310.03958v1](http://arxiv.org/abs/2310.03958v1)|null|
 |**2023-10-05**|**Improved Baselines with Visual Instruction Tuning**|Haotian Liu et.al.|[2310.03744v1](http://arxiv.org/abs/2310.03744v1)|null|
 |**2023-10-05**|**Modular Speech-to-Text Translation for Zero-Shot Cross-Modal Transfer**|Paul-Ambroise Duquenne et.al.|[2310.03724v1](http://arxiv.org/abs/2310.03724v1)|null|
@@ -1141,7 +1141,7 @@
 |**2023-07-23**|**Multi-Modal Machine Learning for Assessing Gaming Skills in Online Streaming: A Case Study with CS:GO**|Longxiang Zhang et.al.|[2307.12236v1](http://arxiv.org/abs/2307.12236v1)|null|
 |**2023-07-22**|**Prototype-Driven and Multi-Expert Integrated Multi-Modal MR Brain Tumor Image Segmentation**|Yafei Zhang et.al.|[2307.12180v1](http://arxiv.org/abs/2307.12180v1)|**[link](https://github.com/linzy0227/pdminet)**|
 |**2023-07-22**|**Replay: Multi-modal Multi-view Acted Videos for Casual Holography**|Roman Shapovalov et.al.|[2307.12067v1](http://arxiv.org/abs/2307.12067v1)|**[link](https://github.com/facebookresearch/replay_dataset)**|
-|**2023-07-22**|**Discovering Spatio-Temporal Rationales for Video Question Answering**|Yicong Li et.al.|[2307.12058v1](http://arxiv.org/abs/2307.12058v1)|null|
+|**2023-07-22**|**Discovering Spatio-Temporal Rationales for Video Question Answering**|Yicong Li et.al.|[2307.12058v1](http://arxiv.org/abs/2307.12058v1)|**[link](https://github.com/yl3800/transtr)**|
 |**2023-07-21**|**Poverty rate prediction using multi-modal survey and earth observation data**|Simone Fobi et.al.|[2307.11921v1](http://arxiv.org/abs/2307.11921v1)|null|
 |**2023-07-21**|**A multi-modal representation of El Niño Southern Oscillation Diversity**|Jakob Schlör et.al.|[2307.11552v1](http://arxiv.org/abs/2307.11552v1)|**[link](https://github.com/jakob-schloer/latentgmm)**|
 |**2023-07-21**|**Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation**|Zunnan Xu et.al.|[2307.11545v1](http://arxiv.org/abs/2307.11545v1)|**[link](https://github.com/kkakkkka/etris)**|
@@ -1816,7 +1816,7 @@
 |**2023-04-03**|**Multi-modal Fake News Detection on Social Media via Multi-grained Information Fusion**|Yangming Zhou et.al.|[2304.00827v1](http://arxiv.org/abs/2304.00827v1)|null|
 |**2023-04-03**|**Open-Vocabulary Point-Cloud Object Detection without 3D Annotation**|Yuheng Lu et.al.|[2304.00788v1](http://arxiv.org/abs/2304.00788v1)|**[link](https://github.com/lyhdet/ov-3det)**|
 |**2023-04-03**|**Multi-Modal Representation Learning with Text-Driven Soft Masks**|Jaeyoo Park et.al.|[2304.00719v1](http://arxiv.org/abs/2304.00719v1)|null|
-|**2023-04-03**|**CRN: Camera Radar Net for Accurate, Robust, Efficient 3D Perception**|Youngseok Kim et.al.|[2304.00670v1](http://arxiv.org/abs/2304.00670v1)|null|
+|**2023-04-03**|**CRN: Camera Radar Net for Accurate, Robust, Efficient 3D Perception**|Youngseok Kim et.al.|[2304.00670v1](http://arxiv.org/abs/2304.00670v1)|**[link](https://github.com/youngskkim/CRN)**|
 |**2023-04-02**|**Multimodal Hyperspectral Image Classification via Interconnected Fusion**|Lu Huo et.al.|[2304.00495v1](http://arxiv.org/abs/2304.00495v1)|null|
 |**2023-04-02**|**Sketch-based Video Object Localization**|Sangmin Woo et.al.|[2304.00450v1](http://arxiv.org/abs/2304.00450v1)|**[link](https://github.com/sangminwoo/svol)**|
 |**2023-04-01**|**Improved Multimodal Fusion for Small Datasets with Auxiliary Supervision**|Gregory Holste et.al.|[2304.00379v1](http://arxiv.org/abs/2304.00379v1)|null|
@@ -2378,7 +2378,7 @@
 |**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732v1](http://arxiv.org/abs/2312.00732v1)|**[link](https://github.com/lkeab/gaussian-grouping)**|
 |**2023-11-30**|**LucidDreaming: Controllable Object-Centric 3D Generation**|Zhaoning Wang et.al.|[2312.00588v1](http://arxiv.org/abs/2312.00588v1)|null|
 |**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451v1](http://arxiv.org/abs/2312.00451v1)|null|
-|**2023-11-30**|**PyNeRF: Pyramidal Neural Radiance Fields**|Haithem Turki et.al.|[2312.00252v1](http://arxiv.org/abs/2312.00252v1)|null|
+|**2023-11-30**|**PyNeRF: Pyramidal Neural Radiance Fields**|Haithem Turki et.al.|[2312.00252v1](http://arxiv.org/abs/2312.00252v1)|**[link](https://github.com/hturki/pynerf)**|
 |**2023-11-30**|**SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting**|Haolin Xiong et.al.|[2312.00206v1](http://arxiv.org/abs/2312.00206v1)|null|
 |**2023-11-30**|**Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing**|Hyelin Nam et.al.|[2311.18608v1](http://arxiv.org/abs/2311.18608v1)|null|
 |**2023-11-30**|**ZeST-NeRF: Using temporal aggregation for Zero-Shot Temporal NeRFs**|Violeta Menéndez González et.al.|[2311.18491v1](http://arxiv.org/abs/2311.18491v1)|null|
