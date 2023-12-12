@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.11
+## Updated on 2023.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-07**|**The 3D Kinematics of the Orion Nebula Cluster II: Mass-dependent Kinematics of the Inner Cluster**|Lingfeng Wei et.al.|[2312.04751v1](http://arxiv.org/abs/2312.04751v1)|null|
 |**2023-12-07**|**Mixture of Dynamical Variational Autoencoders for Multi-Source Trajectory Modeling and Separation**|Xiaoyu Lin et.al.|[2312.04167v1](http://arxiv.org/abs/2312.04167v1)|null|
 |**2023-12-06**|**Markov Chain Monte Carlo Data Association for Sets of Trajectories**|Yuxuan Xia et.al.|[2312.03423v1](http://arxiv.org/abs/2312.03423v1)|null|
 |**2023-12-05**|**GNSS Odometry: Precise Trajectory Estimation Based on Carrier Phase Cycle Slip Estimation**|Taro Suzuki et.al.|[2312.02424v1](http://arxiv.org/abs/2312.02424v1)|null|
@@ -113,6 +114,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**SiCP: Simultaneous Individual and Cooperative Perception for 3D Object Detection in Connected and Automated Vehicles**|Deyuan Qu et.al.|[2312.04822v1](http://arxiv.org/abs/2312.04822v1)|null|
 |**2023-11-16**|**Consensus-based Resource Scheduling for Collaborative Multi-Robot Tasks**|Nazish Tahir et.al.|[2311.10194v1](http://arxiv.org/abs/2311.10194v1)|null|
 |**2023-11-14**|**CP-SLAM: Collaborative Neural Point-based SLAM System**|Jiarui Hu et.al.|[2311.08013v1](http://arxiv.org/abs/2311.08013v1)|null|
 |**2023-11-06**|**Enabling In-Situ Resources Utilisation by leveraging collaborative robotics and astronaut-robot interaction**|Silvia Romero-Azpitarte et.al.|[2311.03146v1](http://arxiv.org/abs/2311.03146v1)|null|
@@ -177,6 +179,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Cross-BERT for Point Cloud Pretraining**|Xin Li et.al.|[2312.04891v1](http://arxiv.org/abs/2312.04891v1)|null|
+|**2023-12-08**|**SCALER: Versatile Multi-Limbed Robot for Free-Climbing in Extreme Terrains**|Yusuke Tanaka et.al.|[2312.04856v1](http://arxiv.org/abs/2312.04856v1)|null|
+|**2023-12-08**|**CAR: Consolidation, Augmentation and Regulation for Recipe Retrieval**|Fangzhou Song et.al.|[2312.04763v1](http://arxiv.org/abs/2312.04763v1)|null|
+|**2023-12-07**|**Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos**|Mehmet Saygin Seyfioglu et.al.|[2312.04746v1](http://arxiv.org/abs/2312.04746v1)|null|
 |**2023-12-07**|**AVA: Towards Autonomous Visualization Agents through Visual Perception-Driven Decision-Making**|Shusen Liu et.al.|[2312.04494v1](http://arxiv.org/abs/2312.04494v1)|null|
 |**2023-12-07**|**FitDiff: Robust monocular 3D facial shape and reflectance estimation using Diffusion Models**|Stathis Galanakis et.al.|[2312.04465v1](http://arxiv.org/abs/2312.04465v1)|null|
 |**2023-12-07**|**OT-Attack: Enhancing Adversarial Transferability of Vision-Language Models via Optimal Transport Optimization**|Dongchen Han et.al.|[2312.04403v1](http://arxiv.org/abs/2312.04403v1)|null|
@@ -2321,6 +2327,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**TriHuman : A Real-time and Controllable Tri-plane Representation for Detailed Human Geometry and Appearance Synthesis**|Heming Zhu et.al.|[2312.05161v1](http://arxiv.org/abs/2312.05161v1)|null|
+|**2023-12-08**|**Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting**|Xiaofeng Yang et.al.|[2312.04820v1](http://arxiv.org/abs/2312.04820v1)|null|
+|**2023-12-08**|**Reality's Canvas, Language's Brush: Crafting 3D Avatars from Monocular Video**|Yuchen Rao et.al.|[2312.04784v1](http://arxiv.org/abs/2312.04784v1)|null|
 |**2023-12-07**|**MuRF: Multi-Baseline Radiance Fields**|Haofei Xu et.al.|[2312.04565v1](http://arxiv.org/abs/2312.04565v1)|**[link](https://github.com/autonomousvision/murf)**|
 |**2023-12-07**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564v1](http://arxiv.org/abs/2312.04564v1)|null|
 |**2023-12-07**|**Correspondences of the Third Kind: Camera Pose Estimation from Object Reflection**|Kohei Yamashita et.al.|[2312.04527v1](http://arxiv.org/abs/2312.04527v1)|null|
