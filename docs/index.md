@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.12
+## Updated on 2023.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-10**|**Wild Motion Unleashed: Markerless 3D Kinematics and Force Estimation in Cheetahs**|Zico da Silva et.al.|[2312.05879v1](http://arxiv.org/abs/2312.05879v1)|null|
+|**2023-12-09**|**Trajectory Estimation in Unknown Nonlinear Manifold Using Koopman Operator Theory**|Yanran Wang et.al.|[2312.05428v1](http://arxiv.org/abs/2312.05428v1)|null|
 |**2023-12-07**|**The 3D Kinematics of the Orion Nebula Cluster II: Mass-dependent Kinematics of the Inner Cluster**|Lingfeng Wei et.al.|[2312.04751v1](http://arxiv.org/abs/2312.04751v1)|null|
 |**2023-12-07**|**Mixture of Dynamical Variational Autoencoders for Multi-Source Trajectory Modeling and Separation**|Xiaoyu Lin et.al.|[2312.04167v1](http://arxiv.org/abs/2312.04167v1)|null|
 |**2023-12-06**|**Markov Chain Monte Carlo Data Association for Sets of Trajectories**|Yuxuan Xia et.al.|[2312.03423v1](http://arxiv.org/abs/2312.03423v1)|null|
@@ -179,6 +181,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Early Action Recognition with Action Prototypes**|Guglielmo Camporese et.al.|[2312.06598v1](http://arxiv.org/abs/2312.06598v1)|null|
+|**2023-12-11**|**VisionTraj: A Noise-Robust Trajectory Recovery Framework based on Large-scale Camera Network**|Zhishuai Li et.al.|[2312.06428v1](http://arxiv.org/abs/2312.06428v1)|null|
+|**2023-12-11**|**PointVoxel: A Simple and Effective Pipeline for Multi-View Multi-Modal 3D Human Pose Estimation**|Zhiyu Pan et.al.|[2312.06409v1](http://arxiv.org/abs/2312.06409v1)|null|
+|**2023-12-11**|**MMICT: Boosting Multi-Modal Fine-Tuning with In-Context Examples**|Tao Chen et.al.|[2312.06363v1](http://arxiv.org/abs/2312.06363v1)|null|
+|**2023-12-11**|**Deep Imbalanced Learning for Multimodal Emotion Recognition in Conversations**|Tao Meng et.al.|[2312.06337v1](http://arxiv.org/abs/2312.06337v1)|null|
+|**2023-12-11**|**Navigating Open Set Scenarios for Skeleton-based Action Recognition**|Kunyu Peng et.al.|[2312.06330v1](http://arxiv.org/abs/2312.06330v1)|**[link](https://github.com/kpeng9510/os-sar)**|
+|**2023-12-11**|**RCA-NOC: Relative Contrastive Alignment for Novel Object Captioning**|Jiashuo Fan et.al.|[2312.06299v1](http://arxiv.org/abs/2312.06299v1)|null|
+|**2023-12-11**|**MMDesign: Multi-Modality Transfer Learning for Generative Protein Design**|Jiangbin Zheng et.al.|[2312.06297v1](http://arxiv.org/abs/2312.06297v1)|null|
+|**2023-12-11**|**Jointly Explicit and Implicit Cross-Modal Interaction Network for Anterior Chamber Inflammation Diagnosis**|Qian Shao et.al.|[2312.06171v1](http://arxiv.org/abs/2312.06171v1)|null|
+|**2023-12-11**|**Speaker-Text Retrieval via Contrastive Learning**|Xuechen Liu et.al.|[2312.06055v1](http://arxiv.org/abs/2312.06055v1)|null|
+|**2023-12-10**|**RadImageGAN -- A Multi-modal Dataset-Scale Generative AI for Medical Imaging**|Zelong Liu et.al.|[2312.05953v1](http://arxiv.org/abs/2312.05953v1)|null|
+|**2023-12-10**|**Negative Pre-aware for Noisy Cross-modal Matching**|Zhang Xu et.al.|[2312.05777v1](http://arxiv.org/abs/2312.05777v1)|null|
+|**2023-12-10**|**A Comprehensive Survey on Multi-modal Conversational Emotion Recognition with Deep Learning**|Yuntao Shou et.al.|[2312.05735v1](http://arxiv.org/abs/2312.05735v1)|null|
+|**2023-12-10**|**AFL-Net: Integrating Audio, Facial, and Lip Modalities with Cross-Attention for Robust Speaker Diarization in the Wild**|Yongkang Yin et.al.|[2312.05730v1](http://arxiv.org/abs/2312.05730v1)|null|
+|**2023-12-09**|**Unsupervised Multi-modal Feature Alignment for Time Series Representation Learning**|Chen Liang et.al.|[2312.05698v1](http://arxiv.org/abs/2312.05698v1)|null|
 |**2023-12-08**|**Cross-BERT for Point Cloud Pretraining**|Xin Li et.al.|[2312.04891v1](http://arxiv.org/abs/2312.04891v1)|null|
 |**2023-12-08**|**SCALER: Versatile Multi-Limbed Robot for Free-Climbing in Extreme Terrains**|Yusuke Tanaka et.al.|[2312.04856v1](http://arxiv.org/abs/2312.04856v1)|null|
 |**2023-12-08**|**CAR: Consolidation, Augmentation and Regulation for Recipe Retrieval**|Fangzhou Song et.al.|[2312.04763v1](http://arxiv.org/abs/2312.04763v1)|null|
@@ -2244,6 +2261,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images**|Bao Li et.al.|[2312.06454v1](http://arxiv.org/abs/2312.06454v1)|**[link](https://github.com/boyden/pointtransformerfl)**|
 |**2023-12-04**|**SARA-RT: Scaling up Robotics Transformers with Self-Adaptive Robust Attention**|Isabel Leal et.al.|[2312.01990v1](http://arxiv.org/abs/2312.01990v1)|null|
 |**2023-11-07**|**Learning Super-Resolution Ultrasound Localization Microscopy from Radio-Frequency Data**|Christopher Hahne et.al.|[2311.04081v1](http://arxiv.org/abs/2311.04081v1)|null|
 |**2023-10-22**|**Exact FLRW cosmological solutions via invariants of the symmetry groups**|E. Ahmadi Azar et.al.|[2310.19772v1](http://arxiv.org/abs/2310.19772v1)|null|
@@ -2327,6 +2345,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**CorresNeRF: Image Correspondence Priors for Neural Radiance Fields**|Yixing Lao et.al.|[2312.06642v1](http://arxiv.org/abs/2312.06642v1)|**[link](https://github.com/yxlao/corres-nerf)**|
+|**2023-12-11**|**DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior**|Tianyu Huang et.al.|[2312.06439v1](http://arxiv.org/abs/2312.06439v1)|null|
+|**2023-12-10**|**NeVRF: Neural Video-based Radiance Fields for Long-duration Sequences**|Minye Wu et.al.|[2312.05855v1](http://arxiv.org/abs/2312.05855v1)|null|
+|**2023-12-10**|**IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment**|Letian Zhang et.al.|[2312.05748v1](http://arxiv.org/abs/2312.05748v1)|null|
+|**2023-12-09**|**CoGS: Controllable Gaussian Splatting**|Heng Yu et.al.|[2312.05664v1](http://arxiv.org/abs/2312.05664v1)|null|
+|**2023-12-09**|**R2-Talker: Realistic Real-Time Talking Head Synthesis with Hash Grid Landmarks Encoding and Progressive Multilayer Conditioning**|Zhiling Ye et.al.|[2312.05572v1](http://arxiv.org/abs/2312.05572v1)|null|
+|**2023-12-08**|**Multi-view Inversion for 3D-aware Generative Adversarial Networks**|Florian Barthel et.al.|[2312.05330v1](http://arxiv.org/abs/2312.05330v1)|null|
 |**2023-12-08**|**TriHuman : A Real-time and Controllable Tri-plane Representation for Detailed Human Geometry and Appearance Synthesis**|Heming Zhu et.al.|[2312.05161v1](http://arxiv.org/abs/2312.05161v1)|null|
 |**2023-12-08**|**Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting**|Xiaofeng Yang et.al.|[2312.04820v1](http://arxiv.org/abs/2312.04820v1)|null|
 |**2023-12-08**|**Reality's Canvas, Language's Brush: Crafting 3D Avatars from Monocular Video**|Yuchen Rao et.al.|[2312.04784v1](http://arxiv.org/abs/2312.04784v1)|null|
