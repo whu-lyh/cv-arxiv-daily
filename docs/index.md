@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.14
+## Updated on 2023.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -182,6 +182,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-13**|**VLAP: Efficient Video-Language Alignment via Frame Prompting and Distilling for Video Question Answering**|Xijun Wang et.al.|[2312.08367v1](http://arxiv.org/abs/2312.08367v1)|null|
+|**2023-12-13**|**Ehancing CT Image synthesis from multi-modal MRI data based on a multi-task neural network framework**|Zhuoyao Xin et.al.|[2312.08343v1](http://arxiv.org/abs/2312.08343v1)|null|
+|**2023-12-13**|**Beyond the Label Itself: Latent Labels Enhance Semi-supervised Point Cloud Panoptic Segmentation**|Yujun Chen et.al.|[2312.08234v1](http://arxiv.org/abs/2312.08234v1)|null|
+|**2023-12-13**|**LAMM: Label Alignment for Multi-Modal Prompt Learning**|Jingsheng Gao et.al.|[2312.08212v1](http://arxiv.org/abs/2312.08212v1)|**[link](https://github.com/gaojingsheng/lamm)**|
+|**2023-12-13**|**A Novel Energy based Model Mechanism for Multi-modal Aspect-Based Sentiment Analysis**|Tianshuo Peng et.al.|[2312.08084v1](http://arxiv.org/abs/2312.08084v1)|null|
+|**2023-12-13**|**Estimation of Concept Explanations Should be Uncertainty Aware**|Vihari Piratla et.al.|[2312.08063v1](http://arxiv.org/abs/2312.08063v1)|null|
+|**2023-12-13**|**Mono3DVG: 3D Visual Grounding in Monocular Images**|Yang Zhan et.al.|[2312.08022v1](http://arxiv.org/abs/2312.08022v1)|**[link](https://github.com/zhanyang-nwpu/mono3dvg)**|
+|**2023-12-13**|**BOTH2Hands: Inferring 3D Hands from Both Text Prompts and Body Dynamics**|Wenqian Zhang et.al.|[2312.07937v1](http://arxiv.org/abs/2312.07937v1)|null|
+|**2023-12-13**|**Modality Plug-and-Play: Elastic Modality Adaptation in Multimodal LLMs for Embodied AI**|Kai Huang et.al.|[2312.07886v1](http://arxiv.org/abs/2312.07886v1)|**[link](https://github.com/pittisl/mpnp-llm)**|
+|**2023-12-12**|**Coordination of Damping Controllers: A Data-Informed Approach for Adaptability**|Francisco Zelaya-Arrazabal et.al.|[2312.07739v1](http://arxiv.org/abs/2312.07739v1)|null|
+|**2023-12-12**|**Reacting like Humans: Incorporating Intrinsic Human Behaviors into NAO through Sound-Based Reactions for Enhanced Sociability**|Ali Ghadami et.al.|[2312.07671v1](http://arxiv.org/abs/2312.07671v1)|null|
+|**2023-12-12**|**GMTalker: Gaussian Mixture based Emotional talking video Portraits**|Yibo Xia et.al.|[2312.07669v1](http://arxiv.org/abs/2312.07669v1)|null|
 |**2023-12-12**|**VILA: On Pre-training for Visual Language Models**|Ji Lin et.al.|[2312.07533v1](http://arxiv.org/abs/2312.07533v1)|null|
 |**2023-12-12**|**Interfacing Foundation Models' Embeddings**|Xueyan Zou et.al.|[2312.07532v1](http://arxiv.org/abs/2312.07532v1)|**[link](https://github.com/ux-decoder/find)**|
 |**2023-12-12**|**LMDrive: Closed-Loop End-to-End Driving with Large Language Models**|Hao Shao et.al.|[2312.07488v1](http://arxiv.org/abs/2312.07488v1)|null|
@@ -2363,13 +2375,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-13**|**ProNeRF: Learning Efficient Projection-Aware Ray Sampling for Fine-Grained Implicit Neural Radiance Fields**|Juan Luis Gonzalez Bello et.al.|[2312.08136v1](http://arxiv.org/abs/2312.08136v1)|null|
+|**2023-12-13**|**Neural Radiance Fields for Transparent Object Using Visual Hull**|Heechan Yoon et.al.|[2312.08118v1](http://arxiv.org/abs/2312.08118v1)|null|
+|**2023-12-13**|**uSF: Learning Neural Semantic Field with Uncertainty**|Vsevolod Skorokhodov et.al.|[2312.08012v1](http://arxiv.org/abs/2312.08012v1)|**[link](https://github.com/sevashasla/usf)**|
 |**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504v1](http://arxiv.org/abs/2312.07504v1)|null|
 |**2023-12-12**|**Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**|Sunghwan Hong et.al.|[2312.07246v1](http://arxiv.org/abs/2312.07246v1)|**[link](https://github.com/KU-CVLAB/CoPoNeRF)**|
 |**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946v1](http://arxiv.org/abs/2312.06946v1)|null|
 |**2023-12-10**|**TeTriRF: Temporal Tri-Plane Radiance Fields for Efficient Free-Viewpoint Video**|Minye Wu et.al.|[2312.06713v1](http://arxiv.org/abs/2312.06713v1)|null|
 |**2023-12-09**|**Robo360: A 3D Omnispective Multi-Material Robotic Manipulation Dataset**|Litian Liang et.al.|[2312.06686v1](http://arxiv.org/abs/2312.06686v1)|null|
 |**2023-12-11**|**CorresNeRF: Image Correspondence Priors for Neural Radiance Fields**|Yixing Lao et.al.|[2312.06642v1](http://arxiv.org/abs/2312.06642v1)|**[link](https://github.com/yxlao/corres-nerf)**|
-|**2023-12-11**|**DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior**|Tianyu Huang et.al.|[2312.06439v1](http://arxiv.org/abs/2312.06439v1)|null|
+|**2023-12-11**|**DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior**|Tianyu Huang et.al.|[2312.06439v1](http://arxiv.org/abs/2312.06439v1)|**[link](https://github.com/tyhuang0428/dreamcontrol)**|
 |**2023-12-10**|**NeVRF: Neural Video-based Radiance Fields for Long-duration Sequences**|Minye Wu et.al.|[2312.05855v1](http://arxiv.org/abs/2312.05855v1)|null|
 |**2023-12-10**|**IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment**|Letian Zhang et.al.|[2312.05748v1](http://arxiv.org/abs/2312.05748v1)|null|
 |**2023-12-09**|**CoGS: Controllable Gaussian Splatting**|Heng Yu et.al.|[2312.05664v1](http://arxiv.org/abs/2312.05664v1)|null|
