@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.15
+## Updated on 2023.12.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -194,9 +194,9 @@ layout: default
 |**2023-12-12**|**Coordination of Damping Controllers: A Data-Informed Approach for Adaptability**|Francisco Zelaya-Arrazabal et.al.|[2312.07739v1](http://arxiv.org/abs/2312.07739v1)|null|
 |**2023-12-12**|**Reacting like Humans: Incorporating Intrinsic Human Behaviors into NAO through Sound-Based Reactions for Enhanced Sociability**|Ali Ghadami et.al.|[2312.07671v1](http://arxiv.org/abs/2312.07671v1)|null|
 |**2023-12-12**|**GMTalker: Gaussian Mixture based Emotional talking video Portraits**|Yibo Xia et.al.|[2312.07669v1](http://arxiv.org/abs/2312.07669v1)|null|
-|**2023-12-12**|**VILA: On Pre-training for Visual Language Models**|Ji Lin et.al.|[2312.07533v1](http://arxiv.org/abs/2312.07533v1)|null|
+|**2023-12-14**|**VILA: On Pre-training for Visual Language Models**|Ji Lin et.al.|[2312.07533v2](http://arxiv.org/abs/2312.07533v2)|null|
 |**2023-12-12**|**Interfacing Foundation Models' Embeddings**|Xueyan Zou et.al.|[2312.07532v1](http://arxiv.org/abs/2312.07532v1)|**[link](https://github.com/ux-decoder/find)**|
-|**2023-12-12**|**LMDrive: Closed-Loop End-to-End Driving with Large Language Models**|Hao Shao et.al.|[2312.07488v1](http://arxiv.org/abs/2312.07488v1)|null|
+|**2023-12-12**|**LMDrive: Closed-Loop End-to-End Driving with Large Language Models**|Hao Shao et.al.|[2312.07488v1](http://arxiv.org/abs/2312.07488v1)|**[link](https://github.com/opendilab/lmdrive)**|
 |**2023-12-12**|**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**|Yiran Qin et.al.|[2312.07472v1](http://arxiv.org/abs/2312.07472v1)|null|
 |**2023-12-12**|**Cross-modal Contrastive Learning with Asymmetric Co-attention Network for Video Moment Retrieval**|Love Panta et.al.|[2312.07435v1](http://arxiv.org/abs/2312.07435v1)|null|
 |**2023-12-12**|**Multi-Modal Conformal Prediction Regions by Optimizing Convex Shape Templates**|Renukanandan Tumu et.al.|[2312.07434v1](http://arxiv.org/abs/2312.07434v1)|**[link](https://github.com/nandantumu/conformal_region_designer)**|
