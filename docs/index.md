@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.16
+## Updated on 2023.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -117,6 +117,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**Adaptive Shortcut Debiasing for Online Continual Learning**|Doyoung Kim et.al.|[2312.08677v1](http://arxiv.org/abs/2312.08677v1)|null|
 |**2023-12-08**|**SiCP: Simultaneous Individual and Cooperative Perception for 3D Object Detection in Connected and Automated Vehicles**|Deyuan Qu et.al.|[2312.04822v1](http://arxiv.org/abs/2312.04822v1)|null|
 |**2023-11-16**|**Consensus-based Resource Scheduling for Collaborative Multi-Robot Tasks**|Nazish Tahir et.al.|[2311.10194v1](http://arxiv.org/abs/2311.10194v1)|null|
 |**2023-11-14**|**CP-SLAM: Collaborative Neural Point-based SLAM System**|Jiarui Hu et.al.|[2311.08013v1](http://arxiv.org/abs/2311.08013v1)|null|
@@ -182,6 +183,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving**|Wenhai Wang et.al.|[2312.09245v1](http://arxiv.org/abs/2312.09245v1)|**[link](https://github.com/opengvlab/drivemlm)**|
+|**2023-12-14**|**WikiMuTe: A web-sourced dataset of semantic descriptions for music audio**|Benno Weck et.al.|[2312.09207v1](http://arxiv.org/abs/2312.09207v1)|null|
+|**2023-12-14**|**General Object Foundation Model for Images and Videos at Scale**|Junfeng Wu et.al.|[2312.09158v1](http://arxiv.org/abs/2312.09158v1)|null|
+|**2023-12-14**|**CMOSE: Comprehensive Multi-Modality Online Student Engagement Dataset with High-Quality Labels**|Chi-hsuan Wu et.al.|[2312.09066v1](http://arxiv.org/abs/2312.09066v1)|null|
+|**2023-12-14**|**Fusion of Audio and Visual Embeddings for Sound Event Localization and Detection**|Davide Berghi et.al.|[2312.09034v1](http://arxiv.org/abs/2312.09034v1)|null|
+|**2023-12-14**|**Exploring Transferability for Randomized Smoothing**|Kai Qiu et.al.|[2312.09020v1](http://arxiv.org/abs/2312.09020v1)|null|
+|**2023-12-14**|**CL2CM: Improving Cross-Lingual Cross-Modal Retrieval via Cross-Lingual Knowledge Transfer**|Yabing Wang et.al.|[2312.08984v1](http://arxiv.org/abs/2312.08984v1)|null|
+|**2023-12-14**|**Depicting Beyond Scores: Advancing Image Quality Assessment through Multi-modal Language Models**|Zhiyuan You et.al.|[2312.08962v1](http://arxiv.org/abs/2312.08962v1)|null|
+|**2023-12-14**|**Multi-Modal Learning-based Reconstruction of High-Resolution Spatial Wind Speed Fields**|Matteo Zambra et.al.|[2312.08933v1](http://arxiv.org/abs/2312.08933v1)|null|
+|**2023-12-14**|**Context-PEFT: Efficient Multi-Modal, Multi-Task Fine-Tuning**|Avelina Asada Hadji-Kyriacou et.al.|[2312.08900v1](http://arxiv.org/abs/2312.08900v1)|null|
+|**2023-12-14**|**Improving Cross-modal Alignment with Synthetic Pairs for Text-only Image Captioning**|Zhiyue Liu et.al.|[2312.08865v1](http://arxiv.org/abs/2312.08865v1)|null|
+|**2023-12-14**|**Achelous++: Power-Oriented Water-Surface Panoptic Perception Framework on Edge Devices based on Vision-Radar Fusion and Pruning of Heterogeneous Modalities**|Runwei Guan et.al.|[2312.08851v1](http://arxiv.org/abs/2312.08851v1)|**[link](https://github.com/GuanRunwei/Achelous)**|
+|**2023-12-14**|**TiMix: Text-aware Image Mixing for Effective Vision-Language Pre-training**|Chaoya Jiang et.al.|[2312.08846v1](http://arxiv.org/abs/2312.08846v1)|null|
+|**2023-12-14**|**Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models**|Liqi He et.al.|[2312.08762v1](http://arxiv.org/abs/2312.08762v1)|null|
+|**2023-12-14**|**Panel Transitions for Genre Analysis in Visual Narratives**|Yi-Chun Chen et.al.|[2312.08720v1](http://arxiv.org/abs/2312.08720v1)|null|
 |**2023-12-13**|**VLAP: Efficient Video-Language Alignment via Frame Prompting and Distilling for Video Question Answering**|Xijun Wang et.al.|[2312.08367v1](http://arxiv.org/abs/2312.08367v1)|null|
 |**2023-12-13**|**Ehancing CT Image synthesis from multi-modal MRI data based on a multi-task neural network framework**|Zhuoyao Xin et.al.|[2312.08343v1](http://arxiv.org/abs/2312.08343v1)|null|
 |**2023-12-13**|**Beyond the Label Itself: Latent Labels Enhance Semi-supervised Point Cloud Panoptic Segmentation**|Yujun Chen et.al.|[2312.08234v1](http://arxiv.org/abs/2312.08234v1)|null|
@@ -2375,6 +2391,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining**|Ruoxi Shi et.al.|[2312.09249v1](http://arxiv.org/abs/2312.09249v1)|null|
+|**2023-12-14**|**3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting**|Zhiyin Qian et.al.|[2312.09228v1](http://arxiv.org/abs/2312.09228v1)|null|
+|**2023-12-14**|**ColNeRF: Collaboration for Generalizable Sparse Input Neural Radiance Field**|Zhangkai Ni et.al.|[2312.09095v1](http://arxiv.org/abs/2312.09095v1)|**[link](https://github.com/eezkni/colnerf)**|
+|**2023-12-14**|**Aleth-NeRF: Illumination Adaptive NeRF with Concealing Field Assumption**|Ziteng Cui et.al.|[2312.09093v1](http://arxiv.org/abs/2312.09093v1)|**[link](https://github.com/cuiziteng/Aleth-NeRF)**|
+|**2023-12-14**|**iComMa: Inverting 3D Gaussians Splatting for Camera Pose Estimation via Comparing and Matching**|Yuan Sun et.al.|[2312.09031v1](http://arxiv.org/abs/2312.09031v1)|null|
+|**2023-12-14**|**Scene 3-D Reconstruction System in Scattering Medium**|Zhuoyifan Zhang et.al.|[2312.09005v1](http://arxiv.org/abs/2312.09005v1)|null|
+|**2023-12-14**|**CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning**|Qingsong Yan et.al.|[2312.08760v1](http://arxiv.org/abs/2312.08760v1)|null|
+|**2023-12-14**|**SpectralNeRF: Physically Based Spectral Rendering with Neural Radiance Field**|Ru Li et.al.|[2312.08692v1](http://arxiv.org/abs/2312.08692v1)|**[link](https://github.com/liru0126/spectralnerf)**|
 |**2023-12-13**|**ProNeRF: Learning Efficient Projection-Aware Ray Sampling for Fine-Grained Implicit Neural Radiance Fields**|Juan Luis Gonzalez Bello et.al.|[2312.08136v1](http://arxiv.org/abs/2312.08136v1)|null|
 |**2023-12-13**|**Neural Radiance Fields for Transparent Object Using Visual Hull**|Heechan Yoon et.al.|[2312.08118v1](http://arxiv.org/abs/2312.08118v1)|null|
 |**2023-12-13**|**uSF: Learning Neural Semantic Field with Uncertainty**|Vsevolod Skorokhodov et.al.|[2312.08012v1](http://arxiv.org/abs/2312.08012v1)|**[link](https://github.com/sevashasla/usf)**|
