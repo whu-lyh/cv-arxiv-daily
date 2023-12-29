@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.28
+## Updated on 2023.12.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -184,6 +184,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI**|Tai Wang et.al.|[2312.16170v1](http://arxiv.org/abs/2312.16170v1)|**[link](https://github.com/openrobotlab/embodiedscan)**|
+|**2023-12-26**|**Social-Transmotion: Promptable Human Trajectory Prediction**|Saeed Saadatnejad et.al.|[2312.16168v1](http://arxiv.org/abs/2312.16168v1)|**[link](https://github.com/vita-epfl/social-transmotion)**|
+|**2023-12-26**|**Large-scale Long-tailed Disease Diagnosis on Radiology Images**|Qiaoyu Zheng et.al.|[2312.16151v1](http://arxiv.org/abs/2312.16151v1)|null|
+|**2023-12-26**|**Event-based Shape from Polarization with Spiking Neural Networks**|Peng Kang et.al.|[2312.16071v1](http://arxiv.org/abs/2312.16071v1)|null|
+|**2023-12-26**|**Detection-based Intermediate Supervision for Visual Question Answering**|Yuhang Liu et.al.|[2312.16012v1](http://arxiv.org/abs/2312.16012v1)|null|
+|**2023-12-26**|**Learning Deformable Hypothesis Sampling for Accurate PatchMatch Multi-View Stereo**|Hongjie Li et.al.|[2312.15970v1](http://arxiv.org/abs/2312.15970v1)|**[link](https://github.com/geo-tell/ds-pmnet)**|
+|**2023-12-26**|**Chain of Generation: Multi-Modal Gesture Synthesis via Cascaded Conditional Control**|Zunnan Xu et.al.|[2312.15900v1](http://arxiv.org/abs/2312.15900v1)|null|
+|**2023-12-26**|**Attention-aware Social Graph Transformer Networks for Stochastic Trajectory Prediction**|Yao Liu et.al.|[2312.15881v1](http://arxiv.org/abs/2312.15881v1)|null|
+|**2023-12-26**|**Masked Contrastive Reconstruction for Cross-modal Medical Image-Report Retrieval**|Zeqiang Wei et.al.|[2312.15840v1](http://arxiv.org/abs/2312.15840v1)|null|
+|**2023-12-25**|**Open-Vocabulary Video Relation Extraction**|Wentao Tian et.al.|[2312.15670v1](http://arxiv.org/abs/2312.15670v1)|**[link](https://github.com/iriya99/ovre)**|
+|**2023-12-25**|**A Multi-Modal Contrastive Diffusion Model for Therapeutic Peptide Generation**|Yongkang Wang et.al.|[2312.15665v1](http://arxiv.org/abs/2312.15665v1)|**[link](https://github.com/wyky481l/mmcd)**|
+|**2023-12-25**|**IQAGPT: Image Quality Assessment with Vision-language and ChatGPT Models**|Zhihao Chen et.al.|[2312.15663v1](http://arxiv.org/abs/2312.15663v1)|null|
+|**2023-12-25**|**Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment**|Rui Zhao et.al.|[2312.15645v1](http://arxiv.org/abs/2312.15645v1)|null|
+|**2023-12-23**|**Paralinguistics-Enhanced Large Language Modeling of Spoken Dialogue**|Guan-Ting Lin et.al.|[2312.15316v1](http://arxiv.org/abs/2312.15316v1)|null|
+|**2023-12-23**|**Q-Boost: On Visual Quality Assessment Ability of Low-level Multi-Modality Foundation Models**|Zicheng Zhang et.al.|[2312.15300v1](http://arxiv.org/abs/2312.15300v1)|null|
 |**2023-12-22**|**BrainVis: Exploring the Bridge between Brain and Visual Signals via Image Reconstruction**|Honghao Fu et.al.|[2312.14871v1](http://arxiv.org/abs/2312.14871v1)|null|
 |**2023-12-22**|**Images in Discrete Choice Modeling: Addressing Data Isomorphism in Multi-Modality Inputs**|Brian Sifringer et.al.|[2312.14724v1](http://arxiv.org/abs/2312.14724v1)|**[link](https://github.com/bsifringer/imagedcm)**|
 |**2023-12-22**|**Token-Level Contrastive Learning with Modality-Aware Prompting for Multimodal Intent Recognition**|Qianrui Zhou et.al.|[2312.14667v1](http://arxiv.org/abs/2312.14667v1)|**[link](https://github.com/thuiar/TCL-MAP)**|
@@ -2359,7 +2374,7 @@ layout: default
 |**2023-10-22**|**Exact FLRW cosmological solutions via invariants of the symmetry groups**|E. Ahmadi Azar et.al.|[2310.19772v1](http://arxiv.org/abs/2310.19772v1)|null|
 |**2023-10-25**|**General Point Model with Autoencoding and Autoregressive**|Zhe Li et.al.|[2310.16861v1](http://arxiv.org/abs/2310.16861v1)|null|
 |**2023-10-09**|**Lie symmetries for the cosmological field equations in brane-world gravity with bulk scalar field**|Andronikos Paliathanasis et.al.|[2310.05780v1](http://arxiv.org/abs/2310.05780v1)|null|
-|**2023-10-02**|**RF-ULM: Deep Learning for Radio-Frequency Ultrasound Localization Microscopy**|Christopher Hahne et.al.|[2310.01545v1](http://arxiv.org/abs/2310.01545v1)|**[link](https://github.com/hahnec/rf-ulm)**|
+|**2023-12-23**|**RF-ULM: Deep Learning for Radio-Frequency Ultrasound Localization Microscopy**|Christopher Hahne et.al.|[2310.01545v2](http://arxiv.org/abs/2310.01545v2)|**[link](https://github.com/hahnec/rf-ulm)**|
 |**2023-09-08**|**Weakly Supervised Point Clouds Transformer for 3D Object Detection**|Zuojin Tang et.al.|[2309.04105v1](http://arxiv.org/abs/2309.04105v1)|null|
 |**2023-09-01**|**Robust Point Cloud Processing through Positional Embedding**|Jianqiao Zheng et.al.|[2309.00339v1](http://arxiv.org/abs/2309.00339v1)|null|
 |**2023-08-18**|**Target Clustering Based Multi-Bernoulli Filter for Superpositional Sensors**|Wang Sen et.al.|[2308.09403v1](http://arxiv.org/abs/2308.09403v1)|null|
@@ -2437,7 +2452,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-22**|**PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**|Mohsen Gholami et.al.|[2312.14915v1](http://arxiv.org/abs/2312.14915v1)|null|
+|**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084v1](http://arxiv.org/abs/2312.16084v1)|null|
+|**2023-12-26**|**2D-Guided 3D Gaussian Segmentation**|Kun Lan et.al.|[2312.16047v1](http://arxiv.org/abs/2312.16047v1)|null|
+|**2023-12-26**|**Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images**|Zhan Lu et.al.|[2312.15942v1](http://arxiv.org/abs/2312.15942v1)|null|
+|**2023-12-23**|**Human101: Training 100+FPS Human Gaussians in 100s from 1 View**|Mingwei Li et.al.|[2312.15258v1](http://arxiv.org/abs/2312.15258v1)|**[link](https://github.com/longxiang-ai/human101)**|
+|**2023-12-23**|**Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane**|Chen Yang et.al.|[2312.15253v1](http://arxiv.org/abs/2312.15253v1)|**[link](https://github.com/loping151/forplane)**|
+|**2023-12-23**|**CaLDiff: Camera Localization in NeRF via Pose Diffusion**|Rashik Shrestha et.al.|[2312.15242v1](http://arxiv.org/abs/2312.15242v1)|null|
+|**2023-12-22**|**PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**|Mohsen Gholami et.al.|[2312.14915v1](http://arxiv.org/abs/2312.14915v1)|**[link](https://github.com/mgholamikn/PoseGen)**|
 |**2023-12-22**|**Density Uncertainty Quantification with NeRF-Ensembles: Impact of Data and Scene Constraints**|Miriam Jäger et.al.|[2312.14664v1](http://arxiv.org/abs/2312.14664v1)|null|
 |**2023-12-21**|**PlatoNeRF: 3D Reconstruction in Plato's Cave via Single-View Two-Bounce Lidar**|Tzofi Klinghoffer et.al.|[2312.14239v1](http://arxiv.org/abs/2312.14239v1)|null|
 |**2023-12-21**|**Virtual Pets: Animatable Animal Generation in 3D Scenes**|Yen-Chi Cheng et.al.|[2312.14154v1](http://arxiv.org/abs/2312.14154v1)|null|
