@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.01
+## Updated on 2024.01.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -184,6 +184,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-29**|**Bridging Modality Gap for Visual Grounding with Effecitve Cross-modal Distillation**|Jiaxi Wang et.al.|[2312.17648v1](http://arxiv.org/abs/2312.17648v1)|null|
+|**2023-12-29**|**Multi-modal MRI sensitive to age: Focus on early brain development in infants**|Jessica Dubois et.al.|[2312.17513v1](http://arxiv.org/abs/2312.17513v1)|null|
+|**2023-12-29**|**DB-GPT: Empowering Database Interactions with Private Large Language Models**|Siqiao Xue et.al.|[2312.17449v1](http://arxiv.org/abs/2312.17449v1)|null|
+|**2023-12-28**|**Improving Image Restoration through Removing Degradations in Textual Representations**|Jingbo Lin et.al.|[2312.17334v1](http://arxiv.org/abs/2312.17334v1)|**[link](https://github.com/mrluin/textualdegremoval)**|
 |**2023-12-28**|**One Model to Rule them All: Towards Universal Segmentation for Medical Images with Text Prompts**|Ziheng Zhao et.al.|[2312.17183v1](http://arxiv.org/abs/2312.17183v1)|null|
 |**2023-12-28**|**Visual Explanations of Image-Text Representations via Multi-Modal Information Bottleneck Attribution**|Ying Wang et.al.|[2312.17174v1](http://arxiv.org/abs/2312.17174v1)|**[link](https://github.com/yingwangg/m2ib)**|
 |**2023-12-28**|**Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels**|Haoning Wu et.al.|[2312.17090v1](http://arxiv.org/abs/2312.17090v1)|**[link](https://github.com/q-future/q-align)**|
@@ -2467,6 +2471,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-29**|**Informative Rays Selection for Few-Shot Neural Radiance Fields**|Marco Orsingher et.al.|[2312.17561v1](http://arxiv.org/abs/2312.17561v1)|null|
 |**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457v1](http://arxiv.org/abs/2312.16457v1)|null|
 |**2023-12-26**|**DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision**|Lu Ling et.al.|[2312.16256v1](http://arxiv.org/abs/2312.16256v1)|null|
 |**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215v1](http://arxiv.org/abs/2312.16215v1)|null|
