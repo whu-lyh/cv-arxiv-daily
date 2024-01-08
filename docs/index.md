@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.07
+## Updated on 2024.01.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -186,8 +186,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-04**|**Simulation-Based Inference with Quantile Regression**|He Jia et.al.|[2401.02413v1](http://arxiv.org/abs/2401.02413v1)|**[link](https://github.com/h3jia/nqe)**|
-|**2024-01-04**|**LLaVA- $φ$ : Efficient Multi-Modal Assistant with Small Language Model**|Yichen Zhu et.al.|[2401.02330v1](http://arxiv.org/abs/2401.02330v1)|null|
-|**2024-01-04**|**TR-DETR: Task-Reciprocal Transformer for Joint Moment Retrieval and Highlight Detection**|Hao Sun et.al.|[2401.02309v1](http://arxiv.org/abs/2401.02309v1)|null|
+|**2024-01-04**|**LLaVA- $φ$ : Efficient Multi-Modal Assistant with Small Language Model**|Yichen Zhu et.al.|[2401.02330v1](http://arxiv.org/abs/2401.02330v1)|**[link](https://github.com/zhuyiche/llava-phi)**|
+|**2024-01-04**|**TR-DETR: Task-Reciprocal Transformer for Joint Moment Retrieval and Highlight Detection**|Hao Sun et.al.|[2401.02309v1](http://arxiv.org/abs/2401.02309v1)|**[link](https://github.com/mingyao1120/tr-detr)**|
 |**2024-01-04**|**Prompt Decoupling for Text-to-Image Person Re-identification**|Weihao Li et.al.|[2401.02173v1](http://arxiv.org/abs/2401.02173v1)|null|
 |**2024-01-04**|**Frequency Domain Nuances Mining for Visible-Infrared Person Re-identification**|Yukang Zhang et.al.|[2401.02162v1](http://arxiv.org/abs/2401.02162v1)|null|
 |**2024-01-04**|**Exploring Boundary of GPT-4V on Marine Analysis: A Preliminary Case Study**|Ziqiang Zheng et.al.|[2401.02147v1](http://arxiv.org/abs/2401.02147v1)|null|
