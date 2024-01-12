@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.11
+## Updated on 2024.01.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -185,6 +185,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**Yes, this is what I was looking for! Towards Multi-modal Medical Consultation Concern Summary Generation**|Abhisek Tiwari et.al.|[2401.05134v1](http://arxiv.org/abs/2401.05134v1)|**[link](https://github.com/nlp-rl/mmcsg)**|
+|**2024-01-10**|**Projection-based model order reduction for prestressed concrete with an application to the standard section of a nuclear containment building**|Eki Agouzal et.al.|[2401.05098v1](http://arxiv.org/abs/2401.05098v1)|null|
+|**2024-01-10**|**Source-Free Cross-Modal Knowledge Transfer by Unleashing the Potential of Task-Irrelevant Data**|Jinjing Zhu et.al.|[2401.05014v1](http://arxiv.org/abs/2401.05014v1)|null|
+|**2024-01-10**|**Less is More : A Closer Look at Multi-Modal Few-Shot Learning**|Chunpeng Zhou et.al.|[2401.05010v1](http://arxiv.org/abs/2401.05010v1)|null|
+|**2024-01-10**|**SnapCap: Efficient Snapshot Compressive Video Captioning**|Jianqiao Sun et.al.|[2401.04903v1](http://arxiv.org/abs/2401.04903v1)|null|
+|**2024-01-10**|**Airline recovery problem under disruptions: A review**|Shuai Wu et.al.|[2401.04866v1](http://arxiv.org/abs/2401.04866v1)|null|
+|**2024-01-10**|**Modality-Aware Representation Learning for Zero-shot Sketch-based Image Retrieval**|Eunyi Lyou et.al.|[2401.04860v1](http://arxiv.org/abs/2401.04860v1)|null|
+|**2024-01-09**|**Phishing Website Detection through Multi-Model Analysis of HTML Content**|Furkan Çolhak et.al.|[2401.04820v1](http://arxiv.org/abs/2401.04820v1)|null|
 |**2024-01-09**|**Jump Cut Smoothing for Talking Heads**|Xiaojuan Wang et.al.|[2401.04718v1](http://arxiv.org/abs/2401.04718v1)|null|
 |**2024-01-09**|**A Multi-Modal Approach Based on Large Vision Model for Close-Range Underwater Target Localization**|Mingyang Yang et.al.|[2401.04595v1](http://arxiv.org/abs/2401.04595v1)|null|
 |**2024-01-09**|**Evaluating Language Model Agency through Negotiations**|Tim R. Davidson et.al.|[2401.04536v1](http://arxiv.org/abs/2401.04536v1)|null|
@@ -2533,6 +2541,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335v1](http://arxiv.org/abs/2401.05335v1)|null|
+|**2024-01-10**|**CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video**|Xingyu Miao et.al.|[2401.04861v1](http://arxiv.org/abs/2401.04861v1)|null|
 |**2024-01-08**|**A Survey on 3D Gaussian Splatting**|Guikun Chen et.al.|[2401.03890v1](http://arxiv.org/abs/2401.03890v1)|null|
 |**2024-01-08**|**NeRFmentation: NeRF-based Augmentation for Monocular Depth Estimation**|Casimir Feldmann et.al.|[2401.03771v1](http://arxiv.org/abs/2401.03771v1)|null|
 |**2024-01-06**|**RustNeRF: Robust Neural Radiance Field with Low-Quality Images**|Mengfei Li et.al.|[2401.03257v1](http://arxiv.org/abs/2401.03257v1)|null|
