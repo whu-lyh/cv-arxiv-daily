@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.13
+## Updated on 2024.01.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -201,7 +201,7 @@ layout: default
 |**2024-01-09**|**Phishing Website Detection through Multi-Model Analysis of HTML Content**|Furkan Çolhak et.al.|[2401.04820v1](http://arxiv.org/abs/2401.04820v1)|null|
 |**2024-01-11**|**Jump Cut Smoothing for Talking Heads**|Xiaojuan Wang et.al.|[2401.04718v2](http://arxiv.org/abs/2401.04718v2)|null|
 |**2024-01-09**|**A Multi-Modal Approach Based on Large Vision Model for Close-Range Underwater Target Localization**|Mingyang Yang et.al.|[2401.04595v1](http://arxiv.org/abs/2401.04595v1)|null|
-|**2024-01-09**|**Evaluating Language Model Agency through Negotiations**|Tim R. Davidson et.al.|[2401.04536v1](http://arxiv.org/abs/2401.04536v1)|null|
+|**2024-01-09**|**Evaluating Language Model Agency through Negotiations**|Tim R. Davidson et.al.|[2401.04536v1](http://arxiv.org/abs/2401.04536v1)|**[link](https://github.com/epfl-dlab/lamen)**|
 |**2024-01-09**|**Vision Reimagined: AI-Powered Breakthroughs in WiFi Indoor Imaging**|Jianyang Shi et.al.|[2401.04317v1](http://arxiv.org/abs/2401.04317v1)|null|
 |**2024-01-08**|**Efficient Selective Audio Masked Multimodal Bottleneck Transformer for Audio-Video Classification**|Wentao Zhu et.al.|[2401.04154v1](http://arxiv.org/abs/2401.04154v1)|null|
 |**2024-01-08**|**Two-stream joint matching method based on contrastive learning for few-shot action recognition**|Long Deng et.al.|[2401.04150v1](http://arxiv.org/abs/2401.04150v1)|null|
