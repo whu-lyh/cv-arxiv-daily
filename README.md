@@ -225,10 +225,10 @@
 |**2024-01-08**|**Aligned with LLM: a new multi-modal training paradigm for encoding fMRI activity in visual cortex**|Shuxiao Ma et.al.|[2401.03851v1](http://arxiv.org/abs/2401.03851v1)|null|
 |**2024-01-08**|**Safe Chance-constrained Model Predictive Control under Gaussian Mixture Model Uncertainty**|Kai Ren et.al.|[2401.03799v1](http://arxiv.org/abs/2401.03799v1)|null|
 |**2024-01-08**|**An audio-quality-based multi-strategy approach for target speaker extraction in the MISP 2023 Challenge**|Runduo Han et.al.|[2401.03697v1](http://arxiv.org/abs/2401.03697v1)|null|
-|**2024-01-07**|**Multi-Modal Federated Learning for Cancer Staging over Non-IID Datasets with Unbalanced Modalities**|Kasra Borazjani et.al.|[2401.03609v1](http://arxiv.org/abs/2401.03609v1)|null|
-|**2024-01-07**|**Agent AI: Surveying the Horizons of Multimodal Interaction**|Zane Durante et.al.|[2401.03568v1](http://arxiv.org/abs/2401.03568v1)|null|
+|**2024-01-07**|**Multi-Modal Federated Learning for Cancer Staging over Non-IID Datasets with Unbalanced Modalities**|Kasra Borazjani et.al.|[2401.03609v1](http://arxiv.org/abs/2401.03609v1)|**[link](https://github.com/kasraborazjani/dgb-pcw-fl)**|
+|**2024-01-07**|**Agent AI: Surveying the Horizons of Multimodal Interaction**|Zane Durante et.al.|[2401.03568v1](http://arxiv.org/abs/2401.03568v1)|**[link](https://github.com/guilk/kat)**|
 |**2024-01-07**|**Segment Anything Model for Medical Image Segmentation: Current Applications and Future Directions**|Yichi Zhang et.al.|[2401.03495v1](http://arxiv.org/abs/2401.03495v1)|**[link](https://github.com/yichizhang98/sam4mis)**|
-|**2024-01-07**|**Multichannel AV-wav2vec2: A Framework for Learning Multichannel Multi-Modal Speech Representation**|Qiushi Zhu et.al.|[2401.03468v1](http://arxiv.org/abs/2401.03468v1)|null|
+|**2024-01-07**|**Multichannel AV-wav2vec2: A Framework for Learning Multichannel Multi-Modal Speech Representation**|Qiushi Zhu et.al.|[2401.03468v1](http://arxiv.org/abs/2401.03468v1)|**[link](https://github.com/zqs01/multi-channel-wav2vec2)**|
 |**2024-01-07**|**Multi-Modal Representation Learning for Molecular Property Prediction: Sequence, Graph, Geometry**|Zeyu Wang et.al.|[2401.03369v1](http://arxiv.org/abs/2401.03369v1)|**[link](https://github.com/vencent-won/sggrl)**|
 |**2024-01-06**|**3DMIT: 3D Multi-modal Instruction Tuning for Scene Understanding**|Zeju Li et.al.|[2401.03201v1](http://arxiv.org/abs/2401.03201v1)|**[link](https://github.com/staymylove/3DMIT)**|
 |**2024-01-06**|**Text-Video Retrieval via Variational Multi-Modal Hypergraph Networks**|Qian Li et.al.|[2401.03177v1](http://arxiv.org/abs/2401.03177v1)|null|
@@ -525,7 +525,7 @@
 |**2023-11-23**|**Perceptual Image Compression with Cooperative Cross-Modal Side Information**|Shiyu Qin et.al.|[2311.13847v1](http://arxiv.org/abs/2311.13847v1)|null|
 |**2023-11-23**|**Molecular Identification and Peak Assignment: Leveraging Multi-Level Multimodal Alignment on NMR**|Hao Xu et.al.|[2311.13817v1](http://arxiv.org/abs/2311.13817v1)|null|
 |**2023-11-23**|**On the Feasibility of Reasoning about the Internal States of Blackbox IoT Devices Using Side-Channel Information**|Wei Sun et.al.|[2311.13761v1](http://arxiv.org/abs/2311.13761v1)|null|
-|**2023-11-23**|**3D-MIR: A Benchmark and Empirical Study on 3D Medical Image Retrieval in Radiology**|Asma Ben Abacha et.al.|[2311.13752v1](http://arxiv.org/abs/2311.13752v1)|null|
+|**2023-11-23**|**3D-MIR: A Benchmark and Empirical Study on 3D Medical Image Retrieval in Radiology**|Asma Ben Abacha et.al.|[2311.13752v1](http://arxiv.org/abs/2311.13752v1)|**[link](https://github.com/abachaa/3d-mir)**|
 |**2023-11-22**|**Robust Multi-Model Subset Selection**|Anthony-Alexander Christidis et.al.|[2311.13202v1](http://arxiv.org/abs/2311.13202v1)|null|
 |**2023-11-22**|**SiGeo: Sub-One-Shot NAS via Information Theory and Geometry of Loss Landscape**|Hua Zheng et.al.|[2311.13169v1](http://arxiv.org/abs/2311.13169v1)|null|
 |**2023-11-22**|**Towards Better Parameter-Efficient Fine-Tuning for Large Language Models: A Position Paper**|Chengyu Wang et.al.|[2311.13126v1](http://arxiv.org/abs/2311.13126v1)|null|
@@ -696,7 +696,7 @@
 |**2023-10-28**|**Online Multi-view Anomaly Detection with Disentangled Product-of-Experts Modeling**|Hao Wang et.al.|[2310.18728v1](http://arxiv.org/abs/2310.18728v1)|null|
 |**2023-10-28**|**Audio-Visual Instance Segmentation**|Ruohao Guo et.al.|[2310.18709v1](http://arxiv.org/abs/2310.18709v1)|null|
 |**2023-10-28**|**EHRXQA: A Multi-Modal Question Answering Dataset for Electronic Health Records with Chest X-ray Images**|Seongsu Bae et.al.|[2310.18652v1](http://arxiv.org/abs/2310.18652v1)|**[link](https://github.com/baeseongsu/ehrxqa)**|
-|**2023-10-28**|**ODM3D: Alleviating Foreground Sparsity for Enhanced Semi-Supervised Monocular 3D Object Detection**|Weijia Zhang et.al.|[2310.18620v1](http://arxiv.org/abs/2310.18620v1)|null|
+|**2023-10-28**|**ODM3D: Alleviating Foreground Sparsity for Enhanced Semi-Supervised Monocular 3D Object Detection**|Weijia Zhang et.al.|[2310.18620v1](http://arxiv.org/abs/2310.18620v1)|**[link](https://github.com/arcaninez/odm3d)**|
 |**2023-10-28**|**Self-Supervised Multi-Modality Learning for Multi-Label Skin Lesion Classification**|Hao Wang et.al.|[2310.18583v1](http://arxiv.org/abs/2310.18583v1)|**[link](https://github.com/dylan-h-wang/skin-sm3)**|
 |**2023-10-27**|**MOSEL: Inference Serving Using Dynamic Modality Selection**|Bodun Hu et.al.|[2310.18481v1](http://arxiv.org/abs/2310.18481v1)|null|
 |**2023-10-27**|**Exploring Shape Embedding for Cloth-Changing Person Re-Identification via 2D-3D Correspondences**|Yubin Wang et.al.|[2310.18438v1](http://arxiv.org/abs/2310.18438v1)|null|
@@ -1141,7 +1141,7 @@
 |**2023-08-24**|**Acquiring Qualitative Explainable Graphs for Automated Driving Scene Interpretation**|Nassim Belmecheri et.al.|[2308.12755v1](http://arxiv.org/abs/2308.12755v1)|**[link](https://github.com/simula-vias/qxg-builder)**|
 |**2023-08-24**|**FastSurfer-HypVINN: Automated sub-segmentation of the hypothalamus and adjacent structures on high-resolutional brain MRI**|Santiago Estrada et.al.|[2308.12736v1](http://arxiv.org/abs/2308.12736v1)|**[link](https://github.com/Deep-MI/FastSurfer)**|
 |**2023-08-24**|**Emotion-Aligned Contrastive Learning Between Images and Music**|Shanti Stewart et.al.|[2308.12610v1](http://arxiv.org/abs/2308.12610v1)|null|
-|**2023-08-24**|**PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation**|Haibo Jin et.al.|[2308.12604v1](http://arxiv.org/abs/2308.12604v1)|null|
+|**2023-08-24**|**PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation**|Haibo Jin et.al.|[2308.12604v1](http://arxiv.org/abs/2308.12604v1)|**[link](https://github.com/jhb86253817/promptmrg)**|
 |**2023-08-24**|**Grounded Entity-Landmark Adaptive Pre-training for Vision-and-Language Navigation**|Yibo Cui et.al.|[2308.12587v1](http://arxiv.org/abs/2308.12587v1)|**[link](https://github.com/csir1996/vln-gela)**|
 |**2023-08-24**|**Hyperbolic Audio-visual Zero-shot Learning**|Jie Hong et.al.|[2308.12558v1](http://arxiv.org/abs/2308.12558v1)|null|
 |**2023-08-24**|**Parameter-Efficient Transfer Learning for Remote Sensing Image-Text Retrieval**|Yuan Yuan et.al.|[2308.12509v1](http://arxiv.org/abs/2308.12509v1)|**[link](https://github.com/ZhanYang-nwpu/PE-RSITR)**|
@@ -1332,7 +1332,7 @@
 |**2023-07-26**|**Plug and Pray: Exploiting off-the-shelf components of Multi-Modal Models**|Erfan Shayegani et.al.|[2307.14539v1](http://arxiv.org/abs/2307.14539v1)|null|
 |**2023-07-26**|**Towards multi-modal anatomical landmark detection for ultrasound-guided brain tumor resection with contrastive learning**|Soorena Salari et.al.|[2307.14523v1](http://arxiv.org/abs/2307.14523v1)|null|
 |**2023-07-26**|**Modality-Agnostic Audio-Visual Deepfake Detection**|Cai Yu et.al.|[2307.14491v1](http://arxiv.org/abs/2307.14491v1)|null|
-|**2023-07-26**|**G2L: Semantically Aligned and Uniform Video Grounding via Geodesic and Game Theory**|Hongxiang Li et.al.|[2307.14277v1](http://arxiv.org/abs/2307.14277v1)|null|
+|**2023-07-26**|**G2L: Semantically Aligned and Uniform Video Grounding via Geodesic and Game Theory**|Hongxiang Li et.al.|[2307.14277v1](http://arxiv.org/abs/2307.14277v1)|**[link](https://github.com/lihxxxxx/g2l)**|
 |**2023-07-26**|**Deepfake Image Generation for Improved Brain Tumor Segmentation**|Roa'a Al-Emaryeen et.al.|[2307.14273v1](http://arxiv.org/abs/2307.14273v1)|null|
 |**2023-07-26**|**Neural-based Cross-modal Search and Retrieval of Artwork**|Yan Gong et.al.|[2307.14244v1](http://arxiv.org/abs/2307.14244v1)|null|
 |**2023-07-26**|**Boon: A Neural Search Engine for Cross-Modal Information Retrieval**|Yan Gong et.al.|[2307.14240v1](http://arxiv.org/abs/2307.14240v1)|null|
@@ -1458,7 +1458,7 @@
 |**2023-07-06**|**A Critical Look at the Current Usage of Foundation Model for Dense Recognition Task**|Shiqi Yang et.al.|[2307.02862v1](http://arxiv.org/abs/2307.02862v1)|null|
 |**2023-07-06**|**VerifAI: Verified Generative AI**|Nan Tang et.al.|[2307.02796v1](http://arxiv.org/abs/2307.02796v1)|null|
 |**2023-07-06**|**Cross-Modal Content Inference and Feature Enrichment for Cold-Start Recommendation**|Haokai Ma et.al.|[2307.02761v1](http://arxiv.org/abs/2307.02761v1)|null|
-|**2023-07-06**|**Fine-grained Action Analysis: A Multi-modality and Multi-task Dataset of Figure Skating**|Sheng-Lan Liu et.al.|[2307.02730v1](http://arxiv.org/abs/2307.02730v1)|null|
+|**2023-07-06**|**Fine-grained Action Analysis: A Multi-modality and Multi-task Dataset of Figure Skating**|Sheng-Lan Liu et.al.|[2307.02730v1](http://arxiv.org/abs/2307.02730v1)|**[link](https://github.com/dingyn-reno/mmfs)**|
 |**2023-07-05**|**What Matters in Training a GPT4-Style Language Model with Multimodal Inputs?**|Yan Zeng et.al.|[2307.02469v1](http://arxiv.org/abs/2307.02469v1)|null|
 |**2023-07-05**|**Interactive Image Segmentation with Cross-Modality Vision Transformers**|Kun Li et.al.|[2307.02280v1](http://arxiv.org/abs/2307.02280v1)|**[link](https://github.com/lik1996/icmformer)**|
 |**2023-07-05**|**Multimodal Imbalance-Aware Gradient Modulation for Weakly-supervised Audio-Visual Video Parsing**|Jie Fu et.al.|[2307.02041v1](http://arxiv.org/abs/2307.02041v1)|null|
@@ -2596,7 +2596,7 @@
 |**2023-12-29**|**DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision**|Lu Ling et.al.|[2312.16256v2](http://arxiv.org/abs/2312.16256v2)|null|
 |**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215v1](http://arxiv.org/abs/2312.16215v1)|null|
 |**2023-12-23**|**INFAMOUS-NeRF: ImproviNg FAce MOdeling Using Semantically-Aligned Hypernetworks with Neural Radiance Fields**|Andrew Hou et.al.|[2312.16197v1](http://arxiv.org/abs/2312.16197v1)|null|
-|**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084v1](http://arxiv.org/abs/2312.16084v1)|null|
+|**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084v1](http://arxiv.org/abs/2312.16084v1)|**[link](https://github.com/minghanqin/LangSplat)**|
 |**2023-12-26**|**2D-Guided 3D Gaussian Segmentation**|Kun Lan et.al.|[2312.16047v1](http://arxiv.org/abs/2312.16047v1)|null|
 |**2023-12-26**|**Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images**|Zhan Lu et.al.|[2312.15942v1](http://arxiv.org/abs/2312.15942v1)|null|
 |**2023-12-23**|**Human101: Training 100+FPS Human Gaussians in 100s from 1 View**|Mingwei Li et.al.|[2312.15258v1](http://arxiv.org/abs/2312.15258v1)|**[link](https://github.com/longxiang-ai/human101)**|
@@ -2998,7 +2998,7 @@
 |**2023-05-01**|**GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**|Zhenhui Ye et.al.|[2305.00787v1](http://arxiv.org/abs/2305.00787v1)|null|
 |**2023-04-30**|**Neural Radiance Fields (NeRFs): A Review and Some Recent Developments**|Mohamed Debbagh et.al.|[2305.00375v1](http://arxiv.org/abs/2305.00375v1)|null|
 |**2023-04-28**|**ViP-NeRF: Visibility Prior for Sparse Input Neural Radiance Fields**|Nagabhushan Somraj et.al.|[2305.00041v1](http://arxiv.org/abs/2305.00041v1)|**[link](https://github.com/NagabhushanSN95/ViP-NeRF)**|
-|**2023-04-28**|**NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields**|Junge Zhang et.al.|[2304.14811v1](http://arxiv.org/abs/2304.14811v1)|null|
+|**2023-04-28**|**NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields**|Junge Zhang et.al.|[2304.14811v1](http://arxiv.org/abs/2304.14811v1)|**[link](https://github.com/fudan-zvg/nerf-lidar)**|
 |**2023-04-27**|**Learning a Diffusion Prior for NeRFs**|Guandao Yang et.al.|[2304.14473v1](http://arxiv.org/abs/2304.14473v1)|null|
 |**2023-04-27**|**ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs**|Jiteng Mu et.al.|[2304.14401v1](http://arxiv.org/abs/2304.14401v1)|null|
 |**2023-05-03**|**Combining HoloLens with Instant-NeRFs: Advanced Real-Time 3D Mobile Mapping**|Dennis Haitz et.al.|[2304.14301v2](http://arxiv.org/abs/2304.14301v2)|null|
