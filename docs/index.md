@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.16
+## Updated on 2024.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -190,7 +190,7 @@ layout: default
 |**2024-01-12**|**ModaVerse: Efficiently Transforming Modalities with LLMs**|Xinyu Wang et.al.|[2401.06395v1](http://arxiv.org/abs/2401.06395v1)|null|
 |**2024-01-12**|**LEGO:Language Enhanced Multi-modal Grounding Model**|Zhaowei Li et.al.|[2401.06071v2](http://arxiv.org/abs/2401.06071v2)|**[link](https://github.com/lzw-lzw/lego)**|
 |**2024-01-12**|**CLIP-Driven Semantic Discovery Network for Visible-Infrared Person Re-Identification**|Xiaoyan Yu et.al.|[2401.05806v2](http://arxiv.org/abs/2401.05806v2)|null|
-|**2024-01-11**|**Cross-Modality and Within-Modality Regularization for Audio-Visual DeepFake Detection**|Heqing Zou et.al.|[2401.05746v1](http://arxiv.org/abs/2401.05746v1)|null|
+|**2024-01-11**|**Cross-Modality and Within-Modality Regularization for Audio-Visual DeepFake Detection**|Heqing Zou et.al.|[2401.05746v1](http://arxiv.org/abs/2401.05746v1)|**[link](https://github.com/vincent-zhq/mrdf)**|
 |**2024-01-11**|**Cross-modal Retrieval for Knowledge-based Visual Question Answering**|Paul Lerner et.al.|[2401.05736v1](http://arxiv.org/abs/2401.05736v1)|**[link](https://github.com/paullerner/viquae)**|
 |**2024-01-11**|**Exploring Self- and Cross-Triplet Correlations for Human-Object Interaction Detection**|Weibo Jiang et.al.|[2401.05676v1](http://arxiv.org/abs/2401.05676v1)|null|
 |**2024-01-12**|**Masked Attribute Description Embedding for Cloth-Changing Person Re-identification**|Chunlei Peng et.al.|[2401.05646v2](http://arxiv.org/abs/2401.05646v2)|null|
