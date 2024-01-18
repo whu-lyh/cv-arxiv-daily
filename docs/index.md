@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.17
+## Updated on 2024.01.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -185,6 +185,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Physics-informed Meta-instrument for eXperiments (PiMiX) with applications to fusion energy**|Zhehui Wang et.al.|[2401.08390v1](http://arxiv.org/abs/2401.08390v1)|null|
+|**2024-01-16**|**Multi-view Distillation based on Multi-modal Fusion for Few-shot Action Recognition(CLIP- $\mathrm{M^2}$ DF)**|Fei Guo et.al.|[2401.08345v1](http://arxiv.org/abs/2401.08345v1)|null|
+|**2024-01-16**|**Generative Multi-Modal Knowledge Retrieval with Large Language Models**|Xinwei Long et.al.|[2401.08206v1](http://arxiv.org/abs/2401.08206v1)|null|
+|**2024-01-16**|**Photonic Modes Prediction via Multi-Modal Diffusion Model**|Jinyang Sun et.al.|[2401.08199v1](http://arxiv.org/abs/2401.08199v1)|null|
+|**2024-01-16**|**The Devil is in the Details: Boosting Guided Depth Super-Resolution via Rethinking Cross-Modal Alignment and Aggregation**|Xinni Jiang et.al.|[2401.08123v1](http://arxiv.org/abs/2401.08123v1)|**[link](https://github.com/jiangxinni/d2a2)**|
+|**2024-01-16**|**Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions**|Yi-Fan Zuo et.al.|[2401.08043v1](http://arxiv.org/abs/2401.08043v1)|**[link](https://github.com/zyfff/canny-evt)**|
+|**2024-01-15**|**Exploring Masked Autoencoders for Sensor-Agnostic Image Retrieval in Remote Sensing**|Jakob Hackstein et.al.|[2401.07782v1](http://arxiv.org/abs/2401.07782v1)|**[link](https://github.com/jakhac/csmae)**|
+|**2024-01-15**|**Towards Efficient Diffusion-Based Image Editing with Instant Attention Masks**|Siyu Zou et.al.|[2401.07709v1](http://arxiv.org/abs/2401.07709v1)|null|
+|**2024-01-15**|**Cascaded Cross-Modal Transformer for Audio-Textual Classification**|Nicolae-Catalin Ristea et.al.|[2401.07575v1](http://arxiv.org/abs/2401.07575v1)|**[link](https://github.com/ristea/ccmt)**|
+|**2024-01-15**|**Measuring multisensory integration in reaction time: the relative entropy approach**|Hans Colonius et.al.|[2401.07568v1](http://arxiv.org/abs/2401.07568v1)|null|
+|**2024-01-15**|**Bias-Conflict Sample Synthesis and Adversarial Removal Debias Strategy for Temporal Sentence Grounding in Video**|Zhaobo Qi et.al.|[2401.07567v1](http://arxiv.org/abs/2401.07567v1)|**[link](https://github.com/qzhb/bssard)**|
+|**2024-01-15**|**Must: Maximizing Latent Capacity of Spatial Transcriptomics Data**|Zelin Zang et.al.|[2401.07543v1](http://arxiv.org/abs/2401.07543v1)|null|
+|**2024-01-15**|**One for All: Toward Unified Foundation Models for Earth Vision**|Zhitong Xiong et.al.|[2401.07527v1](http://arxiv.org/abs/2401.07527v1)|null|
+|**2024-01-15**|**Developing ChatGPT for Biology and Medicine: A Complete Review of Biomedical Question Answering**|Qing Li et.al.|[2401.07510v1](http://arxiv.org/abs/2401.07510v1)|null|
+|**2024-01-15**|**Concept-Guided Prompt Learning for Generalization in Vision-Language Models**|Yi Zhang et.al.|[2401.07457v1](http://arxiv.org/abs/2401.07457v1)|null|
 |**2024-01-12**|**Graded modal logic and counting message passing automata**|Veeti Ahvonen et.al.|[2401.06519v1](http://arxiv.org/abs/2401.06519v1)|null|
 |**2024-01-12**|**AttributionScanner: A Visual Analytics System for Metadata-Free Data-Slicing Based Model Validation**|Xiwei Xuan et.al.|[2401.06462v1](http://arxiv.org/abs/2401.06462v1)|null|
 |**2024-01-12**|**ModaVerse: Efficiently Transforming Modalities with LLMs**|Xinyu Wang et.al.|[2401.06395v1](http://arxiv.org/abs/2401.06395v1)|null|
@@ -2461,6 +2476,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-15**|**Combining Image- and Geometric-based Deep Learning for Shape Regression: A Comparison to Pixel-level Methods for Segmentation in Chest X-Ray**|Ron Keuth et.al.|[2401.07542v1](http://arxiv.org/abs/2401.07542v1)|null|
+|**2024-01-14**|**3D Landmark Detection on Human Point Clouds: A Benchmark and A Dual Cascade Point Transformer Framework**|Fan Zhang et.al.|[2401.07251v1](http://arxiv.org/abs/2401.07251v1)|null|
 |**2024-01-02**|**Deep-ELA: Deep Exploratory Landscape Analysis with Self-Supervised Pretrained Transformers for Single- and Multi-Objective Continuous Optimization Problems**|Moritz Vinzent Seiler et.al.|[2401.01192v1](http://arxiv.org/abs/2401.01192v1)|null|
 |**2023-12-28**|**DualFluidNet: an Attention-based Dual-pipeline Network for Accurate and Generalizable Fluid-solid Coupled Simulation**|Yu Chen et.al.|[2312.16867v1](http://arxiv.org/abs/2312.16867v1)|null|
 |**2023-12-14**|**Interpretable deep learning models for the inference and classification of LHC data**|Vishal S. Ngairangbam et.al.|[2312.12330v1](http://arxiv.org/abs/2312.12330v1)|null|
@@ -2550,6 +2567,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**|Kiyohiro Nakayama et.al.|[2401.08140v1](http://arxiv.org/abs/2401.08140v1)|null|
+|**2024-01-16**|**Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**|Xu Yan et.al.|[2401.08045v1](http://arxiv.org/abs/2401.08045v1)|**[link](https://github.com/zhanghm1995/forge_vfm4ad)**|
+|**2024-01-15**|**6-DoF Grasp Pose Evaluation and Optimization via Transfer Learning from NeRFs**|Gergely Sóti et.al.|[2401.07935v1](http://arxiv.org/abs/2401.07935v1)|null|
 |**2024-01-11**|**TriNeRFLet: A Wavelet Based Multiscale Triplane NeRF Representation**|Rajaei Khatib et.al.|[2401.06191v1](http://arxiv.org/abs/2401.06191v1)|null|
 |**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052v1](http://arxiv.org/abs/2401.06052v1)|null|
 |**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians**|Bin Dou et.al.|[2401.05925v1](http://arxiv.org/abs/2401.05925v1)|null|
