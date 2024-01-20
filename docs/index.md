@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.19
+## Updated on 2024.01.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -128,7 +128,7 @@ layout: default
 |**2023-08-17**|**V-FUSE: Volumetric Depth Map Fusion with Long-Range Constraints**|Nathaniel Burgdorfer et.al.|[2308.08715v1](http://arxiv.org/abs/2308.08715v1)|**[link](https://github.com/nburgdorfer/v-fuse)**|
 |**2023-08-04**|**Group- $k$ consistent measurement set maximization via maximum clique over k-Uniform hypergraphs for robust multi-robot map merging**|Brendon Forsgren et.al.|[2308.02674v1](http://arxiv.org/abs/2308.02674v1)|**[link](https://bitbucket.org/jmangelson/gkcm)**|
 |**2023-07-14**|**Multi-Session, Localization-oriented and Lightweight LiDAR Mapping Using Semantic Lines and Planes**|Zehuan Yu et.al.|[2307.07126v1](http://arxiv.org/abs/2307.07126v1)|null|
-|**2023-07-02**|**CQLite: Communication-Efficient Multi-Robot Exploration Using Coverage-biased Distributed Q-Learning**|Ehsan Latif et.al.|[2307.00500v1](http://arxiv.org/abs/2307.00500v1)|null|
+|**2024-01-18**|**CQLite: Communication-Efficient Multi-Robot Exploration Using Coverage-biased Distributed Q-Learning**|Ehsan Latif et.al.|[2307.00500v2](http://arxiv.org/abs/2307.00500v2)|null|
 |**2023-07-04**|**Irregular Change Detection in Sparse Bi-Temporal Point Clouds using Learned Place Recognition Descriptors and Point-to-Voxel Comparison**|Nikolaos Stathoulopoulos et.al.|[2306.15416v2](http://arxiv.org/abs/2306.15416v2)|null|
 |**2023-02-22**|**Multi-Head Feature Pyramid Networks for Breast Mass Detection**|Hexiang Zhang et.al.|[2302.11106v1](http://arxiv.org/abs/2302.11106v1)|null|
 |**2023-01-24**|**FRAME: Fast and Robust Autonomous 3D point cloud Map-merging for Egocentric multi-robot exploration**|Nikolaos Stathoulopoulos et.al.|[2301.09213v2](http://arxiv.org/abs/2301.09213v2)|null|
@@ -186,8 +186,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**MM-Interleaved: Interleaved Image-Text Generative Modeling via Multi-modal Feature Synchronizer**|Changyao Tian et.al.|[2401.10208v1](http://arxiv.org/abs/2401.10208v1)|**[link](https://github.com/opengvlab/mm-interleaved)**|
+|**2024-01-18**|**Cross-Modality Perturbation Synergy Attack for Person Re-identification**|Yunpeng Gong et.al.|[2401.10090v1](http://arxiv.org/abs/2401.10090v1)|null|
+|**2024-01-18**|**CMFN: Cross-Modal Fusion Network for Irregular Scene Text Recognition**|Jinzhi Zheng et.al.|[2401.10041v1](http://arxiv.org/abs/2401.10041v1)|null|
+|**2024-01-18**|**CPCL: Cross-Modal Prototypical Contrastive Learning for Weakly Supervised Text-based Person Re-Identification**|Yanwei Zheng et.al.|[2401.10011v1](http://arxiv.org/abs/2401.10011v1)|**[link](https://github.com/codegallery24/cpcl)**|
+|**2024-01-18**|**Advancing Large Multi-modal Models with Explicit Chain-of-Reasoning and Visual Question Generation**|Kohei Uehara et.al.|[2401.10005v1](http://arxiv.org/abs/2401.10005v1)|null|
+|**2024-01-18**|**WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens**|Xiaofeng Wang et.al.|[2401.09985v1](http://arxiv.org/abs/2401.09985v1)|null|
+|**2024-01-18**|**Enhancing Image-Text Matching with Adaptive Feature Aggregation**|Zuhui Wang et.al.|[2401.09725v1](http://arxiv.org/abs/2401.09725v1)|**[link](https://github.com/wzhings/itmafa)**|
+|**2024-01-18**|**SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model**|Yang Zhan et.al.|[2401.09712v1](http://arxiv.org/abs/2401.09712v1)|**[link](https://github.com/zhanyang-nwpu/skyeyegpt)**|
+|**2024-01-17**|**Automatic 3D Multi-modal Ultrasound Segmentation of Human Placenta using Fusion Strategies and Deep Learning**|Sonit Singh et.al.|[2401.09638v1](http://arxiv.org/abs/2401.09638v1)|null|
+|**2024-01-17**|**eipy: An Open-Source Python Package for Multi-modal Data Integration using Heterogeneous Ensembles**|Jamie J. R. Bennett et.al.|[2401.09582v1](http://arxiv.org/abs/2401.09582v1)|**[link](https://github.com/gauravpandeylab/eipy)**|
 |**2024-01-17**|**CognitiveDog: Large Multimodal Model Based System to Translate Vision and Language into Action of Quadruped Robot**|Artem Lykov et.al.|[2401.09388v1](http://arxiv.org/abs/2401.09388v1)|null|
-|**2024-01-17**|**DaFoEs: Mixing Datasets towards the generalization of vision-state deep-learning Force Estimation in Minimally Invasive Robotic Surgery**|Mikel De Iturrate Reyzabal et.al.|[2401.09239v1](http://arxiv.org/abs/2401.09239v1)|null|
+|**2024-01-17**|**DaFoEs: Mixing Datasets towards the generalization of vision-state deep-learning Force Estimation in Minimally Invasive Robotic Surgery**|Mikel De Iturrate Reyzabal et.al.|[2401.09239v1](http://arxiv.org/abs/2401.09239v1)|**[link](https://github.com/mikelitu/dafoes)**|
 |**2024-01-17**|**Bridging Research and Readers: A Multi-Modal Automated Academic Papers Interpretation System**|Feng Jiang et.al.|[2401.09150v1](http://arxiv.org/abs/2401.09150v1)|null|
 |**2024-01-17**|**SM $^3$ : Self-Supervised Multi-task Modeling with Multi-view 2D Images for Articulated Objects**|Haowen Wang et.al.|[2401.09133v1](http://arxiv.org/abs/2401.09133v1)|null|
 |**2024-01-17**|**CrossVideo: Self-supervised Cross-modal Contrastive Learning for Point Cloud Video Understanding**|Yunze Liu et.al.|[2401.09057v1](http://arxiv.org/abs/2401.09057v1)|null|
@@ -2581,8 +2591,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**IPR-NeRF: Ownership Verification meets Neural Radiance Field**|Win Kent Ong et.al.|[2401.09495v1](http://arxiv.org/abs/2401.09495v1)|null|
 |**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937v1](http://arxiv.org/abs/2401.08937v1)|null|
-|**2024-01-16**|**ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**|Kiyohiro Nakayama et.al.|[2401.08140v1](http://arxiv.org/abs/2401.08140v1)|null|
+|**2024-01-18**|**ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**|Kiyohiro Nakayama et.al.|[2401.08140v2](http://arxiv.org/abs/2401.08140v2)|null|
 |**2024-01-16**|**Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**|Xu Yan et.al.|[2401.08045v1](http://arxiv.org/abs/2401.08045v1)|**[link](https://github.com/zhanghm1995/forge_vfm4ad)**|
 |**2024-01-15**|**6-DoF Grasp Pose Evaluation and Optimization via Transfer Learning from NeRFs**|Gergely Sóti et.al.|[2401.07935v1](http://arxiv.org/abs/2401.07935v1)|null|
 |**2024-01-11**|**TriNeRFLet: A Wavelet Based Multiscale Triplane NeRF Representation**|Rajaei Khatib et.al.|[2401.06191v1](http://arxiv.org/abs/2401.06191v1)|null|
