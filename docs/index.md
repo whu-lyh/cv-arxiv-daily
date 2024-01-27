@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.26
+## Updated on 2024.01.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -187,11 +187,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities**|Yiyuan Zhang et.al.|[2401.14405v1](http://arxiv.org/abs/2401.14405v1)|**[link](https://github.com/ailab-cvc/m2pt)**|
+|**2024-01-25**|**MultiTest: Physical-Aware Object Insertion for Testing Multi-sensor Fusion Perception Systems**|Xinyu Gao et.al.|[2401.14314v1](http://arxiv.org/abs/2401.14314v1)|null|
+|**2024-01-25**|**JUMP: A joint multimodal registration pipeline for neuroimaging with minimal preprocessing**|Adria Casamitjana et.al.|[2401.14250v1](http://arxiv.org/abs/2401.14250v1)|**[link](https://github.com/acasamitjana/jump)**|
+|**2024-01-25**|**MTRGL:Effective Temporal Correlation Discerning through Multi-modal Temporal Relational Graph Learning**|Junwei Su et.al.|[2401.14199v1](http://arxiv.org/abs/2401.14199v1)|null|
+|**2024-01-25**|**GauU-Scene: A Scene Reconstruction Benchmark on Large Scale 3D Reconstruction Dataset Using Gaussian Splatting**|Butian Xiong et.al.|[2401.14032v1](http://arxiv.org/abs/2401.14032v1)|null|
+|**2024-01-25**|**CMMU: A Benchmark for Chinese Multi-modal Multi-type Question Understanding and Reasoning**|Zheqi He et.al.|[2401.14011v1](http://arxiv.org/abs/2401.14011v1)|null|
+|**2024-01-25**|**MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration**|Tao Guo et.al.|[2401.13934v1](http://arxiv.org/abs/2401.13934v1)|**[link](https://github.com/guo-stone/mambamorph)**|
+|**2024-01-25**|**Towards 3D Molecule-Text Interpretation in Language Models**|Sihang Li et.al.|[2401.13923v1](http://arxiv.org/abs/2401.13923v1)|null|
+|**2024-01-25**|**Cross-Modal Prototype based Multimodal Federated Learning under Severely Missing Modality**|Huy Q. Le et.al.|[2401.13898v1](http://arxiv.org/abs/2401.13898v1)|null|
 |**2024-01-24**|**Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild**|Fanghua Yu et.al.|[2401.13627v1](http://arxiv.org/abs/2401.13627v1)|null|
 |**2024-01-24**|**Enhancing Image Retrieval : A Comprehensive Study on Photo Search using the CLIP Mode**|Naresh Kumar Lahajal et.al.|[2401.13613v1](http://arxiv.org/abs/2401.13613v1)|null|
-|**2024-01-24**|**SciMMIR: Benchmarking Scientific Multi-modal Information Retrieval**|Siwei Wu et.al.|[2401.13478v1](http://arxiv.org/abs/2401.13478v1)|null|
+|**2024-01-24**|**SciMMIR: Benchmarking Scientific Multi-modal Information Retrieval**|Siwei Wu et.al.|[2401.13478v1](http://arxiv.org/abs/2401.13478v1)|**[link](https://github.com/wusiwei0410/scimmir)**|
 |**2024-01-24**|**Serial fusion of multi-modal biometric systems**|Gian Luca Marcialis et.al.|[2401.13418v1](http://arxiv.org/abs/2401.13418v1)|null|
-|**2024-01-24**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388v1](http://arxiv.org/abs/2401.13388v1)|null|
+|**2024-01-25**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388v2](http://arxiv.org/abs/2401.13388v2)|null|
 |**2024-01-24**|**MF-AED-AEC: Speech Emotion Recognition by Leveraging Multimodal Fusion, ASR Error Detection, and ASR Error Correction**|Jiajun He et.al.|[2401.13260v1](http://arxiv.org/abs/2401.13260v1)|null|
 |**2024-01-23**|**Dual-Domain Coarse-to-Fine Progressive Estimation Network for Simultaneous Denoising, Limited-View Reconstruction, and Attenuation Correction of Cardiac SPECT**|Xiongchao Chen et.al.|[2401.13140v1](http://arxiv.org/abs/2401.13140v1)|**[link](https://github.com/xiongchaochen/dudocfnet-multitask)**|
 |**2024-01-23**|**On the Efficacy of Text-Based Input Modalities for Action Anticipation**|Apoorva Beedu et.al.|[2401.12972v1](http://arxiv.org/abs/2401.12972v1)|null|
@@ -2631,6 +2640,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354v1](http://arxiv.org/abs/2401.14354v1)|null|
+|**2024-01-25**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257v1](http://arxiv.org/abs/2401.14257v1)|null|
 |**2024-01-24**|**EndoGaussians: Single View Dynamic Gaussian Splatting for Deformable Endoscopic Tissues Reconstruction**|Yangsen Chen et.al.|[2401.13352v1](http://arxiv.org/abs/2401.13352v1)|null|
 |**2024-01-23**|**NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**|Chongke Bi et.al.|[2401.12568v1](http://arxiv.org/abs/2401.12568v1)|null|
 |**2024-01-23**|**Exploration and Improvement of Nerf-based 3D Scene Editing Techniques**|Shun Fang et.al.|[2401.12456v1](http://arxiv.org/abs/2401.12456v1)|null|
