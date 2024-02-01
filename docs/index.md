@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.31
+## Updated on 2024.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -187,15 +187,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-29**|**Synchformer: Efficient Synchronization from Sparse Cues**|Vladimir Iashin et.al.|[2401.16423v1](http://arxiv.org/abs/2401.16423v1)|null|
+|**2024-01-30**|**Embracing Language Inclusivity and Diversity in CLIP through Continual Language Learning**|Bang Yang et.al.|[2401.17186v1](http://arxiv.org/abs/2401.17186v1)|null|
+|**2024-01-30**|**Large Language Model Evaluation via Matrix Entropy**|Lai Wei et.al.|[2401.17139v1](http://arxiv.org/abs/2401.17139v1)|**[link](https://github.com/waltonfuture/matrix-entropy)**|
+|**2024-01-30**|**Multi-modal Representation Learning for Cross-modal Prediction of Continuous Weather Patterns from Discrete Low-Dimensional Data**|Alif Bin Abdul Qayyum et.al.|[2401.16936v1](http://arxiv.org/abs/2401.16936v1)|null|
+|**2024-01-30**|**Fourier Prompt Tuning for Modality-Incomplete Scene Segmentation**|Ruiping Liu et.al.|[2401.16923v1](http://arxiv.org/abs/2401.16923v1)|null|
+|**2024-01-30**|**EarthGPT: A Universal Multi-modal Large Language Model for Multi-sensor Image Comprehension in Remote Sensing Domain**|Wei Zhang et.al.|[2401.16822v1](http://arxiv.org/abs/2401.16822v1)|null|
+|**2024-01-29**|**Synchformer: Efficient Synchronization from Sparse Cues**|Vladimir Iashin et.al.|[2401.16423v1](http://arxiv.org/abs/2401.16423v1)|**[link](https://github.com/v-iashin/synchformer)**|
 |**2024-01-29**|**InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model**|Xiaoyi Dong et.al.|[2401.16420v1](http://arxiv.org/abs/2401.16420v1)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2024-01-29**|**Cross-Modal Coordination Across a Diverse Set of Input Modalities**|Jorge Sánchez et.al.|[2401.16347v1](http://arxiv.org/abs/2401.16347v1)|null|
-|**2024-01-29**|**Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception**|Junyang Wang et.al.|[2401.16158v1](http://arxiv.org/abs/2401.16158v1)|null|
-|**2024-01-29**|**Find the Cliffhanger: Multi-Modal Trailerness in Soap Operas**|Carlo Bretti et.al.|[2401.16076v1](http://arxiv.org/abs/2401.16076v1)|null|
+|**2024-01-29**|**Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception**|Junyang Wang et.al.|[2401.16158v1](http://arxiv.org/abs/2401.16158v1)|**[link](https://github.com/x-plug/mobileagent)**|
+|**2024-01-29**|**Find the Cliffhanger: Multi-Modal Trailerness in Soap Operas**|Carlo Bretti et.al.|[2401.16076v1](http://arxiv.org/abs/2401.16076v1)|**[link](https://github.com/carlobretti/cliffhanger)**|
 |**2024-01-29**|**Masked Audio Modeling with CLAP and Multi-Objective Learning**|Yifei Xin et.al.|[2401.15953v1](http://arxiv.org/abs/2401.15953v1)|null|
 |**2024-01-29**|**MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**|Bin Lin et.al.|[2401.15947v1](http://arxiv.org/abs/2401.15947v1)|**[link](https://github.com/PKU-YuanGroup/MoE-LLaVA)**|
 |**2024-01-28**|**Prediction of Breast Cancer Recurrence Risk Using a Multi-Model Approach Integrating Whole Slide Imaging and Clinicopathologic Features**|Manu Goyal et.al.|[2401.15805v1](http://arxiv.org/abs/2401.15805v1)|null|
-|**2024-01-28**|**Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance**|Qingcheng Zhao et.al.|[2401.15687v1](http://arxiv.org/abs/2401.15687v1)|null|
+|**2024-01-30**|**Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance**|Qingcheng Zhao et.al.|[2401.15687v2](http://arxiv.org/abs/2401.15687v2)|null|
 |**2024-01-28**|**IntentTuner: An Interactive Framework for Integrating Human Intents in Fine-tuning Text-to-Image Generative Models**|Xingchen Zeng et.al.|[2401.15559v1](http://arxiv.org/abs/2401.15559v1)|null|
 |**2024-01-28**|**Analog and Multi-modal Manufacturing Datasets Acquired on the Future Factories Platform**|Ramy Harik et.al.|[2401.15544v1](http://arxiv.org/abs/2401.15544v1)|null|
 |**2024-01-27**|**"May I Speak?": Multi-modal Attention Guidance in Social VR Group Conversations**|Geonsun Lee et.al.|[2401.15507v1](http://arxiv.org/abs/2401.15507v1)|null|
@@ -2663,6 +2668,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121v1](http://arxiv.org/abs/2401.17121v1)|**[link](https://github.com/mercerai/paev3d)**|
 |**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v1](http://arxiv.org/abs/2401.16416v1)|null|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144v1](http://arxiv.org/abs/2401.16144v1)|null|
 |**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726v1](http://arxiv.org/abs/2401.14726v1)|null|
