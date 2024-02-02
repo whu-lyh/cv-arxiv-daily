@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.01
+## Updated on 2024.02.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**ATPPNet: Attention based Temporal Point cloud Prediction Network**|Kaustab Pal et.al.|[2401.17399v1](http://arxiv.org/abs/2401.17399v1)|null|
 |**2024-01-23**|**A BFF-Based Attention Mechanism for Trajectory Estimation in mmWave MIMO Communications**|Mohammad Shamsesalehi et.al.|[2401.13059v1](http://arxiv.org/abs/2401.13059v1)|null|
 |**2024-01-16**|**Two-dimensional kinematics and dynamical modelling of the 'Jackpot' gravitational lens from deep MUSE observations**|Hannah C. Turner et.al.|[2401.08771v1](http://arxiv.org/abs/2401.08771v1)|null|
 |**2024-01-01**|**The Smooth Trajectory Estimator for LMB Filters**|Hoa Van Nguyen et.al.|[2401.00682v1](http://arxiv.org/abs/2401.00682v1)|null|
@@ -187,6 +188,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Proximity QA: Unleashing the Power of Multi-Modal Large Language Models for Spatial Proximity Analysis**|Jianing Li et.al.|[2401.17862v1](http://arxiv.org/abs/2401.17862v1)|null|
+|**2024-01-31**|**Towards Semantic Consistency: Dirichlet Energy Driven Robust Multi-Modal Entity Alignment**|Yuanyi Wang et.al.|[2401.17859v1](http://arxiv.org/abs/2401.17859v1)|**[link](https://github.com/wyy-code/desalign)**|
+|**2024-01-31**|**Instruction-Guided Scene Text Recognition**|Yongkun Du et.al.|[2401.17851v1](http://arxiv.org/abs/2401.17851v1)|null|
+|**2024-01-31**|**M2-RAAP: A Multi-Modal Recipe for Advancing Adaptation-based Pre-training towards Effective and Efficient Zero-shot Video-text Retrieval**|Xingning Dong et.al.|[2401.17797v1](http://arxiv.org/abs/2401.17797v1)|**[link](https://github.com/alipay/Ant-Multi-Modal-Framework)**|
+|**2024-01-31**|**Exploiting Audio-Visual Features with Pretrained AV-HuBERT for Multi-Modal Dysarthric Speech Reconstruction**|Xueyuan Chen et.al.|[2401.17796v1](http://arxiv.org/abs/2401.17796v1)|null|
+|**2024-01-31**|**SNP-S3: Shared Network Pre-training and Significant Semantic Strengthening for Various Video-Text Tasks**|Xingning Dong et.al.|[2401.17773v1](http://arxiv.org/abs/2401.17773v1)|**[link](https://github.com/alipay/Ant-Multi-Modal-Framework)**|
+|**2024-01-31**|**Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation**|Yuanhuiyi Lyu et.al.|[2401.17664v1](http://arxiv.org/abs/2401.17664v1)|null|
+|**2024-01-31**|**What Do Self-Supervised Speech and Speaker Models Learn? New Findings From a Cross Model Layer-Wise Analysis**|Takanori Ashihara et.al.|[2401.17632v1](http://arxiv.org/abs/2401.17632v1)|null|
+|**2024-01-31**|**IGCN: Integrative Graph Convolutional Networks for Multi-modal Data**|Cagri Ozdemir et.al.|[2401.17612v1](http://arxiv.org/abs/2401.17612v1)|null|
+|**2024-01-31**|**Computation and Parameter Efficient Multi-Modal Fusion Transformer for Cued Speech Recognition**|Lei Liu et.al.|[2401.17604v1](http://arxiv.org/abs/2401.17604v1)|null|
+|**2024-01-31**|**Enhancing Score-Based Sampling Methods with Ensembles**|Tobias Bischoff et.al.|[2401.17539v1](http://arxiv.org/abs/2401.17539v1)|null|
+|**2024-01-30**|**YTCommentQA: Video Question Answerability in Instructional Videos**|Saelyne Yang et.al.|[2401.17343v1](http://arxiv.org/abs/2401.17343v1)|null|
 |**2024-01-30**|**Embracing Language Inclusivity and Diversity in CLIP through Continual Language Learning**|Bang Yang et.al.|[2401.17186v1](http://arxiv.org/abs/2401.17186v1)|null|
 |**2024-01-30**|**Large Language Model Evaluation via Matrix Entropy**|Lai Wei et.al.|[2401.17139v1](http://arxiv.org/abs/2401.17139v1)|**[link](https://github.com/waltonfuture/matrix-entropy)**|
 |**2024-01-30**|**Multi-modal Representation Learning for Cross-modal Prediction of Continuous Weather Patterns from Discrete Low-Dimensional Data**|Alif Bin Abdul Qayyum et.al.|[2401.16936v1](http://arxiv.org/abs/2401.16936v1)|null|
@@ -2668,8 +2681,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075v1](http://arxiv.org/abs/2401.18075v1)|null|
+|**2024-01-31**|**Semantic Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857v1](http://arxiv.org/abs/2401.17857v1)|null|
 |**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121v1](http://arxiv.org/abs/2401.17121v1)|**[link](https://github.com/mercerai/paev3d)**|
-|**2024-01-29**|**Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v1](http://arxiv.org/abs/2401.16416v1)|null|
+|**2024-01-31**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v2](http://arxiv.org/abs/2401.16416v2)|null|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144v1](http://arxiv.org/abs/2401.16144v1)|null|
 |**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726v1](http://arxiv.org/abs/2401.14726v1)|null|
 |**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354v1](http://arxiv.org/abs/2401.14354v1)|null|
