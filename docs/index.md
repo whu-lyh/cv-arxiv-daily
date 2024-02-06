@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.05
+## Updated on 2024.02.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -189,9 +189,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**Cheating Suffix: Targeted Attack to Text-To-Image Diffusion Models with Multi-Modal Priors**|Dingcheng Yang et.al.|[2402.01369v1](http://arxiv.org/abs/2402.01369v1)|**[link](https://github.com/ydc123/mmp-attack)**|
+|**2024-02-02**|**A general framework for rotation invariant point cloud analysis**|Shuqing Luo et.al.|[2402.01331v1](http://arxiv.org/abs/2402.01331v1)|**[link](https://github.com/luoshuqing2001/ri_framework)**|
+|**2024-02-02**|**TSJNet: A Multi-modality Target and Semantic Awareness Joint-driven Image Fusion Network**|Yuchan Jie et.al.|[2402.01212v1](http://arxiv.org/abs/2402.01212v1)|null|
+|**2024-02-02**|**Scalable Multi-modal Model Predictive Control via Duality-based Interaction Predictions**|Hansung Kim et.al.|[2402.01116v1](http://arxiv.org/abs/2402.01116v1)|null|
+|**2024-02-02**|**Gerontologic Biostatistics 2.0: Developments over 10+ years in the age of data science**|Chixiang Chen et.al.|[2402.01112v1](http://arxiv.org/abs/2402.01112v1)|null|
+|**2024-02-02**|**A Survey for Foundation Models in Autonomous Driving**|Haoxiang Gao et.al.|[2402.01105v1](http://arxiv.org/abs/2402.01105v1)|null|
+|**2024-02-02**|**Let's Negotiate! A Survey of Negotiation Dialogue Systems**|Haolan Zhan et.al.|[2402.01097v1](http://arxiv.org/abs/2402.01097v1)|null|
+|**2024-02-02**|**Chameleon: Foundation Models for Fairness-aware Multi-modal Data Augmentation to Enhance Coverage of Minorities**|Mahdi Erfanian et.al.|[2402.01071v1](http://arxiv.org/abs/2402.01071v1)|**[link](https://github.com/uic-indexlab/chameleon)**|
+|**2024-02-01**|**IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition**|Zikang Leng et.al.|[2402.01049v1](http://arxiv.org/abs/2402.01049v1)|null|
+|**2024-02-01**|**VISION-MAE: A Foundation Model for Medical Image Segmentation and Classification**|Zelong Liu et.al.|[2402.01034v1](http://arxiv.org/abs/2402.01034v1)|null|
+|**2024-02-01**|**Multi-Modal Machine Learning Framework for Automated Seizure Detection in Laboratory Rats**|Aaron Mullen et.al.|[2402.00965v1](http://arxiv.org/abs/2402.00965v1)|null|
 |**2024-02-01**|**Evaluating Large Language Models for Generalization and Robustness via Data Compression**|Yucheng Li et.al.|[2402.00861v1](http://arxiv.org/abs/2402.00861v1)|null|
 |**2024-02-01**|**An Analytical Approach for Intermodal Urban Transportation Network Equilibrium including Shared Mobility Services**|Khadidja Kadem et.al.|[2402.00735v1](http://arxiv.org/abs/2402.00735v1)|null|
-|**2024-02-01**|**Combining Belief Function Theory and Stochastic Model Predictive Control for Multi-Modal Uncertainty in Autonomous Driving**|Tommaso Benciolini et.al.|[2402.00697v1](http://arxiv.org/abs/2402.00697v1)|null|
+|**2024-02-02**|**Combining Belief Function Theory and Stochastic Model Predictive Control for Multi-Modal Uncertainty in Autonomous Driving**|Tommaso Benciolini et.al.|[2402.00697v2](http://arxiv.org/abs/2402.00697v2)|null|
 |**2024-02-01**|**Exploring Homogeneous and Heterogeneous Consistent Label Associations for Unsupervised Visible-Infrared Person ReID**|Lingfeng He et.al.|[2402.00672v1](http://arxiv.org/abs/2402.00672v1)|null|
 |**2024-01-31**|**Multimodal Neurodegenerative Disease Subtyping Explained by ChatGPT**|Diego Machado Reyes et.al.|[2402.00137v1](http://arxiv.org/abs/2402.00137v1)|null|
 |**2024-01-31**|**Transdisciplinary Multi Modal Approach to Knowledge**|Johanna Casado et.al.|[2402.00136v1](http://arxiv.org/abs/2402.00136v1)|null|
@@ -2443,7 +2454,7 @@ layout: default
 |**2023-11-27**|**Text2Loc: 3D Point Cloud Localization from Natural Language**|Yan Xia et.al.|[2311.15977v1](http://arxiv.org/abs/2311.15977v1)|null|
 |**2023-01-13**|**Text to Point Cloud Localization with Relation-Enhanced Transformer**|Guangzhi Wang et.al.|[2301.05372v1](http://arxiv.org/abs/2301.05372v1)|null|
 |**2022-09-30**|**Point Cloud Quality Assessment using 3D Saliency Maps**|Zhengyu Wang et.al.|[2209.15475v1](http://arxiv.org/abs/2209.15475v1)|null|
-|**2022-07-12**|**CPO: Change Robust Panorama to Point Cloud Localization**|Junho Kim et.al.|[2207.05317v1](http://arxiv.org/abs/2207.05317v1)|null|
+|**2024-02-02**|**CPO: Change Robust Panorama to Point Cloud Localization**|Junho Kim et.al.|[2207.05317v2](http://arxiv.org/abs/2207.05317v2)|**[link](https://github.com/82magnolia/panoramic-localization)**|
 |**2022-05-31**|**PSNet: Fast Data Structuring for Hierarchical Deep Learning on Point Cloud**|Luyang Li et.al.|[2205.14965v2](http://arxiv.org/abs/2205.14965v2)|**[link](https://github.com/lly007/pointstructuringnet)**|
 |**2022-04-05**|**Text2Pos: Text-to-Point-Cloud Cross-Modal Localization**|Manuel Kolmet et.al.|[2203.15125v2](http://arxiv.org/abs/2203.15125v2)|null|
 |**2021-11-22**|**PointLoc: Deep Pose Regressor for LiDAR Point Cloud Localization**|Wei Wang et.al.|[2003.02392v3](http://arxiv.org/abs/2003.02392v3)|**[link](https://github.com/loveoxford/vreloc)**|
@@ -2691,6 +2702,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**|Paweł Batorski et.al.|[2402.01524v1](http://arxiv.org/abs/2402.01524v1)|**[link](https://github.com/gmum/hyperplanes)**|
+|**2024-02-02**|**Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**|Mahboubeh Asadi et.al.|[2402.01485v1](http://arxiv.org/abs/2402.01485v1)|null|
+|**2024-02-02**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459v1](http://arxiv.org/abs/2402.01459v1)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
+|**2024-02-02**|**Efficient Dynamic-NeRF Based Volumetric Video Coding with Rate Distortion Optimization**|Zhiyu Zhang et.al.|[2402.01380v1](http://arxiv.org/abs/2402.01380v1)|null|
+|**2024-02-02**|**Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance**|Yaokun Li et.al.|[2402.01217v1](http://arxiv.org/abs/2402.01217v1)|null|
 |**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864v1](http://arxiv.org/abs/2402.00864v1)|**[link](https://github.com/dongjiahua/vica-nerf)**|
 |**2024-02-01**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827v1](http://arxiv.org/abs/2402.00827v1)|null|
 |**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075v1](http://arxiv.org/abs/2401.18075v1)|null|
