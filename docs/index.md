@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.08
+## Updated on 2024.02.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -191,6 +191,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**Efficient Multi-Resolution Fusion for Remote Sensing Data with Label Uncertainty**|Hersh Vakharia et.al.|[2402.05045v1](http://arxiv.org/abs/2402.05045v1)|**[link](https://github.com/hvak/mimrf-bfm)**|
+|**2024-02-07**|**M2fNet: Multi-modal Forest Monitoring Network on Large-scale Virtual Dataset**|Yawen Lu et.al.|[2402.04534v1](http://arxiv.org/abs/2402.04534v1)|null|
+|**2024-02-06**|**AdaFlow: Imitation Learning with Variance-Adaptive Flow-Based Policies**|Xixi Hu et.al.|[2402.04292v1](http://arxiv.org/abs/2402.04292v1)|null|
 |**2024-02-06**|**Scientific Language Modeling: A Quantitative Review of Large Language Models in Molecular Science**|Pengfei Liu et.al.|[2402.04119v1](http://arxiv.org/abs/2402.04119v1)|**[link](https://github.com/ai-hpc-research-team/slm4mol)**|
 |**2024-02-06**|**Spatial Assisted Human-Drone Collaborative Navigation and Interaction through Immersive Mixed Reality**|Luca Morando et.al.|[2402.04070v1](http://arxiv.org/abs/2402.04070v1)|null|
 |**2024-02-06**|**Boosting Adversarial Transferability across Model Genus by Deformation-Constrained Warping**|Qinliang Lin et.al.|[2402.03951v1](http://arxiv.org/abs/2402.03951v1)|**[link](https://github.com/linqinliang/decowa)**|
@@ -2732,6 +2735,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**NeRF as Non-Distant Environment Emitter in Physics-based Inverse Rendering**|Jingwang Ling et.al.|[2402.04829v1](http://arxiv.org/abs/2402.04829v1)|null|
+|**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648v1](http://arxiv.org/abs/2402.04648v1)|null|
+|**2024-02-07**|**BirdNeRF: Fast Neural Reconstruction of Large-Scale Scenes From Aerial Imagery**|Huiqing Zhang et.al.|[2402.04554v1](http://arxiv.org/abs/2402.04554v1)|null|
 |**2024-02-06**|**Improved Generalization of Weight Space Networks via Augmentations**|Aviv Shamsian et.al.|[2402.04081v1](http://arxiv.org/abs/2402.04081v1)|null|
 |**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906v1](http://arxiv.org/abs/2402.02906v1)|**[link](https://github.com/bronemos/view-fusion)**|
 |**2024-02-02**|**ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**|Xingyu Miao et.al.|[2402.01950v1](http://arxiv.org/abs/2402.01950v1)|**[link](https://github.com/xingy038/conrf)**|
