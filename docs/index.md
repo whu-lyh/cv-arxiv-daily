@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.14
+## Updated on 2024.02.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -193,6 +193,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**One-shot Imitation in a Non-Stationary Environment via Multi-Modal Skill**|Sangwoo Shin et.al.|[2402.08369v1](http://arxiv.org/abs/2402.08369v1)|null|
+|**2024-02-13**|**PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers**|Weizhe Lin et.al.|[2402.08327v1](http://arxiv.org/abs/2402.08327v1)|null|
+|**2024-02-13**|**One-to-many Reconstruction of 3D Geometry of cultural Artifacts using a synthetically trained Generative Model**|Thomas Pöllabauer et.al.|[2402.08310v1](http://arxiv.org/abs/2402.08310v1)|null|
+|**2024-02-13**|**Inherent Diverse Redundant Safety Mechanisms for AI-based Software Elements in Automotive Applications**|Mandar Pitale et.al.|[2402.08208v1](http://arxiv.org/abs/2402.08208v1)|null|
+|**2024-02-13**|**PSC-CPI: Multi-Scale Protein Sequence-Structure Contrasting for Efficient and Generalizable Compound-Protein Interaction Prediction**|Lirong Wu et.al.|[2402.08198v1](http://arxiv.org/abs/2402.08198v1)|**[link](https://github.com/lirongwu/psc-cpi)**|
+|**2024-02-12**|**Customizable Perturbation Synthesis for Robust SLAM Benchmarking**|Xiaohao Xu et.al.|[2402.08125v1](http://arxiv.org/abs/2402.08125v1)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
+|**2024-02-12**|**Text-centric Alignment for Multi-Modality Learning**|Yun-Da Tsai et.al.|[2402.08086v1](http://arxiv.org/abs/2402.08086v1)|null|
+|**2024-02-12**|**ReNeLiB: Real-time Neural Listening Behavior Generation for Socially Interactive Agents**|Daksitha Withanage Don et.al.|[2402.08079v1](http://arxiv.org/abs/2402.08079v1)|null|
 |**2024-02-12**|**Multimodal Learned Sparse Retrieval for Image Suggestion**|Thong Nguyen et.al.|[2402.07736v1](http://arxiv.org/abs/2402.07736v1)|null|
 |**2024-02-12**|**Unsupervised Sign Language Translation and Generation**|Zhengsheng Guo et.al.|[2402.07726v1](http://arxiv.org/abs/2402.07726v1)|null|
 |**2024-02-12**|**Unveiling Group-Specific Distributed Concept Drift: A Fairness Imperative in Federated Learning**|Teresa Salazar et.al.|[2402.07586v1](http://arxiv.org/abs/2402.07586v1)|null|
@@ -2774,6 +2782,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs**|Michael Fischer et.al.|[2402.08622v1](http://arxiv.org/abs/2402.08622v1)|null|
+|**2024-02-13**|**H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields**|Minyoung Park et.al.|[2402.08138v1](http://arxiv.org/abs/2402.08138v1)|null|
 |**2024-02-12**|**DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation**|Chenchang Li et.al.|[2402.07648v1](http://arxiv.org/abs/2402.07648v1)|null|
 |**2024-02-11**|**BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**|Leandro A. Passos et.al.|[2402.07310v1](http://arxiv.org/abs/2402.07310v1)|null|
 |**2024-02-11**|**3D Gaussian as a New Vision Era: A Survey**|Ben Fei et.al.|[2402.07181v1](http://arxiv.org/abs/2402.07181v1)|null|
