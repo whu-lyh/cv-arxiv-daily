@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.15
+## Updated on 2024.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -193,8 +193,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**MultiMedEval: A Benchmark and a Toolkit for Evaluating Medical Vision-Language Models**|Corentin Royer et.al.|[2402.09262v1](http://arxiv.org/abs/2402.09262v1)|null|
+|**2024-02-14**|**Control of multi-modal scattering in a microwave frequency comb**|J. C. Rivera Hernández et.al.|[2402.09068v1](http://arxiv.org/abs/2402.09068v1)|null|
+|**2024-02-14**|**Comment-aided Video-Language Alignment via Contrastive Pre-training for Short-form Video Humor Detection**|Yang Liu et.al.|[2402.09055v1](http://arxiv.org/abs/2402.09055v1)|null|
+|**2024-02-14**|**Can Text-to-image Model Assist Multi-modal Learning for Visual Recognition with Visual Modality Missing?**|Tiantian Feng et.al.|[2402.09036v1](http://arxiv.org/abs/2402.09036v1)|null|
+|**2024-02-14**|**Multi-modality transrectal ultrasound vudei classification for identification of clinically significant prostate cancer**|Hong Wu et.al.|[2402.08987v1](http://arxiv.org/abs/2402.08987v1)|**[link](https://github.com/2313595986/prostatetrus)**|
+|**2024-02-14**|**Interpretable Measures of Conceptual Similarity by Complexity-Constrained Descriptive Auto-Encoding**|Alessandro Achille et.al.|[2402.08919v1](http://arxiv.org/abs/2402.08919v1)|null|
+|**2024-02-14**|**Auto-Encoding Bayesian Inverse Games**|Xinjie Liu et.al.|[2402.08902v1](http://arxiv.org/abs/2402.08902v1)|null|
+|**2024-02-13**|**An Embarrassingly Simple Approach for LLM with Strong ASR Capacity**|Ziyang Ma et.al.|[2402.08846v1](http://arxiv.org/abs/2402.08846v1)|null|
 |**2024-02-13**|**One-shot Imitation in a Non-Stationary Environment via Multi-Modal Skill**|Sangwoo Shin et.al.|[2402.08369v1](http://arxiv.org/abs/2402.08369v1)|null|
-|**2024-02-13**|**PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers**|Weizhe Lin et.al.|[2402.08327v1](http://arxiv.org/abs/2402.08327v1)|null|
+|**2024-02-13**|**PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers**|Weizhe Lin et.al.|[2402.08327v1](http://arxiv.org/abs/2402.08327v1)|**[link](https://github.com/linweizhedragon/retrieval-augmented-visual-question-answering)**|
 |**2024-02-13**|**One-to-many Reconstruction of 3D Geometry of cultural Artifacts using a synthetically trained Generative Model**|Thomas Pöllabauer et.al.|[2402.08310v1](http://arxiv.org/abs/2402.08310v1)|null|
 |**2024-02-13**|**Inherent Diverse Redundant Safety Mechanisms for AI-based Software Elements in Automotive Applications**|Mandar Pitale et.al.|[2402.08208v1](http://arxiv.org/abs/2402.08208v1)|null|
 |**2024-02-13**|**PSC-CPI: Multi-Scale Protein Sequence-Structure Contrasting for Efficient and Generalizable Compound-Protein Interaction Prediction**|Lirong Wu et.al.|[2402.08198v1](http://arxiv.org/abs/2402.08198v1)|**[link](https://github.com/lirongwu/psc-cpi)**|
@@ -2782,6 +2790,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325v1](http://arxiv.org/abs/2402.09325v1)|**[link](https://github.com/biter0088/pc-nerf)**|
+|**2024-02-13**|**Preconditioners for the Stochastic Training of Implicit Neural Representations**|Shin-Fang Chng et.al.|[2402.08784v1](http://arxiv.org/abs/2402.08784v1)|null|
 |**2024-02-13**|**NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs**|Michael Fischer et.al.|[2402.08622v1](http://arxiv.org/abs/2402.08622v1)|null|
 |**2024-02-13**|**H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields**|Minyoung Park et.al.|[2402.08138v1](http://arxiv.org/abs/2402.08138v1)|null|
 |**2024-02-12**|**DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation**|Chenchang Li et.al.|[2402.07648v1](http://arxiv.org/abs/2402.07648v1)|null|
