@@ -251,7 +251,7 @@ layout: default
 |**2024-02-08**|**Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey**|Zhuo Chen et.al.|[2402.05391v1](http://arxiv.org/abs/2402.05391v1)|**[link](https://github.com/zjukg/kg-mm-survey)**|
 |**2024-02-08**|**A Survey on Safe Multi-Modal Learning System**|Tianyi Zhao et.al.|[2402.05355v1](http://arxiv.org/abs/2402.05355v1)|null|
 |**2024-02-07**|**Knowledge Distillation for Road Detection based on cross-model Semi-Supervised Learning**|Wanli Ma et.al.|[2402.05305v1](http://arxiv.org/abs/2402.05305v1)|null|
-|**2024-02-07**|**BIKED++: A Multimodal Dataset of 1.4 Million Bicycle Image and Parametric CAD Designs**|Lyle Regenwetter et.al.|[2402.05301v1](http://arxiv.org/abs/2402.05301v1)|null|
+|**2024-02-07**|**BIKED++: A Multimodal Dataset of 1.4 Million Bicycle Image and Parametric CAD Designs**|Lyle Regenwetter et.al.|[2402.05301v1](http://arxiv.org/abs/2402.05301v1)|**[link](https://github.com/lyleregenwetter/biked_multimodal)**|
 |**2024-02-07**|**Efficient Multi-Resolution Fusion for Remote Sensing Data with Label Uncertainty**|Hersh Vakharia et.al.|[2402.05045v1](http://arxiv.org/abs/2402.05045v1)|**[link](https://github.com/hvak/mimrf-bfm)**|
 |**2024-02-07**|**M2fNet: Multi-modal Forest Monitoring Network on Large-scale Virtual Dataset**|Yawen Lu et.al.|[2402.04534v1](http://arxiv.org/abs/2402.04534v1)|null|
 |**2024-02-06**|**AdaFlow: Imitation Learning with Variance-Adaptive Flow-Based Policies**|Xixi Hu et.al.|[2402.04292v1](http://arxiv.org/abs/2402.04292v1)|null|
@@ -381,7 +381,7 @@ layout: default
 |**2024-01-20**|**Automated Fusion of Multimodal Electronic Health Records for Better Medical Predictions**|Suhan Cui et.al.|[2401.11252v1](http://arxiv.org/abs/2401.11252v1)|**[link](https://github.com/sh-src/automf)**|
 |**2024-01-19**|**Tool-LMM: A Large Multi-Modal Model for Tool Agent Learning**|Chenyu Wang et.al.|[2401.10727v1](http://arxiv.org/abs/2401.10727v1)|**[link](https://github.com/mllm-tool/mllm-tool)**|
 |**2024-01-19**|**Q&A Prompts: Discovering Rich Visual Clues through Mining Question-Answer Prompts for VQA requiring Diverse World Knowledge**|Haibi Wang et.al.|[2401.10712v1](http://arxiv.org/abs/2401.10712v1)|null|
-|**2024-01-19**|**DGL: Dynamic Global-Local Prompt Tuning for Text-Video Retrieval**|Xiangpeng Yang et.al.|[2401.10588v1](http://arxiv.org/abs/2401.10588v1)|null|
+|**2024-01-19**|**DGL: Dynamic Global-Local Prompt Tuning for Text-Video Retrieval**|Xiangpeng Yang et.al.|[2401.10588v1](http://arxiv.org/abs/2401.10588v1)|**[link](https://github.com/knightyxp/dgl)**|
 |**2024-01-19**|**Robust Multi-Modal Density Estimation**|Anna Mészáros et.al.|[2401.10566v1](http://arxiv.org/abs/2401.10566v1)|null|
 |**2024-01-19**|**Enhancing medical vision-language contrastive learning via inter-matching relation modelling**|Mingjian Li et.al.|[2401.10501v1](http://arxiv.org/abs/2401.10501v1)|null|
 |**2024-01-19**|**PhotoScout: Synthesis-Powered Multi-Modal Image Search**|Celeste Barnaby et.al.|[2401.10464v1](http://arxiv.org/abs/2401.10464v1)|null|
@@ -398,7 +398,7 @@ layout: default
 |**2024-01-17**|**eipy: An Open-Source Python Package for Multi-modal Data Integration using Heterogeneous Ensembles**|Jamie J. R. Bennett et.al.|[2401.09582v1](http://arxiv.org/abs/2401.09582v1)|**[link](https://github.com/gauravpandeylab/eipy)**|
 |**2024-01-17**|**CognitiveDog: Large Multimodal Model Based System to Translate Vision and Language into Action of Quadruped Robot**|Artem Lykov et.al.|[2401.09388v1](http://arxiv.org/abs/2401.09388v1)|null|
 |**2024-01-17**|**DaFoEs: Mixing Datasets towards the generalization of vision-state deep-learning Force Estimation in Minimally Invasive Robotic Surgery**|Mikel De Iturrate Reyzabal et.al.|[2401.09239v1](http://arxiv.org/abs/2401.09239v1)|**[link](https://github.com/mikelitu/dafoes)**|
-|**2024-01-17**|**Bridging Research and Readers: A Multi-Modal Automated Academic Papers Interpretation System**|Feng Jiang et.al.|[2401.09150v1](http://arxiv.org/abs/2401.09150v1)|null|
+|**2024-01-17**|**Bridging Research and Readers: A Multi-Modal Automated Academic Papers Interpretation System**|Feng Jiang et.al.|[2401.09150v1](http://arxiv.org/abs/2401.09150v1)|**[link](https://github.com/fjiangai/mmapis)**|
 |**2024-01-17**|**SM $^3$ : Self-Supervised Multi-task Modeling with Multi-view 2D Images for Articulated Objects**|Haowen Wang et.al.|[2401.09133v1](http://arxiv.org/abs/2401.09133v1)|null|
 |**2024-01-17**|**CrossVideo: Self-supervised Cross-modal Contrastive Learning for Point Cloud Video Understanding**|Yunze Liu et.al.|[2401.09057v1](http://arxiv.org/abs/2401.09057v1)|null|
 |**2024-01-17**|**Cross-modality Guidance-aided Multi-modal Learning with Dual Attention for MRI Brain Tumor Grading**|Dunyuan Xu et.al.|[2401.09029v1](http://arxiv.org/abs/2401.09029v1)|null|
@@ -1455,7 +1455,7 @@ layout: default
 |**2023-08-12**|**Contrastive Learning for Cross-modal Artist Retrieval**|Andres Ferraro et.al.|[2308.06556v1](http://arxiv.org/abs/2308.06556v1)|null|
 |**2023-08-12**|**BEV-DG: Cross-Modal Learning under Bird's-Eye View for Domain Generalization of 3D Semantic Segmentation**|Miaoyu Li et.al.|[2308.06530v1](http://arxiv.org/abs/2308.06530v1)|null|
 |**2023-08-12**|**Latent Emission-Augmented Perspective-Taking (LEAPT) for Human-Robot Interaction**|Kaiqi Chen et.al.|[2308.06498v1](http://arxiv.org/abs/2308.06498v1)|null|
-|**2023-08-11**|**Detecting and Preventing Hallucinations in Large Vision Language Models**|Anisha Gunjal et.al.|[2308.06394v1](http://arxiv.org/abs/2308.06394v1)|null|
+|**2023-08-11**|**Detecting and Preventing Hallucinations in Large Vision Language Models**|Anisha Gunjal et.al.|[2308.06394v1](http://arxiv.org/abs/2308.06394v1)|**[link](https://github.com/hendryx-scale/mhal-detect)**|
 |**2023-08-11**|**CATS v2: Hybrid encoders for robust medical segmentation**|Hao Li et.al.|[2308.06377v1](http://arxiv.org/abs/2308.06377v1)|**[link](https://github.com/haoli12345/cats)**|
 |**2023-08-11**|**Foundation Model is Efficient Multimodal Multitask Model Selector**|Fanqing Meng et.al.|[2308.06262v1](http://arxiv.org/abs/2308.06262v1)|**[link](https://github.com/opengvlab/multitask-model-selector)**|
 |**2023-08-11**|**Thinking Like an Expert:Multimodal Hypergraph-of-Thought (HoT) Reasoning to boost Foundation Modals**|Fanglong Yao et.al.|[2308.06207v1](http://arxiv.org/abs/2308.06207v1)|null|
