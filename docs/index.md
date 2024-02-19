@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.18
+## Updated on 2024.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -201,7 +201,7 @@ layout: default
 |**2024-02-15**|**VisIRNet: Deep Image Alignment for UAV-taken Visible and Infrared Image Pairs**|Sedat Ozer et.al.|[2402.09635v1](http://arxiv.org/abs/2402.09635v1)|null|
 |**2024-02-14**|**MultiMedEval: A Benchmark and a Toolkit for Evaluating Medical Vision-Language Models**|Corentin Royer et.al.|[2402.09262v1](http://arxiv.org/abs/2402.09262v1)|null|
 |**2024-02-14**|**Control of multi-modal scattering in a microwave frequency comb**|J. C. Rivera Hernández et.al.|[2402.09068v1](http://arxiv.org/abs/2402.09068v1)|null|
-|**2024-02-14**|**Comment-aided Video-Language Alignment via Contrastive Pre-training for Short-form Video Humor Detection**|Yang Liu et.al.|[2402.09055v1](http://arxiv.org/abs/2402.09055v1)|null|
+|**2024-02-14**|**Comment-aided Video-Language Alignment via Contrastive Pre-training for Short-form Video Humor Detection**|Yang Liu et.al.|[2402.09055v1](http://arxiv.org/abs/2402.09055v1)|**[link](https://github.com/yliu-cs/cvla)**|
 |**2024-02-14**|**Can Text-to-image Model Assist Multi-modal Learning for Visual Recognition with Visual Modality Missing?**|Tiantian Feng et.al.|[2402.09036v1](http://arxiv.org/abs/2402.09036v1)|null|
 |**2024-02-14**|**Multi-modality transrectal ultrasound vudei classification for identification of clinically significant prostate cancer**|Hong Wu et.al.|[2402.08987v1](http://arxiv.org/abs/2402.08987v1)|**[link](https://github.com/2313595986/prostatetrus)**|
 |**2024-02-14**|**Interpretable Measures of Conceptual Similarity by Complexity-Constrained Descriptive Auto-Encoding**|Alessandro Achille et.al.|[2402.08919v1](http://arxiv.org/abs/2402.08919v1)|null|
