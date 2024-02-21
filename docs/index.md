@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.20
+## Updated on 2024.02.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -193,6 +193,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models**|Christian Schlarmann et.al.|[2402.12336v1](http://arxiv.org/abs/2402.12336v1)|**[link](https://github.com/chs20/robustvlm)**|
+|**2024-02-19**|**Pan-Mamba: Effective pan-sharpening with State Space Model**|Xuanhua He et.al.|[2402.12192v1](http://arxiv.org/abs/2402.12192v1)|null|
+|**2024-02-19**|**ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning**|Renqiu Xia et.al.|[2402.12185v1](http://arxiv.org/abs/2402.12185v1)|**[link](https://github.com/unimodal4reasoning/chartvlm)**|
+|**2024-02-19**|**Scaffolding Coordinates to Promote Vision-Language Coordination in Large Multi-Modal Models**|Xuanyu Lei et.al.|[2402.12058v1](http://arxiv.org/abs/2402.12058v1)|**[link](https://github.com/leixy20/scaffold)**|
+|**2024-02-19**|**Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models**|Didi Zhu et.al.|[2402.12048v1](http://arxiv.org/abs/2402.12048v1)|null|
+|**2024-02-19**|**Unveiling the Depths: A Multi-Modal Fusion Framework for Challenging Scenarios**|Jialei Xu et.al.|[2402.11826v1](http://arxiv.org/abs/2402.11826v1)|null|
+|**2024-02-18**|**Vision-Flan: Scaling Human-Labeled Tasks in Visual Instruction Tuning**|Zhiyang Xu et.al.|[2402.11690v1](http://arxiv.org/abs/2402.11690v1)|null|
+|**2024-02-18**|**MultiCorrupt: A Multi-Modal Robustness Dataset and Benchmark of LiDAR-Camera Fusion for 3D Object Detection**|Till Beemelmanns et.al.|[2402.11677v1](http://arxiv.org/abs/2402.11677v1)|**[link](https://github.com/ika-rwth-aachen/multicorrupt)**|
+|**2024-02-18**|**Towards Distributed and Intelligent Integrated Sensing and Communications for 6G Networks**|Emilio Calvanese Strinati et.al.|[2402.11630v1](http://arxiv.org/abs/2402.11630v1)|null|
+|**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574v1](http://arxiv.org/abs/2402.11574v1)|null|
+|**2024-02-18**|**Cobra Effect in Reference-Free Image Captioning Metrics**|Zheng Ma et.al.|[2402.11572v1](http://arxiv.org/abs/2402.11572v1)|null|
+|**2024-02-18**|**MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific Data Visualization**|Zhiyu Yang et.al.|[2402.11453v1](http://arxiv.org/abs/2402.11453v1)|null|
+|**2024-02-17**|**ICHPro: Intracerebral Hemorrhage Prognosis Classification Via Joint-attention Fusion-based 3d Cross-modal Network**|Xinlei Yu et.al.|[2402.11307v1](http://arxiv.org/abs/2402.11307v1)|**[link](https://github.com/yu-deep/ich)**|
+|**2024-02-17**|**MMMModal -- Multi-Images Multi-Audio Multi-turn Multi-Modal**|Husein Zolkepli et.al.|[2402.11297v1](http://arxiv.org/abs/2402.11297v1)|null|
+|**2024-02-17**|**Asclepius: A Spectrum Evaluation Benchmark for Medical Multi-Modal Large Language Models**|Wenxuan Wang et.al.|[2402.11217v1](http://arxiv.org/abs/2402.11217v1)|null|
 |**2024-02-16**|**PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter**|Junfei Xiao et.al.|[2402.10896v1](http://arxiv.org/abs/2402.10896v1)|null|
 |**2024-02-16**|**Fusion of Diffusion Weighted MRI and Clinical Data for Predicting Functional Outcome after Acute Ischemic Stroke with Deep Contrastive Learning**|Chia-Ling Tsai et.al.|[2402.10894v1](http://arxiv.org/abs/2402.10894v1)|null|
 |**2024-02-16**|**Multi-modal preference alignment remedies regression of visual instruction tuning on language model**|Shengzhi Li et.al.|[2402.10884v1](http://arxiv.org/abs/2402.10884v1)|null|
@@ -2807,6 +2822,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377v1](http://arxiv.org/abs/2402.12377v1)|null|
+|**2024-02-19**|**Colorizing Monochromatic Radiance Fields**|Yean Cheng et.al.|[2402.12184v1](http://arxiv.org/abs/2402.12184v1)|null|
+|**2024-02-17**|**Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**|Thang-Anh-Quan Nguyen et.al.|[2402.11141v1](http://arxiv.org/abs/2402.11141v1)|null|
 |**2024-02-15**|**Evaluating NeRFs for 3D Plant Geometry Reconstruction in Field Conditions**|Muhammad Arbab Arshad et.al.|[2402.10344v1](http://arxiv.org/abs/2402.10344v1)|null|
 |**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325v1](http://arxiv.org/abs/2402.09325v1)|**[link](https://github.com/biter0088/pc-nerf)**|
 |**2024-02-13**|**Preconditioners for the Stochastic Training of Implicit Neural Representations**|Shin-Fang Chng et.al.|[2402.08784v1](http://arxiv.org/abs/2402.08784v1)|null|
