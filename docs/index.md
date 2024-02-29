@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.28
+## Updated on 2024.02.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -196,6 +196,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Evaluating Very Long-Term Conversational Memory of LLM Agents**|Adyasha Maharana et.al.|[2402.17753v1](http://arxiv.org/abs/2402.17753v1)|null|
+|**2024-02-27**|**MCF-VC: Mitigate Catastrophic Forgetting in Class-Incremental Learning for Multimodal Video Captioning**|Huiyu Xiong et.al.|[2402.17680v1](http://arxiv.org/abs/2402.17680v1)|null|
+|**2024-02-27**|**Multimodal Learned Sparse Retrieval with Probabilistic Expansion Control**|Thong Nguyen et.al.|[2402.17535v1](http://arxiv.org/abs/2402.17535v1)|**[link](https://github.com/thongnt99/lsr-multimodal)**|
+|**2024-02-27**|**CLAPSep: Leveraging Contrastive Pre-trained Models for Multi-Modal Query-Conditioned Target Sound Extraction**|Hao Ma et.al.|[2402.17455v1](http://arxiv.org/abs/2402.17455v1)|null|
+|**2024-02-27**|**Segment anything model for head and neck tumor segmentation with CT, PET and MRI multi-modality images**|Jintao Ren et.al.|[2402.17454v1](http://arxiv.org/abs/2402.17454v1)|null|
+|**2024-02-27**|**Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder**|Jiaqi Wang et.al.|[2402.17433v1](http://arxiv.org/abs/2402.17433v1)|null|
+|**2024-02-27**|**CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification**|Haoran Lai et.al.|[2402.17417v1](http://arxiv.org/abs/2402.17417v1)|null|
+|**2024-02-27**|**RACP: Risk-Aware Contingency Planning with Multi-Modal Predictions**|Khaled A. Mustafa et.al.|[2402.17387v1](http://arxiv.org/abs/2402.17387v1)|null|
+|**2024-02-27**|**On the Impact and Utility of Single-Exomoon Modeling for Multi-Moon Systems**|Alex Teachey et.al.|[2402.17324v1](http://arxiv.org/abs/2402.17324v1)|null|
+|**2024-02-27**|**ArcSin: Adaptive ranged cosine Similarity injected noise for Language-Driven Visual Tasks**|Yang Liu et.al.|[2402.17298v1](http://arxiv.org/abs/2402.17298v1)|null|
+|**2024-02-27**|**An Interpretable Evaluation of Entropy-based Novelty of Generative Models**|Jingwei Zhang et.al.|[2402.17287v1](http://arxiv.org/abs/2402.17287v1)|null|
+|**2024-02-27**|**Explicit Interaction for Fusion-Based Place Recognition**|Jingyi Xu et.al.|[2402.17264v1](http://arxiv.org/abs/2402.17264v1)|**[link](https://github.com/bit-xjy/einet)**|
+|**2024-02-27**|**EDTC: enhance depth of text comprehension in automated audio captioning**|Liwen Tan et.al.|[2402.17259v1](http://arxiv.org/abs/2402.17259v1)|null|
+|**2024-02-27**|**PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning**|Wei Wei et.al.|[2402.17188v1](http://arxiv.org/abs/2402.17188v1)|**[link](https://github.com/hkuds/promptmm)**|
+|**2024-02-27**|**PE-MVCNet: Multi-view and Cross-modal Fusion Network for Pulmonary Embolism Prediction**|Zhaoxin Guo et.al.|[2402.17187v1](http://arxiv.org/abs/2402.17187v1)|null|
 |**2024-02-26**|**Trajectory Prediction for Autonomous Driving Using a Transformer Network**|Zhenning Li et.al.|[2402.16501v1](http://arxiv.org/abs/2402.16501v1)|null|
 |**2024-02-26**|**Improving LLM-based Machine Translation with Systematic Self-Correction**|Zhaopeng Feng et.al.|[2402.16379v1](http://arxiv.org/abs/2402.16379v1)|**[link](https://github.com/fzp0424/self_correct_mt)**|
 |**2024-02-26**|**Impression-CLIP: Contrastive Shape-Impression Embedding for Fonts**|Yugo Kubota et.al.|[2402.16350v1](http://arxiv.org/abs/2402.16350v1)|null|
@@ -2784,7 +2799,7 @@ layout: default
 |**2023-12-14**|**Interpretable deep learning models for the inference and classification of LHC data**|Vishal S. Ngairangbam et.al.|[2312.12330v1](http://arxiv.org/abs/2312.12330v1)|null|
 |**2023-12-15**|**Point Transformer V3: Simpler, Faster, Stronger**|Xiaoyang Wu et.al.|[2312.10035v1](http://arxiv.org/abs/2312.10035v1)|**[link](https://github.com/pointcept/pointtransformerv3)**|
 |**2023-12-12**|**X4D-SceneFormer: Enhanced Scene Understanding on 4D Point Cloud Videos through Cross-modal Knowledge Transfer**|Linglin Jing et.al.|[2312.07378v1](http://arxiv.org/abs/2312.07378v1)|null|
-|**2024-01-08**|**Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images**|Bao Li et.al.|[2312.06454v2](http://arxiv.org/abs/2312.06454v2)|**[link](https://github.com/boyden/pointtransformerfl)**|
+|**2024-02-27**|**Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images**|Bao Li et.al.|[2312.06454v3](http://arxiv.org/abs/2312.06454v3)|**[link](https://github.com/boyden/pointtransformerfl)**|
 |**2023-12-04**|**SARA-RT: Scaling up Robotics Transformers with Self-Adaptive Robust Attention**|Isabel Leal et.al.|[2312.01990v1](http://arxiv.org/abs/2312.01990v1)|null|
 |**2023-11-07**|**Learning Super-Resolution Ultrasound Localization Microscopy from Radio-Frequency Data**|Christopher Hahne et.al.|[2311.04081v1](http://arxiv.org/abs/2311.04081v1)|null|
 |**2023-10-22**|**Exact FLRW cosmological solutions via invariants of the symmetry groups**|E. Ahmadi Azar et.al.|[2310.19772v1](http://arxiv.org/abs/2310.19772v1)|null|
@@ -2868,6 +2883,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**|Xiaoyu Zhang et.al.|[2402.17768v1](http://arxiv.org/abs/2402.17768v1)|null|
+|**2024-02-27**|**VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction**|Jiaqi Lin et.al.|[2402.17427v1](http://arxiv.org/abs/2402.17427v1)|null|
+|**2024-02-27**|**Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**|Zicheng Zhang et.al.|[2402.17364v1](http://arxiv.org/abs/2402.17364v1)|**[link](https://github.com/zhangzc21/dyntet)**|
+|**2024-02-27**|**DivAvatar: Diverse 3D Avatar Generation with a Single Prompt**|Weijing Tao et.al.|[2402.17292v1](http://arxiv.org/abs/2402.17292v1)|null|
+|**2024-02-27**|**CharNeRF: 3D Character Generation from Concept Art**|Eddy Chu et.al.|[2402.17115v1](http://arxiv.org/abs/2402.17115v1)|null|
+|**2024-02-26**|**Disentangled 3D Scene Generation with Layout Learning**|Dave Epstein et.al.|[2402.16936v1](http://arxiv.org/abs/2402.16936v1)|null|
 |**2024-02-26**|**CMC: Few-shot Novel View Synthesis via Cross-view Multiplane Consistency**|Hanxin Zhu et.al.|[2402.16407v1](http://arxiv.org/abs/2402.16407v1)|null|
 |**2024-02-26**|**SPC-NeRF: Spatial Predictive Compression for Voxel Based Radiance Field**|Zetian Song et.al.|[2402.16366v1](http://arxiv.org/abs/2402.16366v1)|null|
 |**2024-02-26**|**DreamUp3D: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer**|Yizhe Wu et.al.|[2402.16308v1](http://arxiv.org/abs/2402.16308v1)|null|
