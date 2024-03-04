@@ -228,20 +228,20 @@ layout: default
 |**2024-02-28**|**Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder**|Jiaqi Wang et.al.|[2402.17433v2](http://arxiv.org/abs/2402.17433v2)|null|
 |**2024-02-27**|**CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification**|Haoran Lai et.al.|[2402.17417v1](http://arxiv.org/abs/2402.17417v1)|null|
 |**2024-02-27**|**RACP: Risk-Aware Contingency Planning with Multi-Modal Predictions**|Khaled A. Mustafa et.al.|[2402.17387v1](http://arxiv.org/abs/2402.17387v1)|null|
-|**2024-02-27**|**On the Impact and Utility of Single-Exomoon Modeling for Multi-Moon Systems**|Alex Teachey et.al.|[2402.17324v1](http://arxiv.org/abs/2402.17324v1)|null|
+|**2024-02-27**|**On the Impact and Utility of Single-Exomoon Modeling for Multi-Moon Systems**|Alex Teachey et.al.|[2402.17324v1](http://arxiv.org/abs/2402.17324v1)|**[link](https://github.com/alexteachey/multimoon_modeling_final_repo)**|
 |**2024-02-27**|**ArcSin: Adaptive ranged cosine Similarity injected noise for Language-Driven Visual Tasks**|Yang Liu et.al.|[2402.17298v1](http://arxiv.org/abs/2402.17298v1)|null|
 |**2024-02-27**|**An Interpretable Evaluation of Entropy-based Novelty of Generative Models**|Jingwei Zhang et.al.|[2402.17287v1](http://arxiv.org/abs/2402.17287v1)|null|
 |**2024-02-27**|**Explicit Interaction for Fusion-Based Place Recognition**|Jingyi Xu et.al.|[2402.17264v1](http://arxiv.org/abs/2402.17264v1)|**[link](https://github.com/bit-xjy/einet)**|
 |**2024-02-27**|**EDTC: enhance depth of text comprehension in automated audio captioning**|Liwen Tan et.al.|[2402.17259v1](http://arxiv.org/abs/2402.17259v1)|null|
 |**2024-02-27**|**PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning**|Wei Wei et.al.|[2402.17188v1](http://arxiv.org/abs/2402.17188v1)|**[link](https://github.com/hkuds/promptmm)**|
-|**2024-02-27**|**PE-MVCNet: Multi-view and Cross-modal Fusion Network for Pulmonary Embolism Prediction**|Zhaoxin Guo et.al.|[2402.17187v1](http://arxiv.org/abs/2402.17187v1)|null|
+|**2024-02-27**|**PE-MVCNet: Multi-view and Cross-modal Fusion Network for Pulmonary Embolism Prediction**|Zhaoxin Guo et.al.|[2402.17187v1](http://arxiv.org/abs/2402.17187v1)|**[link](https://github.com/leavingstarw/pe-mvcnet)**|
 |**2024-02-26**|**Trajectory Prediction for Autonomous Driving Using a Transformer Network**|Zhenning Li et.al.|[2402.16501v1](http://arxiv.org/abs/2402.16501v1)|null|
 |**2024-02-26**|**Improving LLM-based Machine Translation with Systematic Self-Correction**|Zhaopeng Feng et.al.|[2402.16379v1](http://arxiv.org/abs/2402.16379v1)|**[link](https://github.com/fzp0424/self_correct_mt)**|
 |**2024-02-26**|**Impression-CLIP: Contrastive Shape-Impression Embedding for Fonts**|Yugo Kubota et.al.|[2402.16350v1](http://arxiv.org/abs/2402.16350v1)|null|
 |**2024-02-26**|**Chain-of-Discussion: A Multi-Model Framework for Complex Evidence-Based Question Answering**|Mingxu Tao et.al.|[2402.16313v1](http://arxiv.org/abs/2402.16313v1)|null|
-|**2024-02-26**|**Infrared and visible Image Fusion with Language-driven Loss in CLIP Embedding Space**|Yuhao Wang et.al.|[2402.16267v1](http://arxiv.org/abs/2402.16267v1)|null|
+|**2024-02-26**|**Infrared and visible Image Fusion with Language-driven Loss in CLIP Embedding Space**|Yuhao Wang et.al.|[2402.16267v1](http://arxiv.org/abs/2402.16267v1)|**[link](https://github.com/wyhlaowang/LDFusion)**|
 |**2024-02-26**|**GARNN: An Interpretable Graph Attentive Recurrent Neural Network for Predicting Blood Glucose Levels via Multivariate Time Series**|Chengzhe Piao et.al.|[2402.16230v1](http://arxiv.org/abs/2402.16230v1)|null|
-|**2024-02-25**|**ChatMusician: Understanding and Generating Music Intrinsically with LLM**|Ruibin Yuan et.al.|[2402.16153v1](http://arxiv.org/abs/2402.16153v1)|null|
+|**2024-02-25**|**ChatMusician: Understanding and Generating Music Intrinsically with LLM**|Ruibin Yuan et.al.|[2402.16153v1](http://arxiv.org/abs/2402.16153v1)|**[link](https://github.com/hf-lin/ChatMusician)**|
 |**2024-02-25**|**TMT: Tri-Modal Translation between Speech, Image, and Text by Processing Different Modalities as Different Languages**|Minsu Kim et.al.|[2402.16021v1](http://arxiv.org/abs/2402.16021v1)|**[link](https://github.com/ms-dot-k/tmt)**|
 |**2024-02-25**|**Exploring the Power of Pure Attention Mechanisms in Blind Room Parameter Estimation**|Chunxi Wang et.al.|[2402.16003v1](http://arxiv.org/abs/2402.16003v1)|null|
 |**2024-02-24**|**Bridging the Gap between 2D and 3D Visual Question Answering: A Fusion Approach for 3D VQA**|Wentao Mo et.al.|[2402.15933v1](http://arxiv.org/abs/2402.15933v1)|**[link](https://github.com/matthewdm0816/bridgeqa)**|
@@ -456,7 +456,7 @@ layout: default
 |**2024-01-25**|**GauU-Scene: A Scene Reconstruction Benchmark on Large Scale 3D Reconstruction Dataset Using Gaussian Splatting**|Butian Xiong et.al.|[2401.14032v1](http://arxiv.org/abs/2401.14032v1)|null|
 |**2024-01-26**|**CMMU: A Benchmark for Chinese Multi-modal Multi-type Question Understanding and Reasoning**|Zheqi He et.al.|[2401.14011v2](http://arxiv.org/abs/2401.14011v2)|null|
 |**2024-01-25**|**MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration**|Tao Guo et.al.|[2401.13934v1](http://arxiv.org/abs/2401.13934v1)|**[link](https://github.com/guo-stone/mambamorph)**|
-|**2024-01-25**|**Towards 3D Molecule-Text Interpretation in Language Models**|Sihang Li et.al.|[2401.13923v1](http://arxiv.org/abs/2401.13923v1)|null|
+|**2024-01-25**|**Towards 3D Molecule-Text Interpretation in Language Models**|Sihang Li et.al.|[2401.13923v1](http://arxiv.org/abs/2401.13923v1)|**[link](https://github.com/lsh0520/3d-molm)**|
 |**2024-01-25**|**Cross-Modal Prototype based Multimodal Federated Learning under Severely Missing Modality**|Huy Q. Le et.al.|[2401.13898v1](http://arxiv.org/abs/2401.13898v1)|null|
 |**2024-01-24**|**Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild**|Fanghua Yu et.al.|[2401.13627v1](http://arxiv.org/abs/2401.13627v1)|null|
 |**2024-01-24**|**Enhancing Image Retrieval : A Comprehensive Study on Photo Search using the CLIP Mode**|Naresh Kumar Lahajal et.al.|[2401.13613v1](http://arxiv.org/abs/2401.13613v1)|null|
@@ -812,7 +812,7 @@ layout: default
 |**2023-11-29**|**DAP: Domain-aware Prompt Learning for Vision-and-Language Navigation**|Ting Liu et.al.|[2311.17812v1](http://arxiv.org/abs/2311.17812v1)|null|
 |**2023-11-29**|**ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model**|Fukun Yin et.al.|[2311.17618v1](http://arxiv.org/abs/2311.17618v1)|**[link](https://github.com/openshapelab/shapegpt)**|
 |**2023-11-29**|**Query-Relevant Images Jailbreak Large Multi-Modal Models**|Xin Liu et.al.|[2311.17600v1](http://arxiv.org/abs/2311.17600v1)|**[link](https://github.com/isxinliu/mm-safetybench)**|
-|**2023-11-29**|**Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning**|Yiwen Ye et.al.|[2311.17597v1](http://arxiv.org/abs/2311.17597v1)|null|
+|**2023-11-29**|**Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning**|Yiwen Ye et.al.|[2311.17597v1](http://arxiv.org/abs/2311.17597v1)|**[link](https://github.com/yeerwen/medcoss)**|
 |**2023-11-29**|**SigFormer: Sparse Signal-Guided Transformer for Multi-Modal Human Action Segmentation**|Qi Liu et.al.|[2311.17428v1](http://arxiv.org/abs/2311.17428v1)|**[link](https://github.com/liuqi-creat/sigformer)**|
 |**2023-11-29**|**Deepfakes, Misinformation, and Disinformation in the Era of Frontier AI, Generative AI, and Large AI Models**|Mohamed R. Shoaib et.al.|[2311.17394v1](http://arxiv.org/abs/2311.17394v1)|null|
 |**2023-11-29**|**eMotions: A Large-Scale Dataset for Emotion Recognition in Short Videos**|Xuecheng Wu et.al.|[2311.17335v1](http://arxiv.org/abs/2311.17335v1)|**[link](https://github.com/xuecwu/emotions)**|
@@ -1247,7 +1247,7 @@ layout: default
 |**2023-09-27**|**The Devil is in the Details: A Deep Dive into the Rabbit Hole of Data Filtering**|Haichao Yu et.al.|[2309.15954v1](http://arxiv.org/abs/2309.15954v1)|null|
 |**2023-09-27**|**Zero-Shot and Few-Shot Video Question Answering with Multi-Modal Prompts**|Deniz Engin et.al.|[2309.15915v1](http://arxiv.org/abs/2309.15915v1)|**[link](https://github.com/engindeniz/vitis)**|
 |**2023-09-27**|**Cross-Modal Multi-Tasking for Speech-to-Text Translation via Hard Parameter Sharing**|Brian Yan et.al.|[2309.15826v1](http://arxiv.org/abs/2309.15826v1)|null|
-|**2023-09-27**|**InfraParis: A multi-modal and multi-task autonomous driving dataset**|Gianni Franchi et.al.|[2309.15751v1](http://arxiv.org/abs/2309.15751v1)|null|
+|**2023-09-27**|**InfraParis: A multi-modal and multi-task autonomous driving dataset**|Gianni Franchi et.al.|[2309.15751v1](http://arxiv.org/abs/2309.15751v1)|**[link](https://github.com/ENSTA-U2IS-AI/Multimodal_Deep_segmentation)**|
 |**2023-09-27**|**Experience and Evidence are the eyes of an excellent summarizer! Towards Knowledge Infused Multi-modal Clinical Conversation Summarization**|Abhisek Tiwari et.al.|[2309.15739v1](http://arxiv.org/abs/2309.15739v1)|**[link](https://github.com/nlp-rl/mm-cliconsummation)**|
 |**2023-09-27**|**End-to-End Streaming Video Temporal Action Segmentation with Reinforce Learning**|Wujun Wen et.al.|[2309.15683v1](http://arxiv.org/abs/2309.15683v1)|**[link](https://github.com/Thinksky5124/SVTAS)**|
 |**2023-09-27**|**OceanBench: The Sea Surface Height Edition**|J. Emmanuel Johnson et.al.|[2309.15599v1](http://arxiv.org/abs/2309.15599v1)|**[link](https://github.com/jejjohnson/oceanbench)**|
@@ -1690,7 +1690,7 @@ layout: default
 |**2023-07-24**|**CLIP-KD: An Empirical Study of Distilling CLIP Models**|Chuanguang Yang et.al.|[2307.12732v1](http://arxiv.org/abs/2307.12732v1)|null|
 |**2023-07-24**|**Enhancing Human-like Multi-Modal Reasoning: A New Challenging Dataset and Comprehensive Framework**|Jingxuan Wei et.al.|[2307.12626v1](http://arxiv.org/abs/2307.12626v1)|**[link](https://github.com/weijingxuan/COCO-MMR)**|
 |**2023-07-24**|**PRIOR: Prototype Representation Joint Learning from Medical Images and Reports**|Pujin Cheng et.al.|[2307.12577v1](http://arxiv.org/abs/2307.12577v1)|**[link](https://github.com/qtacierp/prior)**|
-|**2023-07-24**|**Towards Video Anomaly Retrieval from Video Anomaly Detection: New Benchmarks and Model**|Peng Wu et.al.|[2307.12545v1](http://arxiv.org/abs/2307.12545v1)|null|
+|**2023-07-24**|**Towards Video Anomaly Retrieval from Video Anomaly Detection: New Benchmarks and Model**|Peng Wu et.al.|[2307.12545v1](http://arxiv.org/abs/2307.12545v1)|**[link](https://github.com/roc-ng/var)**|
 |**2023-07-23**|**HealthPrism: A Visual Analytics System for Exploring Children's Physical and Mental Health Profiles with Multimodal Data**|Zhihan Jiang et.al.|[2307.12242v1](http://arxiv.org/abs/2307.12242v1)|null|
 |**2023-07-23**|**Multi-Modal Machine Learning for Assessing Gaming Skills in Online Streaming: A Case Study with CS:GO**|Longxiang Zhang et.al.|[2307.12236v1](http://arxiv.org/abs/2307.12236v1)|null|
 |**2023-07-22**|**Prototype-Driven and Multi-Expert Integrated Multi-Modal MR Brain Tumor Image Segmentation**|Yafei Zhang et.al.|[2307.12180v1](http://arxiv.org/abs/2307.12180v1)|**[link](https://github.com/linzy0227/pdminet)**|
@@ -1907,7 +1907,7 @@ layout: default
 |**2023-06-14**|**AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn**|Difei Gao et.al.|[2306.08640v1](http://arxiv.org/abs/2306.08640v1)|null|
 |**2023-06-14**|**Challenges of Indoor SLAM: A multi-modal multi-floor dataset for SLAM evaluation**|Pushyami Kaveti et.al.|[2306.08522v1](http://arxiv.org/abs/2306.08522v1)|**[link](https://github.com/neufieldrobotics/nufr-m3f)**|
 |**2023-06-14**|**RISCLIP: Referring Image Segmentation Framework using CLIP**|Seoyeon Kim et.al.|[2306.08498v1](http://arxiv.org/abs/2306.08498v1)|**[link](https://github.com/Yeon07/RISCLIP)**|
-|**2023-06-14**|**Diffusion in Diffusion: Cyclic One-Way Diffusion for Text-Vision-Conditioned Generation**|Yongqi Yang et.al.|[2306.08247v1](http://arxiv.org/abs/2306.08247v1)|null|
+|**2023-06-14**|**Diffusion in Diffusion: Cyclic One-Way Diffusion for Text-Vision-Conditioned Generation**|Yongqi Yang et.al.|[2306.08247v1](http://arxiv.org/abs/2306.08247v1)|**[link](https://github.com/oho43/COW)**|
 |**2023-06-13**|**Contrastive Learning-Based Audio to Lyrics Alignment for Multiple Languages**|Simon Durand et.al.|[2306.07744v1](http://arxiv.org/abs/2306.07744v1)|**[link](https://github.com/f90/jamendolyrics)**|
 |**2023-06-13**|**Enhanced Multimodal Representation Learning with Cross-modal KD**|Mengxi Chen et.al.|[2306.07646v1](http://arxiv.org/abs/2306.07646v1)|null|
 |**2023-06-13**|**Deep learning radiomics for assessment of gastroesophageal varices in people with compensated advanced chronic liver disease**|Lan Wang et.al.|[2306.07505v1](http://arxiv.org/abs/2306.07505v1)|null|
@@ -3212,7 +3212,7 @@ layout: default
 |**2023-10-04**|**Shielding the Unseen: Privacy Protection through Poisoning NeRF with Spatial Deformation**|Yihan Wu et.al.|[2310.03125v1](http://arxiv.org/abs/2310.03125v1)|null|
 |**2023-10-04**|**T $^3$ Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977v1](http://arxiv.org/abs/2310.02977v1)|**[link](https://github.com/THU-LYJ-Lab/T3Bench)**|
 |**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712v1](http://arxiv.org/abs/2310.02712v1)|null|
-|**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687v2](http://arxiv.org/abs/2310.02687v2)|null|
+|**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687v2](http://arxiv.org/abs/2310.02687v2)|**[link](https://github.com/WU-CVGL/USB-NeRF)**|
 |**2023-10-03**|**EvDNeRF: Reconstructing Event Data with Dynamic Neural Radiance Fields**|Anish Bhattacharya et.al.|[2310.02437v1](http://arxiv.org/abs/2310.02437v1)|**[link](https://github.com/anish-bhattacharya/evdnerf)**|
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881v1](http://arxiv.org/abs/2310.01881v1)|null|
 |**2023-10-03**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821v1](http://arxiv.org/abs/2310.01821v1)|null|
