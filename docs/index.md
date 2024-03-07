@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.06
+## Updated on 2024.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -196,6 +196,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**|Meng Zheng et.al.|[2403.03217v1](http://arxiv.org/abs/2403.03217v1)|null|
+|**2024-03-05**|**MAGID: An Automated Pipeline for Generating Synthetic Multi-modal Datasets**|Hossein Aboutalebi et.al.|[2403.03194v1](http://arxiv.org/abs/2403.03194v1)|null|
+|**2024-03-05**|**MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer**|Jianjian Cao et.al.|[2403.02991v1](http://arxiv.org/abs/2403.02991v1)|**[link](https://github.com/double125/madtp)**|
+|**2024-03-05**|**Data Augmentation using LLMs: Data Perspectives, Learning Paradigms and Challenges**|Bosheng Ding et.al.|[2403.02990v1](http://arxiv.org/abs/2403.02990v1)|null|
+|**2024-03-05**|**Multi-modal Instruction Tuned LLMs with Fine-grained Visual Perception**|Junwen He et.al.|[2403.02969v1](http://arxiv.org/abs/2403.02969v1)|null|
+|**2024-03-05**|**MMoFusion: Multi-modal Co-Speech Motion Generation with Diffusion Model**|Sen Wang et.al.|[2403.02905v1](http://arxiv.org/abs/2403.02905v1)|null|
+|**2024-03-05**|**Few-shot Learner Parameterization by Diffusion Time-steps**|Zhongqi Yue et.al.|[2403.02649v1](http://arxiv.org/abs/2403.02649v1)|null|
+|**2024-03-04**|**COMMIT: Certifying Robustness of Multi-Sensor Fusion Systems against Semantic Attacks**|Zijian Huang et.al.|[2403.02329v1](http://arxiv.org/abs/2403.02329v1)|null|
+|**2024-03-04**|**TPLLM: A Traffic Prediction Framework Based on Pretrained Large Language Models**|Yilong Ren et.al.|[2403.02221v1](http://arxiv.org/abs/2403.02221v1)|null|
+|**2024-03-04**|**Modality-Aware and Shift Mixer for Multi-modal Brain Tumor Segmentation**|Zhongzhen Huang et.al.|[2403.02074v1](http://arxiv.org/abs/2403.02074v1)|null|
+|**2024-03-04**|**Unveiling Hidden Links Between Unseen Security Entities**|Daniel Alfasi et.al.|[2403.02014v1](http://arxiv.org/abs/2403.02014v1)|null|
+|**2024-03-04**|**FakeNewsGPT4: Advancing Multimodal Fake News Detection through Knowledge-Augmented LVLMs**|Xuannan Liu et.al.|[2403.01988v1](http://arxiv.org/abs/2403.01988v1)|null|
+|**2024-03-05**|**Aerial Tensile Perching and Disentangling Mechanism for Long-Term Environmental Monitoring**|Tian Lan et.al.|[2403.01890v2](http://arxiv.org/abs/2403.01890v2)|null|
+|**2024-03-05**|**TNF: Tri-branch Neural Fusion for Multimodal Medical Data Classification**|Tong Zheng et.al.|[2403.01802v2](http://arxiv.org/abs/2403.01802v2)|null|
+|**2024-03-04**|**Robust Wake Word Spotting With Frame-Level Cross-Modal Attention Based Audio-Visual Conformer**|Haoxu Wang et.al.|[2403.01700v1](http://arxiv.org/abs/2403.01700v1)|null|
 |**2024-03-02**|**DNA Family: Boosting Weight-Sharing NAS with Block-Wise Supervisions**|Guangrun Wang et.al.|[2403.01326v1](http://arxiv.org/abs/2403.01326v1)|**[link](https://github.com/changlin31/DNA)**|
 |**2024-03-02**|**TUMTraf V2X Cooperative Perception Dataset**|Walter Zimmer et.al.|[2403.01316v1](http://arxiv.org/abs/2403.01316v1)|null|
 |**2024-03-02**|**REWIND Dataset: Privacy-preserving Speaking Status Segmentation from Multimodal Body Movement Signals in the Wild**|Jose Vargas Quiros et.al.|[2403.01229v1](http://arxiv.org/abs/2403.01229v1)|null|
@@ -2668,6 +2683,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751v1](http://arxiv.org/abs/2403.02751v1)|null|
 |**2023-11-27**|**Text2Loc: 3D Point Cloud Localization from Natural Language**|Yan Xia et.al.|[2311.15977v1](http://arxiv.org/abs/2311.15977v1)|null|
 |**2023-01-13**|**Text to Point Cloud Localization with Relation-Enhanced Transformer**|Guangzhi Wang et.al.|[2301.05372v1](http://arxiv.org/abs/2301.05372v1)|null|
 |**2022-09-30**|**Point Cloud Quality Assessment using 3D Saliency Maps**|Zhengyu Wang et.al.|[2209.15475v1](http://arxiv.org/abs/2209.15475v1)|null|
@@ -2683,6 +2699,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-04**|**Map-aided annotation for pole base detection**|Benjamin Missaoui et.al.|[2403.01868v1](http://arxiv.org/abs/2403.01868v1)|null|
 |**2024-02-26**|**MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction**|Heng Zhou et.al.|[2402.03762v4](http://arxiv.org/abs/2402.03762v4)|null|
 |**2024-02-01**|**BrainSLAM: SLAM on Neural Population Activity Data**|Kipp Freud et.al.|[2402.00588v1](http://arxiv.org/abs/2402.00588v1)|null|
 |**2024-01-03**|**DDN-SLAM: Real-time Dense Dynamic Neural Implicit SLAM with Joint Semantic Encoding**|Mingrui Li et.al.|[2401.01545v1](http://arxiv.org/abs/2401.01545v1)|null|
@@ -2757,6 +2774,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**LiSTA: Geometric Object-Based Change Detection in Cluttered Environments**|Joseph Rowell et.al.|[2403.02175v2](http://arxiv.org/abs/2403.02175v2)|null|
 |**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101v1](http://arxiv.org/abs/2401.09101v1)|**[link](https://github.com/prbonn/pin_slam)**|
 |**2023-12-05**|**DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors**|Xiaze Zhang et.al.|[2312.02684v1](http://arxiv.org/abs/2312.02684v1)|null|
 |**2023-11-04**|**ECMD: An Event-Centric Multisensory Driving Dataset for SLAM**|Peiyu Chen et.al.|[2311.02327v1](http://arxiv.org/abs/2311.02327v1)|**[link](https://github.com/arclab-hku/event_based_vo-vio-slam)**|
@@ -2923,6 +2941,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751v1](http://arxiv.org/abs/2403.02751v1)|null|
+|**2024-03-04**|**DaReNeRF: Direction-aware Representation for Dynamic Scenes**|Ange Lou et.al.|[2403.02265v1](http://arxiv.org/abs/2403.02265v1)|null|
+|**2024-03-04**|**Depth-Guided Robust and Fast Point Cloud Fusion NeRF for Sparse Input Views**|Shuai Guo et.al.|[2403.02063v1](http://arxiv.org/abs/2403.02063v1)|null|
 |**2024-03-02**|**NeRF-VPT: Learning Novel View Representations with Neural Radiance Fields via View Prompt Tuning**|Linsheng Chen et.al.|[2403.01325v1](http://arxiv.org/abs/2403.01325v1)|**[link](https://github.com/freedomcls/nerf-vpt)**|
 |**2024-03-02**|**Neural radiance fields-based holography [Invited]**|Minsung Kang et.al.|[2403.01137v1](http://arxiv.org/abs/2403.01137v1)|null|
 |**2024-03-02**|**Neural Field Classifiers via Target Encoding and Classification Loss**|Xindi Yang et.al.|[2403.01058v1](http://arxiv.org/abs/2403.01058v1)|null|
