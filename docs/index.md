@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.13
+## Updated on 2024.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -196,6 +196,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Beyond Text: Frozen Large Language Models in Visual Signal Comprehension**|Lei Zhu et.al.|[2403.07874v1](http://arxiv.org/abs/2403.07874v1)|**[link](https://github.com/zh460045050/v2l-tokenizer)**|
+|**2024-03-12**|**MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-wise Pruning Error Metric**|Haokun Lin et.al.|[2403.07839v1](http://arxiv.org/abs/2403.07839v1)|null|
+|**2024-03-12**|**Multi-modal Auto-regressive Modeling via Visual Words**|Tianshuo Peng et.al.|[2403.07720v1](http://arxiv.org/abs/2403.07720v1)|null|
+|**2024-03-12**|**Unleashing Network Potentials for Semantic Scene Completion**|Fengyun Wang et.al.|[2403.07560v1](http://arxiv.org/abs/2403.07560v1)|**[link](https://github.com/fereenwong/ammnet)**|
+|**2024-03-12**|**A tutorial on multi-view autoencoders using the multi-view-AE library**|Ana Lawry Aguila et.al.|[2403.07456v1](http://arxiv.org/abs/2403.07456v1)|null|
+|**2024-03-12**|**DALSA: Domain Adaptation for Supervised Learning From Sparsely Annotated MR Images**|Michael Götz et.al.|[2403.07434v1](http://arxiv.org/abs/2403.07434v1)|null|
+|**2024-03-12**|**Bring Event into RGB and LiDAR: Hierarchical Visual-Motion Fusion for Scene Flow**|Hanyu Zhou et.al.|[2403.07432v1](http://arxiv.org/abs/2403.07432v1)|null|
+|**2024-03-12**|**Eliminating Cross-modal Conflicts in BEV Space for LiDAR-Camera 3D Object Detection**|Jiahui Fu et.al.|[2403.07372v1](http://arxiv.org/abs/2403.07372v1)|null|
+|**2024-03-12**|**Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery**|Haiyang Zheng et.al.|[2403.07369v1](http://arxiv.org/abs/2403.07369v1)|null|
+|**2024-03-12**|**Taming Pre-trained LLMs for Generalised Time Series Forecasting via Cross-modal Knowledge Distillation**|Peiyuan Liu et.al.|[2403.07300v1](http://arxiv.org/abs/2403.07300v1)|**[link](https://github.com/hank0626/llata)**|
+|**2024-03-12**|**SparseLIF: High-Performance Sparse LiDAR-Camera Fusion for 3D Object Detection**|Hongcheng Zhang et.al.|[2403.07284v1](http://arxiv.org/abs/2403.07284v1)|null|
+|**2024-03-12**|**Calibrating Multi-modal Representations: A Pursuit of Group Robustness without Annotations**|Chenyu You et.al.|[2403.07241v1](http://arxiv.org/abs/2403.07241v1)|null|
+|**2024-03-12**|**Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers**|Subhadeep Koley et.al.|[2403.07214v1](http://arxiv.org/abs/2403.07214v1)|null|
+|**2024-03-11**|**UPS: Towards Foundation Models for PDE Solving via Cross-Modal Adaptation**|Junhong Shen et.al.|[2403.07187v1](http://arxiv.org/abs/2403.07187v1)|null|
+|**2024-03-11**|**3M-Diffusion: Latent Multi-Modal Diffusion for Text-Guided Generation of Molecular Graphs**|Huaisheng Zhu et.al.|[2403.07179v1](http://arxiv.org/abs/2403.07179v1)|null|
 |**2024-03-11**|**VideoMamba: State Space Model for Efficient Video Understanding**|Kunchang Li et.al.|[2403.06977v1](http://arxiv.org/abs/2403.06977v1)|**[link](https://github.com/opengvlab/videomamba)**|
 |**2024-03-11**|**Acquiring Diverse Skills using Curriculum Reinforcement Learning with Mixture of Experts**|Onur Celik et.al.|[2403.06966v1](http://arxiv.org/abs/2403.06966v1)|null|
 |**2024-03-11**|**The Power of Noise: Toward a Unified Multi-modal Knowledge Graph Representation Framework**|Zhuo Chen et.al.|[2403.06832v1](http://arxiv.org/abs/2403.06832v1)|null|
@@ -3001,11 +3016,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**SMURF: Continuous Dynamics for Motion-Deblurring Radiance Fields**|Jungho Lee et.al.|[2403.07547v1](http://arxiv.org/abs/2403.07547v1)|**[link](https://github.com/jho-yonsei/smurf)**|
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877v1](http://arxiv.org/abs/2403.06877v1)|null|
 |**2024-03-11**|**Vosh: Voxel-Mesh Hybrid Representation for Real-Time View Synthesis**|Chenhao Zhang et.al.|[2403.06505v1](http://arxiv.org/abs/2403.06505v1)|null|
-|**2024-03-11**|**FSViewFusion: Few-Shots View Generation of Novel Objects**|Rukhshanda Hussain et.al.|[2403.06394v1](http://arxiv.org/abs/2403.06394v1)|null|
+|**2024-03-13**|**FSViewFusion: Few-Shots View Generation of Novel Objects**|Rukhshanda Hussain et.al.|[2403.06394v2](http://arxiv.org/abs/2403.06394v2)|null|
 |**2024-03-10**|**Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis?**|Hanxin Zhu et.al.|[2403.06092v1](http://arxiv.org/abs/2403.06092v1)|null|
-|**2024-03-09**|**Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving**|Junyi Cao et.al.|[2403.05907v1](http://arxiv.org/abs/2403.05907v1)|null|
+|**2024-03-09**|**Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving**|Junyi Cao et.al.|[2403.05907v1](http://arxiv.org/abs/2403.05907v1)|**[link](https://github.com/vision-sjtu/lightning-nerf)**|
 |**2024-03-09**|**Large Generative Model Assisted 3D Semantic Communication**|Feibo Jiang et.al.|[2403.05783v1](http://arxiv.org/abs/2403.05783v1)|null|
 |**2024-03-08**|**GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting**|Francesco Palandra et.al.|[2403.05154v1](http://arxiv.org/abs/2403.05154v1)|null|
 |**2024-03-08**|**Finding Waldo: Towards Efficient Exploration of NeRF Scene Spaces**|Evangelos Skartados et.al.|[2403.04508v2](http://arxiv.org/abs/2403.04508v2)|null|
