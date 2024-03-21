@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.20
+## Updated on 2024.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**IKSPARK: An Inverse Kinematics Solver using Semidefinite Relaxation and Rank Minimization**|Liangting Wu et.al.|[2403.12235v1](http://arxiv.org/abs/2403.12235v1)|null|
 |**2024-03-09**|**Laser-to-Vehicle Extrinsic Calibration in Low-Observability Scenarios for Subsea Mapping**|Thomas Hitchcox et.al.|[2402.14993v2](http://arxiv.org/abs/2402.14993v2)|null|
 |**2024-02-22**|**Secure Navigation using Landmark-based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2402.14280v1](http://arxiv.org/abs/2402.14280v1)|null|
 |**2024-02-09**|**Continuous-Time Radar-Inertial and Lidar-Inertial Odometry using a Gaussian Process Motion Prior**|Keenan Burnett et.al.|[2402.06174v1](http://arxiv.org/abs/2402.06174v1)|**[link](https://github.com/utiasasrl/steam_icp)**|
@@ -196,6 +197,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**ViTGaze: Gaze Following with Interaction Features in Vision Transformers**|Yuehao Song et.al.|[2403.12778v1](http://arxiv.org/abs/2403.12778v1)|null|
+|**2024-03-18**|**N-Modal Contrastive Losses with Applications to Social Media Data in Trimodal Space**|William Theisen et.al.|[2403.12747v1](http://arxiv.org/abs/2403.12747v1)|null|
+|**2024-03-19**|**Bilevel Hypergraph Networks for Multi-Modal Alzheimer's Diagnosis**|Angelica I. Aviles-Rivero et.al.|[2403.12719v1](http://arxiv.org/abs/2403.12719v1)|null|
+|**2024-03-19**|**AnimateDiff-Lightning: Cross-Model Diffusion Distillation**|Shanchuan Lin et.al.|[2403.12706v1](http://arxiv.org/abs/2403.12706v1)|null|
+|**2024-03-19**|**WaterVG: Waterway Visual Grounding based on Text-Guided Vision and mmWave Radar**|Runwei Guan et.al.|[2403.12686v1](http://arxiv.org/abs/2403.12686v1)|null|
+|**2024-03-19**|**Compound Expression Recognition via Multi Model Ensemble**|Jun Yu et.al.|[2403.12572v1](http://arxiv.org/abs/2403.12572v1)|null|
+|**2024-03-19**|**M2DA: Multi-Modal Fusion Transformer Incorporating Driver Attention for Autonomous Driving**|Dongyang Xu et.al.|[2403.12552v1](http://arxiv.org/abs/2403.12552v1)|null|
+|**2024-03-19**|**ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More**|Jiazhou Zhou et.al.|[2403.12534v1](http://arxiv.org/abs/2403.12534v1)|null|
+|**2024-03-19**|**UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All**|Yuanhuiyi Lyu et.al.|[2403.12532v1](http://arxiv.org/abs/2403.12532v1)|null|
+|**2024-03-19**|**Task-Customized Mixture of Adapters for General Image Fusion**|Pengfei Zhu et.al.|[2403.12494v1](http://arxiv.org/abs/2403.12494v1)|null|
+|**2024-03-19**|**Eye-gaze Guided Multi-modal Alignment Framework for Radiology**|Chong Ma et.al.|[2403.12416v1](http://arxiv.org/abs/2403.12416v1)|null|
+|**2024-03-18**|**A Unified Model for Longitudinal Multi-Modal Multi-View Prediction with Missingness**|Boqi Chen et.al.|[2403.12211v1](http://arxiv.org/abs/2403.12211v1)|null|
+|**2024-03-18**|**Tur[k]ingBench: A Challenge Benchmark for Web Agents**|Kevin Xu et.al.|[2403.11905v1](http://arxiv.org/abs/2403.11905v1)|null|
+|**2024-03-18**|**From explainable to interpretable deep learning for natural language processing in healthcare: how far from reality?**|Guangming Huang et.al.|[2403.11894v1](http://arxiv.org/abs/2403.11894v1)|null|
+|**2024-03-18**|**Exploring Multi-modal Neural Scene Representations With Applications on Thermal Imaging**|Mert Özer et.al.|[2403.11865v1](http://arxiv.org/abs/2403.11865v1)|null|
 |**2024-03-18**|**Implicit Discriminative Knowledge Learning for Visible-Infrared Person Re-Identification**|Kaijie Ren et.al.|[2403.11708v1](http://arxiv.org/abs/2403.11708v1)|**[link](https://github.com/1kk077/idkl)**|
 |**2024-03-18**|**MASSTAR: A Multi-Modal and Large-Scale Scene Dataset with a Versatile Toolchain for Surface Prediction and Completion**|Guiyong Zheng et.al.|[2403.11681v1](http://arxiv.org/abs/2403.11681v1)|null|
 |**2024-03-18**|**End-to-end multi-modal product matching in fashion e-commerce**|Sándor Tóth et.al.|[2403.11593v1](http://arxiv.org/abs/2403.11593v1)|null|
@@ -2833,7 +2849,7 @@ layout: default
 |**2023-09-13**|**RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline**|Mirko Usuelli et.al.|[2309.07094v1](http://arxiv.org/abs/2309.07094v1)|null|
 |**2023-09-05**|**Magnetic Navigation using Attitude-Invariant Magnetic Field Information for Loop Closure Detection**|Natalia Pavlasek et.al.|[2309.02394v1](http://arxiv.org/abs/2309.02394v1)|null|
 |**2023-07-18**|**3D-SeqMOS: A Novel Sequential 3D Moving Object Segmentation in Autonomous Driving**|Qipeng Li et.al.|[2307.09044v1](http://arxiv.org/abs/2307.09044v1)|null|
-|**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221v1](http://arxiv.org/abs/2307.08221v1)|**[link](https://github.com/SlamCabbage/NDTMC)**|
+|**2024-03-20**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221v2](http://arxiv.org/abs/2307.08221v2)|**[link](https://github.com/SlamCabbage/NDTMC)**|
 |**2023-07-10**|**RaPlace: Place Recognition for Imaging Radar using Radon Transform and Mutable Threshold**|Hyesu Jang et.al.|[2307.04321v1](http://arxiv.org/abs/2307.04321v1)|**[link](https://github.com/hyesu-jang/raplace)**|
 |**2023-05-29**|**TReR: A Lightweight Transformer Re-Ranking Approach for 3D LiDAR Place Recognition**|Tiago Barros et.al.|[2305.18013v1](http://arxiv.org/abs/2305.18013v1)|null|
 |**2023-05-11**|**Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**|Nathan Hughes et.al.|[2305.07154v1](http://arxiv.org/abs/2305.07154v1)|**[link](https://github.com/mit-spark/hydra)**|
@@ -2908,7 +2924,7 @@ layout: default
 |**2023-09-12**|**LONER: LiDAR Only Neural Representations for Real-Time SLAM**|Seth Isaacson et.al.|[2309.04937v2](http://arxiv.org/abs/2309.04937v2)|null|
 |**2023-07-27**|**FLiCR: A Fast and Lightweight LiDAR Point Cloud Compression Based on Lossy RI**|Jin Heo et.al.|[2307.15005v1](http://arxiv.org/abs/2307.15005v1)|null|
 |**2023-07-18**|**3D-SeqMOS: A Novel Sequential 3D Moving Object Segmentation in Autonomous Driving**|Qipeng Li et.al.|[2307.09044v1](http://arxiv.org/abs/2307.09044v1)|null|
-|**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221v1](http://arxiv.org/abs/2307.08221v1)|**[link](https://github.com/SlamCabbage/NDTMC)**|
+|**2024-03-20**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221v2](http://arxiv.org/abs/2307.08221v2)|**[link](https://github.com/SlamCabbage/NDTMC)**|
 |**2023-06-06**|**PQM: A Point Quality Evaluation Metric for Dense Maps**|Yash Turkar et.al.|[2306.03660v1](http://arxiv.org/abs/2306.03660v1)|null|
 |**2023-05-03**|**Direct LiDAR-Inertial Odometry and Mapping: Perceptive and Connective SLAM**|Kenny Chen et.al.|[2305.01843v1](http://arxiv.org/abs/2305.01843v1)|null|
 |**2023-03-09**|**SLAMesh: Real-time LiDAR Simultaneous Localization and Meshing**|Jianyuan Ruan et.al.|[2303.05252v1](http://arxiv.org/abs/2303.05252v1)|**[link](https://github.com/RuanJY/SLAMesh)**|
@@ -2969,6 +2985,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Diffusion-Driven Self-Supervised Learning for Shape Reconstruction and Pose Estimation**|Jingtao Sun et.al.|[2403.12728v1](http://arxiv.org/abs/2403.12728v1)|**[link](https://github.com/s-jingtao/self-srpe)**|
+|**2024-03-18**|**DeCoTR: Enhancing Depth Completion with 2D and 3D Attentions**|Yunxiao Shi et.al.|[2403.12202v1](http://arxiv.org/abs/2403.12202v1)|null|
 |**2024-03-15**|**FBPT: A Fully Binary Point Transformer**|Zhixing Hou et.al.|[2403.09998v1](http://arxiv.org/abs/2403.09998v1)|null|
 |**2024-03-08**|**DITTO: Dual and Integrated Latent Topologies for Implicit 3D Reconstruction**|Jaehyeok Shim et.al.|[2403.05005v1](http://arxiv.org/abs/2403.05005v1)|null|
 |**2024-02-29**|**A Probabilistic Motion Model for Skid-Steer Wheeled Mobile Robot Navigation on Off-Road Terrains**|Ananya Trivedi et.al.|[2402.18065v2](http://arxiv.org/abs/2402.18065v2)|**[link](https://github.com/river-lab/multiterrain-gp-model)**|
@@ -3068,9 +3086,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Global-guided Focal Neural Radiance Field for Large-scale Scene Rendering**|Mingqi Shao et.al.|[2403.12839v1](http://arxiv.org/abs/2403.12839v1)|null|
+|**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin et.al.|[2403.12800v1](http://arxiv.org/abs/2403.12800v1)|null|
+|**2024-03-19**|**IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model**|Matteo Bortolon et.al.|[2403.12682v1](http://arxiv.org/abs/2403.12682v1)|null|
+|**2024-03-18**|**FLex: Joint Pose and Dynamic Radiance Fields Optimization for Stereo Endoscopic Videos**|Florian Philipp Stilz et.al.|[2403.12198v1](http://arxiv.org/abs/2403.12198v1)|null|
+|**2024-03-18**|**ThermoNeRF: Multimodal Neural Radiance Fields for Thermal Novel View Synthesis**|Mariam Hassan et.al.|[2403.12154v1](http://arxiv.org/abs/2403.12154v1)|**[link](https://github.com/schindlerepfl/thermo-nerf)**|
+|**2024-03-18**|**RoGUENeRF: A Robust Geometry-Consistent Universal Enhancer for NeRF**|Sibi Catley-Chandar et.al.|[2403.11909v1](http://arxiv.org/abs/2403.11909v1)|null|
+|**2024-03-18**|**GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy Polarization Priors**|LI Yang et.al.|[2403.11899v1](http://arxiv.org/abs/2403.11899v1)|null|
+|**2024-03-18**|**Exploring Multi-modal Neural Scene Representations With Applications on Thermal Imaging**|Mert Özer et.al.|[2403.11865v1](http://arxiv.org/abs/2403.11865v1)|null|
+|**2024-03-19**|**BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting**|Lingzhe Zhao et.al.|[2403.11831v2](http://arxiv.org/abs/2403.11831v2)|**[link](https://github.com/WU-CVGL/BAD-Gaussians)**|
+|**2024-03-18**|**Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery**|Yuqi Zhang et.al.|[2403.11812v1](http://arxiv.org/abs/2403.11812v1)|null|
+|**2024-03-18**|**DVN-SLAM: Dynamic Visual Neural SLAM Based on Local-Global Encoding**|Wenhua Wu et.al.|[2403.11776v1](http://arxiv.org/abs/2403.11776v1)|null|
 |**2024-03-18**|**Exploring 3D-aware Latent Spaces for Efficiently Learning Numerous Scenes**|Antoine Schnepf et.al.|[2403.11678v1](http://arxiv.org/abs/2403.11678v1)|null|
 |**2024-03-18**|**UV Gaussians: Joint Learning of Mesh Deformation and Gaussian Textures for Human Avatar Modeling**|Yujiao Jiang et.al.|[2403.11589v1](http://arxiv.org/abs/2403.11589v1)|null|
-|**2024-03-18**|**Just Add $100 More: Augmenting NeRF-based Pseudo-LiDAR Point Cloud for Resolving Class-imbalance Problem**|Mincheol Chang et.al.|[2403.11573v1](http://arxiv.org/abs/2403.11573v1)|null|
+|**2024-03-20**|**Just Add $100 More: Augmenting NeRF-based Pseudo-LiDAR Point Cloud for Resolving Class-imbalance Problem**|Mincheol Chang et.al.|[2403.11573v2](http://arxiv.org/abs/2403.11573v2)|null|
 |**2024-03-17**|**Creating Seamless 3D Maps Using Radiance Fields**|Sai Tarun Sathyan et.al.|[2403.11364v1](http://arxiv.org/abs/2403.11364v1)|null|
 |**2024-03-17**|**SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream**|Lin Zhu et.al.|[2403.11222v1](http://arxiv.org/abs/2403.11222v1)|**[link](https://github.com/bit-vision/spikenerf)**|
 |**2024-03-17**|**Recent Advances in 3D Gaussian Splatting**|Tong Wu et.al.|[2403.11134v1](http://arxiv.org/abs/2403.11134v1)|null|
