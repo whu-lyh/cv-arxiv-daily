@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.21
+## Updated on 2024.03.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -197,6 +197,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**|Ziyu Liu et.al.|[2403.13805v1](http://arxiv.org/abs/2403.13805v1)|null|
+|**2024-03-20**|**Natural Language as Polices: Reasoning for Coordinate-Level Embodied Control with LLMs**|Yusuke Mikami et.al.|[2403.13801v1](http://arxiv.org/abs/2403.13801v1)|**[link](https://github.com/shure-dev/NLaP)**|
+|**2024-03-20**|**DanceCamera3D: 3D Camera Movement Synthesis with Music and Dance**|Zixuan Wang et.al.|[2403.13667v1](http://arxiv.org/abs/2403.13667v1)|null|
+|**2024-03-20**|**Recursive Cross-Modal Attention for Multimodal Fusion in Dimensional Emotion Recognition**|R. Gnana Praveen et.al.|[2403.13659v1](http://arxiv.org/abs/2403.13659v1)|null|
+|**2024-03-20**|**Macroscopic pricing schemes for the utilization of pool ride-hailing vehicles in bus lanes**|Lynn Fayed et.al.|[2403.13651v1](http://arxiv.org/abs/2403.13651v1)|null|
+|**2024-03-20**|**No more optimization rules: LLM-enabled policy-based multi-modal query optimizer (version 1)**|Yifan Wang et.al.|[2403.13597v1](http://arxiv.org/abs/2403.13597v1)|null|
+|**2024-03-20**|**What explains the success of cross-modal fine-tuning with ORCA?**|Paloma García-de-Herreros et.al.|[2403.13537v1](http://arxiv.org/abs/2403.13537v1)|null|
+|**2024-03-20**|**FMM-Attack: A Flow-based Multi-modal Adversarial Attack on Video-based LLMs**|Jinmin Li et.al.|[2403.13507v1](http://arxiv.org/abs/2403.13507v1)|null|
+|**2024-03-20**|**A Unified Optimal Transport Framework for Cross-Modal Retrieval with Noisy Labels**|Haochen Han et.al.|[2403.13480v1](http://arxiv.org/abs/2403.13480v1)|null|
+|**2024-03-20**|**Unifying Local and Global Multimodal Features for Place Recognition in Aliased and Low-Texture Environments**|Alberto García-Hernández et.al.|[2403.13395v1](http://arxiv.org/abs/2403.13395v1)|null|
+|**2024-03-20**|**GeRM: A Generalist Robotic Model with Mixture-of-experts for Quadruped Robot**|Wenxuan Song et.al.|[2403.13358v1](http://arxiv.org/abs/2403.13358v1)|null|
+|**2024-03-20**|**Flickr30K-CFQ: A Compact and Fragmented Query Dataset for Text-image Retrieval**|Haoyu Liu et.al.|[2403.13317v1](http://arxiv.org/abs/2403.13317v1)|null|
+|**2024-03-20**|**Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations**|Kewei Wang et.al.|[2403.13261v1](http://arxiv.org/abs/2403.13261v1)|**[link](https://github.com/kwwcv/selfmotion)**|
+|**2024-03-19**|**Better Call SAL: Towards Learning to Segment Anything in Lidar**|Aljoša Ošep et.al.|[2403.13129v1](http://arxiv.org/abs/2403.13129v1)|null|
 |**2024-03-19**|**ViTGaze: Gaze Following with Interaction Features in Vision Transformers**|Yuehao Song et.al.|[2403.12778v1](http://arxiv.org/abs/2403.12778v1)|null|
 |**2024-03-18**|**N-Modal Contrastive Losses with Applications to Social Media Data in Trimodal Space**|William Theisen et.al.|[2403.12747v1](http://arxiv.org/abs/2403.12747v1)|null|
 |**2024-03-19**|**Bilevel Hypergraph Networks for Multi-Modal Alzheimer's Diagnosis**|Angelica I. Aviles-Rivero et.al.|[2403.12719v1](http://arxiv.org/abs/2403.12719v1)|null|
@@ -3086,6 +3100,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**MULAN-WC: Multi-Robot Localization Uncertainty-aware Active NeRF with Wireless Coordination**|Weiying Wang et.al.|[2403.13348v1](http://arxiv.org/abs/2403.13348v1)|null|
+|**2024-03-19**|**Depth-guided NeRF Training via Earth Mover's Distance**|Anita Rau et.al.|[2403.13206v1](http://arxiv.org/abs/2403.13206v1)|null|
+|**2024-03-19**|**DecentNeRFs: Decentralized Neural Radiance Fields from Crowdsourced Images**|Zaid Tasneem et.al.|[2403.13199v1](http://arxiv.org/abs/2403.13199v1)|null|
 |**2024-03-19**|**Global-guided Focal Neural Radiance Field for Large-scale Scene Rendering**|Mingqi Shao et.al.|[2403.12839v1](http://arxiv.org/abs/2403.12839v1)|null|
 |**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin et.al.|[2403.12800v1](http://arxiv.org/abs/2403.12800v1)|null|
 |**2024-03-19**|**IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model**|Matteo Bortolon et.al.|[2403.12682v1](http://arxiv.org/abs/2403.12682v1)|null|
@@ -3095,7 +3112,7 @@ layout: default
 |**2024-03-18**|**GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy Polarization Priors**|LI Yang et.al.|[2403.11899v1](http://arxiv.org/abs/2403.11899v1)|null|
 |**2024-03-18**|**Exploring Multi-modal Neural Scene Representations With Applications on Thermal Imaging**|Mert Özer et.al.|[2403.11865v1](http://arxiv.org/abs/2403.11865v1)|null|
 |**2024-03-19**|**BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting**|Lingzhe Zhao et.al.|[2403.11831v2](http://arxiv.org/abs/2403.11831v2)|**[link](https://github.com/WU-CVGL/BAD-Gaussians)**|
-|**2024-03-18**|**Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery**|Yuqi Zhang et.al.|[2403.11812v1](http://arxiv.org/abs/2403.11812v1)|null|
+|**2024-03-18**|**Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery**|Yuqi Zhang et.al.|[2403.11812v1](http://arxiv.org/abs/2403.11812v1)|**[link](https://github.com/zyqz97/aerial_lifting)**|
 |**2024-03-18**|**DVN-SLAM: Dynamic Visual Neural SLAM Based on Local-Global Encoding**|Wenhua Wu et.al.|[2403.11776v1](http://arxiv.org/abs/2403.11776v1)|null|
 |**2024-03-18**|**Exploring 3D-aware Latent Spaces for Efficiently Learning Numerous Scenes**|Antoine Schnepf et.al.|[2403.11678v1](http://arxiv.org/abs/2403.11678v1)|null|
 |**2024-03-18**|**UV Gaussians: Joint Learning of Mesh Deformation and Gaussian Textures for Human Avatar Modeling**|Yujiao Jiang et.al.|[2403.11589v1](http://arxiv.org/abs/2403.11589v1)|null|
