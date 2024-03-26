@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.25
+## Updated on 2024.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -198,11 +198,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding**|Yi Wang et.al.|[2403.15377v1](http://arxiv.org/abs/2403.15377v1)|null|
+|**2024-03-22**|**Neural Plasticity-Inspired Foundation Model for Observing the Earth Crossing Modalities**|Zhitong Xiong et.al.|[2403.15356v1](http://arxiv.org/abs/2403.15356v1)|null|
+|**2024-03-22**|**Point-DETR3D: Leveraging Imagery Data with Spatial Point Prior for Weakly Semi-supervised 3D Object Detection**|Hongzhi Gao et.al.|[2403.15317v1](http://arxiv.org/abs/2403.15317v1)|null|
+|**2024-03-22**|**Hierarchical Information Enhancement Network for Cascade Prediction in Social Networks**|Fanrui Zhang et.al.|[2403.15257v1](http://arxiv.org/abs/2403.15257v1)|null|
+|**2024-03-22**|**Not All Attention is Needed: Parameter and Computation Efficient Transfer Learning for Multi-modal Large Language Models**|Qiong Wu et.al.|[2403.15226v1](http://arxiv.org/abs/2403.15226v1)|null|
+|**2024-03-22**|**MSCoTDet: Language-driven Multi-modal Fusion for Improved Multispectral Pedestrian Detection**|Taeheon Kim et.al.|[2403.15209v1](http://arxiv.org/abs/2403.15209v1)|null|
+|**2024-03-22**|**AllHands: Ask Me Anything on Large-scale Verbatim Feedback via Large Language Models**|Chaoyun Zhang et.al.|[2403.15157v1](http://arxiv.org/abs/2403.15157v1)|null|
+|**2024-03-22**|**MM-Diff: High-Fidelity Image Personalization via Multi-Modal Condition Integration**|Zhichao Wei et.al.|[2403.15059v1](http://arxiv.org/abs/2403.15059v1)|null|
+|**2024-03-22**|**AVT2-DWF: Improving Deepfake Detection with Audio-Visual Fusion and Dynamic Weighting Strategies**|Rui Wang et.al.|[2403.14974v1](http://arxiv.org/abs/2403.14974v1)|null|
+|**2024-03-21**|**Few-Shot Adversarial Prompt Learning on Vision-Language Models**|Yiwei Zhou et.al.|[2403.14774v1](http://arxiv.org/abs/2403.14774v1)|null|
 |**2024-03-21**|**MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?**|Renrui Zhang et.al.|[2403.14624v1](http://arxiv.org/abs/2403.14624v1)|null|
 |**2024-03-21**|**Language Repository for Long Video Understanding**|Kumara Kahatapitiya et.al.|[2403.14622v1](http://arxiv.org/abs/2403.14622v1)|**[link](https://github.com/kkahatapitiya/langrepo)**|
 |**2024-03-21**|**PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model**|Zheng Zhang et.al.|[2403.14598v1](http://arxiv.org/abs/2403.14598v1)|**[link](https://github.com/zamling/psalm)**|
 |**2024-03-21**|**VXP: Voxel-Cross-Pixel Large-scale Image-LiDAR Place Recognition**|Yun-Jin Li et.al.|[2403.14594v1](http://arxiv.org/abs/2403.14594v1)|null|
-|**2024-03-21**|**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**|Han Zhao et.al.|[2403.14520v1](http://arxiv.org/abs/2403.14520v1)|null|
+|**2024-03-22**|**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**|Han Zhao et.al.|[2403.14520v2](http://arxiv.org/abs/2403.14520v2)|null|
 |**2024-03-21**|**Pensieve: Retrospect-then-Compare Mitigates Visual Hallucination**|Dingchen Yang et.al.|[2403.14401v1](http://arxiv.org/abs/2403.14401v1)|**[link](https://github.com/dingchenyang99/pensieve)**|
 |**2024-03-21**|**Application of deep learning and inline holography to estimate the droplet size distribution**|Someshwar Sanjay Ade et.al.|[2403.14391v1](http://arxiv.org/abs/2403.14391v1)|null|
 |**2024-03-21**|**Dermacen Analytica: A Novel Methodology Integrating Multi-Modal Large Language Models with Machine Learning in tele-dermatology**|Dimitrios P. Panagoulias et.al.|[2403.14243v1](http://arxiv.org/abs/2403.14243v1)|null|
@@ -2950,7 +2960,7 @@ layout: default
 |**2023-11-04**|**ECMD: An Event-Centric Multisensory Driving Dataset for SLAM**|Peiyu Chen et.al.|[2311.02327v1](http://arxiv.org/abs/2311.02327v1)|**[link](https://github.com/arclab-hku/event_based_vo-vio-slam)**|
 |**2024-01-22**|**Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM**|Hyungtae Lim et.al.|[2311.00928v2](http://arxiv.org/abs/2311.00928v2)|null|
 |**2023-09-15**|**Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM**|Chenghao Shi et.al.|[2309.08086v1](http://arxiv.org/abs/2309.08086v1)|null|
-|**2023-09-12**|**LONER: LiDAR Only Neural Representations for Real-Time SLAM**|Seth Isaacson et.al.|[2309.04937v2](http://arxiv.org/abs/2309.04937v2)|null|
+|**2024-03-23**|**LONER: LiDAR Only Neural Representations for Real-Time SLAM**|Seth Isaacson et.al.|[2309.04937v3](http://arxiv.org/abs/2309.04937v3)|null|
 |**2023-07-27**|**FLiCR: A Fast and Lightweight LiDAR Point Cloud Compression Based on Lossy RI**|Jin Heo et.al.|[2307.15005v1](http://arxiv.org/abs/2307.15005v1)|null|
 |**2023-07-18**|**3D-SeqMOS: A Novel Sequential 3D Moving Object Segmentation in Autonomous Driving**|Qipeng Li et.al.|[2307.09044v1](http://arxiv.org/abs/2307.09044v1)|null|
 |**2024-03-20**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221v2](http://arxiv.org/abs/2307.08221v2)|**[link](https://github.com/SlamCabbage/NDTMC)**|
@@ -3116,6 +3126,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization**|Jialu Wang et.al.|[2403.15272v1](http://arxiv.org/abs/2403.15272v1)|null|
+|**2024-03-21**|**Hyperspectral Neural Radiance Fields**|Gerry Chen et.al.|[2403.14839v1](http://arxiv.org/abs/2403.14839v1)|null|
 |**2024-03-21**|**ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition**|Tianhao Wu et.al.|[2403.14619v1](http://arxiv.org/abs/2403.14619v1)|null|
 |**2024-03-21**|**CombiNeRF: A Combination of Regularization Techniques for Few-Shot Neural Radiance Field View Synthesis**|Matteo Bonotto et.al.|[2403.14412v1](http://arxiv.org/abs/2403.14412v1)|**[link](https://github.com/sarroccoluigi/combinerf)**|
 |**2024-03-21**|**InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity**|Jiabin Liang et.al.|[2403.14376v1](http://arxiv.org/abs/2403.14376v1)|null|
