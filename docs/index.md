@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.27
+## Updated on 2024.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -198,6 +198,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis**|Muhammad Hamza Mughal et.al.|[2403.17936v1](http://arxiv.org/abs/2403.17936v1)|null|
+|**2024-03-26**|**ReMamber: Referring Image Segmentation with Mamba Twister**|Yuhuan Yang et.al.|[2403.17839v1](http://arxiv.org/abs/2403.17839v1)|null|
+|**2024-03-26**|**Environment Reconstruction based on Multi-User Selection and Multi-Modal Fusion in ISAC**|Bo Lin et.al.|[2403.17810v1](http://arxiv.org/abs/2403.17810v1)|null|
+|**2024-03-26**|**The Solution for the CVPR 2023 1st foundation model challenge-Track2**|Haonan Xu et.al.|[2403.17702v1](http://arxiv.org/abs/2403.17702v1)|null|
+|**2024-03-26**|**Solution for Emotion Prediction Competition of Workshop on Emotionally and Culturally Intelligent AI**|Shengdong Xu et.al.|[2403.17683v1](http://arxiv.org/abs/2403.17683v1)|null|
+|**2024-03-26**|**An Empirical Study of Training ID-Agnostic Multi-modal Sequential Recommenders**|Youhua Li et.al.|[2403.17372v1](http://arxiv.org/abs/2403.17372v1)|**[link](https://github.com/mmsr23/mmsr)**|
+|**2024-03-26**|**Bridging Textual and Tabular Worlds for Fact Verification: A Lightweight, Attention-Based Model**|Shirin Dabbaghi Varnosfaderani et.al.|[2403.17361v1](http://arxiv.org/abs/2403.17361v1)|**[link](https://github.com/nii-yamagishilab/mla-feverous-coling24)**|
+|**2024-03-27**|**Language Models are Free Boosters for Biomedical Imaging Tasks**|Zhixin Lai et.al.|[2403.17343v2](http://arxiv.org/abs/2403.17343v2)|**[link](https://github.com/zhixinlai/llmboostmedical)**|
+|**2024-03-26**|**OVER-NAV: Elevating Iterative Vision-and-Language Navigation with Open-Vocabulary Detection and StructurEd Representation**|Ganlong Zhao et.al.|[2403.17334v1](http://arxiv.org/abs/2403.17334v1)|null|
+|**2024-03-25**|**Latency-Aware Generative Semantic Communications with Pre-Trained Diffusion Models**|Li Qiao et.al.|[2403.17256v1](http://arxiv.org/abs/2403.17256v1)|null|
+|**2024-03-25**|**DreamLIP: Language-Image Pre-training with Long Captions**|Kecheng Zheng et.al.|[2403.17007v1](http://arxiv.org/abs/2403.17007v1)|null|
+|**2024-03-25**|**Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models**|Hao Shao et.al.|[2403.16999v1](http://arxiv.org/abs/2403.16999v1)|**[link](https://github.com/deepcs233/visual-cot)**|
+|**2024-03-25**|**TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments**|Chen Yao et.al.|[2403.16875v1](http://arxiv.org/abs/2403.16875v1)|null|
+|**2024-03-25**|**From Two Stream to One Stream: Efficient RGB-T Tracking via Mutual Prompt Learning and Knowledge Distillation**|Yang Luo et.al.|[2403.16834v1](http://arxiv.org/abs/2403.16834v1)|null|
 |**2024-03-25**|**Elysium: Exploring Object-level Perception in Videos via MLLM**|Han Wang et.al.|[2403.16558v1](http://arxiv.org/abs/2403.16558v1)|**[link](https://github.com/hon-wong/elysium)**|
 |**2024-03-25**|**DOrA: 3D Visual Grounding with Order-Aware Referring**|Tung-Yu Wu et.al.|[2403.16539v1](http://arxiv.org/abs/2403.16539v1)|null|
 |**2024-03-25**|**An Intermediate Fusion ViT Enables Efficient Text-Image Alignment in Diffusion Models**|Zizhao Hu et.al.|[2403.16530v1](http://arxiv.org/abs/2403.16530v1)|null|
@@ -2967,6 +2981,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**Online Tree Reconstruction and Forest Inventory on a Mobile Robotic System**|Leonard Freißmuth et.al.|[2403.17622v1](http://arxiv.org/abs/2403.17622v1)|null|
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877v1](http://arxiv.org/abs/2403.06877v1)|null|
 |**2024-03-10**|**RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation**|Mathieu Labbé et.al.|[2403.06341v1](http://arxiv.org/abs/2403.06341v1)|null|
 |**2024-03-05**|**LiSTA: Geometric Object-Based Change Detection in Cluttered Environments**|Joseph Rowell et.al.|[2403.02175v2](http://arxiv.org/abs/2403.02175v2)|null|
@@ -3141,6 +3156,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**|Kerui Ren et.al.|[2403.17898v1](http://arxiv.org/abs/2403.17898v1)|null|
+|**2024-03-26**|**NeRF-HuGS: Improved Neural Radiance Fields in Non-static Scenes Using Heuristics-Guided Segmentation**|Jiahao Chen et.al.|[2403.17537v1](http://arxiv.org/abs/2403.17537v1)|null|
+|**2024-03-25**|**VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation**|Yang Chen et.al.|[2403.17001v1](http://arxiv.org/abs/2403.17001v1)|null|
+|**2024-03-25**|**CVT-xRF: Contrastive In-Voxel Transformer for 3D Consistent Radiance Fields from Sparse Inputs**|Yingji Zhong et.al.|[2403.16885v1](http://arxiv.org/abs/2403.16885v1)|null|
 |**2024-03-25**|**Spike-NeRF: Neural Radiance Field Based On Spike Camera**|Yijia Guo et.al.|[2403.16410v1](http://arxiv.org/abs/2403.16410v1)|null|
 |**2024-03-24**|**Inverse Rendering of Glossy Objects via the Neural Plenoptic Function and Radiance Fields**|Haoyuan Wang et.al.|[2403.16224v1](http://arxiv.org/abs/2403.16224v1)|null|
 |**2024-03-24**|**Entity-NeRF: Detecting and Removing Moving Entities in Urban Scenes**|Takashi Otonari et.al.|[2403.16141v1](http://arxiv.org/abs/2403.16141v1)|null|
@@ -3149,7 +3168,7 @@ layout: default
 |**2024-03-26**|**PKU-DyMVHumans: A Multi-View Video Benchmark for High-Fidelity Dynamic Human Modeling**|Xiaoyun Zheng et.al.|[2403.16080v2](http://arxiv.org/abs/2403.16080v2)|**[link](https://github.com/zhengxyun/PKU-DyMVHumans)**|
 |**2024-03-24**|**Semantic Is Enough: Only Semantic Information For NeRF Reconstruction**|Ruibo Wang et.al.|[2403.16043v1](http://arxiv.org/abs/2403.16043v1)|null|
 |**2024-03-24**|**Exploring Accurate 3D Phenotyping in Greenhouse through Neural Radiance Fields**|unhong Zhao et.al.|[2403.15981v1](http://arxiv.org/abs/2403.15981v1)|null|
-|**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791v1](http://arxiv.org/abs/2403.15791v1)|null|
+|**2024-03-23**|**DriveEnv-NeRF: Exploration of A NeRF-Based Autonomous Driving Environment for Real-World Performance Validation**|Mu-Yi Shen et.al.|[2403.15791v1](http://arxiv.org/abs/2403.15791v1)|**[link](https://github.com/muyishen2040/driveenvnerf)**|
 |**2024-03-23**|**UPNeRF: A Unified Framework for Monocular 3D Object Reconstruction and Pose Estimation**|Yuliang Guo et.al.|[2403.15705v1](http://arxiv.org/abs/2403.15705v1)|null|
 |**2024-03-23**|**Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections**|Dongbin Zhang et.al.|[2403.15704v1](http://arxiv.org/abs/2403.15704v1)|null|
 |**2024-03-22**|**Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting**|Jun Guo et.al.|[2403.15624v1](http://arxiv.org/abs/2403.15624v1)|null|
