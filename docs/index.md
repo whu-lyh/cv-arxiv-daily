@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -198,6 +198,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**|Yanwei Li et.al.|[2403.18814v1](http://arxiv.org/abs/2403.18814v1)|**[link](https://github.com/dvlab-research/minigemini)**|
+|**2024-03-27**|**ModaLink: Unifying Modalities for Efficient Image-to-PointCloud Place Recognition**|Weidong Xie et.al.|[2403.18762v1](http://arxiv.org/abs/2403.18762v1)|**[link](https://github.com/haomo-ai/modalink)**|
+|**2024-03-27**|**CoRAST: Towards Foundation Model-Powered Correlated Data Analysis in Resource-Constrained CPS and IoT**|Yi Hu et.al.|[2403.18451v1](http://arxiv.org/abs/2403.18451v1)|null|
+|**2024-03-27**|**Generative Multi-modal Models are Good Class-Incremental Learners**|Xusheng Cao et.al.|[2403.18383v1](http://arxiv.org/abs/2403.18383v1)|**[link](https://github.com/doubleclass/gmm)**|
+|**2024-03-28**|**H2ASeg: Hierarchical Adaptive Interaction and Weighting Network for Tumor Segmentation in PET/CT Images**|Jinpeng Lu et.al.|[2403.18339v2](http://arxiv.org/abs/2403.18339v2)|**[link](https://github.com/JinPLu/H2ASeg)**|
+|**2024-03-27**|**How to Cache Important Contents for Multi-modal Service in Dynamic Networks: A DRL-based Caching Scheme**|Zhe Zhang et.al.|[2403.18323v1](http://arxiv.org/abs/2403.18323v1)|null|
+|**2024-03-27**|**Multi-Modal Contrastive Learning for Online Clinical Time-Series Applications**|Fabian Baldenweg et.al.|[2403.18316v1](http://arxiv.org/abs/2403.18316v1)|null|
+|**2024-03-27**|**DVLO: Deep Visual-LiDAR Odometry with Local-to-Global Feature Fusion and Bi-Directional Structure Alignment**|Jiuming Liu et.al.|[2403.18274v1](http://arxiv.org/abs/2403.18274v1)|null|
+|**2024-03-27**|**Beyond Embeddings: The Promise of Visual Table in Multi-Modal Models**|Yiwu Zhong et.al.|[2403.18252v1](http://arxiv.org/abs/2403.18252v1)|**[link](https://github.com/lavi-lab/visual-table)**|
+|**2024-03-27**|**NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation**|Ruikai Cui et.al.|[2403.18241v1](http://arxiv.org/abs/2403.18241v1)|null|
+|**2024-03-27**|**EndToEndML: An Open-Source End-to-End Pipeline for Machine Learning Applications**|Nisha Pillai et.al.|[2403.18203v1](http://arxiv.org/abs/2403.18203v1)|null|
+|**2024-03-27**|**Middle Fusion and Multi-Stage, Multi-Form Prompts for Robust RGB-T Tracking**|Qiming Wang et.al.|[2403.18193v1](http://arxiv.org/abs/2403.18193v1)|null|
+|**2024-03-27**|**Online Embedding Multi-Scale CLIP Features into 3D Maps**|Shun Taguchi et.al.|[2403.18178v1](http://arxiv.org/abs/2403.18178v1)|null|
+|**2024-03-26**|**The Flying Sidekick Traveling Salesman Problem with Multiple Drops: A Simple and Effective Heuristic Approach**|Sarah K. Schaumann et.al.|[2403.18091v1](http://arxiv.org/abs/2403.18091v1)|null|
+|**2024-03-26**|**Cross-system biological image quality enhancement based on the generative adversarial network as a foundation for establishing a multi-institute microscopy cooperative network**|Dominik Panek et.al.|[2403.18026v1](http://arxiv.org/abs/2403.18026v1)|null|
 |**2024-03-26**|**ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis**|Muhammad Hamza Mughal et.al.|[2403.17936v1](http://arxiv.org/abs/2403.17936v1)|null|
 |**2024-03-26**|**ReMamber: Referring Image Segmentation with Mamba Twister**|Yuhuan Yang et.al.|[2403.17839v1](http://arxiv.org/abs/2403.17839v1)|null|
 |**2024-03-26**|**Environment Reconstruction based on Multi-User Selection and Multi-Modal Fusion in ISAC**|Bo Lin et.al.|[2403.17810v1](http://arxiv.org/abs/2403.17810v1)|null|
@@ -2889,7 +2904,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751v1](http://arxiv.org/abs/2403.02751v1)|null|
-|**2023-11-27**|**Text2Loc: 3D Point Cloud Localization from Natural Language**|Yan Xia et.al.|[2311.15977v1](http://arxiv.org/abs/2311.15977v1)|null|
+|**2024-03-28**|**Text2Loc: 3D Point Cloud Localization from Natural Language**|Yan Xia et.al.|[2311.15977v2](http://arxiv.org/abs/2311.15977v2)|null|
 |**2023-01-13**|**Text to Point Cloud Localization with Relation-Enhanced Transformer**|Guangzhi Wang et.al.|[2301.05372v1](http://arxiv.org/abs/2301.05372v1)|null|
 |**2022-09-30**|**Point Cloud Quality Assessment using 3D Saliency Maps**|Zhengyu Wang et.al.|[2209.15475v1](http://arxiv.org/abs/2209.15475v1)|null|
 |**2024-02-02**|**CPO: Change Robust Panorama to Point Cloud Localization**|Junho Kim et.al.|[2207.05317v2](http://arxiv.org/abs/2207.05317v2)|**[link](https://github.com/82magnolia/panoramic-localization)**|
@@ -3156,6 +3171,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795v1](http://arxiv.org/abs/2403.18795v1)|null|
+|**2024-03-27**|**SAT-NGP : Unleashing Neural Graphics Primitives for Fast Relightable Transient-Free 3D reconstruction from Satellite Imagery**|Camille Billouard et.al.|[2403.18711v1](http://arxiv.org/abs/2403.18711v1)|null|
+|**2024-03-27**|**Modeling uncertainty for Gaussian Splatting**|Luca Savant et.al.|[2403.18476v1](http://arxiv.org/abs/2403.18476v1)|null|
 |**2024-03-26**|**Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**|Kerui Ren et.al.|[2403.17898v1](http://arxiv.org/abs/2403.17898v1)|null|
 |**2024-03-26**|**NeRF-HuGS: Improved Neural Radiance Fields in Non-static Scenes Using Heuristics-Guided Segmentation**|Jiahao Chen et.al.|[2403.17537v1](http://arxiv.org/abs/2403.17537v1)|null|
 |**2024-03-25**|**VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation**|Yang Chen et.al.|[2403.17001v1](http://arxiv.org/abs/2403.17001v1)|null|
