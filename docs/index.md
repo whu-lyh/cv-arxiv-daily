@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.02
+## Updated on 2024.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -208,7 +208,7 @@ layout: default
 |**2024-03-29**|**Transformer-Lite: High-efficiency Deployment of Large Language Models on Mobile Phone GPUs**|Luchang Li et.al.|[2403.20041v1](http://arxiv.org/abs/2403.20041v1)|null|
 |**2024-03-29**|**FSMR: A Feature Swapping Multi-modal Reasoning Approach with Joint Textual and Visual Clues**|Shuang Li et.al.|[2403.20026v1](http://arxiv.org/abs/2403.20026v1)|null|
 |**2024-03-29**|**Context-Aware Integration of Language and Visual References for Natural Language Tracking**|Yanyan Shao et.al.|[2403.19975v1](http://arxiv.org/abs/2403.19975v1)|null|
-|**2024-03-29**|**3D-Speaker-Toolkit: An Open Source Toolkit for Multi-modal Speaker Verification and Diarization**|Yafeng Chen et.al.|[2403.19971v1](http://arxiv.org/abs/2403.19971v1)|null|
+|**2024-03-29**|**3D-Speaker-Toolkit: An Open Source Toolkit for Multi-modal Speaker Verification and Diarization**|Yafeng Chen et.al.|[2403.19971v1](http://arxiv.org/abs/2403.19971v1)|**[link](https://github.com/alibaba-damo-academy/3D-Speaker)**|
 |**2024-03-28**|**Multi-Frame, Lightweight & Efficient Vision-Language Models for Question Answering in Autonomous Driving**|Akshay Gopalkrishnan et.al.|[2403.19838v1](http://arxiv.org/abs/2403.19838v1)|**[link](https://github.com/akshaygopalkr/em-vlm4ad)**|
 |**2024-03-28**|**Multi-Stage Multi-Modal Pre-Training for Automatic Speech Recognition**|Yash Jain et.al.|[2403.19822v1](http://arxiv.org/abs/2403.19822v1)|null|
 |**2024-03-28**|**X-MIC: Cross-Modal Instance Conditioning for Egocentric Action Generalization**|Anna Kukleva et.al.|[2403.19811v1](http://arxiv.org/abs/2403.19811v1)|**[link](https://github.com/annusha/xmic)**|
