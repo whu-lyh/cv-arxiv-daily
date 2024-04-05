@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.04
+## Updated on 2024.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -198,7 +198,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-02**|**ViTamin: Designing Scalable Vision Models in the Vision-Language Era**|Jienneg Chen et.al.|[2404.02132v1](http://arxiv.org/abs/2404.02132v1)|**[link](https://github.com/beckschen/vitamin)**|
+|**2024-04-03**|**Cross-Modal Conditioned Reconstruction for Language-guided Medical Image Segmentation**|Xiaoshuang Huang et.al.|[2404.02845v1](http://arxiv.org/abs/2404.02845v1)|null|
+|**2024-04-03**|**Diffexplainer: Towards Cross-modal Global Explanations with Diffusion Models**|Matteo Pennisi et.al.|[2404.02618v1](http://arxiv.org/abs/2404.02618v1)|null|
+|**2024-04-03**|**Weakly-Supervised 3D Scene Graph Generation via Visual-Linguistic Assisted Pseudo-labeling**|Xu Wang et.al.|[2404.02527v1](http://arxiv.org/abs/2404.02527v1)|null|
+|**2024-04-03**|**Versatile Scene-Consistent Traffic Scenario Generation as Optimization with Diffusion**|Zhiyu Huang et.al.|[2404.02524v1](http://arxiv.org/abs/2404.02524v1)|null|
+|**2024-04-03**|**On-the-Go Tree Detection and Geometric Traits Estimation with Ground Mobile Robots in Fruit Tree Groves**|Dimitrios Chatziparaschis et.al.|[2404.02516v1](http://arxiv.org/abs/2404.02516v1)|null|
+|**2024-04-03**|**VIAssist: Adapting Multi-modal Large Language Models for Users with Visual Impairments**|Bufang Yang et.al.|[2404.02508v1](http://arxiv.org/abs/2404.02508v1)|null|
+|**2024-04-03**|**Task Agnostic Architecture for Algorithm Induction via Implicit Composition**|Sahil J. Sindhi et.al.|[2404.02450v1](http://arxiv.org/abs/2404.02450v1)|null|
+|**2024-04-03**|**RESSA: Repair Sparse Vision-Language Models via Sparse Cross-Modality Adaptation**|Shwai He et.al.|[2404.02424v1](http://arxiv.org/abs/2404.02424v1)|null|
+|**2024-04-02**|**GaitSTR: Gait Recognition with Sequential Two-stream Refinement**|Wanrong Zheng et.al.|[2404.02345v1](http://arxiv.org/abs/2404.02345v1)|null|
+|**2024-04-02**|**SnAG: Scalable and Accurate Video Grounding**|Fangzhou Mu et.al.|[2404.02257v1](http://arxiv.org/abs/2404.02257v1)|null|
+|**2024-04-03**|**ViTamin: Designing Scalable Vision Models in the Vision-Language Era**|Jieneng Chen et.al.|[2404.02132v2](http://arxiv.org/abs/2404.02132v2)|**[link](https://github.com/beckschen/vitamin)**|
 |**2024-04-02**|**DELAN: Dual-Level Alignment for Vision-and-Language Navigation by Cross-Modal Contrastive Learning**|Mengfei Du et.al.|[2404.01994v1](http://arxiv.org/abs/2404.01994v1)|**[link](https://github.com/mengfeidu/delan)**|
 |**2024-04-02**|**MESEN: Exploit Multimodal Data to Design Unimodal Human Activity Recognition with Few Labels**|Lilin Xu et.al.|[2404.01958v1](http://arxiv.org/abs/2404.01958v1)|**[link](https://github.com/initxu/mesen)**|
 |**2024-04-02**|**Event-assisted Low-Light Video Object Segmentation**|Hebei Li et.al.|[2404.01945v1](http://arxiv.org/abs/2404.01945v1)|null|
@@ -3213,6 +3223,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788v1](http://arxiv.org/abs/2404.02788v1)|null|
+|**2024-04-03**|**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**|Zehan Zheng et.al.|[2404.02742v1](http://arxiv.org/abs/2404.02742v1)|**[link](https://github.com/ispc-lab/lidar4d)**|
+|**2024-04-03**|**Neural Radiance Fields with Torch Units**|Bingnan Ni et.al.|[2404.02617v1](http://arxiv.org/abs/2404.02617v1)|null|
+|**2024-04-03**|**Freditor: High-Fidelity and Transferable NeRF Editing by Frequency Decomposition**|Yisheng He et.al.|[2404.02514v1](http://arxiv.org/abs/2404.02514v1)|null|
+|**2024-04-02**|**NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-Efficient Scene Representation**|Sicheng Li et.al.|[2404.02185v1](http://arxiv.org/abs/2404.02185v1)|null|
 |**2024-04-02**|**Alpha Invariance: On Inverse Scaling Between Distance and Volume Density in Neural Radiance Fields**|Joshua Ahn et.al.|[2404.02155v1](http://arxiv.org/abs/2404.02155v1)|null|
 |**2024-04-02**|**Uncertainty-aware Active Learning of NeRF-based Object Models for Robot Manipulators using Visual and Re-orientation Actions**|Saptarshi Dasgupta et.al.|[2404.01812v1](http://arxiv.org/abs/2404.01812v1)|null|
 |**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400v1](http://arxiv.org/abs/2404.01400v1)|null|
