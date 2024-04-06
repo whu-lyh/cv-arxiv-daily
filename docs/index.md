@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.05
+## Updated on 2024.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -198,6 +198,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Scaffolding Language Learning via Multi-modal Tutoring Systems with Pedagogical Instructions**|Zhengyuan Liu et.al.|[2404.03429v1](http://arxiv.org/abs/2404.03429v1)|null|
+|**2024-04-04**|**Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?**|Shuo Chen et.al.|[2404.03411v1](http://arxiv.org/abs/2404.03411v1)|null|
+|**2024-04-04**|**Sparse Concept Bottleneck Models: Gumbel Tricks in Contrastive Learning**|Andrei Semenov et.al.|[2404.03323v1](http://arxiv.org/abs/2404.03323v1)|**[link](https://github.com/andron00e/sparsecbm)**|
+|**2024-04-04**|**M3TCM: Multi-modal Multi-task Context Model for Utterance Classification in Motivational Interviews**|Sayed Muddashir Hossain et.al.|[2404.03312v1](http://arxiv.org/abs/2404.03312v1)|null|
+|**2024-04-04**|**A dataset of primary nasopharyngeal carcinoma MRI with multi-modalities segmentation**|Yin Li et.al.|[2404.03253v1](http://arxiv.org/abs/2404.03253v1)|null|
+|**2024-04-04**|**CORP: A Multi-Modal Dataset for Campus-Oriented Roadside Perception Tasks**|Beibei Wang et.al.|[2404.03191v1](http://arxiv.org/abs/2404.03191v1)|null|
+|**2024-04-04**|**AGL-NET: Aerial-Ground Cross-Modal Global Localization with Varying Scales**|Tianrui Guan et.al.|[2404.03187v1](http://arxiv.org/abs/2404.03187v1)|null|
+|**2024-04-04**|**Multi-modal Learning for WebAssembly Reverse Engineering**|Hanxian Huang et.al.|[2404.03171v1](http://arxiv.org/abs/2404.03171v1)|null|
+|**2024-04-04**|**Diverse and Tailored Image Generation for Zero-shot Multi-label Classification**|Kaixin Zhang et.al.|[2404.03144v1](http://arxiv.org/abs/2404.03144v1)|null|
+|**2024-04-03**|**LVLM-Intrepret: An Interpretability Tool for Large Vision-Language Models**|Gabriela Ben Melech Stan et.al.|[2404.03118v1](http://arxiv.org/abs/2404.03118v1)|null|
+|**2024-04-03**|**Explainable Traffic Flow Prediction with Large Language Models**|Xusen Guo et.al.|[2404.02937v1](http://arxiv.org/abs/2404.02937v1)|null|
 |**2024-04-03**|**Cross-Modal Conditioned Reconstruction for Language-guided Medical Image Segmentation**|Xiaoshuang Huang et.al.|[2404.02845v1](http://arxiv.org/abs/2404.02845v1)|null|
 |**2024-04-03**|**Diffexplainer: Towards Cross-modal Global Explanations with Diffusion Models**|Matteo Pennisi et.al.|[2404.02618v1](http://arxiv.org/abs/2404.02618v1)|null|
 |**2024-04-03**|**Weakly-Supervised 3D Scene Graph Generation via Visual-Linguistic Assisted Pseudo-labeling**|Xu Wang et.al.|[2404.02527v1](http://arxiv.org/abs/2404.02527v1)|null|
@@ -3118,6 +3129,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity**|Jake Varley et.al.|[2404.03570v1](http://arxiv.org/abs/2404.03570v1)|null|
 |**2024-04-02**|**On the Algorithmic Recovering of Coefficients in Linearizable Differential Equations**|Dmitry A. Lyakhov et.al.|[2404.01798v1](http://arxiv.org/abs/2404.01798v1)|null|
 |**2024-04-02**|**A Linear Time and Space Local Point Cloud Geometry Encoder via Vectorized Kernel Mixture (VecKM)**|Dehao Yuan et.al.|[2404.01568v1](http://arxiv.org/abs/2404.01568v1)|null|
 |**2024-04-01**|**Transfer Learning with Point Transformers**|Kartik Gupta et.al.|[2404.00846v1](http://arxiv.org/abs/2404.00846v1)|null|
@@ -3223,6 +3235,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654v1](http://arxiv.org/abs/2404.03654v1)|null|
+|**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650v1](http://arxiv.org/abs/2404.03650v1)|null|
+|**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349v1](http://arxiv.org/abs/2404.03349v1)|null|
 |**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788v1](http://arxiv.org/abs/2404.02788v1)|null|
 |**2024-04-03**|**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**|Zehan Zheng et.al.|[2404.02742v1](http://arxiv.org/abs/2404.02742v1)|**[link](https://github.com/ispc-lab/lidar4d)**|
 |**2024-04-03**|**Neural Radiance Fields with Torch Units**|Bingnan Ni et.al.|[2404.02617v1](http://arxiv.org/abs/2404.02617v1)|null|
