@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.08
+## Updated on 2024.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**KRATOS: A large suite of N-body simulations to interpret the stellar kinematics of LMC-like discs**|Ó. Jiménez-Arranz et.al.|[2404.04061v1](http://arxiv.org/abs/2404.04061v1)|null|
+|**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940v1](http://arxiv.org/abs/2404.03940v1)|null|
 |**2024-03-18**|**IKSPARK: An Inverse Kinematics Solver using Semidefinite Relaxation and Rank Minimization**|Liangting Wu et.al.|[2403.12235v1](http://arxiv.org/abs/2403.12235v1)|null|
 |**2024-03-09**|**Laser-to-Vehicle Extrinsic Calibration in Low-Observability Scenarios for Subsea Mapping**|Thomas Hitchcox et.al.|[2402.14993v2](http://arxiv.org/abs/2402.14993v2)|null|
 |**2024-02-22**|**Secure Navigation using Landmark-based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2402.14280v1](http://arxiv.org/abs/2402.14280v1)|null|
@@ -198,6 +200,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256v1](http://arxiv.org/abs/2404.04256v1)|null|
+|**2024-04-05**|**Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2)**|Michael Saxon et.al.|[2404.04251v1](http://arxiv.org/abs/2404.04251v1)|null|
+|**2024-04-05**|**Multi-modal perception for soft robotic interactions using generative models**|Enrico Donato et.al.|[2404.04220v1](http://arxiv.org/abs/2404.04220v1)|null|
+|**2024-04-04**|**Cross-Modality Gait Recognition: Bridging LiDAR and Camera Modalities for Human Identification**|Rui Wang et.al.|[2404.04120v1](http://arxiv.org/abs/2404.04120v1)|null|
+|**2024-04-05**|**MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes**|Chenyang Wu et.al.|[2404.04026v1](http://arxiv.org/abs/2404.04026v1)|null|
+|**2024-04-05**|**BuDDIE: A Business Document Dataset for Multi-task Information Extraction**|Ran Zmigrod et.al.|[2404.04003v1](http://arxiv.org/abs/2404.04003v1)|null|
+|**2024-04-05**|**Open vocabulary keyword spotting through transfer learning from speech synthesis**|Kesavaraj V et.al.|[2404.03914v1](http://arxiv.org/abs/2404.03914v1)|null|
+|**2024-04-05**|**Mitigating Heterogeneity in Federated Multimodal Learning with Biomedical Vision-Language Pre-training**|Zitao Shuai et.al.|[2404.03854v1](http://arxiv.org/abs/2404.03854v1)|null|
 |**2024-04-04**|**Scaffolding Language Learning via Multi-modal Tutoring Systems with Pedagogical Instructions**|Zhengyuan Liu et.al.|[2404.03429v1](http://arxiv.org/abs/2404.03429v1)|null|
 |**2024-04-04**|**Red Teaming GPT-4V: Are GPT-4V Safe Against Uni/Multi-Modal Jailbreak Attacks?**|Shuo Chen et.al.|[2404.03411v1](http://arxiv.org/abs/2404.03411v1)|null|
 |**2024-04-04**|**Sparse Concept Bottleneck Models: Gumbel Tricks in Contrastive Learning**|Andrei Semenov et.al.|[2404.03323v1](http://arxiv.org/abs/2404.03323v1)|**[link](https://github.com/andron00e/sparsecbm)**|
@@ -2978,6 +2988,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940v1](http://arxiv.org/abs/2404.03940v1)|null|
 |**2024-03-10**|**RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation**|Mathieu Labbé et.al.|[2403.06341v1](http://arxiv.org/abs/2403.06341v1)|null|
 |**2024-03-07**|**mmPlace: Robust Place Recognition with Intermediate Frequency Signal of Low-cost Single-chip Millimeter Wave Radar**|Chengzhen Meng et.al.|[2403.04703v1](http://arxiv.org/abs/2403.04703v1)|null|
 |**2024-03-04**|**Map-aided annotation for pole base detection**|Benjamin Missaoui et.al.|[2403.01868v1](http://arxiv.org/abs/2403.01868v1)|null|
@@ -3235,7 +3246,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654v1](http://arxiv.org/abs/2404.03654v1)|null|
+|**2024-04-05**|**Robust Gaussian Splatting**|François Darmon et.al.|[2404.04211v1](http://arxiv.org/abs/2404.04211v1)|null|
+|**2024-04-04**|**SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer**|Zijie Wu et.al.|[2404.03736v1](http://arxiv.org/abs/2404.03736v1)|null|
+|**2024-04-07**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654v2](http://arxiv.org/abs/2404.03654v2)|null|
 |**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650v1](http://arxiv.org/abs/2404.03650v1)|null|
 |**2024-04-04**|**VF-NeRF: Viewshed Fields for Rigid NeRF Registration**|Leo Segre et.al.|[2404.03349v1](http://arxiv.org/abs/2404.03349v1)|null|
 |**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788v1](http://arxiv.org/abs/2404.02788v1)|null|
