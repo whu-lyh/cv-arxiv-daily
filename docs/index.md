@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.09
+## Updated on 2024.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-06**|**Evaluation and Optimization of Positional Accuracy for Maritime Positioning Systems**|Atilla Alpay Nalcaci et.al.|[2404.04593v1](http://arxiv.org/abs/2404.04593v1)|null|
+|**2024-04-06**|**Galaxy 3D Shape Recovery using Mixture Density Network**|Suk Yee Yong et.al.|[2404.04491v1](http://arxiv.org/abs/2404.04491v1)|**[link](https://github.com/kateharborne/SimSpin)**|
 |**2024-04-05**|**KRATOS: A large suite of N-body simulations to interpret the stellar kinematics of LMC-like discs**|Ó. Jiménez-Arranz et.al.|[2404.04061v1](http://arxiv.org/abs/2404.04061v1)|null|
 |**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940v1](http://arxiv.org/abs/2404.03940v1)|null|
 |**2024-03-18**|**IKSPARK: An Inverse Kinematics Solver using Semidefinite Relaxation and Rank Minimization**|Liangting Wu et.al.|[2403.12235v1](http://arxiv.org/abs/2403.12235v1)|null|
@@ -200,6 +202,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**CoReS: Orchestrating the Dance of Reasoning and Segmentation**|Xiaoyi Bao et.al.|[2404.05673v1](http://arxiv.org/abs/2404.05673v1)|null|
+|**2024-04-08**|**Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Trajectory Conditioning**|Jaewoo Jeong et.al.|[2404.05218v1](http://arxiv.org/abs/2404.05218v1)|**[link](https://github.com/jaewoo97/t2p)**|
+|**2024-04-08**|**SoundingActions: Learning How Actions Sound from Narrated Egocentric Videos**|Changan Chen et.al.|[2404.05206v1](http://arxiv.org/abs/2404.05206v1)|null|
+|**2024-04-08**|**Progressive Alignment with VLM-LLM Feature to Augment Defect Classification for the ASE Dataset**|Chih-Chung Hsu et.al.|[2404.05183v1](http://arxiv.org/abs/2404.05183v1)|null|
+|**2024-04-07**|**Chart What I Say: Exploring Cross-Modality Prompt Alignment in AI-Assisted Chart Authoring**|Nazar Ponochevnyi et.al.|[2404.05103v1](http://arxiv.org/abs/2404.05103v1)|null|
+|**2024-04-07**|**Facial Affective Behavior Analysis with Instruction Tuning**|Yifan Li et.al.|[2404.05052v1](http://arxiv.org/abs/2404.05052v1)|null|
+|**2024-04-07**|**FPL+: Filtered Pseudo Label-based Unsupervised Cross-Modality Adaptation for 3D Medical Image Segmentation**|Jianghao Wu et.al.|[2404.04971v1](http://arxiv.org/abs/2404.04971v1)|null|
+|**2024-04-07**|**MonoTAKD: Teaching Assistant Knowledge Distillation for Monocular 3D Object Detection**|Hou-I Liu et.al.|[2404.04910v1](http://arxiv.org/abs/2404.04910v1)|null|
+|**2024-04-07**|**Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs**|Yiqun Duan et.al.|[2404.04869v1](http://arxiv.org/abs/2404.04869v1)|null|
+|**2024-04-07**|**Contextual Chart Generation for Cyber Deception**|David D. Nguyen et.al.|[2404.04854v1](http://arxiv.org/abs/2404.04854v1)|null|
+|**2024-04-06**|**DifFUSER: Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation**|Duy-Tho Le et.al.|[2404.04629v1](http://arxiv.org/abs/2404.04629v1)|null|
+|**2024-04-06**|**Do We Really Need a Complex Agent System? Distill Embodied Agent into a Single Model**|Zhonghan Zhao et.al.|[2404.04619v1](http://arxiv.org/abs/2404.04619v1)|null|
+|**2024-04-09**|**Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction**|Jingyi Pan et.al.|[2404.04561v2](http://arxiv.org/abs/2404.04561v2)|null|
+|**2024-04-06**|**Soft-Prompting with Graph-of-Thought for Multi-modal Representation Learning**|Juncheng Yang et.al.|[2404.04538v1](http://arxiv.org/abs/2404.04538v1)|null|
+|**2024-04-06**|**JRDB-Social: A Multifaceted Robotic Dataset for Understanding of Context and Dynamics of Human Interactions Within Social Groups**|Simindokht Jahangard et.al.|[2404.04458v1](http://arxiv.org/abs/2404.04458v1)|null|
 |**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256v1](http://arxiv.org/abs/2404.04256v1)|null|
 |**2024-04-05**|**Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2)**|Michael Saxon et.al.|[2404.04251v1](http://arxiv.org/abs/2404.04251v1)|null|
 |**2024-04-05**|**Multi-modal perception for soft robotic interactions using generative models**|Enrico Donato et.al.|[2404.04220v1](http://arxiv.org/abs/2404.04220v1)|null|
@@ -3066,6 +3083,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-06**|**Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology**|Han Lei et.al.|[2404.04492v1](http://arxiv.org/abs/2404.04492v1)|null|
 |**2023-12-23**|**Versatile LiDAR-Inertial Odometry With SE (2) Constraints for Ground Vehicles**|Jiaying Chen et.al.|[2404.01584v1](http://arxiv.org/abs/2404.01584v1)|null|
 |**2024-03-26**|**Online Tree Reconstruction and Forest Inventory on a Mobile Robotic System**|Leonard Freißmuth et.al.|[2403.17622v1](http://arxiv.org/abs/2403.17622v1)|null|
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877v1](http://arxiv.org/abs/2403.06877v1)|null|
@@ -3246,6 +3264,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Stylizing Sparse-View 3D Scenes with Hierarchical Neural Representation**|Y. Wang et.al.|[2404.05236v1](http://arxiv.org/abs/2404.05236v1)|null|
+|**2024-04-08**|**StylizedGS: Controllable Stylization for 3D Gaussian Splatting**|Dingxi Zhang et.al.|[2404.05220v1](http://arxiv.org/abs/2404.05220v1)|null|
+|**2024-04-08**|**Semantic Flow: Learning Semantic Field of Dynamic Scenes from Monocular Videos**|Fengrui Tian et.al.|[2404.05163v1](http://arxiv.org/abs/2404.05163v1)|null|
+|**2024-04-07**|**CodecNeRF: Toward Fast Encoding and Decoding, Compact, and High-quality Novel-view Synthesis**|Gyeongjin Kang et.al.|[2404.04913v1](http://arxiv.org/abs/2404.04913v1)|null|
+|**2024-04-07**|**GauU-Scene V2: Expanse Lidar Image Dataset Shows Unreliable Geometric Reconstruction Using Gaussian Splatting and NeRF**|Butian Xiong et.al.|[2404.04880v1](http://arxiv.org/abs/2404.04880v1)|null|
+|**2024-04-07**|**NeRF2Points: Large-Scale Point Cloud Generation From Street Views' Radiance Field Optimization**|Peng Tu et.al.|[2404.04875v1](http://arxiv.org/abs/2404.04875v1)|null|
+|**2024-04-06**|**DATENeRF: Depth-Aware Text-based Editing of NeRFs**|Sara Rojas et.al.|[2404.04526v1](http://arxiv.org/abs/2404.04526v1)|null|
 |**2024-04-05**|**Robust Gaussian Splatting**|François Darmon et.al.|[2404.04211v1](http://arxiv.org/abs/2404.04211v1)|null|
 |**2024-04-04**|**SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer**|Zijie Wu et.al.|[2404.03736v1](http://arxiv.org/abs/2404.03736v1)|null|
 |**2024-04-07**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654v2](http://arxiv.org/abs/2404.03654v2)|null|
