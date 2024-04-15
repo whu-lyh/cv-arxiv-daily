@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -141,7 +141,7 @@
 |**2022-11-23**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v2](http://arxiv.org/abs/2210.01320v2)|null|
 |**2023-02-22**|**GANet: Goal Area Network for Motion Forecasting**|Mingkun Wang et.al.|[2209.09723v3](http://arxiv.org/abs/2209.09723v3)|**[link](https://github.com/kingwmk/ganet)**|
 
-<p align=right>(<a href=#Updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240415>back to top</a>)</p>
 
 ## Map fusion
 
@@ -211,12 +211,20 @@
 |**2019-03-14**|**AgriColMap: Aerial-Ground Collaborative 3D Mapping for Precision Farming**|Ciro Potena et.al.|[1810.00457v2](http://arxiv.org/abs/1810.00457v2)|null|
 |**2019-03-05**|**Efficient Constellation-Based Map-Merging for Semantic SLAM**|Kristoffer M. Frey et.al.|[1809.09646v2](http://arxiv.org/abs/1809.09646v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240415>back to top</a>)</p>
 
 ## MultiModality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-12**|**Generalized Contrastive Learning for Multi-Modal Retrieval and Ranking**|Tianyu Zhu et.al.|[2404.08535v1](http://arxiv.org/abs/2404.08535v1)|null|
+|**2024-04-12**|**Fuxi-DA: A Generalized Deep Learning Data Assimilation Framework for Assimilating Satellite Observations**|Xiaoze Xu et.al.|[2404.08522v1](http://arxiv.org/abs/2404.08522v1)|null|
+|**2024-04-12**|**MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**|Zhe Li et.al.|[2404.08406v1](http://arxiv.org/abs/2404.08406v1)|null|
+|**2024-04-12**|**Learning to Rebalance Multi-Modal Optimization by Adaptively Masking Subnetworks**|Yang Yang et.al.|[2404.08347v1](http://arxiv.org/abs/2404.08347v1)|null|
+|**2024-04-12**|**Calibration & Reconstruction: Deep Integrated Language for Referring Image Segmentation**|Yichen Yan et.al.|[2404.08281v1](http://arxiv.org/abs/2404.08281v1)|null|
+|**2024-04-12**|**Enhancing Traffic Safety with Parallel Dense Video Captioning for End-to-End Event Analysis**|Maged Shoman et.al.|[2404.08229v1](http://arxiv.org/abs/2404.08229v1)|null|
+|**2024-04-11**|**SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction**|Ying Chen et.al.|[2404.08027v1](http://arxiv.org/abs/2404.08027v1)|null|
+|**2024-04-11**|**Pathology-genomic fusion via biologically informed cross-modality graph learning for survival analysis**|Zeyu Zhang et.al.|[2404.08023v1](http://arxiv.org/abs/2404.08023v1)|null|
 |**2024-04-11**|**Parameter Hierarchical Optimization for Visible-Infrared Person Re-Identification**|Zeng YU et.al.|[2404.07930v1](http://arxiv.org/abs/2404.07930v1)|null|
 |**2024-04-11**|**PRAM: Place Recognition Anywhere Model for Efficient Visual Localization**|Fei Xue et.al.|[2404.07785v1](http://arxiv.org/abs/2404.07785v1)|null|
 |**2024-04-11**|**Sketch-Plan-Generalize: Continual Few-Shot Learning of Inductively Generalizable Spatial Concepts for Language-Guided Robot Manipulation**|Namasivayam Kalithasan et.al.|[2404.07774v1](http://arxiv.org/abs/2404.07774v1)|null|
@@ -3022,7 +3030,7 @@
 |**2023-02-13**|**CLIP-RR: Improved CLIP Network for Relation-Focused Cross-Modal Information Retrieval**|Yan Gong et.al.|[2302.06350v1](http://arxiv.org/abs/2302.06350v1)|null|
 |**2023-02-13**|**CoMAE: Single Model Hybrid Pre-training on Small-Scale RGB-D Datasets**|Jiange Yang et.al.|[2302.06148v1](http://arxiv.org/abs/2302.06148v1)|**[link](https://github.com/mcg-nju/comae)**|
 
-<p align=right>(<a href=#Updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240415>back to top</a>)</p>
 
 ## Point Cloud Localization
 
@@ -3040,13 +3048,13 @@
 |**2018-04-03**|**Mining Point Cloud Local Structures by Kernel Correlation and Graph Pooling**|Yiru Shen et.al.|[1712.06760v2](http://arxiv.org/abs/1712.06760v2)|null|
 |**2017-02-14**|**Graph Based Over-Segmentation Methods for 3D Point Clouds**|Yizhak Ben-Shabat et.al.|[1702.04114v1](http://arxiv.org/abs/1702.04114v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240415>back to top</a>)</p>
 
 ## Place Recognization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v1](http://arxiv.org/abs/2404.07644v1)|null|
+|**2024-04-12**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v2](http://arxiv.org/abs/2404.07644v2)|**[link](https://github.com/littledang/2dliw-slam)**|
 |**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940v1](http://arxiv.org/abs/2404.03940v1)|null|
 |**2024-03-10**|**RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation**|Mathieu Labbé et.al.|[2403.06341v1](http://arxiv.org/abs/2403.06341v1)|null|
 |**2024-03-07**|**mmPlace: Robust Place Recognition with Intermediate Frequency Signal of Low-cost Single-chip Millimeter Wave Radar**|Chengzhen Meng et.al.|[2403.04703v1](http://arxiv.org/abs/2403.04703v1)|null|
@@ -3121,13 +3129,13 @@
 |**2021-05-24**|**OverlapNet: Loop Closing for LiDAR-based SLAM**|Xieyuanli Chen et.al.|[2105.11344v1](http://arxiv.org/abs/2105.11344v1)|**[link](https://github.com/PRBonn/OverlapNet)**|
 |**2021-03-23**|**NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation**|Zhicheng Zhou et.al.|[2103.12292v1](http://arxiv.org/abs/2103.12292v1)|**[link](https://github.com/dachengxiaocheng/NDT-Transformer)**|
 
-<p align=right>(<a href=#Updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240415>back to top</a>)</p>
 
 ## LiDAR SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v1](http://arxiv.org/abs/2404.07644v1)|null|
+|**2024-04-12**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v2](http://arxiv.org/abs/2404.07644v2)|**[link](https://github.com/littledang/2dliw-slam)**|
 |**2024-04-06**|**Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology**|Han Lei et.al.|[2404.04492v1](http://arxiv.org/abs/2404.04492v1)|null|
 |**2023-12-23**|**Versatile LiDAR-Inertial Odometry With SE (2) Constraints for Ground Vehicles**|Jiaying Chen et.al.|[2404.01584v1](http://arxiv.org/abs/2404.01584v1)|null|
 |**2024-03-26**|**Online Tree Reconstruction and Forest Inventory on a Mobile Robotic System**|Leonard Freißmuth et.al.|[2403.17622v1](http://arxiv.org/abs/2403.17622v1)|null|
@@ -3199,7 +3207,7 @@
 |**2020-08-09**|**LiDAR Data Enrichment Using Deep Learning Based on High-Resolution Image: An Approach to Achieve High-Performance LiDAR SLAM Using Low-cost LiDAR**|Jiang Yue et.al.|[2008.03694v1](http://arxiv.org/abs/2008.03694v1)|null|
 |**2020-08-05**|**Elasticity Meets Continuous-Time: Map-Centric Dense 3D LiDAR SLAM**|Chanoh Park et.al.|[2008.02274v1](http://arxiv.org/abs/2008.02274v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240415>back to top</a>)</p>
 
 ## Transformer
 
@@ -3307,20 +3315,23 @@
 |**2021-10-14**|**Investigating Attention Mechanism in 3D Point Cloud Object Detection**|Shi Qiu et.al.|[2108.00620v2](http://arxiv.org/abs/2108.00620v2)|**[link](https://github.com/ShiQiu0419/attentions_in_3D_detection)**|
 |**2021-07-29**|**Reduction of balance laws in (3+1)--dimensions to autonomous conservation laws by means of equivalence transformations**|Matteo Gorgone et.al.|[2107.14144v1](http://arxiv.org/abs/2107.14144v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240415>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-12**|**OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering**|Jingrui Ye et.al.|[2404.08449v1](http://arxiv.org/abs/2404.08449v1)|null|
+|**2024-04-12**|**GPN: Generative Point-based NeRF**|Haipeng Wang et.al.|[2404.08312v1](http://arxiv.org/abs/2404.08312v1)|null|
+|**2024-04-12**|**MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance**|Yuqun Wu et.al.|[2404.08252v1](http://arxiv.org/abs/2404.08252v1)|null|
 |**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993v1](http://arxiv.org/abs/2404.07993v1)|null|
-|**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933v1](http://arxiv.org/abs/2404.07933v1)|null|
-|**2024-04-11**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762v1](http://arxiv.org/abs/2404.07762v1)|**[link](https://github.com/wljungbergh/neuroncap)**|
+|**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933v1](http://arxiv.org/abs/2404.07933v1)|**[link](https://github.com/keonhee-han/KDBTS)**|
+|**2024-04-12**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762v2](http://arxiv.org/abs/2404.07762v2)|**[link](https://github.com/wljungbergh/neuroncap)**|
 |**2024-04-11**|**G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images**|Zixiong Huang et.al.|[2404.07474v1](http://arxiv.org/abs/2404.07474v1)|null|
 |**2024-04-10**|**SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection**|Mathis Kruse et.al.|[2404.06832v1](http://arxiv.org/abs/2404.06832v1)|**[link](https://github.com/m-kruse98/splatpose)**|
 |**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li et.al.|[2404.06753v1](http://arxiv.org/abs/2404.06753v1)|null|
 |**2024-04-10**|**Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**|Sibeak Lee et.al.|[2404.06727v1](http://arxiv.org/abs/2404.06727v1)|**[link](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)**|
-|**2024-04-11**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710v2](http://arxiv.org/abs/2404.06710v2)|null|
+|**2024-04-12**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710v3](http://arxiv.org/abs/2404.06710v3)|null|
 |**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429v1](http://arxiv.org/abs/2404.06429v1)|null|
 |**2024-04-09**|**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**|Zhicheng Lu et.al.|[2404.06270v1](http://arxiv.org/abs/2404.06270v1)|null|
 |**2024-04-09**|**GHNeRF: Learning Generalizable Human Features with Efficient Neural Radiance Fields**|Arnab Dey et.al.|[2404.06246v1](http://arxiv.org/abs/2404.06246v1)|null|
@@ -4153,7 +4164,7 @@
 |**2022-12-08**|**GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields**|Alessandro Ruzzi et.al.|[2212.04823v1](http://arxiv.org/abs/2212.04823v1)|**[link](https://github.com/alessandroruzzi/gazenerf)**|
 |**2022-12-09**|**4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**|Zhongshu Wang et.al.|[2212.04701v1](http://arxiv.org/abs/2212.04701v1)|**[link](https://github.com/frozoul/4k-nerf)**|
 
-<p align=right>(<a href=#Updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240415>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
