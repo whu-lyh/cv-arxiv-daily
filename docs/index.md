@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.16
+## Updated on 2024.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -203,6 +203,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**XoFTR: Cross-modal Feature Matching Transformer**|Önder Tuzcuoğlu et.al.|[2404.09692v1](http://arxiv.org/abs/2404.09692v1)|null|
+|**2024-04-16**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640v2](http://arxiv.org/abs/2404.09640v2)|**[link](https://github.com/JethroJames/CREST)**|
+|**2024-04-15**|**Bridging Vision and Language Spaces with Assignment Prediction**|Jungin Park et.al.|[2404.09632v1](http://arxiv.org/abs/2404.09632v1)|**[link](https://github.com/park-jungin/vlap)**|
+|**2024-04-15**|**AesExpert: Towards Multi-modality Foundation Model for Image Aesthetics Perception**|Yipo Huang et.al.|[2404.09624v1](http://arxiv.org/abs/2404.09624v1)|**[link](https://github.com/yipoh/aesexpert)**|
+|**2024-04-15**|**UNIAA: A Unified Multi-modal Image Aesthetic Assessment Baseline and Benchmark**|Zhaokun Zhou et.al.|[2404.09619v1](http://arxiv.org/abs/2404.09619v1)|null|
+|**2024-04-15**|**State Space Model for New-Generation Network Alternative to Transformers: A Survey**|Xiao Wang et.al.|[2404.09516v1](http://arxiv.org/abs/2404.09516v1)|**[link](https://github.com/event-ahu/mamba_state_space_model_paper_list)**|
+|**2024-04-15**|**Learning Human Motion from Monocular Videos via Cross-Modal Manifold Alignment**|Shuaiying Hou et.al.|[2404.09499v1](http://arxiv.org/abs/2404.09499v1)|null|
+|**2024-04-15**|**FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**|Xinyu Xie et.al.|[2404.09498v1](http://arxiv.org/abs/2404.09498v1)|null|
+|**2024-04-15**|**MMCode: Evaluating Multi-Modal Code Large Language Models with Visually Rich Programming Problems**|Kaixin Li et.al.|[2404.09486v1](http://arxiv.org/abs/2404.09486v1)|**[link](https://github.com/happylkx/mmcode)**|
+|**2024-04-15**|**MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2404.09468v1](http://arxiv.org/abs/2404.09468v1)|**[link](https://github.com/zjukg/mygo)**|
+|**2024-04-15**|**RankCLIP: Ranking-Consistent Language-Image Pretraining**|Yiming Zhang et.al.|[2404.09387v1](http://arxiv.org/abs/2404.09387v1)|null|
+|**2024-04-14**|**TrafficVLM: A Controllable Visual Language Model for Traffic Video Captioning**|Quang Minh Dinh et.al.|[2404.09275v1](http://arxiv.org/abs/2404.09275v1)|**[link](https://github.com/quangminhdinh/trafficvlm)**|
+|**2024-04-14**|**FaceCat: Enhancing Face Recognition Security with a Unified Generative Model Framework**|Jiawei Chen et.al.|[2404.09193v1](http://arxiv.org/abs/2404.09193v1)|null|
+|**2024-04-14**|**Fusion-Mamba for Cross-modality Object Detection**|Wenhao Dong et.al.|[2404.09146v1](http://arxiv.org/abs/2404.09146v1)|null|
+|**2024-04-13**|**MMA-DFER: MultiModal Adaptation of unimodal models for Dynamic Facial Expression Recognition in-the-wild**|Kateryna Chumachenko et.al.|[2404.09010v1](http://arxiv.org/abs/2404.09010v1)|null|
 |**2024-04-12**|**Generalized Contrastive Learning for Multi-Modal Retrieval and Ranking**|Tianyu Zhu et.al.|[2404.08535v1](http://arxiv.org/abs/2404.08535v1)|null|
 |**2024-04-12**|**Fuxi-DA: A Generalized Deep Learning Data Assimilation Framework for Assimilating Satellite Observations**|Xiaoze Xu et.al.|[2404.08522v1](http://arxiv.org/abs/2404.08522v1)|null|
 |**2024-04-12**|**MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**|Zhe Li et.al.|[2404.08406v1](http://arxiv.org/abs/2404.08406v1)|null|
@@ -3036,7 +3051,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-12**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v2](http://arxiv.org/abs/2404.07644v2)|**[link](https://github.com/littledang/2dliw-slam)**|
+|**2024-04-16**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v4](http://arxiv.org/abs/2404.07644v4)|**[link](https://github.com/littledang/2dliw-slam)**|
 |**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940v1](http://arxiv.org/abs/2404.03940v1)|null|
 |**2024-03-10**|**RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation**|Mathieu Labbé et.al.|[2403.06341v1](http://arxiv.org/abs/2403.06341v1)|null|
 |**2024-03-07**|**mmPlace: Robust Place Recognition with Intermediate Frequency Signal of Low-cost Single-chip Millimeter Wave Radar**|Chengzhen Meng et.al.|[2403.04703v1](http://arxiv.org/abs/2403.04703v1)|null|
@@ -3115,7 +3130,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-12**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v2](http://arxiv.org/abs/2404.07644v2)|**[link](https://github.com/littledang/2dliw-slam)**|
+|**2024-04-16**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v4](http://arxiv.org/abs/2404.07644v4)|**[link](https://github.com/littledang/2dliw-slam)**|
 |**2024-04-06**|**Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology**|Han Lei et.al.|[2404.04492v1](http://arxiv.org/abs/2404.04492v1)|null|
 |**2023-12-23**|**Versatile LiDAR-Inertial Odometry With SE (2) Constraints for Ground Vehicles**|Jiaying Chen et.al.|[2404.01584v1](http://arxiv.org/abs/2404.01584v1)|null|
 |**2024-03-26**|**Online Tree Reconstruction and Forest Inventory on a Mobile Robotic System**|Leonard Freißmuth et.al.|[2403.17622v1](http://arxiv.org/abs/2403.17622v1)|null|
@@ -3297,8 +3312,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-12**|**OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering**|Jingrui Ye et.al.|[2404.08449v1](http://arxiv.org/abs/2404.08449v1)|null|
-|**2024-04-12**|**GPN: Generative Point-based NeRF**|Haipeng Wang et.al.|[2404.08312v1](http://arxiv.org/abs/2404.08312v1)|null|
+|**2024-04-15**|**DeferredGS: Decoupled and Editable Gaussian Splatting with Deferred Shading**|Tong Wu et.al.|[2404.09412v1](http://arxiv.org/abs/2404.09412v1)|null|
+|**2024-04-14**|**VRS-NeRF: Visual Relocalization with Sparse Neural Radiance Field**|Fei Xue et.al.|[2404.09271v1](http://arxiv.org/abs/2404.09271v1)|**[link](https://github.com/feixue94/vrs-nerf)**|
+|**2024-04-15**|**OccGaussian: 3D Gaussian Splatting for Occluded Human Rendering**|Jingrui Ye et.al.|[2404.08449v2](http://arxiv.org/abs/2404.08449v2)|null|
+|**2024-04-12**|**GPN: Generative Point-based NeRF**|Haipeng Wang et.al.|[2404.08312v1](http://arxiv.org/abs/2404.08312v1)|**[link](https://github.com/forestsen/GPN)**|
 |**2024-04-12**|**MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance**|Yuqun Wu et.al.|[2404.08252v1](http://arxiv.org/abs/2404.08252v1)|null|
 |**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993v1](http://arxiv.org/abs/2404.07993v1)|null|
 |**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933v1](http://arxiv.org/abs/2404.07933v1)|**[link](https://github.com/keonhee-han/KDBTS)**|
@@ -3309,7 +3326,7 @@ layout: default
 |**2024-04-10**|**Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**|Sibeak Lee et.al.|[2404.06727v1](http://arxiv.org/abs/2404.06727v1)|**[link](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)**|
 |**2024-04-12**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710v3](http://arxiv.org/abs/2404.06710v3)|null|
 |**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429v1](http://arxiv.org/abs/2404.06429v1)|null|
-|**2024-04-09**|**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**|Zhicheng Lu et.al.|[2404.06270v1](http://arxiv.org/abs/2404.06270v1)|null|
+|**2024-04-14**|**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**|Zhicheng Lu et.al.|[2404.06270v2](http://arxiv.org/abs/2404.06270v2)|null|
 |**2024-04-09**|**GHNeRF: Learning Generalizable Human Features with Efficient Neural Radiance Fields**|Arnab Dey et.al.|[2404.06246v1](http://arxiv.org/abs/2404.06246v1)|null|
 |**2024-04-09**|**HFNeRF: Learning Human Biomechanic Features with Neural Radiance Fields**|Arnab Dey et.al.|[2404.06152v1](http://arxiv.org/abs/2404.06152v1)|null|
 |**2024-04-08**|**Stylizing Sparse-View 3D Scenes with Hierarchical Neural Representation**|Y. Wang et.al.|[2404.05236v1](http://arxiv.org/abs/2404.05236v1)|null|
