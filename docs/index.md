@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.18
+## Updated on 2024.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -204,6 +204,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**Interaction Techniques for Exploratory Data Visualization on Mobile Devices**|Luke S. Snyder et.al.|[2404.11602v1](http://arxiv.org/abs/2404.11602v1)|null|
+|**2024-04-17**|**Predicting Long-horizon Futures by Conditioning on Geometry and Time**|Tarasha Khurana et.al.|[2404.11554v1](http://arxiv.org/abs/2404.11554v1)|null|
+|**2024-04-17**|**Paraphrase and Solve: Exploring and Exploiting the Impact of Surface Form on Mathematical Reasoning in Large Language Models**|Yue Zhou et.al.|[2404.11500v1](http://arxiv.org/abs/2404.11500v1)|**[link](https://github.com/yue-llm-pit/scop)**|
+|**2024-04-17**|**Multi-modalities and non-commutativity/associativity in functorial linear logic: a case study**|Carlos Olarte et.al.|[2404.11445v1](http://arxiv.org/abs/2404.11445v1)|null|
+|**2024-04-17**|**Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**|Zhangchi Feng et.al.|[2404.11317v1](http://arxiv.org/abs/2404.11317v1)|null|
+|**2024-04-17**|**Image Generative Semantic Communication with Multi-Modal Similarity Estimation for Resource-Limited Networks**|Eri Hosonuma et.al.|[2404.11280v1](http://arxiv.org/abs/2404.11280v1)|null|
+|**2024-04-17**|**MMCBE: Multi-modality Dataset for Crop Biomass Estimation and Beyond**|Xuesong Li et.al.|[2404.11256v1](http://arxiv.org/abs/2404.11256v1)|**[link](https://github.com/benzlxs/mmcbe)**|
+|**2024-04-17**|**A Progressive Framework of Vision-language Knowledge Distillation and Alignment for Multilingual Scene**|Wenbo Zhang et.al.|[2404.11249v1](http://arxiv.org/abs/2404.11249v1)|null|
+|**2024-04-17**|**Exploring the Transferability of Visual Prompting for Multimodal Large Language Models**|Yichi Zhang et.al.|[2404.11207v1](http://arxiv.org/abs/2404.11207v1)|**[link](https://github.com/zycheiheihei/transferable-visual-prompting)**|
+|**2024-04-17**|**AKGNet: Attribute Knowledge-Guided Unsupervised Lung-Infected Area Segmentation**|Qing En et.al.|[2404.11008v1](http://arxiv.org/abs/2404.11008v1)|null|
+|**2024-04-16**|**Multi-Task Multi-Modal Self-Supervised Learning for Facial Expression Recognition**|Marah Halawa et.al.|[2404.10904v1](http://arxiv.org/abs/2404.10904v1)|**[link](https://github.com/tub-cv-group/conclugen)**|
+|**2024-04-16**|**Dynamic Self-adaptive Multiscale Distillation from Pre-trained Multimodal Large Model for Efficient Cross-modal Representation Learning**|Zhengyang Liang et.al.|[2404.10838v1](http://arxiv.org/abs/2404.10838v1)|null|
 |**2024-04-16**|**Retrieval Augmented Verification : Unveiling Disinformation with Structured Representations for Zero-Shot Real-Time Evidence-guided Fact-Checking of Multi-modal Social media posts**|Arka Ujjal Dey et.al.|[2404.10702v1](http://arxiv.org/abs/2404.10702v1)|null|
 |**2024-04-16**|**Vivo : une approche multimodale de la synthese concatenative par corpus dans le cadre d'une oeuvre audiovisuelle immersive**|Mateo Fayet et.al.|[2404.10578v1](http://arxiv.org/abs/2404.10578v1)|null|
 |**2024-04-16**|**Self-Supervised Visual Preference Alignment**|Ke Zhu et.al.|[2404.10501v1](http://arxiv.org/abs/2404.10501v1)|null|
@@ -3328,6 +3340,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping**|Vincent Cartillier et.al.|[2404.11419v1](http://arxiv.org/abs/2404.11419v1)|null|
 |**2024-04-16**|**Gaussian Splatting Decoder for 3D-aware Generative Adversarial Networks**|Florian Barthel et.al.|[2404.10625v1](http://arxiv.org/abs/2404.10625v1)|null|
 |**2024-04-16**|**Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences**|Seungwook Kim et.al.|[2404.10603v1](http://arxiv.org/abs/2404.10603v1)|null|
 |**2024-04-16**|**1st Place Solution for ICCV 2023 OmniObject3D Challenge: Sparse-View Reconstruction**|Hang Du et.al.|[2404.10441v1](http://arxiv.org/abs/2404.10441v1)|null|
