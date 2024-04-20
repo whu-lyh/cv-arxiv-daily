@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.19
+## Updated on 2024.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -204,6 +204,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**From $r$ to $Q^*$ : Your Language Model is Secretly a Q-Function**|Rafael Rafailov et.al.|[2404.12358v1](http://arxiv.org/abs/2404.12358v1)|null|
+|**2024-04-18**|**Towards a Foundation Model for Partial Differential Equation: Multi-Operator Learning and Extrapolation**|Jingmin Sun et.al.|[2404.12355v1](http://arxiv.org/abs/2404.12355v1)|null|
+|**2024-04-18**|**V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning**|Hang Hua et.al.|[2404.12353v1](http://arxiv.org/abs/2404.12353v1)|null|
+|**2024-04-18**|**Performance Evaluation of Segment Anything Model with Variational Prompting for Application to Non-Visible Spectrum Imagery**|Yona Falinie A. Gaus et.al.|[2404.12285v1](http://arxiv.org/abs/2404.12285v1)|null|
+|**2024-04-18**|**ProTA: Probabilistic Token Aggregation for Text-Video Retrieval**|Han Fang et.al.|[2404.12216v1](http://arxiv.org/abs/2404.12216v1)|null|
+|**2024-04-18**|**Aligning Actions and Walking to LLM-Generated Textual Descriptions**|Radu Chivereanu et.al.|[2404.12192v1](http://arxiv.org/abs/2404.12192v1)|**[link](https://github.com/radu1999/walkandtext)**|
+|**2024-04-18**|**Self-Adjusting Evolutionary Algorithms Are Slow on Multimodal Landscapes**|Johannes Lengler et.al.|[2404.12047v1](http://arxiv.org/abs/2404.12047v1)|**[link](https://github.com/kosturm/eas-on-distorted-onemax)**|
+|**2024-04-18**|**Look, Listen, and Answer: Overcoming Biases for Audio-Visual Question Answering**|Jie Ma et.al.|[2404.12020v1](http://arxiv.org/abs/2404.12020v1)|null|
+|**2024-04-18**|**Variational Multi-Modal Hypergraph Attention Network for Multi-Modal Relation Extraction**|Qian Li et.al.|[2404.12006v1](http://arxiv.org/abs/2404.12006v1)|null|
+|**2024-04-18**|**The Emerging AI Divide in the United States**|Madeleine I. G. Daepp et.al.|[2404.11988v1](http://arxiv.org/abs/2404.11988v1)|null|
+|**2024-04-18**|**HyDiscGAN: A Hybrid Distributed cGAN for Audio-Visual Privacy Preservation in Multimodal Sentiment Analysis**|Zhuojia Wu et.al.|[2404.11938v1](http://arxiv.org/abs/2404.11938v1)|null|
+|**2024-04-18**|**From Image to Video, what do we need in multimodal LLMs?**|Suyuan Huang et.al.|[2404.11865v1](http://arxiv.org/abs/2404.11865v1)|null|
+|**2024-04-18**|**Progressive Multi-modal Conditional Prompt Tuning**|Xiaoyu Qiu et.al.|[2404.11864v1](http://arxiv.org/abs/2404.11864v1)|null|
+|**2024-04-18**|**Cross-model Mutual Learning for Exemplar-based Medical Image Segmentation**|Qing En et.al.|[2404.11812v1](http://arxiv.org/abs/2404.11812v1)|null|
+|**2024-04-17**|**Retrieval-Augmented Embodied Agents**|Yichen Zhu et.al.|[2404.11699v1](http://arxiv.org/abs/2404.11699v1)|null|
 |**2024-04-17**|**Interaction Techniques for Exploratory Data Visualization on Mobile Devices**|Luke S. Snyder et.al.|[2404.11602v1](http://arxiv.org/abs/2404.11602v1)|null|
 |**2024-04-17**|**Predicting Long-horizon Futures by Conditioning on Geometry and Time**|Tarasha Khurana et.al.|[2404.11554v1](http://arxiv.org/abs/2404.11554v1)|null|
 |**2024-04-17**|**Paraphrase and Solve: Exploring and Exploiting the Impact of Surface Form on Mathematical Reasoning in Large Language Models**|Yue Zhou et.al.|[2404.11500v1](http://arxiv.org/abs/2404.11500v1)|**[link](https://github.com/yue-llm-pit/scop)**|
@@ -3340,6 +3355,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**MeshLRM: Large Reconstruction Model for High-Quality Mesh**|Xinyue Wei et.al.|[2404.12385v1](http://arxiv.org/abs/2404.12385v1)|null|
+|**2024-04-18**|**AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering**|Jingfeng Guo et.al.|[2404.11897v1](http://arxiv.org/abs/2404.11897v1)|null|
+|**2024-04-18**|**Cicero: Addressing Algorithmic and Architectural Bottlenecks in Neural Rendering by Radiance Warping and Memory Optimizations**|Yu Feng et.al.|[2404.11852v1](http://arxiv.org/abs/2404.11852v1)|null|
 |**2024-04-17**|**SLAIM: Robust Dense Neural SLAM for Online Tracking and Mapping**|Vincent Cartillier et.al.|[2404.11419v1](http://arxiv.org/abs/2404.11419v1)|null|
 |**2024-04-16**|**Gaussian Splatting Decoder for 3D-aware Generative Adversarial Networks**|Florian Barthel et.al.|[2404.10625v1](http://arxiv.org/abs/2404.10625v1)|null|
 |**2024-04-16**|**Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences**|Seungwook Kim et.al.|[2404.10603v1](http://arxiv.org/abs/2404.10603v1)|null|
