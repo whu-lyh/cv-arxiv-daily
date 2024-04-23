@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.22
+## Updated on 2024.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**RetailOpt: An Opt-In, Easy-to-Deploy Trajectory Estimation System Leveraging Smartphone Motion Data and Retail Facility Information**|Ryo Yonetani et.al.|[2404.12548v1](http://arxiv.org/abs/2404.12548v1)|null|
 |**2024-04-16**|**Stellar angular momentum of intermediate redshift galaxies in MUSE surveys**|Constanza Muñoz López et.al.|[2404.10533v1](http://arxiv.org/abs/2404.10533v1)|null|
 |**2024-04-10**|**Using Neural Networks to Model Hysteretic Kinematics in Tendon-Actuated Continuum Robots**|Yuan Wang et.al.|[2404.07168v1](http://arxiv.org/abs/2404.07168v1)|null|
 |**2024-04-06**|**Evaluation and Optimization of Positional Accuracy for Maritime Positioning Systems**|Atilla Alpay Nalcaci et.al.|[2404.04593v1](http://arxiv.org/abs/2404.04593v1)|null|
@@ -204,8 +205,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**LaPA: Latent Prompt Assist Model For Medical Visual Question Answering**|Tiancheng Gu et.al.|[2404.13039v1](http://arxiv.org/abs/2404.13039v1)|**[link](https://github.com/garygutc/lapa_model)**|
+|**2024-04-19**|**Cross-modal Diffusion Modelling for Super-resolved Spatial Transcriptomics**|Xiaofei Wang et.al.|[2404.12973v1](http://arxiv.org/abs/2404.12973v1)|null|
+|**2024-04-19**|**Eyes Can Deceive: Benchmarking Counterfactual Reasoning Abilities of Multi-modal Large Language Models**|Yian Li et.al.|[2404.12966v1](http://arxiv.org/abs/2404.12966v1)|null|
+|**2024-04-19**|**Foundation Model assisted Weakly Supervised LiDAR Semantic Segmentation**|Yilong Chen et.al.|[2404.12861v1](http://arxiv.org/abs/2404.12861v1)|null|
+|**2024-04-19**|**KoReA-SFL: Knowledge Replay-based Split Federated Learning Against Catastrophic Forgetting**|Zeke Xia et.al.|[2404.12846v1](http://arxiv.org/abs/2404.12846v1)|null|
+|**2024-04-19**|**Sentiment-oriented Transformer-based Variational Autoencoder Network for Live Video Commenting**|Fengyi Fu et.al.|[2404.12782v1](http://arxiv.org/abs/2404.12782v1)|**[link](https://github.com/fufy1024/so-tvae)**|
+|**2024-04-19**|**Separate in the Speech Chain: Cross-Modal Conditional Audio-Visual Target Speech Extraction**|Zhaoxi Mu et.al.|[2404.12725v1](http://arxiv.org/abs/2404.12725v1)|null|
+|**2024-04-19**|**Exploring Interactive Semantic Alignment for Efficient HOI Detection with Vision-language Model**|Jihao Dong et.al.|[2404.12678v1](http://arxiv.org/abs/2404.12678v1)|null|
+|**2024-04-19**|**Cooperative Sentiment Agents for Multimodal Sentiment Analysis**|Shanmin Wang et.al.|[2404.12642v1](http://arxiv.org/abs/2404.12642v1)|**[link](https://github.com/smwanghhh/co-sa)**|
+|**2024-04-19**|**Transformer-Based Classification Outcome Prediction for Multimodal Stroke Treatment**|Danqing Ma et.al.|[2404.12634v1](http://arxiv.org/abs/2404.12634v1)|null|
+|**2024-04-19**|**Cross-Modal Adapter: Parameter-Efficient Transfer Learning Approach for Vision-Language Models**|Juncheng Yang et.al.|[2404.12588v1](http://arxiv.org/abs/2404.12588v1)|null|
+|**2024-04-18**|**Towards Multi-modal Transformers in Federated Learning**|Guangyu Sun et.al.|[2404.12467v1](http://arxiv.org/abs/2404.12467v1)|null|
 |**2024-04-18**|**From $r$ to $Q^*$ : Your Language Model is Secretly a Q-Function**|Rafael Rafailov et.al.|[2404.12358v1](http://arxiv.org/abs/2404.12358v1)|null|
-|**2024-04-18**|**Towards a Foundation Model for Partial Differential Equation: Multi-Operator Learning and Extrapolation**|Jingmin Sun et.al.|[2404.12355v1](http://arxiv.org/abs/2404.12355v1)|**[link](https://github.com/felix-lyx/prose)**|
+|**2024-04-19**|**Towards a Foundation Model for Partial Differential Equations: Multi-Operator Learning and Extrapolation**|Jingmin Sun et.al.|[2404.12355v2](http://arxiv.org/abs/2404.12355v2)|**[link](https://github.com/felix-lyx/prose)**|
 |**2024-04-18**|**V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning**|Hang Hua et.al.|[2404.12353v1](http://arxiv.org/abs/2404.12353v1)|null|
 |**2024-04-18**|**Performance Evaluation of Segment Anything Model with Variational Prompting for Application to Non-Visible Spectrum Imagery**|Yona Falinie A. Gaus et.al.|[2404.12285v1](http://arxiv.org/abs/2404.12285v1)|null|
 |**2024-04-18**|**ProTA: Probabilistic Token Aggregation for Text-Video Retrieval**|Han Fang et.al.|[2404.12216v1](http://arxiv.org/abs/2404.12216v1)|null|
@@ -3355,6 +3368,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**FlyNeRF: NeRF-Based Aerial Mapping for High-Quality 3D Scene Reconstruction**|Maria Dronova et.al.|[2404.12970v1](http://arxiv.org/abs/2404.12970v1)|null|
+|**2024-04-18**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547v1](http://arxiv.org/abs/2404.12547v1)|null|
 |**2024-04-18**|**MeshLRM: Large Reconstruction Model for High-Quality Mesh**|Xinyue Wei et.al.|[2404.12385v1](http://arxiv.org/abs/2404.12385v1)|null|
 |**2024-04-18**|**AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering**|Jingfeng Guo et.al.|[2404.11897v1](http://arxiv.org/abs/2404.11897v1)|null|
 |**2024-04-18**|**Cicero: Addressing Algorithmic and Architectural Bottlenecks in Neural Rendering by Radiance Warping and Memory Optimizations**|Yu Feng et.al.|[2404.11852v1](http://arxiv.org/abs/2404.11852v1)|null|

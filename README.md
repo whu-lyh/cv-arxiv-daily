@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.22
+## Updated on 2024.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**RetailOpt: An Opt-In, Easy-to-Deploy Trajectory Estimation System Leveraging Smartphone Motion Data and Retail Facility Information**|Ryo Yonetani et.al.|[2404.12548v1](http://arxiv.org/abs/2404.12548v1)|null|
 |**2024-04-16**|**Stellar angular momentum of intermediate redshift galaxies in MUSE surveys**|Constanza Muñoz López et.al.|[2404.10533v1](http://arxiv.org/abs/2404.10533v1)|null|
 |**2024-04-10**|**Using Neural Networks to Model Hysteretic Kinematics in Tendon-Actuated Continuum Robots**|Yuan Wang et.al.|[2404.07168v1](http://arxiv.org/abs/2404.07168v1)|null|
 |**2024-04-06**|**Evaluation and Optimization of Positional Accuracy for Maritime Positioning Systems**|Atilla Alpay Nalcaci et.al.|[2404.04593v1](http://arxiv.org/abs/2404.04593v1)|null|
@@ -142,7 +143,7 @@
 |**2022-11-23**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v2](http://arxiv.org/abs/2210.01320v2)|null|
 |**2023-02-22**|**GANet: Goal Area Network for Motion Forecasting**|Mingkun Wang et.al.|[2209.09723v3](http://arxiv.org/abs/2209.09723v3)|**[link](https://github.com/kingwmk/ganet)**|
 
-<p align=right>(<a href=#Updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
 
 ## Map fusion
 
@@ -212,14 +213,26 @@
 |**2019-03-14**|**AgriColMap: Aerial-Ground Collaborative 3D Mapping for Precision Farming**|Ciro Potena et.al.|[1810.00457v2](http://arxiv.org/abs/1810.00457v2)|null|
 |**2019-03-05**|**Efficient Constellation-Based Map-Merging for Semantic SLAM**|Kristoffer M. Frey et.al.|[1809.09646v2](http://arxiv.org/abs/1809.09646v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
 
 ## MultiModality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**LaPA: Latent Prompt Assist Model For Medical Visual Question Answering**|Tiancheng Gu et.al.|[2404.13039v1](http://arxiv.org/abs/2404.13039v1)|**[link](https://github.com/garygutc/lapa_model)**|
+|**2024-04-19**|**Cross-modal Diffusion Modelling for Super-resolved Spatial Transcriptomics**|Xiaofei Wang et.al.|[2404.12973v1](http://arxiv.org/abs/2404.12973v1)|null|
+|**2024-04-19**|**Eyes Can Deceive: Benchmarking Counterfactual Reasoning Abilities of Multi-modal Large Language Models**|Yian Li et.al.|[2404.12966v1](http://arxiv.org/abs/2404.12966v1)|null|
+|**2024-04-19**|**Foundation Model assisted Weakly Supervised LiDAR Semantic Segmentation**|Yilong Chen et.al.|[2404.12861v1](http://arxiv.org/abs/2404.12861v1)|null|
+|**2024-04-19**|**KoReA-SFL: Knowledge Replay-based Split Federated Learning Against Catastrophic Forgetting**|Zeke Xia et.al.|[2404.12846v1](http://arxiv.org/abs/2404.12846v1)|null|
+|**2024-04-19**|**Sentiment-oriented Transformer-based Variational Autoencoder Network for Live Video Commenting**|Fengyi Fu et.al.|[2404.12782v1](http://arxiv.org/abs/2404.12782v1)|**[link](https://github.com/fufy1024/so-tvae)**|
+|**2024-04-19**|**Separate in the Speech Chain: Cross-Modal Conditional Audio-Visual Target Speech Extraction**|Zhaoxi Mu et.al.|[2404.12725v1](http://arxiv.org/abs/2404.12725v1)|null|
+|**2024-04-19**|**Exploring Interactive Semantic Alignment for Efficient HOI Detection with Vision-language Model**|Jihao Dong et.al.|[2404.12678v1](http://arxiv.org/abs/2404.12678v1)|null|
+|**2024-04-19**|**Cooperative Sentiment Agents for Multimodal Sentiment Analysis**|Shanmin Wang et.al.|[2404.12642v1](http://arxiv.org/abs/2404.12642v1)|**[link](https://github.com/smwanghhh/co-sa)**|
+|**2024-04-19**|**Transformer-Based Classification Outcome Prediction for Multimodal Stroke Treatment**|Danqing Ma et.al.|[2404.12634v1](http://arxiv.org/abs/2404.12634v1)|null|
+|**2024-04-19**|**Cross-Modal Adapter: Parameter-Efficient Transfer Learning Approach for Vision-Language Models**|Juncheng Yang et.al.|[2404.12588v1](http://arxiv.org/abs/2404.12588v1)|null|
+|**2024-04-18**|**Towards Multi-modal Transformers in Federated Learning**|Guangyu Sun et.al.|[2404.12467v1](http://arxiv.org/abs/2404.12467v1)|null|
 |**2024-04-18**|**From $r$ to $Q^*$ : Your Language Model is Secretly a Q-Function**|Rafael Rafailov et.al.|[2404.12358v1](http://arxiv.org/abs/2404.12358v1)|null|
-|**2024-04-18**|**Towards a Foundation Model for Partial Differential Equation: Multi-Operator Learning and Extrapolation**|Jingmin Sun et.al.|[2404.12355v1](http://arxiv.org/abs/2404.12355v1)|**[link](https://github.com/felix-lyx/prose)**|
+|**2024-04-19**|**Towards a Foundation Model for Partial Differential Equations: Multi-Operator Learning and Extrapolation**|Jingmin Sun et.al.|[2404.12355v2](http://arxiv.org/abs/2404.12355v2)|**[link](https://github.com/felix-lyx/prose)**|
 |**2024-04-18**|**V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning**|Hang Hua et.al.|[2404.12353v1](http://arxiv.org/abs/2404.12353v1)|null|
 |**2024-04-18**|**Performance Evaluation of Segment Anything Model with Variational Prompting for Application to Non-Visible Spectrum Imagery**|Yona Falinie A. Gaus et.al.|[2404.12285v1](http://arxiv.org/abs/2404.12285v1)|null|
 |**2024-04-18**|**ProTA: Probabilistic Token Aggregation for Text-Video Retrieval**|Han Fang et.al.|[2404.12216v1](http://arxiv.org/abs/2404.12216v1)|null|
@@ -3088,7 +3101,7 @@
 |**2023-02-13**|**CLIP-RR: Improved CLIP Network for Relation-Focused Cross-Modal Information Retrieval**|Yan Gong et.al.|[2302.06350v1](http://arxiv.org/abs/2302.06350v1)|null|
 |**2023-02-13**|**CoMAE: Single Model Hybrid Pre-training on Small-Scale RGB-D Datasets**|Jiange Yang et.al.|[2302.06148v1](http://arxiv.org/abs/2302.06148v1)|**[link](https://github.com/mcg-nju/comae)**|
 
-<p align=right>(<a href=#Updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
 
 ## Point Cloud Localization
 
@@ -3106,7 +3119,7 @@
 |**2018-04-03**|**Mining Point Cloud Local Structures by Kernel Correlation and Graph Pooling**|Yiru Shen et.al.|[1712.06760v2](http://arxiv.org/abs/1712.06760v2)|null|
 |**2017-02-14**|**Graph Based Over-Segmentation Methods for 3D Point Clouds**|Yizhak Ben-Shabat et.al.|[1702.04114v1](http://arxiv.org/abs/1702.04114v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
 
 ## Place Recognization
 
@@ -3187,7 +3200,7 @@
 |**2021-05-24**|**OverlapNet: Loop Closing for LiDAR-based SLAM**|Xieyuanli Chen et.al.|[2105.11344v1](http://arxiv.org/abs/2105.11344v1)|**[link](https://github.com/PRBonn/OverlapNet)**|
 |**2021-03-23**|**NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation**|Zhicheng Zhou et.al.|[2103.12292v1](http://arxiv.org/abs/2103.12292v1)|**[link](https://github.com/dachengxiaocheng/NDT-Transformer)**|
 
-<p align=right>(<a href=#Updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
 
 ## LiDAR SLAM
 
@@ -3265,7 +3278,7 @@
 |**2020-08-09**|**LiDAR Data Enrichment Using Deep Learning Based on High-Resolution Image: An Approach to Achieve High-Performance LiDAR SLAM Using Low-cost LiDAR**|Jiang Yue et.al.|[2008.03694v1](http://arxiv.org/abs/2008.03694v1)|null|
 |**2020-08-05**|**Elasticity Meets Continuous-Time: Map-Centric Dense 3D LiDAR SLAM**|Chanoh Park et.al.|[2008.02274v1](http://arxiv.org/abs/2008.02274v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
 
 ## Transformer
 
@@ -3373,12 +3386,14 @@
 |**2021-10-14**|**Investigating Attention Mechanism in 3D Point Cloud Object Detection**|Shi Qiu et.al.|[2108.00620v2](http://arxiv.org/abs/2108.00620v2)|**[link](https://github.com/ShiQiu0419/attentions_in_3D_detection)**|
 |**2021-07-29**|**Reduction of balance laws in (3+1)--dimensions to autonomous conservation laws by means of equivalence transformations**|Matteo Gorgone et.al.|[2107.14144v1](http://arxiv.org/abs/2107.14144v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**FlyNeRF: NeRF-Based Aerial Mapping for High-Quality 3D Scene Reconstruction**|Maria Dronova et.al.|[2404.12970v1](http://arxiv.org/abs/2404.12970v1)|null|
+|**2024-04-18**|**Does Gaussian Splatting need SFM Initialization?**|Yalda Foroutan et.al.|[2404.12547v1](http://arxiv.org/abs/2404.12547v1)|null|
 |**2024-04-18**|**MeshLRM: Large Reconstruction Model for High-Quality Mesh**|Xinyue Wei et.al.|[2404.12385v1](http://arxiv.org/abs/2404.12385v1)|null|
 |**2024-04-18**|**AG-NeRF: Attention-guided Neural Radiance Fields for Multi-height Large-scale Outdoor Scene Rendering**|Jingfeng Guo et.al.|[2404.11897v1](http://arxiv.org/abs/2404.11897v1)|null|
 |**2024-04-18**|**Cicero: Addressing Algorithmic and Architectural Bottlenecks in Neural Rendering by Radiance Warping and Memory Optimizations**|Yu Feng et.al.|[2404.11852v1](http://arxiv.org/abs/2404.11852v1)|null|
@@ -4235,7 +4250,7 @@
 |**2022-12-08**|**GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields**|Alessandro Ruzzi et.al.|[2212.04823v1](http://arxiv.org/abs/2212.04823v1)|**[link](https://github.com/alessandroruzzi/gazenerf)**|
 |**2022-12-09**|**4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**|Zhongshu Wang et.al.|[2212.04701v1](http://arxiv.org/abs/2212.04701v1)|**[link](https://github.com/frozoul/4k-nerf)**|
 
-<p align=right>(<a href=#Updated-on-20240422>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
