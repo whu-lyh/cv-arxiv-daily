@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.28
+## Updated on 2024.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -143,7 +143,7 @@
 |**2022-11-23**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v2](http://arxiv.org/abs/2210.01320v2)|null|
 |**2023-02-22**|**GANet: Goal Area Network for Motion Forecasting**|Mingkun Wang et.al.|[2209.09723v3](http://arxiv.org/abs/2209.09723v3)|**[link](https://github.com/kingwmk/ganet)**|
 
-<p align=right>(<a href=#Updated-on-20240428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240429>back to top</a>)</p>
 
 ## Map fusion
 
@@ -214,7 +214,7 @@
 |**2019-03-14**|**AgriColMap: Aerial-Ground Collaborative 3D Mapping for Precision Farming**|Ciro Potena et.al.|[1810.00457v2](http://arxiv.org/abs/1810.00457v2)|null|
 |**2019-03-05**|**Efficient Constellation-Based Map-Merging for Semantic SLAM**|Kristoffer M. Frey et.al.|[1809.09646v2](http://arxiv.org/abs/1809.09646v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240429>back to top</a>)</p>
 
 ## MultiModality
 
@@ -224,16 +224,16 @@
 |**2024-04-25**|**Benchmarking Mobile Device Control Agents across Diverse Configurations**|Juyong Lee et.al.|[2404.16660v1](http://arxiv.org/abs/2404.16660v1)|null|
 |**2024-04-25**|**Zero-Shot Distillation for Image Encoders: How to Make Effective Use of Synthetic Data**|Niclas Popp et.al.|[2404.16637v1](http://arxiv.org/abs/2404.16637v1)|null|
 |**2024-04-25**|**Energy-Latency Manipulation of Multi-modal Large Language Models via Verbose Samples**|Kuofeng Gao et.al.|[2404.16557v1](http://arxiv.org/abs/2404.16557v1)|null|
-|**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302v1](http://arxiv.org/abs/2404.16302v1)|null|
+|**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302v1](http://arxiv.org/abs/2404.16302v1)|**[link](https://github.com/lhy-zjut/cfmw)**|
 |**2024-04-24**|**Fusion of Domain-Adapted Vision and Language Models for Medical Visual Question Answering**|Cuong Nhat Ha et.al.|[2404.16192v1](http://arxiv.org/abs/2404.16192v1)|null|
 |**2024-04-24**|**BeSound: Bluetooth-Based Position Estimation Enhancing with Cross-Modality Distillation**|Hymalai Bello et.al.|[2404.15999v1](http://arxiv.org/abs/2404.15999v1)|null|
 |**2024-04-24**|**Mammo-CLIP: Leveraging Contrastive Language-Image Pre-training (CLIP) for Enhanced Breast Cancer Diagnosis with Multi-view Mammography**|Xuxin Chen et.al.|[2404.15946v1](http://arxiv.org/abs/2404.15946v1)|null|
-|**2024-04-24**|**Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval**|Haokun Wen et.al.|[2404.15875v1](http://arxiv.org/abs/2404.15875v1)|null|
+|**2024-04-24**|**Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval**|Haokun Wen et.al.|[2404.15875v1](http://arxiv.org/abs/2404.15875v1)|**[link](https://github.com/haokunwen/dqu-cir)**|
 |**2024-04-25**|**HDBN: A Novel Hybrid Dual-branch Network for Robust Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2404.15719v2](http://arxiv.org/abs/2404.15719v2)|**[link](https://github.com/liujf69/icmew2024-track10)**|
 |**2024-04-24**|**Efficient Multi-Model Fusion with Adversarial Complementary Representation Learning**|Zuheng Kang et.al.|[2404.15704v1](http://arxiv.org/abs/2404.15704v1)|null|
 |**2024-04-24**|**Multi-Modal Proxy Learning Towards Personalized Visual Multiple Clustering**|Jiawei Yao et.al.|[2404.15655v1](http://arxiv.org/abs/2404.15655v1)|null|
 |**2024-04-24**|**HybridVC: Efficient Voice Style Conversion with Text and Audio Prompts**|Xinlei Niu et.al.|[2404.15637v1](http://arxiv.org/abs/2404.15637v1)|null|
-|**2024-04-23**|**BattleAgent: Multi-modal Dynamic Emulation on Historical Battles to Complement Historical Analysis**|Shuhang Lin et.al.|[2404.15532v1](http://arxiv.org/abs/2404.15532v1)|null|
+|**2024-04-23**|**BattleAgent: Multi-modal Dynamic Emulation on Historical Battles to Complement Historical Analysis**|Shuhang Lin et.al.|[2404.15532v1](http://arxiv.org/abs/2404.15532v1)|**[link](https://github.com/agiresearch/battleagent)**|
 |**2024-04-23**|**Visual Delta Generator with Large Multi-modal Models for Semi-supervised Composed Image Retrieval**|Young Kyun Jang et.al.|[2404.15516v1](http://arxiv.org/abs/2404.15516v1)|null|
 |**2024-04-24**|**TOP-Nav: Legged Navigation Integrating Terrain, Obstacle and Proprioception Estimation**|Junli Ren et.al.|[2404.15256v2](http://arxiv.org/abs/2404.15256v2)|null|
 |**2024-04-23**|**Semantic distance organizes social knowledge: Insights from semantic dementia and cross-modal conceptual space**|Y. Ivette Colón et.al.|[2404.15151v1](http://arxiv.org/abs/2404.15151v1)|null|
@@ -3144,7 +3144,7 @@
 |**2023-02-13**|**CLIP-RR: Improved CLIP Network for Relation-Focused Cross-Modal Information Retrieval**|Yan Gong et.al.|[2302.06350v1](http://arxiv.org/abs/2302.06350v1)|null|
 |**2023-02-13**|**CoMAE: Single Model Hybrid Pre-training on Small-Scale RGB-D Datasets**|Jiange Yang et.al.|[2302.06148v1](http://arxiv.org/abs/2302.06148v1)|**[link](https://github.com/mcg-nju/comae)**|
 
-<p align=right>(<a href=#Updated-on-20240428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240429>back to top</a>)</p>
 
 ## Point Cloud Localization
 
@@ -3162,7 +3162,7 @@
 |**2018-04-03**|**Mining Point Cloud Local Structures by Kernel Correlation and Graph Pooling**|Yiru Shen et.al.|[1712.06760v2](http://arxiv.org/abs/1712.06760v2)|null|
 |**2017-02-14**|**Graph Based Over-Segmentation Methods for 3D Point Clouds**|Yizhak Ben-Shabat et.al.|[1702.04114v1](http://arxiv.org/abs/1702.04114v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240429>back to top</a>)</p>
 
 ## Place Recognization
 
@@ -3243,7 +3243,7 @@
 |**2021-05-24**|**OverlapNet: Loop Closing for LiDAR-based SLAM**|Xieyuanli Chen et.al.|[2105.11344v1](http://arxiv.org/abs/2105.11344v1)|**[link](https://github.com/PRBonn/OverlapNet)**|
 |**2021-03-23**|**NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation**|Zhicheng Zhou et.al.|[2103.12292v1](http://arxiv.org/abs/2103.12292v1)|**[link](https://github.com/dachengxiaocheng/NDT-Transformer)**|
 
-<p align=right>(<a href=#Updated-on-20240428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240429>back to top</a>)</p>
 
 ## LiDAR SLAM
 
@@ -3321,7 +3321,7 @@
 |**2020-08-09**|**LiDAR Data Enrichment Using Deep Learning Based on High-Resolution Image: An Approach to Achieve High-Performance LiDAR SLAM Using Low-cost LiDAR**|Jiang Yue et.al.|[2008.03694v1](http://arxiv.org/abs/2008.03694v1)|null|
 |**2020-08-05**|**Elasticity Meets Continuous-Time: Map-Centric Dense 3D LiDAR SLAM**|Chanoh Park et.al.|[2008.02274v1](http://arxiv.org/abs/2008.02274v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240429>back to top</a>)</p>
 
 ## Transformer
 
@@ -3430,7 +3430,7 @@
 |**2021-10-14**|**Investigating Attention Mechanism in 3D Point Cloud Object Detection**|Shi Qiu et.al.|[2108.00620v2](http://arxiv.org/abs/2108.00620v2)|**[link](https://github.com/ShiQiu0419/attentions_in_3D_detection)**|
 |**2021-07-29**|**Reduction of balance laws in (3+1)--dimensions to autonomous conservation laws by means of equivalence transformations**|Matteo Gorgone et.al.|[2107.14144v1](http://arxiv.org/abs/2107.14144v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240429>back to top</a>)</p>
 
 ## NeRF
 
@@ -3443,8 +3443,8 @@
 |**2024-04-22**|**GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**|Hongyun Yu et.al.|[2404.14037v1](http://arxiv.org/abs/2404.14037v1)|null|
 |**2024-04-22**|**NeRF-DetS: Enhancing Multi-View 3D Object Detection with Sampling-adaptive Network of Continuous NeRF-based Representation**|Chi Huang et.al.|[2404.13921v1](http://arxiv.org/abs/2404.13921v1)|null|
 |**2024-04-23**|**CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**|Yunlong Ran et.al.|[2404.13896v2](http://arxiv.org/abs/2404.13896v2)|null|
-|**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[2404.13816v1](http://arxiv.org/abs/2404.13816v1)|null|
-|**2024-04-21**|**ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**|Zichen Tang et.al.|[2404.13711v1](http://arxiv.org/abs/2404.13711v1)|**[link](https://github.com/silence-tang/artnerf)**|
+|**2024-04-26**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[2404.13816v2](http://arxiv.org/abs/2404.13816v2)|null|
+|**2024-04-26**|**ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**|Zichen Tang et.al.|[2404.13711v2](http://arxiv.org/abs/2404.13711v2)|**[link](https://github.com/silence-tang/artnerf)**|
 |**2024-04-21**|**Generalizable Novel-View Synthesis using a Stereo Camera**|Haechan Lee et.al.|[2404.13541v1](http://arxiv.org/abs/2404.13541v1)|null|
 |**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang et.al.|[2404.13437v1](http://arxiv.org/abs/2404.13437v1)|null|
 |**2024-04-20**|**EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment**|Guanghao Li et.al.|[2404.13346v1](http://arxiv.org/abs/2404.13346v1)|**[link](https://github.com/lightingooo/ec-slam)**|
@@ -4306,7 +4306,7 @@
 |**2022-12-08**|**GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields**|Alessandro Ruzzi et.al.|[2212.04823v1](http://arxiv.org/abs/2212.04823v1)|**[link](https://github.com/alessandroruzzi/gazenerf)**|
 |**2022-12-09**|**4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**|Zhongshu Wang et.al.|[2212.04701v1](http://arxiv.org/abs/2212.04701v1)|**[link](https://github.com/frozoul/4k-nerf)**|
 
-<p align=right>(<a href=#Updated-on-20240428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240429>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

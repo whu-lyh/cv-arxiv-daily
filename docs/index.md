@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.28
+## Updated on 2024.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -210,16 +210,16 @@ layout: default
 |**2024-04-25**|**Benchmarking Mobile Device Control Agents across Diverse Configurations**|Juyong Lee et.al.|[2404.16660v1](http://arxiv.org/abs/2404.16660v1)|null|
 |**2024-04-25**|**Zero-Shot Distillation for Image Encoders: How to Make Effective Use of Synthetic Data**|Niclas Popp et.al.|[2404.16637v1](http://arxiv.org/abs/2404.16637v1)|null|
 |**2024-04-25**|**Energy-Latency Manipulation of Multi-modal Large Language Models via Verbose Samples**|Kuofeng Gao et.al.|[2404.16557v1](http://arxiv.org/abs/2404.16557v1)|null|
-|**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302v1](http://arxiv.org/abs/2404.16302v1)|null|
+|**2024-04-25**|**CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**|Haoyuan Li et.al.|[2404.16302v1](http://arxiv.org/abs/2404.16302v1)|**[link](https://github.com/lhy-zjut/cfmw)**|
 |**2024-04-24**|**Fusion of Domain-Adapted Vision and Language Models for Medical Visual Question Answering**|Cuong Nhat Ha et.al.|[2404.16192v1](http://arxiv.org/abs/2404.16192v1)|null|
 |**2024-04-24**|**BeSound: Bluetooth-Based Position Estimation Enhancing with Cross-Modality Distillation**|Hymalai Bello et.al.|[2404.15999v1](http://arxiv.org/abs/2404.15999v1)|null|
 |**2024-04-24**|**Mammo-CLIP: Leveraging Contrastive Language-Image Pre-training (CLIP) for Enhanced Breast Cancer Diagnosis with Multi-view Mammography**|Xuxin Chen et.al.|[2404.15946v1](http://arxiv.org/abs/2404.15946v1)|null|
-|**2024-04-24**|**Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval**|Haokun Wen et.al.|[2404.15875v1](http://arxiv.org/abs/2404.15875v1)|null|
+|**2024-04-24**|**Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval**|Haokun Wen et.al.|[2404.15875v1](http://arxiv.org/abs/2404.15875v1)|**[link](https://github.com/haokunwen/dqu-cir)**|
 |**2024-04-25**|**HDBN: A Novel Hybrid Dual-branch Network for Robust Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2404.15719v2](http://arxiv.org/abs/2404.15719v2)|**[link](https://github.com/liujf69/icmew2024-track10)**|
 |**2024-04-24**|**Efficient Multi-Model Fusion with Adversarial Complementary Representation Learning**|Zuheng Kang et.al.|[2404.15704v1](http://arxiv.org/abs/2404.15704v1)|null|
 |**2024-04-24**|**Multi-Modal Proxy Learning Towards Personalized Visual Multiple Clustering**|Jiawei Yao et.al.|[2404.15655v1](http://arxiv.org/abs/2404.15655v1)|null|
 |**2024-04-24**|**HybridVC: Efficient Voice Style Conversion with Text and Audio Prompts**|Xinlei Niu et.al.|[2404.15637v1](http://arxiv.org/abs/2404.15637v1)|null|
-|**2024-04-23**|**BattleAgent: Multi-modal Dynamic Emulation on Historical Battles to Complement Historical Analysis**|Shuhang Lin et.al.|[2404.15532v1](http://arxiv.org/abs/2404.15532v1)|null|
+|**2024-04-23**|**BattleAgent: Multi-modal Dynamic Emulation on Historical Battles to Complement Historical Analysis**|Shuhang Lin et.al.|[2404.15532v1](http://arxiv.org/abs/2404.15532v1)|**[link](https://github.com/agiresearch/battleagent)**|
 |**2024-04-23**|**Visual Delta Generator with Large Multi-modal Models for Semi-supervised Composed Image Retrieval**|Young Kyun Jang et.al.|[2404.15516v1](http://arxiv.org/abs/2404.15516v1)|null|
 |**2024-04-24**|**TOP-Nav: Legged Navigation Integrating Terrain, Obstacle and Proprioception Estimation**|Junli Ren et.al.|[2404.15256v2](http://arxiv.org/abs/2404.15256v2)|null|
 |**2024-04-23**|**Semantic distance organizes social knowledge: Insights from semantic dementia and cross-modal conceptual space**|Y. Ivette Colón et.al.|[2404.15151v1](http://arxiv.org/abs/2404.15151v1)|null|
@@ -3419,8 +3419,8 @@ layout: default
 |**2024-04-22**|**GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**|Hongyun Yu et.al.|[2404.14037v1](http://arxiv.org/abs/2404.14037v1)|null|
 |**2024-04-22**|**NeRF-DetS: Enhancing Multi-View 3D Object Detection with Sampling-adaptive Network of Continuous NeRF-based Representation**|Chi Huang et.al.|[2404.13921v1](http://arxiv.org/abs/2404.13921v1)|null|
 |**2024-04-23**|**CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**|Yunlong Ran et.al.|[2404.13896v2](http://arxiv.org/abs/2404.13896v2)|null|
-|**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[2404.13816v1](http://arxiv.org/abs/2404.13816v1)|null|
-|**2024-04-21**|**ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**|Zichen Tang et.al.|[2404.13711v1](http://arxiv.org/abs/2404.13711v1)|**[link](https://github.com/silence-tang/artnerf)**|
+|**2024-04-26**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[2404.13816v2](http://arxiv.org/abs/2404.13816v2)|null|
+|**2024-04-26**|**ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis**|Zichen Tang et.al.|[2404.13711v2](http://arxiv.org/abs/2404.13711v2)|**[link](https://github.com/silence-tang/artnerf)**|
 |**2024-04-21**|**Generalizable Novel-View Synthesis using a Stereo Camera**|Haechan Lee et.al.|[2404.13541v1](http://arxiv.org/abs/2404.13541v1)|null|
 |**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang et.al.|[2404.13437v1](http://arxiv.org/abs/2404.13437v1)|null|
 |**2024-04-20**|**EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment**|Guanghao Li et.al.|[2404.13346v1](http://arxiv.org/abs/2404.13346v1)|**[link](https://github.com/lightingooo/ec-slam)**|
