@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.30
+## Updated on 2024.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -207,6 +207,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**A Survey on Vision Mamba: Models, Applications and Challenges**|Rui Xu et.al.|[2404.18861v1](http://arxiv.org/abs/2404.18861v1)|**[link](https://github.com/ruixxxx/awesome-vision-mamba-models)**|
+|**2024-04-29**|**FlexiFilm: Long Video Generation with Flexible Conditions**|Yichen Ouyang et.al.|[2404.18620v1](http://arxiv.org/abs/2404.18620v1)|**[link](https://github.com/Y-ichen/FlexiFilm)**|
+|**2024-04-29**|**Towards Long-term Robotics in the Wild**|Stephen Hausler et.al.|[2404.18477v1](http://arxiv.org/abs/2404.18477v1)|null|
+|**2024-04-29**|**ECC Analyzer: Extract Trading Signal from Earnings Conference Calls using Large Language Model for Stock Performance Prediction**|Yupeng Cao et.al.|[2404.18470v1](http://arxiv.org/abs/2404.18470v1)|null|
+|**2024-04-29**|**MRIC: Model-Based Reinforcement-Imitation Learning with Mixture-of-Codebooks for Autonomous Driving Simulation**|Baotian He et.al.|[2404.18464v1](http://arxiv.org/abs/2404.18464v1)|null|
+|**2024-04-29**|**3AM: An Ambiguity-Aware Multi-Modal Machine Translation Dataset**|Xinyu Ma et.al.|[2404.18413v1](http://arxiv.org/abs/2404.18413v1)|**[link](https://github.com/maxylee/3am)**|
+|**2024-04-29**|**Multi-modal Perception Dataset of In-water Objects for Autonomous Surface Vehicles**|Mingi Jeong et.al.|[2404.18411v1](http://arxiv.org/abs/2404.18411v1)|null|
+|**2024-04-28**|**LMM-PCQA: Assisting Point Cloud Quality Assessment with LMM**|Zicheng Zhang et.al.|[2404.18203v1](http://arxiv.org/abs/2404.18203v1)|null|
+|**2024-04-28**|**Mamba-FETrack: Frame-Event Tracking via State Space Model**|Ju Huang et.al.|[2404.18174v1](http://arxiv.org/abs/2404.18174v1)|**[link](https://github.com/event-ahu/mamba_fetrack)**|
+|**2024-04-28**|**Event-based Video Frame Interpolation with Edge Guided Motion Refinement**|Yuhan Liu et.al.|[2404.18156v1](http://arxiv.org/abs/2404.18156v1)|null|
+|**2024-04-28**|**Deep Boosting Learning: A Brand-new Cooperative Approach for Image-Text Matching**|Haiwen Diao et.al.|[2404.18114v1](http://arxiv.org/abs/2404.18114v1)|**[link](https://github.com/Paranioar/DBL)**|
+|**2024-04-28**|**Online,Target-Free LiDAR-Camera Extrinsic Calibration via Cross-Modal Mask Matching**|Zhiwei Huang et.al.|[2404.18083v1](http://arxiv.org/abs/2404.18083v1)|null|
+|**2024-04-28**|**MMAC-Copilot: Multi-modal Agent Collaboration Operating System Copilot**|Zirui Song et.al.|[2404.18074v1](http://arxiv.org/abs/2404.18074v1)|null|
+|**2024-04-27**|**Spatio-Temporal Side Tuning Pre-trained Foundation Models for Video-based Pedestrian Attribute Recognition**|Xiao Wang et.al.|[2404.17929v1](http://arxiv.org/abs/2404.17929v1)|**[link](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List)**|
+|**2024-04-27**|**SERPENT-VLM : Self-Refining Radiology Report Generation Using Vision Language Models**|Manav Nitin Kapadnis et.al.|[2404.17912v1](http://arxiv.org/abs/2404.17912v1)|null|
 |**2024-04-26**|**The CARFAC v2 Cochlear Model in Matlab, NumPy, and JAX**|Richard F. Lyon et.al.|[2404.17490v1](http://arxiv.org/abs/2404.17490v1)|null|
 |**2024-04-26**|**UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning**|Maoxun Yuan et.al.|[2404.17360v1](http://arxiv.org/abs/2404.17360v1)|null|
 |**2024-04-26**|**Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model**|Yushen Xu et.al.|[2404.17357v1](http://arxiv.org/abs/2404.17357v1)|null|
@@ -3141,6 +3156,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-27**|**Instance-free Text to Point Cloud Localization with Relative Position Awareness**|Lichao Wang et.al.|[2404.17845v1](http://arxiv.org/abs/2404.17845v1)|null|
 |**2024-04-26**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751v2](http://arxiv.org/abs/2403.02751v2)|null|
 |**2024-03-28**|**Text2Loc: 3D Point Cloud Localization from Natural Language**|Yan Xia et.al.|[2311.15977v2](http://arxiv.org/abs/2311.15977v2)|null|
 |**2023-01-13**|**Text to Point Cloud Localization with Relation-Enhanced Transformer**|Guangzhi Wang et.al.|[2301.05372v1](http://arxiv.org/abs/2301.05372v1)|null|
@@ -3419,6 +3435,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-28**|**S3-SLAM: Sparse Tri-plane Encoding for Neural Implicit SLAM**|Zhiyao Zhang et.al.|[2404.18284v1](http://arxiv.org/abs/2404.18284v1)|null|
+|**2024-04-27**|**DPER: Diffusion Prior Driven Neural Representation for Limited Angle and Sparse View CT Reconstruction**|Chenhe Du et.al.|[2404.17890v1](http://arxiv.org/abs/2404.17890v1)|null|
 |**2024-04-26**|**Geometry-aware Reconstruction and Fusion-refined Rendering for Generalizable Neural Radiance Fields**|Tianqi Liu et.al.|[2404.17528v1](http://arxiv.org/abs/2404.17528v1)|null|
 |**2024-04-25**|**Depth Supervised Neural Surface Reconstruction from Airborne Imagery**|Vincent Hackstein et.al.|[2404.16429v1](http://arxiv.org/abs/2404.16429v1)|null|
 |**2024-04-24**|**NeRF-XL: Scaling NeRFs with Multiple GPUs**|Ruilong Li et.al.|[2404.16221v1](http://arxiv.org/abs/2404.16221v1)|null|
