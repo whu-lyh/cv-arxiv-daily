@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.07
+## Updated on 2024.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -208,6 +208,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs**|Muhammad Uzair Khattak et.al.|[2405.03690v1](http://arxiv.org/abs/2405.03690v1)|null|
+|**2024-05-06**|**Language-Image Models with 3D Understanding**|Jang Hyun Cho et.al.|[2405.03685v1](http://arxiv.org/abs/2405.03685v1)|null|
+|**2024-05-06**|**Motion Planning under Uncertainty: Integrating Learning-Based Multi-Modal Predictors into Branch Model Predictive Control**|Mohamed-Khalil Bouzidi et.al.|[2405.03470v1](http://arxiv.org/abs/2405.03470v1)|null|
+|**2024-05-06**|**Knowledge-aware Text-Image Retrieval for Remote Sensing Images**|Li Mi et.al.|[2405.03373v1](http://arxiv.org/abs/2405.03373v1)|null|
+|**2024-05-06**|**On the Theory of Cross-Modality Distillation with Contrastive Learning**|Hangyu Lin et.al.|[2405.03355v1](http://arxiv.org/abs/2405.03355v1)|null|
+|**2024-05-06**|**Modality Prompts for Arbitrary Modality Salient Object Detection**|Nianchang Huang et.al.|[2405.03351v1](http://arxiv.org/abs/2405.03351v1)|null|
+|**2024-05-06**|**Provably Unlearnable Examples**|Derui Wang et.al.|[2405.03316v1](http://arxiv.org/abs/2405.03316v1)|null|
+|**2024-05-06**|**Multi-Modality Spatio-Temporal Forecasting via Self-Supervised Learning**|Jiewen Deng et.al.|[2405.03255v1](http://arxiv.org/abs/2405.03255v1)|null|
+|**2024-05-06**|**Cross-Modal Domain Adaptation in Brain Disease Diagnosis: Maximum Mean Discrepancy-based Convolutional Neural Networks**|Xuran Zhu et.al.|[2405.03235v1](http://arxiv.org/abs/2405.03235v1)|null|
+|**2024-05-06**|**POPDG: Popular 3D Dance Generation with PopDanceSet**|Zhenye Luo et.al.|[2405.03178v1](http://arxiv.org/abs/2405.03178v1)|null|
+|**2024-05-06**|**Transformer-based RGB-T Tracking with Channel and Spatial Feature Fusion**|Yunfeng Li et.al.|[2405.03177v1](http://arxiv.org/abs/2405.03177v1)|null|
+|**2024-05-06**|**MMGER: Multi-modal and Multi-granularity Generative Error Correction with LLM for Joint Accent and Speech Recognition**|Bingshen Mu et.al.|[2405.03152v1](http://arxiv.org/abs/2405.03152v1)|null|
+|**2024-05-06**|**Research on Image Recognition Technology Based on Multimodal Deep Learning**|Jinyin Wang et.al.|[2405.03091v1](http://arxiv.org/abs/2405.03091v1)|null|
+|**2024-05-05**|**Multimodal Sense-Informed Prediction of 3D Human Motions**|Zhenyu Lou et.al.|[2405.02911v1](http://arxiv.org/abs/2405.02911v1)|null|
+|**2024-05-07**|**Mozart's Touch: A Lightweight Multi-modal Music Generation Framework Based on Pre-Trained Large Models**|Tianze Xu et.al.|[2405.02801v2](http://arxiv.org/abs/2405.02801v2)|**[link](https://github.com/wangtoonaive/mozartstouch)**|
 |**2024-05-03**|**Multi-method Integration with Confidence-based Weighting for Zero-shot Image Classification**|Siqi Yin et.al.|[2405.02155v1](http://arxiv.org/abs/2405.02155v1)|null|
 |**2024-05-02**|**MMIST-ccRCC: A Real World Medical Dataset for the Development of Multi-Modal Systems**|Tiago Mota et.al.|[2405.01658v1](http://arxiv.org/abs/2405.01658v1)|null|
 |**2024-05-02**|**S4: Self-Supervised Sensing Across the Spectrum**|Jayanth Shenoy et.al.|[2405.01656v1](http://arxiv.org/abs/2405.01656v1)|null|
@@ -3281,6 +3296,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-27**|**Wheel Odometry-Based Localization for Autonomous Wheelchair**|P Paryanto et.al.|[2405.02290v1](http://arxiv.org/abs/2405.02290v1)|null|
 |**2024-04-23**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644v5](http://arxiv.org/abs/2404.07644v5)|**[link](https://github.com/littledang/2dliw-slam)**|
 |**2024-04-06**|**Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology**|Han Lei et.al.|[2404.04492v1](http://arxiv.org/abs/2404.04492v1)|null|
 |**2023-12-23**|**Versatile LiDAR-Inertial Odometry With SE (2) Constraints for Ground Vehicles**|Jiaying Chen et.al.|[2404.01584v1](http://arxiv.org/abs/2404.01584v1)|null|
@@ -3360,7 +3376,7 @@ layout: default
 |**2024-04-19**|**FreSeg: Frenet-Frame-based Part Segmentation for 3D Curvilinear Structures**|Shixuan Gu et.al.|[2404.14435v1](http://arxiv.org/abs/2404.14435v1)|null|
 |**2024-04-04**|**Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity**|Jake Varley et.al.|[2404.03570v1](http://arxiv.org/abs/2404.03570v1)|null|
 |**2024-04-02**|**On the Algorithmic Recovering of Coefficients in Linearizable Differential Equations**|Dmitry A. Lyakhov et.al.|[2404.01798v1](http://arxiv.org/abs/2404.01798v1)|null|
-|**2024-04-02**|**A Linear Time and Space Local Point Cloud Geometry Encoder via Vectorized Kernel Mixture (VecKM)**|Dehao Yuan et.al.|[2404.01568v1](http://arxiv.org/abs/2404.01568v1)|**[link](https://github.com/dhyuan99/veckm)**|
+|**2024-05-07**|**A Linear Time and Space Local Point Cloud Geometry Encoder via Vectorized Kernel Mixture (VecKM)**|Dehao Yuan et.al.|[2404.01568v3](http://arxiv.org/abs/2404.01568v3)|**[link](https://github.com/dhyuan99/veckm)**|
 |**2024-04-01**|**Transfer Learning with Point Transformers**|Kartik Gupta et.al.|[2404.00846v1](http://arxiv.org/abs/2404.00846v1)|null|
 |**2024-03-21**|**OA-CNNs: Omni-Adaptive Sparse CNNs for 3D Semantic Segmentation**|Bohao Peng et.al.|[2403.14418v1](http://arxiv.org/abs/2403.14418v1)|**[link](https://github.com/Pointcept/Pointcept)**|
 |**2024-03-19**|**Diffusion-Driven Self-Supervised Learning for Shape Reconstruction and Pose Estimation**|Jingtao Sun et.al.|[2403.12728v1](http://arxiv.org/abs/2403.12728v1)|**[link](https://github.com/s-jingtao/self-srpe)**|
@@ -3464,6 +3480,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-05**|**Blending Distributed NeRFs with Tri-stage Robust Pose Optimization**|Baijun Ye et.al.|[2405.02880v1](http://arxiv.org/abs/2405.02880v1)|null|
+|**2024-05-05**|**MVIP-NeRF: Multi-view 3D Inpainting on NeRF Scenes via Diffusion Prior**|Honghua Chen et.al.|[2405.02859v1](http://arxiv.org/abs/2405.02859v1)|null|
+|**2024-05-04**|**TK-Planes: Tiered K-Planes with High Dimensional Feature Vectors for Dynamic UAV-based Scenes**|Christopher Maxey et.al.|[2405.02762v1](http://arxiv.org/abs/2405.02762v1)|null|
+|**2024-05-04**|**ActiveNeuS: Active 3D Reconstruction using Neural Implicit Surface Uncertainty**|Hyunseo Kim et.al.|[2405.02568v1](http://arxiv.org/abs/2405.02568v1)|null|
+|**2024-05-03**|**Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning**|Dhruva Tirumala et.al.|[2405.02425v1](http://arxiv.org/abs/2405.02425v1)|null|
+|**2024-05-03**|**Rip-NeRF: Anti-aliasing Radiance Fields with Ripmap-Encoded Platonic Solids**|Junchen Liu et.al.|[2405.02386v1](http://arxiv.org/abs/2405.02386v1)|**[link](https://github.com/junchenliu77/rip-nerf)**|
 |**2024-05-03**|**WateRF: Robust Watermarks in Radiance Fields for Protection of Copyrights**|Youngdong Jang et.al.|[2405.02066v1](http://arxiv.org/abs/2405.02066v1)|null|
 |**2024-05-02**|**NeRF in Robotics: A Survey**|Guangming Wang et.al.|[2405.01333v1](http://arxiv.org/abs/2405.01333v1)|null|
 |**2024-05-04**|**LidaRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900v2](http://arxiv.org/abs/2405.00900v2)|null|
