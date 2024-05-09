@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.08
+## Updated on 2024.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -208,6 +208,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Tactile-Augmented Radiance Fields**|Yiming Dou et.al.|[2405.04534v1](http://arxiv.org/abs/2405.04534v1)|null|
+|**2024-05-07**|**Generative Planning with Fast Collision Checks for High Speed Navigation**|Craig Knuth et.al.|[2405.04498v1](http://arxiv.org/abs/2405.04498v1)|null|
+|**2024-05-07**|**Vision Mamba: A Comprehensive Survey and Taxonomy**|Xiao Liu et.al.|[2405.04404v1](http://arxiv.org/abs/2405.04404v1)|**[link](https://github.com/lx6c78/vision-mamba-a-comprehensive-survey-and-taxonomy)**|
+|**2024-05-07**|**Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation**|Jihyun Kim et.al.|[2405.04356v1](http://arxiv.org/abs/2405.04356v1)|null|
+|**2024-05-07**|**Dataset and Models for Item Recommendation Using Multi-Modal User Interactions**|Simone Borg Bruun et.al.|[2405.04246v1](http://arxiv.org/abs/2405.04246v1)|**[link](https://github.com/simonebbruun/rs_multi_modal_user_interactions)**|
+|**2024-05-07**|**ELiTe: Efficient Image-to-LiDAR Knowledge Transfer for Semantic Segmentation**|Zhibo Zhang et.al.|[2405.04121v1](http://arxiv.org/abs/2405.04121v1)|null|
+|**2024-05-07**|**COM3D: Leveraging Cross-View Correspondence and Cross-Modal Mining for 3D Retrieval**|Hao Wu et.al.|[2405.04103v1](http://arxiv.org/abs/2405.04103v1)|null|
+|**2024-05-07**|**Speak the Same Language: Global LiDAR Registration on BIM Using Pose Hough Transform**|Zhijian Qiao et.al.|[2405.03969v1](http://arxiv.org/abs/2405.03969v1)|null|
+|**2024-05-06**|**Enhancing Apparent Personality Trait Analysis with Cross-Modal Embeddings**|Ádám Fodor et.al.|[2405.03846v1](http://arxiv.org/abs/2405.03846v1)|null|
+|**2024-05-06**|**Unsupervised Machine Learning Identifies Latent Ultradian States in Multi-Modal Wearable Sensor Signals**|Christopher Thornton et.al.|[2405.03829v1](http://arxiv.org/abs/2405.03829v1)|null|
+|**2024-05-06**|**MoDiPO: text-to-motion alignment via AI-feedback-driven Direct Preference Optimization**|Massimiliano Pappa et.al.|[2405.03803v1](http://arxiv.org/abs/2405.03803v1)|null|
 |**2024-05-06**|**Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs**|Muhammad Uzair Khattak et.al.|[2405.03690v1](http://arxiv.org/abs/2405.03690v1)|null|
 |**2024-05-06**|**Language-Image Models with 3D Understanding**|Jang Hyun Cho et.al.|[2405.03685v1](http://arxiv.org/abs/2405.03685v1)|null|
 |**2024-05-06**|**Motion Planning under Uncertainty: Integrating Learning-Based Multi-Modal Predictors into Branch Model Predictive Control**|Mohamed-Khalil Bouzidi et.al.|[2405.03470v1](http://arxiv.org/abs/2405.03470v1)|null|
@@ -3480,6 +3491,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**DistGrid: Scalable Scene Reconstruction with Distributed Multi-resolution Hash Grid**|Sidun Liu et.al.|[2405.04416v2](http://arxiv.org/abs/2405.04416v2)|null|
+|**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345v1](http://arxiv.org/abs/2405.04345v1)|null|
 |**2024-05-05**|**Blending Distributed NeRFs with Tri-stage Robust Pose Optimization**|Baijun Ye et.al.|[2405.02880v1](http://arxiv.org/abs/2405.02880v1)|null|
 |**2024-05-05**|**MVIP-NeRF: Multi-view 3D Inpainting on NeRF Scenes via Diffusion Prior**|Honghua Chen et.al.|[2405.02859v1](http://arxiv.org/abs/2405.02859v1)|null|
 |**2024-05-04**|**TK-Planes: Tiered K-Planes with High Dimensional Feature Vectors for Dynamic UAV-based Scenes**|Christopher Maxey et.al.|[2405.02762v1](http://arxiv.org/abs/2405.02762v1)|null|
