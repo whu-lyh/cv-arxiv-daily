@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.16
+## Updated on 2024.05.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Function based sim-to-real learning for shape control of deformable free-form surfaces**|Yingjun Tian et.al.|[2405.08935v1](http://arxiv.org/abs/2405.08935v1)|null|
 |**2024-04-26**|**SLAM for Indoor Mapping of Wide Area Construction Environments**|Vincent Ress et.al.|[2404.17215v1](http://arxiv.org/abs/2404.17215v1)|null|
 |**2024-04-19**|**RetailOpt: An Opt-In, Easy-to-Deploy Trajectory Estimation System Leveraging Smartphone Motion Data and Retail Facility Information**|Ryo Yonetani et.al.|[2404.12548v1](http://arxiv.org/abs/2404.12548v1)|null|
 |**2024-04-16**|**Stellar angular momentum of intermediate redshift galaxies in MUSE surveys**|Constanza Muñoz López et.al.|[2404.10533v1](http://arxiv.org/abs/2404.10533v1)|null|
@@ -208,6 +209,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**MMFusion: Multi-modality Diffusion Model for Lymph Node Metastasis Diagnosis in Esophageal Cancer**|Chengyu Wu et.al.|[2405.09539v2](http://arxiv.org/abs/2405.09539v2)|**[link](https://github.com/wuchengyu123/mmfusion)**|
+|**2024-05-15**|**Color Space Learning for Cross-Color Person Re-Identification**|Jiahao Nie et.al.|[2405.09487v1](http://arxiv.org/abs/2405.09487v1)|**[link](https://github.com/niejiahao1998/csl)**|
+|**2024-05-15**|**ReconBoost: Boosting Can Achieve Modality Reconcilement**|Cong Hua et.al.|[2405.09321v1](http://arxiv.org/abs/2405.09321v1)|**[link](https://github.com/huacong/reconboost)**|
+|**2024-05-15**|**Deep Blur Multi-Model (DeepBlurMM) -- a strategy to mitigate the impact of image blur on deep learning model performance in histopathology image analysis**|Yujie Xiang et.al.|[2405.09298v1](http://arxiv.org/abs/2405.09298v1)|null|
+|**2024-05-15**|**MVBIND: Self-Supervised Music Recommendation For Videos Via Embedding Space Binding**|Jiajie Teng et.al.|[2405.09286v1](http://arxiv.org/abs/2405.09286v1)|null|
+|**2024-05-15**|**OpenGait: A Comprehensive Benchmark Study for Gait Recognition towards Better Practicality**|Chao Fan et.al.|[2405.09138v1](http://arxiv.org/abs/2405.09138v1)|**[link](https://github.com/shiqiyu/opengait)**|
+|**2024-05-15**|**HAAP: Vision-context Hierarchical Attention Autoregressive with Adaptive Permutation for Scene Text Recognition**|Honghui Chen et.al.|[2405.09125v1](http://arxiv.org/abs/2405.09125v1)|null|
+|**2024-05-15**|**CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving**|Dechen Gao et.al.|[2405.09111v1](http://arxiv.org/abs/2405.09111v1)|null|
+|**2024-05-15**|**Spatial Semantic Recurrent Mining for Referring Image Segmentation**|Jiaxing Yang et.al.|[2405.09006v1](http://arxiv.org/abs/2405.09006v1)|null|
+|**2024-05-14**|**Theoretical Analysis for Expectation-Maximization-Based Multi-Model 3D Registration**|David Jin et.al.|[2405.08991v1](http://arxiv.org/abs/2405.08991v1)|null|
 |**2024-05-14**|**Incorporating Clinical Guidelines through Adapting Multi-modal Large Language Model for Prostate Cancer PI-RADS Scoring**|Tiantian Zhang et.al.|[2405.08786v1](http://arxiv.org/abs/2405.08786v1)|null|
 |**2024-05-14**|**Dynamic On-Palm Manipulation via Controlled Sliding**|William Yang et.al.|[2405.08731v1](http://arxiv.org/abs/2405.08731v1)|null|
 |**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668v1](http://arxiv.org/abs/2405.08668v1)|**[link](https://github.com/caoql98/GDPL)**|
