@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.21
+## Updated on 2024.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-19**|**RobMOT: Robust 3D Multi-Object Tracking by Observational Noise and State Estimation Drift Mitigation on LiDAR PointCloud**|Mohamed Nagy et.al.|[2405.11536v1](http://arxiv.org/abs/2405.11536v1)|null|
 |**2024-05-14**|**Function based sim-to-real learning for shape control of deformable free-form surfaces**|Yingjun Tian et.al.|[2405.08935v1](http://arxiv.org/abs/2405.08935v1)|null|
 |**2024-04-26**|**SLAM for Indoor Mapping of Wide Area Construction Environments**|Vincent Ress et.al.|[2404.17215v1](http://arxiv.org/abs/2404.17215v1)|null|
 |**2024-04-19**|**RetailOpt: An Opt-In, Easy-to-Deploy Trajectory Estimation System Leveraging Smartphone Motion Data and Retail Facility Information**|Ryo Yonetani et.al.|[2404.12548v1](http://arxiv.org/abs/2404.12548v1)|null|
@@ -139,8 +140,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**RHAML: Rendezvous-based Hierarchical Architecture for Mutual Localization**|Gaoming Chen et.al.|[2405.11726v1](http://arxiv.org/abs/2405.11726v1)|null|
 |**2024-05-14**|**Multipath-based SLAM with Cooperation and Map Fusion in MIMO Systems**|Erik Leitinger et.al.|[2405.02126v2](http://arxiv.org/abs/2405.02126v2)|null|
-|**2024-04-20**|**AMMUNet: Multi-Scale Attention Map Merging for Remote Sensing Image Segmentation**|Yang Yang et.al.|[2404.13408v1](http://arxiv.org/abs/2404.13408v1)|null|
+|**2024-04-20**|**AMMUNet: Multi-Scale Attention Map Merging for Remote Sensing Image Segmentation**|Yang Yang et.al.|[2404.13408v1](http://arxiv.org/abs/2404.13408v1)|**[link](https://github.com/interpretty/ammunet)**|
 |**2024-03-21**|**Evaluation and Deployment of LiDAR-based Place Recognition in Dense Forests**|Haedam Oh et.al.|[2403.14326v1](http://arxiv.org/abs/2403.14326v1)|null|
 |**2024-02-03**|**RecNet: An Invertible Point Cloud Encoding through Range Image Embeddings for Multi-Robot Map Sharing and Reconstruction**|Nikolaos Stathoulopoulos et.al.|[2402.02192v1](http://arxiv.org/abs/2402.02192v1)|null|
 |**2023-12-14**|**Adaptive Shortcut Debiasing for Online Continual Learning**|Doyoung Kim et.al.|[2312.08677v1](http://arxiv.org/abs/2312.08677v1)|null|
@@ -209,8 +211,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**|Xuchen Li et.al.|[2405.12139v1](http://arxiv.org/abs/2405.12139v1)|null|
+|**2024-05-20**|**Continuous Sign Language Recognition with Adapted Conformer via Unsupervised Pretraining**|Neena Aloysius et.al.|[2405.12018v1](http://arxiv.org/abs/2405.12018v1)|null|
+|**2024-05-20**|**Diff-BGM: A Diffusion Model for Video Background Music Generation**|Sizhe Li et.al.|[2405.11913v1](http://arxiv.org/abs/2405.11913v1)|null|
+|**2024-05-20**|**Evaluating and Modeling Social Intelligence: A Comparative Study of Human and AI Capabilities**|Junqi Wang et.al.|[2405.11841v1](http://arxiv.org/abs/2405.11841v1)|**[link](https://github.com/bigai-ai/evaluate-n-model-social-intelligence)**|
+|**2024-05-20**|**MM-Retinal: Knowledge-Enhanced Foundational Pretraining with Fundus Image-Text Expertise**|Ruiqi Wu et.al.|[2405.11793v1](http://arxiv.org/abs/2405.11793v1)|**[link](https://github.com/lxirich/mm-retinal)**|
+|**2024-05-19**|**The Logical Art of Keeping a True Secret**|Alessandro Aldini et.al.|[2405.11654v1](http://arxiv.org/abs/2405.11654v1)|null|
+|**2024-05-18**|**EyeFound: A Multimodal Generalist Foundation Model for Ophthalmic Imaging**|Danli Shi et.al.|[2405.11338v1](http://arxiv.org/abs/2405.11338v1)|null|
+|**2024-05-18**|**Joint Analysis of Single-Cell Data across Cohorts with Missing Modalities**|Marianne Arriola et.al.|[2405.11280v1](http://arxiv.org/abs/2405.11280v1)|**[link](https://github.com/anonsc5kdd/sc5)**|
+|**2024-05-18**|**Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts**|Yunxin Li et.al.|[2405.11273v1](http://arxiv.org/abs/2405.11273v1)|**[link](https://github.com/hitsz-tmg/umoe-scaling-unified-multimodal-llms)**|
+|**2024-05-18**|**Fuse & Calibrate: A bi-directional Vision-Language Guided Framework for Referring Image Segmentation**|Yichen Yan et.al.|[2405.11205v1](http://arxiv.org/abs/2405.11205v1)|null|
+|**2024-05-18**|**Revisiting the Robust Generalization of Adversarial Prompt Tuning**|Fan Yang et.al.|[2405.11154v1](http://arxiv.org/abs/2405.11154v1)|null|
+|**2024-05-18**|**RuleFuser: Injecting Rules in Evidential Networks for Robust Out-of-Distribution Trajectory Prediction**|Jay Patrikar et.al.|[2405.11139v1](http://arxiv.org/abs/2405.11139v1)|null|
+|**2024-05-17**|**AudioSetMix: Enhancing Audio-Language Datasets with LLM-Assisted Augmentations**|David Xu et.al.|[2405.11093v1](http://arxiv.org/abs/2405.11093v1)|null|
 |**2024-05-17**|**Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities**|Hao Zhou et.al.|[2405.10825v1](http://arxiv.org/abs/2405.10825v1)|null|
-|**2024-05-17**|**HARIS: Human-Like Attention for Reference Image Segmentation**|Mengxi Zhang et.al.|[2405.10707v1](http://arxiv.org/abs/2405.10707v1)|null|
+|**2024-05-21**|**HARIS: Human-Like Attention for Reference Image Segmentation**|Mengxi Zhang et.al.|[2405.10707v2](http://arxiv.org/abs/2405.10707v2)|null|
 |**2024-05-17**|**CoLeaF: A Contrastive-Collaborative Learning Framework for Weakly Supervised Audio-Visual Video Parsing**|Faegheh Sardari et.al.|[2405.10690v1](http://arxiv.org/abs/2405.10690v1)|null|
 |**2024-05-16**|**Grounded 3D-LLM with Referent Tokens**|Yilun Chen et.al.|[2405.10370v1](http://arxiv.org/abs/2405.10370v1)|null|
 |**2024-05-16**|**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**|Sahel Sharifymoghaddam et.al.|[2405.10311v1](http://arxiv.org/abs/2405.10311v1)|null|
@@ -3565,13 +3580,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218v1](http://arxiv.org/abs/2405.12218v1)|null|
+|**2024-05-20**|**Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**|Guanlin Wu et.al.|[2405.12155v1](http://arxiv.org/abs/2405.12155v1)|null|
+|**2024-05-20**|**NPLMV-PS: Neural Point-Light Multi-View Photometric Stereo**|Fotios Logothetis et.al.|[2405.12057v1](http://arxiv.org/abs/2405.12057v1)|null|
+|**2024-05-19**|**Searching Realistic-Looking Adversarial Objects For Autonomous Driving Systems**|Shengxiang Sun et.al.|[2405.11629v1](http://arxiv.org/abs/2405.11629v1)|null|
+|**2024-05-19**|**R-NeRF: Neural Radiance Fields for Modeling RIS-enabled Wireless Environments**|Huiying Yang et.al.|[2405.11541v1](http://arxiv.org/abs/2405.11541v1)|null|
+|**2024-05-18**|**MotionGS : Compact Gaussian Splatting SLAM by Motion Filter**|Xinli Guo et.al.|[2405.11129v1](http://arxiv.org/abs/2405.11129v1)|**[link](https://github.com/antonio521/motiongs)**|
 |**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255v1](http://arxiv.org/abs/2405.10255v1)|null|
 |**2024-05-15**|**From NeRFs to Gaussian Splats, and Back**|Siming He et.al.|[2405.09717v1](http://arxiv.org/abs/2405.09717v1)|**[link](https://github.com/grasp-lyrl/nerftogsandback)**|
 |**2024-05-14**|**Dynamic NeRF: A Review**|Jinwei Lin et.al.|[2405.08609v1](http://arxiv.org/abs/2405.08609v1)|null|
 |**2024-05-13**|**Synergistic Integration of Coordinate Network and Tensorial Feature for Improving Neural Radiance Fields from Sparse Inputs**|Mingyu Kim et.al.|[2405.07857v1](http://arxiv.org/abs/2405.07857v1)|**[link](https://github.com/mingyukim87/synergynerf)**|
 |**2024-05-12**|**Point Resampling and Ray Transformation Aid to Editable NeRF Models**|Zhenyang Li et.al.|[2405.07306v1](http://arxiv.org/abs/2405.07306v1)|null|
 |**2024-05-12**|**Hologram: Realtime Holographic Overlays via LiDAR Augmented Reconstruction**|Ekansh Agrawal et.al.|[2405.07178v1](http://arxiv.org/abs/2405.07178v1)|null|
-|**2024-05-11**|**TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**|Zhen Tan et.al.|[2405.07027v1](http://arxiv.org/abs/2405.07027v1)|null|
+|**2024-05-11**|**TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**|Zhen Tan et.al.|[2405.07027v1](http://arxiv.org/abs/2405.07027v1)|**[link](https://github.com/nubot-nudt/td-nerf)**|
 |**2024-05-10**|**LIVE: LaTex Interactive Visual Editing**|Jinwei Lin et.al.|[2405.06762v1](http://arxiv.org/abs/2405.06762v1)|null|
 |**2024-05-14**|**SketchDream: Sketch-based Text-to-3D Generation and Editing**|Feng-Lin Liu et.al.|[2405.06461v2](http://arxiv.org/abs/2405.06461v2)|null|
 |**2024-05-10**|**Aerial-NeRF: Adaptive Spatial Partitioning and Sampling for Large-Scale Aerial Rendering**|Xiaohan Zhang et.al.|[2405.06214v1](http://arxiv.org/abs/2405.06214v1)|null|
