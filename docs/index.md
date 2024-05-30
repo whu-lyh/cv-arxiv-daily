@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.29
+## Updated on 2024.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -213,6 +213,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**MMCTAgent: Multi-modal Critical Thinking Agent Framework for Complex Visual Reasoning**|Somnath Kumar et.al.|[2405.18358v1](http://arxiv.org/abs/2405.18358v1)|null|
+|**2024-05-28**|**Dataset Growth**|Ziheng Qin et.al.|[2405.18347v1](http://arxiv.org/abs/2405.18347v1)|null|
+|**2024-05-28**|**Multi-modal Generation via Cross-Modal In-Context Learning**|Amandeep Kumar et.al.|[2405.18304v1](http://arxiv.org/abs/2405.18304v1)|**[link](https://github.com/virobo-15/mgcc)**|
+|**2024-05-28**|**A Vlogger-augmented Graph Neural Network Model for Micro-video Recommendation**|Weijiang Lai et.al.|[2405.18260v1](http://arxiv.org/abs/2405.18260v1)|null|
+|**2024-05-28**|**NeRAF: 3D Scene Infused Neural Radiance and Acoustic Fields**|Amandine Brunetto et.al.|[2405.18213v1](http://arxiv.org/abs/2405.18213v1)|null|
+|**2024-05-28**|**Confidence-aware multi-modality learning for eye disease screening**|Ke Zou et.al.|[2405.18167v1](http://arxiv.org/abs/2405.18167v1)|**[link](https://github.com/cocofeat/eyemost)**|
+|**2024-05-29**|**Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model**|Wenbing Li et.al.|[2405.18014v2](http://arxiv.org/abs/2405.18014v2)|null|
+|**2024-05-28**|**SkinCAP: A Multi-modal Dermatology Dataset Annotated with Rich Medical Captions**|Juexiao Zhou et.al.|[2405.18004v1](http://arxiv.org/abs/2405.18004v1)|null|
+|**2024-05-28**|**Self-supervised Pre-training for Transferable Multi-modal Perception**|Xiaohao Xu et.al.|[2405.17942v1](http://arxiv.org/abs/2405.17942v1)|null|
+|**2024-05-28**|**Enhancing Emotion Recognition in Conversation through Emotional Cross-Modal Fusion and Inter-class Contrastive Learning**|Haoxiang Shi et.al.|[2405.17900v1](http://arxiv.org/abs/2405.17900v1)|null|
+|**2024-05-28**|**$C^2M^3$ : Cycle-Consistent Multi-Model Merging**|Donato Crisostomi et.al.|[2405.17897v1](http://arxiv.org/abs/2405.17897v1)|null|
+|**2024-05-28**|**Seeing the Image: Prioritizing Visual Correlation by Contrastive Alignment**|Xin Xiao et.al.|[2405.17871v1](http://arxiv.org/abs/2405.17871v1)|null|
+|**2024-05-28**|**Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation**|Akio Hayakawa et.al.|[2405.17842v1](http://arxiv.org/abs/2405.17842v1)|null|
+|**2024-05-28**|**mTREE: Multi-Level Text-Guided Representation End-to-End Learning for Whole Slide Image Analysis**|Quan Liu et.al.|[2405.17824v1](http://arxiv.org/abs/2405.17824v1)|null|
+|**2024-05-28**|**RREH: Reconstruction Relations Embedded Hashing for Semi-Paired Cross-Modal Retrieval**|Jianzong Wang et.al.|[2405.17777v1](http://arxiv.org/abs/2405.17777v1)|null|
 |**2024-05-27**|**Benchmarking and Improving Bird's Eye View Perception Robustness in Autonomous Driving**|Shaoyuan Xie et.al.|[2405.17426v1](http://arxiv.org/abs/2405.17426v1)|**[link](https://github.com/Daniel-xsy/RoboBEV)**|
 |**2024-05-27**|**Large Language Models (LLMs): Deployment, Tokenomics and Sustainability**|Haiwei Dong et.al.|[2405.17147v1](http://arxiv.org/abs/2405.17147v1)|null|
 |**2024-05-27**|**Compressed-Language Models for Understanding Compressed File Formats: a JPEG Exploration**|Juan C. Pérez et.al.|[2405.17146v1](http://arxiv.org/abs/2405.17146v1)|null|
@@ -3640,8 +3655,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**Self-supervised Pre-training for Transferable Multi-modal Perception**|Xiaohao Xu et.al.|[2405.17942v1](http://arxiv.org/abs/2405.17942v1)|null|
+|**2024-05-28**|**A Refined 3D Gaussian Representation for High-Quality Dynamic Scene Reconstruction**|Bin Zhang et.al.|[2405.17891v1](http://arxiv.org/abs/2405.17891v1)|null|
+|**2024-05-29**|**HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction**|Haoyu Zhao et.al.|[2405.17872v2](http://arxiv.org/abs/2405.17872v2)|null|
+|**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811v1](http://arxiv.org/abs/2405.17811v1)|null|
 |**2024-05-28**|**F-3DGS: Factorized Coordinates and Representations for 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2405.17083v2](http://arxiv.org/abs/2405.17083v2)|null|
-|**2024-05-28**|**PyGS: Large-scale Scene Representation with Pyramidal 3D Gaussian Splatting**|Zipeng Wang et.al.|[2405.16829v2](http://arxiv.org/abs/2405.16829v2)|null|
+|**2024-05-29**|**PyGS: Large-scale Scene Representation with Pyramidal 3D Gaussian Splatting**|Zipeng Wang et.al.|[2405.16829v3](http://arxiv.org/abs/2405.16829v3)|null|
 |**2024-05-26**|**Sp2360: Sparse-view 360 Scene Reconstruction using Cascaded 2D Diffusion Priors**|Soumava Paul et.al.|[2405.16517v1](http://arxiv.org/abs/2405.16517v1)|null|
 |**2024-05-24**|**Neural Elevation Models for Terrain Mapping and Path Planning**|Adam Dai et.al.|[2405.15227v1](http://arxiv.org/abs/2405.15227v1)|null|
 |**2024-05-27**|**HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting**|Yuanhao Cai et.al.|[2405.15125v2](http://arxiv.org/abs/2405.15125v2)|**[link](https://github.com/caiyuanhao1998/hdr-gs)**|
