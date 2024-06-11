@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.10
+## Updated on 2024.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -217,6 +217,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**Leveraging Generative AI for Extracting Process Models from Multimodal Documents**|Marvin Voelter et.al.|[2406.04959v1](http://arxiv.org/abs/2406.04959v1)|null|
+|**2024-06-07**|**MA-AVT: Modality Alignment for Parameter-Efficient Audio-Visual Transformers**|Tanvir Mahmud et.al.|[2406.04930v1](http://arxiv.org/abs/2406.04930v1)|null|
+|**2024-06-07**|**Multi-Granularity Language-Guided Multi-Object Tracking**|Yuhao Li et.al.|[2406.04844v1](http://arxiv.org/abs/2406.04844v1)|**[link](https://github.com/weslee88524/lg-mot)**|
+|**2024-06-07**|**3rd Place Solution for MeViS Track in CVPR 2024 PVUW workshop: Motion Expression guided Video Segmentation**|Feiyu Pan et.al.|[2406.04842v1](http://arxiv.org/abs/2406.04842v1)|null|
+|**2024-06-07**|**Predicting Polymer Properties Based on Multimodal Multitask Pretraining**|Fanmeng Wang et.al.|[2406.04727v1](http://arxiv.org/abs/2406.04727v1)|null|
+|**2024-06-07**|**OVMR: Open-Vocabulary Recognition with Multi-Modal References**|Zehong Ma et.al.|[2406.04675v1](http://arxiv.org/abs/2406.04675v1)|**[link](https://github.com/zehong-ma/ovmr)**|
+|**2024-06-07**|**Metasurfaces for infrared multi-modal microscopy: phase contrast and bright field**|Shaban B. Sulejman et.al.|[2406.04576v1](http://arxiv.org/abs/2406.04576v1)|null|
+|**2024-06-06**|**GenAI Arena: An Open Evaluation Platform for Generative Models**|Dongfu Jiang et.al.|[2406.04485v1](http://arxiv.org/abs/2406.04485v1)|null|
+|**2024-06-06**|**TexIm FAST: Text-to-Image Representation for Semantic Similarity Evaluation using Transformers**|Wazib Ansar et.al.|[2406.04438v1](http://arxiv.org/abs/2406.04438v1)|null|
+|**2024-06-06**|**LipGER: Visually-Conditioned Generative Error Correction for Robust Automatic Speech Recognition**|Sreyan Ghosh et.al.|[2406.04432v1](http://arxiv.org/abs/2406.04432v1)|**[link](https://github.com/sreyan88/lipger)**|
+|**2024-06-06**|**DeTra: A Unified Model for Object Detection and Trajectory Forecasting**|Sergio Casas et.al.|[2406.04426v1](http://arxiv.org/abs/2406.04426v1)|null|
 |**2024-06-06**|**Learning 1D Causal Visual Representation with De-focus Attention Networks**|Chenxin Tao et.al.|[2406.04342v1](http://arxiv.org/abs/2406.04342v1)|**[link](https://github.com/opengvlab/de-focus-attention-networks)**|
 |**2024-06-06**|**ReFiNe: Recursive Field Networks for Cross-modal Multi-scene Representation**|Sergey Zakharov et.al.|[2406.04309v1](http://arxiv.org/abs/2406.04309v1)|null|
 |**2024-06-06**|**VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval**|Junjie Zhou et.al.|[2406.04292v1](http://arxiv.org/abs/2406.04292v1)|**[link](https://github.com/flagopen/flagembedding)**|
@@ -3735,13 +3746,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**Multiplane Prior Guided Few-Shot Aerial Scene Rendering**|Zihan Gao et.al.|[2406.04961v1](http://arxiv.org/abs/2406.04961v1)|null|
+|**2024-06-07**|**Multi-style Neural Radiance Field with AdaIN**|Yu-Wen Pao et.al.|[2406.04960v1](http://arxiv.org/abs/2406.04960v1)|null|
 |**2024-06-06**|**Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization**|Takuhiro Kaneko et.al.|[2406.04155v1](http://arxiv.org/abs/2406.04155v1)|null|
 |**2024-06-06**|**How Far Can We Compress Instant-NGP-Based NeRF?**|Yihang Chen et.al.|[2406.04101v1](http://arxiv.org/abs/2406.04101v1)|**[link](https://github.com/yihangchen-ee/cnc)**|
 |**2024-06-06**|**Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling**|Xinhang Liu et.al.|[2406.03723v1](http://arxiv.org/abs/2406.03723v1)|null|
 |**2024-06-06**|**Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction**|Diwen Wan et.al.|[2406.03697v1](http://arxiv.org/abs/2406.03697v1)|null|
 |**2024-06-04**|**3D-HGS: 3D Half-Gaussian Splatting**|Haolin Li et.al.|[2406.02720v1](http://arxiv.org/abs/2406.02720v1)|null|
 |**2024-06-06**|**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting**|Inkyu Shin et.al.|[2406.02541v3](http://arxiv.org/abs/2406.02541v3)|null|
-|**2024-06-04**|**Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning**|Jiaxu Wang et.al.|[2406.02370v1](http://arxiv.org/abs/2406.02370v1)|null|
+|**2024-06-09**|**Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning**|Jiaxu Wang et.al.|[2406.02370v2](http://arxiv.org/abs/2406.02370v2)|null|
 |**2024-06-03**|**Reconstructing and Simulating Dynamic 3D Objects with Mesh-adsorbed Gaussian Splatting**|Shaojie Ma et.al.|[2406.01593v1](http://arxiv.org/abs/2406.01593v1)|null|
 |**2024-06-03**|**Tetrahedron Splatting for 3D Generation**|Chun Gu et.al.|[2406.01579v1](http://arxiv.org/abs/2406.01579v1)|**[link](https://github.com/fudan-zvg/tet-splatting)**|
 |**2024-06-03**|**Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting**|Fang Li et.al.|[2406.01042v1](http://arxiv.org/abs/2406.01042v1)|**[link](https://github.com/fangli333/sc-4dgs)**|
