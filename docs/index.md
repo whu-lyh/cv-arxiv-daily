@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -217,6 +217,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Merlin: A Vision Language Foundation Model for 3D Computed Tomography**|Louis Blankemeier et.al.|[2406.06512v1](http://arxiv.org/abs/2406.06512v1)|null|
+|**2024-06-10**|**AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction**|Zhen Xing et.al.|[2406.06465v1](http://arxiv.org/abs/2406.06465v1)|null|
+|**2024-06-10**|**STimage-1K4M: A histopathology image-gene expression dataset for spatial transcriptomics**|Jiawen Chen et.al.|[2406.06393v1](http://arxiv.org/abs/2406.06393v1)|**[link](https://github.com/JiawenChenn/STimage-1K4M)**|
+|**2024-06-10**|**MOSA: Music Motion with Semantic Annotation Dataset for Cross-Modal Music Processing**|Yu-Fen Huang et.al.|[2406.06375v1](http://arxiv.org/abs/2406.06375v1)|**[link](https://github.com/yufenhuang/mosa-music-motion-and-semantic-annotation-dataset)**|
+|**2024-06-10**|**Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks**|Zonghao Ying et.al.|[2406.06302v1](http://arxiv.org/abs/2406.06302v1)|**[link](https://github.com/ny1024/jailbreak_gpt4o)**|
+|**2024-06-10**|**Zero-Shot Audio Captioning Using Soft and Hard Prompts**|Yiming Zhang et.al.|[2406.06295v1](http://arxiv.org/abs/2406.06295v1)|null|
+|**2024-06-10**|**UEMM-Air: A Synthetic Multi-modal Dataset for Unmanned Aerial Vehicle Object Detection**|Fan Liu et.al.|[2406.06230v1](http://arxiv.org/abs/2406.06230v1)|**[link](https://github.com/1e12leon/uemm-air)**|
+|**2024-06-10**|**Extending Segment Anything Model into Auditory and Temporal Dimensions for Audio-Visual Segmentation**|Juhyeong Seon et.al.|[2406.06163v1](http://arxiv.org/abs/2406.06163v1)|null|
+|**2024-06-10**|**An Open and Large-Scale Dataset for Multi-Modal Climate Change-aware Crop Yield Predictions**|Fudong Lin et.al.|[2406.06081v1](http://arxiv.org/abs/2406.06081v1)|**[link](https://github.com/fudong03/CropNet)**|
+|**2024-06-10**|**Solution for SMART-101 Challenge of CVPR Multi-modal Algorithmic Reasoning Task 2024**|Jinwoo Ahn et.al.|[2406.05963v1](http://arxiv.org/abs/2406.05963v1)|null|
+|**2024-06-10**|**M2CVD: Multi-Model Collaboration for Code Vulnerability Detection**|Ziliang Wang et.al.|[2406.05940v1](http://arxiv.org/abs/2406.05940v1)|null|
+|**2024-06-09**|**MaLa-ASR: Multimedia-Assisted LLM-Based ASR**|Guanrou Yang et.al.|[2406.05839v1](http://arxiv.org/abs/2406.05839v1)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
+|**2024-06-09**|**A Superalignment Framework in Autonomous Driving with Large Language Models**|Xiangrui Kong et.al.|[2406.05651v1](http://arxiv.org/abs/2406.05651v1)|null|
+|**2024-06-09**|**Separating the "Chirp" from the "Chat": Self-supervised Visual Grounding of Sound and Language**|Mark Hamilton et.al.|[2406.05629v1](http://arxiv.org/abs/2406.05629v1)|**[link](https://github.com/mhamilton723/DenseAV)**|
+|**2024-06-08**|**Medical Vision Generalist: Unifying Medical Imaging Tasks in Context**|Sucheng Ren et.al.|[2406.05565v1](http://arxiv.org/abs/2406.05565v1)|**[link](https://github.com/oliverrensu/mvg)**|
 |**2024-06-07**|**Leveraging Generative AI for Extracting Process Models from Multimodal Documents**|Marvin Voelter et.al.|[2406.04959v1](http://arxiv.org/abs/2406.04959v1)|null|
 |**2024-06-07**|**MA-AVT: Modality Alignment for Parameter-Efficient Audio-Visual Transformers**|Tanvir Mahmud et.al.|[2406.04930v1](http://arxiv.org/abs/2406.04930v1)|null|
 |**2024-06-07**|**Multi-Granularity Language-Guided Multi-Object Tracking**|Yuhao Li et.al.|[2406.04844v1](http://arxiv.org/abs/2406.04844v1)|**[link](https://github.com/weslee88524/lg-mot)**|
@@ -3746,8 +3761,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527v1](http://arxiv.org/abs/2406.06527v1)|null|
+|**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526v1](http://arxiv.org/abs/2406.06526v1)|null|
+|**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521v1](http://arxiv.org/abs/2406.06521v1)|null|
+|**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216v1](http://arxiv.org/abs/2406.06216v1)|**[link](https://github.com/srameo/le3d)**|
+|**2024-06-10**|**ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models**|Meng-Li Shih et.al.|[2406.06133v1](http://arxiv.org/abs/2406.06133v1)|null|
+|**2024-06-09**|**GTR: Improving Large 3D Reconstruction Models through Geometry and Texture Refinement**|Peiye Zhuang et.al.|[2406.05649v1](http://arxiv.org/abs/2406.05649v1)|null|
 |**2024-06-07**|**Multiplane Prior Guided Few-Shot Aerial Scene Rendering**|Zihan Gao et.al.|[2406.04961v1](http://arxiv.org/abs/2406.04961v1)|null|
-|**2024-06-07**|**Multi-style Neural Radiance Field with AdaIN**|Yu-Wen Pao et.al.|[2406.04960v1](http://arxiv.org/abs/2406.04960v1)|null|
+|**2024-06-07**|**Multi-style Neural Radiance Field with AdaIN**|Yu-Wen Pao et.al.|[2406.04960v1](http://arxiv.org/abs/2406.04960v1)|**[link](https://github.com/vppyw/Stylized-NeRF-with-AdaIN)**|
 |**2024-06-06**|**Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization**|Takuhiro Kaneko et.al.|[2406.04155v1](http://arxiv.org/abs/2406.04155v1)|null|
 |**2024-06-06**|**How Far Can We Compress Instant-NGP-Based NeRF?**|Yihang Chen et.al.|[2406.04101v1](http://arxiv.org/abs/2406.04101v1)|**[link](https://github.com/yihangchen-ee/cnc)**|
 |**2024-06-06**|**Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling**|Xinhang Liu et.al.|[2406.03723v1](http://arxiv.org/abs/2406.03723v1)|null|
