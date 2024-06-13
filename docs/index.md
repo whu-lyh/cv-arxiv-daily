@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.12
+## Updated on 2024.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -217,6 +217,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**|Renjie Pi et.al.|[2406.07502v1](http://arxiv.org/abs/2406.07502v1)|**[link](https://github.com/sterzhang/image-textualization)**|
+|**2024-06-11**|**World Models with Hints of Large Language Models for Goal Achieving**|Zeyuan Liu et.al.|[2406.07381v1](http://arxiv.org/abs/2406.07381v1)|null|
+|**2024-06-11**|**Toxic Memes: A Survey of Computational Perspectives on the Detection and Explanation of Meme Toxicities**|Delfina Sol Martinez Pandiani et.al.|[2406.07353v1](http://arxiv.org/abs/2406.07353v1)|null|
+|**2024-06-11**|**Transferring Knowledge from Large Foundation Models to Small Downstream Models**|Shikai Qiu et.al.|[2406.07337v1](http://arxiv.org/abs/2406.07337v1)|null|
+|**2024-06-11**|**MM-KWS: Multi-modal Prompts for Multilingual User-defined Keyword Spotting**|Zhiqi Ai et.al.|[2406.07310v1](http://arxiv.org/abs/2406.07310v1)|null|
+|**2024-06-11**|**Which Country Is This? Automatic Country Ranking of Street View Photos**|Tim Menzner et.al.|[2406.07227v1](http://arxiv.org/abs/2406.07227v1)|null|
+|**2024-06-11**|**Open-World Human-Object Interaction Detection via Multi-modal Prompts**|Jie Yang et.al.|[2406.07221v1](http://arxiv.org/abs/2406.07221v1)|null|
+|**2024-06-11**|**Target Speech Diarization with Multimodal Prompts**|Yidi Jiang et.al.|[2406.07198v1](http://arxiv.org/abs/2406.07198v1)|null|
+|**2024-06-11**|**Unified Modeling Enhanced Multimodal Learning for Precision Neuro-Oncology**|Huahui Yi et.al.|[2406.07078v1](http://arxiv.org/abs/2406.07078v1)|**[link](https://github.com/huahuiyi/mmdp)**|
+|**2024-06-11**|**Benchmarking Trustworthiness of Multimodal Large Language Models: A Comprehensive Study**|Yichi Zhang et.al.|[2406.07057v1](http://arxiv.org/abs/2406.07057v1)|null|
+|**2024-06-11**|**Evolving from Single-modal to Multi-modal Facial Deepfake Detection: A Survey**|Ping Liu et.al.|[2406.06965v1](http://arxiv.org/abs/2406.06965v1)|null|
+|**2024-06-10**|**MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension**|Khiem Le et.al.|[2406.06777v1](http://arxiv.org/abs/2406.06777v1)|null|
 |**2024-06-10**|**Merlin: A Vision Language Foundation Model for 3D Computed Tomography**|Louis Blankemeier et.al.|[2406.06512v1](http://arxiv.org/abs/2406.06512v1)|null|
 |**2024-06-10**|**AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction**|Zhen Xing et.al.|[2406.06465v1](http://arxiv.org/abs/2406.06465v1)|null|
 |**2024-06-10**|**STimage-1K4M: A histopathology image-gene expression dataset for spatial transcriptomics**|Jiawen Chen et.al.|[2406.06393v1](http://arxiv.org/abs/2406.06393v1)|**[link](https://github.com/JiawenChenn/STimage-1K4M)**|
@@ -3761,6 +3773,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Active Scout: Multi-Target Tracking Using Neural Radiance Fields in Dense Urban Environments**|Christopher D. Hsu et.al.|[2406.07431v1](http://arxiv.org/abs/2406.07431v1)|null|
+|**2024-06-11**|**Generative Lifting of Multiview to 3D from Unknown Pose: Wrapping NeRF inside Diffusion**|Xin Yuan et.al.|[2406.06972v1](http://arxiv.org/abs/2406.06972v1)|null|
+|**2024-06-11**|**Neural Visibility Field for Uncertainty-Driven Active Mapping**|Shangjie Xue et.al.|[2406.06948v1](http://arxiv.org/abs/2406.06948v1)|null|
 |**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527v1](http://arxiv.org/abs/2406.06527v1)|null|
 |**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526v1](http://arxiv.org/abs/2406.06526v1)|null|
 |**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521v1](http://arxiv.org/abs/2406.06521v1)|null|
@@ -3768,7 +3783,7 @@ layout: default
 |**2024-06-10**|**ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models**|Meng-Li Shih et.al.|[2406.06133v1](http://arxiv.org/abs/2406.06133v1)|null|
 |**2024-06-09**|**GTR: Improving Large 3D Reconstruction Models through Geometry and Texture Refinement**|Peiye Zhuang et.al.|[2406.05649v1](http://arxiv.org/abs/2406.05649v1)|null|
 |**2024-06-07**|**Multiplane Prior Guided Few-Shot Aerial Scene Rendering**|Zihan Gao et.al.|[2406.04961v1](http://arxiv.org/abs/2406.04961v1)|null|
-|**2024-06-07**|**Multi-style Neural Radiance Field with AdaIN**|Yu-Wen Pao et.al.|[2406.04960v1](http://arxiv.org/abs/2406.04960v1)|**[link](https://github.com/vppyw/Stylized-NeRF-with-AdaIN)**|
+|**2024-06-07**|**Multi-style Neural Radiance Field with AdaIN**|Yu-Wen Pao et.al.|[2406.04960v1](http://arxiv.org/abs/2406.04960v1)|**[link](https://github.com/paoyw/Stylized-NeRF-with-AdaIN)**|
 |**2024-06-06**|**Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization**|Takuhiro Kaneko et.al.|[2406.04155v1](http://arxiv.org/abs/2406.04155v1)|null|
 |**2024-06-06**|**How Far Can We Compress Instant-NGP-Based NeRF?**|Yihang Chen et.al.|[2406.04101v1](http://arxiv.org/abs/2406.04101v1)|**[link](https://github.com/yihangchen-ee/cnc)**|
 |**2024-06-06**|**Gear-NeRF: Free-Viewpoint Rendering and Tracking with Motion-aware Spatio-Temporal Sampling**|Xinhang Liu et.al.|[2406.03723v1](http://arxiv.org/abs/2406.03723v1)|null|
