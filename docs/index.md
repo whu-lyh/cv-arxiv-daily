@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -217,6 +217,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**What If We Recaption Billions of Web Images with LLaMA-3?**|Xianhang Li et.al.|[2406.08478v1](http://arxiv.org/abs/2406.08478v1)|null|
+|**2024-06-12**|**Hierarchical Bayesian Emulation of the Expected Net Present Value Utility Function via a Multi-Model Ensemble Member Decomposition**|Jonathan Owen et.al.|[2406.08367v1](http://arxiv.org/abs/2406.08367v1)|null|
+|**2024-06-12**|**From a Social Cognitive Perspective: Context-aware Visual Social Relationship Recognition**|Shiwei Wu et.al.|[2406.08358v1](http://arxiv.org/abs/2406.08358v1)|null|
+|**2024-06-12**|**CoLM-DSR: Leveraging Neural Codec Language Modeling for Multi-Modal Dysarthric Speech Reconstruction**|Xueyuan Chen et.al.|[2406.08336v1](http://arxiv.org/abs/2406.08336v1)|null|
+|**2024-06-12**|**Boosting Multimedia Recommendation via Separate Generic and Unique Awareness**|Zhuangzhuang He et.al.|[2406.08270v1](http://arxiv.org/abs/2406.08270v1)|**[link](https://github.com/bruno686/SAND)**|
+|**2024-06-12**|**M3T: A New Benchmark Dataset for Multi-Modal Document-Level Machine Translation**|Benjamin Hsu et.al.|[2406.08255v1](http://arxiv.org/abs/2406.08255v1)|**[link](https://github.com/amazon-science/m3t-multi-modal-translation-bench)**|
+|**2024-06-12**|**MaIL: Improving Imitation Learning with Mamba**|Xiaogang Jia et.al.|[2406.08234v1](http://arxiv.org/abs/2406.08234v1)|null|
+|**2024-06-12**|**Flash-VStream: Memory-Based Real-Time Understanding for Long Video Streams**|Haoji Zhang et.al.|[2406.08085v1](http://arxiv.org/abs/2406.08085v1)|null|
+|**2024-06-12**|**A Concept-Based Explainability Framework for Large Multimodal Models**|Jayneel Parekh et.al.|[2406.08074v1](http://arxiv.org/abs/2406.08074v1)|null|
+|**2024-06-12**|**Aggregation Design for Personalized Federated Multi-Modal Learning over Wireless Networks**|Benshun Yin et.al.|[2406.07915v1](http://arxiv.org/abs/2406.07915v1)|null|
+|**2024-06-12**|**PolySpeech: Exploring Unified Multitask Speech Models for Competitiveness with Single-task Models**|Runyan Yang et.al.|[2406.07801v1](http://arxiv.org/abs/2406.07801v1)|null|
+|**2024-06-11**|**UICoder: Finetuning Large Language Models to Generate User Interface Code through Automated Feedback**|Jason Wu et.al.|[2406.07739v1](http://arxiv.org/abs/2406.07739v1)|null|
+|**2024-06-11**|**FastAST: Accelerating Audio Spectrogram Transformer via Token Merging and Cross-Model Knowledge Distillation**|Swarup Ranjan Behera et.al.|[2406.07676v1](http://arxiv.org/abs/2406.07676v1)|**[link](https://github.com/swarupbehera/FastAST)**|
 |**2024-06-11**|**Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**|Renjie Pi et.al.|[2406.07502v1](http://arxiv.org/abs/2406.07502v1)|**[link](https://github.com/sterzhang/image-textualization)**|
 |**2024-06-11**|**World Models with Hints of Large Language Models for Goal Achieving**|Zeyuan Liu et.al.|[2406.07381v1](http://arxiv.org/abs/2406.07381v1)|null|
 |**2024-06-11**|**Toxic Memes: A Survey of Computational Perspectives on the Detection and Explanation of Meme Toxicities**|Delfina Sol Martinez Pandiani et.al.|[2406.07353v1](http://arxiv.org/abs/2406.07353v1)|null|
@@ -3773,6 +3786,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**ICE-G: Image Conditional Editing of 3D Gaussian Splats**|Vishnu Jaganathan et.al.|[2406.08488v1](http://arxiv.org/abs/2406.08488v1)|null|
+|**2024-06-12**|**OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**|Yinan Deng et.al.|[2406.08009v1](http://arxiv.org/abs/2406.08009v1)|**[link](https://github.com/BIT-DYN/OpenObj)**|
+|**2024-06-12**|**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**|Yuru Xiao et.al.|[2406.07828v1](http://arxiv.org/abs/2406.07828v1)|**[link](https://github.com/pulangk97/SANeRF)**|
+|**2024-06-11**|**C3DAG: Controlled 3D Animal Generation using 3D pose guidance**|Sandeep Mishra et.al.|[2406.07742v1](http://arxiv.org/abs/2406.07742v1)|null|
+|**2024-06-11**|**M-LRM: Multi-view Large Reconstruction Model**|Mengfei Li et.al.|[2406.07648v1](http://arxiv.org/abs/2406.07648v1)|null|
 |**2024-06-11**|**Active Scout: Multi-Target Tracking Using Neural Radiance Fields in Dense Urban Environments**|Christopher D. Hsu et.al.|[2406.07431v1](http://arxiv.org/abs/2406.07431v1)|null|
 |**2024-06-11**|**Generative Lifting of Multiview to 3D from Unknown Pose: Wrapping NeRF inside Diffusion**|Xin Yuan et.al.|[2406.06972v1](http://arxiv.org/abs/2406.06972v1)|null|
 |**2024-06-11**|**Neural Visibility Field for Uncertainty-Driven Active Mapping**|Shangjie Xue et.al.|[2406.06948v1](http://arxiv.org/abs/2406.06948v1)|null|
