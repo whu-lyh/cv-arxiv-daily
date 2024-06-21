@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.20
+## Updated on 2024.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -229,7 +229,7 @@ layout: default
 |**2024-06-18**|**ViDSOD-100: A New Dataset and a Baseline Model for RGB-D Video Salient Object Detection**|Junhao Lin et.al.|[2406.12536v1](http://arxiv.org/abs/2406.12536v1)|**[link](https://github.com/jhl-det/rgbd_video_sod)**|
 |**2024-06-18**|**Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback**|Guipeng Xv et.al.|[2406.12501v1](http://arxiv.org/abs/2406.12501v1)|null|
 |**2024-06-18**|**RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding**|Linrui Xu et.al.|[2406.12479v1](http://arxiv.org/abs/2406.12479v1)|**[link](https://github.com/geox-lab/rs-gpt4v)**|
-|**2024-06-18**|**Robustness Testing of Multi-Modal Models in Varied Home Environments for Assistive Robots**|Lea Hirlimann et.al.|[2406.12443v1](http://arxiv.org/abs/2406.12443v1)|null|
+|**2024-06-19**|**Robustness Testing of Multi-Modal Models in Varied Home Environments for Assistive Robots**|Lea Hirlimann et.al.|[2406.12443v2](http://arxiv.org/abs/2406.12443v2)|null|
 |**2024-06-18**|**LiCAF: LiDAR-Camera Asymmetric Fusion for Gait Recognition**|Yunze Deng et.al.|[2406.12355v1](http://arxiv.org/abs/2406.12355v1)|null|
 |**2024-06-18**|**VoCo-LLaMA: Towards Vision Compression with Large Language Models**|Xubing Ye et.al.|[2406.12275v1](http://arxiv.org/abs/2406.12275v1)|null|
 |**2024-06-18**|**Agriculture-Vision Challenge 2024 -- The Runner-Up Solution for Agricultural Pattern Recognition via Class Balancing and Model Ensemble**|Wang Liu et.al.|[2406.12271v1](http://arxiv.org/abs/2406.12271v1)|null|
