@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.24
+## Updated on 2024.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Kinematic Mapping
@@ -145,7 +145,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-04**|**Multi-Scale Direction-Aware Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[2406.02037v1](http://arxiv.org/abs/2406.02037v1)|null|
-|**2024-06-18**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676v2](http://arxiv.org/abs/2406.00676v2)|null|
+|**2024-06-23**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676v3](http://arxiv.org/abs/2406.00676v3)|null|
 |**2024-05-27**|**CudaSIFT-SLAM: multiple-map visual SLAM for full procedure mapping in real human endoscopy**|Richard Elvira et.al.|[2405.16932v1](http://arxiv.org/abs/2405.16932v1)|null|
 |**2024-05-20**|**RHAML: Rendezvous-based Hierarchical Architecture for Mutual Localization**|Gaoming Chen et.al.|[2405.11726v1](http://arxiv.org/abs/2405.11726v1)|null|
 |**2024-05-14**|**Multipath-based SLAM with Cooperation and Map Fusion in MIMO Systems**|Erik Leitinger et.al.|[2405.02126v2](http://arxiv.org/abs/2405.02126v2)|null|
@@ -218,6 +218,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Cross-Modality Safety Alignment**|Siyin Wang et.al.|[2406.15279v1](http://arxiv.org/abs/2406.15279v1)|**[link](https://github.com/sinwang20/siuo)**|
+|**2024-06-21**|**Exploring Audio-Visual Information Fusion for Sound Event Localization and Detection In Low-Resource Realistic Scenarios**|Ya Jiang et.al.|[2406.15160v1](http://arxiv.org/abs/2406.15160v1)|null|
+|**2024-06-21**|**How Intermodal Interaction Affects the Performance of Deep Multimodal Fusion for Mixed-Type Time Series**|Simon Dietz et.al.|[2406.15098v1](http://arxiv.org/abs/2406.15098v1)|null|
+|**2024-06-21**|**Improving Interpretability and Robustness for the Detection of AI-Generated Images**|Tatiana Gaintseva et.al.|[2406.15035v1](http://arxiv.org/abs/2406.15035v1)|null|
+|**2024-06-21**|**Unveiling the Impact of Multi-Modal Interactions on User Engagement: A Comprehensive Evaluation in AI-driven Conversations**|Lichao Zhang et.al.|[2406.15000v1](http://arxiv.org/abs/2406.15000v1)|null|
+|**2024-06-21**|**Trustworthy Enhanced Multi-view Multi-modal Alzheimer's Disease Prediction with Brain-wide Imaging Transcriptomics Data**|Shan Cong et.al.|[2406.14977v1](http://arxiv.org/abs/2406.14977v1)|null|
+|**2024-06-21**|**LatentExplainer: Explaining Latent Representations in Deep Generative Models with Multi-modal Foundation Models**|Mengdan Zhu et.al.|[2406.14862v1](http://arxiv.org/abs/2406.14862v1)|null|
+|**2024-06-21**|**Is A Picture Worth A Thousand Words? Delving Into Spatial Reasoning for Vision Language Models**|Jiayu Wang et.al.|[2406.14852v1](http://arxiv.org/abs/2406.14852v1)|null|
+|**2024-06-21**|**CLIP-Decoder : ZeroShot Multilabel Classification using Multimodal CLIP Aligned Representation**|Muhammad Ali et.al.|[2406.14830v1](http://arxiv.org/abs/2406.14830v1)|null|
 |**2024-06-20**|**MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding**|Xinyu Fang et.al.|[2406.14515v1](http://arxiv.org/abs/2406.14515v1)|**[link](https://github.com/open-compass/vlmevalkit)**|
 |**2024-06-20**|**Revealing Vision-Language Integration in the Brain with Multimodal Networks**|Vighnesh Subramaniam et.al.|[2406.14481v1](http://arxiv.org/abs/2406.14481v1)|null|
 |**2024-06-20**|**MM-GTUNets: Unified Multi-Modal Graph Deep Learning for Brain Disorders Prediction**|Luhui Cai et.al.|[2406.14455v1](http://arxiv.org/abs/2406.14455v1)|null|
@@ -3576,6 +3585,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Voxel-Based Point Cloud Localization for Smart Spaces Management**|F. S. Mortazavi et.al.|[2406.15110v1](http://arxiv.org/abs/2406.15110v1)|null|
 |**2024-04-27**|**Instance-free Text to Point Cloud Localization with Relative Position Awareness**|Lichao Wang et.al.|[2404.17845v1](http://arxiv.org/abs/2404.17845v1)|null|
 |**2024-04-26**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751v2](http://arxiv.org/abs/2403.02751v2)|null|
 |**2024-03-28**|**Text2Loc: 3D Point Cloud Localization from Natural Language**|Yan Xia et.al.|[2311.15977v2](http://arxiv.org/abs/2311.15977v2)|null|
@@ -3861,6 +3871,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**A3D: Does Diffusion Dream about 3D Alignment?**|Savva Ignatyev et.al.|[2406.15020v1](http://arxiv.org/abs/2406.15020v1)|null|
+|**2024-06-21**|**E2GS: Event Enhanced Gaussian Splatting**|Hiroyuki Deguchi et.al.|[2406.14978v1](http://arxiv.org/abs/2406.14978v1)|**[link](https://github.com/deguchihiroyuki/e2gs)**|
+|**2024-06-21**|**Relighting Scenes with Object Insertions in Neural Radiance Fields**|Xuening Zhu et.al.|[2406.14806v1](http://arxiv.org/abs/2406.14806v1)|null|
 |**2024-06-20**|**Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment**|Yunshan Qi et.al.|[2406.14360v1](http://arxiv.org/abs/2406.14360v1)|null|
 |**2024-06-19**|**NeRF-Feat: 6D Object Pose Estimation using Feature Rendering**|Shishir Reddy Vutukur et.al.|[2406.13796v1](http://arxiv.org/abs/2406.13796v1)|null|
 |**2024-06-19**|**Style-NeRF2NeRF: 3D Style Transfer From Style-Aligned Multi-View Images**|Haruo Fujiwara et.al.|[2406.13393v1](http://arxiv.org/abs/2406.13393v1)|null|

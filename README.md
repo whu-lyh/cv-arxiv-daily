@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.24
+## Updated on 2024.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -150,14 +150,14 @@
 |**2022-11-23**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v2](http://arxiv.org/abs/2210.01320v2)|null|
 |**2023-02-22**|**GANet: Goal Area Network for Motion Forecasting**|Mingkun Wang et.al.|[2209.09723v3](http://arxiv.org/abs/2209.09723v3)|**[link](https://github.com/kingwmk/ganet)**|
 
-<p align=right>(<a href=#Updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240625>back to top</a>)</p>
 
 ## Map fusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-04**|**Multi-Scale Direction-Aware Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[2406.02037v1](http://arxiv.org/abs/2406.02037v1)|null|
-|**2024-06-18**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676v2](http://arxiv.org/abs/2406.00676v2)|null|
+|**2024-06-23**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676v3](http://arxiv.org/abs/2406.00676v3)|null|
 |**2024-05-27**|**CudaSIFT-SLAM: multiple-map visual SLAM for full procedure mapping in real human endoscopy**|Richard Elvira et.al.|[2405.16932v1](http://arxiv.org/abs/2405.16932v1)|null|
 |**2024-05-20**|**RHAML: Rendezvous-based Hierarchical Architecture for Mutual Localization**|Gaoming Chen et.al.|[2405.11726v1](http://arxiv.org/abs/2405.11726v1)|null|
 |**2024-05-14**|**Multipath-based SLAM with Cooperation and Map Fusion in MIMO Systems**|Erik Leitinger et.al.|[2405.02126v2](http://arxiv.org/abs/2405.02126v2)|null|
@@ -226,12 +226,21 @@
 |**2019-03-14**|**AgriColMap: Aerial-Ground Collaborative 3D Mapping for Precision Farming**|Ciro Potena et.al.|[1810.00457v2](http://arxiv.org/abs/1810.00457v2)|null|
 |**2019-03-05**|**Efficient Constellation-Based Map-Merging for Semantic SLAM**|Kristoffer M. Frey et.al.|[1809.09646v2](http://arxiv.org/abs/1809.09646v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240625>back to top</a>)</p>
 
 ## MultiModality
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Cross-Modality Safety Alignment**|Siyin Wang et.al.|[2406.15279v1](http://arxiv.org/abs/2406.15279v1)|**[link](https://github.com/sinwang20/siuo)**|
+|**2024-06-21**|**Exploring Audio-Visual Information Fusion for Sound Event Localization and Detection In Low-Resource Realistic Scenarios**|Ya Jiang et.al.|[2406.15160v1](http://arxiv.org/abs/2406.15160v1)|null|
+|**2024-06-21**|**How Intermodal Interaction Affects the Performance of Deep Multimodal Fusion for Mixed-Type Time Series**|Simon Dietz et.al.|[2406.15098v1](http://arxiv.org/abs/2406.15098v1)|null|
+|**2024-06-21**|**Improving Interpretability and Robustness for the Detection of AI-Generated Images**|Tatiana Gaintseva et.al.|[2406.15035v1](http://arxiv.org/abs/2406.15035v1)|null|
+|**2024-06-21**|**Unveiling the Impact of Multi-Modal Interactions on User Engagement: A Comprehensive Evaluation in AI-driven Conversations**|Lichao Zhang et.al.|[2406.15000v1](http://arxiv.org/abs/2406.15000v1)|null|
+|**2024-06-21**|**Trustworthy Enhanced Multi-view Multi-modal Alzheimer's Disease Prediction with Brain-wide Imaging Transcriptomics Data**|Shan Cong et.al.|[2406.14977v1](http://arxiv.org/abs/2406.14977v1)|null|
+|**2024-06-21**|**LatentExplainer: Explaining Latent Representations in Deep Generative Models with Multi-modal Foundation Models**|Mengdan Zhu et.al.|[2406.14862v1](http://arxiv.org/abs/2406.14862v1)|null|
+|**2024-06-21**|**Is A Picture Worth A Thousand Words? Delving Into Spatial Reasoning for Vision Language Models**|Jiayu Wang et.al.|[2406.14852v1](http://arxiv.org/abs/2406.14852v1)|null|
+|**2024-06-21**|**CLIP-Decoder : ZeroShot Multilabel Classification using Multimodal CLIP Aligned Representation**|Muhammad Ali et.al.|[2406.14830v1](http://arxiv.org/abs/2406.14830v1)|null|
 |**2024-06-20**|**MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding**|Xinyu Fang et.al.|[2406.14515v1](http://arxiv.org/abs/2406.14515v1)|**[link](https://github.com/open-compass/vlmevalkit)**|
 |**2024-06-20**|**Revealing Vision-Language Integration in the Brain with Multimodal Networks**|Vighnesh Subramaniam et.al.|[2406.14481v1](http://arxiv.org/abs/2406.14481v1)|null|
 |**2024-06-20**|**MM-GTUNets: Unified Multi-Modal Graph Deep Learning for Brain Disorders Prediction**|Luhui Cai et.al.|[2406.14455v1](http://arxiv.org/abs/2406.14455v1)|null|
@@ -3586,12 +3595,13 @@
 |**2023-02-13**|**CLIP-RR: Improved CLIP Network for Relation-Focused Cross-Modal Information Retrieval**|Yan Gong et.al.|[2302.06350v1](http://arxiv.org/abs/2302.06350v1)|null|
 |**2023-02-13**|**CoMAE: Single Model Hybrid Pre-training on Small-Scale RGB-D Datasets**|Jiange Yang et.al.|[2302.06148v1](http://arxiv.org/abs/2302.06148v1)|**[link](https://github.com/mcg-nju/comae)**|
 
-<p align=right>(<a href=#Updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240625>back to top</a>)</p>
 
 ## Point Cloud Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Voxel-Based Point Cloud Localization for Smart Spaces Management**|F. S. Mortazavi et.al.|[2406.15110v1](http://arxiv.org/abs/2406.15110v1)|null|
 |**2024-04-27**|**Instance-free Text to Point Cloud Localization with Relative Position Awareness**|Lichao Wang et.al.|[2404.17845v1](http://arxiv.org/abs/2404.17845v1)|null|
 |**2024-04-26**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751v2](http://arxiv.org/abs/2403.02751v2)|null|
 |**2024-03-28**|**Text2Loc: 3D Point Cloud Localization from Natural Language**|Yan Xia et.al.|[2311.15977v2](http://arxiv.org/abs/2311.15977v2)|null|
@@ -3605,7 +3615,7 @@
 |**2018-04-03**|**Mining Point Cloud Local Structures by Kernel Correlation and Graph Pooling**|Yiru Shen et.al.|[1712.06760v2](http://arxiv.org/abs/1712.06760v2)|null|
 |**2017-02-14**|**Graph Based Over-Segmentation Methods for 3D Point Clouds**|Yizhak Ben-Shabat et.al.|[1702.04114v1](http://arxiv.org/abs/1702.04114v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240625>back to top</a>)</p>
 
 ## Place Recognization
 
@@ -3689,7 +3699,7 @@
 |**2021-05-24**|**OverlapNet: Loop Closing for LiDAR-based SLAM**|Xieyuanli Chen et.al.|[2105.11344v1](http://arxiv.org/abs/2105.11344v1)|**[link](https://github.com/PRBonn/OverlapNet)**|
 |**2021-03-23**|**NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation**|Zhicheng Zhou et.al.|[2103.12292v1](http://arxiv.org/abs/2103.12292v1)|**[link](https://github.com/dachengxiaocheng/NDT-Transformer)**|
 
-<p align=right>(<a href=#Updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240625>back to top</a>)</p>
 
 ## LiDAR SLAM
 
@@ -3768,7 +3778,7 @@
 |**2020-08-09**|**LiDAR Data Enrichment Using Deep Learning Based on High-Resolution Image: An Approach to Achieve High-Performance LiDAR SLAM Using Low-cost LiDAR**|Jiang Yue et.al.|[2008.03694v1](http://arxiv.org/abs/2008.03694v1)|null|
 |**2020-08-05**|**Elasticity Meets Continuous-Time: Map-Centric Dense 3D LiDAR SLAM**|Chanoh Park et.al.|[2008.02274v1](http://arxiv.org/abs/2008.02274v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240625>back to top</a>)</p>
 
 ## Transformer
 
@@ -3879,12 +3889,15 @@
 |**2021-10-14**|**Investigating Attention Mechanism in 3D Point Cloud Object Detection**|Shi Qiu et.al.|[2108.00620v2](http://arxiv.org/abs/2108.00620v2)|**[link](https://github.com/ShiQiu0419/attentions_in_3D_detection)**|
 |**2021-07-29**|**Reduction of balance laws in (3+1)--dimensions to autonomous conservation laws by means of equivalence transformations**|Matteo Gorgone et.al.|[2107.14144v1](http://arxiv.org/abs/2107.14144v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240625>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**A3D: Does Diffusion Dream about 3D Alignment?**|Savva Ignatyev et.al.|[2406.15020v1](http://arxiv.org/abs/2406.15020v1)|null|
+|**2024-06-21**|**E2GS: Event Enhanced Gaussian Splatting**|Hiroyuki Deguchi et.al.|[2406.14978v1](http://arxiv.org/abs/2406.14978v1)|**[link](https://github.com/deguchihiroyuki/e2gs)**|
+|**2024-06-21**|**Relighting Scenes with Object Insertions in Neural Radiance Fields**|Xuening Zhu et.al.|[2406.14806v1](http://arxiv.org/abs/2406.14806v1)|null|
 |**2024-06-20**|**Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment**|Yunshan Qi et.al.|[2406.14360v1](http://arxiv.org/abs/2406.14360v1)|null|
 |**2024-06-19**|**NeRF-Feat: 6D Object Pose Estimation using Feature Rendering**|Shishir Reddy Vutukur et.al.|[2406.13796v1](http://arxiv.org/abs/2406.13796v1)|null|
 |**2024-06-19**|**Style-NeRF2NeRF: 3D Style Transfer From Style-Aligned Multi-View Images**|Haruo Fujiwara et.al.|[2406.13393v1](http://arxiv.org/abs/2406.13393v1)|null|
@@ -4887,7 +4900,7 @@
 |**2022-12-08**|**GazeNeRF: 3D-Aware Gaze Redirection with Neural Radiance Fields**|Alessandro Ruzzi et.al.|[2212.04823v1](http://arxiv.org/abs/2212.04823v1)|**[link](https://github.com/alessandroruzzi/gazenerf)**|
 |**2022-12-09**|**4K-NeRF: High Fidelity Neural Radiance Fields at Ultra High Resolutions**|Zhongshu Wang et.al.|[2212.04701v1](http://arxiv.org/abs/2212.04701v1)|**[link](https://github.com/frozoul/4k-nerf)**|
 
-<p align=right>(<a href=#Updated-on-20240624>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240625>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
