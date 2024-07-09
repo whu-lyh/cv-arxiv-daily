@@ -5,7 +5,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 20
 
 publish_readme: True
 publish_gitpage: True
@@ -33,5 +33,5 @@ keywords:
     "Point Cloud Consistency":
         filters: ["Kinematic Mapping", "Trajectory Estimation", "Nonrigid registration", "Nonrigid matching", 
                     "Point Cloud consistency", "Point Cloud Inconsistency"]
-    "Place Recognization":
-        filters: ["Point Cloud Place Recognization", "Point Cloud Retrieval", "Point Cloud Global Localization"]
+    "Place Recognition":
+        filters: ["Point Cloud Place Recognition", "Point Cloud Retrieval", "Point Cloud Global Localization"]
