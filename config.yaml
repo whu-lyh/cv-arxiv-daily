@@ -33,7 +33,7 @@ keywords:
     "Map":
         filters: ["Map fusion", "Map Representation", "Map merging"]
     "Point Cloud Consistency":
-        filters: ["Kinematic Mapping", "Trajectory Estimation", "Nonrigid registration", "Nonrigid matching", 
+        filters: ["Trajectory Estimation", "Nonrigid registration", 
                     "Point Cloud consistency", "Point Cloud Inconsistency"]
     "Place Recognition":
         filters: ["Point Cloud Place Recognition", "Point Cloud Retrieval", "Point Cloud Global Localization"]
