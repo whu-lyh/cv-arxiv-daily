@@ -23,9 +23,11 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation", "Geolocalization", "Cross-view Geolocalization", "Cross-modality Localization",
+        filters: ["Visual Localization", "Camera Localization", "Image Localization",
+                  "Camera Re-localisation", "Geolocalization", "Cross-view Geolocalization",
                   "visual place recognition","image retrieval"]
+    "Cross-modality Localization":
+        filters: ["Cross-modality Coarse Localization", "Cross-modality Localization", "Cross-modal Localization"]
     "3D GS":
         filters: ["Gaussian Splatting", "Gaussian SLAM", "Rendering Images", "GS SLAM", "Rendering Localization"]
     "Map":
