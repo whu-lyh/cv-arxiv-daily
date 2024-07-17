@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.16
+## Updated on 2024.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -136,7 +136,7 @@ layout: default
 |**2024-04-26**|**SLAM for Indoor Mapping of Wide Area Construction Environments**|Vincent Ress et.al.|[2404.17215](http://arxiv.org/abs/2404.17215)|null|
 |**2024-04-19**|**DeeperHistReg: Robust Whole Slide Images Registration Framework**|Marek Wodzinski et.al.|[2404.14434](http://arxiv.org/abs/2404.14434)|**[link](https://github.com/mwod/deeperhistreg)**|
 |**2024-04-26**|**RegWSI: Whole Slide Image Registration using Combined Deep Feature- and Intensity-Based Methods: Winner of the ACROBAT 2023 Challenge**|Marek Wodzinski et.al.|[2404.13108](http://arxiv.org/abs/2404.13108)|null|
-|**2024-04-19**|**RetailOpt: An Opt-In, Easy-to-Deploy Trajectory Estimation System Leveraging Smartphone Motion Data and Retail Facility Information**|Ryo Yonetani et.al.|[2404.12548](http://arxiv.org/abs/2404.12548)|null|
+|**2024-07-16**|**RetailOpt: Opt-In, Easy-to-Deploy Trajectory Estimation from Smartphone Motion Data and Retail Facility Information**|Ryo Yonetani et.al.|[2404.12548](http://arxiv.org/abs/2404.12548)|null|
 |**2024-04-06**|**Evaluation and Optimization of Positional Accuracy for Maritime Positioning Systems**|Atilla Alpay Nalcaci et.al.|[2404.04593](http://arxiv.org/abs/2404.04593)|null|
 |**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940](http://arxiv.org/abs/2404.03940)|null|
 |**2024-03-09**|**Laser-to-Vehicle Extrinsic Calibration in Low-Observability Scenarios for Subsea Mapping**|Thomas Hitchcox et.al.|[2402.14993](http://arxiv.org/abs/2402.14993)|null|
