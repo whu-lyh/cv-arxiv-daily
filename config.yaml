@@ -34,6 +34,7 @@ keywords:
         filters: ["Map fusion", "Map Representation", "Map merging"]
     "Point Cloud Consistency":
         filters: ["Trajectory Estimation", "Nonrigid registration", 
-                    "Point Cloud consistency", "Point Cloud Inconsistency"]
+                    "Point Cloud Consistency", "Point Cloud Inconsistency"]
     "Place Recognition":
-        filters: ["Point Cloud Place Recognition", "Point Cloud Retrieval", "Point Cloud Global Localization"]
+        filters: ["Point Cloud Place Recognition", "Point Cloud Retrieval", "Point Cloud Global Localization"，
+                    "LiDAR Place Recognition"]
