@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.20
+## Updated on 2024.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-19**|**Pose-GuideNet: Automatic Scanning Guidance for Fetal Head Ultrasound from Pose Estimation**|Qianhui Men et.al.|[2408.09931](http://arxiv.org/abs/2408.09931)|null|
 |**2024-08-19**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|null|
-|**2024-08-19**|**MambaLoc: Efficient Camera Localisation via State Space Model**|Jialu Wang et.al.|[2408.09680](http://arxiv.org/abs/2408.09680)|null|
+|**2024-08-20**|**MambaLoc: Efficient Camera Localisation via State Space Model**|Jialu Wang et.al.|[2408.09680](http://arxiv.org/abs/2408.09680)|null|
 |**2024-08-18**|**Image-Based Geolocation Using Large Vision-Language Models**|Yi Liu et.al.|[2408.09474](http://arxiv.org/abs/2408.09474)|null|
 |**2024-08-15**|**DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions**|Ryosuke Korekata et.al.|[2408.07910](http://arxiv.org/abs/2408.07910)|null|
 |**2024-08-13**|**PSM: Learning Probabilistic Embeddings for Multi-scale Zero-Shot Soundscape Mapping**|Subash Khanal et.al.|[2408.07050](http://arxiv.org/abs/2408.07050)|null|
@@ -26,7 +26,7 @@ layout: default
 |**2024-08-09**|**Spherical World-Locking for Audio-Visual Localization in Egocentric Videos**|Heeseung Yun et.al.|[2408.05364](http://arxiv.org/abs/2408.05364)|null|
 |**2024-08-06**|**AMES: Asymmetric and Memory-Efficient Similarity Estimation for Instance-level Retrieval**|Pavel Suma et.al.|[2408.03282](http://arxiv.org/abs/2408.03282)|null|
 |**2024-08-06**|**Stacking fault segregation imaging with analytical field ion microscopy**|F. F. Morgado et.al.|[2408.03167](http://arxiv.org/abs/2408.03167)|null|
-|**2024-08-05**|**GAReT: Cross-view Video Geolocalization with Adapters and Auto-Regressive Transformers**|Manu S Pillai et.al.|[2408.02840](http://arxiv.org/abs/2408.02840)|null|
+|**2024-08-05**|**GAReT: Cross-view Video Geolocalization with Adapters and Auto-Regressive Transformers**|Manu S Pillai et.al.|[2408.02840](http://arxiv.org/abs/2408.02840)|**[link](https://github.com/manupillai308/garet)**|
 |**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
 |**2024-08-02**|**On Validation of Search & Retrieval of Tissue Images in Digital Pathology**|H. R. Tizhoosh et.al.|[2408.01570](http://arxiv.org/abs/2408.01570)|null|
 |**2024-07-31**|**VIPeR: Visual Incremental Place Recognition with Adaptive Mining and Lifelong Learning**|Yuhang Ming et.al.|[2407.21416](http://arxiv.org/abs/2407.21416)|null|
@@ -86,11 +86,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-19**|**LoopSplat: Loop Closure by Registering 3D Gaussian Splats**|Liyuan Zhu et.al.|[2408.10154](http://arxiv.org/abs/2408.10154)|null|
+|**2024-08-20**|**LoopSplat: Loop Closure by Registering 3D Gaussian Splats**|Liyuan Zhu et.al.|[2408.10154](http://arxiv.org/abs/2408.10154)|null|
 |**2024-08-19**|**Implicit Gaussian Splatting with Efficient Multi-Level Tri-Plane Representation**|Minye Wu et.al.|[2408.10041](http://arxiv.org/abs/2408.10041)|null|
 |**2024-08-19**|**SG-GS: Photo-realistic Animatable Human Avatars with Semantically-Guided Gaussian Splatting**|Haoyu Zhao et.al.|[2408.09665](http://arxiv.org/abs/2408.09665)|null|
-|**2024-08-19**|**CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**|Haoyu Zhao et.al.|[2408.09663](http://arxiv.org/abs/2408.09663)|null|
-|**2024-08-17**|**Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting**|Sheng Ye et.al.|[2408.09130](http://arxiv.org/abs/2408.09130)|null|
+|**2024-08-20**|**CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**|Haoyu Zhao et.al.|[2408.09663](http://arxiv.org/abs/2408.09663)|null|
+|**2024-08-20**|**Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting**|Sheng Ye et.al.|[2408.09130](http://arxiv.org/abs/2408.09130)|null|
 |**2024-08-16**|**Correspondence-Guided SfM-Free 3D Gaussian Splatting for NVS**|Wei Sun et.al.|[2408.08723](http://arxiv.org/abs/2408.08723)|null|
 |**2024-08-16**|**GS-ID: Illumination Decomposition on Gaussian Splatting via Diffusion Prior and Parametric Light Source Optimization**|Kang Du et.al.|[2408.08524](http://arxiv.org/abs/2408.08524)|**[link](https://github.com/dukang/gs-id)**|
 |**2024-08-15**|**WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting**|Huapeng Li et.al.|[2408.08206](http://arxiv.org/abs/2408.08206)|null|
