@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-25**|**LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task**|Ali Asgarov et.al.|[2408.13909](http://arxiv.org/abs/2408.13909)|**[link](https://github.com/aliasgerovs/azclip)**|
+|**2024-08-15**|**Cross-Modal Denoising: A Novel Training Paradigm for Enhancing Speech-Image Retrieval**|Lifeng Zhou et.al.|[2408.13705](http://arxiv.org/abs/2408.13705)|null|
 |**2024-08-15**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
 |**2024-08-22**|**Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning**|Junlin He et.al.|[2408.12116](http://arxiv.org/abs/2408.12116)|null|
 |**2024-08-21**|**FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization**|Son Tung Nguyen et.al.|[2408.12037](http://arxiv.org/abs/2408.12037)|null|
@@ -93,6 +95,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Avatar Concept Slider: Manipulate Concepts In Your Human Avatar With Fine-grained Control**|Yixuan He et.al.|[2408.13995](http://arxiv.org/abs/2408.13995)|null|
+|**2024-08-26**|**DynaSurfGS: Dynamic Surface Reconstruction with Planar-based Gaussian Splatting**|Weiwei Cai et.al.|[2408.13972](http://arxiv.org/abs/2408.13972)|**[link](https://github.com/open3dvlab/dynasurfgs)**|
+|**2024-08-25**|**Splatt3R: Zero-shot Gaussian Splatting from Uncalibarated Image Pairs**|Brandon Smart et.al.|[2408.13912](http://arxiv.org/abs/2408.13912)|null|
+|**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
+|**2024-08-25**|**SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting**|Wenrui Li et.al.|[2408.13711](http://arxiv.org/abs/2408.13711)|**[link](https://github.com/liwrui/scenedreamer360)**|
+|**2024-08-23**|**BiGS: Bidirectional Gaussian Primitives for Relightable 3D Gaussian Splatting**|Zhenyuan Liu et.al.|[2408.13370](http://arxiv.org/abs/2408.13370)|null|
 |**2024-08-23**|**S4D: Streaming 4D Real-World Reconstruction with Gaussians and 3D Control Points**|Bing He et.al.|[2408.13036](http://arxiv.org/abs/2408.13036)|null|
 |**2024-08-23**|**FLoD: Integrating Flexible Level of Detail into 3D Gaussian Splatting for Customizable Rendering**|Yunji Seo et.al.|[2408.12894](http://arxiv.org/abs/2408.12894)|null|
 |**2024-08-26**|**GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion**|Jiaxin Wei et.al.|[2408.12677](http://arxiv.org/abs/2408.12677)|**[link](https://github.com/goldoak/gsfusion)**|
@@ -212,6 +220,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-25**|**COMPOSE: Comprehensive Portrait Shadow Editing**|Andrew Hou et.al.|[2408.13922](http://arxiv.org/abs/2408.13922)|null|
 |**2024-08-26**|**GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion**|Jiaxin Wei et.al.|[2408.12677](http://arxiv.org/abs/2408.12677)|**[link](https://github.com/goldoak/gsfusion)**|
 |**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-10**|**TOPGN: Real-time Transparent Obstacle Detection using Lidar Point Cloud Intensity for Autonomous Robot Navigation**|Kasun Weerakoon et.al.|[2408.05608](http://arxiv.org/abs/2408.05608)|null|
