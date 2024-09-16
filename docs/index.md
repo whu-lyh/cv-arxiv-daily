@@ -118,6 +118,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
+|**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
+|**2024-09-13**|**Dense Point Clouds Matter: Dust-GS for Scene Reconstruction from Sparse Viewpoints**|Shan Chen et.al.|[2409.08613](http://arxiv.org/abs/2409.08613)|null|
+|**2024-09-13**|**CSS: Overcoming Pose and Scene Challenges in Crowd-Sourced 3D Gaussian Splatting**|Runze Chen et.al.|[2409.08562](http://arxiv.org/abs/2409.08562)|null|
+|**2024-09-12**|**Robust Dual Gaussian Splatting for Immersive Human-centric Volumetric Videos**|Yuheng Jiang et.al.|[2409.08353](http://arxiv.org/abs/2409.08353)|null|
 |**2024-09-12**|**FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally**|Qiuhong Shen et.al.|[2409.08270](http://arxiv.org/abs/2409.08270)|**[link](https://github.com/florinshen/flashsplat)**|
 |**2024-09-12**|**Thermal3D-GS: Physics-induced 3D Gaussians for Thermal Infrared Novel-view Synthesis**|Qian Chen et.al.|[2409.08042](http://arxiv.org/abs/2409.08042)|**[link](https://github.com/mzzcdf/thermal3dgs)**|
 |**2024-09-12**|**SwinGS: Sliding Window Gaussian Splatting for Volumetric Video Streaming with Arbitrary Length**|Bangya Liu et.al.|[2409.07759](http://arxiv.org/abs/2409.07759)|null|
@@ -285,6 +290,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**SLIM: Scalable and Lightweight LiDAR Mapping in Urban Environments**|Zehuan Yu et.al.|[2409.08681](http://arxiv.org/abs/2409.08681)|null|
+|**2024-09-13**|**Intelligent LiDAR Navigation: Leveraging External Information and Semantic Maps with LLM as Copilot**|Fujing Xie et.al.|[2409.08493](http://arxiv.org/abs/2409.08493)|null|
 |**2024-09-03**|**EPRecon: An Efficient Framework for Real-Time Panoptic 3D Reconstruction from Monocular Video**|Zhen Zhou et.al.|[2409.01807](http://arxiv.org/abs/2409.01807)|**[link](https://github.com/zhen6618/eprecon)**|
 |**2024-09-02**|**Robust Vehicle Localization and Tracking in Rain using Street Maps**|Yu Xiang Tan et.al.|[2409.01038](http://arxiv.org/abs/2409.01038)|**[link](https://gitlab.com/marvl/map-fusion)**|
 |**2024-08-25**|**COMPOSE: Comprehensive Portrait Shadow Editing**|Andrew Hou et.al.|[2408.13922](http://arxiv.org/abs/2408.13922)|null|
