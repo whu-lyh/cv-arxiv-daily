@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Towards Global Localization using Multi-Modal Object-Instance Re-Identification**|Aneesh Chavan et.al.|[2409.12002](http://arxiv.org/abs/2409.12002)|null|
+|**2024-09-17**|**Obfuscation Based Privacy Preserving Representations are Recoverable Using Neighborhood Information**|Kunal Chelani et.al.|[2409.11536](http://arxiv.org/abs/2409.11536)|null|
 |**2024-09-17**|**TISIS : Trajectory Indexing for SImilarity Search**|Sara Jarrad et.al.|[2409.11301](http://arxiv.org/abs/2409.11301)|null|
 |**2024-09-17**|**Improving the Efficiency of Visually Augmented Language Models**|Paula Ontalvilla et.al.|[2409.11148](http://arxiv.org/abs/2409.11148)|null|
 |**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925](http://arxiv.org/abs/2409.10925)|null|
@@ -134,6 +136,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Vista3D: Unravel the 3D Darkside of a Single Image**|Qiuhong Shen et.al.|[2409.12193](http://arxiv.org/abs/2409.12193)|**[link](https://github.com/florinshen/vista3d)**|
+|**2024-09-18**|**LEMON: Localized Editing with Mesh Optimization and Neural Shaders**|Furkan Mert Algan et.al.|[2409.12024](http://arxiv.org/abs/2409.12024)|null|
+|**2024-09-18**|**Intraoperative Registration by Cross-Modal Inverse Neural Rendering**|Maximilian Fehrentz et.al.|[2409.11983](http://arxiv.org/abs/2409.11983)|null|
+|**2024-09-18**|**SRIF: Semantic Shape Registration Empowered by Diffusion-based Image Morphing and Flow Estimation**|Mingze Sun et.al.|[2409.11682](http://arxiv.org/abs/2409.11682)|null|
+|**2024-09-18**|**Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks**|Joji Joseph et.al.|[2409.11681](http://arxiv.org/abs/2409.11681)|**[link](https://github.com/JojiJoseph/3dgs-gradient-segmentation)**|
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356](http://arxiv.org/abs/2409.11356)|null|
 |**2024-09-17**|**GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**|Yichen Zhang et.al.|[2409.11307](http://arxiv.org/abs/2409.11307)|null|
 |**2024-09-17**|**SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction**|Marko Mihajlovic et.al.|[2409.11211](http://arxiv.org/abs/2409.11211)|null|
