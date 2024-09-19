@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -325,7 +325,7 @@ layout: default
 |**2024-07-17**|**Towards Revisiting Visual Place Recognition for Joining Submaps in Multimap SLAM**|Markus Weißflog et.al.|[2407.12408](http://arxiv.org/abs/2407.12408)|null|
 |**2024-06-27**|**Efficient and Distributed Large-Scale 3D Map Registration using Tomographic Features**|Halil Utku Unlu et.al.|[2406.19461](http://arxiv.org/abs/2406.19461)|**[link](https://github.com/RISC-NYUAD/tomographic-map-matching)**|
 |**2024-07-21**|**Voxel Map to Occupancy Map Conversion Using Free Space Projection for Efficient Map Representation for Aerial and Ground Robots**|Scott Fredriksson et.al.|[2406.07270](http://arxiv.org/abs/2406.07270)|**[link](https://github.com/ltu-rai/map-conversion-3d-voxel-map-to-2d-occupancy-map)**|
-|**2024-06-06**|**RiskMap: A Unified Driving Context Representation for Autonomous Motion Planning in Urban Driving Environment**|Ren Xin et.al.|[2406.04451](http://arxiv.org/abs/2406.04451)|null|
+|**2024-09-18**|**RiskMap: A Unified Driving Context Representation for Autonomous Motion Planning in Urban Driving Environment**|Ren Xin et.al.|[2406.04451](http://arxiv.org/abs/2406.04451)|null|
 |**2024-06-04**|**Multi-Scale Direction-Aware Network for Infrared Small Target Detection**|Jinmiao Zhao et.al.|[2406.02037](http://arxiv.org/abs/2406.02037)|null|
 |**2024-06-23**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676](http://arxiv.org/abs/2406.00676)|null|
 |**2024-05-27**|**CudaSIFT-SLAM: multiple-map visual SLAM for full procedure mapping in real human endoscopy**|Richard Elvira et.al.|[2405.16932](http://arxiv.org/abs/2405.16932)|null|
