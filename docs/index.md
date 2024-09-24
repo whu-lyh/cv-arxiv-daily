@@ -317,7 +317,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-16**|**P2U-SLAM: A Monocular Wide-FoV SLAM System Based on Point Uncertainty and Pose Uncertainty**|Yufan Zhang et.al.|[2409.10143](http://arxiv.org/abs/2409.10143)|null|
+|**2024-09-16**|**P2U-SLAM: A Monocular Wide-FoV SLAM System Based on Point Uncertainty and Pose Uncertainty**|Yufan Zhang et.al.|[2409.10143](http://arxiv.org/abs/2409.10143)|**[link](https://github.com/bambvalley/p2u-slam)**|
 |**2024-09-13**|**SLIM: Scalable and Lightweight LiDAR Mapping in Urban Environments**|Zehuan Yu et.al.|[2409.08681](http://arxiv.org/abs/2409.08681)|null|
 |**2024-09-13**|**Intelligent LiDAR Navigation: Leveraging External Information and Semantic Maps with LLM as Copilot**|Fujing Xie et.al.|[2409.08493](http://arxiv.org/abs/2409.08493)|**[link](https://github.com/xiexiexiaoxiexie/intelligent-lidar-navigation-llm-as-copilot)**|
 |**2024-09-20**|**EPRecon: An Efficient Framework for Real-Time Panoptic 3D Reconstruction from Monocular Video**|Zhen Zhou et.al.|[2409.01807](http://arxiv.org/abs/2409.01807)|**[link](https://github.com/zhen6618/eprecon)**|
