@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Search and Detect: Training-Free Long Tail Object Detection via Web-Image Retrieval**|Mankeerat Sidhu et.al.|[2409.18733](http://arxiv.org/abs/2409.18733)|null|
 |**2024-09-26**|**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**|Kartik Garg et.al.|[2409.18049](http://arxiv.org/abs/2409.18049)|**[link](https://github.com/anyloc/revisit-anything)**|
 |**2024-09-25**|**Statewide Visual Geolocalization in the Wild**|Florian Fervers et.al.|[2409.16763](http://arxiv.org/abs/2409.16763)|**[link](https://github.com/fferflo/statewide-visual-geolocalization)**|
 |**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|**[link](https://github.com/haksorus/gsplatloc)**|
@@ -146,6 +147,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Space-time 2D Gaussian Splatting for Accurate Surface Reconstruction under Complex Dynamic Scenes**|Shuo Wang et.al.|[2409.18852](http://arxiv.org/abs/2409.18852)|null|
 |**2024-09-26**|**RT-GuIDE: Real-Time Gaussian splatting for Information-Driven Exploration**|Yuezhan Tao et.al.|[2409.18122](http://arxiv.org/abs/2409.18122)|null|
 |**2024-09-26**|**Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot**|Justin Yu et.al.|[2409.18108](http://arxiv.org/abs/2409.18108)|null|
 |**2024-09-26**|**WaSt-3D: Wasserstein-2 Distance for Scene-to-Scene Stylization on 3D Gaussians**|Dmytro Kotovenko et.al.|[2409.17917](http://arxiv.org/abs/2409.17917)|null|
@@ -415,6 +417,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**An Overview of Multi-Object Estimation via Labeled Random Finite Set**|Ba-Ngu Vo et.al.|[2409.18531](http://arxiv.org/abs/2409.18531)|null|
 |**2024-08-28**|**SLAM2REF: Advancing Long-Term Mapping with 3D LiDAR and Reference Map Integration for Precise 6-DoF Trajectory Estimation and Map Extension**|Miguel Arturo Vega Torres et.al.|[2408.15948](http://arxiv.org/abs/2408.15948)|**[link](https://github.com/MigVega/SLAM2REF)**|
 |**2024-07-20**|**Hybrid PHD-PMB Trajectory Smoothing Using Backward Simulation**|Yuxuan Xia et.al.|[2407.14806](http://arxiv.org/abs/2407.14806)|null|
 |**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
