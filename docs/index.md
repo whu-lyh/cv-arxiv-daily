@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -161,7 +161,7 @@ layout: default
 |**2024-10-04**|**Img2CAD: Conditioned 3D CAD Model Generation from Single Image with Structured Visual Geometry**|Tianrun Chen et.al.|[2410.03417](http://arxiv.org/abs/2410.03417)|null|
 |**2024-10-03**|**Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats**|Mingyang Xie et.al.|[2410.02764](http://arxiv.org/abs/2410.02764)|null|
 |**2024-10-03**|**GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering**|Hongze Chen et.al.|[2410.02619](http://arxiv.org/abs/2410.02619)|null|
-|**2024-10-03**|**SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting**|Shiyun Xie et.al.|[2410.02571](http://arxiv.org/abs/2410.02571)|null|
+|**2024-10-07**|**SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting**|Shiyun Xie et.al.|[2410.02571](http://arxiv.org/abs/2410.02571)|null|
 |**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103](http://arxiv.org/abs/2410.02103)|null|
 |**2024-10-03**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804](http://arxiv.org/abs/2410.01804)|null|
 |**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647](http://arxiv.org/abs/2410.01647)|**[link](https://github.com/yangcaoai/3dgs-det)**|
