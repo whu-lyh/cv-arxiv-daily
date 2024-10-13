@@ -162,7 +162,7 @@ layout: default
 |**2024-10-10**|**DifFRelight: Diffusion-Based Facial Performance Relighting**|Mingming He et.al.|[2410.08188](http://arxiv.org/abs/2410.08188)|null|
 |**2024-10-10**|**Efficient Perspective-Correct 3D Gaussian Splatting Using Hybrid Transparency**|Florian Hahlbohm et.al.|[2410.08129](http://arxiv.org/abs/2410.08129)|null|
 |**2024-10-10**|**IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**|Jian Huang et.al.|[2410.08107](http://arxiv.org/abs/2410.08107)|**[link](https://github.com/wu-cvgl/inceventgs)**|
-|**2024-10-10**|**Fast Feedforward 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2410.08017](http://arxiv.org/abs/2410.08017)|null|
+|**2024-10-10**|**Fast Feedforward 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2410.08017](http://arxiv.org/abs/2410.08017)|**[link](https://github.com/yihangchen-ee/fcgs)**|
 |**2024-10-10**|**L-VITeX: Light-weight Visual Intuition for Terrain Exploration**|Antar Mazumder et.al.|[2410.07872](http://arxiv.org/abs/2410.07872)|null|
 |**2024-10-10**|**MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting**|Ruijie Zhu et.al.|[2410.07707](http://arxiv.org/abs/2410.07707)|**[link](https://github.com/RuijieZhu94/MotionGS)**|
 |**2024-10-10**|**3D Vision-Language Gaussian Splatting**|Qucheng Peng et.al.|[2410.07577](http://arxiv.org/abs/2410.07577)|null|
