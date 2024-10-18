@@ -178,6 +178,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**DepthSplat: Connecting Gaussian Splatting and Depth**|Haofei Xu et.al.|[2410.13862](http://arxiv.org/abs/2410.13862)|**[link](https://github.com/cvg/depthsplat)**|
+|**2024-10-17**|**Differentiable Robot Rendering**|Ruoshi Liu et.al.|[2410.13851](http://arxiv.org/abs/2410.13851)|null|
+|**2024-10-17**|**MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes**|Xinjie Zhang et.al.|[2410.13613](http://arxiv.org/abs/2410.13613)|null|
+|**2024-10-17**|**DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering**|Jiahao Lu et.al.|[2410.13607](http://arxiv.org/abs/2410.13607)|null|
+|**2024-10-17**|**GlossyGS: Inverse Rendering of Glossy Objects with 3D Gaussian Splatting**|Shuichang Lai et.al.|[2410.13349](http://arxiv.org/abs/2410.13349)|null|
 |**2024-10-16**|**Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats**|Chen Ziwen et.al.|[2410.12781](http://arxiv.org/abs/2410.12781)|null|
 |**2024-10-16**|**3D Gaussian Splatting in Robotics: A Survey**|Siting Zhu et.al.|[2410.12262](http://arxiv.org/abs/2410.12262)|null|
 |**2024-10-15**|**SplatPose+: Real-time Image-Based Pose-Agnostic 3D Anomaly Detection**|Yizhe Liu et.al.|[2410.12080](http://arxiv.org/abs/2410.12080)|null|
