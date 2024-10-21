@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Observing the Southern US Culture of Honor Using Large-Scale Social Media Analysis**|Juho Kim et.al.|[2410.13887](http://arxiv.org/abs/2410.13887)|null|
 |**2024-10-16**|**Development of Image Collection Method Using YOLO and Siamese Network**|Chan Young Shin et.al.|[2410.12561](http://arxiv.org/abs/2410.12561)|null|
 |**2024-10-16**|**Leveraging Augmented Reality for Improved Situational Awareness During UAV-Driven Search and Rescue Missions**|Rushikesh Nalamothu et.al.|[2410.12556](http://arxiv.org/abs/2410.12556)|null|
 |**2024-10-16**|**LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment**|Juelin Zhu et.al.|[2410.12269](http://arxiv.org/abs/2410.12269)|null|
@@ -178,6 +179,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes**|Juliette Marrie et.al.|[2410.14462](http://arxiv.org/abs/2410.14462)|null|
+|**2024-10-18**|**FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models**|Rui Hu et.al.|[2410.14429](http://arxiv.org/abs/2410.14429)|null|
+|**2024-10-18**|**Neural Signed Distance Function Inference through Splatting 3D Gaussians Pulled on Zero-Level Set**|Wenyuan Zhang et.al.|[2410.14189](http://arxiv.org/abs/2410.14189)|null|
+|**2024-10-18**|**DaRePlane: Direction-aware Representations for Dynamic Scene Reconstruction**|Ange Lou et.al.|[2410.14169](http://arxiv.org/abs/2410.14169)|null|
 |**2024-10-17**|**DepthSplat: Connecting Gaussian Splatting and Depth**|Haofei Xu et.al.|[2410.13862](http://arxiv.org/abs/2410.13862)|**[link](https://github.com/cvg/depthsplat)**|
 |**2024-10-17**|**Differentiable Robot Rendering**|Ruoshi Liu et.al.|[2410.13851](http://arxiv.org/abs/2410.13851)|null|
 |**2024-10-17**|**MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes**|Xinjie Zhang et.al.|[2410.13613](http://arxiv.org/abs/2410.13613)|null|
