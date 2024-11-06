@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**TripletCLIP: Improving Compositional Reasoning of CLIP via Synthetic Vision-Language Negatives**|Maitreya Patel et.al.|[2411.02545](http://arxiv.org/abs/2411.02545)|null|
+|**2024-11-04**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
 |**2024-11-04**|**Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**|Sharat Agarwal et.al.|[2411.01925](http://arxiv.org/abs/2411.01925)|null|
 |**2024-11-04**|**Semantic Masking and Visual Feature Matching for Robust Localization**|Luisa Mao et.al.|[2411.01804](http://arxiv.org/abs/2411.01804)|null|
 |**2024-11-03**|**Efficient Medical Image Retrieval Using DenseNet and FAISS for BIRADS Classification**|MD Shaikh Rahman et.al.|[2411.01473](http://arxiv.org/abs/2411.01473)|null|
@@ -196,6 +198,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**HFGaussian: Learning Generalizable Gaussian Human with Integrated Human Features**|Arnab Dey et.al.|[2411.03086](http://arxiv.org/abs/2411.03086)|null|
+|**2024-11-05**|**CAD-NeRF: Learning NeRFs from Uncalibrated Few-view Images by CAD Model Retrieval**|Xin Wen et.al.|[2411.02979](http://arxiv.org/abs/2411.02979)|null|
+|**2024-11-05**|**LVI-GS: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting**|Huibin Zhao et.al.|[2411.02703](http://arxiv.org/abs/2411.02703)|null|
+|**2024-11-04**|**Modeling Uncertainty in 3D Gaussian Splatting through Continuous Semantic Splatting**|Joey Wilson et.al.|[2411.02547](http://arxiv.org/abs/2411.02547)|null|
 |**2024-11-04**|**SplatOverflow: Asynchronous Hardware Troubleshooting**|Amritansh Kwatra et.al.|[2411.02332](http://arxiv.org/abs/2411.02332)|null|
 |**2024-11-04**|**FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**|Ruihong Yin et.al.|[2411.02229](http://arxiv.org/abs/2411.02229)|null|
 |**2024-11-04**|**GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**|Gaochao Song et.al.|[2411.01853](http://arxiv.org/abs/2411.01853)|null|
