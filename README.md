@@ -34,7 +34,7 @@
 |**2024-10-28**|**NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments**|Taiyi Pan et.al.|[2410.21615](http://arxiv.org/abs/2410.21615)|null|
 |**2024-10-25**|**Geometric Correction and Mosaic Generation of Geo High Resolution Camera Images**|Ankur Garg et.al.|[2410.21307](http://arxiv.org/abs/2410.21307)|null|
 |**2024-10-25**|**Context-Based Visual-Language Place Recognition**|Soojin Woo et.al.|[2410.19341](http://arxiv.org/abs/2410.19341)|**[link](https://github.com/woo-soojin/context-based-vlpr)**|
-|**2024-10-25**|**Spatioformer: A Geo-encoded Transformer for Large-Scale Plant Species Richness Prediction**|Yiqing Guo et.al.|[2410.19256](http://arxiv.org/abs/2410.19256)|null|
+|**2024-11-06**|**Spatioformer: A Geo-encoded Transformer for Large-Scale Plant Species Richness Prediction**|Yiqing Guo et.al.|[2410.19256](http://arxiv.org/abs/2410.19256)|null|
 |**2024-10-24**|**ChatSearch: a Dataset and a Generative Retrieval Model for General Conversational Image Retrieval**|Zijia Zhao et.al.|[2410.18715](http://arxiv.org/abs/2410.18715)|**[link](https://github.com/joez17/chatsearch)**|
 |**2024-10-25**|**On Model-Free Re-ranking for Visual Place Recognition with Deep Learned Local Features**|Tomáš Pivoňka et.al.|[2410.18573](http://arxiv.org/abs/2410.18573)|null|
 |**2024-10-22**|**Denoise-I2W: Mapping Images to Denoising Words for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2410.17393](http://arxiv.org/abs/2410.17393)|null|
@@ -198,13 +198,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**GS2Pose: Tow-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807](http://arxiv.org/abs/2411.03807)|null|
+|**2024-11-06**|**3DGS-CD: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement**|Ziqi Lu et.al.|[2411.03706](http://arxiv.org/abs/2411.03706)|null|
+|**2024-11-06**|**Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**|Rui Peng et.al.|[2411.03637](http://arxiv.org/abs/2411.03637)|**[link](https://github.com/prstrive/scgaussian)**|
+|**2024-11-05**|**Object and Contact Point Tracking in Demonstrations Using 3D Gaussian Splatting**|Michael Büttner et.al.|[2411.03555](http://arxiv.org/abs/2411.03555)|null|
 |**2024-11-05**|**HFGaussian: Learning Generalizable Gaussian Human with Integrated Human Features**|Arnab Dey et.al.|[2411.03086](http://arxiv.org/abs/2411.03086)|null|
 |**2024-11-05**|**CAD-NeRF: Learning NeRFs from Uncalibrated Few-view Images by CAD Model Retrieval**|Xin Wen et.al.|[2411.02979](http://arxiv.org/abs/2411.02979)|null|
 |**2024-11-05**|**LVI-GS: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting**|Huibin Zhao et.al.|[2411.02703](http://arxiv.org/abs/2411.02703)|null|
 |**2024-11-04**|**Modeling Uncertainty in 3D Gaussian Splatting through Continuous Semantic Splatting**|Joey Wilson et.al.|[2411.02547](http://arxiv.org/abs/2411.02547)|null|
 |**2024-11-04**|**SplatOverflow: Asynchronous Hardware Troubleshooting**|Amritansh Kwatra et.al.|[2411.02332](http://arxiv.org/abs/2411.02332)|null|
 |**2024-11-05**|**FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**|Ruihong Yin et.al.|[2411.02229](http://arxiv.org/abs/2411.02229)|null|
-|**2024-11-04**|**GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**|Gaochao Song et.al.|[2411.01853](http://arxiv.org/abs/2411.01853)|null|
+|**2024-11-06**|**GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**|Gaochao Song et.al.|[2411.01853](http://arxiv.org/abs/2411.01853)|null|
 |**2024-11-02**|**Real-Time Spatio-Temporal Reconstruction of Dynamic Endoscopic Scenes with 4D Gaussian Splatting**|Fengze Li et.al.|[2411.01218](http://arxiv.org/abs/2411.01218)|null|
 |**2024-11-01**|**CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes**|Yang Liu et.al.|[2411.00771](http://arxiv.org/abs/2411.00771)|null|
 |**2024-11-01**|**PCoTTA: Continual Test-Time Adaptation for Multi-Task Point Cloud Understanding**|Jincen Jiang et.al.|[2411.00632](http://arxiv.org/abs/2411.00632)|null|
@@ -607,6 +611,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Hamiltonian Monte Carlo methods for spectroscopy data analysis**|Daniel McBride et.al.|[2411.03523](http://arxiv.org/abs/2411.03523)|null|
 |**2024-10-31**|**Lagrangian neural networks for nonholonomic mechanics**|Viviana Alejandra Diaz et.al.|[2411.00110](http://arxiv.org/abs/2411.00110)|null|
 |**2024-10-27**|**Trajectory Reconstruction through a Gaussian Adaptive Selective Outlier Rejecting Smoother**|Arslan Majal et.al.|[2410.20411](http://arxiv.org/abs/2410.20411)|null|
 |**2024-10-05**|**Kalman Filter Applied To A Differential Robot**|Sendey Vera et.al.|[2410.04011](http://arxiv.org/abs/2410.04011)|null|
