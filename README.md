@@ -201,7 +201,7 @@
 |---|---|---|---|---|
 |**2024-11-07**|**ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing**|Jun-Kun Chen et.al.|[2411.05006](http://arxiv.org/abs/2411.05006)|null|
 |**2024-11-07**|**MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views**|Yuedong Chen et.al.|[2411.04924](http://arxiv.org/abs/2411.04924)|**[link](https://github.com/donydchen/mvsplat360)**|
-|**2024-11-07**|**GS2Pose: Two-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807](http://arxiv.org/abs/2411.03807)|null|
+|**2024-11-08**|**GS2Pose: Two-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807](http://arxiv.org/abs/2411.03807)|null|
 |**2024-11-06**|**3DGS-CD: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement**|Ziqi Lu et.al.|[2411.03706](http://arxiv.org/abs/2411.03706)|**[link](https://github.com/520xyxyzq/3dgs-cd)**|
 |**2024-11-06**|**Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**|Rui Peng et.al.|[2411.03637](http://arxiv.org/abs/2411.03637)|**[link](https://github.com/prstrive/scgaussian)**|
 |**2024-11-05**|**Object and Contact Point Tracking in Demonstrations Using 3D Gaussian Splatting**|Michael Büttner et.al.|[2411.03555](http://arxiv.org/abs/2411.03555)|null|
@@ -619,7 +619,7 @@
 |**2024-10-27**|**Trajectory Reconstruction through a Gaussian Adaptive Selective Outlier Rejecting Smoother**|Arslan Majal et.al.|[2410.20411](http://arxiv.org/abs/2410.20411)|null|
 |**2024-10-05**|**Kalman Filter Applied To A Differential Robot**|Sendey Vera et.al.|[2410.04011](http://arxiv.org/abs/2410.04011)|null|
 |**2024-09-30**|**Trajectory Tracking for MmWave Communication Systems via Cooperative Passive Sensing**|Chao Yu et.al.|[2409.20069](http://arxiv.org/abs/2409.20069)|null|
-|**2024-09-30**|**An Overview of Multi-Object Estimation via Labeled Random Finite Set**|Ba-Ngu Vo et.al.|[2409.18531](http://arxiv.org/abs/2409.18531)|null|
+|**2024-11-08**|**An Overview of Multi-Object Estimation via Labeled Random Finite Set**|Ba-Ngu Vo et.al.|[2409.18531](http://arxiv.org/abs/2409.18531)|null|
 |**2024-08-28**|**SLAM2REF: Advancing Long-Term Mapping with 3D LiDAR and Reference Map Integration for Precise 6-DoF Trajectory Estimation and Map Extension**|Miguel Arturo Vega Torres et.al.|[2408.15948](http://arxiv.org/abs/2408.15948)|**[link](https://github.com/MigVega/SLAM2REF)**|
 |**2024-07-20**|**Hybrid PHD-PMB Trajectory Smoothing Using Backward Simulation**|Yuxuan Xia et.al.|[2407.14806](http://arxiv.org/abs/2407.14806)|null|
 |**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
