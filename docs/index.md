@@ -253,7 +253,7 @@ layout: default
 |**2024-10-28**|**CompGS: Unleashing 2D Compositionality for Compositional Text-to-3D via Dynamically Optimizing 3D Gaussians**|Chongjian Ge et.al.|[2410.20723](http://arxiv.org/abs/2410.20723)|null|
 |**2024-10-28**|**ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**|Suyoung Lee et.al.|[2410.20686](http://arxiv.org/abs/2410.20686)|null|
 |**2024-10-27**|**Normal-GS: 3D Gaussian Splatting with Normal-Involved Rendering**|Meng Wei et.al.|[2410.20593](http://arxiv.org/abs/2410.20593)|null|
-|**2024-10-27**|**MARS: Multi-sample Allocation through Russian roulette and Splitting**|Joshua Meyer et.al.|[2410.20429](http://arxiv.org/abs/2410.20429)|null|
+|**2024-10-27**|**MARS: Multi-sample Allocation through Russian roulette and Splitting**|Joshua Meyer et.al.|[2410.20429](http://arxiv.org/abs/2410.20429)|**[link](https://github.com/woshicado/mars)**|
 |**2024-10-26**|**Neural Fields in Robotics: A Survey**|Muhammad Zubair Irshad et.al.|[2410.20220](http://arxiv.org/abs/2410.20220)|**[link](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)**|
 |**2024-10-30**|**DiffGS: Functional Gaussian Splatting Diffusion**|Junsheng Zhou et.al.|[2410.19657](http://arxiv.org/abs/2410.19657)|null|
 |**2024-10-25**|**Robotic Learning in your Backyard: A Neural Simulator from Open Source Components**|Liyou Zhou et.al.|[2410.19564](http://arxiv.org/abs/2410.19564)|**[link](https://github.com/splatlearn/splatgym)**|
@@ -376,7 +376,7 @@ layout: default
 |**2024-09-19**|**GStex: Per-Primitive Texturing of 2D Gaussian Splatting for Decoupled Appearance and Geometry Modeling**|Victor Rong et.al.|[2409.12954](http://arxiv.org/abs/2409.12954)|**[link](https://github.com/victor-rong/gstex)**|
 |**2024-09-19**|**LI-GS: Gaussian Splatting with LiDAR Incorporated for Accurate Large-Scale Reconstruction**|Changjian Jiang et.al.|[2409.12899](http://arxiv.org/abs/2409.12899)|null|
 |**2024-09-19**|**3DGS-LM: Faster Gaussian-Splatting Optimization with Levenberg-Marquardt**|Lukas Höllein et.al.|[2409.12892](http://arxiv.org/abs/2409.12892)|**[link](https://github.com/lukashoel/3dgs-lm)**|
-|**2024-09-19**|**EdgeGaussians -- 3D Edge Mapping via Gaussian Splatting**|Kunal Chelani et.al.|[2409.12886](http://arxiv.org/abs/2409.12886)|null|
+|**2024-09-19**|**EdgeGaussians -- 3D Edge Mapping via Gaussian Splatting**|Kunal Chelani et.al.|[2409.12886](http://arxiv.org/abs/2409.12886)|**[link](https://github.com/kunalchelani/edgegaussians)**|
 |**2024-09-24**|**GaRField++: Reinforced Gaussian Radiance Fields for Large-Scale 3D Scene Reconstruction**|Hanyue Zhang et.al.|[2409.12774](http://arxiv.org/abs/2409.12774)|null|
 |**2024-09-19**|**Spectral-GS: Taming 3D Gaussian Splatting with Spectral Entropy**|Letian Huang et.al.|[2409.12771](http://arxiv.org/abs/2409.12771)|null|
 |**2024-09-19**|**DrivingForward: Feed-forward 3D Gaussian Splatting for Driving Scene Reconstruction from Flexible Surround-view Input**|Qijian Tian et.al.|[2409.12753](http://arxiv.org/abs/2409.12753)|null|
@@ -534,7 +534,7 @@ layout: default
 |**2024-07-14**|**3DEgo: 3D Editing on the Go!**|Umar Khalid et.al.|[2407.10102](http://arxiv.org/abs/2407.10102)|null|
 |**2024-07-14**|**SpikeGS: 3D Gaussian Splatting from Spike Streams with High-Speed Camera Motion**|Jiyuan Zhang et.al.|[2407.10062](http://arxiv.org/abs/2407.10062)|null|
 |**2024-07-13**|**Self-supervised 3D Point Cloud Completion via Multi-view Adversarial Learning**|Lintai Wu et.al.|[2407.09786](http://arxiv.org/abs/2407.09786)|**[link](https://github.com/ltwu6/malspc)**|
-|**2024-07-13**|**Textured-GS: Gaussian Splatting with Spatially Defined Color and Opacity**|Zhentao Huang et.al.|[2407.09733](http://arxiv.org/abs/2407.09733)|null|
+|**2024-07-13**|**Textured-GS: Gaussian Splatting with Spatially Defined Color and Opacity**|Zhentao Huang et.al.|[2407.09733](http://arxiv.org/abs/2407.09733)|**[link](https://github.com/ZhentaoHuang/Textured-GS)**|
 |**2024-07-12**|**StyleSplat: 3D Object Style Transfer with Gaussian Splatting**|Sahil Jain et.al.|[2407.09473](http://arxiv.org/abs/2407.09473)|null|
 |**2024-07-11**|**WildGaussians: 3D Gaussian Splatting in the Wild**|Jonas Kulhanek et.al.|[2407.08447](http://arxiv.org/abs/2407.08447)|null|
 |**2024-07-11**|**Survey on Fundamental Deep Learning 3D Reconstruction Techniques**|Yonge Bai et.al.|[2407.08137](http://arxiv.org/abs/2407.08137)|null|
