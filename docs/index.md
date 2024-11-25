@@ -35,9 +35,9 @@ layout: default
 |**2024-11-01**|**Identifying Implicit Social Biases in Vision-Language Models**|Kimia Hamidieh et.al.|[2411.00997](http://arxiv.org/abs/2411.00997)|null|
 |**2024-10-31**|**Nearest Neighbor Normalization Improves Multimodal Retrieval**|Neil Chowdhury et.al.|[2410.24114](http://arxiv.org/abs/2410.24114)|**[link](https://github.com/multimodal-interpretability/nnn)**|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
-|**2024-10-30**|**Decoupling Semantic Similarity from Spatial Alignment for Neural Networks**|Tassilo Wald et.al.|[2410.23107](http://arxiv.org/abs/2410.23107)|null|
+|**2024-10-30**|**Decoupling Semantic Similarity from Spatial Alignment for Neural Networks**|Tassilo Wald et.al.|[2410.23107](http://arxiv.org/abs/2410.23107)|**[link](https://github.com/tawald/semantic_rsm)**|
 |**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943](http://arxiv.org/abs/2410.21943)|**[link](https://github.com/riedlerm/multimodal_rag_for_industry)**|
-|**2024-10-28**|**NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments**|Taiyi Pan et.al.|[2410.21615](http://arxiv.org/abs/2410.21615)|null|
+|**2024-10-28**|**NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments**|Taiyi Pan et.al.|[2410.21615](http://arxiv.org/abs/2410.21615)|**[link](https://github.com/ai4ce/NYC-Event-VPR)**|
 |**2024-10-25**|**Geometric Correction and Mosaic Generation of Geo High Resolution Camera Images**|Ankur Garg et.al.|[2410.21307](http://arxiv.org/abs/2410.21307)|null|
 |**2024-10-25**|**Context-Based Visual-Language Place Recognition**|Soojin Woo et.al.|[2410.19341](http://arxiv.org/abs/2410.19341)|**[link](https://github.com/woo-soojin/context-based-vlpr)**|
 |**2024-11-06**|**Spatioformer: A Geo-encoded Transformer for Large-Scale Plant Species Richness Prediction**|Yiqing Guo et.al.|[2410.19256](http://arxiv.org/abs/2410.19256)|null|
@@ -225,7 +225,7 @@ layout: default
 |**2024-11-18**|**GPS-Gaussian+: Generalizable Pixel-wise 3D Gaussian Splatting for Real-Time Human-Scene Rendering from Sparse Views**|Boyao Zhou et.al.|[2411.11363](http://arxiv.org/abs/2411.11363)|null|
 |**2024-11-17**|**VeGaS: Video Gaussian Splatting**|Weronika Smolak-Dyżewska et.al.|[2411.11024](http://arxiv.org/abs/2411.11024)|**[link](https://github.com/gmum/vegas)**|
 |**2024-11-17**|**Direct and Explicit 3D Generation from a Single Image**|Haoyu Wu et.al.|[2411.10947](http://arxiv.org/abs/2411.10947)|null|
-|**2024-11-16**|**DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment**|Mangyu Kong et.al.|[2411.10722](http://arxiv.org/abs/2411.10722)|null|
+|**2024-11-16**|**DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment**|Mangyu Kong et.al.|[2411.10722](http://arxiv.org/abs/2411.10722)|**[link](https://github.com/kmk97/DGS-SLAM)**|
 |**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546](http://arxiv.org/abs/2411.10546)|null|
 |**2024-11-15**|**USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**|Kang Chen et.al.|[2411.10504](http://arxiv.org/abs/2411.10504)|**[link](https://github.com/chenkang455/usp-gaussian)**|
 |**2024-11-15**|**Efficient Density Control for 3D Gaussian Splatting**|Xiaobin Deng et.al.|[2411.10133](http://arxiv.org/abs/2411.10133)|**[link](https://github.com/XiaoBin2001/EDC)**|
@@ -574,7 +574,7 @@ layout: default
 |**2024-07-13**|**Self-supervised 3D Point Cloud Completion via Multi-view Adversarial Learning**|Lintai Wu et.al.|[2407.09786](http://arxiv.org/abs/2407.09786)|**[link](https://github.com/ltwu6/malspc)**|
 |**2024-07-13**|**Textured-GS: Gaussian Splatting with Spatially Defined Color and Opacity**|Zhentao Huang et.al.|[2407.09733](http://arxiv.org/abs/2407.09733)|**[link](https://github.com/ZhentaoHuang/Textured-GS)**|
 |**2024-07-12**|**StyleSplat: 3D Object Style Transfer with Gaussian Splatting**|Sahil Jain et.al.|[2407.09473](http://arxiv.org/abs/2407.09473)|null|
-|**2024-07-11**|**WildGaussians: 3D Gaussian Splatting in the Wild**|Jonas Kulhanek et.al.|[2407.08447](http://arxiv.org/abs/2407.08447)|null|
+|**2024-07-11**|**WildGaussians: 3D Gaussian Splatting in the Wild**|Jonas Kulhanek et.al.|[2407.08447](http://arxiv.org/abs/2407.08447)|**[link](https://github.com/jkulhanek/wild-gaussians)**|
 |**2024-07-11**|**Survey on Fundamental Deep Learning 3D Reconstruction Techniques**|Yonge Bai et.al.|[2407.08137](http://arxiv.org/abs/2407.08137)|null|
 |**2024-07-10**|**Synthetic to Authentic: Transferring Realism to 3D Face Renderings for Boosting Face Recognition**|Parsa Rahimi et.al.|[2407.07627](http://arxiv.org/abs/2407.07627)|null|
 |**2024-07-10**|**DuInNet: Dual-Modality Feature Interaction for Point Cloud Completion**|Xinpu Liu et.al.|[2407.07374](http://arxiv.org/abs/2407.07374)|null|
