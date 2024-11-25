@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Cross-Modal Pre-Aligned Method with Global and Local Information for Remote-Sensing Image and Text Retrieval**|Zengbao Sun et.al.|[2411.14704](http://arxiv.org/abs/2411.14704)|**[link](https://github.com/ZbaoSun/CMPAGL)**|
 |**2024-11-21**|**Universal Scanning GUI Tool for Available and Usable TV White Space (TVWS) Spectrum**|Muneer Al-ZuBi et.al.|[2411.13987](http://arxiv.org/abs/2411.13987)|null|
 |**2024-11-20**|**Globally Correlation-Aware Hard Negative Generation**|Wenjie Peng et.al.|[2411.13145](http://arxiv.org/abs/2411.13145)|**[link](https://github.com/pwenjay/gca-hng)**|
 |**2024-11-19**|**Learning To Sample the Meta-Paths for Social Event Detection**|Congbo Ma et.al.|[2411.12588](http://arxiv.org/abs/2411.12588)|null|
@@ -22,7 +23,7 @@ layout: default
 |**2024-11-18**|**Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**|Antonios Gasteratos et.al.|[2411.11481](http://arxiv.org/abs/2411.11481)|null|
 |**2024-11-13**|**OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Semantic Guidances**|Youqi Liao et.al.|[2411.08665](http://arxiv.org/abs/2411.08665)|**[link](https://github.com/whu-usi3dv/osmloc)**|
 |**2024-11-13**|**Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval**|Saul Santos et.al.|[2411.08590](http://arxiv.org/abs/2411.08590)|**[link](https://github.com/deep-spin/HFYN)**|
-|**2024-11-13**|**Saliency Map-based Image Retrieval using Invariant Krawtchouk Moments**|Ashkan Nejad et.al.|[2411.08567](http://arxiv.org/abs/2411.08567)|**[link](https://github.com/arnejad/smikm)**|
+|**2024-11-22**|**Saliency Map-based Image Retrieval using Invariant Krawtchouk Moments**|Ashkan Nejad et.al.|[2411.08567](http://arxiv.org/abs/2411.08567)|**[link](https://github.com/arnejad/smikm)**|
 |**2024-11-13**|**MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation**|Peng Wang et.al.|[2411.08279](http://arxiv.org/abs/2411.08279)|**[link](https://github.com/wu-cvgl/mba-slam)**|
 |**2024-11-10**|**CityGuessr: City-Level Video Geo-Localization on a Global Scale**|Parth Parag Kulkarni et.al.|[2411.06344](http://arxiv.org/abs/2411.06344)|**[link](https://github.com/parthpk/cityguessr)**|
 |**2024-11-05**|**From Pixels to Prose: Advancing Multi-Modal Language Models for Remote Sensing**|Xintian Sun et.al.|[2411.05826](http://arxiv.org/abs/2411.05826)|null|
@@ -202,6 +203,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**OVO-SLAM: Open-Vocabulary Online Simultaneous Localization and Mapping**|Tomas Berriel Martins et.al.|[2411.15043](http://arxiv.org/abs/2411.15043)|null|
+|**2024-11-22**|**Neural 4D Evolution under Large Topological Changes from 2D Images**|AmirHossein Naghi Razlighi et.al.|[2411.15018](http://arxiv.org/abs/2411.15018)|null|
+|**2024-11-22**|**3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes**|Jan Held et.al.|[2411.14974](http://arxiv.org/abs/2411.14974)|**[link](https://github.com/convexsplatting/convex-splatting)**|
+|**2024-11-22**|**Dynamics-Aware Gaussian Splatting Streaming Towards Fast On-the-Fly Training for 4D Reconstruction**|Zhening Liu et.al.|[2411.14847](http://arxiv.org/abs/2411.14847)|null|
+|**2024-11-22**|**Unsupervised Multi-view UAV Image Geo-localization via Iterative Rendering**|Haoyuan Li et.al.|[2411.14816](http://arxiv.org/abs/2411.14816)|null|
+|**2024-11-22**|**VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving**|Haiming Zhang et.al.|[2411.14716](http://arxiv.org/abs/2411.14716)|null|
+|**2024-11-22**|**Any-to-3D Generation via Hybrid Diffusion Supervision**|Yijun Fan et.al.|[2411.14715](http://arxiv.org/abs/2411.14715)|null|
+|**2024-11-21**|**NexusSplats: Efficient 3D Gaussian Splatting in the Wild**|Yuzhou Tang et.al.|[2411.14514](http://arxiv.org/abs/2411.14514)|null|
 |**2024-11-21**|**Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation**|Zhuoman Liu et.al.|[2411.14423](http://arxiv.org/abs/2411.14423)|null|
 |**2024-11-21**|**Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation**|Yuanhao Cai et.al.|[2411.14384](http://arxiv.org/abs/2411.14384)|null|
 |**2024-11-21**|**SplatR : Experience Goal Visual Rearrangement with 3D Gaussian Splatting and Dense Feature Matching**|Arjun P S et.al.|[2411.14322](http://arxiv.org/abs/2411.14322)|null|
@@ -610,6 +619,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**One to rule them all: natural language to bind communication, perception and action**|Simone Colombani et.al.|[2411.15033](http://arxiv.org/abs/2411.15033)|null|
+|**2024-11-22**|**TopoSD: Topology-Enhanced Lane Segment Perception with SDMap Prior**|Sen Yang et.al.|[2411.14751](http://arxiv.org/abs/2411.14751)|null|
 |**2024-11-01**|**Rethinking Node Representation Interpretation through Relation Coherence**|Ying-Chun Lin et.al.|[2411.00653](http://arxiv.org/abs/2411.00653)|null|
 |**2024-10-29**|**ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**|Yuetao Li et.al.|[2410.21955](http://arxiv.org/abs/2410.21955)|null|
 |**2024-10-25**|**An Enhanced Hierarchical Planning Framework for Multi-Robot Autonomous Exploration**|Gengyuan Cai et.al.|[2410.19373](http://arxiv.org/abs/2410.19373)|null|
@@ -665,6 +676,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Structure of the chromatic polynomial**|Radmila Sazdanovic et.al.|[2411.15088](http://arxiv.org/abs/2411.15088)|null|
 |**2024-11-05**|**Hamiltonian Monte Carlo methods for spectroscopy data analysis**|Daniel McBride et.al.|[2411.03523](http://arxiv.org/abs/2411.03523)|null|
 |**2024-10-31**|**Lagrangian neural networks for nonholonomic mechanics**|Viviana Alejandra Diaz et.al.|[2411.00110](http://arxiv.org/abs/2411.00110)|null|
 |**2024-10-27**|**Trajectory Reconstruction through a Gaussian Adaptive Selective Outlier Rejecting Smoother**|Arslan Majal et.al.|[2410.20411](http://arxiv.org/abs/2410.20411)|null|
