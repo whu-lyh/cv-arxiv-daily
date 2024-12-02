@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.01
+## Updated on 2024.12.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -224,7 +224,7 @@ layout: default
 |**2024-11-26**|**4D Scaffold Gaussian Splatting for Memory Efficient Dynamic Scene Reconstruction**|Woong Oh Cho et.al.|[2411.17044](http://arxiv.org/abs/2411.17044)|null|
 |**2024-11-25**|**G2SDF: Surface Reconstruction from Explicit Gaussians with Implicit SDFs**|Kunyi Li et.al.|[2411.16898](http://arxiv.org/abs/2411.16898)|null|
 |**2024-11-25**|**PreF3R: Pose-Free Feed-Forward 3D Gaussian Splatting from Variable-length Image Sequence**|Zequn Chen et.al.|[2411.16877](http://arxiv.org/abs/2411.16877)|null|
-|**2024-11-25**|**SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**|Georg Hess et.al.|[2411.16816](http://arxiv.org/abs/2411.16816)|**[link](https://github.com/carlinds/splatad)**|
+|**2024-11-27**|**SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**|Georg Hess et.al.|[2411.16816](http://arxiv.org/abs/2411.16816)|**[link](https://github.com/carlinds/splatad)**|
 |**2024-11-25**|**NovelGS: Consistent Novel-view Denoising via Large Gaussian Reconstruction Model**|Jinpeng Liu et.al.|[2411.16779](http://arxiv.org/abs/2411.16779)|null|
 |**2024-11-24**|**Bundle Adjusted Gaussian Avatars Deblurring**|Muyao Niu et.al.|[2411.16758](http://arxiv.org/abs/2411.16758)|null|
 |**2024-11-25**|**SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis**|Hyojun Go et.al.|[2411.16443](http://arxiv.org/abs/2411.16443)|**[link](https://github.com/gohyojun15/SplatFlow)**|
