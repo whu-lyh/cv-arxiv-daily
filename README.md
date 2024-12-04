@@ -21,6 +21,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Active Learning via Classifier Impact and Greedy Selection for Interactive Image Retrieval**|Leah Bar et.al.|[2412.02310](http://arxiv.org/abs/2412.02310)|**[link](https://github.com/barleah/greedyal)**|
+|**2024-12-03**|**ProbPose: A Probabilistic Approach to 2D Human Pose Estimation**|Miroslav Purkrabek et.al.|[2412.02254](http://arxiv.org/abs/2412.02254)|null|
+|**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039](http://arxiv.org/abs/2412.02039)|null|
+|**2024-12-02**|**Optimizing Domain-Specific Image Retrieval: A Benchmark of FAISS and Annoy with Fine-Tuned Features**|MD Shaikh Rahman et.al.|[2412.01555](http://arxiv.org/abs/2412.01555)|null|
+|**2024-12-02**|**Neuron Abandoning Attention Flow: Visual Explanation of Dynamics inside CNN Models**|Yi Liao et.al.|[2412.01202](http://arxiv.org/abs/2412.01202)|null|
+|**2024-12-01**|**EDTformer: An Efficient Decoder Transformer for Visual Place Recognition**|Tong Jin et.al.|[2412.00784](http://arxiv.org/abs/2412.00784)|null|
+|**2024-11-28**|**EFSA: Episodic Few-Shot Adaptation for Text-to-Image Retrieval**|Muhammad Huzaifa et.al.|[2412.00139](http://arxiv.org/abs/2412.00139)|null|
+|**2024-11-28**|**Unleashing the Power of Data Synthesis in Visual Localization**|Sihang Li et.al.|[2412.00138](http://arxiv.org/abs/2412.00138)|null|
+|**2024-11-28**|**Relation-Aware Meta-Learning for Zero-shot Sketch-Based Image Retrieval**|Yang Liu et.al.|[2412.00120](http://arxiv.org/abs/2412.00120)|null|
 |**2024-11-29**|**A Visual-inertial Localization Algorithm using Opportunistic Visual Beacons and Dead-Reckoning for GNSS-Denied Large-scale Applications**|Liqiang Zhang Ye Tian Dongyan Wei et.al.|[2411.19845](http://arxiv.org/abs/2411.19845)|null|
 |**2024-11-27**|**Optimizing Image Retrieval with an Extended b-Metric Space**|Abdelkader Belhenniche et.al.|[2411.18800](http://arxiv.org/abs/2411.18800)|null|
 |**2024-11-26**|**Learning Visual Hierarchies with Hyperbolic Embeddings**|Ziwei Wang et.al.|[2411.17490](http://arxiv.org/abs/2411.17490)|null|
@@ -221,6 +230,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction**|Lingteng Qiu et.al.|[2412.02684](http://arxiv.org/abs/2412.02684)|null|
+|**2024-12-03**|**RelayGS: Reconstructing Dynamic Scenes with Large-Scale and Complex Motions via Relay Gaussians**|Qiankun Gao et.al.|[2412.02493](http://arxiv.org/abs/2412.02493)|null|
+|**2024-12-03**|**TimeWalker: Personalized Neural Space for Lifelong Head Avatars**|Dongwei Pan et.al.|[2412.02421](http://arxiv.org/abs/2412.02421)|null|
+|**2024-12-03**|**GSGTrack: Gaussian Splatting-Guided Object Pose Tracking from RGB Videos**|Zhiyuan Chen et.al.|[2412.02267](http://arxiv.org/abs/2412.02267)|null|
+|**2024-12-03**|**Multi-robot autonomous 3D reconstruction using Gaussian splatting with Semantic guidance**|Jing Zeng et.al.|[2412.02249](http://arxiv.org/abs/2412.02249)|null|
+|**2024-12-03**|**SparseLGS: Sparse View Language Embedded Gaussian Splatting**|Jun Hu et.al.|[2412.02245](http://arxiv.org/abs/2412.02245)|null|
+|**2024-12-03**|**How to Use Diffusion Priors under Sparse Views?**|Qisen Wang et.al.|[2412.02225](http://arxiv.org/abs/2412.02225)|**[link](https://github.com/icvteam/ipsm)**|
+|**2024-12-03**|**SparseGrasp: Robotic Grasping via 3D Semantic Gaussian Splatting from Sparse Multi-View RGB Images**|Junqiu Yu et.al.|[2412.02140](http://arxiv.org/abs/2412.02140)|null|
+|**2024-12-03**|**Gaussian Object Carver: Object-Compositional Gaussian Splatting with surfaces completion**|Liu Liu et.al.|[2412.02075](http://arxiv.org/abs/2412.02075)|null|
+|**2024-12-02**|**Planar Gaussian Splatting**|Farhad G. Zanjani et.al.|[2412.01931](http://arxiv.org/abs/2412.01931)|null|
+|**2024-12-02**|**HDGS: Textured 2D Gaussian Splatting for Enhanced Scene Rendering**|Yunzhou Song et.al.|[2412.01823](http://arxiv.org/abs/2412.01823)|null|
+|**2024-12-02**|**Occam's LGS: A Simple Approach for Language Gaussian Splatting**|Jiahuan Cheng et.al.|[2412.01807](http://arxiv.org/abs/2412.01807)|null|
+|**2024-12-02**|**CTRL-D: Controllable Dynamic 3D Scene Editing with Personalized 2D Diffusion**|Kai He et.al.|[2412.01792](http://arxiv.org/abs/2412.01792)|null|
+|**2024-12-02**|**Horizon-GS: Unified 3D Gaussian Splatting for Large-Scale Aerial-to-Ground Scenes**|Lihan Jiang et.al.|[2412.01745](http://arxiv.org/abs/2412.01745)|null|
+|**2024-12-02**|**HUGSIM: A Real-Time, Photo-Realistic and Closed-Loop Simulator for Autonomous Driving**|Hongyu Zhou et.al.|[2412.01718](http://arxiv.org/abs/2412.01718)|null|
+|**2024-12-02**|**Driving Scene Synthesis on Free-form Trajectories with Generative Prior**|Zeyu Yang et.al.|[2412.01717](http://arxiv.org/abs/2412.01717)|null|
+|**2024-12-03**|**Diffusion Models with Anisotropic Gaussian Splatting for Image Inpainting**|Jacob Fein-Ashley et.al.|[2412.01682](http://arxiv.org/abs/2412.01682)|null|
+|**2024-12-02**|**3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting**|Ziyang Yan et.al.|[2412.01583](http://arxiv.org/abs/2412.01583)|null|
+|**2024-12-02**|**SfM-Free 3D Gaussian Splatting via Hierarchical Training**|Bo Ji et.al.|[2412.01553](http://arxiv.org/abs/2412.01553)|**[link](https://github.com/jibo27/3dgs_hierarchical_training)**|
+|**2024-12-03**|**GFreeDet: Exploiting Gaussian Splatting and Foundation Models for Model-free Unseen Object Detection in the BOP Challenge 2024**|Xingyu Liu et.al.|[2412.01552](http://arxiv.org/abs/2412.01552)|null|
 |**2024-12-02**|**GuardSplat: Efficient and Robust Watermarking for 3D Gaussian Splatting**|Zixuan Chen et.al.|[2411.19895](http://arxiv.org/abs/2411.19895)|**[link](https://github.com/narcissusex/guardsplat)**|
 |**2024-11-29**|**DeSplat: Decomposed Gaussian Splatting for Distractor-Free Rendering**|Yihao Wang et.al.|[2411.19756](http://arxiv.org/abs/2411.19756)|null|
 |**2024-11-29**|**TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting**|Bojun Xiong et.al.|[2411.19654](http://arxiv.org/abs/2411.19654)|null|
@@ -686,6 +715,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**VISTA: A Panoramic View of Neural Representations**|Tom White et.al.|[2412.02412](http://arxiv.org/abs/2412.02412)|null|
+|**2024-12-02**|**The Bare Necessities: Designing Simple, Effective Open-Vocabulary Scene Graphs**|Christina Kassab et.al.|[2412.01539](http://arxiv.org/abs/2412.01539)|null|
+|**2024-12-02**|**SF-Loc: A Visual Mapping and Geo-Localization System based on Sparse Visual Structure Frames**|Yuxuan Zhou et.al.|[2412.01500](http://arxiv.org/abs/2412.01500)|null|
+|**2024-12-01**|**ChatSplat: 3D Conversational Gaussian Splatting**|Hanlin Chen et.al.|[2412.00734](http://arxiv.org/abs/2412.00734)|null|
 |**2024-11-27**|**HI-SLAM2: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction**|Wei Zhang et.al.|[2411.17982](http://arxiv.org/abs/2411.17982)|null|
 |**2024-11-25**|**MAGiC-SLAM: Multi-Agent Gaussian Globally Consistent SLAM**|Vladimir Yugay et.al.|[2411.16785](http://arxiv.org/abs/2411.16785)|null|
 |**2024-11-22**|**One to rule them all: natural language to bind communication, perception and action**|Simone Colombani et.al.|[2411.15033](http://arxiv.org/abs/2411.15033)|null|
