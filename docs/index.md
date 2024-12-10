@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.09
+## Updated on 2024.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -226,16 +226,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256](http://arxiv.org/abs/2412.05256)|null|
+|**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256](http://arxiv.org/abs/2412.05256)|**[link](https://github.com/ai4ce/EUVS-Benchmark)**|
 |**2024-12-06**|**MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting**|Peng Chen et.al.|[2412.04955](http://arxiv.org/abs/2412.04955)|**[link](https://github.com/chenvoid/mga)**|
-|**2024-12-06**|**Momentum-GS: Momentum Gaussian Self-Distillation for High-Quality Large Scene Reconstruction**|Jixuan Fan et.al.|[2412.04887](http://arxiv.org/abs/2412.04887)|null|
+|**2024-12-06**|**Momentum-GS: Momentum Gaussian Self-Distillation for High-Quality Large Scene Reconstruction**|Jixuan Fan et.al.|[2412.04887](http://arxiv.org/abs/2412.04887)|**[link](https://github.com/Jixuan-Fan/Momentum-GS)**|
 |**2024-12-06**|**WRF-GS: Wireless Radiation Field Reconstruction with 3D Gaussian Splatting**|Chaozheng Wen et.al.|[2412.04832](http://arxiv.org/abs/2412.04832)|null|
 |**2024-12-06**|**Pushing Rendering Boundaries: Hard Gaussian Splatting**|Qingshan Xu et.al.|[2412.04826](http://arxiv.org/abs/2412.04826)|null|
 |**2024-12-05**|**Turbo3D: Ultra-fast Text-to-3D Generation**|Hanzhe Hu et.al.|[2412.04470](http://arxiv.org/abs/2412.04470)|null|
 |**2024-12-05**|**QUEEN: QUantized Efficient ENcoding of Dynamic Gaussians for Streaming Free-viewpoint Videos**|Sharath Girish et.al.|[2412.04469](http://arxiv.org/abs/2412.04469)|null|
 |**2024-12-05**|**Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering**|Cheng Sun et.al.|[2412.04459](http://arxiv.org/abs/2412.04459)|null|
 |**2024-12-05**|**Monocular Dynamic Gaussian Splatting is Fast and Brittle but Smooth Motion Helps**|Yiqing Liang et.al.|[2412.04457](http://arxiv.org/abs/2412.04457)|null|
-|**2024-12-05**|**PBDyG: Position Based Dynamic Gaussians for Motion-Aware Clothed Human Avatars**|Shota Sasaki et.al.|[2412.04433](http://arxiv.org/abs/2412.04433)|null|
+|**2024-12-06**|**PBDyG: Position Based Dynamic Gaussians for Motion-Aware Clothed Human Avatars**|Shota Sasaki et.al.|[2412.04433](http://arxiv.org/abs/2412.04433)|null|
 |**2024-12-05**|**SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding**|Rong Li et.al.|[2412.04383](http://arxiv.org/abs/2412.04383)|null|
 |**2024-12-05**|**Multi-View Pose-Agnostic Change Localization with Zero Labels**|Chamuditha Jayanga Galappaththige et.al.|[2412.03911](http://arxiv.org/abs/2412.03911)|**[link](https://github.com/Chumsy0725/PASLCD)**|
 |**2024-12-05**|**DGNS: Deformable Gaussian Splatting and Dynamic Neural Surface for Monocular Dynamic 3D Reconstruction**|Xuesong Li et.al.|[2412.03910](http://arxiv.org/abs/2412.03910)|null|
