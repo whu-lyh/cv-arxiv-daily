@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.18
+## Updated on 2024.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -246,7 +246,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-17**|**Real-time Free-view Human Rendering from Sparse-view RGB Videos using Double Unprojected Textures**|Guoxing Sun et.al.|[2412.13183](http://arxiv.org/abs/2412.13183)|null|
 |**2024-12-17**|**EOGS: Gaussian Splatting for Earth Observation**|Luca Savant Aira et.al.|[2412.13047](http://arxiv.org/abs/2412.13047)|null|
-|**2024-12-17**|**4DRGS: 4D Radiative Gaussian Splatting for Efficient 3D Vessel Reconstruction from Sparse-View Dynamic DSA Images**|Zhentao Liu et.al.|[2412.12919](http://arxiv.org/abs/2412.12919)|null|
+|**2024-12-17**|**4DRGS: 4D Radiative Gaussian Splatting for Efficient 3D Vessel Reconstruction from Sparse-View Dynamic DSA Images**|Zhentao Liu et.al.|[2412.12919](http://arxiv.org/abs/2412.12919)|**[link](https://github.com/ShanghaiTech-IMPACT/4DRGS)**|
 |**2024-12-17**|**CATSplat: Context-Aware Transformer with Spatial Guidance for Generalizable 3D Gaussian Splatting from A Single-View Image**|Wonseok Roh et.al.|[2412.12906](http://arxiv.org/abs/2412.12906)|null|
 |**2024-12-17**|**HyperGS: Hyperspectral 3D Gaussian Splatting**|Christopher Thirgood et.al.|[2412.12849](http://arxiv.org/abs/2412.12849)|null|
 |**2024-12-17**|**Gaussian Billboards: Expressive 2D Gaussian Splatting with Textures**|Sebastian Weiss et.al.|[2412.12734](http://arxiv.org/abs/2412.12734)|null|
