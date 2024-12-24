@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-22**|**Where am I? Cross-View Geo-localization with Natural Language Descriptions**|Junyan Ye et.al.|[2412.17007](http://arxiv.org/abs/2412.17007)|null|
+|**2024-12-21**|**Open-Vocabulary Mobile Manipulation Based on Double Relaxed Contrastive Learning with Dense Labeling**|Daichi Yashima et.al.|[2412.16576](http://arxiv.org/abs/2412.16576)|**[link](https://github.com/keio-smilab24/relax-former)**|
+|**2024-12-18**|**TopView: Vectorising road users in a bird's eye view from uncalibrated street-level imagery with deep learning**|Mohamed R Ibrahim et.al.|[2412.16229](http://arxiv.org/abs/2412.16229)|null|
 |**2024-12-20**|**A New Method to Capturing Compositional Knowledge in Linguistic Space**|Jiahe Wan et.al.|[2412.15632](http://arxiv.org/abs/2412.15632)|null|
 |**2024-12-20**|**Stabilizing Laplacian Inversion in Fokker-Planck Image Retrieval using the Transport-of-Intensity Equation**|Samantha J Alloo et.al.|[2412.15513](http://arxiv.org/abs/2412.15513)|null|
 |**2024-12-19**|**Learning Visual Composition through Improved Semantic Guidance**|Austin Stone et.al.|[2412.15396](http://arxiv.org/abs/2412.15396)|null|
@@ -260,6 +263,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**FaceLift: Single Image to 3D Head with View Generation and GS-LRM**|Weijie Lyu et.al.|[2412.17812](http://arxiv.org/abs/2412.17812)|null|
+|**2024-12-23**|**ActiveGS: Active Scene Reconstruction using Gaussian Splatting**|Liren Jin et.al.|[2412.17769](http://arxiv.org/abs/2412.17769)|**[link](https://github.com/dmar-bonn/active-gs)**|
+|**2024-12-23**|**GaussianPainter: Painting Point Cloud into 3D Gaussians with Normal Guidance**|Jingqiu Zhou et.al.|[2412.17715](http://arxiv.org/abs/2412.17715)|null|
+|**2024-12-23**|**LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding**|Hao Li et.al.|[2412.17635](http://arxiv.org/abs/2412.17635)|null|
+|**2024-12-23**|**CoSurfGS:Collaborative 3D Surface Gaussian Splatting with Distributed Learning for Large Scene Reconstruction**|Yuanyuan Gao et.al.|[2412.17612](http://arxiv.org/abs/2412.17612)|null|
+|**2024-12-23**|**Exploring Dynamic Novel View Synthesis Technologies for Cinematography**|Adrian Azzarelli et.al.|[2412.17532](http://arxiv.org/abs/2412.17532)|null|
+|**2024-12-23**|**Balanced 3DGS: Gaussian-wise Parallelism Rendering with Fine-Grained Tiling**|Hao Gui et.al.|[2412.17378](http://arxiv.org/abs/2412.17378)|null|
+|**2024-12-22**|**GSemSplat: Generalizable Semantic 3D Gaussian Splatting from Uncalibrated Image Pairs**|Xingrui Wang et.al.|[2412.16932](http://arxiv.org/abs/2412.16932)|null|
+|**2024-12-22**|**GeoTexDensifier: Geometry-Texture-Aware Densification for High-Quality Photorealistic 3D Gaussian Splatting**|Hanqing Jiang et.al.|[2412.16809](http://arxiv.org/abs/2412.16809)|null|
+|**2024-12-21**|**Topology-Aware 3D Gaussian Splatting: Leveraging Persistent Homology for Optimized Structural Integrity**|Tianqi Shen et.al.|[2412.16619](http://arxiv.org/abs/2412.16619)|**[link](https://github.com/amadeusstq/topology-gs)**|
+|**2024-12-21**|**OmniSplat: Taming Feed-Forward 3D Gaussian Splatting for Omnidirectional Images with Editable Capabilities**|Suyoung Lee et.al.|[2412.16604](http://arxiv.org/abs/2412.16604)|null|
+|**2024-12-20**|**SOUS VIDE: Cooking Visual Drone Navigation Policies in a Gaussian Splatting Vacuum**|JunEn Low et.al.|[2412.16346](http://arxiv.org/abs/2412.16346)|null|
+|**2024-12-20**|**Interactive Scene Authoring with Specialized Generative Primitives**|Clément Jambon et.al.|[2412.16253](http://arxiv.org/abs/2412.16253)|null|
 |**2024-12-20**|**CoCoGaussian: Leveraging Circle of Confusion for Gaussian Splatting from Defocused Images**|Jungho Lee et.al.|[2412.16028](http://arxiv.org/abs/2412.16028)|null|
 |**2024-12-20**|**Reframing Image Difference Captioning with BLIP2IDC and Synthetic Augmentation**|Gautier Evennou et.al.|[2412.15939](http://arxiv.org/abs/2412.15939)|null|
 |**2024-12-20**|**IRGS: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing**|Chun Gu et.al.|[2412.15867](http://arxiv.org/abs/2412.15867)|null|
@@ -840,6 +856,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**ActiveGS: Active Scene Reconstruction using Gaussian Splatting**|Liren Jin et.al.|[2412.17769](http://arxiv.org/abs/2412.17769)|**[link](https://github.com/dmar-bonn/active-gs)**|
 |**2024-12-20**|**SaliencyI2PLoc: saliency-guided image-point cloud localization using contrastive learning**|Yuhao Li et.al.|[2412.15577](http://arxiv.org/abs/2412.15577)|null|
 |**2024-12-18**|**Hybrid CNN-LSTM based Indoor Pedestrian Localization with CSI Fingerprint Maps**|Muhammad Emad-ud-din et.al.|[2412.13601](http://arxiv.org/abs/2412.13601)|**[link](https://github.com/em22ad/CSI-Fingerprint-Indoor-Localization)**|
 |**2024-12-03**|**VISTA: A Panoramic View of Neural Representations**|Tom White et.al.|[2412.02412](http://arxiv.org/abs/2412.02412)|null|
@@ -907,7 +924,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-18**|**TAME: Temporal Audio-based Mamba for Enhanced Drone Trajectory Estimation and Classification**|Zhenyuan Xiao et.al.|[2412.13037](http://arxiv.org/abs/2412.13037)|**[link](https://github.com/AmazingDay1/TAME)**|
+|**2024-12-22**|**AV-DTEC: Self-Supervised Audio-Visual Fusion for Drone Trajectory Estimation and Classification**|Zhenyuan Xiao et.al.|[2412.16928](http://arxiv.org/abs/2412.16928)|**[link](https://github.com/amazingday1/av-detc)**|
+|**2024-12-22**|**TAME: Temporal Audio-based Mamba for Enhanced Drone Trajectory Estimation and Classification**|Zhenyuan Xiao et.al.|[2412.13037](http://arxiv.org/abs/2412.13037)|**[link](https://github.com/AmazingDay1/TAME)**|
 |**2024-12-18**|**Unsupervised UAV 3D Trajectories Estimation with Sparse Point Clouds**|Hanfang Liang et.al.|[2412.12716](http://arxiv.org/abs/2412.12716)|**[link](https://github.com/lianghanfang/UnLiDAR-UAV-Est)**|
 |**2024-12-18**|**Audio Array-Based 3D UAV Trajectory Estimation with LiDAR Pseudo-Labeling**|Allen Lei et.al.|[2412.12698](http://arxiv.org/abs/2412.12698)|**[link](https://github.com/AllenLei666/AAUTE)**|
 |**2024-12-12**|**Labits: Layered Bidirectional Time Surfaces Representation for Event Camera-based Continuous Dense Trajectory Estimation**|Zhongyang Zhang et.al.|[2412.08849](http://arxiv.org/abs/2412.08849)|null|
