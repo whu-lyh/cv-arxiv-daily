@@ -284,7 +284,7 @@ layout: default
 |**2024-12-30**|**WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting**|Chenghao Qian et.al.|[2412.18862](http://arxiv.org/abs/2412.18862)|**[link](https://github.com/Jumponthemoon/WeatherGS)**|
 |**2024-12-25**|**GSAVS: Gaussian Splatting-based Autonomous Vehicle Simulator**|Rami Wilson et.al.|[2412.18816](http://arxiv.org/abs/2412.18816)|null|
 |**2024-12-25**|**ArtNVG: Content-Style Separated Artistic Neighboring-View Gaussian Stylization**|Zixiao Gu et.al.|[2412.18783](http://arxiv.org/abs/2412.18783)|null|
-|**2024-12-24**|**Orient Anything: Learning Robust Object Orientation Estimation from Rendering 3D Models**|Zehan Wang et.al.|[2412.18605](http://arxiv.org/abs/2412.18605)|null|
+|**2024-12-24**|**Orient Anything: Learning Robust Object Orientation Estimation from Rendering 3D Models**|Zehan Wang et.al.|[2412.18605](http://arxiv.org/abs/2412.18605)|**[link](https://github.com/SpatialVision/Orient-Anything)**|
 |**2024-12-24**|**Resolution-Robust 3D MRI Reconstruction with 2D Diffusion Priors: Diverse-Resolution Training Outperforms Interpolation**|Anselm Krainovic et.al.|[2412.18584](http://arxiv.org/abs/2412.18584)|null|
 |**2024-12-24**|**RSGaussian:3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis**|Yiling Yao et.al.|[2412.18380](http://arxiv.org/abs/2412.18380)|null|
 |**2024-12-23**|**FaceLift: Single Image to 3D Head with View Generation and GS-LRM**|Weijie Lyu et.al.|[2412.17812](http://arxiv.org/abs/2412.17812)|null|
