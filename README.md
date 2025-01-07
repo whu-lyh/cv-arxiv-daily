@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.06
+## Updated on 2025.01.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -264,7 +264,7 @@
 |**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424](http://arxiv.org/abs/2406.13424)|**[link](https://github.com/rogerferrod/rsicrc)**|
 |**2024-06-19**|**CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval**|Christian Lülf et.al.|[2406.13322](http://arxiv.org/abs/2406.13322)|**[link](https://github.com/cluel01/clip-branches)**|
 
-<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
 
 ## 3D GS
 
@@ -277,7 +277,7 @@
 |**2025-01-02**|**Deformable Gaussian Splatting for Efficient and High-Fidelity Reconstruction of Surgical Scenes**|Jiwei Shan et.al.|[2501.01101](http://arxiv.org/abs/2501.01101)|null|
 |**2025-01-02**|**EasySplat: View-Adaptive Learning makes 3D Gaussian Splatting Easy**|Ao Gao et.al.|[2501.01003](http://arxiv.org/abs/2501.01003)|null|
 |**2024-12-31**|**Gaussian Building Mesh (GBM): Extract a Building's 3D Mesh with Google Earth and Gaussian Splatting**|Kyle Gao et.al.|[2501.00625](http://arxiv.org/abs/2501.00625)|null|
-|**2024-12-31**|**DreamDrive: Generative 4D Scene Modeling from Street View Images**|Jiageng Mao et.al.|[2501.00601](http://arxiv.org/abs/2501.00601)|null|
+|**2025-01-03**|**DreamDrive: Generative 4D Scene Modeling from Street View Images**|Jiageng Mao et.al.|[2501.00601](http://arxiv.org/abs/2501.00601)|null|
 |**2024-12-31**|**PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM**|Runnan Chen et.al.|[2501.00352](http://arxiv.org/abs/2501.00352)|null|
 |**2024-12-31**|**SG-Splatting: Accelerating 3D Gaussian Splatting with Spherical Gaussians**|Yiwen Wang et.al.|[2501.00342](http://arxiv.org/abs/2501.00342)|null|
 |**2024-12-30**|**PERSE: Personalized 3D Generative Avatars from A Single Portrait**|Hyunsoo Cha et.al.|[2412.21206](http://arxiv.org/abs/2412.21206)|null|
@@ -888,7 +888,7 @@
 |**2024-06-28**|**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**|Daiwei Zhang et.al.|[2406.19811](http://arxiv.org/abs/2406.19811)|null|
 |**2024-06-27**|**Lightweight Predictive 3D Gaussian Splats**|Junli Cao et.al.|[2406.19434](http://arxiv.org/abs/2406.19434)|**[link](https://github.com/plumpuddings/lpgs)**|
 
-<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
 
 ## Map
 
@@ -959,7 +959,7 @@
 |**2024-04-14**|**VRS-NeRF: Visual Relocalization with Sparse Neural Radiance Field**|Fei Xue et.al.|[2404.09271](http://arxiv.org/abs/2404.09271)|**[link](https://github.com/feixue94/vrs-nerf)**|
 |**2024-06-10**|**PRISM-TopoMap: Online Topological Mapping with Place Recognition and Scan Matching**|Kirill Muravyev et.al.|[2404.01674](http://arxiv.org/abs/2404.01674)|**[link](https://github.com/kirillmouraviev/prism-topomap)**|
 
-<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
 
 ## Point Cloud Consistency
 
@@ -1007,7 +1007,7 @@
 |**2024-01-23**|**A BFF-Based Attention Mechanism for Trajectory Estimation in mmWave MIMO Communications**|Mohammad Shamsesalehi et.al.|[2401.13059](http://arxiv.org/abs/2401.13059)|null|
 |**2024-01-05**|**Partition-based Nonrigid Registration for 3D Face Model**|Yuping Ye et.al.|[2401.02607](http://arxiv.org/abs/2401.02607)|null|
 
-<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
 
 ## Place Recognition
 
@@ -1040,7 +1040,7 @@
 |**2023-01-04**|**AttDLNet: Attention-based DL Network for 3D LiDAR Place Recognition**|Tiago Barros et.al.|[2106.09637](http://arxiv.org/abs/2106.09637)|**[link](https://github.com/cybonic/attdlnet)**|
 |**2020-07-17**|**DH3D: Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DoF Relocalization**|Juan Du et.al.|[2007.09217](http://arxiv.org/abs/2007.09217)|**[link](https://github.com/JuanDuGit/DH3D)**|
 
-<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
