@@ -263,6 +263,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Zero-1-to-G: Taming Pretrained 2D Diffusion Model for Direct 3D Generation**|Xuyi Meng et.al.|[2501.05427](http://arxiv.org/abs/2501.05427)|null|
+|**2025-01-09**|**Arc2Avatar: Generating Expressive 3D Avatars from a Single Image via ID Guidance**|Dimitrios Gerogiannis et.al.|[2501.05379](http://arxiv.org/abs/2501.05379)|null|
+|**2025-01-09**|**Scaffold-SLAM: Structured 3D Gaussians for Simultaneous Localization and Photorealistic Mapping**|Wen Tianci et.al.|[2501.05242](http://arxiv.org/abs/2501.05242)|null|
+|**2025-01-08**|**GaussianVideo: Efficient Video Representation via Hierarchical Gaussian Splatting**|Andrew Bond et.al.|[2501.04782](http://arxiv.org/abs/2501.04782)|null|
 |**2025-01-08**|**FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency**|Han Huang et.al.|[2501.04628](http://arxiv.org/abs/2501.04628)|null|
 |**2025-01-07**|**ZDySS -- Zero-Shot Dynamic Scene Stylization using Gaussian Splatting**|Abhishek Saroha et.al.|[2501.03875](http://arxiv.org/abs/2501.03875)|null|
 |**2025-01-07**|**MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting**|Sangwoon Kwak et.al.|[2501.03714](http://arxiv.org/abs/2501.03714)|null|
@@ -963,6 +967,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**A Steerable Deep Network for Model-Free Diffusion MRI Registration**|Gianfranco Cortes et.al.|[2501.04794](http://arxiv.org/abs/2501.04794)|null|
 |**2025-01-06**|**HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos**|Jinglei Zhang et.al.|[2501.02973](http://arxiv.org/abs/2501.02973)|null|
 |**2024-12-22**|**AV-DTEC: Self-Supervised Audio-Visual Fusion for Drone Trajectory Estimation and Classification**|Zhenyuan Xiao et.al.|[2412.16928](http://arxiv.org/abs/2412.16928)|**[link](https://github.com/amazingday1/av-detc)**|
 |**2025-01-01**|**TAME: Temporal Audio-based Mamba for Enhanced Drone Trajectory Estimation and Classification**|Zhenyuan Xiao et.al.|[2412.13037](http://arxiv.org/abs/2412.13037)|**[link](https://github.com/AmazingDay1/TAME)**|
