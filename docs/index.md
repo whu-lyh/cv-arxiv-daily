@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-20**|**RACCOON: A Retrieval-Augmented Generation Approach for Location Coordinate Capture from News Articles**|Jonathan Lin et.al.|[2501.11440](http://arxiv.org/abs/2501.11440)|null|
+|**2025-01-19**|**Enhancing Sample Utilization in Noise-Robust Deep Metric Learning With Subgroup-Based Positive-Pair Selection**|Zhipeng Yu et.al.|[2501.11063](http://arxiv.org/abs/2501.11063)|**[link](https://github.com/smuelpeng/sgps-noisefreedml)**|
+|**2025-01-18**|**A Resource-Efficient Training Framework for Remote Sensing Text--Image Retrieval**|Weihang Zhang et.al.|[2501.10638](http://arxiv.org/abs/2501.10638)|null|
 |**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
 |**2025-01-14**|**DomainDemo: a dataset of domain-sharing activities among different demographic groups on Twitter**|Kai-Cheng Yang et.al.|[2501.09035](http://arxiv.org/abs/2501.09035)|null|
 |**2025-01-15**|**Vision Foundation Models for Computed Tomography**|Suraj Pai et.al.|[2501.09001](http://arxiv.org/abs/2501.09001)|null|
@@ -270,7 +273,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-17**|**GSTAR: Gaussian Surface Tracking and Reconstruction**|Chengwei Zheng et.al.|[2501.10283](http://arxiv.org/abs/2501.10283)|null|
+|**2025-01-21**|**DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions**|Vishagar Arunan et.al.|[2501.12369](http://arxiv.org/abs/2501.12369)|null|
+|**2025-01-21**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255](http://arxiv.org/abs/2501.12255)|**[link](https://github.com/yihangchen-ee/hac-plus)**|
+|**2025-01-21**|**GaussianVideo: Efficient Video Representation Through 2D Gaussian Splatting**|Longan Wang et.al.|[2501.12060](http://arxiv.org/abs/2501.12060)|null|
+|**2025-01-20**|**See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization**|Zongqi He et.al.|[2501.11508](http://arxiv.org/abs/2501.11508)|null|
+|**2025-01-19**|**RDG-GS: Relative Depth Guidance with Gaussian Splatting for Real-time Sparse-View 3D Rendering**|Chenlu Zhan et.al.|[2501.11102](http://arxiv.org/abs/2501.11102)|null|
+|**2025-01-18**|**Decoupling Appearance Variations with 3D Consistent Features in Gaussian Splatting**|Jiaqi Lin et.al.|[2501.10788](http://arxiv.org/abs/2501.10788)|null|
+|**2025-01-15**|**BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation**|Xiaolu Hou et.al.|[2501.10462](http://arxiv.org/abs/2501.10462)|null|
+|**2025-01-20**|**GSTAR: Gaussian Surface Tracking and Reconstruction**|Chengwei Zheng et.al.|[2501.10283](http://arxiv.org/abs/2501.10283)|null|
 |**2025-01-16**|**Creating Virtual Environments with 3D Gaussian Splatting: A Comparative Study**|Shi Qiu et.al.|[2501.09302](http://arxiv.org/abs/2501.09302)|null|
 |**2025-01-15**|**CityLoc: 6 DoF Localization of Text Descriptions in Large-Scale Scenes with Gaussian Representation**|Qi Ma et.al.|[2501.08982](http://arxiv.org/abs/2501.08982)|null|
 |**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong et.al.|[2501.08672](http://arxiv.org/abs/2501.08672)|null|
@@ -998,9 +1008,9 @@ layout: default
 |**2025-01-10**|**A Steerable Deep Network for Model-Free Diffusion MRI Registration**|Gianfranco Cortes et.al.|[2501.04794](http://arxiv.org/abs/2501.04794)|null|
 |**2025-01-06**|**HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos**|Jinglei Zhang et.al.|[2501.02973](http://arxiv.org/abs/2501.02973)|null|
 |**2024-12-22**|**AV-DTEC: Self-Supervised Audio-Visual Fusion for Drone Trajectory Estimation and Classification**|Zhenyuan Xiao et.al.|[2412.16928](http://arxiv.org/abs/2412.16928)|**[link](https://github.com/amazingday1/av-detc)**|
-|**2025-01-01**|**TAME: Temporal Audio-based Mamba for Enhanced Drone Trajectory Estimation and Classification**|Zhenyuan Xiao et.al.|[2412.13037](http://arxiv.org/abs/2412.13037)|**[link](https://github.com/AmazingDay1/TAME)**|
-|**2025-01-01**|**Unsupervised UAV 3D Trajectories Estimation with Sparse Point Clouds**|Hanfang Liang et.al.|[2412.12716](http://arxiv.org/abs/2412.12716)|**[link](https://github.com/lianghanfang/UnLiDAR-UAV-Est)**|
-|**2025-01-01**|**Audio Array-Based 3D UAV Trajectory Estimation with LiDAR Pseudo-Labeling**|Allen Lei et.al.|[2412.12698](http://arxiv.org/abs/2412.12698)|**[link](https://github.com/AllenLei666/AAUTE)**|
+|**2025-01-19**|**TAME: Temporal Audio-based Mamba for Enhanced Drone Trajectory Estimation and Classification**|Zhenyuan Xiao et.al.|[2412.13037](http://arxiv.org/abs/2412.13037)|**[link](https://github.com/AmazingDay1/TAME)**|
+|**2025-01-19**|**Unsupervised UAV 3D Trajectories Estimation with Sparse Point Clouds**|Hanfang Liang et.al.|[2412.12716](http://arxiv.org/abs/2412.12716)|**[link](https://github.com/lianghanfang/UnLiDAR-UAV-Est)**|
+|**2025-01-19**|**Audio Array-Based 3D UAV Trajectory Estimation with LiDAR Pseudo-Labeling**|Allen Lei et.al.|[2412.12698](http://arxiv.org/abs/2412.12698)|**[link](https://github.com/AllenLei666/AAUTE)**|
 |**2024-12-12**|**Labits: Layered Bidirectional Time Surfaces Representation for Event Camera-based Continuous Dense Trajectory Estimation**|Zhongyang Zhang et.al.|[2412.08849](http://arxiv.org/abs/2412.08849)|null|
 |**2024-12-03**|**Adaptive LiDAR Odometry and Mapping for Autonomous Agricultural Mobile Robots in Unmanned Farms**|Hanzhe Teng et.al.|[2412.02899](http://arxiv.org/abs/2412.02899)|**[link](https://github.com/ucr-robotics/ag-loam)**|
 |**2024-12-31**|**Revisiting Point Cloud Completion: Are We Ready For The Real-World?**|Stuti Pathak et.al.|[2411.17580](http://arxiv.org/abs/2411.17580)|null|
