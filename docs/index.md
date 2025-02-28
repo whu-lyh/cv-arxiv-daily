@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -19,8 +19,8 @@ layout: default
 |**2025-02-20**|**Too Little, Too Late: Moderation of Misinformation around the Russo-Ukrainian Conflict**|Gautam Kishore Shahi et.al.|[2502.18500](http://arxiv.org/abs/2502.18500)|null|
 |**2025-02-19**|**A Comprehensive Survey on Composed Image Retrieval**|Xuemeng Song et.al.|[2502.18495](http://arxiv.org/abs/2502.18495)|null|
 |**2025-02-25**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237](http://arxiv.org/abs/2502.17237)|**[link](https://github.com/gmberton/megaloc)**|
-|**2025-02-23**|**Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries**|Yin Wu et.al.|[2502.16636](http://arxiv.org/abs/2502.16636)|null|
-|**2025-02-23**|**SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition**|Feng Lu et.al.|[2502.16601](http://arxiv.org/abs/2502.16601)|null|
+|**2025-02-23**|**Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries**|Yin Wu et.al.|[2502.16636](http://arxiv.org/abs/2502.16636)|**[link](https://github.com/LuciusLan/Visual-RAG)**|
+|**2025-02-23**|**SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition**|Feng Lu et.al.|[2502.16601](http://arxiv.org/abs/2502.16601)|**[link](https://github.com/Lu-Feng/SelaVPR)**|
 |**2025-02-22**|**A Deep Learning Framework with Geographic Information Adaptive Loss for Remote Sensing Images based UAV Self-Positioning**|Mingkun Li et.al.|[2502.16164](http://arxiv.org/abs/2502.16164)|null|
 |**2025-02-21**|**ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**|Guanqi Zhan et.al.|[2502.15682](http://arxiv.org/abs/2502.15682)|null|
 |**2025-02-20**|**Evaluating Precise Geolocation Inference Capabilities of Vision Language Models**|Neel Jay et.al.|[2502.14412](http://arxiv.org/abs/2502.14412)|**[link](https://github.com/njspyx/location-inference)**|
