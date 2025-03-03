@@ -21,7 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-27**|**A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**|Yejun Zhang et.al.|[2502.20036](http://arxiv.org/abs/2502.20036)|null|
+|**2025-02-28**|**CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval**|Zelong Sun et.al.|[2502.20826](http://arxiv.org/abs/2502.20826)|null|
+|**2025-02-28**|**SciceVPR: Stable Cross-Image Correlation Enhanced Model for Visual Place Recognition**|Shanshan Wan et.al.|[2502.20676](http://arxiv.org/abs/2502.20676)|null|
+|**2025-02-27**|**A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**|Yejun Zhang et.al.|[2502.20036](http://arxiv.org/abs/2502.20036)|**[link](https://github.com/yejunzhang/a2-gnn)**|
 |**2025-02-27**|**RANGE: Retrieval Augmented Neural Fields for Multi-Resolution Geo-Embeddings**|Aayush Dhakal et.al.|[2502.19781](http://arxiv.org/abs/2502.19781)|null|
 |**2025-02-27**|**On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation**|Ruben T. Lucassen et.al.|[2502.19285](http://arxiv.org/abs/2502.19285)|null|
 |**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
@@ -334,14 +336,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering**|Jingqiu Zhou et.al.|[2502.21093](http://arxiv.org/abs/2502.21093)|null|
+|**2025-02-28**|**EndoPBR: Material and Lighting Estimation for Photorealistic Surgical Simulations via Physically-based Rendering**|John J. Han et.al.|[2502.20669](http://arxiv.org/abs/2502.20669)|null|
 |**2025-02-27**|**ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting**|Dexter Ong et.al.|[2502.20386](http://arxiv.org/abs/2502.20386)|null|
 |**2025-02-27**|**Efficient Gaussian Splatting for Monocular Dynamic Scene Rendering via Sparse Time-Variant Attribute Modeling**|Hanyang Kong et.al.|[2502.20378](http://arxiv.org/abs/2502.20378)|null|
 |**2025-02-27**|**No Parameters, No Problem: 3D Gaussian Splatting without Camera Intrinsics and Extrinsics**|Dongbo Shi et.al.|[2502.19800](http://arxiv.org/abs/2502.19800)|null|
 |**2025-02-27**|**Open-Vocabulary Semantic Part Segmentation of 3D Human**|Keito Suzuki et.al.|[2502.19782](http://arxiv.org/abs/2502.19782)|null|
 |**2025-02-26**|**Building Interactable Replicas of Complex Articulated Objects via Gaussian Splatting**|Yu Liu et.al.|[2502.19459](http://arxiv.org/abs/2502.19459)|null|
 |**2025-02-26**|**Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions**|Muhammad Salman Ali et.al.|[2502.19457](http://arxiv.org/abs/2502.19457)|null|
-|**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318](http://arxiv.org/abs/2502.19318)|null|
-|**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
+|**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318](http://arxiv.org/abs/2502.19318)|**[link](https://github.com/cg-tuwien/does_3d_gaussian_splatting_need_accurate_volumetric_rendering)**|
+|**2025-02-28**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
 |**2025-02-27**|**UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting**|Haoyuan Li et.al.|[2502.17860](http://arxiv.org/abs/2502.17860)|null|
 |**2025-02-24**|**Laplace-Beltrami Operator for Gaussian Splatting**|Hongyu Zhou et.al.|[2502.17531](http://arxiv.org/abs/2502.17531)|null|
 |**2025-02-24**|**Graph-Guided Scene Reconstruction from Images with 3D Gaussian Splatting**|Chong Cheng et.al.|[2502.17377](http://arxiv.org/abs/2502.17377)|null|
@@ -1096,7 +1100,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-27**|**SegLocNet: Multimodal Localization Network for Autonomous Driving via Bird's-Eye-View Segmentation**|Zijie Zhou et.al.|[2502.20077](http://arxiv.org/abs/2502.20077)|**[link](https://github.com/ZhouZijie77/SegLocNet)**|
+|**2025-02-28**|**SegLocNet: Multimodal Localization Network for Autonomous Driving via Bird's-Eye-View Segmentation**|Zijie Zhou et.al.|[2502.20077](http://arxiv.org/abs/2502.20077)|**[link](https://github.com/ZhouZijie77/SegLocNet)**|
 |**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633](http://arxiv.org/abs/2502.15633)|null|
 |**2025-02-13**|**OpenBench: A New Benchmark and Baseline for Semantic Navigation in Smart Logistics**|Junhui Wang et.al.|[2502.09238](http://arxiv.org/abs/2502.09238)|null|
 |**2025-02-14**|**Occupancy-SLAM: An Efficient and Robust Algorithm for Simultaneously Optimizing Robot Poses and Occupancy Map**|Yingyu Wang et.al.|[2502.06292](http://arxiv.org/abs/2502.06292)|**[link](https://github.com/WANGYINGYU/Occupancy-SLAM)**|
@@ -1176,6 +1180,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Noise induced extreme events in single Fitzhugh-Nagumo oscillator**|S. Hariharan et.al.|[2502.20404](http://arxiv.org/abs/2502.20404)|null|
 |**2025-02-10**|**CT-UIO: Continuous-Time UWB-Inertial-Odometer Localization Using Non-Uniform B-spline with Fewer Anchors**|Jian Sun et.al.|[2502.06287](http://arxiv.org/abs/2502.06287)|**[link](https://github.com/jasonsun623/ct-uio)**|
 |**2025-02-10**|**Graph Pseudotime Analysis and Neural Stochastic Differential Equations for Analyzing Retinal Degeneration Dynamics and Beyond**|Dai Shi et.al.|[2502.06126](http://arxiv.org/abs/2502.06126)|null|
 |**2025-02-05**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo et.al.|[2502.02283](http://arxiv.org/abs/2502.02283)|**[link](https://github.com/zhihaohaoran/GPGS)**|
@@ -1232,6 +1237,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**Fast 3D point clouds retrieval for Large-scale 3D Place Recognition**|Chahine-Nicolas Zede et.al.|[2502.21067](http://arxiv.org/abs/2502.21067)|null|
 |**2025-02-07**|**HeLiOS: Heterogeneous LiDAR Place Recognition via Overlap-based Learning and Local Spherical Transformer**|Minwoo Jung et.al.|[2501.18943](http://arxiv.org/abs/2501.18943)|null|
 |**2025-01-22**|**MorphoSkel3D: Morphological Skeletonization of 3D Point Clouds for Informed Sampling in Object Classification and Retrieval**|Pierre Onghena et.al.|[2501.12974](http://arxiv.org/abs/2501.12974)|**[link](https://github.com/pierreoo/morphoskel3d)**|
 |**2024-12-20**|**SaliencyI2PLoc: saliency-guided image-point cloud localization using contrastive learning**|Yuhao Li et.al.|[2412.15577](http://arxiv.org/abs/2412.15577)|null|
