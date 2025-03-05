@@ -14,12 +14,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**TeTRA-VPR: A Ternary Transformer Approach for Compact Visual Place Recognition**|Oliver Grainge et.al.|[2503.02511](http://arxiv.org/abs/2503.02511)|null|
+|**2025-03-04**|**Continual Multi-Robot Learning from Black-Box Visual Place Recognition Models**|Kenta Tsukahara et.al.|[2503.02256](http://arxiv.org/abs/2503.02256)|null|
+|**2025-03-03**|**Composed Multi-modal Retrieval: A Survey of Approaches and Applications**|Kun Zhang et.al.|[2503.01334](http://arxiv.org/abs/2503.01334)|**[link](https://github.com/kkzhang95/awesome-composed-multi-modal-retrieval)**|
+|**2025-03-03**|**AirRoom: Objects Matter in Room Reidentification**|Runmao Yao et.al.|[2503.01130](http://arxiv.org/abs/2503.01130)|null|
+|**2025-03-02**|**Efficient End-to-end Visual Localization for Autonomous Driving with Decoupled BEV Neural Matching**|Jinyu Miao et.al.|[2503.00862](http://arxiv.org/abs/2503.00862)|null|
+|**2025-03-01**|**Class-Independent Increment: An Efficient Approach for Multi-label Class-Incremental Learning**|Songlin Dong et.al.|[2503.00515](http://arxiv.org/abs/2503.00515)|null|
+|**2025-02-28**|**SSL4EO-S12 v1.1: A Multimodal, Multiseasonal Dataset for Pretraining, Updated**|Benedikt Blumenstiel et.al.|[2503.00168](http://arxiv.org/abs/2503.00168)|null|
+|**2025-02-28**|**EVLoc: Event-based Visual Localization in LiDAR Maps via Event-Depth Registration**|Kuangyi Chen et.al.|[2503.00167](http://arxiv.org/abs/2503.00167)|null|
 |**2025-02-28**|**CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval**|Zelong Sun et.al.|[2502.20826](http://arxiv.org/abs/2502.20826)|null|
 |**2025-02-28**|**SciceVPR: Stable Cross-Image Correlation Enhanced Model for Visual Place Recognition**|Shanshan Wan et.al.|[2502.20676](http://arxiv.org/abs/2502.20676)|null|
 |**2025-02-27**|**A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**|Yejun Zhang et.al.|[2502.20036](http://arxiv.org/abs/2502.20036)|**[link](https://github.com/yejunzhang/a2-gnn)**|
 |**2025-02-27**|**RANGE: Retrieval Augmented Neural Fields for Multi-Resolution Geo-Embeddings**|Aayush Dhakal et.al.|[2502.19781](http://arxiv.org/abs/2502.19781)|null|
 |**2025-02-27**|**On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation**|Ruben T. Lucassen et.al.|[2502.19285](http://arxiv.org/abs/2502.19285)|null|
-|**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
+|**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|**[link](https://github.com/hxca1/bev-lio-lc)**|
 |**2025-02-20**|**Too Little, Too Late: Moderation of Misinformation around the Russo-Ukrainian Conflict**|Gautam Kishore Shahi et.al.|[2502.18500](http://arxiv.org/abs/2502.18500)|null|
 |**2025-02-19**|**A Comprehensive Survey on Composed Image Retrieval**|Xuemeng Song et.al.|[2502.18495](http://arxiv.org/abs/2502.18495)|null|
 |**2025-02-25**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237](http://arxiv.org/abs/2502.17237)|**[link](https://github.com/gmberton/megaloc)**|
@@ -327,6 +335,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**2DGS-Avatar: Animatable High-fidelity Clothed Avatar via 2D Gaussian Splatting**|Qipeng Yan et.al.|[2503.02452](http://arxiv.org/abs/2503.02452)|null|
+|**2025-03-04**|**DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting**|Haoyuan Li et.al.|[2503.02223](http://arxiv.org/abs/2503.02223)|null|
+|**2025-03-03**|**Morpheus: Text-Driven 3D Gaussian Splat Shape and Color Stylization**|Jamie Wynn et.al.|[2503.02009](http://arxiv.org/abs/2503.02009)|null|
+|**2025-03-03**|**Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models**|Jay Zhangjie Wu et.al.|[2503.01774](http://arxiv.org/abs/2503.01774)|null|
+|**2025-03-03**|**OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding**|Dianyi Yang et.al.|[2503.01646](http://arxiv.org/abs/2503.01646)|null|
+|**2025-03-03**|**LiteGS: A High-Performance Modular Framework for Gaussian Splatting Training**|Kaimin Liao et.al.|[2503.01199](http://arxiv.org/abs/2503.01199)|null|
+|**2025-03-03**|**FGS-SLAM: Fourier-based Gaussian Splatting for Real-time SLAM with Sparse and Dense Map Fusion**|Yansong Xu et.al.|[2503.01109](http://arxiv.org/abs/2503.01109)|null|
+|**2025-03-02**|**Evolving High-Quality Rendering and Reconstruction in a Unified Framework with Contribution-Adaptive Regularization**|You Shen et.al.|[2503.00881](http://arxiv.org/abs/2503.00881)|null|
+|**2025-03-02**|**Vid2Fluid: 3D Dynamic Fluid Assets from Single-View Videos with Generative Gaussian Splatting**|Zhiwei Zhao et.al.|[2503.00868](http://arxiv.org/abs/2503.00868)|null|
+|**2025-03-02**|**PSRGS:Progressive Spectral Residual of 3D Gaussian for High-Frequency Recovery**|BoCheng Li et.al.|[2503.00848](http://arxiv.org/abs/2503.00848)|null|
+|**2025-03-02**|**DoF-Gaussian: Controllable Depth-of-Field for 3D Gaussian Splatting**|Liao Shen et.al.|[2503.00746](http://arxiv.org/abs/2503.00746)|null|
+|**2025-03-02**|**Enhancing Monocular 3D Scene Completion with Diffusion Model**|Changlin Song et.al.|[2503.00726](http://arxiv.org/abs/2503.00726)|null|
+|**2025-03-01**|**GaussianSeal: Rooting Adaptive Watermarks for 3D Gaussian Generation Model**|Runyi Li et.al.|[2503.00531](http://arxiv.org/abs/2503.00531)|null|
+|**2025-03-01**|**Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups**|Nicholas Pfaff et.al.|[2503.00370](http://arxiv.org/abs/2503.00370)|null|
+|**2025-03-01**|**CAT-3DGS: A Context-Adaptive Triplane Approach to Rate-Distortion-Optimized 3DGS Compression**|Yu-Ting Zhan et.al.|[2503.00357](http://arxiv.org/abs/2503.00357)|null|
+|**2025-03-04**|**Abstract Rendering: Computing All that is Seen in Gaussian Splat Scenes**|Yangge Li et.al.|[2503.00308](http://arxiv.org/abs/2503.00308)|null|
+|**2025-03-01**|**Seeing A 3D World in A Grain of Sand**|Yufan Zhang et.al.|[2503.00260](http://arxiv.org/abs/2503.00260)|null|
 |**2025-03-03**|**FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering**|Jingqiu Zhou et.al.|[2502.21093](http://arxiv.org/abs/2502.21093)|null|
 |**2025-02-28**|**EndoPBR: Material and Lighting Estimation for Photorealistic Surgical Simulations via Physically-based Rendering**|John J. Han et.al.|[2502.20669](http://arxiv.org/abs/2502.20669)|null|
 |**2025-02-27**|**ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting**|Dexter Ong et.al.|[2502.20386](http://arxiv.org/abs/2502.20386)|null|
@@ -1089,6 +1114,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**Mapping representations in Reinforcement Learning via Semantic Alignment for Zero-Shot Stitching**|Antonio Pio Ricciardi et.al.|[2503.01881](http://arxiv.org/abs/2503.01881)|null|
+|**2025-03-03**|**FGS-SLAM: Fourier-based Gaussian Splatting for Real-time SLAM with Sparse and Dense Map Fusion**|Yansong Xu et.al.|[2503.01109](http://arxiv.org/abs/2503.01109)|null|
+|**2025-03-04**|**Floorplan-SLAM: A Real-Time, High-Accuracy, and Long-Term Multi-Session Point-Plane SLAM for Efficient Floorplan Reconstruction**|Haolin Wang et.al.|[2503.00397](http://arxiv.org/abs/2503.00397)|null|
+|**2025-02-27**|**CAMETA: Conflict-Aware Multi-Agent Estimated Time of Arrival Prediction for Mobile Robots**|Jonas le Fevre Sejersen et.al.|[2503.00074](http://arxiv.org/abs/2503.00074)|null|
 |**2025-02-28**|**SegLocNet: Multimodal Localization Network for Autonomous Driving via Bird's-Eye-View Segmentation**|Zijie Zhou et.al.|[2502.20077](http://arxiv.org/abs/2502.20077)|**[link](https://github.com/ZhouZijie77/SegLocNet)**|
 |**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633](http://arxiv.org/abs/2502.15633)|null|
 |**2025-02-13**|**OpenBench: A New Benchmark and Baseline for Semantic Navigation in Smart Logistics**|Junhui Wang et.al.|[2502.09238](http://arxiv.org/abs/2502.09238)|null|
@@ -1100,7 +1129,7 @@ layout: default
 |**2025-01-10**|**Semantic Mapping in Indoor Embodied AI -- A Comprehensive Survey and Future Directions**|Sonia Raychaudhuri et.al.|[2501.05750](http://arxiv.org/abs/2501.05750)|null|
 |**2024-12-31**|**A Fano framework for embeddings of graphs in surfaces**|Blake Dunshee et.al.|[2501.00596](http://arxiv.org/abs/2501.00596)|null|
 |**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov et.al.|[2412.20976](http://arxiv.org/abs/2412.20976)|null|
-|**2024-12-24**|**MR-COGraphs: Communication-efficient Multi-Robot Open-vocabulary Mapping System via 3D Scene Graphs**|Qiuyi Gu et.al.|[2412.18381](http://arxiv.org/abs/2412.18381)|null|
+|**2024-12-24**|**MR-COGraphs: Communication-efficient Multi-Robot Open-vocabulary Mapping System via 3D Scene Graphs**|Qiuyi Gu et.al.|[2412.18381](http://arxiv.org/abs/2412.18381)|**[link](https://github.com/efc-robot/mr-cographs)**|
 |**2024-12-23**|**ActiveGS: Active Scene Reconstruction using Gaussian Splatting**|Liren Jin et.al.|[2412.17769](http://arxiv.org/abs/2412.17769)|**[link](https://github.com/dmar-bonn/active-gs)**|
 |**2024-12-20**|**SaliencyI2PLoc: saliency-guided image-point cloud localization using contrastive learning**|Yuhao Li et.al.|[2412.15577](http://arxiv.org/abs/2412.15577)|null|
 |**2024-12-29**|**Hybrid CNN-LSTM based Indoor Pedestrian Localization with CSI Fingerprint Maps**|Muhammad Emad-ud-din et.al.|[2412.13601](http://arxiv.org/abs/2412.13601)|**[link](https://github.com/em22ad/CSI-Fingerprint-Indoor-Localization)**|
@@ -1167,6 +1196,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Introspective Loop Closure for SLAM with 4D Imaging Radar**|Maximilian Hilger et.al.|[2503.02383](http://arxiv.org/abs/2503.02383)|null|
 |**2025-01-29**|**Noise induced extreme events in single Fitzhugh-Nagumo oscillator**|S. Hariharan et.al.|[2502.20404](http://arxiv.org/abs/2502.20404)|null|
 |**2025-02-10**|**CT-UIO: Continuous-Time UWB-Inertial-Odometer Localization Using Non-Uniform B-spline with Fewer Anchors**|Jian Sun et.al.|[2502.06287](http://arxiv.org/abs/2502.06287)|**[link](https://github.com/jasonsun623/ct-uio)**|
 |**2025-02-10**|**Graph Pseudotime Analysis and Neural Stochastic Differential Equations for Analyzing Retinal Degeneration Dynamics and Beyond**|Dai Shi et.al.|[2502.06126](http://arxiv.org/abs/2502.06126)|null|
