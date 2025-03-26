@@ -21,6 +21,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|null|
+|**2025-03-25**|**Scene-agnostic Pose Regression for Visual Localization**|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|null|
+|**2025-03-25**|**From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting**|Zhiwei Huang et.al.|[2503.19358](http://arxiv.org/abs/2503.19358)|null|
+|**2025-03-25**|**Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval**|Haoqiang Lin et.al.|[2503.19296](http://arxiv.org/abs/2503.19296)|null|
 |**2025-03-23**|**LocDiffusion: Identifying Locations on Earth by Diffusing in the Hilbert Space**|Zhangyu Wang et.al.|[2503.18142](http://arxiv.org/abs/2503.18142)|null|
 |**2025-03-23**|**Selecting and Pruning: A Differentiable Causal Sequentialized State-Space Model for Two-View Correspondence Learning**|Xiang Fang et.al.|[2503.17938](http://arxiv.org/abs/2503.17938)|null|
 |**2025-03-23**|**What Time Tells Us? An Explorative Study of Time Awareness Learned from Static Images**|Dongheng Lin et.al.|[2503.17899](http://arxiv.org/abs/2503.17899)|null|
@@ -34,7 +38,7 @@
 |**2025-03-19**|**Your Signal, Their Data: An Empirical Privacy Analysis of Wireless-scanning SDKs in Android**|Aniketh Girish et.al.|[2503.15238](http://arxiv.org/abs/2503.15238)|null|
 |**2025-03-18**|**3D Densification for Multi-Map Monocular VSLAM in Endoscopy**|X. Anadón et.al.|[2503.14346](http://arxiv.org/abs/2503.14346)|null|
 |**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|**[link](https://github.com/ais-lab/a-score)**|
-|**2025-03-18**|**Investigating the relationship between bolide entry angle and apparent direction of infrasound signal arrivals**|Elizabeth A. Silber et.al.|[2503.13972](http://arxiv.org/abs/2503.13972)|null|
+|**2025-03-25**|**Investigating the relationship between bolide entry angle and apparent direction of infrasound signal arrivals**|Elizabeth A. Silber et.al.|[2503.13972](http://arxiv.org/abs/2503.13972)|null|
 |**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
 |**2025-03-17**|**Multi-Platform Teach-and-Repeat Navigation by Visual Place Recognition Based on Deep-Learned Local Features**|Václav Truhlařík et.al.|[2503.13090](http://arxiv.org/abs/2503.13090)|null|
 |**2025-03-17**|**All You Need to Know About Training Image Retrieval Models**|Gabriele Berton et.al.|[2503.13045](http://arxiv.org/abs/2503.13045)|**[link](https://github.com/gmberton/image-retrieval)**|
@@ -378,6 +382,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**A Survey on Event-driven 3D Reconstruction: Development under Different Categories**|Chuanzhi Xu et.al.|[2503.19753](http://arxiv.org/abs/2503.19753)|null|
+|**2025-03-25**|**High-Quality Spatial Reconstruction and Orthoimage Generation Using Efficient 2D Gaussian Splatting**|Qian Wang et.al.|[2503.19703](http://arxiv.org/abs/2503.19703)|null|
+|**2025-03-25**|**GaussianUDF: Inferring Unsigned Distance Functions through 3D Gaussian Splatting**|Shujuan Li et.al.|[2503.19458](http://arxiv.org/abs/2503.19458)|null|
+|**2025-03-25**|**SparseGS-W: Sparse-View 3D Gaussian Splatting in the Wild with Generative Priors**|Yiqing Li et.al.|[2503.19452](http://arxiv.org/abs/2503.19452)|null|
+|**2025-03-25**|**COB-GS: Clear Object Boundaries in 3DGS Segmentation Based on Boundary-Adaptive Gaussian Splitting**|Jiaxin Zhang et.al.|[2503.19443](http://arxiv.org/abs/2503.19443)|null|
+|**2025-03-25**|**From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting**|Zhiwei Huang et.al.|[2503.19358](http://arxiv.org/abs/2503.19358)|null|
+|**2025-03-25**|**Divide-and-Conquer: Dual-Hierarchical Optimization for Semantic 4D Gaussian Spatting**|Zhiying Yan et.al.|[2503.19332](http://arxiv.org/abs/2503.19332)|null|
+|**2025-03-25**|**MATT-GS: Masked Attention-based 3DGS for Robot Perception and Object Detection**|Jee Won Lee et.al.|[2503.19330](http://arxiv.org/abs/2503.19330)|null|
+|**2025-03-25**|**HoGS: Unified Near and Far Object Reconstruction via Homogeneous Gaussian Splatting**|Xinpeng Liu et.al.|[2503.19232](http://arxiv.org/abs/2503.19232)|**[link](https://github.com/huntorochi/HoGS)**|
 |**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794](http://arxiv.org/abs/2503.18794)|null|
 |**2025-03-24**|**GS-Marker: Generalizable and Robust Watermarking for 3D Gaussian Splatting**|Lijiang Li et.al.|[2503.18718](http://arxiv.org/abs/2503.18718)|null|
 |**2025-03-24**|**Hardware-Rasterized Ray-Based Gaussian Splatting**|Samuel Rota Bulò et.al.|[2503.18682](http://arxiv.org/abs/2503.18682)|null|
@@ -1297,6 +1310,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**MM-LINS: a Multi-Map LiDAR-Inertial System for Over-Degenerate Environments**|Yongxin Ma et.al.|[2503.19506](http://arxiv.org/abs/2503.19506)|**[link](https://github.com/lian-yue0515/MM-LINS)**|
 |**2025-03-20**|**ContactFusion: Stochastic Poisson Surface Maps from Visual and Contact Sensing**|Aditya Kamireddypalli et.al.|[2503.16592](http://arxiv.org/abs/2503.16592)|null|
 |**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
 |**2025-03-11**|**GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**|Kai Deng et.al.|[2503.08071](http://arxiv.org/abs/2503.08071)|null|
