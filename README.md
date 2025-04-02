@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -386,7 +386,7 @@
 |**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424](http://arxiv.org/abs/2406.13424)|**[link](https://github.com/rogerferrod/rsicrc)**|
 |**2024-06-19**|**CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval**|Christian Lülf et.al.|[2406.13322](http://arxiv.org/abs/2406.13322)|**[link](https://github.com/cluel01/clip-branches)**|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 ## 3D GS
 
@@ -395,7 +395,7 @@
 |**2025-03-31**|**Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views**|Chong Bao et.al.|[2503.24382](http://arxiv.org/abs/2503.24382)|null|
 |**2025-03-31**|**ERUPT: Efficient Rendering with Unposed Patch Transformer**|Maxim V. Shugaev et.al.|[2503.24374](http://arxiv.org/abs/2503.24374)|null|
 |**2025-03-31**|**StochasticSplats: Stochastic Rasterization for Sorting-Free 3D Gaussian Splatting**|Shakiba Kheradmand et.al.|[2503.24366](http://arxiv.org/abs/2503.24366)|null|
-|**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270](http://arxiv.org/abs/2503.24270)|null|
+|**2025-04-01**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270](http://arxiv.org/abs/2503.24270)|null|
 |**2025-03-31**|**DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting**|Seungjun Lee et.al.|[2503.24210](http://arxiv.org/abs/2503.24210)|null|
 |**2025-03-31**|**Learning 3D-Gaussian Simulators from RGB Videos**|Mikel Zhobro et.al.|[2503.24009](http://arxiv.org/abs/2503.24009)|null|
 |**2025-03-31**|**ExScene: Free-View 3D Scene Reconstruction with Gaussian Splatting from a Single Image**|Tianyi Gong et.al.|[2503.23881](http://arxiv.org/abs/2503.23881)|null|
@@ -1350,7 +1350,7 @@
 |**2024-06-28**|**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**|Daiwei Zhang et.al.|[2406.19811](http://arxiv.org/abs/2406.19811)|null|
 |**2024-06-27**|**Lightweight Predictive 3D Gaussian Splats**|Junli Cao et.al.|[2406.19434](http://arxiv.org/abs/2406.19434)|**[link](https://github.com/plumpuddings/lpgs)**|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 ## Map
 
@@ -1447,7 +1447,7 @@
 |**2024-04-14**|**VRS-NeRF: Visual Relocalization with Sparse Neural Radiance Field**|Fei Xue et.al.|[2404.09271](http://arxiv.org/abs/2404.09271)|**[link](https://github.com/feixue94/vrs-nerf)**|
 |**2024-06-10**|**PRISM-TopoMap: Online Topological Mapping with Place Recognition and Scan Matching**|Kirill Muravyev et.al.|[2404.01674](http://arxiv.org/abs/2404.01674)|**[link](https://github.com/kirillmouraviev/prism-topomap)**|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 ## Point Cloud Consistency
 
@@ -1507,7 +1507,7 @@
 |**2024-01-23**|**A BFF-Based Attention Mechanism for Trajectory Estimation in mmWave MIMO Communications**|Mohammad Shamsesalehi et.al.|[2401.13059](http://arxiv.org/abs/2401.13059)|null|
 |**2024-01-05**|**Partition-based Nonrigid Registration for 3D Face Model**|Yuping Ye et.al.|[2401.02607](http://arxiv.org/abs/2401.02607)|null|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 ## Place Recognition
 
@@ -1547,7 +1547,7 @@
 |**2023-01-04**|**AttDLNet: Attention-based DL Network for 3D LiDAR Place Recognition**|Tiago Barros et.al.|[2106.09637](http://arxiv.org/abs/2106.09637)|**[link](https://github.com/cybonic/attdlnet)**|
 |**2020-07-17**|**DH3D: Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DoF Relocalization**|Juan Du et.al.|[2007.09217](http://arxiv.org/abs/2007.09217)|**[link](https://github.com/JuanDuGit/DH3D)**|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

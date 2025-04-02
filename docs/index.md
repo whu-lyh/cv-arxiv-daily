@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -386,7 +386,7 @@ layout: default
 |**2025-03-31**|**Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views**|Chong Bao et.al.|[2503.24382](http://arxiv.org/abs/2503.24382)|null|
 |**2025-03-31**|**ERUPT: Efficient Rendering with Unposed Patch Transformer**|Maxim V. Shugaev et.al.|[2503.24374](http://arxiv.org/abs/2503.24374)|null|
 |**2025-03-31**|**StochasticSplats: Stochastic Rasterization for Sorting-Free 3D Gaussian Splatting**|Shakiba Kheradmand et.al.|[2503.24366](http://arxiv.org/abs/2503.24366)|null|
-|**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270](http://arxiv.org/abs/2503.24270)|null|
+|**2025-04-01**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270](http://arxiv.org/abs/2503.24270)|null|
 |**2025-03-31**|**DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting**|Seungjun Lee et.al.|[2503.24210](http://arxiv.org/abs/2503.24210)|null|
 |**2025-03-31**|**Learning 3D-Gaussian Simulators from RGB Videos**|Mikel Zhobro et.al.|[2503.24009](http://arxiv.org/abs/2503.24009)|null|
 |**2025-03-31**|**ExScene: Free-View 3D Scene Reconstruction with Gaussian Splatting from a Single Image**|Tianyi Gong et.al.|[2503.23881](http://arxiv.org/abs/2503.23881)|null|
