@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -397,7 +397,7 @@ layout: default
 |**2025-03-29**|**NeuralGS: Bridging Neural Fields and 3D Gaussian Splatting for Compact 3D Representations**|Zhenyu Tang et.al.|[2503.23162](http://arxiv.org/abs/2503.23162)|null|
 |**2025-03-29**|**CityGS-X: A Scalable Architecture for Efficient and Geometrically Accurate Large-Scale Scene Reconstruction**|Yuanyuan Gao et.al.|[2503.23044](http://arxiv.org/abs/2503.23044)|null|
 |**2025-03-29**|**FreeSplat++: Generalizable 3D Gaussian Splatting for Efficient Indoor Scene Reconstruction**|Yunsong Wang et.al.|[2503.22986](http://arxiv.org/abs/2503.22986)|null|
-|**2025-03-28**|**VizFlyt: Perception-centric Pedagogical Framework For Autonomous Aerial Robots**|Kushagra Srivastava et.al.|[2503.22876](http://arxiv.org/abs/2503.22876)|**[link](https://github.com/pearwpi/VizFlyt)**|
+|**2025-04-01**|**VizFlyt: Perception-centric Pedagogical Framework For Autonomous Aerial Robots**|Kushagra Srivastava et.al.|[2503.22876](http://arxiv.org/abs/2503.22876)|**[link](https://github.com/pearwpi/VizFlyt)**|
 |**2025-03-28**|**TranSplat: Lighting-Consistent Cross-Scene Object Transfer with 3D Gaussian Splatting**|Boyang et.al.|[2503.22676](http://arxiv.org/abs/2503.22676)|null|
 |**2025-03-28**|**Audio-Plane: Audio Factorization Plane Gaussian Splatting for Real-Time Talking Head Synthesis**|Shuai Shen et.al.|[2503.22605](http://arxiv.org/abs/2503.22605)|null|
 |**2025-03-28**|**EndoLRMGS: Complete Endoscopic Scene Reconstruction combining Large Reconstruction Modelling and Gaussian Splatting**|Xu Wang et.al.|[2503.22437](http://arxiv.org/abs/2503.22437)|**[link](https://github.com/michaelwanggo/endolrmgs)**|
@@ -1345,7 +1345,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-31**|**AdaMMS: Model Merging for Heterogeneous Multimodal Large Language Models with Unsupervised Coefficient Optimization**|Yiyang Du et.al.|[2503.23733](http://arxiv.org/abs/2503.23733)|null|
+|**2025-03-31**|**AdaMMS: Model Merging for Heterogeneous Multimodal Large Language Models with Unsupervised Coefficient Optimization**|Yiyang Du et.al.|[2503.23733](http://arxiv.org/abs/2503.23733)|**[link](https://github.com/thunlp-mt/adamms)**|
 |**2025-03-30**|**Improving Indoor Localization Accuracy by Using an Efficient Implicit Neural Map Representation**|Haofei Kuang et.al.|[2503.23480](http://arxiv.org/abs/2503.23480)|null|
 |**2025-03-30**|**SparseLoc: Sparse Open-Set Landmark-based Global Localization for Autonomous Navigation**|Pranjal Paul et.al.|[2503.23465](http://arxiv.org/abs/2503.23465)|null|
 |**2025-03-25**|**MM-LINS: a Multi-Map LiDAR-Inertial System for Over-Degenerate Environments**|Yongxin Ma et.al.|[2503.19506](http://arxiv.org/abs/2503.19506)|**[link](https://github.com/lian-yue0515/MM-LINS)**|
