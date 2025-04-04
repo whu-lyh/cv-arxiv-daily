@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -388,7 +388,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-02**|**Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis**|Niluthpol Chowdhury Mithun et.al.|[2504.01960](http://arxiv.org/abs/2504.01960)|null|
-|**2025-04-02**|**GaussianLSS -- Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[2504.01957](http://arxiv.org/abs/2504.01957)|null|
+|**2025-04-03**|**Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[2504.01957](http://arxiv.org/abs/2504.01957)|null|
 |**2025-04-02**|**BOGausS: Better Optimized Gaussian Splatting**|Stéphane Pateux et.al.|[2504.01844](http://arxiv.org/abs/2504.01844)|null|
 |**2025-04-02**|**FIORD: A Fisheye Indoor-Outdoor Dataset with LIDAR Ground Truth for 3D Scene Reconstruction and Benchmarking**|Ulas Gunes et.al.|[2504.01732](http://arxiv.org/abs/2504.01732)|null|
 |**2025-04-02**|**FlowR: Flowing from Sparse to Dense 3D Reconstructions**|Tobias Fischer et.al.|[2504.01647](http://arxiv.org/abs/2504.01647)|null|
@@ -401,7 +401,7 @@ layout: default
 |**2025-04-01**|**UnIRe: Unsupervised Instance Decomposition for Dynamic Urban Scene Reconstruction**|Yunxuan Mao et.al.|[2504.00763](http://arxiv.org/abs/2504.00763)|null|
 |**2025-04-01**|**Monocular and Generalizable Gaussian Talking Head Animation**|Shengjie Gong et.al.|[2504.00665](http://arxiv.org/abs/2504.00665)|null|
 |**2025-04-01**|**Robust LiDAR-Camera Calibration with 2D Gaussian Splatting**|Shuyi Zhou et.al.|[2504.00525](http://arxiv.org/abs/2504.00525)|null|
-|**2025-04-02**|**Distilling Multi-view Diffusion Models into 3D Generators**|Hao Qin et.al.|[2504.00457](http://arxiv.org/abs/2504.00457)|null|
+|**2025-04-03**|**Distilling Multi-view Diffusion Models into 3D Generators**|Hao Qin et.al.|[2504.00457](http://arxiv.org/abs/2504.00457)|null|
 |**2025-04-01**|**ADGaussian: Generalizable Gaussian Splatting for Autonomous Driving with Multi-modal Inputs**|Qi Song et.al.|[2504.00437](http://arxiv.org/abs/2504.00437)|null|
 |**2025-04-01**|**Scene4U: Hierarchical Layered 3D Scene Reconstruction from Single Panoramic Image for Your Immerse Exploration**|Zilong Huang et.al.|[2504.00387](http://arxiv.org/abs/2504.00387)|null|
 |**2025-03-31**|**LITA-GS: Illumination-Agnostic Novel View Synthesis via Reference-Free 3D Gaussian Splatting and Physical Priors**|Han Zhou et.al.|[2504.00219](http://arxiv.org/abs/2504.00219)|null|
