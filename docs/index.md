@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
 |**2025-04-02**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**|Yuji Nozawa et.al.|[2504.01348](http://arxiv.org/abs/2504.01348)|null|
 |**2025-04-01**|**IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**|Bangwei Liu et.al.|[2504.00954](http://arxiv.org/abs/2504.00954)|null|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
@@ -387,6 +388,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437](http://arxiv.org/abs/2504.02437)|null|
+|**2025-04-03**|**ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation**|Yuan Zhou et.al.|[2504.02316](http://arxiv.org/abs/2504.02316)|null|
+|**2025-04-03**|**Digital-twin imaging based on descattering Gaussian splatting**|Suguru Shimomura et.al.|[2504.02278](http://arxiv.org/abs/2504.02278)|null|
+|**2025-04-02**|**UAVTwin: Neural Digital Twins for UAVs using Gaussian Splatting**|Jaehoon Choi et.al.|[2504.02158](http://arxiv.org/abs/2504.02158)|null|
+|**2025-04-02**|**WorldPrompter: Traversable Text-to-Scene Generation**|Zhaoyang Zhang et.al.|[2504.02045](http://arxiv.org/abs/2504.02045)|null|
 |**2025-04-02**|**Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis**|Niluthpol Chowdhury Mithun et.al.|[2504.01960](http://arxiv.org/abs/2504.01960)|null|
 |**2025-04-03**|**Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[2504.01957](http://arxiv.org/abs/2504.01957)|null|
 |**2025-04-02**|**BOGausS: Better Optimized Gaussian Splatting**|Stéphane Pateux et.al.|[2504.01844](http://arxiv.org/abs/2504.01844)|null|
@@ -400,7 +406,7 @@ layout: default
 |**2025-04-01**|**DropGaussian: Structural Regularization for Sparse-view Gaussian Splatting**|Hyunwoo Park et.al.|[2504.00773](http://arxiv.org/abs/2504.00773)|null|
 |**2025-04-01**|**UnIRe: Unsupervised Instance Decomposition for Dynamic Urban Scene Reconstruction**|Yunxuan Mao et.al.|[2504.00763](http://arxiv.org/abs/2504.00763)|null|
 |**2025-04-01**|**Monocular and Generalizable Gaussian Talking Head Animation**|Shengjie Gong et.al.|[2504.00665](http://arxiv.org/abs/2504.00665)|null|
-|**2025-04-01**|**Robust LiDAR-Camera Calibration with 2D Gaussian Splatting**|Shuyi Zhou et.al.|[2504.00525](http://arxiv.org/abs/2504.00525)|null|
+|**2025-04-01**|**Robust LiDAR-Camera Calibration with 2D Gaussian Splatting**|Shuyi Zhou et.al.|[2504.00525](http://arxiv.org/abs/2504.00525)|**[link](https://github.com/shuyizhou495/robustcalibration)**|
 |**2025-04-03**|**Distilling Multi-view Diffusion Models into 3D Generators**|Hao Qin et.al.|[2504.00457](http://arxiv.org/abs/2504.00457)|null|
 |**2025-04-01**|**ADGaussian: Generalizable Gaussian Splatting for Autonomous Driving with Multi-modal Inputs**|Qi Song et.al.|[2504.00437](http://arxiv.org/abs/2504.00437)|null|
 |**2025-04-01**|**Scene4U: Hierarchical Layered 3D Scene Reconstruction from Single Panoramic Image for Your Immerse Exploration**|Zilong Huang et.al.|[2504.00387](http://arxiv.org/abs/2504.00387)|null|
@@ -1368,10 +1374,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Graph Attention-Driven Bayesian Deep Unrolling for Dual-Peak Single-Photon Lidar Imaging**|Kyungmin Choi et.al.|[2504.02480](http://arxiv.org/abs/2504.02480)|null|
 |**2025-04-01**|**LimTDD: A Compact Decision Diagram Integrating Tensor and Local Invertible Map Representations**|Xin Hong et.al.|[2504.01168](http://arxiv.org/abs/2504.01168)|null|
 |**2025-04-01**|**MRHaD: Mixed Reality-based Hand-Drawn Map Editing Interface for Mobile Robot Navigation**|Takumi Taki et.al.|[2504.00580](http://arxiv.org/abs/2504.00580)|null|
 |**2025-03-31**|**AdaMMS: Model Merging for Heterogeneous Multimodal Large Language Models with Unsupervised Coefficient Optimization**|Yiyang Du et.al.|[2503.23733](http://arxiv.org/abs/2503.23733)|**[link](https://github.com/thunlp-mt/adamms)**|
-|**2025-03-30**|**Improving Indoor Localization Accuracy by Using an Efficient Implicit Neural Map Representation**|Haofei Kuang et.al.|[2503.23480](http://arxiv.org/abs/2503.23480)|null|
+|**2025-03-30**|**Improving Indoor Localization Accuracy by Using an Efficient Implicit Neural Map Representation**|Haofei Kuang et.al.|[2503.23480](http://arxiv.org/abs/2503.23480)|**[link](https://github.com/prbonn/enm-mcl)**|
 |**2025-03-30**|**SparseLoc: Sparse Open-Set Landmark-based Global Localization for Autonomous Navigation**|Pranjal Paul et.al.|[2503.23465](http://arxiv.org/abs/2503.23465)|null|
 |**2025-03-25**|**MM-LINS: a Multi-Map LiDAR-Inertial System for Over-Degenerate Environments**|Yongxin Ma et.al.|[2503.19506](http://arxiv.org/abs/2503.19506)|**[link](https://github.com/lian-yue0515/MM-LINS)**|
 |**2025-03-20**|**ContactFusion: Stochastic Poisson Surface Maps from Visual and Contact Sensing**|Aditya Kamireddypalli et.al.|[2503.16592](http://arxiv.org/abs/2503.16592)|null|
