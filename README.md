@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -406,28 +406,28 @@
 |**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424](http://arxiv.org/abs/2406.13424)|**[link](https://github.com/rogerferrod/rsicrc)**|
 |**2024-06-19**|**CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval**|Christian Lülf et.al.|[2406.13322](http://arxiv.org/abs/2406.13322)|**[link](https://github.com/cluel01/clip-branches)**|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## 3D GS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-14**|**DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting**|Zeren Jiang et.al.|[2504.10486](http://arxiv.org/abs/2504.10486)|null|
-|**2025-04-14**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
+|**2025-04-15**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
 |**2025-04-14**|**ESCT3D: Efficient and Selectively Controllable Text-Driven 3D Content Generation with Gaussian Splatting**|Huiqi Wu et.al.|[2504.10316](http://arxiv.org/abs/2504.10316)|null|
 |**2025-04-14**|**EBAD-Gaussian: Event-driven Bundle Adjusted Deblur Gaussian Splatting**|Yufei Deng et.al.|[2504.10012](http://arxiv.org/abs/2504.10012)|null|
-|**2025-04-14**|**GaussVideoDreamer: 3D Scene Generation with Video Diffusion and Inconsistency-Aware Gaussian Splatting**|Junlin Hao et.al.|[2504.10001](http://arxiv.org/abs/2504.10001)|null|
+|**2025-04-15**|**GaussVideoDreamer: 3D Scene Generation with Video Diffusion and Inconsistency-Aware Gaussian Splatting**|Junlin Hao et.al.|[2504.10001](http://arxiv.org/abs/2504.10001)|null|
 |**2025-04-14**|**MCBlock: Boosting Neural Radiance Field Training Speed by MCTS-based Dynamic-Resolution Ray Sampling**|Yunpeng Tan et.al.|[2504.09878](http://arxiv.org/abs/2504.09878)|null|
 |**2025-04-13**|**TextSplat: Text-Guided Semantic Fusion for Generalizable Gaussian Splatting**|Zhicong Wu et.al.|[2504.09588](http://arxiv.org/abs/2504.09588)|null|
 |**2025-04-13**|**DropoutGS: Dropping Out Gaussians for Better Sparse-view Rendering**|Yexing Xu et.al.|[2504.09491](http://arxiv.org/abs/2504.09491)|null|
 |**2025-04-12**|**A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds**|Jizong Peng et.al.|[2504.09129](http://arxiv.org/abs/2504.09129)|null|
 |**2025-04-12**|**BIGS: Bimanual Category-agnostic Interaction Reconstruction from Monocular Videos via 3D Gaussian Splatting**|Jeongwan On et.al.|[2504.09097](http://arxiv.org/abs/2504.09097)|null|
 |**2025-04-12**|**You Need a Transition Plane: Bridging Continuous Panoramic 3D Reconstruction with Perspective Gaussian Splatting**|Zhijie Shen et.al.|[2504.09062](http://arxiv.org/abs/2504.09062)|null|
-|**2025-04-12**|**BlockGaussian: Efficient Large-Scale Scene NovelView Synthesis via Adaptive Block-Based Gaussian Splatting**|Yongchang Wu et.al.|[2504.09048](http://arxiv.org/abs/2504.09048)|null|
+|**2025-04-15**|**BlockGaussian: Efficient Large-Scale Scene Novel View Synthesis via Adaptive Block-Based Gaussian Splatting**|Yongchang Wu et.al.|[2504.09048](http://arxiv.org/abs/2504.09048)|null|
 |**2025-04-11**|**FMLGS: Fast Multilevel Language Embedded Gaussians for Part-level Interactive Agents**|Xin Tan et.al.|[2504.08581](http://arxiv.org/abs/2504.08581)|null|
-|**2025-04-11**|**Cut-and-Splat: Leveraging Gaussian Splatting for Synthetic Data Generation**|Bram Vanherle et.al.|[2504.08473](http://arxiv.org/abs/2504.08473)|null|
+|**2025-04-11**|**Cut-and-Splat: Leveraging Gaussian Splatting for Synthetic Data Generation**|Bram Vanherle et.al.|[2504.08473](http://arxiv.org/abs/2504.08473)|**[link](https://github.com/edm-research/cut-and-splat)**|
 |**2025-04-11**|**In-2-4D: Inbetweening from Two Single-View Images to 4D Generation**|Sauradip Nag et.al.|[2504.08366](http://arxiv.org/abs/2504.08366)|null|
-|**2025-04-10**|**ContrastiveGaussian: High-Fidelity 3D Generation with Contrastive Learning and Gaussian Splatting**|Junbang Liu et.al.|[2504.08100](http://arxiv.org/abs/2504.08100)|null|
+|**2025-04-10**|**ContrastiveGaussian: High-Fidelity 3D Generation with Contrastive Learning and Gaussian Splatting**|Junbang Liu et.al.|[2504.08100](http://arxiv.org/abs/2504.08100)|**[link](https://github.com/yanllan-ljb/contrastivegaussian)**|
 |**2025-04-10**|**InteractAvatar: Modeling Hand-Face Interaction in Photorealistic Avatars with Deformable Gaussians**|Kefan Chen et.al.|[2504.07949](http://arxiv.org/abs/2504.07949)|null|
 |**2025-04-10**|**View-Dependent Uncertainty Estimation of 3D Gaussian Splatting**|Chenyu Han et.al.|[2504.07370](http://arxiv.org/abs/2504.07370)|null|
 |**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978](http://arxiv.org/abs/2504.06978)|null|
@@ -1435,7 +1435,7 @@
 |**2024-06-28**|**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**|Daiwei Zhang et.al.|[2406.19811](http://arxiv.org/abs/2406.19811)|null|
 |**2024-06-27**|**Lightweight Predictive 3D Gaussian Splats**|Junli Cao et.al.|[2406.19434](http://arxiv.org/abs/2406.19434)|**[link](https://github.com/plumpuddings/lpgs)**|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Map
 
@@ -1453,7 +1453,7 @@
 |**2025-03-25**|**MM-LINS: a Multi-Map LiDAR-Inertial System for Over-Degenerate Environments**|Yongxin Ma et.al.|[2503.19506](http://arxiv.org/abs/2503.19506)|**[link](https://github.com/lian-yue0515/MM-LINS)**|
 |**2025-03-20**|**ContactFusion: Stochastic Poisson Surface Maps from Visual and Contact Sensing**|Aditya Kamireddypalli et.al.|[2503.16592](http://arxiv.org/abs/2503.16592)|null|
 |**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
-|**2025-03-11**|**GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**|Kai Deng et.al.|[2503.08071](http://arxiv.org/abs/2503.08071)|null|
+|**2025-03-11**|**GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**|Kai Deng et.al.|[2503.08071](http://arxiv.org/abs/2503.08071)|**[link](https://github.com/DengKaiCQ/GigaSLAM)**|
 |**2025-03-10**|**Multi-Robot System for Cooperative Exploration in Unknown Environments: A Survey**|Chuqi Wang et.al.|[2503.07278](http://arxiv.org/abs/2503.07278)|null|
 |**2025-03-12**|**HisTrackMap: Global Vectorized High-Definition Map Construction via History Map Tracking**|Jing Yang et.al.|[2503.07168](http://arxiv.org/abs/2503.07168)|null|
 |**2025-03-10**|**AKF-LIO: LiDAR-Inertial Odometry with Gaussian Map by Adaptive Kalman Filter**|Xupeng Xie et.al.|[2503.06891](http://arxiv.org/abs/2503.06891)|**[link](https://github.com/xpxie/akf-lio)**|
@@ -1538,7 +1538,7 @@
 |**2024-04-14**|**VRS-NeRF: Visual Relocalization with Sparse Neural Radiance Field**|Fei Xue et.al.|[2404.09271](http://arxiv.org/abs/2404.09271)|**[link](https://github.com/feixue94/vrs-nerf)**|
 |**2024-06-10**|**PRISM-TopoMap: Online Topological Mapping with Place Recognition and Scan Matching**|Kirill Muravyev et.al.|[2404.01674](http://arxiv.org/abs/2404.01674)|**[link](https://github.com/kirillmouraviev/prism-topomap)**|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Point Cloud Consistency
 
@@ -1601,13 +1601,13 @@
 |**2024-01-23**|**A BFF-Based Attention Mechanism for Trajectory Estimation in mmWave MIMO Communications**|Mohammad Shamsesalehi et.al.|[2401.13059](http://arxiv.org/abs/2401.13059)|null|
 |**2024-01-05**|**Partition-based Nonrigid Registration for 3D Face Model**|Yuping Ye et.al.|[2401.02607](http://arxiv.org/abs/2401.02607)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Place Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-23**|**Text-Driven Cross-Modal Place Recognition Method for Remote Sensing Localization**|Tianyi Shang et.al.|[2503.18035](http://arxiv.org/abs/2503.18035)|null|
+|**2025-04-15**|**Text-Driven 3D Lidar Place Recognition for Autonomous Driving**|Tianyi Shang et.al.|[2503.18035](http://arxiv.org/abs/2503.18035)|null|
 |**2025-03-14**|**L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery**|Ziwei Shi et.al.|[2503.11245](http://arxiv.org/abs/2503.11245)|null|
 |**2025-03-21**|**HOTFormerLoc: Hierarchical Octree Transformer for Versatile Lidar Place Recognition Across Ground and Aerial Views**|Ethan Griffiths et.al.|[2503.08140](http://arxiv.org/abs/2503.08140)|null|
 |**2025-03-06**|**ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**|Yanqing Shen et.al.|[2503.04475](http://arxiv.org/abs/2503.04475)|**[link](https://github.com/shenyanqing1105/ForestLPR-CVPR2025)**|
@@ -1641,7 +1641,7 @@
 |**2023-01-04**|**AttDLNet: Attention-based DL Network for 3D LiDAR Place Recognition**|Tiago Barros et.al.|[2106.09637](http://arxiv.org/abs/2106.09637)|**[link](https://github.com/cybonic/attdlnet)**|
 |**2020-07-17**|**DH3D: Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DoF Relocalization**|Juan Du et.al.|[2007.09217](http://arxiv.org/abs/2007.09217)|**[link](https://github.com/JuanDuGit/DH3D)**|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
