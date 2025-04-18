@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework with MLLMs**|Haoxuan Li et.al.|[2504.13172](http://arxiv.org/abs/2504.13172)|null|
 |**2025-04-16**|**Generalized Visual Relation Detection with Diffusion Models**|Kaifeng Gao et.al.|[2504.12100](http://arxiv.org/abs/2504.12100)|null|
 |**2025-04-15**|**DMAGaze: Gaze Estimation Based on Feature Disentanglement and Multi-Scale Attention**|Haohan Chen et.al.|[2504.11160](http://arxiv.org/abs/2504.11160)|null|
 |**2025-04-15**|**Visual Re-Ranking with Non-Visual Side Information**|Gustav Hanning et.al.|[2504.11134](http://arxiv.org/abs/2504.11134)|null|
@@ -35,7 +36,7 @@
 |**2025-04-10**|**ClimateBench-M: A Multi-Modal Climate Data Benchmark with a Simple Generative Method**|Dongqi Fu et.al.|[2504.07394](http://arxiv.org/abs/2504.07394)|**[link](https://github.com/idea-isail-lab-uiuc/climatebench-m)**|
 |**2025-04-09**|**A Pointcloud Registration Framework for Relocalization in Subterranean Environments**|David Akhihiero et.al.|[2504.07231](http://arxiv.org/abs/2504.07231)|null|
 |**2025-04-09**|**Patch Matters: Training-free Fine-grained Image Caption Enhancement via Local Perception**|Ruotian Peng et.al.|[2504.06666](http://arxiv.org/abs/2504.06666)|null|
-|**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
+|**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|**[link](https://github.com/FarInHeight/To-Match-or-Not-to-Match)**|
 |**2025-04-08**|**Time-Aware Auto White Balance in Mobile Photography**|Mahmoud Afifi et.al.|[2504.05623](http://arxiv.org/abs/2504.05623)|null|
 |**2025-04-14**|**Climplicit: Climatic Implicit Embeddings for Global Ecological Tasks**|Johannes Dollinger et.al.|[2504.05089](http://arxiv.org/abs/2504.05089)|**[link](https://github.com/ecovision-uzh/climplicit)**|
 |**2025-04-06**|**NCL-CIR: Noise-aware Contrastive Learning for Composed Image Retrieval**|Peng Gao et.al.|[2504.04339](http://arxiv.org/abs/2504.04339)|null|
@@ -417,6 +418,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175](http://arxiv.org/abs/2504.13175)|null|
+|**2025-04-17**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167](http://arxiv.org/abs/2504.13167)|null|
+|**2025-04-17**|**Digital Twin Generation from Visual Data: A Survey**|Andrew Melnik et.al.|[2504.13159](http://arxiv.org/abs/2504.13159)|null|
+|**2025-04-17**|**Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs**|Shaohui Dai et.al.|[2504.13153](http://arxiv.org/abs/2504.13153)|null|
+|**2025-04-17**|**CompGS++: Compressed Gaussian Splatting for Static and Dynamic Scene Representation**|Xiangrui Liu et.al.|[2504.13022](http://arxiv.org/abs/2504.13022)|null|
+|**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999](http://arxiv.org/abs/2504.12999)|null|
+|**2025-04-17**|**Second-order Optimization of Gaussian Splats with Importance Sampling**|Hamza Pehlivan et.al.|[2504.12905](http://arxiv.org/abs/2504.12905)|null|
+|**2025-04-17**|**AAA-Gaussians: Anti-Aliased and Artifact-Free 3D Gaussian Rendering**|Michael Steiner et.al.|[2504.12811](http://arxiv.org/abs/2504.12811)|null|
+|**2025-04-17**|**CAGE-GS: High-fidelity Cage Based 3D Gaussian Splatting Deformation**|Yifei Tong et.al.|[2504.12800](http://arxiv.org/abs/2504.12800)|null|
+|**2025-04-17**|**TSGS: Improving Gaussian Splatting for Transparent Surface Reconstruction via Normal and De-lighting Priors**|Mingwei Li et.al.|[2504.12799](http://arxiv.org/abs/2504.12799)|null|
+|**2025-04-17**|**ARAP-GS: Drag-driven As-Rigid-As-Possible 3D Gaussian Splatting Editing with Diffusion Prior**|Xiao Han et.al.|[2504.12788](http://arxiv.org/abs/2504.12788)|null|
 |**2025-04-16**|**CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting**|Wei Sun et.al.|[2504.11893](http://arxiv.org/abs/2504.11893)|null|
 |**2025-04-16**|**DeepWheel: Generating a 3D Synthetic Wheel Dataset for Design and Performance Evaluation**|Soyoung Yoo et.al.|[2504.11347](http://arxiv.org/abs/2504.11347)|null|
 |**2025-04-16**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming Wei et.al.|[2504.11218](http://arxiv.org/abs/2504.11218)|null|
@@ -1621,6 +1633,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Diffusion Based Robust LiDAR Place Recognition**|Benjamin Krummenacher et.al.|[2504.12412](http://arxiv.org/abs/2504.12412)|null|
 |**2025-04-15**|**Text-Driven 3D Lidar Place Recognition for Autonomous Driving**|Tianyi Shang et.al.|[2503.18035](http://arxiv.org/abs/2503.18035)|null|
 |**2025-03-14**|**L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery**|Ziwei Shi et.al.|[2503.11245](http://arxiv.org/abs/2503.11245)|null|
 |**2025-03-21**|**HOTFormerLoc: Hierarchical Octree Transformer for Versatile Lidar Place Recognition Across Ground and Aerial Views**|Ethan Griffiths et.al.|[2503.08140](http://arxiv.org/abs/2503.08140)|null|
