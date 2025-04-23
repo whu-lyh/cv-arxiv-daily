@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -31,7 +31,7 @@ layout: default
 |**2025-04-10**|**ClimateBench-M: A Multi-Modal Climate Data Benchmark with a Simple Generative Method**|Dongqi Fu et.al.|[2504.07394](http://arxiv.org/abs/2504.07394)|**[link](https://github.com/idea-isail-lab-uiuc/climatebench-m)**|
 |**2025-04-09**|**A Pointcloud Registration Framework for Relocalization in Subterranean Environments**|David Akhihiero et.al.|[2504.07231](http://arxiv.org/abs/2504.07231)|null|
 |**2025-04-09**|**Patch Matters: Training-free Fine-grained Image Caption Enhancement via Local Perception**|Ruotian Peng et.al.|[2504.06666](http://arxiv.org/abs/2504.06666)|null|
-|**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|**[link](https://github.com/FarInHeight/To-Match-or-Not-to-Match)**|
+|**2025-04-22**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|**[link](https://github.com/FarInHeight/To-Match-or-Not-to-Match)**|
 |**2025-04-08**|**Time-Aware Auto White Balance in Mobile Photography**|Mahmoud Afifi et.al.|[2504.05623](http://arxiv.org/abs/2504.05623)|null|
 |**2025-04-14**|**Climplicit: Climatic Implicit Embeddings for Global Ecological Tasks**|Johannes Dollinger et.al.|[2504.05089](http://arxiv.org/abs/2504.05089)|**[link](https://github.com/ecovision-uzh/climplicit)**|
 |**2025-04-06**|**NCL-CIR: Noise-aware Contrastive Learning for Composed Image Retrieval**|Peng Gao et.al.|[2504.04339](http://arxiv.org/abs/2504.04339)|null|
