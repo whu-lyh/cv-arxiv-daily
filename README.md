@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**EcoWikiRS: Learning Ecological Representation of Satellite Images from Weak Supervision with Species Observations and Wikipedia**|Valerie Zermatten et.al.|[2504.19742](http://arxiv.org/abs/2504.19742)|null|
+|**2025-04-27**|**Doxing via the Lens: Revealing Privacy Leakage in Image Geolocation for Agentic Multi-Modal Large Reasoning Model**|Weidi Luo et.al.|[2504.19373](http://arxiv.org/abs/2504.19373)|null|
+|**2025-04-25**|**GeoFINDR: Practical Approach to Verify Cloud Instances Geolocation in Multicloud**|Said Ider et.al.|[2504.18685](http://arxiv.org/abs/2504.18685)|null|
 |**2025-04-25**|**From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval**|Yabing Wang et.al.|[2504.17990](http://arxiv.org/abs/2504.17990)|null|
 |**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636](http://arxiv.org/abs/2504.17636)|null|
 |**2025-04-23**|**Rethinking Vision Transformer for Large-Scale Fine-Grained Image Retrieval**|Xin Jiang et.al.|[2504.16691](http://arxiv.org/abs/2504.16691)|null|
@@ -424,7 +427,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468](http://arxiv.org/abs/2504.18468)|null|
+|**2025-04-28**|**Mesh-Learner: Texturing Mesh with Spherical Harmonics**|Yunfei Wan et.al.|[2504.19938](http://arxiv.org/abs/2504.19938)|null|
+|**2025-04-28**|**CE-NPBG: Connectivity Enhanced Neural Point-Based Graphics for Novel View Synthesis in Autonomous Driving Scenes**|Mohammad Altillawi et.al.|[2504.19557](http://arxiv.org/abs/2504.19557)|null|
+|**2025-04-28**|**GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field**|Zuxing Lu et.al.|[2504.19409](http://arxiv.org/abs/2504.19409)|null|
+|**2025-04-27**|**Rendering Anywhere You See: Renderability Field-guided Gaussian Splatting**|Xiaofeng Jin et.al.|[2504.19261](http://arxiv.org/abs/2504.19261)|null|
+|**2025-04-27**|**Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions**|Mohammad Mahdi Abootorabi et.al.|[2504.19056](http://arxiv.org/abs/2504.19056)|null|
+|**2025-04-26**|**4DGS-CC: A Contextual Coding Framework for 4D Gaussian Splatting Data Compression**|Zicong Chen et.al.|[2504.18925](http://arxiv.org/abs/2504.18925)|null|
+|**2025-04-26**|**TransparentGS: Fast Inverse Rendering of Transparent Objects with Gaussians**|Letian Huang et.al.|[2504.18768](http://arxiv.org/abs/2504.18768)|null|
+|**2025-04-28**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468](http://arxiv.org/abs/2504.18468)|null|
 |**2025-04-25**|**STP4D: Spatio-Temporal-Prompt Consistent Modeling for Text-to-4D Gaussian Splatting**|Yunze Deng et.al.|[2504.18318](http://arxiv.org/abs/2504.18318)|null|
 |**2025-04-25**|**PerfCam: Digital Twinning for Production Lines Using 3D Gaussian Splatting and Vision Models**|Michel Gokan Khan et.al.|[2504.18165](http://arxiv.org/abs/2504.18165)|null|
 |**2025-04-24**|**iVR-GS: Inverse Volume Rendering for Explorable Visualization via Editable 3D Gaussian Splatting**|Kaiyuan Tang et.al.|[2504.17954](http://arxiv.org/abs/2504.17954)|null|
@@ -1602,6 +1612,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Kinodynamic Trajectory Following with STELA: Simultaneous Trajectory Estimation & Local Adaptation**|Edgar Granados et.al.|[2504.20009](http://arxiv.org/abs/2504.20009)|null|
 |**2025-04-21**|**MoBGS: Motion Deblurring Dynamic 3D Gaussian Splatting for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2504.15122](http://arxiv.org/abs/2504.15122)|null|
 |**2025-04-21**|**The PHD/CPHD filter for Multiple Extended Target Tracking with Trajectory Set Theory and Explicit Shape Estimation**|Yuanhao Cheng et.al.|[2504.15040](http://arxiv.org/abs/2504.15040)|null|
 |**2025-04-20**|**TAPIP3D: Tracking Any Point in Persistent 3D Geometry**|Bowei Zhang et.al.|[2504.14717](http://arxiv.org/abs/2504.14717)|**[link](https://github.com/zbw001/tapip3d)**|
@@ -1669,6 +1680,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-27**|**OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**|Shuhao Kang et.al.|[2504.19258](http://arxiv.org/abs/2504.19258)|null|
 |**2025-04-21**|**An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather**|Xiongwei Zhao et.al.|[2504.14806](http://arxiv.org/abs/2504.14806)|null|
 |**2025-04-16**|**Diffusion Based Robust LiDAR Place Recognition**|Benjamin Krummenacher et.al.|[2504.12412](http://arxiv.org/abs/2504.12412)|null|
 |**2025-04-15**|**Text-Driven 3D Lidar Place Recognition for Autonomous Driving**|Tianyi Shang et.al.|[2503.18035](http://arxiv.org/abs/2503.18035)|null|
