@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -423,7 +423,7 @@
 |**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424](http://arxiv.org/abs/2406.13424)|**[link](https://github.com/rogerferrod/rsicrc)**|
 |**2024-06-19**|**CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval**|Christian Lülf et.al.|[2406.13322](http://arxiv.org/abs/2406.13322)|**[link](https://github.com/cluel01/clip-branches)**|
 
-<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
 
 ## 3D GS
 
@@ -439,7 +439,7 @@
 |**2025-04-28**|**GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field**|Zuxing Lu et.al.|[2504.19409](http://arxiv.org/abs/2504.19409)|null|
 |**2025-04-27**|**Rendering Anywhere You See: Renderability Field-guided Gaussian Splatting**|Xiaofeng Jin et.al.|[2504.19261](http://arxiv.org/abs/2504.19261)|null|
 |**2025-04-27**|**Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions**|Mohammad Mahdi Abootorabi et.al.|[2504.19056](http://arxiv.org/abs/2504.19056)|null|
-|**2025-04-26**|**4DGS-CC: A Contextual Coding Framework for 4D Gaussian Splatting Data Compression**|Zicong Chen et.al.|[2504.18925](http://arxiv.org/abs/2504.18925)|null|
+|**2025-04-30**|**4DGS-CC: A Contextual Coding Framework for 4D Gaussian Splatting Data Compression**|Zicong Chen et.al.|[2504.18925](http://arxiv.org/abs/2504.18925)|null|
 |**2025-04-26**|**TransparentGS: Fast Inverse Rendering of Transparent Objects with Gaussians**|Letian Huang et.al.|[2504.18768](http://arxiv.org/abs/2504.18768)|null|
 |**2025-04-28**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468](http://arxiv.org/abs/2504.18468)|null|
 |**2025-04-25**|**STP4D: Spatio-Temporal-Prompt Consistent Modeling for Text-to-4D Gaussian Splatting**|Yunze Deng et.al.|[2504.18318](http://arxiv.org/abs/2504.18318)|null|
@@ -1507,7 +1507,7 @@
 |**2024-06-28**|**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**|Daiwei Zhang et.al.|[2406.19811](http://arxiv.org/abs/2406.19811)|null|
 |**2024-06-27**|**Lightweight Predictive 3D Gaussian Splats**|Junli Cao et.al.|[2406.19434](http://arxiv.org/abs/2406.19434)|**[link](https://github.com/plumpuddings/lpgs)**|
 
-<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
 
 ## Map
 
@@ -1614,7 +1614,7 @@
 |**2024-04-14**|**VRS-NeRF: Visual Relocalization with Sparse Neural Radiance Field**|Fei Xue et.al.|[2404.09271](http://arxiv.org/abs/2404.09271)|**[link](https://github.com/feixue94/vrs-nerf)**|
 |**2024-06-10**|**PRISM-TopoMap: Online Topological Mapping with Place Recognition and Scan Matching**|Kirill Muravyev et.al.|[2404.01674](http://arxiv.org/abs/2404.01674)|**[link](https://github.com/kirillmouraviev/prism-topomap)**|
 
-<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
 
 ## Point Cloud Consistency
 
@@ -1622,7 +1622,7 @@
 |---|---|---|---|---|
 |**2025-04-29**|**DRO: Doppler-Aware Direct Radar Odometry**|Cedric Le Gentil et.al.|[2504.20339](http://arxiv.org/abs/2504.20339)|null|
 |**2025-04-28**|**Kinodynamic Trajectory Following with STELA: Simultaneous Trajectory Estimation & Local Adaptation**|Edgar Granados et.al.|[2504.20009](http://arxiv.org/abs/2504.20009)|null|
-|**2025-04-21**|**MoBGS: Motion Deblurring Dynamic 3D Gaussian Splatting for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2504.15122](http://arxiv.org/abs/2504.15122)|null|
+|**2025-04-30**|**MoBGS: Motion Deblurring Dynamic 3D Gaussian Splatting for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2504.15122](http://arxiv.org/abs/2504.15122)|null|
 |**2025-04-21**|**The PHD/CPHD filter for Multiple Extended Target Tracking with Trajectory Set Theory and Explicit Shape Estimation**|Yuanhao Cheng et.al.|[2504.15040](http://arxiv.org/abs/2504.15040)|null|
 |**2025-04-20**|**TAPIP3D: Tracking Any Point in Persistent 3D Geometry**|Bowei Zhang et.al.|[2504.14717](http://arxiv.org/abs/2504.14717)|**[link](https://github.com/zbw001/tapip3d)**|
 |**2025-04-15**|**GC-GAT: Multimodal Vehicular Trajectory Prediction using Graph Goal Conditioning and Cross-context Attention**|Mahir Gulzar et.al.|[2504.11150](http://arxiv.org/abs/2504.11150)|null|
@@ -1683,13 +1683,13 @@
 |**2024-01-23**|**A BFF-Based Attention Mechanism for Trajectory Estimation in mmWave MIMO Communications**|Mohammad Shamsesalehi et.al.|[2401.13059](http://arxiv.org/abs/2401.13059)|null|
 |**2024-01-05**|**Partition-based Nonrigid Registration for 3D Face Model**|Yuping Ye et.al.|[2401.02607](http://arxiv.org/abs/2401.02607)|null|
 
-<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
 
 ## Place Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-27**|**OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**|Shuhao Kang et.al.|[2504.19258](http://arxiv.org/abs/2504.19258)|null|
+|**2025-04-30**|**OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**|Shuhao Kang et.al.|[2504.19258](http://arxiv.org/abs/2504.19258)|null|
 |**2025-04-21**|**An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather**|Xiongwei Zhao et.al.|[2504.14806](http://arxiv.org/abs/2504.14806)|null|
 |**2025-04-16**|**Diffusion Based Robust LiDAR Place Recognition**|Benjamin Krummenacher et.al.|[2504.12412](http://arxiv.org/abs/2504.12412)|null|
 |**2025-04-15**|**Text-Driven 3D Lidar Place Recognition for Autonomous Driving**|Tianyi Shang et.al.|[2503.18035](http://arxiv.org/abs/2503.18035)|null|
@@ -1726,7 +1726,7 @@
 |**2023-01-04**|**AttDLNet: Attention-based DL Network for 3D LiDAR Place Recognition**|Tiago Barros et.al.|[2106.09637](http://arxiv.org/abs/2106.09637)|**[link](https://github.com/cybonic/attdlnet)**|
 |**2020-07-17**|**DH3D: Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DoF Relocalization**|Juan Du et.al.|[2007.09217](http://arxiv.org/abs/2007.09217)|**[link](https://github.com/JuanDuGit/DH3D)**|
 
-<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
