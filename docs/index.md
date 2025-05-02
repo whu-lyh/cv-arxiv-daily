@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -15,9 +15,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-30**|**LSTM+Geo with xgBoost Filtering: A Novel Approach for Race and Ethnicity Imputation with Reduced Bias**|S. Chalavadi et.al.|[2504.21259](http://arxiv.org/abs/2504.21259)|null|
-|**2025-04-29**|**Geolocating Earth Imagery from ISS: Integrating Machine Learning with Astronaut Photography for Enhanced Geographic Mapping**|Vedika Srivastava et.al.|[2504.21194](http://arxiv.org/abs/2504.21194)|null|
+|**2025-04-29**|**Geolocating Earth Imagery from ISS: Integrating Machine Learning with Astronaut Photography for Enhanced Geographic Mapping**|Vedika Srivastava et.al.|[2504.21194](http://arxiv.org/abs/2504.21194)|**[link](https://github.com/VedikaSrivastava/GeoMapper)**|
 |**2025-04-27**|**SAGA: A Security Architecture for Governing AI Agentic Systems**|Georgios Syros et.al.|[2504.21034](http://arxiv.org/abs/2504.21034)|null|
-|**2025-04-29**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
+|**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
 |**2025-04-25**|**An Integrated Framework for Contextual Personalized LLM-Based Food Recommendation**|Ali Rostami et.al.|[2504.20092](http://arxiv.org/abs/2504.20092)|null|
 |**2025-04-28**|**EcoWikiRS: Learning Ecological Representation of Satellite Images from Weak Supervision with Species Observations and Wikipedia**|Valerie Zermatten et.al.|[2504.19742](http://arxiv.org/abs/2504.19742)|null|
 |**2025-04-29**|**Doxing via the Lens: Revealing Privacy Leakage in Image Geolocation for Agentic Multi-Modal Large Reasoning Model**|Weidi Luo et.al.|[2504.19373](http://arxiv.org/abs/2504.19373)|null|
@@ -428,7 +428,7 @@ layout: default
 |**2025-04-29**|**GaussTrap: Stealthy Poisoning Attacks on 3D Gaussian Splatting for Targeted Scene Confusion**|Jiaxin Hong et.al.|[2504.20829](http://arxiv.org/abs/2504.20829)|null|
 |**2025-04-29**|**EfficientHuman: Efficient Training and Reconstruction of Moving Human using Articulated 2D Gaussian**|Hao Tian et.al.|[2504.20607](http://arxiv.org/abs/2504.20607)|null|
 |**2025-04-29**|**Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting**|Hanxi Liu et.al.|[2504.20403](http://arxiv.org/abs/2504.20403)|null|
-|**2025-04-29**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
+|**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
 |**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378](http://arxiv.org/abs/2504.20378)|null|
 |**2025-04-28**|**Mesh-Learner: Texturing Mesh with Spherical Harmonics**|Yunfei Wan et.al.|[2504.19938](http://arxiv.org/abs/2504.19938)|null|
 |**2025-04-28**|**CE-NPBG: Connectivity Enhanced Neural Point-Based Graphics for Novel View Synthesis in Autonomous Driving Scenes**|Mohammad Altillawi et.al.|[2504.19557](http://arxiv.org/abs/2504.19557)|null|
@@ -436,7 +436,7 @@ layout: default
 |**2025-04-27**|**Rendering Anywhere You See: Renderability Field-guided Gaussian Splatting**|Xiaofeng Jin et.al.|[2504.19261](http://arxiv.org/abs/2504.19261)|null|
 |**2025-04-27**|**Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions**|Mohammad Mahdi Abootorabi et.al.|[2504.19056](http://arxiv.org/abs/2504.19056)|null|
 |**2025-04-30**|**4DGS-CC: A Contextual Coding Framework for 4D Gaussian Splatting Data Compression**|Zicong Chen et.al.|[2504.18925](http://arxiv.org/abs/2504.18925)|null|
-|**2025-04-26**|**TransparentGS: Fast Inverse Rendering of Transparent Objects with Gaussians**|Letian Huang et.al.|[2504.18768](http://arxiv.org/abs/2504.18768)|null|
+|**2025-05-01**|**TransparentGS: Fast Inverse Rendering of Transparent Objects with Gaussians**|Letian Huang et.al.|[2504.18768](http://arxiv.org/abs/2504.18768)|null|
 |**2025-04-28**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468](http://arxiv.org/abs/2504.18468)|null|
 |**2025-04-25**|**STP4D: Spatio-Temporal-Prompt Consistent Modeling for Text-to-4D Gaussian Splatting**|Yunze Deng et.al.|[2504.18318](http://arxiv.org/abs/2504.18318)|null|
 |**2025-04-25**|**PerfCam: Digital Twinning for Production Lines Using 3D Gaussian Splatting and Vision Models**|Michel Gokan Khan et.al.|[2504.18165](http://arxiv.org/abs/2504.18165)|null|
