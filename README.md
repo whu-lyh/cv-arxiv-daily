@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
+|**2025-05-03**|**Automated Sentiment Classification and Topic Discovery in Large-Scale Social Media Streams**|Yiwen Lu et.al.|[2505.01883](http://arxiv.org/abs/2505.01883)|null|
 |**2025-05-02**|**NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization**|Xun Li et.al.|[2505.01113](http://arxiv.org/abs/2505.01113)|null|
 |**2025-04-30**|**LSTM+Geo with xgBoost Filtering: A Novel Approach for Race and Ethnicity Imputation with Reduced Bias**|S. Chalavadi et.al.|[2504.21259](http://arxiv.org/abs/2504.21259)|null|
 |**2025-04-29**|**Geolocating Earth Imagery from ISS: Integrating Machine Learning with Astronaut Photography for Enhanced Geographic Mapping**|Vedika Srivastava et.al.|[2504.21194](http://arxiv.org/abs/2504.21194)|**[link](https://github.com/VedikaSrivastava/GeoMapper)**|
@@ -433,6 +435,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**Sparfels: Fast Reconstruction from Sparse Unposed Imagery**|Shubhendu Jena et.al.|[2505.02178](http://arxiv.org/abs/2505.02178)|null|
+|**2025-05-04**|**SparSplat: Fast Multi-View Reconstruction with Generalizable 2D Gaussian Splatting**|Shubhendu Jena et.al.|[2505.02175](http://arxiv.org/abs/2505.02175)|null|
+|**2025-05-04**|**GarmentGS: Point-Cloud Guided Gaussian Splatting for High-Fidelity Non-Watertight 3D Garment Reconstruction**|Zhihao Tang et.al.|[2505.02126](http://arxiv.org/abs/2505.02126)|null|
+|**2025-05-04**|**SignSplat: Rendering Sign Language via Gaussian Splatting**|Maksym Ivashechkin et.al.|[2505.02108](http://arxiv.org/abs/2505.02108)|null|
+|**2025-05-03**|**HybridGS: High-Efficiency Gaussian Splatting Data Compression using Dual-Channel Sparse Representation and Point Cloud Encoder**|Qi Yang et.al.|[2505.01938](http://arxiv.org/abs/2505.01938)|null|
+|**2025-05-03**|**GenSync: A Generalized Talking Head Framework for Audio-driven Multi-Subject Lip-Sync using 3D Gaussian Splatting**|Anushka Agarwal et.al.|[2505.01928](http://arxiv.org/abs/2505.01928)|null|
+|**2025-05-03**|**Visual enhancement and 3D representation for underwater scenes: a review**|Guoxi Huang et.al.|[2505.01869](http://arxiv.org/abs/2505.01869)|null|
+|**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
 |**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383](http://arxiv.org/abs/2505.01383)|null|
 |**2025-05-02**|**Compensating Spatiotemporally Inconsistent Observations for Online Dynamic 3D Gaussian Splatting**|Youngsik Yun et.al.|[2505.01235](http://arxiv.org/abs/2505.01235)|null|
 |**2025-05-01**|**Inattentional Blindness with Augmented Reality HUDS: An On-road Study**|Nayara de Oliveira Faria et.al.|[2505.00879](http://arxiv.org/abs/2505.00879)|null|
