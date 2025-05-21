@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**|Kiarash Naghavi Khanghah et.al.|[2505.13828](http://arxiv.org/abs/2505.13828)|null|
+|**2025-05-19**|**GeoRanker: Distance-Aware Ranking for Worldwide Image Geolocalization**|Pengyue Jia et.al.|[2505.13731](http://arxiv.org/abs/2505.13731)|null|
 |**2025-05-18**|**GlobalGeoTree: A Multi-Granular Vision-Language Dataset for Global Tree Species Classification**|Yang Mu et.al.|[2505.12513](http://arxiv.org/abs/2505.12513)|**[link](https://github.com/muyang99/globalgeotree)**|
 |**2025-05-18**|**MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**|Yiwei Ou et.al.|[2505.12254](http://arxiv.org/abs/2505.12254)|null|
 |**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620](http://arxiv.org/abs/2505.11620)|null|
@@ -443,8 +445,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image**|Yuxuan Wang et.al.|[2505.14537](http://arxiv.org/abs/2505.14537)|null|
+|**2025-05-20**|**MGStream: Motion-aware 3D Gaussian for Streamable Dynamic Scene Reconstruction**|Zhenyu Bao et.al.|[2505.13839](http://arxiv.org/abs/2505.13839)|**[link](https://github.com/pcl3dv/mgstream)**|
 |**2025-05-19**|**Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos**|Ruoyu Wang et.al.|[2505.13440](http://arxiv.org/abs/2505.13440)|**[link](https://github.com/dwawayu/pensieve)**|
-|**2025-05-19**|**Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation**|Seungjun Oh et.al.|[2505.13215](http://arxiv.org/abs/2505.13215)|null|
+|**2025-05-19**|**Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation**|Seungjun Oh et.al.|[2505.13215](http://arxiv.org/abs/2505.13215)|**[link](https://github.com/ohsngjun/3D-4DGS)**|
 |**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875](http://arxiv.org/abs/2505.12875)|null|
 |**2025-05-19**|**TACOcc:Target-Adaptive Cross-Modal Fusion with Volume Rendering for 3D Semantic Occupancy**|Luyao Lei et.al.|[2505.12693](http://arxiv.org/abs/2505.12693)|null|
 |**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
