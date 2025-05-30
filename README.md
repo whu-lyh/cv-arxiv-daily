@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -458,7 +458,7 @@
 |**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424](http://arxiv.org/abs/2406.13424)|**[link](https://github.com/rogerferrod/rsicrc)**|
 |**2024-06-19**|**CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval**|Christian Lülf et.al.|[2406.13322](http://arxiv.org/abs/2406.13322)|**[link](https://github.com/cluel01/clip-branches)**|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## 3D GS
 
@@ -471,7 +471,7 @@
 |**2025-05-27**|**Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis**|Yipengjing Sun et.al.|[2505.21502](http://arxiv.org/abs/2505.21502)|null|
 |**2025-05-27**|**Empowering Vector Graphics with Consistently Arbitrary Viewing and View-dependent Visibility**|Yidi Li et.al.|[2505.21377](http://arxiv.org/abs/2505.21377)|null|
 |**2025-05-27**|**Structure from Collision**|Takuhiro Kaneko et.al.|[2505.21335](http://arxiv.org/abs/2505.21335)|null|
-|**2025-05-27**|**3D-UIR: 3D Gaussian for Underwater 3D Scene Reconstruction via Physics-Based Appearance-Medium Decouplin**|Jieyu Yuan et.al.|[2505.21238](http://arxiv.org/abs/2505.21238)|null|
+|**2025-05-29**|**3D-UIR: 3D Gaussian for Underwater 3D Scene Reconstruction via Physics Based Appearance-Medium Decoupling**|Jieyu Yuan et.al.|[2505.21238](http://arxiv.org/abs/2505.21238)|null|
 |**2025-05-28**|**CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians**|Weihang Liu et.al.|[2505.21041](http://arxiv.org/abs/2505.21041)|null|
 |**2025-05-27**|**Rendering-Aware Reinforcement Learning for Vector Graphics Generation**|Juan A. Rodriguez et.al.|[2505.20793](http://arxiv.org/abs/2505.20793)|null|
 |**2025-05-27**|**Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2505.20729](http://arxiv.org/abs/2505.20729)|null|
@@ -482,7 +482,7 @@
 |**2025-05-26**|**HaloGS: Loose Coupling of Compact Geometry and Gaussian Splats for 3D Scenes**|Changjian Jiang et.al.|[2505.20267](http://arxiv.org/abs/2505.20267)|null|
 |**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|**[link](https://github.com/gsisaoki/omnidirectional_blender_3d_dataset)**|
 |**2025-05-26**|**Weather-Magician: Reconstruction and Rendering Framework for 4D Weather Synthesis In Real Time**|Chen Sang et.al.|[2505.19919](http://arxiv.org/abs/2505.19919)|null|
-|**2025-05-26**|**Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**|Natsuki Takama et.al.|[2505.19854](http://arxiv.org/abs/2505.19854)|null|
+|**2025-05-29**|**Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**|Natsuki Takama et.al.|[2505.19854](http://arxiv.org/abs/2505.19854)|null|
 |**2025-05-26**|**K-Buffers: A Plug-in Method for Enhancing Neural Fields with Multiple Buffers**|Haofan Ren et.al.|[2505.19564](http://arxiv.org/abs/2505.19564)|**[link](https://github.com/renhaofan/k-buffers)**|
 |**2025-05-26**|**ADD-SLAM: Adaptive Dynamic Dense SLAM with Gaussian Splatting**|Wenhua Wu et.al.|[2505.19420](http://arxiv.org/abs/2505.19420)|null|
 |**2025-05-25**|**Improving Novel view synthesis of 360 $^\circ$ Scenes in Extremely Sparse Views by Jointly Training Hemisphere Sampled Synthetic Images**|Guangan Chen et.al.|[2505.19264](http://arxiv.org/abs/2505.19264)|**[link](https://github.com/angchen-dev/hemisparsegs)**|
@@ -1648,7 +1648,7 @@
 |**2024-06-28**|**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**|Daiwei Zhang et.al.|[2406.19811](http://arxiv.org/abs/2406.19811)|null|
 |**2024-06-27**|**Lightweight Predictive 3D Gaussian Splats**|Junli Cao et.al.|[2406.19434](http://arxiv.org/abs/2406.19434)|**[link](https://github.com/plumpuddings/lpgs)**|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## Map
 
@@ -1759,7 +1759,7 @@
 |**2024-04-14**|**VRS-NeRF: Visual Relocalization with Sparse Neural Radiance Field**|Fei Xue et.al.|[2404.09271](http://arxiv.org/abs/2404.09271)|**[link](https://github.com/feixue94/vrs-nerf)**|
 |**2024-06-10**|**PRISM-TopoMap: Online Topological Mapping with Place Recognition and Scan Matching**|Kirill Muravyev et.al.|[2404.01674](http://arxiv.org/abs/2404.01674)|**[link](https://github.com/kirillmouraviev/prism-topomap)**|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## Point Cloud Consistency
 
@@ -1829,7 +1829,7 @@
 |**2024-01-23**|**A BFF-Based Attention Mechanism for Trajectory Estimation in mmWave MIMO Communications**|Mohammad Shamsesalehi et.al.|[2401.13059](http://arxiv.org/abs/2401.13059)|null|
 |**2024-01-05**|**Partition-based Nonrigid Registration for 3D Face Model**|Yuping Ye et.al.|[2401.02607](http://arxiv.org/abs/2401.02607)|null|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## Place Recognition
 
@@ -1874,7 +1874,7 @@
 |**2023-01-04**|**AttDLNet: Attention-based DL Network for 3D LiDAR Place Recognition**|Tiago Barros et.al.|[2106.09637](http://arxiv.org/abs/2106.09637)|**[link](https://github.com/cybonic/attdlnet)**|
 |**2020-07-17**|**DH3D: Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DoF Relocalization**|Juan Du et.al.|[2007.09217](http://arxiv.org/abs/2007.09217)|**[link](https://github.com/JuanDuGit/DH3D)**|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
