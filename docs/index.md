@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**OracleFusion: Assisting the Decipherment of Oracle Bone Script with Structurally Constrained Semantic Typography**|Caoshuo Li et.al.|[2506.21101](http://arxiv.org/abs/2506.21101)|null|
 |**2025-06-25**|**Visualizing intercalation effects in 2D materials using AFM based techniques**|Karmen Kapustić et.al.|[2506.20467](http://arxiv.org/abs/2506.20467)|null|
 |**2025-06-25**|**On the Burstiness of Faces in Set**|Jiong Wang et.al.|[2506.20312](http://arxiv.org/abs/2506.20312)|null|
 |**2025-06-21**|**Secure Energy Transactions Using Blockchain Leveraging AI for Fraud Detection and Energy Market Stability**|Md Asif Ul Hoq Khan et.al.|[2506.19870](http://arxiv.org/abs/2506.19870)|null|
@@ -496,6 +497,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**MADrive: Memory-Augmented Driving Scene Modeling**|Polina Karpikova et.al.|[2506.21520](http://arxiv.org/abs/2506.21520)|null|
+|**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu et.al.|[2506.21420](http://arxiv.org/abs/2506.21420)|null|
+|**2025-06-26**|**Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction**|Zhirui Gao. Renjiao Yi et.al.|[2506.21401](http://arxiv.org/abs/2506.21401)|null|
+|**2025-06-26**|**Geometry and Perception Guided Gaussians for Multiview-consistent 3D Generation from a Single Image**|Pufan Li et.al.|[2506.21152](http://arxiv.org/abs/2506.21152)|null|
+|**2025-06-26**|**CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization**|Jan Ackermann et.al.|[2506.21117](http://arxiv.org/abs/2506.21117)|null|
+|**2025-06-26**|**User-in-the-Loop View Sampling with Error Peaking Visualization**|Ayaka Yasunaga et.al.|[2506.21009](http://arxiv.org/abs/2506.21009)|null|
+|**2025-06-26**|**DBMovi-GS: Dynamic View Synthesis from Blurry Monocular Video via Sparse-Controlled Gaussian Splatting**|Yeon-Ji Song et.al.|[2506.20998](http://arxiv.org/abs/2506.20998)|null|
+|**2025-06-25**|**3DGH: 3D Head Generation with Composable Hair and Face**|Chengan He et.al.|[2506.20875](http://arxiv.org/abs/2506.20875)|null|
 |**2025-06-25**|**RaRa Clipper: A Clipper for Gaussian Splatting Based on Ray Tracer and Rasterizer**|Da Li et.al.|[2506.20202](http://arxiv.org/abs/2506.20202)|null|
 |**2025-06-24**|**ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model**|Tengbo Yu et.al.|[2506.19842](http://arxiv.org/abs/2506.19842)|null|
 |**2025-06-24**|**Virtual Memory for 3D Gaussian Splatting**|Jonathan Haberl et.al.|[2506.19415](http://arxiv.org/abs/2506.19415)|null|
@@ -1800,6 +1809,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**CURL-SLAM: Continuous and Compact LiDAR Mapping**|Kaicheng Zhang et.al.|[2506.21077](http://arxiv.org/abs/2506.21077)|null|
 |**2025-06-25**|**Communication-Aware Map Compression for Online Path-Planning: A Rate-Distortion Approach**|Ali Reza Pedram et.al.|[2506.20579](http://arxiv.org/abs/2506.20579)|null|
 |**2025-06-24**|**Cross-Layer Discrete Concept Discovery for Interpreting Language Models**|Ankur Garg et.al.|[2506.20040](http://arxiv.org/abs/2506.20040)|null|
 |**2025-06-17**|**TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Indoor Localization and Mapping**|Jeewon Kim et.al.|[2506.14178](http://arxiv.org/abs/2506.14178)|null|
@@ -1919,6 +1929,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Noise-Tolerant Hybrid Approach for Data-Driven Predictive Control**|Mahmood Mazare et.al.|[2506.20780](http://arxiv.org/abs/2506.20780)|null|
 |**2025-06-18**|**Probabilistic Trajectory GOSPA: A Metric for Uncertainty-Aware Multi-Object Tracking Performance Evaluation**|Yuxuan Xia et.al.|[2506.15148](http://arxiv.org/abs/2506.15148)|null|
 |**2025-06-06**|**Where Is The Ball: 3D Ball Trajectory Estimation From 2D Monocular Tracking**|Puntawat Ponglertnapakorn et.al.|[2506.05763](http://arxiv.org/abs/2506.05763)|null|
 |**2025-05-13**|**Constrained Factor Graph Optimization for Robust Networked Pedestrian Inertial Navigation**|Yingjie Hu et.al.|[2505.08229](http://arxiv.org/abs/2505.08229)|**[link](https://github.com/azurehappen/constrained-zupt-fgo)**|
