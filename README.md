@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Evaluation of Geolocation Capabilities of Multimodal Large Language Models and Analysis of Associated Privacy Risks**|Xian Zhang et.al.|[2506.23481](http://arxiv.org/abs/2506.23481)|null|
+|**2025-06-28**|**Utilizing a Novel Deep Learning Method for Scene Categorization in Remote Sensing Data**|Ghufran A. Omran et.al.|[2506.22939](http://arxiv.org/abs/2506.22939)|null|
+|**2025-06-28**|**Mask-aware Text-to-Image Retrieval: Referring Expression Segmentation Meets Cross-modal Retrieval**|Li-Cheng Shen et.al.|[2506.22864](http://arxiv.org/abs/2506.22864)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
 |**2025-06-26**|**OracleFusion: Assisting the Decipherment of Oracle Bone Script with Structurally Constrained Semantic Typography**|Caoshuo Li et.al.|[2506.21101](http://arxiv.org/abs/2506.21101)|null|
 |**2025-06-25**|**Visualizing intercalation effects in 2D materials using AFM based techniques**|Karmen Kapustić et.al.|[2506.20467](http://arxiv.org/abs/2506.20467)|null|
@@ -507,6 +510,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction**|Antoine Guédon et.al.|[2506.24096](http://arxiv.org/abs/2506.24096)|null|
+|**2025-06-30**|**GaVS: 3D-Grounded Video Stabilization via Temporally-Consistent Local Reconstruction and Rendering**|Zinuo You et.al.|[2506.23957](http://arxiv.org/abs/2506.23957)|null|
+|**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611](http://arxiv.org/abs/2506.23611)|null|
+|**2025-06-30**|**Instant GaussianImage: A Generalizable and Self-Adaptive Image Representation via 2D Gaussian Splatting**|Zhaojie Zeng et.al.|[2506.23479](http://arxiv.org/abs/2506.23479)|null|
+|**2025-06-29**|**SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting**|Yiming Huang et.al.|[2506.23309](http://arxiv.org/abs/2506.23309)|null|
+|**2025-06-29**|**Endo-4DGX: Robust Endoscopic Scene Reconstruction and Illumination Correction with Gaussian Splatting**|Yiming Huang et.al.|[2506.23308](http://arxiv.org/abs/2506.23308)|null|
+|**2025-06-29**|**TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**|Zhen Tan et.al.|[2506.23207](http://arxiv.org/abs/2506.23207)|null|
+|**2025-06-29**|**STD-GS: Exploring Frame-Event Interaction for SpatioTemporal-Disentangled Gaussian Splatting to Reconstruct High-Dynamic Scene**|Hanyu Zhou et.al.|[2506.23157](http://arxiv.org/abs/2506.23157)|null|
+|**2025-06-29**|**From Coarse to Fine: Learnable Discrete Wavelet Transforms for Efficient 3D Gaussian Splatting**|Hung Nguyen et.al.|[2506.23042](http://arxiv.org/abs/2506.23042)|null|
+|**2025-06-28**|**Confident Splatting: Confidence-Based Compression of 3D Gaussian Splatting via Learnable Beta Distributions**|AmirHossein Naghi Razlighi et.al.|[2506.22973](http://arxiv.org/abs/2506.22973)|null|
+|**2025-06-28**|**RGE-GS: Reward-Guided Expansive Driving Scene Reconstruction via Diffusion Priors**|Sicong Du et.al.|[2506.22800](http://arxiv.org/abs/2506.22800)|null|
+|**2025-06-28**|**VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding**|Minchao Jiang et.al.|[2506.22799](http://arxiv.org/abs/2506.22799)|null|
+|**2025-06-28**|**RoboPearls: Editable Video Simulation for Robot Manipulation**|Tao Tang et.al.|[2506.22756](http://arxiv.org/abs/2506.22756)|null|
 |**2025-06-27**|**DIGS: Dynamic CBCT Reconstruction using Deformation-Informed 4D Gaussian Splatting and a Low-Rank Free-Form Deformation Model**|Yuliang Huang et.al.|[2506.22280](http://arxiv.org/abs/2506.22280)|null|
 |**2025-06-27**|**BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting**|Zipei Ma et.al.|[2506.22099](http://arxiv.org/abs/2506.22099)|null|
 |**2025-06-25**|**SAR-GS: 3D Gaussian Splatting for Synthetic Aperture Radar Target Reconstruction**|Aobo Li et.al.|[2506.21633](http://arxiv.org/abs/2506.21633)|null|
@@ -1826,6 +1842,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**MGPRL: Distributed Multi-Gaussian Processes for Wi-Fi-based Multi-Robot Relative Localization in Large Indoor Environments**|Sai Krishna Ghanta et.al.|[2506.23514](http://arxiv.org/abs/2506.23514)|null|
 |**2025-06-27**|**Norm-dependent Lamperti-type MAP representations of stable processes and Brownian motions in the orthant**|Andreas E. Kyprianou et.al.|[2506.22020](http://arxiv.org/abs/2506.22020)|null|
 |**2025-06-26**|**CURL-SLAM: Continuous and Compact LiDAR Mapping**|Kaicheng Zhang et.al.|[2506.21077](http://arxiv.org/abs/2506.21077)|null|
 |**2025-06-25**|**Communication-Aware Map Compression for Online Path-Planning: A Rate-Distortion Approach**|Ali Reza Pedram et.al.|[2506.20579](http://arxiv.org/abs/2506.20579)|null|
