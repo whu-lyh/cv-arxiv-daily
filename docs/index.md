@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -519,7 +519,7 @@ layout: default
 |**2025-06-29**|**STD-GS: Exploring Frame-Event Interaction for SpatioTemporal-Disentangled Gaussian Splatting to Reconstruct High-Dynamic Scene**|Hanyu Zhou et.al.|[2506.23157](http://arxiv.org/abs/2506.23157)|null|
 |**2025-06-29**|**From Coarse to Fine: Learnable Discrete Wavelet Transforms for Efficient 3D Gaussian Splatting**|Hung Nguyen et.al.|[2506.23042](http://arxiv.org/abs/2506.23042)|null|
 |**2025-06-28**|**Confident Splatting: Confidence-Based Compression of 3D Gaussian Splatting via Learnable Beta Distributions**|AmirHossein Naghi Razlighi et.al.|[2506.22973](http://arxiv.org/abs/2506.22973)|null|
-|**2025-06-28**|**RGE-GS: Reward-Guided Expansive Driving Scene Reconstruction via Diffusion Priors**|Sicong Du et.al.|[2506.22800](http://arxiv.org/abs/2506.22800)|null|
+|**2025-07-03**|**RGE-GS: Reward-Guided Expansive Driving Scene Reconstruction via Diffusion Priors**|Sicong Du et.al.|[2506.22800](http://arxiv.org/abs/2506.22800)|null|
 |**2025-06-28**|**VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding**|Minchao Jiang et.al.|[2506.22799](http://arxiv.org/abs/2506.22799)|null|
 |**2025-06-28**|**RoboPearls: Editable Video Simulation for Robot Manipulation**|Tao Tang et.al.|[2506.22756](http://arxiv.org/abs/2506.22756)|null|
 |**2025-06-27**|**DIGS: Dynamic CBCT Reconstruction using Deformation-Informed 4D Gaussian Splatting and a Low-Rank Free-Form Deformation Model**|Yuliang Huang et.al.|[2506.22280](http://arxiv.org/abs/2506.22280)|null|
