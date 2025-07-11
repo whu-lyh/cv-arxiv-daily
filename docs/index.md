@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**SCREP: Scene Coordinate Regression and Evidential Learning-based Perception-Aware Trajectory Generation**|Juyeop Han et.al.|[2507.07467](http://arxiv.org/abs/2507.07467)|null|
+|**2025-07-10**|**VP-SelDoA: Visual-prompted Selective DoA Estimation of Target Sound via Semantic-Spatial Matching**|Yu Chen et.al.|[2507.07384](http://arxiv.org/abs/2507.07384)|null|
+|**2025-07-08**|**FACap: A Large-scale Fashion Dataset for Fine-grained Composed Image Retrieval**|François Gardères et.al.|[2507.07135](http://arxiv.org/abs/2507.07135)|null|
 |**2025-07-09**|**Evaluating Attribute Confusion in Fashion Text-to-Image Generation**|Ziyue Liu et.al.|[2507.07079](http://arxiv.org/abs/2507.07079)|null|
 |**2025-07-09**|**MS-DPPs: Multi-Source Determinantal Point Processes for Contextual Diversity Refinement of Composite Attributes in Text to Image Retrieval**|Naoya Sogi et.al.|[2507.06654](http://arxiv.org/abs/2507.06654)|null|
 |**2025-07-08**|**Tile-Based ViT Inference with Visual-Cluster Priors for Zero-Shot Multi-Species Plant Identification**|Murilo Gustineli et.al.|[2507.06093](http://arxiv.org/abs/2507.06093)|null|
@@ -515,6 +518,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection**|Yongyang Zhou et.al.|[2507.07733](http://arxiv.org/abs/2507.07733)|null|
+|**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](http://arxiv.org/abs/2507.07519)|null|
+|**2025-07-10**|**SD-GS: Structured Deformable 3D Gaussians for Efficient Dynamic Scene Reconstruction**|Wei Yao et.al.|[2507.07465](http://arxiv.org/abs/2507.07465)|null|
+|**2025-07-10**|**Seg-Wild: Interactive Segmentation based on 3D Gaussian Splatting for Unconstrained Image Collections**|Yongtang Bao et.al.|[2507.07395](http://arxiv.org/abs/2507.07395)|null|
+|**2025-07-09**|**LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS**|Wanhua Li et.al.|[2507.07136](http://arxiv.org/abs/2507.07136)|null|
 |**2025-07-09**|**Enhancing non-Rigid 3D Model Deformations Using Mesh-based Gaussian Splatting**|Wijayathunga W. M. R. D. B et.al.|[2507.07000](http://arxiv.org/abs/2507.07000)|null|
 |**2025-07-09**|**Photometric Stereo using Gaussian Splatting and inverse rendering**|Matéo Ducastel et.al.|[2507.06684](http://arxiv.org/abs/2507.06684)|null|
 |**2025-07-09**|**FlexGaussian: Flexible and Cost-Effective Training-Free Compression for 3D Gaussian Splatting**|Boyuan Tian et.al.|[2507.06671](http://arxiv.org/abs/2507.06671)|null|
