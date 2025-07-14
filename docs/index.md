@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -1883,7 +1883,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662](http://arxiv.org/abs/2507.04662)|null|
-|**2025-07-10**|**Learning to Generate Vectorized Maps at Intersections with Multiple Roadside Cameras**|Quanxin Zheng et.al.|[2507.02899](http://arxiv.org/abs/2507.02899)|null|
+|**2025-07-11**|**Learning to Generate Vectorized Maps at Intersections with Multiple Roadside Cameras**|Quanxin Zheng et.al.|[2507.02899](http://arxiv.org/abs/2507.02899)|null|
 |**2025-06-30**|**MGPRL: Distributed Multi-Gaussian Processes for Wi-Fi-based Multi-Robot Relative Localization in Large Indoor Environments**|Sai Krishna Ghanta et.al.|[2506.23514](http://arxiv.org/abs/2506.23514)|null|
 |**2025-06-27**|**Norm-dependent Lamperti-type MAP representations of stable processes and Brownian motions in the orthant**|Andreas E. Kyprianou et.al.|[2506.22020](http://arxiv.org/abs/2506.22020)|null|
 |**2025-06-26**|**CURL-SLAM: Continuous and Compact LiDAR Mapping**|Kaicheng Zhang et.al.|[2506.21077](http://arxiv.org/abs/2506.21077)|null|
