@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -18,7 +18,7 @@ layout: default
 |**2025-07-17**|**MCoT-RE: Multi-Faceted Chain-of-Thought and Re-Ranking for Training-Free Zero-Shot Composed Image Retrieval**|Jeong-Woo Park et.al.|[2507.12819](http://arxiv.org/abs/2507.12819)|null|
 |**2025-07-16**|**QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval**|Jaehyun Kwak et.al.|[2507.12416](http://arxiv.org/abs/2507.12416)|null|
 |**2025-07-16**|**CorrMoE: Mixture of Experts with De-stylization Learning for Cross-Scene and Cross-Domain Correspondence Pruning**|Peiwen Xia et.al.|[2507.11834](http://arxiv.org/abs/2507.11834)|null|
-|**2025-07-09**|**Orchestrator-Agent Trust: A Modular Agentic AI Visual Classification System with Trust-Aware Orchestration and RAG-Based Reasoning**|Konstantinos I. Roumeliotis et.al.|[2507.10571](http://arxiv.org/abs/2507.10571)|null|
+|**2025-07-18**|**Orchestrator-Agent Trust: A Modular Agentic AI Visual Classification System with Trust-Aware Orchestration and RAG-Based Reasoning**|Konstantinos I. Roumeliotis et.al.|[2507.10571](http://arxiv.org/abs/2507.10571)|null|
 |**2025-07-14**|**GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space**|David G. Shatwell et.al.|[2507.10473](http://arxiv.org/abs/2507.10473)|null|
 |**2025-07-14**|**Text-to-Remote-Sensing-Image Retrieval beyond RGB Sources**|Daniele Rege Cambrin et.al.|[2507.10403](http://arxiv.org/abs/2507.10403)|null|
 |**2025-07-14**|**Kaleidoscopic Background Attack: Disrupting Pose Estimation with Multi-Fold Radial Symmetry Textures**|Xinlong Ding et.al.|[2507.10265](http://arxiv.org/abs/2507.10265)|null|
@@ -530,25 +530,25 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-18**|**Neural-GASh: A CGA-based neural radiance prediction pipeline for real-time shading**|Efstratios Geronikolakis et.al.|[2507.13917](http://arxiv.org/abs/2507.13917)|null|
-|**2025-07-18**|**PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations**|Yu Wei et.al.|[2507.13891](http://arxiv.org/abs/2507.13891)|null|
+|**2025-07-21**|**PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations**|Yu Wei et.al.|[2507.13891](http://arxiv.org/abs/2507.13891)|null|
 |**2025-07-18**|**TexGS-VolVis: Expressive Scene Editing for Volume Visualization via Textured Gaussian Splatting**|Kaiyuan Tang et.al.|[2507.13586](http://arxiv.org/abs/2507.13586)|null|
 |**2025-07-16**|**VolSegGS: Segmentation and Tracking in Dynamic Volumetric Scenes via Deformable 3D Gaussians**|Siyuan Yao et.al.|[2507.12667](http://arxiv.org/abs/2507.12667)|null|
 |**2025-07-16**|**NLI4VolVis: Natural Language Interaction for Volume Visualization via LLM Multi-Agents and Editable 3D Gaussian Splatting**|Kuangshi Ai et.al.|[2507.12621](http://arxiv.org/abs/2507.12621)|null|
-|**2025-07-16**|**Wavelet-GS: 3D Gaussian Splatting with Wavelet Decomposition**|Beizhen Zhao et.al.|[2507.12498](http://arxiv.org/abs/2507.12498)|null|
-|**2025-07-16**|**AD-GS: Object-Aware B-Spline Gaussian Splatting for Self-Supervised Autonomous Driving**|Jiawei Xu et.al.|[2507.12137](http://arxiv.org/abs/2507.12137)|null|
+|**2025-07-21**|**Wavelet-GS: 3D Gaussian Splatting with Wavelet Decomposition**|Beizhen Zhao et.al.|[2507.12498](http://arxiv.org/abs/2507.12498)|null|
+|**2025-07-21**|**AD-GS: Object-Aware B-Spline Gaussian Splatting for Self-Supervised Autonomous Driving**|Jiawei Xu et.al.|[2507.12137](http://arxiv.org/abs/2507.12137)|null|
 |**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095](http://arxiv.org/abs/2507.12095)|null|
 |**2025-07-16**|**SGLoc: Semantic Localization System for Camera Pose Estimation from 3D Gaussian Splatting Representation**|Beining Xu et.al.|[2507.12027](http://arxiv.org/abs/2507.12027)|null|
 |**2025-07-16**|**Dark-EvGS: Event Camera as an Eye for Radiance Field in the Dark**|Jingqian Wu et.al.|[2507.11931](http://arxiv.org/abs/2507.11931)|null|
 |**2025-07-15**|**A Mixed-Primitive-based Gaussian Splatting Method for Surface Reconstruction**|Haoxuan Qu et.al.|[2507.11321](http://arxiv.org/abs/2507.11321)|null|
 |**2025-07-16**|**TRAN-D: 2D Gaussian Splatting-based Sparse-view Transparent Object Depth Reconstruction via Physics Simulation for Scene Update**|Jeongyun Kim et.al.|[2507.11069](http://arxiv.org/abs/2507.11069)|null|
-|**2025-07-15**|**Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling**|Hayeon Kim et.al.|[2507.11061](http://arxiv.org/abs/2507.11061)|null|
+|**2025-07-21**|**Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling**|Hayeon Kim et.al.|[2507.11061](http://arxiv.org/abs/2507.11061)|null|
 |**2025-07-14**|**ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions**|Shivangi Aneja et.al.|[2507.10542](http://arxiv.org/abs/2507.10542)|null|
-|**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[2507.09993](http://arxiv.org/abs/2507.09993)|null|
+|**2025-07-19**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[2507.09993](http://arxiv.org/abs/2507.09993)|null|
 |**2025-07-11**|**From images to properties: a NeRF-driven framework for granular material parameter inversion**|Cheng-Hsi Hsiao et.al.|[2507.09005](http://arxiv.org/abs/2507.09005)|null|
 |**2025-07-11**|**Learning human-to-robot handovers through 3D scene reconstruction**|Yuekun Wu et.al.|[2507.08726](http://arxiv.org/abs/2507.08726)|null|
 |**2025-07-11**|**RePaintGS: Reference-Guided Gaussian Splatting for Realistic and View-Consistent 3D Scene Inpainting**|Ji Hyun Seo et.al.|[2507.08434](http://arxiv.org/abs/2507.08434)|null|
 |**2025-07-10**|**Temporally Consistent Amodal Completion for 3D Human-Object Interaction Reconstruction**|Hyungjun Doh et.al.|[2507.08137](http://arxiv.org/abs/2507.08137)|null|
-|**2025-07-10**|**RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration**|Chong Cheng et.al.|[2507.08136](http://arxiv.org/abs/2507.08136)|null|
+|**2025-07-18**|**RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration**|Chong Cheng et.al.|[2507.08136](http://arxiv.org/abs/2507.08136)|null|
 |**2025-07-10**|**RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection**|Yongyang Zhou et.al.|[2507.07733](http://arxiv.org/abs/2507.07733)|null|
 |**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](http://arxiv.org/abs/2507.07519)|null|
 |**2025-07-10**|**SD-GS: Structured Deformable 3D Gaussians for Efficient Dynamic Scene Reconstruction**|Wei Yao et.al.|[2507.07465](http://arxiv.org/abs/2507.07465)|null|
