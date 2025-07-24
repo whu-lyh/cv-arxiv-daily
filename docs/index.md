@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**VLM-Guided Visual Place Recognition for Planet-Scale Geo-Localization**|Sania Waheed et.al.|[2507.17455](http://arxiv.org/abs/2507.17455)|null|
+|**2025-07-23**|**Content-based 3D Image Retrieval and a ColBERT-inspired Re-ranking for Tumor Flagging and Staging**|Farnaz Khun Jush et.al.|[2507.17412](http://arxiv.org/abs/2507.17412)|null|
 |**2025-07-20**|**Visual Place Recognition for Large-Scale UAV Applications**|Ioannis Tsampikos Papapetros et.al.|[2507.15089](http://arxiv.org/abs/2507.15089)|null|
 |**2025-07-20**|**U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs**|Xiaojie Li et.al.|[2507.14902](http://arxiv.org/abs/2507.14902)|null|
 |**2025-07-20**|**Data-Plane Telemetry to Mitigate Long-Distance BGP Hijacks**|Satadal Sengupta et.al.|[2507.14842](http://arxiv.org/abs/2507.14842)|null|
@@ -534,6 +536,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Temporal Smoothness-Aware Rate-Distortion Optimized 4D Gaussian Splatting**|Hyeongmin Lee et.al.|[2507.17336](http://arxiv.org/abs/2507.17336)|null|
+|**2025-07-22**|**StreamME: Simplify 3D Gaussian Avatar within Live Stream**|Luchuan Song et.al.|[2507.17029](http://arxiv.org/abs/2507.17029)|null|
 |**2025-07-23**|**EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion**|Shang Liu et.al.|[2507.16535](http://arxiv.org/abs/2507.16535)|null|
 |**2025-07-22**|**Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**|Tanveer Younis et.al.|[2507.16406](http://arxiv.org/abs/2507.16406)|null|
 |**2025-07-22**|**Parallel Ray Tracing of Black Hole Images Using the Schwarzschild Metric**|Liam Naddell et.al.|[2507.16165](http://arxiv.org/abs/2507.16165)|null|
@@ -1934,6 +1938,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**RemixFusion: Residual-based Mixed Representation for Large-scale Online RGB-D Reconstruction**|Yuqing Lan et.al.|[2507.17594](http://arxiv.org/abs/2507.17594)|null|
 |**2025-07-15**|**Mapping Fusion: Improving FPGA Technology Mapping with ASIC Mapper**|Cunxi Yu et.al.|[2507.10912](http://arxiv.org/abs/2507.10912)|null|
 |**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662](http://arxiv.org/abs/2507.04662)|null|
 |**2025-07-11**|**Learning to Generate Vectorized Maps at Intersections with Multiple Roadside Cameras**|Quanxin Zheng et.al.|[2507.02899](http://arxiv.org/abs/2507.02899)|null|
