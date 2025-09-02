@@ -25,16 +25,17 @@ keywords:
     "Visual Localization":
         filters: ["Visual Localization", "Camera Localization", "Image Localization",
                   "Camera Re-localisation", "Geolocalization", "Cross-view Geolocalization",
-                  "visual place recognition","image retrieval"]
+                  "visual place recognition", "image retrieval"]
+    "Point Cloud Place Recognition":
+        filters: ["Point Cloud Place Recognition", "LiDAR Place Recognition"]
     "Cross-modality Localization":
         filters: ["Cross-modality Coarse Localization", "Cross-modality Localization", "Cross-modal Localization"]
     "3D GS":
         filters: ["Gaussian Splatting", "Gaussian SLAM", "Rendering Images", "GS SLAM", "Rendering Localization"]
+    "Autonomous Driving":
+        filters: ["Autonomous Driving", "Autonomous Scenario"]
     "Map":
-        filters: ["Map fusion", "Map Representation", "Map merging"]
-    "Point Cloud Consistency":
-        filters: ["Trajectory Estimation", "Nonrigid registration", 
-                    "Point Cloud Consistency", "Point Cloud Inconsistency"]
-    "Place Recognition":
-        filters: ["Point Cloud Place Recognition", "Point Cloud Retrieval", "Point Cloud Global Localization",
-                    "LiDAR Place Recognition"]
+        filters: ["Map Fusion", "Map Representation", "Map Correction"]
+    "Non-rigid Registration":
+        filters: ["Non-rigid Registration", "Nonrigid Registration"]
+
