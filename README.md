@@ -10,6 +10,9 @@
     <li><a href=#autonomous-driving>Autonomous Driving</a></li>
     <li><a href=#map>Map</a></li>
     <li><a href=#non-rigid-registration>Non-rigid Registration</a></li>
+    <li><a href=#moe>MoE</a></li>
+    <li><a href=#mamba>Mamba</a></li>
+    <li><a href=#hsi-classification>HSI Classification</a></li>
   </ol>
 </details>
 
@@ -54,11 +57,15 @@
 |**2025-05-24**|**L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery**|Ziwei Shi et.al.|[2503.11245](http://arxiv.org/abs/2503.11245)|null|
 |**2025-03-21**|**HOTFormerLoc: Hierarchical Octree Transformer for Versatile Lidar Place Recognition Across Ground and Aerial Views**|Ethan Griffiths et.al.|[2503.08140](http://arxiv.org/abs/2503.08140)|null|
 |**2025-03-06**|**ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**|Yanqing Shen et.al.|[2503.04475](http://arxiv.org/abs/2503.04475)|null|
+|**2025-03-20**|**CMMLoc: Advancing Text-to-PointCloud Localization with Cauchy-Mixture-Model Based Framework**|Yanlong Xu et.al.|[2503.02593](http://arxiv.org/abs/2503.02593)|null|
 |**2025-02-07**|**HeLiOS: Heterogeneous LiDAR Place Recognition via Overlap-based Learning and Local Spherical Transformer**|Minwoo Jung et.al.|[2501.18943](http://arxiv.org/abs/2501.18943)|null|
+|**2024-12-20**|**SaliencyI2PLoc: saliency-guided image-point cloud localization using contrastive learning**|Yuhao Li et.al.|[2412.15577](http://arxiv.org/abs/2412.15577)|null|
+|**2025-04-04**|**PerLA: Perceptive 3D Language Assistant**|Guofeng Mei et.al.|[2411.19774](http://arxiv.org/abs/2411.19774)|null|
 |**2025-05-19**|**A Deeper Look into Second-Order Feature Aggregation for LiDAR Place Recognition**|Saimunur Rahman et.al.|[2409.15919](http://arxiv.org/abs/2409.15919)|null|
 |**2024-09-06**|**Matched Filtering based LiDAR Place Recognition for Urban and Natural Environments**|Therese Joseph et.al.|[2409.03998](http://arxiv.org/abs/2409.03998)|null|
 |**2024-10-02**|**Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**|Hogyun Kim et.al.|[2408.07330](http://arxiv.org/abs/2408.07330)|null|
 |**2024-07-30**|**SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition**|Raktim Gautam Goswami et.al.|[2407.08260](http://arxiv.org/abs/2407.08260)|null|
+|**2024-06-21**|**Voxel-Based Point Cloud Localization for Smart Spaces Management**|F. S. Mortazavi et.al.|[2406.15110](http://arxiv.org/abs/2406.15110)|null|
 |**2024-10-09**|**PointNetPGAP-SLC: A 3D LiDAR-based Place Recognition Approach with Segment-level Consistency Training for Mobile Robots in Horticulture**|T. Barros et.al.|[2405.19038](http://arxiv.org/abs/2405.19038)|null|
 |**2025-03-14**|**VXP: Voxel-Cross-Pixel Large-scale Image-LiDAR Place Recognition**|Yun-Jin Li et.al.|[2403.14594](http://arxiv.org/abs/2403.14594)|null|
 |**2024-08-30**|**Evaluation and Deployment of LiDAR-based Place Recognition in Dense Forests**|Haedam Oh et.al.|[2403.14326](http://arxiv.org/abs/2403.14326)|null|
@@ -138,6 +145,7 @@
 |**2025-06-25**|**Communication-Aware Map Compression for Online Path-Planning: A Rate-Distortion Approach**|Ali Reza Pedram et.al.|[2506.20579](http://arxiv.org/abs/2506.20579)|null|
 |**2025-07-16**|**Cross-Layer Discrete Concept Discovery for Interpreting Language Models**|Ankur Garg et.al.|[2506.20040](http://arxiv.org/abs/2506.20040)|null|
 |**2025-06-17**|**TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Indoor Localization and Mapping**|Jeewon Kim et.al.|[2506.14178](http://arxiv.org/abs/2506.14178)|null|
+|**2025-06-16**|**Complexity of Coexistence Regions in the GRHT Map**|Sishu Shankar Muni et.al.|[2506.13515](http://arxiv.org/abs/2506.13515)|null|
 |**2025-06-09**|**ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving**|Yongkang Li et.al.|[2506.08052](http://arxiv.org/abs/2506.08052)|null|
 |**2025-06-07**|**Multimodal Spatial Language Maps for Robot Navigation and Manipulation**|Chenguang Huang et.al.|[2506.06862](http://arxiv.org/abs/2506.06862)|null|
 |**2025-08-19**|**Flexible Operator Fusion for Fast Sparse Transformer with Diverse Masking on GPU**|Wenhao Dai et.al.|[2506.06095](http://arxiv.org/abs/2506.06095)|null|
@@ -165,6 +173,87 @@
 |**2013-04-03**|**Scale Selection of Adaptive Kernel Regression by Joint Saliency Map for Nonrigid Image Registration**|Zhuangming Shen et.al.|[1303.0479](http://arxiv.org/abs/1303.0479)|null|
 |**2013-04-15**|**Local Structure Matching Driven by Joint-Saliency-Structure Adaptive Kernel Regression**|Binjie Qin et.al.|[1302.0494](http://arxiv.org/abs/1302.0494)|null|
 |**2011-04-21**|**A Meshless Method for Variational Nonrigid 2-D Shape Registration**|Wei Liu et.al.|[1104.4168](http://arxiv.org/abs/1104.4168)|null|
+
+<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
+
+## MoE
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-09-05**|**SpikingBrain Technical Report: Spiking Brain-inspired Large Models**|Yuqi Pan et.al.|[2509.05276](http://arxiv.org/abs/2509.05276)|null|
+|**2025-09-05**|**Robust Experts: the Effect of Adversarial Training on CNNs with Sparse Mixture-of-Experts Layers**|Svetlana Pavlitska et.al.|[2509.05086](http://arxiv.org/abs/2509.05086)|null|
+|**2025-09-05**|**Phase-field and lip-field approaches for fracture with extreme mesh deformation (X-Mesh): a one-dimensional study**|Nicolas Moës et.al.|[2509.04971](http://arxiv.org/abs/2509.04971)|null|
+|**2025-09-05**|**A Knowledge-Driven Diffusion Policy for End-to-End Autonomous Driving Based on Expert Routing**|Chengkai Xu et.al.|[2509.04853](http://arxiv.org/abs/2509.04853)|null|
+|**2025-09-05**|**REMOTE: A Unified Multimodal Relation Extraction Framework with Multilevel Optimal Transport and Mixture-of-Experts**|Xinkui Lin et.al.|[2509.04844](http://arxiv.org/abs/2509.04844)|null|
+|**2025-09-05**|**Extracting Uncertainty Estimates from Mixtures of Experts for Semantic Segmentation**|Svetlana Pavlitska et.al.|[2509.04816](http://arxiv.org/abs/2509.04816)|null|
+|**2025-09-04**|**Wav2DF-TSL: Two-stage Learning with Efficient Pre-training and Hierarchical Experts Fusion for Robust Audio Deepfake Detection**|Yunqi Hao et.al.|[2509.04161](http://arxiv.org/abs/2509.04161)|null|
+|**2025-09-03**|**Hierarchical Federated Foundation Models over Wireless Networks for Multi-Modal Multi-Task Intelligence: Integration of Edge Learning with D2D/P2P-Enabled Fog Learning Architectures**|Payam Abdisarabshali et.al.|[2509.03695](http://arxiv.org/abs/2509.03695)|null|
+|**2025-09-03**|**OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation**|Han Li et.al.|[2509.03498](http://arxiv.org/abs/2509.03498)|null|
+|**2025-09-02**|**LExI: Layer-Adaptive Active Experts for Efficient MoE Model Inference**|Krishna Teja Chitty-Venkata et.al.|[2509.02753](http://arxiv.org/abs/2509.02753)|null|
+|**2025-09-02**|**Acrobotics: A Generalist Approahc To Quadrupedal Robots' Parkour**|Guillaume Gagné-Labelle et.al.|[2509.02727](http://arxiv.org/abs/2509.02727)|null|
+|**2025-09-02**|**MoPEQ: Mixture of Mixed Precision Quantized Experts**|Krishna Teja Chitty-Venkata et.al.|[2509.02512](http://arxiv.org/abs/2509.02512)|null|
+|**2025-09-02**|**Cache Management for Mixture-of-Experts LLMs -- extended version**|Spyros Angelopoulos et.al.|[2509.02408](http://arxiv.org/abs/2509.02408)|null|
+|**2025-09-02**|**OmniActor: A Generalist GUI and Embodied Agent for 2D&3D Worlds**|Longrong Yang et.al.|[2509.02322](http://arxiv.org/abs/2509.02322)|null|
+|**2025-09-01**|**Automatic Screening of Parkinson's Disease from Visual Explorations**|Maria F. Alcala-Durand et.al.|[2509.01326](http://arxiv.org/abs/2509.01326)|null|
+|**2025-09-01**|**LongCat-Flash Technical Report**|Meituan LongCat Team et.al.|[2509.01322](http://arxiv.org/abs/2509.01322)|null|
+|**2025-09-01**|**SimulMEGA: MoE Routers are Advanced Policy Makers for Simultaneous Speech Translation**|Chenyang Le et.al.|[2509.01200](http://arxiv.org/abs/2509.01200)|null|
+|**2025-09-01**|**Joint Information Extraction Across Classical and Modern Chinese with Tea-MOELoRA**|Xuemei Tang et.al.|[2509.01158](http://arxiv.org/abs/2509.01158)|null|
+|**2025-08-31**|**MEPT: Mixture of Expert Prompt Tuning as a Manifold Mapper**|Runjia Zeng et.al.|[2509.00996](http://arxiv.org/abs/2509.00996)|null|
+|**2025-08-31**|**Router Upcycling: Leveraging Mixture-of-Routers in Mixture-of-Experts Upcycling**|Junfeng Ran et.al.|[2509.00679](http://arxiv.org/abs/2509.00679)|null|
+
+<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
+
+## Mamba
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-09-05**|**A Bayesian Gaussian Process Dynamic Factor Model**|Tony Chernis et.al.|[2509.04928](http://arxiv.org/abs/2509.04928)|null|
+|**2025-09-05**|**CD-Mamba: Cloud detection with long-range spatial dependency modeling**|Tianxiang Xue et.al.|[2509.04729](http://arxiv.org/abs/2509.04729)|null|
+|**2025-09-04**|**VCMamba: Bridging Convolutions with Multi-Directional Mamba for Efficient Visual Representation**|Mustafa Munir et.al.|[2509.04669](http://arxiv.org/abs/2509.04669)|null|
+|**2025-09-04**|**Echo State Networks as State-Space Models: A Systems Perspective**|Pradeep Singh et.al.|[2509.04422](http://arxiv.org/abs/2509.04422)|null|
+|**2025-09-04**|**Rethinking the long-range dependency in Mamba/SSM and transformer models**|Cong Ma et.al.|[2509.04226](http://arxiv.org/abs/2509.04226)|null|
+|**2025-09-03**|**Time-Scaling State-Space Models for Dense Video Captioning**|AJ Piergiovanni et.al.|[2509.03426](http://arxiv.org/abs/2509.03426)|null|
+|**2025-09-03**|**S2M2ECG: Spatio-temporal bi-directional State Space Model Enabled Multi-branch Mamba for ECG**|Huaicheng Zhang et.al.|[2509.03066](http://arxiv.org/abs/2509.03066)|null|
+|**2025-09-02**|**Mentality: A Mamba-based Approach towards Foundation Models for EEG**|Saarang Panchavati et.al.|[2509.02746](http://arxiv.org/abs/2509.02746)|null|
+|**2025-09-02**|**ESTM: An Enhanced Dual-Branch Spectral-Temporal Mamba for Anomalous Sound Detection**|Chengyuan Ma et.al.|[2509.02471](http://arxiv.org/abs/2509.02471)|null|
+|**2025-09-02**|**AudioRWKV: Efficient and Stable Bidirectional RWKV for Audio Pattern Recognition**|Jiayu Xiong et.al.|[2509.02167](http://arxiv.org/abs/2509.02167)|null|
+|**2025-09-01**|**A Mathematical Model of Hybrid Microgrid With Pole Placement Controller Using State Feedback For Stability Improvement**|Yangyadatta Tripathy et.al.|[2509.01749](http://arxiv.org/abs/2509.01749)|null|
+|**2025-09-01**|**Mamba-CNN: A Hybrid Architecture for Efficient and Accurate Facial Beauty Prediction**|Djamel Eddine Boukhari et.al.|[2509.01431](http://arxiv.org/abs/2509.01431)|null|
+|**2025-09-01**|**StoxLSTM: A Stochastic Extended Long Short-Term Memory Network for Time Series Forecasting**|Zihao Wang et.al.|[2509.01187](http://arxiv.org/abs/2509.01187)|null|
+|**2025-09-01**|**SpectMamba: Integrating Frequency and State Space Models for Enhanced Medical Image Detection**|Yao Wang et.al.|[2509.01080](http://arxiv.org/abs/2509.01080)|null|
+|**2025-08-31**|**Prospects of Imitating Trading Agents in the Stock Market**|Mateusz Wilinski et.al.|[2509.00982](http://arxiv.org/abs/2509.00982)|null|
+|**2025-08-31**|**CSFMamba: Cross State Fusion Mamba Operator for Multimodal Remote Sensing Image Classification**|Qingyu Wang et.al.|[2509.00677](http://arxiv.org/abs/2509.00677)|null|
+|**2025-08-31**|**MV-SSM: Multi-View State Space Modeling for 3D Human Pose Estimation**|Aviral Chharia et.al.|[2509.00649](http://arxiv.org/abs/2509.00649)|null|
+|**2025-08-30**|**COMET: A Framework for Modeling Compound Operation Dataflows with Explicit Collectives**|Shubham Negi et.al.|[2509.00599](http://arxiv.org/abs/2509.00599)|null|
+|**2025-08-30**|**SemaMIL: Semantic Reordering with Retrieval-Guided State Space Modeling for Whole Slide Image Classification**|Lubin Gan et.al.|[2509.00442](http://arxiv.org/abs/2509.00442)|null|
+|**2025-08-29**|**Quantum-Optimized Selective State Space Model for Efficient Time Series Prediction**|Stefan-Alexandru Jura et.al.|[2509.00259](http://arxiv.org/abs/2509.00259)|null|
+
+<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
+
+## HSI Classification
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-09-02**|**Explainability-Driven Dimensionality Reduction for Hyperspectral Imaging**|Salma Haidar et.al.|[2509.02340](http://arxiv.org/abs/2509.02340)|null|
+|**2025-09-01**|**FantasyHSI: Video-Generation-Centric 4D Human Synthesis In Any Scene through A Graph-based Multi-Agent Framework**|Lingzhou Mu et.al.|[2509.01232](http://arxiv.org/abs/2509.01232)|null|
+|**2025-08-31**|**CSFMamba: Cross State Fusion Mamba Operator for Multimodal Remote Sensing Image Classification**|Qingyu Wang et.al.|[2509.00677](http://arxiv.org/abs/2509.00677)|null|
+|**2025-08-30**|**Iterative Low-rank Network for Hyperspectral Image Denoising**|Jin Ye et.al.|[2509.00356](http://arxiv.org/abs/2509.00356)|null|
+|**2025-08-28**|**Upper Limits on the Isotropic Gravitational-Wave Background from the first part of LIGO, Virgo, and KAGRA's fourth Observing Run**|The LIGO Scientific Collaboration et.al.|[2508.20721](http://arxiv.org/abs/2508.20721)|null|
+|**2025-08-27**|**Hyperspectral Sensors and Autonomous Driving: Technologies, Limitations, and Opportunities**|Imad Ali Shah et.al.|[2508.19905](http://arxiv.org/abs/2508.19905)|null|
+|**2025-09-03**|**Open Data from LIGO, Virgo, and KAGRA through the First Part of the Fourth Observing Run**|The LIGO Scientific Collaboration et.al.|[2508.18079](http://arxiv.org/abs/2508.18079)|null|
+|**2025-08-25**|**Few-shot Unknown Class Discovery of Hyperspectral Images with Prototype Learning and Clustering**|Chun Liu et.al.|[2508.18075](http://arxiv.org/abs/2508.18075)|null|
+|**2025-08-21**|**Deep Equilibrium Convolutional Sparse Coding for Hyperspectral Image Denoising**|Jin Ye et.al.|[2508.15553](http://arxiv.org/abs/2508.15553)|null|
+|**2025-08-15**|**Hyperspectral vs. RGB for Pedestrian Segmentation in Urban Driving Scenes: A Comparative Study**|Jiarong Li et.al.|[2508.11301](http://arxiv.org/abs/2508.11301)|null|
+|**2025-08-14**|**CSNR and JMIM Based Spectral Band Selection for Reducing Metamerism in Urban Driving**|Jiarong Li et.al.|[2508.10962](http://arxiv.org/abs/2508.10962)|null|
+|**2025-08-13**|**Probabilistic Emissivity Retrieval from Hyperspectral Data via Physics-Guided Variational Inference**|Joshua R. Tempelman et.al.|[2508.08291](http://arxiv.org/abs/2508.08291)|null|
+|**2025-08-11**|**Hyperspectral Imaging**|Danfeng Hong et.al.|[2508.08107](http://arxiv.org/abs/2508.08107)|null|
+|**2025-08-11**|**DETACH: Cross-domain Learning for Long-Horizon Tasks via Mixture of Disentangled Experts**|Yutong Shen et.al.|[2508.07842](http://arxiv.org/abs/2508.07842)|null|
+|**2025-08-09**|**TerraMAE: Learning Spatial-Spectral Representations from Hyperspectral Earth Observation Data via Adaptive Masked Autoencoders**|Tanjim Bin Faruk et.al.|[2508.07020](http://arxiv.org/abs/2508.07020)|null|
+|**2025-08-05**|**Low-rankness and Smoothness Meet Subspace: A Unified Tensor Regularization for Hyperspectral Image Super-resolution**|Jun Zhang et.al.|[2508.03049](http://arxiv.org/abs/2508.03049)|null|
+|**2025-08-02**|**Hyperspectral Image Recovery Constrained by Multi-Granularity Non-Local Self-Similarity Priors**|Zhuoran Peng et.al.|[2508.01435](http://arxiv.org/abs/2508.01435)|null|
+|**2025-08-05**|**Phase-Locked SNR Band Selection for Weak Mineral Signal Detection in Hyperspectral Imagery**|Judy X Yang et.al.|[2508.00539](http://arxiv.org/abs/2508.00539)|null|
+|**2025-08-01**|**Honey Classification using Hyperspectral Imaging and Machine Learning**|Mokhtar A. Al-Awadhi et.al.|[2508.00361](http://arxiv.org/abs/2508.00361)|null|
+|**2025-07-31**|**SAMSA: Segment Anything Model Enhanced with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation**|Alfie Roddan et.al.|[2507.23673](http://arxiv.org/abs/2507.23673)|**[link](https://github.com/CVRS-Hamlyn/SAMSA)**|
 
 <p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
 
