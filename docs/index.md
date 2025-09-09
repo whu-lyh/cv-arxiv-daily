@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-08**|**Back To The Drawing Board: Rethinking Scene-Level Sketch-Based Image Retrieval**|Emil Demić et.al.|[2509.06566](http://arxiv.org/abs/2509.06566)|null|
+|**2025-09-06**|**Augmenting Human-Centered Racial Covenant Detection and Georeferencing with Plug-and-Play NLP Pipelines**|Jiyoon Pyo et.al.|[2509.05829](http://arxiv.org/abs/2509.05829)|null|
 |**2025-09-05**|**Towards an Accurate and Effective Robot Vision (The Problem of Topological Localization for Mobile Robots)**|Emanuela Boros et.al.|[2509.04948](http://arxiv.org/abs/2509.04948)|null|
 |**2025-09-05**|**FloodVision: Urban Flood Depth Estimation Using Foundation Vision-Language Models and Domain Knowledge Graph**|Zhangding Liu et.al.|[2509.04772](http://arxiv.org/abs/2509.04772)|null|
 |**2025-09-05**|**Global-to-Local or Local-to-Global? Enhancing Image Retrieval with Efficient Local Search and Effective Global Re-ranking**|Dror Aiger et.al.|[2509.04351](http://arxiv.org/abs/2509.04351)|null|
@@ -63,8 +65,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-08**|**VIM-GS: Visual-Inertial Monocular Gaussian Splatting via Object-level Guidance in Large Scenes**|Shengkai Zhang et.al.|[2509.06685](http://arxiv.org/abs/2509.06685)|null|
+|**2025-09-08**|**Real-time Photorealistic Mapping for Situational Awareness in Robot Teleoperation**|Ian Page et.al.|[2509.06433](http://arxiv.org/abs/2509.06433)|null|
+|**2025-09-08**|**3DOF+Quantization: 3DGS quantization for large scenes with limited Degrees of Freedom**|Matthieu Gendrin et.al.|[2509.06400](http://arxiv.org/abs/2509.06400)|null|
+|**2025-09-05**|**Visibility-Aware Language Aggregation for Open-Vocabulary Segmentation in 3D Gaussian Splatting**|Sen Wang et.al.|[2509.05515](http://arxiv.org/abs/2509.05515)|null|
 |**2025-09-05**|**Toward Distributed 3D Gaussian Splatting for High-Resolution Isosurface Visualization**|Mengjiao Han et.al.|[2509.05216](http://arxiv.org/abs/2509.05216)|null|
-|**2025-09-05**|**Symbolic Graphics Programming with Large Language Models**|Yamei Chen et.al.|[2509.05208](http://arxiv.org/abs/2509.05208)|**[link](https://github.com/Sphere-AI-Lab/SGP-RL)**|
+|**2025-09-05**|**Symbolic Graphics Programming with Large Language Models**|Yamei Chen et.al.|[2509.05208](http://arxiv.org/abs/2509.05208)|null|
 |**2025-09-05**|**GeoSplat: A Deep Dive into Geometry-Constrained Gaussian Splatting**|Yangming Li et.al.|[2509.05075](http://arxiv.org/abs/2509.05075)|null|
 |**2025-09-05**|**CoRe-GS: Coarse-to-Refined Gaussian Splatting with Semantic Object Focus**|Hannah Schieber et.al.|[2509.04859](http://arxiv.org/abs/2509.04859)|null|
 |**2025-09-04**|**SSGaussian: Semantic-Aware and Structure-Preserving 3D Style Transfer**|Jimin Xu et.al.|[2509.04379](http://arxiv.org/abs/2509.04379)|null|
@@ -88,7 +94,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-05**|**LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation**|Yinglin Duan et.al.|[2509.05263](http://arxiv.org/abs/2509.05263)|null|
+|**2025-09-08**|**SynthDrive: Scalable Real2Sim2Real Sensor Simulation Pipeline for High-Fidelity Asset Generation and Driving Data Synthesis**|Zhengqing Chen et.al.|[2509.06798](http://arxiv.org/abs/2509.06798)|null|
+|**2025-09-08**|**Adaptive Evolution Factor Risk Ellipse Framework for Reliable and Safe Autonomous Driving**|Fujiang Yuan et.al.|[2509.06375](http://arxiv.org/abs/2509.06375)|null|
+|**2025-09-07**|**Asymmetry Vulnerability and Physical Attacks on Online Map Construction for Autonomous Driving**|Yang Lou et.al.|[2509.06071](http://arxiv.org/abs/2509.06071)|null|
+|**2025-09-06**|**Scenario-based Decision-making Using Game Theory for Interactive Autonomous Driving: A Survey**|Zhihao Lin et.al.|[2509.05777](http://arxiv.org/abs/2509.05777)|null|
+|**2025-09-06**|**Evaluating YOLO Architectures: Implications for Real-Time Vehicle Detection in Urban Environments of Bangladesh**|Ha Meem Hossain et.al.|[2509.05652](http://arxiv.org/abs/2509.05652)|null|
+|**2025-09-06**|**OccVLA: Vision-Language-Action Model with Implicit 3D Occupancy Supervision**|Ruixun Liu et.al.|[2509.05578](http://arxiv.org/abs/2509.05578)|null|
+|**2025-09-08**|**LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation**|Yinglin Duan et.al.|[2509.05263](http://arxiv.org/abs/2509.05263)|null|
 |**2025-09-05**|**Enhancing 3D Point Cloud Classification with ModelNet-R and Point-SkipNet**|Mohammad Saeid et.al.|[2509.05198](http://arxiv.org/abs/2509.05198)|null|
 |**2025-09-05**|**A Knowledge-Driven Diffusion Policy for End-to-End Autonomous Driving Based on Expert Routing**|Chengkai Xu et.al.|[2509.04853](http://arxiv.org/abs/2509.04853)|null|
 |**2025-09-05**|**Enhancing Self-Driving Segmentation in Adverse Weather Conditions: A Dual Uncertainty-Aware Training Approach to SAM Optimization**|Dharsan Ravindran et.al.|[2509.04735](http://arxiv.org/abs/2509.04735)|null|
@@ -157,6 +169,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-08**|**CAME-AB: Cross-Modality Attention with Mixture-of-Experts for Antibody Binding Site Prediction**|Hongzong Li et.al.|[2509.06465](http://arxiv.org/abs/2509.06465)|null|
+|**2025-09-08**|**Ban&Pick: Achieving Free Performance Gains and Inference Speedup via Smarter Routing in MoE-LLMs**|Yuanteng Chen et.al.|[2509.06346](http://arxiv.org/abs/2509.06346)|null|
+|**2025-09-08**|**MCTuner: Spatial Decomposition-Enhanced Database Tuning via LLM-Guided Exploration**|Zihan Yan et.al.|[2509.06298](http://arxiv.org/abs/2509.06298)|null|
 |**2025-09-05**|**SpikingBrain Technical Report: Spiking Brain-inspired Large Models**|Yuqi Pan et.al.|[2509.05276](http://arxiv.org/abs/2509.05276)|null|
 |**2025-09-05**|**Robust Experts: the Effect of Adversarial Training on CNNs with Sparse Mixture-of-Experts Layers**|Svetlana Pavlitska et.al.|[2509.05086](http://arxiv.org/abs/2509.05086)|null|
 |**2025-09-05**|**Phase-field and lip-field approaches for fracture with extreme mesh deformation (X-Mesh): a one-dimensional study**|Nicolas Moës et.al.|[2509.04971](http://arxiv.org/abs/2509.04971)|null|
@@ -182,6 +197,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-06**|**Hyperbolic Large Language Models**|Sarang Patil et.al.|[2509.05757](http://arxiv.org/abs/2509.05757)|null|
 |**2025-09-05**|**A Bayesian Gaussian Process Dynamic Factor Model**|Tony Chernis et.al.|[2509.04928](http://arxiv.org/abs/2509.04928)|null|
 |**2025-09-05**|**CD-Mamba: Cloud detection with long-range spatial dependency modeling**|Tianxiang Xue et.al.|[2509.04729](http://arxiv.org/abs/2509.04729)|null|
 |**2025-09-04**|**VCMamba: Bridging Convolutions with Multi-Directional Mamba for Efficient Visual Representation**|Mustafa Munir et.al.|[2509.04669](http://arxiv.org/abs/2509.04669)|null|
@@ -213,6 +229,7 @@ layout: default
 |**2025-08-30**|**Iterative Low-rank Network for Hyperspectral Image Denoising**|Jin Ye et.al.|[2509.00356](http://arxiv.org/abs/2509.00356)|null|
 |**2025-08-28**|**Upper Limits on the Isotropic Gravitational-Wave Background from the first part of LIGO, Virgo, and KAGRA's fourth Observing Run**|The LIGO Scientific Collaboration et.al.|[2508.20721](http://arxiv.org/abs/2508.20721)|null|
 |**2025-08-27**|**Hyperspectral Sensors and Autonomous Driving: Technologies, Limitations, and Opportunities**|Imad Ali Shah et.al.|[2508.19905](http://arxiv.org/abs/2508.19905)|null|
+|**2025-09-08**|**GWTC-4.0: Updating the Gravitational-Wave Transient Catalog with Observations from the First Part of the Fourth LIGO-Virgo-KAGRA Observing Run**|The LIGO Scientific Collaboration et.al.|[2508.18082](http://arxiv.org/abs/2508.18082)|null|
 |**2025-09-03**|**Open Data from LIGO, Virgo, and KAGRA through the First Part of the Fourth Observing Run**|The LIGO Scientific Collaboration et.al.|[2508.18079](http://arxiv.org/abs/2508.18079)|null|
 |**2025-08-25**|**Few-shot Unknown Class Discovery of Hyperspectral Images with Prototype Learning and Clustering**|Chun Liu et.al.|[2508.18075](http://arxiv.org/abs/2508.18075)|null|
 |**2025-08-21**|**Deep Equilibrium Convolutional Sparse Coding for Hyperspectral Image Denoising**|Jin Ye et.al.|[2508.15553](http://arxiv.org/abs/2508.15553)|null|
