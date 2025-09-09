@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.08
+## Updated on 2025.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -64,7 +64,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-05**|**Toward Distributed 3D Gaussian Splatting for High-Resolution Isosurface Visualization**|Mengjiao Han et.al.|[2509.05216](http://arxiv.org/abs/2509.05216)|null|
-|**2025-09-05**|**Symbolic Graphics Programming with Large Language Models**|Yamei Chen et.al.|[2509.05208](http://arxiv.org/abs/2509.05208)|null|
+|**2025-09-05**|**Symbolic Graphics Programming with Large Language Models**|Yamei Chen et.al.|[2509.05208](http://arxiv.org/abs/2509.05208)|**[link](https://github.com/Sphere-AI-Lab/SGP-RL)**|
 |**2025-09-05**|**GeoSplat: A Deep Dive into Geometry-Constrained Gaussian Splatting**|Yangming Li et.al.|[2509.05075](http://arxiv.org/abs/2509.05075)|null|
 |**2025-09-05**|**CoRe-GS: Coarse-to-Refined Gaussian Splatting with Semantic Object Focus**|Hannah Schieber et.al.|[2509.04859](http://arxiv.org/abs/2509.04859)|null|
 |**2025-09-04**|**SSGaussian: Semantic-Aware and Structure-Preserving 3D Style Transfer**|Jimin Xu et.al.|[2509.04379](http://arxiv.org/abs/2509.04379)|null|
@@ -174,7 +174,7 @@ layout: default
 |**2025-09-01**|**Automatic Screening of Parkinson's Disease from Visual Explorations**|Maria F. Alcala-Durand et.al.|[2509.01326](http://arxiv.org/abs/2509.01326)|null|
 |**2025-09-01**|**LongCat-Flash Technical Report**|Meituan LongCat Team et.al.|[2509.01322](http://arxiv.org/abs/2509.01322)|null|
 |**2025-09-01**|**SimulMEGA: MoE Routers are Advanced Policy Makers for Simultaneous Speech Translation**|Chenyang Le et.al.|[2509.01200](http://arxiv.org/abs/2509.01200)|null|
-|**2025-09-01**|**Joint Information Extraction Across Classical and Modern Chinese with Tea-MOELoRA**|Xuemei Tang et.al.|[2509.01158](http://arxiv.org/abs/2509.01158)|null|
+|**2025-09-06**|**Joint Information Extraction Across Classical and Modern Chinese with Tea-MOELoRA**|Xuemei Tang et.al.|[2509.01158](http://arxiv.org/abs/2509.01158)|null|
 |**2025-08-31**|**MEPT: Mixture of Expert Prompt Tuning as a Manifold Mapper**|Runjia Zeng et.al.|[2509.00996](http://arxiv.org/abs/2509.00996)|null|
 |**2025-08-31**|**Router Upcycling: Leveraging Mixture-of-Routers in Mixture-of-Experts Upcycling**|Junfeng Ran et.al.|[2509.00679](http://arxiv.org/abs/2509.00679)|null|
 
@@ -226,5 +226,5 @@ layout: default
 |**2025-08-02**|**Hyperspectral Image Recovery Constrained by Multi-Granularity Non-Local Self-Similarity Priors**|Zhuoran Peng et.al.|[2508.01435](http://arxiv.org/abs/2508.01435)|null|
 |**2025-08-05**|**Phase-Locked SNR Band Selection for Weak Mineral Signal Detection in Hyperspectral Imagery**|Judy X Yang et.al.|[2508.00539](http://arxiv.org/abs/2508.00539)|null|
 |**2025-08-01**|**Honey Classification using Hyperspectral Imaging and Machine Learning**|Mokhtar A. Al-Awadhi et.al.|[2508.00361](http://arxiv.org/abs/2508.00361)|null|
-|**2025-07-31**|**SAMSA: Segment Anything Model Enhanced with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation**|Alfie Roddan et.al.|[2507.23673](http://arxiv.org/abs/2507.23673)|**[link](https://github.com/CVRS-Hamlyn/SAMSA)**|
+|**2025-07-31**|**SAMSA: Segment Anything Model Enhanced with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation**|Alfie Roddan et.al.|[2507.23673](http://arxiv.org/abs/2507.23673)|null|
 
