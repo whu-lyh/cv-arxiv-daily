@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-09**|**Aerial-ground Cross-modal Localization: Dataset, Ground-truth, and Benchmark**|Yandi Yang et.al.|[2509.07362](http://arxiv.org/abs/2509.07362)|null|
 |**2025-09-08**|**Back To The Drawing Board: Rethinking Scene-Level Sketch-Based Image Retrieval**|Emil Demić et.al.|[2509.06566](http://arxiv.org/abs/2509.06566)|null|
 |**2025-09-06**|**Augmenting Human-Centered Racial Covenant Detection and Georeferencing with Plug-and-Play NLP Pipelines**|Jiyoon Pyo et.al.|[2509.05829](http://arxiv.org/abs/2509.05829)|null|
 |**2025-09-05**|**Towards an Accurate and Effective Robot Vision (The Problem of Topological Localization for Mobile Robots)**|Emanuela Boros et.al.|[2509.04948](http://arxiv.org/abs/2509.04948)|null|
@@ -65,6 +66,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-09**|**SplatFill: 3D Scene Inpainting via Depth-Guided Gaussian Splatting**|Mahtab Dahaghin et.al.|[2509.07809](http://arxiv.org/abs/2509.07809)|null|
+|**2025-09-09**|**HairGS: Hair Strand Reconstruction based on 3D Gaussian Splatting**|Yimin Pan et.al.|[2509.07774](http://arxiv.org/abs/2509.07774)|null|
+|**2025-09-09**|**DiGS: Accurate and Complete Surface Reconstruction from 3D Gaussians via Direct SDF Learning**|Wenzhi Guo et.al.|[2509.07493](http://arxiv.org/abs/2509.07493)|null|
+|**2025-09-09**|**DreamLifting: A Plug-in Module Lifting MV Diffusion Models for 3D Asset Generation**|Ze-Xin Yin et.al.|[2509.07435](http://arxiv.org/abs/2509.07435)|null|
+|**2025-09-07**|**MEGS $^{2}$ : Memory-Efficient Gaussian Splatting via Spherical Gaussians and Unified Pruning**|Jiarui Chen et.al.|[2509.07021](http://arxiv.org/abs/2509.07021)|null|
 |**2025-09-09**|**VIM-GS: Visual-Inertial Monocular Gaussian Splatting via Object-level Guidance in Large Scenes**|Shengkai Zhang et.al.|[2509.06685](http://arxiv.org/abs/2509.06685)|null|
 |**2025-09-08**|**Real-time Photorealistic Mapping for Situational Awareness in Robot Teleoperation**|Ian Page et.al.|[2509.06433](http://arxiv.org/abs/2509.06433)|null|
 |**2025-09-08**|**3DOF+Quantization: 3DGS quantization for large scenes with limited Degrees of Freedom**|Matthieu Gendrin et.al.|[2509.06400](http://arxiv.org/abs/2509.06400)|null|
@@ -94,6 +100,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-09**|**TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models**|Zongzheng Zhang et.al.|[2509.07962](http://arxiv.org/abs/2509.07962)|null|
+|**2025-09-09**|**Bias-Aware Machine Unlearning: Towards Fairer Vision Models via Controllable Forgetting**|Sai Siddhartha Chary Aylapuram et.al.|[2509.07456](http://arxiv.org/abs/2509.07456)|null|
+|**2025-09-09**|**Attention and Risk-Aware Decision Framework for Safe Autonomous Driving**|Zhen Tian et.al.|[2509.07412](http://arxiv.org/abs/2509.07412)|null|
+|**2025-09-09**|**TEGRA: A Flexible & Scalable NextGen Mobile Core**|Bilal Saleem et.al.|[2509.07410](http://arxiv.org/abs/2509.07410)|null|
 |**2025-09-08**|**SynthDrive: Scalable Real2Sim2Real Sensor Simulation Pipeline for High-Fidelity Asset Generation and Driving Data Synthesis**|Zhengqing Chen et.al.|[2509.06798](http://arxiv.org/abs/2509.06798)|null|
 |**2025-09-08**|**Adaptive Evolution Factor Risk Ellipse Framework for Reliable and Safe Autonomous Driving**|Fujiang Yuan et.al.|[2509.06375](http://arxiv.org/abs/2509.06375)|null|
 |**2025-09-07**|**Asymmetry Vulnerability and Physical Attacks on Online Map Construction for Autonomous Driving**|Yang Lou et.al.|[2509.06071](http://arxiv.org/abs/2509.06071)|null|
@@ -169,6 +179,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-09**|**One Model for All Tasks: Leveraging Efficient World Models in Multi-Task Planning**|Yuan Pu et.al.|[2509.07945](http://arxiv.org/abs/2509.07945)|null|
+|**2025-09-09**|**MoE-Compression: How the Compression Error of Experts Affects the Inference Accuracy of MoE Model?**|Songkai Ma et.al.|[2509.07727](http://arxiv.org/abs/2509.07727)|null|
+|**2025-09-09**|**DuoServe-MoE: Dual-Phase Expert Prefetch and Cache Scheduling for Efficient MoE LLM Inference**|Yuning Zhang et.al.|[2509.07379](http://arxiv.org/abs/2509.07379)|null|
+|**2025-09-09**|**PersonaFuse: A Personality Activation-Driven Framework for Enhancing Human-LLM Interactions**|Yixuan Tang et.al.|[2509.07370](http://arxiv.org/abs/2509.07370)|null|
 |**2025-09-09**|**CAME-AB: Cross-Modality Attention with Mixture-of-Experts for Antibody Binding Site Prediction**|Hongzong Li et.al.|[2509.06465](http://arxiv.org/abs/2509.06465)|null|
 |**2025-09-08**|**Ban&Pick: Achieving Free Performance Gains and Inference Speedup via Smarter Routing in MoE-LLMs**|Yuanteng Chen et.al.|[2509.06346](http://arxiv.org/abs/2509.06346)|null|
 |**2025-09-08**|**MCTuner: Spatial Decomposition-Enhanced Database Tuning via LLM-Guided Exploration**|Zihan Yan et.al.|[2509.06298](http://arxiv.org/abs/2509.06298)|null|
@@ -197,6 +211,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-09**|**A kernel-based approach to physics-informed nonlinear system identification**|Cesare Donati et.al.|[2509.07634](http://arxiv.org/abs/2509.07634)|null|
+|**2025-09-07**|**Recursive State Inference for Linear PASFA**|Vishal Rishi et.al.|[2509.07028](http://arxiv.org/abs/2509.07028)|null|
 |**2025-09-06**|**Hyperbolic Large Language Models**|Sarang Patil et.al.|[2509.05757](http://arxiv.org/abs/2509.05757)|null|
 |**2025-09-05**|**A Bayesian Gaussian Process Dynamic Factor Model**|Tony Chernis et.al.|[2509.04928](http://arxiv.org/abs/2509.04928)|null|
 |**2025-09-05**|**CD-Mamba: Cloud detection with long-range spatial dependency modeling**|Tianxiang Xue et.al.|[2509.04729](http://arxiv.org/abs/2509.04729)|null|
