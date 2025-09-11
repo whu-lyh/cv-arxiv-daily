@@ -39,7 +39,7 @@
 |**2025-08-31**|**Multi-Level CLS Token Fusion for Contrastive Learning in Endoscopy Image Classification**|Y Hop Nguyen et.al.|[2509.00752](http://arxiv.org/abs/2509.00752)|null|
 |**2025-08-31**|**EVENT-Retriever: Event-Aware Multimodal Image Retrieval for Realistic Captions**|Dinh-Khoi Vo et.al.|[2509.00751](http://arxiv.org/abs/2509.00751)|null|
 |**2025-08-29**|**Category-level Text-to-Image Retrieval Improved: Bridging the Domain Gap with Diffusion Models and Vision Encoders**|Faizan Farooq Khan et.al.|[2509.00177](http://arxiv.org/abs/2509.00177)|null|
-|**2025-08-29**|**HCCM: Hierarchical Cross-Granularity Contrastive and Matching Learning for Natural Language-Guided Drones**|Hao Ruan et.al.|[2508.21539](http://arxiv.org/abs/2508.21539)|**[link](https://github.com/rhao-hur/HCCM)**|
+|**2025-08-29**|**HCCM: Hierarchical Cross-Granularity Contrastive and Matching Learning for Natural Language-Guided Drones**|Hao Ruan et.al.|[2508.21539](http://arxiv.org/abs/2508.21539)|null|
 |**2025-08-27**|**Disentangling Latent Embeddings with Sparse Linear Concept Subspaces (SLiCS)**|Zhi Li et.al.|[2508.20322](http://arxiv.org/abs/2508.20322)|null|
 |**2025-08-27**|**Low-exposure, high-quality multimodal speckle X-ray imaging via an intrinsic gradient-flow approach**|Jayvan Liu et.al.|[2508.20209](http://arxiv.org/abs/2508.20209)|null|
 |**2025-08-27**|**Grounding Multimodal Large Language Models with Quantitative Skin Attributes: A Retrieval Study**|Max Torop et.al.|[2508.20188](http://arxiv.org/abs/2508.20188)|null|
@@ -50,11 +50,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-08-09**|**LifelongPR: Lifelong point cloud place recognition based on sample replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|**[link](https://github.com/zouxianghong/LifelongPR)**|
+|**2025-08-09**|**LifelongPR: Lifelong point cloud place recognition based on sample replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|null|
 |**2025-08-08**|**ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models**|Minwoo Jung et.al.|[2505.18364](http://arxiv.org/abs/2505.18364)|null|
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
-|**2025-08-27**|**OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**|Shuhao Kang et.al.|[2504.19258](http://arxiv.org/abs/2504.19258)|**[link](https://github.com/WHU-USI3DV/OPAL)**|
-|**2025-06-19**|**An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather**|Xiongwei Zhao et.al.|[2504.14806](http://arxiv.org/abs/2504.14806)|**[link](https://github.com/Grandzxw/ITDNet)**|
+|**2025-08-27**|**OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**|Shuhao Kang et.al.|[2504.19258](http://arxiv.org/abs/2504.19258)|null|
+|**2025-06-19**|**An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather**|Xiongwei Zhao et.al.|[2504.14806](http://arxiv.org/abs/2504.14806)|null|
 |**2025-04-16**|**Diffusion Based Robust LiDAR Place Recognition**|Benjamin Krummenacher et.al.|[2504.12412](http://arxiv.org/abs/2504.12412)|null|
 |**2025-04-15**|**Text-Driven 3D Lidar Place Recognition for Autonomous Driving**|Tianyi Shang et.al.|[2503.18035](http://arxiv.org/abs/2503.18035)|null|
 |**2025-05-24**|**L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery**|Ziwei Shi et.al.|[2503.11245](http://arxiv.org/abs/2503.11245)|null|
@@ -117,6 +117,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-10**|**LD-ViCE: Latent Diffusion Model for Video Counterfactual Explanations**|Payal Varshney et.al.|[2509.08422](http://arxiv.org/abs/2509.08422)|null|
+|**2025-09-10**|**Sparse BEV Fusion with Self-View Consistency for Multi-View Detection and Tracking**|Keisuke Toida et.al.|[2509.08421](http://arxiv.org/abs/2509.08421)|null|
+|**2025-09-10**|**InsFusion: Rethink Instance-level LiDAR-Camera Fusion for 3D Object Detection**|Zhongyu Xia et.al.|[2509.08374](http://arxiv.org/abs/2509.08374)|null|
+|**2025-09-10**|**Foundation Models for Autonomous Driving Perception: A Survey Through Core Capabilities**|Rajendramayavan Sathyam et.al.|[2509.08302](http://arxiv.org/abs/2509.08302)|null|
+|**2025-09-10**|**A Comprehensive Review of Reinforcement Learning for Autonomous Driving in the CARLA Simulator**|Elahe Delavari et.al.|[2509.08221](http://arxiv.org/abs/2509.08221)|null|
+|**2025-09-09**|**Mean Field Game-Based Interactive Trajectory Planning Using Physics-Inspired Unified Potential Fields**|Zhen Tian et.al.|[2509.08147](http://arxiv.org/abs/2509.08147)|null|
 |**2025-09-09**|**TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models**|Zongzheng Zhang et.al.|[2509.07962](http://arxiv.org/abs/2509.07962)|null|
 |**2025-09-09**|**Bias-Aware Machine Unlearning: Towards Fairer Vision Models via Controllable Forgetting**|Sai Siddhartha Chary Aylapuram et.al.|[2509.07456](http://arxiv.org/abs/2509.07456)|null|
 |**2025-09-09**|**Attention and Risk-Aware Decision Framework for Safe Autonomous Driving**|Zhen Tian et.al.|[2509.07412](http://arxiv.org/abs/2509.07412)|null|
@@ -202,6 +208,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-10**|**Too Helpful, Too Harmless, Too Honest or Just Right?**|Gautam Siddharth Kashyap et.al.|[2509.08486](http://arxiv.org/abs/2509.08486)|null|
+|**2025-09-10**|**Joint Learning using Mixture-of-Expert-Based Representation for Enhanced Speech Generation and Robust Emotion Recognition**|Jing-Tong Tzeng et.al.|[2509.08470](http://arxiv.org/abs/2509.08470)|null|
+|**2025-09-10**|**Accelerating Mixture-of-Expert Inference with Adaptive Expert Split Mechanism**|Jiaming Yan et.al.|[2509.08342](http://arxiv.org/abs/2509.08342)|null|
+|**2025-09-09**|**SciGPT: A Large Language Model for Scientific Literature Understanding and Knowledge Discovery**|Fengyu She et.al.|[2509.08032](http://arxiv.org/abs/2509.08032)|null|
 |**2025-09-09**|**One Model for All Tasks: Leveraging Efficient World Models in Multi-Task Planning**|Yuan Pu et.al.|[2509.07945](http://arxiv.org/abs/2509.07945)|null|
 |**2025-09-09**|**MoE-Compression: How the Compression Error of Experts Affects the Inference Accuracy of MoE Model?**|Songkai Ma et.al.|[2509.07727](http://arxiv.org/abs/2509.07727)|null|
 |**2025-09-09**|**DuoServe-MoE: Dual-Phase Expert Prefetch and Cache Scheduling for Efficient MoE LLM Inference**|Yuning Zhang et.al.|[2509.07379](http://arxiv.org/abs/2509.07379)|null|
@@ -236,6 +246,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-10**|**MAESTRO: Multi-modal Adaptive Ensemble for Spectro-Temporal Robust Optimization**|Hong Liu et.al.|[2509.08578](http://arxiv.org/abs/2509.08578)|null|
+|**2025-09-10**|**First-order State Space Model for Lightweight Image Super-resolution**|Yujie Zhu et.al.|[2509.08458](http://arxiv.org/abs/2509.08458)|null|
 |**2025-09-09**|**A kernel-based approach to physics-informed nonlinear system identification**|Cesare Donati et.al.|[2509.07634](http://arxiv.org/abs/2509.07634)|null|
 |**2025-09-07**|**Recursive State Inference for Linear PASFA**|Vishal Rishi et.al.|[2509.07028](http://arxiv.org/abs/2509.07028)|null|
 |**2025-09-06**|**Hyperbolic Large Language Models**|Sarang Patil et.al.|[2509.05757](http://arxiv.org/abs/2509.05757)|null|
@@ -266,6 +278,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-10**|**Beyond Distribution Shifts: Adaptive Hyperspectral Image Classification at Test Time**|Xia Yue et.al.|[2509.08436](http://arxiv.org/abs/2509.08436)|null|
+|**2025-09-09**|**GW250114: testing Hawking's area law and the Kerr nature of black holes**|The LIGO Scientific Collaboration et.al.|[2509.08054](http://arxiv.org/abs/2509.08054)|null|
 |**2025-09-02**|**Explainability-Driven Dimensionality Reduction for Hyperspectral Imaging**|Salma Haidar et.al.|[2509.02340](http://arxiv.org/abs/2509.02340)|null|
 |**2025-09-01**|**FantasyHSI: Video-Generation-Centric 4D Human Synthesis In Any Scene through A Graph-based Multi-Agent Framework**|Lingzhou Mu et.al.|[2509.01232](http://arxiv.org/abs/2509.01232)|null|
 |**2025-08-31**|**CSFMamba: Cross State Fusion Mamba Operator for Multimodal Remote Sensing Image Classification**|Qingyu Wang et.al.|[2509.00677](http://arxiv.org/abs/2509.00677)|null|
