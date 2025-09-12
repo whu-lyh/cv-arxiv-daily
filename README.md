@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-11**|**Listening for "You": Enhancing Speech Image Retrieval via Target Speaker Extraction**|Wenhao Yang et.al.|[2509.09306](http://arxiv.org/abs/2509.09306)|null|
 |**2025-09-09**|**Aerial-ground Cross-modal Localization: Dataset, Ground-truth, and Benchmark**|Yandi Yang et.al.|[2509.07362](http://arxiv.org/abs/2509.07362)|null|
 |**2025-09-08**|**Back To The Drawing Board: Rethinking Scene-Level Sketch-Based Image Retrieval**|Emil Demić et.al.|[2509.06566](http://arxiv.org/abs/2509.06566)|null|
 |**2025-09-06**|**Augmenting Human-Centered Racial Covenant Detection and Georeferencing with Plug-and-Play NLP Pipelines**|Jiyoon Pyo et.al.|[2509.05829](http://arxiv.org/abs/2509.05829)|null|
@@ -117,6 +118,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-11**|**MGTraj: Multi-Granularity Goal-Guided Human Trajectory Prediction with Recursive Refinement Network**|Ge Sun et.al.|[2509.09200](http://arxiv.org/abs/2509.09200)|null|
 |**2025-09-10**|**LD-ViCE: Latent Diffusion Model for Video Counterfactual Explanations**|Payal Varshney et.al.|[2509.08422](http://arxiv.org/abs/2509.08422)|null|
 |**2025-09-10**|**Sparse BEV Fusion with Self-View Consistency for Multi-View Detection and Tracking**|Keisuke Toida et.al.|[2509.08421](http://arxiv.org/abs/2509.08421)|null|
 |**2025-09-10**|**InsFusion: Rethink Instance-level LiDAR-Camera Fusion for 3D Object Detection**|Zhongyu Xia et.al.|[2509.08374](http://arxiv.org/abs/2509.08374)|null|
@@ -160,6 +162,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-11**|**ObjectReact: Learning Object-Relative Control for Visual Navigation**|Sourav Garg et.al.|[2509.09594](http://arxiv.org/abs/2509.09594)|null|
 |**2025-09-01**|**Hierarchical Motion Captioning Utilizing External Text Data Source**|Clayton Leite et.al.|[2509.01471](http://arxiv.org/abs/2509.01471)|null|
 |**2025-08-19**|**MMIS-Net for Retinal Fluid Segmentation and Detection**|Nchongmaje Ndipenocha et.al.|[2508.13936](http://arxiv.org/abs/2508.13936)|null|
 |**2025-08-03**|**DiffSemanticFusion: Semantic Raster BEV Fusion for Autonomous Driving via Online HD Map Diffusion**|Zhigang Sun et.al.|[2508.01778](http://arxiv.org/abs/2508.01778)|null|
@@ -208,6 +211,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-11**|**Steering MoE LLMs via Expert (De)Activation**|Mohsen Fayyaz et.al.|[2509.09660](http://arxiv.org/abs/2509.09660)|null|
+|**2025-09-11**|**HD-MoE: Hybrid and Dynamic Parallelism for Mixture-of-Expert LLMs with 3D Near-Memory Processing**|Haochen Huang et.al.|[2509.09420](http://arxiv.org/abs/2509.09420)|null|
+|**2025-09-11**|**MoLEx: Mixture of LoRA Experts in Speech Self-Supervised Models for Audio Deepfake Detection**|Zihan Pan et.al.|[2509.09175](http://arxiv.org/abs/2509.09175)|null|
+|**2025-09-11**|**Compass-v3: Scaling Domain-Specific LLMs for Multilingual E-Commerce in Southeast Asia**|Sophia Maria et.al.|[2509.09121](http://arxiv.org/abs/2509.09121)|null|
+|**2025-09-10**|**MoWE : A Mixture of Weather Experts**|Dibyajyoti Chakraborty et.al.|[2509.09052](http://arxiv.org/abs/2509.09052)|null|
 |**2025-09-10**|**Too Helpful, Too Harmless, Too Honest or Just Right?**|Gautam Siddharth Kashyap et.al.|[2509.08486](http://arxiv.org/abs/2509.08486)|null|
 |**2025-09-10**|**Joint Learning using Mixture-of-Expert-Based Representation for Enhanced Speech Generation and Robust Emotion Recognition**|Jing-Tong Tzeng et.al.|[2509.08470](http://arxiv.org/abs/2509.08470)|null|
 |**2025-09-10**|**Accelerating Mixture-of-Expert Inference with Adaptive Expert Split Mechanism**|Jiaming Yan et.al.|[2509.08342](http://arxiv.org/abs/2509.08342)|null|
@@ -278,6 +286,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-11**|**CWSSNet: Hyperspectral Image Classification Enhanced by Wavelet Domain Convolution**|Yulin Tong et.al.|[2509.09163](http://arxiv.org/abs/2509.09163)|null|
 |**2025-09-10**|**Beyond Distribution Shifts: Adaptive Hyperspectral Image Classification at Test Time**|Xia Yue et.al.|[2509.08436](http://arxiv.org/abs/2509.08436)|null|
 |**2025-09-09**|**GW250114: testing Hawking's area law and the Kerr nature of black holes**|The LIGO Scientific Collaboration et.al.|[2509.08054](http://arxiv.org/abs/2509.08054)|null|
 |**2025-09-02**|**Explainability-Driven Dimensionality Reduction for Hyperspectral Imaging**|Salma Haidar et.al.|[2509.02340](http://arxiv.org/abs/2509.02340)|null|
