@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.14
+## Updated on 2025.09.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -229,7 +229,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-10**|**MAESTRO: Multi-modal Adaptive Ensemble for Spectro-Temporal Robust Optimization**|Hong Liu et.al.|[2509.08578](http://arxiv.org/abs/2509.08578)|null|
+|**2025-09-12**|**MAESTRO: Multi-modal Adaptive Estimation for Temporal Respiratory Disease Outbreak**|Hong Liu et.al.|[2509.08578](http://arxiv.org/abs/2509.08578)|null|
 |**2025-09-10**|**First-order State Space Model for Lightweight Image Super-resolution**|Yujie Zhu et.al.|[2509.08458](http://arxiv.org/abs/2509.08458)|null|
 |**2025-09-09**|**A kernel-based approach to physics-informed nonlinear system identification**|Cesare Donati et.al.|[2509.07634](http://arxiv.org/abs/2509.07634)|null|
 |**2025-09-07**|**Recursive State Inference for Linear PASFA**|Vishal Rishi et.al.|[2509.07028](http://arxiv.org/abs/2509.07028)|null|
