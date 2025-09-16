@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.15
+## Updated on 2025.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -75,7 +75,7 @@ layout: default
 |**2025-09-09**|**DreamLifting: A Plug-in Module Lifting MV Diffusion Models for 3D Asset Generation**|Ze-Xin Yin et.al.|[2509.07435](http://arxiv.org/abs/2509.07435)|null|
 |**2025-09-07**|**MEGS $^{2}$ : Memory-Efficient Gaussian Splatting via Spherical Gaussians and Unified Pruning**|Jiarui Chen et.al.|[2509.07021](http://arxiv.org/abs/2509.07021)|null|
 |**2025-09-10**|**VIM-GS: Visual-Inertial Monocular Gaussian Splatting via Object-level Guidance in Large Scenes**|Shengkai Zhang et.al.|[2509.06685](http://arxiv.org/abs/2509.06685)|null|
-|**2025-09-08**|**Real-time Photorealistic Mapping for Situational Awareness in Robot Teleoperation**|Ian Page et.al.|[2509.06433](http://arxiv.org/abs/2509.06433)|null|
+|**2025-09-15**|**Real-time Photorealistic Mapping for Situational Awareness in Robot Teleoperation**|Ian Page et.al.|[2509.06433](http://arxiv.org/abs/2509.06433)|null|
 |**2025-09-08**|**3DOF+Quantization: 3DGS quantization for large scenes with limited Degrees of Freedom**|Matthieu Gendrin et.al.|[2509.06400](http://arxiv.org/abs/2509.06400)|null|
 |**2025-09-05**|**Visibility-Aware Language Aggregation for Open-Vocabulary Segmentation in 3D Gaussian Splatting**|Sen Wang et.al.|[2509.05515](http://arxiv.org/abs/2509.05515)|null|
 |**2025-09-05**|**Toward Distributed 3D Gaussian Splatting for High-Resolution Isosurface Visualization**|Mengjiao Han et.al.|[2509.05216](http://arxiv.org/abs/2509.05216)|null|
@@ -154,7 +154,7 @@ layout: default
 |**2025-08-19**|**MMIS-Net for Retinal Fluid Segmentation and Detection**|Nchongmaje Ndipenocha et.al.|[2508.13936](http://arxiv.org/abs/2508.13936)|null|
 |**2025-08-03**|**DiffSemanticFusion: Semantic Raster BEV Fusion for Autonomous Driving via Online HD Map Diffusion**|Zhigang Sun et.al.|[2508.01778](http://arxiv.org/abs/2508.01778)|null|
 |**2025-07-29**|**MapDiffusion: Generative Diffusion for Vectorized Online HD Map Construction and Uncertainty Estimation in Autonomous Driving**|Thomas Monninger et.al.|[2507.21423](http://arxiv.org/abs/2507.21423)|null|
-|**2025-07-28**|**RemixFusion: Residual-based Mixed Representation for Large-scale Online RGB-D Reconstruction**|Yuqing Lan et.al.|[2507.17594](http://arxiv.org/abs/2507.17594)|null|
+|**2025-09-15**|**RemixFusion: Residual-based Mixed Representation for Large-scale Online RGB-D Reconstruction**|Yuqing Lan et.al.|[2507.17594](http://arxiv.org/abs/2507.17594)|null|
 |**2025-07-15**|**Mapping Fusion: Improving FPGA Technology Mapping with ASIC Mapper**|Cunxi Yu et.al.|[2507.10912](http://arxiv.org/abs/2507.10912)|null|
 |**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662](http://arxiv.org/abs/2507.04662)|null|
 |**2025-07-11**|**Learning to Generate Vectorized Maps at Intersections with Multiple Roadside Cameras**|Quanxin Zheng et.al.|[2507.02899](http://arxiv.org/abs/2507.02899)|null|
@@ -203,7 +203,7 @@ layout: default
 |**2025-09-11**|**MoLEx: Mixture of LoRA Experts in Speech Self-Supervised Models for Audio Deepfake Detection**|Zihan Pan et.al.|[2509.09175](http://arxiv.org/abs/2509.09175)|null|
 |**2025-09-11**|**Compass-v3: Scaling Domain-Specific LLMs for Multilingual E-Commerce in Southeast Asia**|Sophia Maria et.al.|[2509.09121](http://arxiv.org/abs/2509.09121)|null|
 |**2025-09-10**|**MoWE : A Mixture of Weather Experts**|Dibyajyoti Chakraborty et.al.|[2509.09052](http://arxiv.org/abs/2509.09052)|null|
-|**2025-09-10**|**Too Helpful, Too Harmless, Too Honest or Just Right?**|Gautam Siddharth Kashyap et.al.|[2509.08486](http://arxiv.org/abs/2509.08486)|null|
+|**2025-09-15**|**Too Helpful, Too Harmless, Too Honest or Just Right?**|Gautam Siddharth Kashyap et.al.|[2509.08486](http://arxiv.org/abs/2509.08486)|null|
 |**2025-09-10**|**Joint Learning using Mixture-of-Expert-Based Representation for Enhanced Speech Generation and Robust Emotion Recognition**|Jing-Tong Tzeng et.al.|[2509.08470](http://arxiv.org/abs/2509.08470)|null|
 |**2025-09-10**|**Accelerating Mixture-of-Expert Inference with Adaptive Expert Split Mechanism**|Jiaming Yan et.al.|[2509.08342](http://arxiv.org/abs/2509.08342)|null|
 |**2025-09-09**|**SciGPT: A Large Language Model for Scientific Literature Understanding and Knowledge Discovery**|Fengyu She et.al.|[2509.08032](http://arxiv.org/abs/2509.08032)|null|
