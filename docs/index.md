@@ -9,9 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**DiffHash: Text-Guided Targeted Attack via Diffusion Models against Deep Hashing Image Retrieval**|Zechao Liu et.al.|[2509.12824](http://arxiv.org/abs/2509.12824)|null|
+|**2025-09-16**|**Ketto and the Science of Giving: A Data-Driven Investigation of Crowdfunding for India**|Karuna Chandra et.al.|[2509.12616](http://arxiv.org/abs/2509.12616)|null|
 |**2025-09-15**|**Bridging Vision Language Models and Symbolic Grounding for Video Question Answering**|Haodi Ma et.al.|[2509.11862](http://arxiv.org/abs/2509.11862)|null|
 |**2025-09-14**|**UnLoc: Leveraging Depth Uncertainties for Floorplan Localization**|Matthias Wüest et.al.|[2509.11301](http://arxiv.org/abs/2509.11301)|null|
-|**2025-09-12**|**A Stochastic Birth-and-Death Approach for Street Furniture Geolocation in Urban Environments**|Evan Murphy et.al.|[2509.10310](http://arxiv.org/abs/2509.10310)|null|
+|**2025-09-12**|**A Stochastic Birth-and-Death Approach for Street Furniture Geolocation in Urban Environments**|Evan Murphy et.al.|[2509.10310](http://arxiv.org/abs/2509.10310)|**[link](https://github.com/EMurphy0108/SBD_Street_Furniture)**|
 |**2025-09-11**|**Listening for "You": Enhancing Speech Image Retrieval via Target Speaker Extraction**|Wenhao Yang et.al.|[2509.09306](http://arxiv.org/abs/2509.09306)|null|
 |**2025-09-09**|**Aerial-ground Cross-modal Localization: Dataset, Ground-truth, and Benchmark**|Yandi Yang et.al.|[2509.07362](http://arxiv.org/abs/2509.07362)|null|
 |**2025-09-08**|**Back To The Drawing Board: Rethinking Scene-Level Sketch-Based Image Retrieval**|Emil Demić et.al.|[2509.06566](http://arxiv.org/abs/2509.06566)|null|
@@ -70,6 +72,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**Dream3DAvatar: Text-Controlled 3D Avatar Reconstruction from a Single Image**|Gaofeng Liu et.al.|[2509.13013](http://arxiv.org/abs/2509.13013)|null|
+|**2025-09-16**|**Beyond Averages: Open-Vocabulary 3D Scene Understanding with Gaussian Splatting and Bag of Embeddings**|Abdalla Arafa et.al.|[2509.12938](http://arxiv.org/abs/2509.12938)|null|
+|**2025-09-16**|**Effective Gaussian Management for High-fidelity Object Reconstruction**|Jiateng Liu et.al.|[2509.12742](http://arxiv.org/abs/2509.12742)|null|
 |**2025-09-15**|**Distributed 3D Gaussian Splatting for High-Resolution Isosurface Visualization**|Mengjiao Han et.al.|[2509.12138](http://arxiv.org/abs/2509.12138)|null|
 |**2025-09-15**|**Segmentation-Driven Initialization for Sparse-view 3D Gaussian Splatting**|Yi-Hsin Li et.al.|[2509.11853](http://arxiv.org/abs/2509.11853)|null|
 |**2025-09-15**|**A Controllable 3D Deepfake Generation Framework with Gaussian Splatting**|Wending Liu et.al.|[2509.11624](http://arxiv.org/abs/2509.11624)|null|
@@ -114,6 +119,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**Road Obstacle Video Segmentation**|Shyam Nandan Rai et.al.|[2509.13181](http://arxiv.org/abs/2509.13181)|null|
+|**2025-09-16**|**TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving**|Jiawei Wang et.al.|[2509.13164](http://arxiv.org/abs/2509.13164)|null|
+|**2025-09-16**|**An Uncertainty-Weighted Decision Transformer for Navigation in Dense, Complex Driving Scenarios**|Zhihao Zhang et.al.|[2509.13132](http://arxiv.org/abs/2509.13132)|null|
+|**2025-09-16**|**Weakly and Self-Supervised Class-Agnostic Motion Prediction for Autonomous Driving**|Ruibo Li et.al.|[2509.13116](http://arxiv.org/abs/2509.13116)|null|
+|**2025-09-16**|**4DRadar-GS: Self-Supervised Dynamic Driving Scene Reconstruction with 4D Radar**|Xiao Tang et.al.|[2509.12931](http://arxiv.org/abs/2509.12931)|null|
+|**2025-09-16**|**StereoCarla: A High-Fidelity Driving Dataset for Generalizable Stereo**|Xianda Guo et.al.|[2509.12683](http://arxiv.org/abs/2509.12683)|null|
+|**2025-09-16**|**Maps for Autonomous Driving: Full-process Survey and Frontiers**|Pengxin Chen et.al.|[2509.12632](http://arxiv.org/abs/2509.12632)|null|
+|**2025-09-16**|**DisorientLiDAR: Physical Attacks on LiDAR-based Localization**|Yizhen Lao et.al.|[2509.12595](http://arxiv.org/abs/2509.12595)|null|
 |**2025-09-15**|**Approaches to Analysis and Design of AI-Based Autonomous Vehicles**|Tao Yan et.al.|[2509.12169](http://arxiv.org/abs/2509.12169)|null|
 |**2025-09-15**|**Embodied Navigation Foundation Model**|Jiazhao Zhang et.al.|[2509.12129](http://arxiv.org/abs/2509.12129)|null|
 |**2025-09-15**|**Probabilistic Robustness Analysis in High Dimensional Space: Application to Semantic Segmentation Network**|Navid Hashemi et.al.|[2509.11838](http://arxiv.org/abs/2509.11838)|null|
@@ -167,6 +180,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**Maps for Autonomous Driving: Full-process Survey and Frontiers**|Pengxin Chen et.al.|[2509.12632](http://arxiv.org/abs/2509.12632)|null|
 |**2025-09-15**|**Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing**|Bingyu Li et.al.|[2509.12040](http://arxiv.org/abs/2509.12040)|null|
 |**2025-09-11**|**ObjectReact: Learning Object-Relative Control for Visual Navigation**|Sourav Garg et.al.|[2509.09594](http://arxiv.org/abs/2509.09594)|null|
 |**2025-09-01**|**Hierarchical Motion Captioning Utilizing External Text Data Source**|Clayton Leite et.al.|[2509.01471](http://arxiv.org/abs/2509.01471)|null|
@@ -213,6 +227,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**GLAD: Global-Local Aware Dynamic Mixture-of-Experts for Multi-Talker ASR**|Yujie Guo et.al.|[2509.13093](http://arxiv.org/abs/2509.13093)|null|
+|**2025-09-16**|**Dual-Stage Reweighted MoE for Long-Tailed Egocentric Mistake Detection**|Boyu Han et.al.|[2509.12990](http://arxiv.org/abs/2509.12990)|null|
+|**2025-09-16**|**Bridging Perception and Planning: Towards End-to-End Planning for Signal Temporal Logic Tasks**|Bowen Ye et.al.|[2509.12813](http://arxiv.org/abs/2509.12813)|null|
+|**2025-09-16**|**MEGAN: Mixture of Experts for Robust Uncertainty Estimation in Endoscopy Videos**|Damola Agbelese et.al.|[2509.12772](http://arxiv.org/abs/2509.12772)|null|
+|**2025-09-16**|**NavMoE: Hybrid Model- and Learning-based Traversability Estimation for Local Navigation via Mixture of Experts**|Botao He et.al.|[2509.12747](http://arxiv.org/abs/2509.12747)|null|
+|**2025-09-16**|**AsyMoE: Leveraging Modal Asymmetry for Enhanced Expert Specialization in Large Vision-Language Models**|Heng Zhang et.al.|[2509.12715](http://arxiv.org/abs/2509.12715)|null|
+|**2025-09-16**|**Ensembling Large Language Models for Code Vulnerability Detection: An Empirical Evaluation**|Zhihong Sun et.al.|[2509.12629](http://arxiv.org/abs/2509.12629)|null|
+|**2025-09-15**|**A high fraction of close massive binary stars at low metallicity**|H. Sana et.al.|[2509.12488](http://arxiv.org/abs/2509.12488)|null|
 |**2025-09-16**|**When MoE Meets Blockchain: A Trustworthy Distributed Framework of Large Models**|Weihao Zhu et.al.|[2509.12141](http://arxiv.org/abs/2509.12141)|null|
 |**2025-09-15**|**Dynamic Adaptive Parsing of Temporal and Cross-Variable Patterns for Network State Classification**|Yuan Gao et.al.|[2509.11601](http://arxiv.org/abs/2509.11601)|null|
 |**2025-09-15**|**RadioLAM: A Large AI Model for Fine-Grained 3D Radio Map Estimation**|Zhiyuan Liu et.al.|[2509.11571](http://arxiv.org/abs/2509.11571)|null|
@@ -265,6 +287,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**Multivariate Low-Rank State-Space Model with SPDE Approach for High-Dimensional Data**|Jacopo Rodeschini et.al.|[2509.12825](http://arxiv.org/abs/2509.12825)|null|
 |**2025-09-15**|**U-Mamba2: Scaling State Space Models for Dental Anatomy Segmentation in CBCT**|Zhi Qin Tan et.al.|[2509.12069](http://arxiv.org/abs/2509.12069)|null|
 |**2025-09-15**|**AvatarSync: Rethinking Talking-Head Animation through Autoregressive Perspective**|Yuchen Deng et.al.|[2509.12052](http://arxiv.org/abs/2509.12052)|null|
 |**2025-09-15**|**Joint-octamamba:an octa joint segmentation network based on feature enhanced mamba**|Chuang Liu et.al.|[2509.11649](http://arxiv.org/abs/2509.11649)|null|
@@ -301,6 +324,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**Curriculum Multi-Task Self-Supervision Improves Lightweight Architectures for Onboard Satellite Hyperspectral Image Segmentation**|Hugo Carlesso et.al.|[2509.13229](http://arxiv.org/abs/2509.13229)|null|
 |**2025-09-15**|**Progressive Flow-inspired Unfolding for Spectral Compressive Imaging**|Xiaodong Wang et.al.|[2509.12079](http://arxiv.org/abs/2509.12079)|null|
 |**2025-09-12**|**USCTNet: A deep unfolding nuclear-norm optimization solver for physically consistent HSI reconstruction**|Xiaoyang Ma et.al.|[2509.10651](http://arxiv.org/abs/2509.10651)|null|
 |**2025-09-12**|**Nanosculpting lateral weak link junctions in superconducting Fe(Te,Se)/Bi2Te3 with focused Si++ ions and implications on vortex pinning**|Debarghya Mallick et.al.|[2509.10606](http://arxiv.org/abs/2509.10606)|null|
