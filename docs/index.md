@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.16
+## Updated on 2025.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-15**|**Bridging Vision Language Models and Symbolic Grounding for Video Question Answering**|Haodi Ma et.al.|[2509.11862](http://arxiv.org/abs/2509.11862)|null|
 |**2025-09-14**|**UnLoc: Leveraging Depth Uncertainties for Floorplan Localization**|Matthias Wüest et.al.|[2509.11301](http://arxiv.org/abs/2509.11301)|null|
-|**2025-09-12**|**A Stochastic Birth-and-Death Approach for Street Furniture Geolocation in Urban Environments**|Evan Murphy et.al.|[2509.10310](http://arxiv.org/abs/2509.10310)|**[link](https://github.com/EMurphy0108/SBD_Street_Furniture)**|
+|**2025-09-12**|**A Stochastic Birth-and-Death Approach for Street Furniture Geolocation in Urban Environments**|Evan Murphy et.al.|[2509.10310](http://arxiv.org/abs/2509.10310)|null|
 |**2025-09-11**|**Listening for "You": Enhancing Speech Image Retrieval via Target Speaker Extraction**|Wenhao Yang et.al.|[2509.09306](http://arxiv.org/abs/2509.09306)|null|
 |**2025-09-09**|**Aerial-ground Cross-modal Localization: Dataset, Ground-truth, and Benchmark**|Yandi Yang et.al.|[2509.07362](http://arxiv.org/abs/2509.07362)|null|
 |**2025-09-08**|**Back To The Drawing Board: Rethinking Scene-Level Sketch-Based Image Retrieval**|Emil Demić et.al.|[2509.06566](http://arxiv.org/abs/2509.06566)|null|
@@ -213,7 +213,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-15**|**When MoE Meets Blockchain: A Trustworthy Distributed Framework of Large Models**|Weihao Zhu et.al.|[2509.12141](http://arxiv.org/abs/2509.12141)|null|
+|**2025-09-16**|**When MoE Meets Blockchain: A Trustworthy Distributed Framework of Large Models**|Weihao Zhu et.al.|[2509.12141](http://arxiv.org/abs/2509.12141)|null|
 |**2025-09-15**|**Dynamic Adaptive Parsing of Temporal and Cross-Variable Patterns for Network State Classification**|Yuan Gao et.al.|[2509.11601](http://arxiv.org/abs/2509.11601)|null|
 |**2025-09-15**|**RadioLAM: A Large AI Model for Fine-Grained 3D Radio Map Estimation**|Zhiyuan Liu et.al.|[2509.11571](http://arxiv.org/abs/2509.11571)|null|
 |**2025-09-14**|**Knowledge-Guided Adaptive Mixture of Experts for Precipitation Prediction**|Chen Jiang et.al.|[2509.11459](http://arxiv.org/abs/2509.11459)|null|
