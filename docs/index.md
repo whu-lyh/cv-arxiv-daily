@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.09.17
+## Updated on 2025.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-16**|**DiffHash: Text-Guided Targeted Attack via Diffusion Models against Deep Hashing Image Retrieval**|Zechao Liu et.al.|[2509.12824](http://arxiv.org/abs/2509.12824)|null|
+|**2025-09-17**|**DiffHash: Text-Guided Targeted Attack via Diffusion Models against Deep Hashing Image Retrieval**|Zechao Liu et.al.|[2509.12824](http://arxiv.org/abs/2509.12824)|null|
 |**2025-09-16**|**Ketto and the Science of Giving: A Data-Driven Investigation of Crowdfunding for India**|Karuna Chandra et.al.|[2509.12616](http://arxiv.org/abs/2509.12616)|null|
 |**2025-09-15**|**Bridging Vision Language Models and Symbolic Grounding for Video Question Answering**|Haodi Ma et.al.|[2509.11862](http://arxiv.org/abs/2509.11862)|null|
 |**2025-09-14**|**UnLoc: Leveraging Depth Uncertainties for Floorplan Localization**|Matthias Wüest et.al.|[2509.11301](http://arxiv.org/abs/2509.11301)|null|
@@ -120,7 +120,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-16**|**Road Obstacle Video Segmentation**|Shyam Nandan Rai et.al.|[2509.13181](http://arxiv.org/abs/2509.13181)|null|
-|**2025-09-16**|**TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving**|Jiawei Wang et.al.|[2509.13164](http://arxiv.org/abs/2509.13164)|null|
+|**2025-09-17**|**TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving**|Jiawei Wang et.al.|[2509.13164](http://arxiv.org/abs/2509.13164)|null|
 |**2025-09-16**|**An Uncertainty-Weighted Decision Transformer for Navigation in Dense, Complex Driving Scenarios**|Zhihao Zhang et.al.|[2509.13132](http://arxiv.org/abs/2509.13132)|null|
 |**2025-09-16**|**Weakly and Self-Supervised Class-Agnostic Motion Prediction for Autonomous Driving**|Ruibo Li et.al.|[2509.13116](http://arxiv.org/abs/2509.13116)|null|
 |**2025-09-16**|**4DRadar-GS: Self-Supervised Dynamic Driving Scene Reconstruction with 4D Radar**|Xiao Tang et.al.|[2509.12931](http://arxiv.org/abs/2509.12931)|null|
@@ -128,13 +128,13 @@ layout: default
 |**2025-09-16**|**Maps for Autonomous Driving: Full-process Survey and Frontiers**|Pengxin Chen et.al.|[2509.12632](http://arxiv.org/abs/2509.12632)|null|
 |**2025-09-16**|**DisorientLiDAR: Physical Attacks on LiDAR-based Localization**|Yizhen Lao et.al.|[2509.12595](http://arxiv.org/abs/2509.12595)|null|
 |**2025-09-15**|**Approaches to Analysis and Design of AI-Based Autonomous Vehicles**|Tao Yan et.al.|[2509.12169](http://arxiv.org/abs/2509.12169)|null|
-|**2025-09-15**|**Embodied Navigation Foundation Model**|Jiazhao Zhang et.al.|[2509.12129](http://arxiv.org/abs/2509.12129)|null|
+|**2025-09-16**|**Embodied Navigation Foundation Model**|Jiazhao Zhang et.al.|[2509.12129](http://arxiv.org/abs/2509.12129)|null|
 |**2025-09-15**|**Probabilistic Robustness Analysis in High Dimensional Space: Application to Semantic Segmentation Network**|Navid Hashemi et.al.|[2509.11838](http://arxiv.org/abs/2509.11838)|null|
 |**2025-09-15**|**HeLoFusion: An Efficient and Scalable Encoder for Modeling Heterogeneous and Multi-Scale Interactions in Trajectory Prediction**|Bingqing Wei et.al.|[2509.11719](http://arxiv.org/abs/2509.11719)|null|
 |**2025-09-14**|**SPHERE: Semantic-PHysical Engaged REpresentation for 3D Semantic Scene Completion**|Zhiwen Yang et.al.|[2509.11171](http://arxiv.org/abs/2509.11171)|null|
 |**2025-09-13**|**Point-Plane Projections for Accurate LiDAR Semantic Segmentation in Small Data Scenarios**|Simone Mosco et.al.|[2509.10841](http://arxiv.org/abs/2509.10841)|null|
 |**2025-09-11**|**Large Foundation Models for Trajectory Prediction in Autonomous Driving: A Comprehensive Survey**|Wei Dai et.al.|[2509.10570](http://arxiv.org/abs/2509.10570)|null|
-|**2025-09-12**|**DECAMP: Towards Scene-Consistent Multi-Agent Motion Prediction with Disentangled Context-Aware Pre-Training**|Jianxin Shi et.al.|[2509.10426](http://arxiv.org/abs/2509.10426)|null|
+|**2025-09-17**|**DECAMP: Towards Scene-Consistent Multi-Agent Motion Prediction with Disentangled Context-Aware Pre-Training**|Jianxin Shi et.al.|[2509.10426](http://arxiv.org/abs/2509.10426)|null|
 |**2025-09-12**|**Multimodal SAM-adapter for Semantic Segmentation**|Iacopo Curti et.al.|[2509.10408](http://arxiv.org/abs/2509.10408)|null|
 |**2025-09-12**|**CaR1: A Multi-Modal Baseline for BEV Vehicle Segmentation via Camera-Radar Fusion**|Santiago Montiel-Marín et.al.|[2509.10139](http://arxiv.org/abs/2509.10139)|null|
 |**2025-09-12**|**BEVTraj: Map-Free End-to-End Trajectory Prediction in Bird's-Eye View with Deformable Attention and Sparse Goal Proposals**|Minsang Kong et.al.|[2509.10080](http://arxiv.org/abs/2509.10080)|null|
@@ -231,7 +231,7 @@ layout: default
 |**2025-09-16**|**Dual-Stage Reweighted MoE for Long-Tailed Egocentric Mistake Detection**|Boyu Han et.al.|[2509.12990](http://arxiv.org/abs/2509.12990)|null|
 |**2025-09-16**|**Bridging Perception and Planning: Towards End-to-End Planning for Signal Temporal Logic Tasks**|Bowen Ye et.al.|[2509.12813](http://arxiv.org/abs/2509.12813)|null|
 |**2025-09-16**|**MEGAN: Mixture of Experts for Robust Uncertainty Estimation in Endoscopy Videos**|Damola Agbelese et.al.|[2509.12772](http://arxiv.org/abs/2509.12772)|null|
-|**2025-09-16**|**NavMoE: Hybrid Model- and Learning-based Traversability Estimation for Local Navigation via Mixture of Experts**|Botao He et.al.|[2509.12747](http://arxiv.org/abs/2509.12747)|null|
+|**2025-09-17**|**NavMoE: Hybrid Model- and Learning-based Traversability Estimation for Local Navigation via Mixture of Experts**|Botao He et.al.|[2509.12747](http://arxiv.org/abs/2509.12747)|null|
 |**2025-09-16**|**AsyMoE: Leveraging Modal Asymmetry for Enhanced Expert Specialization in Large Vision-Language Models**|Heng Zhang et.al.|[2509.12715](http://arxiv.org/abs/2509.12715)|null|
 |**2025-09-16**|**Ensembling Large Language Models for Code Vulnerability Detection: An Empirical Evaluation**|Zhihong Sun et.al.|[2509.12629](http://arxiv.org/abs/2509.12629)|null|
 |**2025-09-15**|**A high fraction of close massive binary stars at low metallicity**|H. Sana et.al.|[2509.12488](http://arxiv.org/abs/2509.12488)|null|
