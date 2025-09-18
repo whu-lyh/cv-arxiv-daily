@@ -9,11 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-17**|**CSMoE: An Efficient Remote Sensing Foundation Model with Soft Mixture-of-Experts**|Leonard Hackel et.al.|[2509.14104](http://arxiv.org/abs/2509.14104)|null|
+|**2025-09-16**|**Semantic-Enhanced Cross-Modal Place Recognition for Robust Robot Localization**|Yujia Lin et.al.|[2509.13474](http://arxiv.org/abs/2509.13474)|null|
+|**2025-09-16**|**MapAnything: Universal Feed-Forward Metric 3D Reconstruction**|Nikhil Keetha et.al.|[2509.13414](http://arxiv.org/abs/2509.13414)|**[link](https://github.com/facebookresearch/map-anything)**|
 |**2025-09-17**|**DiffHash: Text-Guided Targeted Attack via Diffusion Models against Deep Hashing Image Retrieval**|Zechao Liu et.al.|[2509.12824](http://arxiv.org/abs/2509.12824)|null|
 |**2025-09-16**|**Ketto and the Science of Giving: A Data-Driven Investigation of Crowdfunding for India**|Karuna Chandra et.al.|[2509.12616](http://arxiv.org/abs/2509.12616)|null|
 |**2025-09-15**|**Bridging Vision Language Models and Symbolic Grounding for Video Question Answering**|Haodi Ma et.al.|[2509.11862](http://arxiv.org/abs/2509.11862)|null|
 |**2025-09-14**|**UnLoc: Leveraging Depth Uncertainties for Floorplan Localization**|Matthias Wüest et.al.|[2509.11301](http://arxiv.org/abs/2509.11301)|null|
-|**2025-09-12**|**A Stochastic Birth-and-Death Approach for Street Furniture Geolocation in Urban Environments**|Evan Murphy et.al.|[2509.10310](http://arxiv.org/abs/2509.10310)|**[link](https://github.com/EMurphy0108/SBD_Street_Furniture)**|
+|**2025-09-12**|**A Stochastic Birth-and-Death Approach for Street Furniture Geolocation in Urban Environments**|Evan Murphy et.al.|[2509.10310](http://arxiv.org/abs/2509.10310)|null|
 |**2025-09-11**|**Listening for "You": Enhancing Speech Image Retrieval via Target Speaker Extraction**|Wenhao Yang et.al.|[2509.09306](http://arxiv.org/abs/2509.09306)|null|
 |**2025-09-09**|**Aerial-ground Cross-modal Localization: Dataset, Ground-truth, and Benchmark**|Yandi Yang et.al.|[2509.07362](http://arxiv.org/abs/2509.07362)|null|
 |**2025-09-08**|**Back To The Drawing Board: Rethinking Scene-Level Sketch-Based Image Retrieval**|Emil Demić et.al.|[2509.06566](http://arxiv.org/abs/2509.06566)|null|
@@ -72,6 +75,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-17**|**MCGS-SLAM: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping**|Zhihao Cao et.al.|[2509.14191](http://arxiv.org/abs/2509.14191)|null|
+|**2025-09-17**|**Plug-and-Play PDE Optimization for 3D Gaussian Splatting: Toward High-Quality Rendering and Reconstruction**|Yifan Mo et.al.|[2509.13938](http://arxiv.org/abs/2509.13938)|null|
+|**2025-09-17**|**LamiGauss: Pitching Radiative Gaussian for Sparse-View X-ray Laminography Reconstruction**|Chu Chen et.al.|[2509.13863](http://arxiv.org/abs/2509.13863)|null|
+|**2025-09-16**|**MemGS: Memory-Efficient Gaussian Splatting for Real-Time SLAM**|Yinlong Bai et.al.|[2509.13536](http://arxiv.org/abs/2509.13536)|null|
+|**2025-09-16**|**Improving 3D Gaussian Splatting Compression by Scene-Adaptive Lattice Vector Quantization**|Hao Xu et.al.|[2509.13482](http://arxiv.org/abs/2509.13482)|null|
 |**2025-09-16**|**Dream3DAvatar: Text-Controlled 3D Avatar Reconstruction from a Single Image**|Gaofeng Liu et.al.|[2509.13013](http://arxiv.org/abs/2509.13013)|null|
 |**2025-09-16**|**Beyond Averages: Open-Vocabulary 3D Scene Understanding with Gaussian Splatting and Bag of Embeddings**|Abdalla Arafa et.al.|[2509.12938](http://arxiv.org/abs/2509.12938)|null|
 |**2025-09-16**|**Effective Gaussian Management for High-fidelity Object Reconstruction**|Jiateng Liu et.al.|[2509.12742](http://arxiv.org/abs/2509.12742)|null|
@@ -119,6 +127,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-17**|**MCGS-SLAM: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping**|Zhihao Cao et.al.|[2509.14191](http://arxiv.org/abs/2509.14191)|null|
+|**2025-09-17**|**BEVUDA++: Geometric-aware Unsupervised Domain Adaptation for Multi-View 3D Object Detection**|Rongyu Zhang et.al.|[2509.14151](http://arxiv.org/abs/2509.14151)|null|
+|**2025-09-17**|**SEG-Parking: Towards Safe, Efficient, and Generalizable Autonomous Parking via End-to-End Offline Reinforcement Learning**|Zewei Yang et.al.|[2509.13956](http://arxiv.org/abs/2509.13956)|null|
+|**2025-09-17**|**MAP: End-to-End Autonomous Driving with Map-Assisted Planning**|Huilin Yin et.al.|[2509.13926](http://arxiv.org/abs/2509.13926)|null|
+|**2025-09-17**|**Ensemble of Pre-Trained Models for Long-Tailed Trajectory Prediction**|Divya Thuremella et.al.|[2509.13914](http://arxiv.org/abs/2509.13914)|null|
+|**2025-09-17**|**Data-Efficient Spectral Classification of Hyperspectral Data Using MiniROCKET and HDC-MiniROCKET**|Nick Theisen et.al.|[2509.13809](http://arxiv.org/abs/2509.13809)|null|
+|**2025-09-17**|**AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving**|Yuechen Luo et.al.|[2509.13769](http://arxiv.org/abs/2509.13769)|null|
+|**2025-09-17**|**UM-Depth : Uncertainty Masked Self-Supervised Monocular Depth Estimation with Visual Odometry**|Tae-Wook Um et.al.|[2509.13713](http://arxiv.org/abs/2509.13713)|null|
+|**2025-09-17**|**FishBEV: Distortion-Resilient Bird's Eye View Segmentation with Surround-View Fisheye Cameras**|Hang Li et.al.|[2509.13681](http://arxiv.org/abs/2509.13681)|null|
+|**2025-09-16**|**TreeIRL: Safe Urban Driving with Tree Search and Inverse Reinforcement Learning**|Momchil S. Tomov et.al.|[2509.13579](http://arxiv.org/abs/2509.13579)|null|
+|**2025-09-16**|**Adversarial Appearance Learning in Augmented Cityscapes for Pedestrian Recognition in Autonomous Driving**|Artem Savkin et.al.|[2509.13507](http://arxiv.org/abs/2509.13507)|null|
 |**2025-09-16**|**Road Obstacle Video Segmentation**|Shyam Nandan Rai et.al.|[2509.13181](http://arxiv.org/abs/2509.13181)|null|
 |**2025-09-17**|**TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving**|Jiawei Wang et.al.|[2509.13164](http://arxiv.org/abs/2509.13164)|null|
 |**2025-09-16**|**An Uncertainty-Weighted Decision Transformer for Navigation in Dense, Complex Driving Scenarios**|Zhihao Zhang et.al.|[2509.13132](http://arxiv.org/abs/2509.13132)|null|
@@ -180,6 +199,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-17**|**FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph**|Xiaolin Zhou et.al.|[2509.13733](http://arxiv.org/abs/2509.13733)|null|
 |**2025-09-16**|**Maps for Autonomous Driving: Full-process Survey and Frontiers**|Pengxin Chen et.al.|[2509.12632](http://arxiv.org/abs/2509.12632)|null|
 |**2025-09-15**|**Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing**|Bingyu Li et.al.|[2509.12040](http://arxiv.org/abs/2509.12040)|null|
 |**2025-09-11**|**ObjectReact: Learning Object-Relative Control for Visual Navigation**|Sourav Garg et.al.|[2509.09594](http://arxiv.org/abs/2509.09594)|null|
@@ -227,6 +247,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-17**|**CSMoE: An Efficient Remote Sensing Foundation Model with Soft Mixture-of-Experts**|Leonard Hackel et.al.|[2509.14104](http://arxiv.org/abs/2509.14104)|null|
+|**2025-09-17**|**SAIL-VL2 Technical Report**|Weijie Yin et.al.|[2509.14033](http://arxiv.org/abs/2509.14033)|null|
+|**2025-09-17**|**Mixture of Low-Rank Adapter Experts in Generalizable Audio Deepfake Detection**|Janne Laakkonen et.al.|[2509.13878](http://arxiv.org/abs/2509.13878)|null|
+|**2025-09-17**|**Semi-MoE: Mixture-of-Experts meets Semi-Supervised Histopathology Segmentation**|Nguyen Lan Vi Vu et.al.|[2509.13834](http://arxiv.org/abs/2509.13834)|null|
+|**2025-09-16**|**Field of View Enhanced Signal Dependent Binauralization with Mixture of Experts Framework for Continuous Source Motion**|Manan Mittal et.al.|[2509.13548](http://arxiv.org/abs/2509.13548)|null|
 |**2025-09-16**|**GLAD: Global-Local Aware Dynamic Mixture-of-Experts for Multi-Talker ASR**|Yujie Guo et.al.|[2509.13093](http://arxiv.org/abs/2509.13093)|null|
 |**2025-09-16**|**Dual-Stage Reweighted MoE for Long-Tailed Egocentric Mistake Detection**|Boyu Han et.al.|[2509.12990](http://arxiv.org/abs/2509.12990)|null|
 |**2025-09-16**|**Bridging Perception and Planning: Towards End-to-End Planning for Signal Temporal Logic Tasks**|Bowen Ye et.al.|[2509.12813](http://arxiv.org/abs/2509.12813)|null|
@@ -287,6 +312,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-17**|**Classification Filtering**|Ilker Bayram et.al.|[2509.13975](http://arxiv.org/abs/2509.13975)|null|
+|**2025-09-17**|**Pre-Manipulation Alignment Prediction with Parallel Deep State-Space and Transformer Models**|Motonari Kambara et.al.|[2509.13839](http://arxiv.org/abs/2509.13839)|null|
+|**2025-09-17**|**CETUS: Causal Event-Driven Temporal Modeling With Unified Variable-Rate Scheduling**|Hanfang Liang et.al.|[2509.13784](http://arxiv.org/abs/2509.13784)|null|
+|**2025-09-17**|**State Space Models over Directed Graphs**|Junzhi She et.al.|[2509.13735](http://arxiv.org/abs/2509.13735)|null|
 |**2025-09-16**|**Multivariate Low-Rank State-Space Model with SPDE Approach for High-Dimensional Data**|Jacopo Rodeschini et.al.|[2509.12825](http://arxiv.org/abs/2509.12825)|null|
 |**2025-09-15**|**U-Mamba2: Scaling State Space Models for Dental Anatomy Segmentation in CBCT**|Zhi Qin Tan et.al.|[2509.12069](http://arxiv.org/abs/2509.12069)|null|
 |**2025-09-15**|**AvatarSync: Rethinking Talking-Head Animation through Autoregressive Perspective**|Yuchen Deng et.al.|[2509.12052](http://arxiv.org/abs/2509.12052)|null|
