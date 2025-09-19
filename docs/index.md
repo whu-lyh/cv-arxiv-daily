@@ -9,9 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**PRISM: Product Retrieval In Shopping Carts using Hybrid Matching**|Arda Kabadayi et.al.|[2509.14985](http://arxiv.org/abs/2509.14985)|null|
+|**2025-09-18**|**Chain-of-Thought Re-ranking for Image Retrieval Tasks**|Shangrong Wu et.al.|[2509.14746](http://arxiv.org/abs/2509.14746)|**[link](https://github.com/freshfish15/CoTRR)**|
+|**2025-09-18**|**DiffVL: Diffusion-Based Visual Localization on 2D Maps via BEV-Conditioned GPS Denoising**|Li Gao et.al.|[2509.14565](http://arxiv.org/abs/2509.14565)|null|
+|**2025-09-18**|**Event-LAB: Towards Standardized Evaluation of Neuromorphic Localization Methods**|Adam D. Hines et.al.|[2509.14516](http://arxiv.org/abs/2509.14516)|null|
+|**2025-09-17**|**Hashing-Baseline: Rethinking Hashing in the Age of Pretrained Models**|Ilyass Moummad et.al.|[2509.14427](http://arxiv.org/abs/2509.14427)|**[link](https://github.com/ilyassmoummad/hashing-baseline)**|
 |**2025-09-17**|**CSMoE: An Efficient Remote Sensing Foundation Model with Soft Mixture-of-Experts**|Leonard Hackel et.al.|[2509.14104](http://arxiv.org/abs/2509.14104)|null|
 |**2025-09-16**|**Semantic-Enhanced Cross-Modal Place Recognition for Robust Robot Localization**|Yujia Lin et.al.|[2509.13474](http://arxiv.org/abs/2509.13474)|null|
-|**2025-09-16**|**MapAnything: Universal Feed-Forward Metric 3D Reconstruction**|Nikhil Keetha et.al.|[2509.13414](http://arxiv.org/abs/2509.13414)|**[link](https://github.com/facebookresearch/map-anything)**|
+|**2025-09-16**|**MapAnything: Universal Feed-Forward Metric 3D Reconstruction**|Nikhil Keetha et.al.|[2509.13414](http://arxiv.org/abs/2509.13414)|null|
 |**2025-09-17**|**DiffHash: Text-Guided Targeted Attack via Diffusion Models against Deep Hashing Image Retrieval**|Zechao Liu et.al.|[2509.12824](http://arxiv.org/abs/2509.12824)|null|
 |**2025-09-16**|**Ketto and the Science of Giving: A Data-Driven Investigation of Crowdfunding for India**|Karuna Chandra et.al.|[2509.12616](http://arxiv.org/abs/2509.12616)|null|
 |**2025-09-15**|**Bridging Vision Language Models and Symbolic Grounding for Video Question Answering**|Haodi Ma et.al.|[2509.11862](http://arxiv.org/abs/2509.11862)|null|
@@ -75,6 +80,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**FMGS-Avatar: Mesh-Guided 2D Gaussian Splatting with Foundation Model Priors for 3D Monocular Avatar Reconstruction**|Jinlong Fan et.al.|[2509.14739](http://arxiv.org/abs/2509.14739)|null|
+|**2025-09-18**|**RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI**|Cong Tai et.al.|[2509.14687](http://arxiv.org/abs/2509.14687)|null|
+|**2025-09-17**|**Perception-Integrated Safety Critical Control via Analytic Collision Cone Barrier Functions on 3D Gaussian Splatting**|Dario Tscholl et.al.|[2509.14421](http://arxiv.org/abs/2509.14421)|null|
 |**2025-09-17**|**MCGS-SLAM: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping**|Zhihao Cao et.al.|[2509.14191](http://arxiv.org/abs/2509.14191)|null|
 |**2025-09-17**|**Plug-and-Play PDE Optimization for 3D Gaussian Splatting: Toward High-Quality Rendering and Reconstruction**|Yifan Mo et.al.|[2509.13938](http://arxiv.org/abs/2509.13938)|null|
 |**2025-09-17**|**LamiGauss: Pitching Radiative Gaussian for Sparse-View X-ray Laminography Reconstruction**|Chu Chen et.al.|[2509.13863](http://arxiv.org/abs/2509.13863)|null|
@@ -127,6 +135,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**Out-of-Sight Trajectories: Tracking, Fusion, and Prediction**|Haichao Zhang et.al.|[2509.15219](http://arxiv.org/abs/2509.15219)|null|
+|**2025-09-18**|**Digital Twin-based Cooperative Autonomous Driving in Smart Intersections: A Multi-Agent Reinforcement Learning Approach**|Taoyuan Yu et.al.|[2509.15099](http://arxiv.org/abs/2509.15099)|null|
+|**2025-09-18**|**Feature-aligned Motion Transformation for Efficient Dynamic Point Cloud Compression**|Xuan Deng et.al.|[2509.14591](http://arxiv.org/abs/2509.14591)|null|
+|**2025-09-18**|**DiffVL: Diffusion-Based Visual Localization on 2D Maps via BEV-Conditioned GPS Denoising**|Li Gao et.al.|[2509.14565](http://arxiv.org/abs/2509.14565)|null|
+|**2025-09-17**|**FlowDrive: Energy Flow Field for End-to-End Autonomous Driving**|Hao Jiang et.al.|[2509.14303](http://arxiv.org/abs/2509.14303)|null|
 |**2025-09-17**|**MCGS-SLAM: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping**|Zhihao Cao et.al.|[2509.14191](http://arxiv.org/abs/2509.14191)|null|
 |**2025-09-17**|**BEVUDA++: Geometric-aware Unsupervised Domain Adaptation for Multi-View 3D Object Detection**|Rongyu Zhang et.al.|[2509.14151](http://arxiv.org/abs/2509.14151)|null|
 |**2025-09-17**|**SEG-Parking: Towards Safe, Efficient, and Generalizable Autonomous Parking via End-to-End Offline Reinforcement Learning**|Zewei Yang et.al.|[2509.13956](http://arxiv.org/abs/2509.13956)|null|
@@ -199,6 +212,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**Semantic-LiDAR-Inertial-Wheel Odometry Fusion for Robust Localization in Large-Scale Dynamic Environments**|Haoxuan Jiang et.al.|[2509.14999](http://arxiv.org/abs/2509.14999)|null|
+|**2025-09-17**|**Charting trajectories of human thought using large language models**|Matthew M Nour et.al.|[2509.14455](http://arxiv.org/abs/2509.14455)|null|
 |**2025-09-17**|**FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph**|Xiaolin Zhou et.al.|[2509.13733](http://arxiv.org/abs/2509.13733)|null|
 |**2025-09-16**|**Maps for Autonomous Driving: Full-process Survey and Frontiers**|Pengxin Chen et.al.|[2509.12632](http://arxiv.org/abs/2509.12632)|null|
 |**2025-09-15**|**Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing**|Bingyu Li et.al.|[2509.12040](http://arxiv.org/abs/2509.12040)|null|
@@ -247,6 +262,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**Super-Linear: A Lightweight Pretrained Mixture of Linear Experts for Time Series Forecasting**|Liran Nochumsohn et.al.|[2509.15105](http://arxiv.org/abs/2509.15105)|null|
+|**2025-09-18**|**Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning**|Lei Wang et.al.|[2509.15087](http://arxiv.org/abs/2509.15087)|null|
+|**2025-09-18**|**EchoVLM: Dynamic Mixture-of-Experts Vision-Language Model for Universal Ultrasound Intelligence**|Chaoyin She et.al.|[2509.14977](http://arxiv.org/abs/2509.14977)|null|
+|**2025-09-18**|**FURINA: Free from Unmergeable Router via LINear Aggregation of mixed experts**|Jiayi Han et.al.|[2509.14900](http://arxiv.org/abs/2509.14900)|null|
+|**2025-09-18**|**CollabVLA: Self-Reflective Vision-Language-Action Model Dreaming Together with Human**|Nan Sun et.al.|[2509.14889](http://arxiv.org/abs/2509.14889)|null|
+|**2025-09-15**|**SparseDoctor: Towards Efficient Chat Doctor with Mixture of Experts Enhanced Large Language Models**|Zhang Jianbin et.al.|[2509.14269](http://arxiv.org/abs/2509.14269)|null|
 |**2025-09-17**|**CSMoE: An Efficient Remote Sensing Foundation Model with Soft Mixture-of-Experts**|Leonard Hackel et.al.|[2509.14104](http://arxiv.org/abs/2509.14104)|null|
 |**2025-09-17**|**SAIL-VL2 Technical Report**|Weijie Yin et.al.|[2509.14033](http://arxiv.org/abs/2509.14033)|null|
 |**2025-09-17**|**Mixture of Low-Rank Adapter Experts in Generalizable Audio Deepfake Detection**|Janne Laakkonen et.al.|[2509.13878](http://arxiv.org/abs/2509.13878)|null|
