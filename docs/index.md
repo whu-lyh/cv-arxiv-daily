@@ -188,7 +188,7 @@ layout: default
 |**2025-09-06**|**Evaluating YOLO Architectures: Implications for Real-Time Vehicle Detection in Urban Environments of Bangladesh**|Ha Meem Hossain et.al.|[2509.05652](http://arxiv.org/abs/2509.05652)|null|
 |**2025-09-06**|**OccVLA: Vision-Language-Action Model with Implicit 3D Occupancy Supervision**|Ruixun Liu et.al.|[2509.05578](http://arxiv.org/abs/2509.05578)|null|
 |**2025-09-08**|**LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation**|Yinglin Duan et.al.|[2509.05263](http://arxiv.org/abs/2509.05263)|null|
-|**2025-09-05**|**Enhancing 3D Point Cloud Classification with ModelNet-R and Point-SkipNet**|Mohammad Saeid et.al.|[2509.05198](http://arxiv.org/abs/2509.05198)|null|
+|**2025-09-05**|**Enhancing 3D Point Cloud Classification with ModelNet-R and Point-SkipNet**|Mohammad Saeid et.al.|[2509.05198](http://arxiv.org/abs/2509.05198)|**[link](https://github.com/m-saeid/ModeNetR_PointSkipNet)**|
 |**2025-09-05**|**A Knowledge-Driven Diffusion Policy for End-to-End Autonomous Driving Based on Expert Routing**|Chengkai Xu et.al.|[2509.04853](http://arxiv.org/abs/2509.04853)|null|
 |**2025-09-05**|**Enhancing Self-Driving Segmentation in Adverse Weather Conditions: A Dual Uncertainty-Aware Training Approach to SAM Optimization**|Dharsan Ravindran et.al.|[2509.04735](http://arxiv.org/abs/2509.04735)|null|
 |**2025-09-04**|**Bootstrapping Reinforcement Learning with Sub-optimal Policies for Autonomous Driving**|Zhihao Zhang et.al.|[2509.04712](http://arxiv.org/abs/2509.04712)|null|
