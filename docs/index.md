@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.21
+## Updated on 2025.09.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -16,7 +16,7 @@ layout: default
 |**2025-09-17**|**Hashing-Baseline: Rethinking Hashing in the Age of Pretrained Models**|Ilyass Moummad et.al.|[2509.14427](http://arxiv.org/abs/2509.14427)|**[link](https://github.com/ilyassmoummad/hashing-baseline)**|
 |**2025-09-17**|**CSMoE: An Efficient Remote Sensing Foundation Model with Soft Mixture-of-Experts**|Leonard Hackel et.al.|[2509.14104](http://arxiv.org/abs/2509.14104)|null|
 |**2025-09-16**|**Semantic-Enhanced Cross-Modal Place Recognition for Robust Robot Localization**|Yujia Lin et.al.|[2509.13474](http://arxiv.org/abs/2509.13474)|null|
-|**2025-09-16**|**MapAnything: Universal Feed-Forward Metric 3D Reconstruction**|Nikhil Keetha et.al.|[2509.13414](http://arxiv.org/abs/2509.13414)|null|
+|**2025-09-18**|**MapAnything: Universal Feed-Forward Metric 3D Reconstruction**|Nikhil Keetha et.al.|[2509.13414](http://arxiv.org/abs/2509.13414)|null|
 |**2025-09-17**|**DiffHash: Text-Guided Targeted Attack via Diffusion Models against Deep Hashing Image Retrieval**|Zechao Liu et.al.|[2509.12824](http://arxiv.org/abs/2509.12824)|null|
 |**2025-09-16**|**Ketto and the Science of Giving: A Data-Driven Investigation of Crowdfunding for India**|Karuna Chandra et.al.|[2509.12616](http://arxiv.org/abs/2509.12616)|null|
 |**2025-09-15**|**Bridging Vision Language Models and Symbolic Grounding for Video Question Answering**|Haodi Ma et.al.|[2509.11862](http://arxiv.org/abs/2509.11862)|null|
@@ -269,7 +269,7 @@ layout: default
 |**2025-09-18**|**CollabVLA: Self-Reflective Vision-Language-Action Model Dreaming Together with Human**|Nan Sun et.al.|[2509.14889](http://arxiv.org/abs/2509.14889)|null|
 |**2025-09-15**|**SparseDoctor: Towards Efficient Chat Doctor with Mixture of Experts Enhanced Large Language Models**|Zhang Jianbin et.al.|[2509.14269](http://arxiv.org/abs/2509.14269)|null|
 |**2025-09-17**|**CSMoE: An Efficient Remote Sensing Foundation Model with Soft Mixture-of-Experts**|Leonard Hackel et.al.|[2509.14104](http://arxiv.org/abs/2509.14104)|null|
-|**2025-09-17**|**SAIL-VL2 Technical Report**|Weijie Yin et.al.|[2509.14033](http://arxiv.org/abs/2509.14033)|null|
+|**2025-09-18**|**SAIL-VL2 Technical Report**|Weijie Yin et.al.|[2509.14033](http://arxiv.org/abs/2509.14033)|null|
 |**2025-09-17**|**Mixture of Low-Rank Adapter Experts in Generalizable Audio Deepfake Detection**|Janne Laakkonen et.al.|[2509.13878](http://arxiv.org/abs/2509.13878)|null|
 |**2025-09-17**|**Semi-MoE: Mixture-of-Experts meets Semi-Supervised Histopathology Segmentation**|Nguyen Lan Vi Vu et.al.|[2509.13834](http://arxiv.org/abs/2509.13834)|null|
 |**2025-09-18**|**Mixture-of-Experts Framework for Field-of-View Enhanced Signal-Dependent Binauralization of Moving Talkers**|Manan Mittal et.al.|[2509.13548](http://arxiv.org/abs/2509.13548)|null|
@@ -376,7 +376,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-16**|**Curriculum Multi-Task Self-Supervision Improves Lightweight Architectures for Onboard Satellite Hyperspectral Image Segmentation**|Hugo Carlesso et.al.|[2509.13229](http://arxiv.org/abs/2509.13229)|null|
 |**2025-09-15**|**Progressive Flow-inspired Unfolding for Spectral Compressive Imaging**|Xiaodong Wang et.al.|[2509.12079](http://arxiv.org/abs/2509.12079)|null|
-|**2025-09-12**|**USCTNet: A deep unfolding nuclear-norm optimization solver for physically consistent HSI reconstruction**|Xiaoyang Ma et.al.|[2509.10651](http://arxiv.org/abs/2509.10651)|null|
+|**2025-09-19**|**USCTNet: A deep unfolding nuclear-norm optimization solver for physically consistent HSI reconstruction**|Xiaoyang Ma et.al.|[2509.10651](http://arxiv.org/abs/2509.10651)|null|
 |**2025-09-12**|**Nanosculpting lateral weak link junctions in superconducting Fe(Te,Se)/Bi2Te3 with focused Si++ ions and implications on vortex pinning**|Debarghya Mallick et.al.|[2509.10606](http://arxiv.org/abs/2509.10606)|null|
 |**2025-09-11**|**CWSSNet: Hyperspectral Image Classification Enhanced by Wavelet Domain Convolution**|Yulin Tong et.al.|[2509.09163](http://arxiv.org/abs/2509.09163)|null|
 |**2025-09-10**|**Beyond Distribution Shifts: Adaptive Hyperspectral Image Classification at Test Time**|Xia Yue et.al.|[2509.08436](http://arxiv.org/abs/2509.08436)|null|
