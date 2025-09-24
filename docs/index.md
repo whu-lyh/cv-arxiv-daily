@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.23
+## Updated on 2025.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -90,11 +90,11 @@ layout: default
 |**2025-09-22**|**ProDyG: Progressive Dynamic Scene Reconstruction via Gaussian Splatting from Monocular Videos**|Shi Chen et.al.|[2509.17864](http://arxiv.org/abs/2509.17864)|null|
 |**2025-09-22**|**From Restoration to Reconstruction: Rethinking 3D Gaussian Splatting for Underwater Scenes**|Guoxi Huang et.al.|[2509.17789](http://arxiv.org/abs/2509.17789)|null|
 |**2025-09-22**|**Neural-MMGS: Multi-modal Neural Gaussian Splats for Large-Scale Scene Reconstruction**|Sitian Shen et.al.|[2509.17762](http://arxiv.org/abs/2509.17762)|null|
-|**2025-09-22**|**EmbodiedSplat: Personalized Real-to-Sim-to-Real Navigation with Gaussian Splats from a Mobile Device**|Gunjan Chhablani et.al.|[2509.17430](http://arxiv.org/abs/2509.17430)|null|
+|**2025-09-23**|**EmbodiedSplat: Personalized Real-to-Sim-to-Real Navigation with Gaussian Splats from a Mobile Device**|Gunjan Chhablani et.al.|[2509.17430](http://arxiv.org/abs/2509.17430)|null|
 |**2025-09-22**|**FGGS-LiDAR: Ultra-Fast, GPU-Accelerated Simulation from General 3DGS Models to LiDAR**|Junzhe Wu et.al.|[2509.17390](http://arxiv.org/abs/2509.17390)|null|
 |**2025-09-22**|**SmokeSeer: 3D Gaussian Splatting for Smoke Removal and Scene Reconstruction**|Neham Jain et.al.|[2509.17329](http://arxiv.org/abs/2509.17329)|null|
 |**2025-09-21**|**SPFSplatV2: Efficient Self-Supervised Pose-Free 3D Gaussian Splatting from Sparse Views**|Ranran Huang et.al.|[2509.17246](http://arxiv.org/abs/2509.17246)|null|
-|**2025-09-21**|**HyRF: Hybrid Radiance Fields for Memory-efficient and High-quality Novel View Synthesis**|Zipeng Wang et.al.|[2509.17083](http://arxiv.org/abs/2509.17083)|null|
+|**2025-09-23**|**HyRF: Hybrid Radiance Fields for Memory-efficient and High-quality Novel View Synthesis**|Zipeng Wang et.al.|[2509.17083](http://arxiv.org/abs/2509.17083)|null|
 |**2025-09-21**|**Efficient 3D Scene Reconstruction and Simulation from Sparse Endoscopic Views**|Zhenya Yang et.al.|[2509.17027](http://arxiv.org/abs/2509.17027)|null|
 |**2025-09-21**|**PGSTalker: Real-Time Audio-Driven Talking Head Generation via 3D Gaussian Splatting with Pixel-Aware Density Control**|Tianheng Zhu et.al.|[2509.16922](http://arxiv.org/abs/2509.16922)|null|
 |**2025-09-21**|**ConfidentSplat: Confidence-Weighted Depth Fusion for Accurate 3D Gaussian Splatting SLAM**|Amanuel T. Dufera et.al.|[2509.16863](http://arxiv.org/abs/2509.16863)|null|
@@ -162,7 +162,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-22**|**V2V-GoT: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models and Graph-of-Thoughts**|Hsu-kuang Chiu et.al.|[2509.18053](http://arxiv.org/abs/2509.18053)|null|
+|**2025-09-23**|**V2V-GoT: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models and Graph-of-Thoughts**|Hsu-kuang Chiu et.al.|[2509.18053](http://arxiv.org/abs/2509.18053)|null|
 |**2025-09-22**|**DriveDPO: Policy Learning via Safety DPO For End-to-End Autonomous Driving**|Shuyao Shang et.al.|[2509.17940](http://arxiv.org/abs/2509.17940)|null|
 |**2025-09-22**|**SocialTraj: Two-Stage Socially-Aware Trajectory Prediction for Autonomous Driving via Conditional Diffusion Model**|Xiao Zhou et.al.|[2509.17850](http://arxiv.org/abs/2509.17850)|null|
 |**2025-09-22**|**RSU-Assisted Resource Allocation for Collaborative Perception**|Guowei Liu et.al.|[2509.17691](http://arxiv.org/abs/2509.17691)|null|
@@ -317,8 +317,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-22**|**StableGuard: Towards Unified Copyright Protection and Tamper Localization in Latent Diffusion Models**|Haoxin Yang et.al.|[2509.17993](http://arxiv.org/abs/2509.17993)|null|
-|**2025-09-22**|**Optimizing Inference in Transformer-Based Models: A Multi-Method Benchmark**|Siu Hang Ho et.al.|[2509.17894](http://arxiv.org/abs/2509.17894)|null|
+|**2025-09-23**|**StableGuard: Towards Unified Copyright Protection and Tamper Localization in Latent Diffusion Models**|Haoxin Yang et.al.|[2509.17993](http://arxiv.org/abs/2509.17993)|null|
+|**2025-09-23**|**Optimizing Inference in Transformer-Based Models: A Multi-Method Benchmark**|Siu Hang Ho et.al.|[2509.17894](http://arxiv.org/abs/2509.17894)|null|
 |**2025-09-22**|**Expert-as-a-Service: Towards Efficient, Scalable, and Robust Large-scale MoE Serving**|Ziming Liu et.al.|[2509.17863](http://arxiv.org/abs/2509.17863)|null|
 |**2025-09-22**|**SSNet: Flexible and robust channel extrapolation for fluid antenna systems enabled by an self-supervised learning framework**|Yuan Gao et.al.|[2509.17797](http://arxiv.org/abs/2509.17797)|null|
 |**2025-09-22**|**Qwen3-Omni Technical Report**|Jin Xu et.al.|[2509.17765](http://arxiv.org/abs/2509.17765)|null|
