@@ -20,12 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-23**|**SGAligner++: Cross-Modal Language-Aided 3D Scene Graph Alignment**|Binod Singh et.al.|[2509.20401](http://arxiv.org/abs/2509.20401)|null|
 |**2025-09-24**|**A Versatile Foundation Model for AI-enabled Mammogram Interpretation**|Fuxiang Huang et.al.|[2509.20271](http://arxiv.org/abs/2509.20271)|null|
 |**2025-09-23**|**Vision-Free Retrieval: Rethinking Multimodal Search with Textual Scene Descriptions**|Ioanna Ntinou et.al.|[2509.19203](http://arxiv.org/abs/2509.19203)|**[link](https://github.com/IoannaNti/LexiCLIP)**|
 |**2025-09-22**|**OrthoLoC: UAV 6-DoF Localization and Calibration Using Orthographic Geodata**|Oussema Dhaouadi et.al.|[2509.18350](http://arxiv.org/abs/2509.18350)|null|
 |**2025-09-21**|**Learning Attribute-Aware Hash Codes for Fine-Grained Image Retrieval via Query Optimization**|Peng Wang et.al.|[2509.17049](http://arxiv.org/abs/2509.17049)|null|
 |**2025-09-20**|**PM25Vision: A Large-Scale Benchmark Dataset for Visual Estimation of Air Quality**|Yang Han et.al.|[2509.16519](http://arxiv.org/abs/2509.16519)|null|
-|**2025-09-18**|**Efficient Multimodal Dataset Distillation via Generative Models**|Zhenghao Zhao et.al.|[2509.15472](http://arxiv.org/abs/2509.15472)|**[link](https://github.com/ichbill/EDGE)**|
+|**2025-09-18**|**Efficient Multimodal Dataset Distillation via Generative Models**|Zhenghao Zhao et.al.|[2509.15472](http://arxiv.org/abs/2509.15472)|null|
 |**2025-09-18**|**SERVAL: Surprisingly Effective Zero-Shot Visual Document Retrieval Powered by Large Vision and Language Models**|Thong Nguyen et.al.|[2509.15432](http://arxiv.org/abs/2509.15432)|null|
 |**2025-09-18**|**Assessing metadata privacy in neuroimaging**|Emilie Kibsgaard et.al.|[2509.15278](http://arxiv.org/abs/2509.15278)|null|
 |**2025-09-18**|**PRISM: Product Retrieval In Shopping Carts using Hybrid Matching**|Arda Kabadayi et.al.|[2509.14985](http://arxiv.org/abs/2509.14985)|null|
@@ -103,6 +104,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-25**|**Gaussian splatting holography**|Shuhe Zhang et.al.|[2509.20774](http://arxiv.org/abs/2509.20774)|null|
+|**2025-09-25**|**FreeInsert: Personalized Object Insertion with Geometric and Style Control**|Yuhong Zhang et.al.|[2509.20756](http://arxiv.org/abs/2509.20756)|null|
+|**2025-09-23**|**SeHDR: Single-Exposure HDR Novel View Synthesis via 3D Gaussian Bracketing**|Yiyu Li et.al.|[2509.20400](http://arxiv.org/abs/2509.20400)|null|
 |**2025-09-24**|**4D Driving Scene Generation With Stereo Forcing**|Hao Lu et.al.|[2509.20251](http://arxiv.org/abs/2509.20251)|null|
 |**2025-09-24**|**GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes**|Guo Chen et.al.|[2509.19937](http://arxiv.org/abs/2509.19937)|null|
 |**2025-09-24**|**Aerial-Ground Image Feature Matching via 3D Gaussian Splatting-based Intermediate View Rendering**|Jiangxue Yu et.al.|[2509.19898](http://arxiv.org/abs/2509.19898)|null|
@@ -197,6 +201,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-25**|**Autoregressive End-to-End Planning with Time-Invariant Spatial Alignment and Multi-Objective Policy Refinement**|Jianbo Zhao et.al.|[2509.20938](http://arxiv.org/abs/2509.20938)|null|
+|**2025-09-25**|**MTRDrive: Memory-Tool Synergistic Reasoning for Robust Autonomous Driving in Corner Cases**|Ziang Luo et.al.|[2509.20843](http://arxiv.org/abs/2509.20843)|null|
+|**2025-09-25**|**DAC-LoRA: Dynamic Adversarial Curriculum for Efficient and Robust Few-Shot Adaptation**|Ved Umrajkar et.al.|[2509.20792](http://arxiv.org/abs/2509.20792)|null|
+|**2025-09-25**|**MASt3R-Fusion: Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM**|Yuxuan Zhou et.al.|[2509.20757](http://arxiv.org/abs/2509.20757)|null|
+|**2025-09-25**|**Cyber Racing Coach: A Haptic Shared Control Framework for Teaching Advanced Driving Skills**|Congkai Shen et.al.|[2509.20653](http://arxiv.org/abs/2509.20653)|null|
 |**2025-09-24**|**AnchDrive: Bootstrapping Diffusion Policies with Hybrid Trajectory Anchors for End-to-End Driving**|Jinhao Chai et.al.|[2509.20253](http://arxiv.org/abs/2509.20253)|null|
 |**2025-09-24**|**Universal Camouflage Attack on Vision-Language Models for Autonomous Driving**|Dehong Kong et.al.|[2509.20196](http://arxiv.org/abs/2509.20196)|null|
 |**2025-09-24**|**Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving**|Pengxiang Li et.al.|[2509.20109](http://arxiv.org/abs/2509.20109)|null|
@@ -324,6 +333,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-25**|**Neural Integrated Sensing and Communication for the MIMO-OFDM Downlink**|Ziyi Wang et.al.|[2509.21118](http://arxiv.org/abs/2509.21118)|null|
 |**2025-09-18**|**Semantic-LiDAR-Inertial-Wheel Odometry Fusion for Robust Localization in Large-Scale Dynamic Environments**|Haoxuan Jiang et.al.|[2509.14999](http://arxiv.org/abs/2509.14999)|null|
 |**2025-09-17**|**Charting trajectories of human thought using large language models**|Matthew M Nour et.al.|[2509.14455](http://arxiv.org/abs/2509.14455)|null|
 |**2025-09-17**|**FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph**|Xiaolin Zhou et.al.|[2509.13733](http://arxiv.org/abs/2509.13733)|null|
@@ -378,6 +388,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-25**|**Distributed Specialization: Rare-Token Neurons in Large Language Models**|Jing Liu et.al.|[2509.21163](http://arxiv.org/abs/2509.21163)|null|
+|**2025-09-25**|**Expanding Reasoning Potential in Foundation Model by Learning Diverse Chains of Thought Patterns**|Xuemiao Zhang et.al.|[2509.21124](http://arxiv.org/abs/2509.21124)|null|
+|**2025-09-25**|**Physics Informed Neural Networks for design optimisation of diamond particle detectors for charged particle fast-tracking at high luminosity hadron colliders**|Alessandro Bombini et.al.|[2509.21123](http://arxiv.org/abs/2509.21123)|null|
+|**2025-09-24**|**Dynamic Reasoning Chains through Depth-Specialized Mixture-of-Experts in Transformer Architectures**|Sampurna Roy et.al.|[2509.20577](http://arxiv.org/abs/2509.20577)|null|
 |**2025-09-24**|**Developer Productivity With and Without GitHub Copilot: A Longitudinal Mixed-Methods Case Study**|Viktoria Stray et.al.|[2509.20353](http://arxiv.org/abs/2509.20353)|null|
 |**2025-09-24**|**SHMoAReg: Spark Deformable Image Registration via Spatial Heterogeneous Mixture of Experts and Attention Heads**|Yuxi Zheng et.al.|[2509.20073](http://arxiv.org/abs/2509.20073)|null|
 |**2025-09-24**|**Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference**|Ziyi Han et.al.|[2509.19781](http://arxiv.org/abs/2509.19781)|null|
@@ -479,6 +493,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-25**|**MedVSR: Medical Video Super-Resolution with Cross State-Space Propagation**|Xinyu Liu et.al.|[2509.21265](http://arxiv.org/abs/2509.21265)|null|
+|**2025-09-25**|**Aligning Inductive Bias for Data-Efficient Generalization in State Space Models**|Qiyu Chen et.al.|[2509.20789](http://arxiv.org/abs/2509.20789)|null|
 |**2025-09-24**|**SpecMamba: Accelerating Mamba Inference on FPGA with Speculative Decoding**|Linfeng Zhong et.al.|[2509.19873](http://arxiv.org/abs/2509.19873)|null|
 |**2025-09-24**|**RoboSSM: Scalable In-context Imitation Learning via State-Space Models**|Youngju Yoo et.al.|[2509.19658](http://arxiv.org/abs/2509.19658)|null|
 |**2025-09-23**|**Mamba Modulation: On the Length Generalization of Mamba**|Peng Lu et.al.|[2509.19633](http://arxiv.org/abs/2509.19633)|null|
