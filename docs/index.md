@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.25
+## Updated on 2025.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -183,9 +183,9 @@ layout: default
 |**2025-09-24**|**AnchDrive: Bootstrapping Diffusion Policies with Hybrid Trajectory Anchors for End-to-End Driving**|Jinhao Chai et.al.|[2509.20253](http://arxiv.org/abs/2509.20253)|null|
 |**2025-09-24**|**Universal Camouflage Attack on Vision-Language Models for Autonomous Driving**|Dehong Kong et.al.|[2509.20196](http://arxiv.org/abs/2509.20196)|null|
 |**2025-09-24**|**Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving**|Pengxiang Li et.al.|[2509.20109](http://arxiv.org/abs/2509.20109)|null|
-|**2025-09-24**|**Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models**|JuanaJuana Valeria Hurtado et.al.|[2509.20107](http://arxiv.org/abs/2509.20107)|null|
+|**2025-09-25**|**Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models**|Juana Valeria Hurtado et.al.|[2509.20107](http://arxiv.org/abs/2509.20107)|null|
 |**2025-09-24**|**Steerable Adversarial Scenario Generation through Test-Time Preference Alignment**|Tong Nie et.al.|[2509.20102](http://arxiv.org/abs/2509.20102)|null|
-|**2025-09-24**|**OmniScene: Attention-Augmented Multimodal 4D Scene Understanding for Autonomous Driving**|Pei Liu et.al.|[2509.19973](http://arxiv.org/abs/2509.19973)|null|
+|**2025-09-25**|**OmniScene: Attention-Augmented Multimodal 4D Scene Understanding for Autonomous Driving**|Pei Liu et.al.|[2509.19973](http://arxiv.org/abs/2509.19973)|null|
 |**2025-09-24**|**BiTAA: A Bi-Task Adversarial Attack for Object Detection and Depth Estimation via 3D Gaussian Splatting**|Yixun Zhang et.al.|[2509.19793](http://arxiv.org/abs/2509.19793)|null|
 |**2025-09-24**|**RDAR: Reward-Driven Agent Relevance Estimation for Autonomous Driving**|Carlo Bosio et.al.|[2509.19789](http://arxiv.org/abs/2509.19789)|null|
 |**2025-09-24**|**EfficienT-HDR: An Efficient Transformer-Based Framework via Multi-Exposure Fusion for HDR Reconstruction**|Yu-Shen Huang et.al.|[2509.19779](http://arxiv.org/abs/2509.19779)|null|
@@ -511,7 +511,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-24**|**Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models**|JuanaJuana Valeria Hurtado et.al.|[2509.20107](http://arxiv.org/abs/2509.20107)|null|
+|**2025-09-25**|**Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models**|Juana Valeria Hurtado et.al.|[2509.20107](http://arxiv.org/abs/2509.20107)|null|
 |**2025-09-21**|**SwarmChat: An LLM-Based, Context-Aware Multimodal Interaction System for Robotic Swarms**|Ettilla Mohiuddin Eumi et.al.|[2509.16920](http://arxiv.org/abs/2509.16920)|null|
 |**2025-09-20**|**Spectral Compressive Imaging via Chromaticity-Intensity Decomposition**|Xiaodong Wang et.al.|[2509.16690](http://arxiv.org/abs/2509.16690)|null|
 |**2025-09-16**|**Curriculum Multi-Task Self-Supervision Improves Lightweight Architectures for Onboard Satellite Hyperspectral Image Segmentation**|Hugo Carlesso et.al.|[2509.13229](http://arxiv.org/abs/2509.13229)|null|
