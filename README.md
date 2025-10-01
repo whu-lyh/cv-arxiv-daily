@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-30**|**Video Object Segmentation-Aware Audio Generation**|Ilpo Viertola et.al.|[2509.26604](http://arxiv.org/abs/2509.26604)|null|
+|**2025-09-30**|**SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval**|Ren-Di Wu et.al.|[2509.26330](http://arxiv.org/abs/2509.26330)|null|
+|**2025-09-30**|**SETR: A Two-Stage Semantic-Enhanced Framework for Zero-Shot Composed Image Retrieval**|Yuqi Xiao et.al.|[2509.26012](http://arxiv.org/abs/2509.26012)|null|
+|**2025-09-30**|**SAGE: Spatial-visual Adaptive Graph Exploration for Visual Place Recognition**|Shunpeng Chen et.al.|[2509.25723](http://arxiv.org/abs/2509.25723)|null|
+|**2025-09-29**|**Robust Visual Localization in Compute-Constrained Environments by Salient Edge Rendering and Weighted Hamming Similarity**|Tu-Hoa Pham et.al.|[2509.25520](http://arxiv.org/abs/2509.25520)|null|
 |**2025-09-29**|**Performance-Efficiency Trade-off for Fashion Image Retrieval**|Julio Hurtado et.al.|[2509.24477](http://arxiv.org/abs/2509.24477)|null|
 |**2025-09-28**|**Prepare for Warp Speed: Sub-millisecond Visual Place Recognition Using Event Cameras**|Vignesh Ramanathan et.al.|[2509.24094](http://arxiv.org/abs/2509.24094)|null|
 |**2025-09-27**|**Terrorism & Democracy in Burkina-Faso**|P Carmel Marie Zagre et.al.|[2509.23046](http://arxiv.org/abs/2509.23046)|null|
@@ -109,6 +114,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-30**|**HART: Human Aligned Reconstruction Transformer**|Xiyi Chen et.al.|[2509.26621](http://arxiv.org/abs/2509.26621)|null|
+|**2025-09-30**|**Stylos: Multi-View 3D Stylization with Single-Forward Gaussian Splatting**|Hanzhou Liu et.al.|[2509.26455](http://arxiv.org/abs/2509.26455)|null|
+|**2025-09-30**|**GaussEdit: Adaptive 3D Scene Editing with Text and Image Prompts**|Zhenyu Shu et.al.|[2509.26055](http://arxiv.org/abs/2509.26055)|null|
+|**2025-09-30**|**PFDepth: Heterogeneous Pinhole-Fisheye Joint Depth Estimation via Distortion-aware Gaussian-Splatted Volumetric Fusion**|Zhiwei Zhang et.al.|[2509.26008](http://arxiv.org/abs/2509.26008)|null|
+|**2025-09-30**|**LLM-Powered Code Analysis and Optimization for Gaussian Splatting Kernels**|Yi Hu et.al.|[2509.25626](http://arxiv.org/abs/2509.25626)|null|
+|**2025-09-29**|**GaussianLens: Localized High-Resolution Reconstruction via On-Demand Gaussian Densification**|Yijia Weng et.al.|[2509.25603](http://arxiv.org/abs/2509.25603)|null|
 |**2025-09-29**|**Triangle Splatting+: Differentiable Rendering with Opaque Triangles**|Jan Held et.al.|[2509.25122](http://arxiv.org/abs/2509.25122)|null|
 |**2025-09-29**|**GEM: 3D Gaussian Splatting for Efficient and Accurate Cryo-EM Reconstruction**|Huaizhi Qu et.al.|[2509.25075](http://arxiv.org/abs/2509.25075)|null|
 |**2025-09-29**|**LVT: Large-Scale Scene Reconstruction via Local View Transformers**|Tooba Imtiaz et.al.|[2509.25001](http://arxiv.org/abs/2509.25001)|null|
@@ -225,6 +236,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-30**|**PRISM: Progressive Rain removal with Integrated State-space Modeling**|Pengze Xue et.al.|[2509.26413](http://arxiv.org/abs/2509.26413)|null|
+|**2025-09-30**|**Beyond Overall Accuracy: Pose- and Occlusion-driven Fairness Analysis in Pedestrian Detection for Autonomous Driving**|Mohammad Khoshkdahan et.al.|[2509.26166](http://arxiv.org/abs/2509.26166)|null|
+|**2025-09-30**|**NuRisk: A Visual Question Answering Dataset for Agent-Level Risk Assessment in Autonomous Driving**|Yuan Gao et.al.|[2509.25944](http://arxiv.org/abs/2509.25944)|null|
+|**2025-09-30**|**Preemptive Spatiotemporal Trajectory Adjustment for Heterogeneous Vehicles in Highway Merging Zones**|Yuan Li et.al.|[2509.25929](http://arxiv.org/abs/2509.25929)|null|
+|**2025-09-30**|**MuSLR: Multimodal Symbolic Logical Reasoning**|Jundong Xu et.al.|[2509.25851](http://arxiv.org/abs/2509.25851)|null|
+|**2025-09-30**|**Cooperative Autonomous Driving in Diverse Behavioral Traffic: A Heterogeneous Graph Reinforcement Learning Approach**|Qi Liu et.al.|[2509.25751](http://arxiv.org/abs/2509.25751)|null|
+|**2025-09-29**|**Online Mapping for Autonomous Driving: Addressing Sensor Generalization and Dynamic Map Updates in Campus Environments**|Zihan Zhang et.al.|[2509.25542](http://arxiv.org/abs/2509.25542)|null|
 |**2025-09-29**|**StreamForest: Efficient Online Video Understanding with Persistent Event Memory**|Xiangyu Zeng et.al.|[2509.24871](http://arxiv.org/abs/2509.24871)|null|
 |**2025-09-29**|**TACO-Net: Topological Signatures Triumph in 3D Object Classification**|Anirban Ghosh et.al.|[2509.24802](http://arxiv.org/abs/2509.24802)|null|
 |**2025-09-29**|**FuncPoison: Poisoning Function Library to Hijack Multi-agent Autonomous Driving Systems**|Yuzhen Long et.al.|[2509.24408](http://arxiv.org/abs/2509.24408)|null|
@@ -379,6 +397,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-30**|**Memory-Efficient 2D/3D Shape Assembly of Robot Swarms**|Shuoyu Yue et.al.|[2509.26518](http://arxiv.org/abs/2509.26518)|null|
+|**2025-09-30**|**Classical feature map surrogates and metrics for quantum control landscapes**|Martino Calzavara et.al.|[2509.25930](http://arxiv.org/abs/2509.25930)|null|
 |**2025-09-25**|**Neural Integrated Sensing and Communication for the MIMO-OFDM Downlink**|Ziyi Wang et.al.|[2509.21118](http://arxiv.org/abs/2509.21118)|null|
 |**2025-09-18**|**Semantic-LiDAR-Inertial-Wheel Odometry Fusion for Robust Localization in Large-Scale Dynamic Environments**|Haoxuan Jiang et.al.|[2509.14999](http://arxiv.org/abs/2509.14999)|null|
 |**2025-09-17**|**Charting trajectories of human thought using large language models**|Matthew M Nour et.al.|[2509.14455](http://arxiv.org/abs/2509.14455)|null|
@@ -434,6 +454,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-30**|**Training Matryoshka Mixture-of-Experts for Elastic Inference-Time Expert Utilization**|Yaoxiang Wang et.al.|[2509.26520](http://arxiv.org/abs/2509.26520)|null|
+|**2025-09-30**|**Nephrobase Cell+: Multimodal Single-Cell Foundation Model for Decoding Kidney Biology**|Chenyu Li et.al.|[2509.26223](http://arxiv.org/abs/2509.26223)|null|
+|**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Haiyang Li et.al.|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
+|**2025-09-30**|**UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression**|Yuan Zhao et.al.|[2509.25934](http://arxiv.org/abs/2509.25934)|null|
+|**2025-09-30**|**Understanding the Mixture-of-Experts with Nadaraya-Watson Kernel**|Chuanyang Zheng et.al.|[2509.25913](http://arxiv.org/abs/2509.25913)|null|
+|**2025-09-30**|**A Multimodal LLM Approach for Visual Question Answering on Multiparametric 3D Brain MRI**|Arvind Murari Vepa et.al.|[2509.25889](http://arxiv.org/abs/2509.25889)|null|
+|**2025-09-30**|**Collaborative Compression for Large-Scale MoE Deployment on Edge**|Yixiao Chen et.al.|[2509.25689](http://arxiv.org/abs/2509.25689)|null|
+|**2025-09-30**|**LD-MoLE: Learnable Dynamic Routing for Mixture of LoRA Experts**|Yuan Zhuang et.al.|[2509.25684](http://arxiv.org/abs/2509.25684)|null|
+|**2025-09-30**|**Guiding Mixture-of-Experts with Temporal Multimodal Interactions**|Xing Han et.al.|[2509.25678](http://arxiv.org/abs/2509.25678)|null|
+|**2025-09-29**|**K-Prism: A Knowledge-Guided and Prompt Integrated Universal Medical Image Segmentation Model**|Bangwei Guo et.al.|[2509.25594](http://arxiv.org/abs/2509.25594)|null|
+|**2025-09-29**|**MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series**|Payal Mohapatra et.al.|[2509.25278](http://arxiv.org/abs/2509.25278)|null|
 |**2025-09-29**|**GRACE-MoE: Grouping and Replication with Locality-Aware Routing for Efficient Distributed MoE Inference**|Yu Han et.al.|[2509.25041](http://arxiv.org/abs/2509.25041)|null|
 |**2025-09-29**|**LEAF: A Robust Expert-Based Framework for Few-Shot Continual Event Detection**|Bao-Ngoc Dao et.al.|[2509.24547](http://arxiv.org/abs/2509.24547)|null|
 |**2025-09-29**|**One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning**|Minh Le et.al.|[2509.24483](http://arxiv.org/abs/2509.24483)|null|
@@ -564,6 +595,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-30**|**PRISM: Progressive Rain removal with Integrated State-space Modeling**|Pengze Xue et.al.|[2509.26413](http://arxiv.org/abs/2509.26413)|null|
+|**2025-09-30**|**Neural Network State-Space Estimators**|Minxing Sun et.al.|[2509.25959](http://arxiv.org/abs/2509.25959)|null|
+|**2025-09-30**|**Bringing Emerging Architectures to Sequence Labeling in NLP**|Ana Ezquerro et.al.|[2509.25918](http://arxiv.org/abs/2509.25918)|null|
 |**2025-09-29**|**Benchmarking ECG Foundational Models: A Reality Check Across Clinical Tasks**|M A Al-Masud et.al.|[2509.25095](http://arxiv.org/abs/2509.25095)|null|
 |**2025-09-29**|**DyMoDreamer: World Modeling with Dynamic Modulation**|Boxuan Zhang et.al.|[2509.24804](http://arxiv.org/abs/2509.24804)|null|
 |**2025-09-29**|**Q-Net: Transferable Queue Length Estimation via Kalman-based Neural Networks**|Ting Gao et.al.|[2509.24725](http://arxiv.org/abs/2509.24725)|null|
