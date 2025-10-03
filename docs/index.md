@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-01**|**A Scene is Worth a Thousand Features: Feed-Forward Camera Localization from a Collection of Image Features**|Axel Barroso-Laguna et.al.|[2510.00978](http://arxiv.org/abs/2510.00978)|null|
+|**2025-10-01**|**Semantic Visual Simultaneous Localization and Mapping: A Survey on State of the Art, Challenges, and Future Directions**|Thanh Nguyen Canh et.al.|[2510.00783](http://arxiv.org/abs/2510.00783)|null|
 |**2025-09-30**|**Video Object Segmentation-Aware Audio Generation**|Ilpo Viertola et.al.|[2509.26604](http://arxiv.org/abs/2509.26604)|**[link](https://github.com/ilpoviertola/SAGANet)**|
 |**2025-09-30**|**SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval**|Ren-Di Wu et.al.|[2509.26330](http://arxiv.org/abs/2509.26330)|null|
 |**2025-09-30**|**SETR: A Two-Stage Semantic-Enhanced Framework for Zero-Shot Composed Image Retrieval**|Yuqi Xiao et.al.|[2509.26012](http://arxiv.org/abs/2509.26012)|null|
@@ -70,6 +72,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-02**|**LangGrasp: Leveraging Fine-Tuned LLMs for Language Interactive Robot Grasping with Ambiguous Instructions**|Yunhan Lin et.al.|[2510.02104](http://arxiv.org/abs/2510.02104)|null|
 |**2025-08-09**|**LifelongPR: Lifelong point cloud place recognition based on sample replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|null|
 |**2025-08-08**|**ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models**|Minwoo Jung et.al.|[2505.18364](http://arxiv.org/abs/2505.18364)|null|
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
@@ -99,6 +102,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-02**|**StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided Illusions**|Bo-Hsu Ke et.al.|[2510.02314](http://arxiv.org/abs/2510.02314)|null|
+|**2025-10-02**|**Performance-Guided Refinement for Visual Aerial Navigation using Editable Gaussian Splatting in FalconGym 2.0**|Yan Miao et.al.|[2510.02248](http://arxiv.org/abs/2510.02248)|null|
+|**2025-10-02**|**Spec-Gloss Surfels and Normal-Diffuse Priors for Relightable Glossy Objects**|Georgios Kouros et.al.|[2510.02069](http://arxiv.org/abs/2510.02069)|null|
+|**2025-10-02**|**GaussianMorphing: Mesh-Guided 3D Gaussians for Semantic-Aware Object Morphing**|Mengtian Li et.al.|[2510.02034](http://arxiv.org/abs/2510.02034)|null|
+|**2025-10-02**|**4DGS-Craft: Consistent and Interactive 4D Gaussian Splatting Editing**|Lei Liu et.al.|[2510.01991](http://arxiv.org/abs/2510.01991)|null|
+|**2025-10-02**|**ROI-GS: Interest-based Local Quality 3D Gaussian Splatting**|Quoc-Anh Bui et.al.|[2510.01978](http://arxiv.org/abs/2510.01978)|null|
+|**2025-10-02**|**GreenhouseSplat: A Dataset of Photorealistic Greenhouse Simulations for Mobile Robotics**|Diram Tabaa et.al.|[2510.01848](http://arxiv.org/abs/2510.01848)|null|
+|**2025-10-02**|**LOBE-GS: Load-Balanced and Efficient 3D Gaussian Splatting for Large-Scale Scene Reconstruction**|Sheng-Hsiang Hung et.al.|[2510.01767](http://arxiv.org/abs/2510.01767)|null|
+|**2025-10-02**|**MPMAvatar: Learning 3D Gaussian Avatars with Accurate and Robust Physics-Based Dynamics**|Changmin Lee et.al.|[2510.01619](http://arxiv.org/abs/2510.01619)|null|
+|**2025-10-01**|**Instant4D: 4D Gaussian Splatting in Minutes**|Zhanpeng Luo et.al.|[2510.01119](http://arxiv.org/abs/2510.01119)|null|
 |**2025-09-30**|**HART: Human Aligned Reconstruction Transformer**|Xiyi Chen et.al.|[2509.26621](http://arxiv.org/abs/2509.26621)|null|
 |**2025-09-30**|**Stylos: Multi-View 3D Stylization with Single-Forward Gaussian Splatting**|Hanzhou Liu et.al.|[2509.26455](http://arxiv.org/abs/2509.26455)|null|
 |**2025-09-30**|**GaussEdit: Adaptive 3D Scene Editing with Text and Image Prompts**|Zhenyu Shu et.al.|[2509.26055](http://arxiv.org/abs/2509.26055)|null|
@@ -219,6 +232,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-02**|**Calibrating the Full Predictive Class Distribution of 3D Object Detectors for Autonomous Driving**|Cornelius Schröder et.al.|[2510.01829](http://arxiv.org/abs/2510.01829)|null|
+|**2025-10-02**|**Nav-EE: Navigation-Guided Early Exiting for Efficient Vision-Language Models in Autonomous Driving**|Haibo Hu et.al.|[2510.01795](http://arxiv.org/abs/2510.01795)|null|
+|**2025-10-02**|**Predictive Preference Learning from Human Interventions**|Haoyuan Cai et.al.|[2510.01545](http://arxiv.org/abs/2510.01545)|null|
+|**2025-10-01**|**Strategic Fusion of Vision Language Models: Shapley-Credited Context-Aware Dawid-Skene for Multi-Label Tasks in Autonomous Driving**|Yuxiang Feng et.al.|[2510.01126](http://arxiv.org/abs/2510.01126)|null|
+|**2025-10-01**|**Datasets for Valence and Arousal Inference: A Survey**|Helen Schneider et.al.|[2510.00738](http://arxiv.org/abs/2510.00738)|null|
+|**2025-09-30**|**CHAI: Command Hijacking against embodied AI**|Luis Burbano et.al.|[2510.00181](http://arxiv.org/abs/2510.00181)|null|
+|**2025-09-30**|**Adaptive and Resource-efficient Agentic AI Systems for Mobile and Embedded Devices: A Survey**|Sicong Liu et.al.|[2510.00078](http://arxiv.org/abs/2510.00078)|null|
+|**2025-09-29**|**Less is More: Lean yet Powerful Vision-Language Model for Autonomous Driving**|Sheng Yang et.al.|[2510.00060](http://arxiv.org/abs/2510.00060)|null|
 |**2025-09-30**|**PRISM: Progressive Rain removal with Integrated State-space Modeling**|Pengze Xue et.al.|[2509.26413](http://arxiv.org/abs/2509.26413)|null|
 |**2025-09-30**|**Beyond Overall Accuracy: Pose- and Occlusion-driven Fairness Analysis in Pedestrian Detection for Autonomous Driving**|Mohammad Khoshkdahan et.al.|[2509.26166](http://arxiv.org/abs/2509.26166)|null|
 |**2025-09-30**|**NuRisk: A Visual Question Answering Dataset for Agent-Level Risk Assessment in Autonomous Driving**|Yuan Gao et.al.|[2509.25944](http://arxiv.org/abs/2509.25944)|null|
@@ -378,6 +399,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-01**|**A Scene is Worth a Thousand Features: Feed-Forward Camera Localization from a Collection of Image Features**|Axel Barroso-Laguna et.al.|[2510.00978](http://arxiv.org/abs/2510.00978)|null|
+|**2025-09-30**|**Updates to the WFC3/UVIS Saturation Map**|Mitchell Revalski et.al.|[2510.00097](http://arxiv.org/abs/2510.00097)|null|
 |**2025-09-30**|**Memory-Efficient 2D/3D Shape Assembly of Robot Swarms**|Shuoyu Yue et.al.|[2509.26518](http://arxiv.org/abs/2509.26518)|null|
 |**2025-09-30**|**Classical feature map surrogates and metrics for quantum control landscapes**|Martino Calzavara et.al.|[2509.25930](http://arxiv.org/abs/2509.25930)|null|
 |**2025-09-25**|**Neural Integrated Sensing and Communication for the MIMO-OFDM Downlink**|Ziyi Wang et.al.|[2509.21118](http://arxiv.org/abs/2509.21118)|null|
@@ -431,6 +454,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-02**|**UpSafe $^\circ$ C: Upcycling for Controllable Safety in Large Language Models**|Yuhao Sun et.al.|[2510.02194](http://arxiv.org/abs/2510.02194)|null|
+|**2025-10-02**|**LadderMoE: Ladder-Side Mixture of Experts Adapters for Bronze Inscription Recognition**|Rixin Zhou et.al.|[2510.01651](http://arxiv.org/abs/2510.01651)|null|
+|**2025-10-01**|**Dirichlet-Prior Shaping: Guiding Expert Specialization in Upcycled MoEs**|Leyla Mirvakhabova et.al.|[2510.01185](http://arxiv.org/abs/2510.01185)|null|
+|**2025-10-01**|**Learning Compact Representations of LLM Abilities via Item Response Theory**|Jianhao Chen et.al.|[2510.00844](http://arxiv.org/abs/2510.00844)|null|
+|**2025-10-01**|**Graph Integrated Multimodal Concept Bottleneck Model**|Jiakai Lin et.al.|[2510.00701](http://arxiv.org/abs/2510.00701)|null|
+|**2025-10-01**|**FAME: Adaptive Functional Attention with Expert Routing for Function-on-Function Regression**|Yifei Gao et.al.|[2510.00621](http://arxiv.org/abs/2510.00621)|null|
+|**2025-10-01**|**Adaptive Shared Experts with LoRA-Based Mixture of Experts for Multi-Task Learning**|Minghao Yang et.al.|[2510.00570](http://arxiv.org/abs/2510.00570)|null|
+|**2025-09-30**|**FlowMoE: A Scalable Pipeline Scheduling Framework for Distributed Mixture-of-Experts Training**|Yunqi Gao et.al.|[2510.00207](http://arxiv.org/abs/2510.00207)|null|
 |**2025-09-30**|**Training Matryoshka Mixture-of-Experts for Elastic Inference-Time Expert Utilization**|Yaoxiang Wang et.al.|[2509.26520](http://arxiv.org/abs/2509.26520)|null|
 |**2025-09-30**|**Nephrobase Cell+: Multimodal Single-Cell Foundation Model for Decoding Kidney Biology**|Chenyu Li et.al.|[2509.26223](http://arxiv.org/abs/2509.26223)|null|
 |**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Haiyang Li et.al.|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
@@ -570,6 +601,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-02**|**Knots and variance ordering of sequential Monte Carlo algorithms**|Joshua J Bon et.al.|[2510.01901](http://arxiv.org/abs/2510.01901)|null|
+|**2025-10-01**|**Gather-Scatter Mamba: Accelerating Propagation with Efficient State Space Model**|Hyun-kyu Ko et.al.|[2510.00862](http://arxiv.org/abs/2510.00862)|null|
+|**2025-10-01**|**Memory Determines Learning Direction: A Theory of Gradient-Based Optimization in State Space Models**|JingChuan Guan et.al.|[2510.00563](http://arxiv.org/abs/2510.00563)|null|
 |**2025-09-30**|**PRISM: Progressive Rain removal with Integrated State-space Modeling**|Pengze Xue et.al.|[2509.26413](http://arxiv.org/abs/2509.26413)|null|
 |**2025-09-30**|**Neural Network State-Space Estimators**|Minxing Sun et.al.|[2509.25959](http://arxiv.org/abs/2509.25959)|null|
 |**2025-09-30**|**Bringing Emerging Architectures to Sequence Labeling in NLP**|Ana Ezquerro et.al.|[2509.25918](http://arxiv.org/abs/2509.25918)|null|
@@ -644,6 +678,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-02**|**Flow-Matching Guided Deep Unfolding for Hyperspectral Image Reconstruction**|Yi Ai et.al.|[2510.01912](http://arxiv.org/abs/2510.01912)|null|
 |**2025-09-28**|**Joint Superpixel and Self-Representation Learning for Scalable Hyperspectral Image Clustering**|Xianlu Li et.al.|[2509.24027](http://arxiv.org/abs/2509.24027)|null|
 |**2025-09-28**|**Generalized Category Discovery in Hyperspectral Images via Prototype Subspace Modeling**|Xianlu Li et.al.|[2509.24017](http://arxiv.org/abs/2509.24017)|null|
 |**2025-09-20**|**Learning Hyperspectral Images with Curated Text Prompts for Efficient Multimodal Alignment**|Abhiroop Chatterjee et.al.|[2509.22697](http://arxiv.org/abs/2509.22697)|null|
