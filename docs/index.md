@@ -561,7 +561,7 @@ layout: default
 |**2025-09-12**|**Exploring Expert Specialization through Unsupervised Training in Sparse Mixture of Experts**|Strahinja Nikolic et.al.|[2509.10025](http://arxiv.org/abs/2509.10025)|null|
 |**2025-09-11**|**Combining Textual and Spectral Features for Robust Classification of Pilot Communications**|Abdullah All Tanvir et.al.|[2509.09752](http://arxiv.org/abs/2509.09752)|null|
 |**2025-09-11**|**Steering MoE LLMs via Expert (De)Activation**|Mohsen Fayyaz et.al.|[2509.09660](http://arxiv.org/abs/2509.09660)|null|
-|**2025-09-11**|**HD-MoE: Hybrid and Dynamic Parallelism for Mixture-of-Expert LLMs with 3D Near-Memory Processing**|Haochen Huang et.al.|[2509.09420](http://arxiv.org/abs/2509.09420)|null|
+|**2025-09-11**|**HD-MoE: Hybrid and Dynamic Parallelism for Mixture-of-Expert LLMs with 3D Near-Memory Processing**|Haochen Huang et.al.|[2509.09420](http://arxiv.org/abs/2509.09420)|**[link](https://github.com/angerybob/HD-MoE)**|
 |**2025-09-11**|**MoLEx: Mixture of LoRA Experts in Speech Self-Supervised Models for Audio Deepfake Detection**|Zihan Pan et.al.|[2509.09175](http://arxiv.org/abs/2509.09175)|null|
 |**2025-09-11**|**Compass-v3: Scaling Domain-Specific LLMs for Multilingual E-Commerce in Southeast Asia**|Sophia Maria et.al.|[2509.09121](http://arxiv.org/abs/2509.09121)|null|
 |**2025-09-10**|**MoWE : A Mixture of Weather Experts**|Dibyajyoti Chakraborty et.al.|[2509.09052](http://arxiv.org/abs/2509.09052)|null|
