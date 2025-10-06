@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Team Xiaomi EV-AD VLA: Caption-Guided Retrieval System for Cross-Modal Drone Navigation -- Technical Report for IROS 2025 RoboSense Challenge Track 4**|Lingfeng Zhang et.al.|[2510.02728](http://arxiv.org/abs/2510.02728)|null|
 |**2025-10-01**|**A Scene is Worth a Thousand Features: Feed-Forward Camera Localization from a Collection of Image Features**|Axel Barroso-Laguna et.al.|[2510.00978](http://arxiv.org/abs/2510.00978)|null|
 |**2025-10-01**|**Semantic Visual Simultaneous Localization and Mapping: A Survey on State of the Art, Challenges, and Future Directions**|Thanh Nguyen Canh et.al.|[2510.00783](http://arxiv.org/abs/2510.00783)|null|
 |**2025-09-30**|**Video Object Segmentation-Aware Audio Generation**|Ilpo Viertola et.al.|[2509.26604](http://arxiv.org/abs/2509.26604)|**[link](https://github.com/ilpoviertola/SAGANet)**|
@@ -102,6 +103,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Geometry Meets Vision: Revisiting Pretrained Semantics in Distilled Fields**|Zhiting Mei et.al.|[2510.03104](http://arxiv.org/abs/2510.03104)|null|
+|**2025-10-03**|**GS-Share: Enabling High-fidelity Map Sharing with Incremental Gaussian Splatting**|Xinran Zhang et.al.|[2510.02884](http://arxiv.org/abs/2510.02884)|null|
+|**2025-10-03**|**From Tokens to Nodes: Semantic-Guided Motion Control for Dynamic 3D Gaussian Splatting**|Jianing Chen et.al.|[2510.02732](http://arxiv.org/abs/2510.02732)|null|
+|**2025-10-03**|**FSFSplatter: Build Surface and Novel Views with Sparse-Views within 3min**|Yibin Zhao et.al.|[2510.02691](http://arxiv.org/abs/2510.02691)|null|
+|**2025-10-02**|**SIMSplat: Predictive Driving Scene Editing with Language-aligned 4D Gaussian Splatting**|Sung-Yeon Park et.al.|[2510.02469](http://arxiv.org/abs/2510.02469)|null|
 |**2025-10-02**|**StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided Illusions**|Bo-Hsu Ke et.al.|[2510.02314](http://arxiv.org/abs/2510.02314)|null|
 |**2025-10-02**|**Performance-Guided Refinement for Visual Aerial Navigation using Editable Gaussian Splatting in FalconGym 2.0**|Yan Miao et.al.|[2510.02248](http://arxiv.org/abs/2510.02248)|null|
 |**2025-10-02**|**Spec-Gloss Surfels and Normal-Diffuse Priors for Relightable Glossy Objects**|Georgios Kouros et.al.|[2510.02069](http://arxiv.org/abs/2510.02069)|null|
@@ -232,6 +238,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Training-Free Out-Of-Distribution Segmentation With Foundation Models**|Laith Nayal et.al.|[2510.02909](http://arxiv.org/abs/2510.02909)|null|
+|**2025-10-03**|**GS-Share: Enabling High-fidelity Map Sharing with Incremental Gaussian Splatting**|Xinran Zhang et.al.|[2510.02884](http://arxiv.org/abs/2510.02884)|null|
+|**2025-10-03**|**Action Deviation-Aware Inference for Low-Latency Wireless Robots**|Jeyoung Park et.al.|[2510.02851](http://arxiv.org/abs/2510.02851)|null|
+|**2025-10-03**|**Work Zones challenge VLM Trajectory Planning: Toward Mitigation and Robust Autonomous Driving**|Yifan Liao et.al.|[2510.02803](http://arxiv.org/abs/2510.02803)|null|
+|**2025-10-03**|**High Pixel Resolution Visible to Extended Shortwave Infrared Single Pixel Imaging with a black Phosphorus-Molybdenum disulfide (bP-MoS2) photodiode**|Seyed Saleh Mousavi Khaleghi et.al.|[2510.02673](http://arxiv.org/abs/2510.02673)|null|
+|**2025-10-03**|**A Trajectory Generator for High-Density Traffic and Diverse Agent-Interaction Scenarios**|Ruining Yang et.al.|[2510.02627](http://arxiv.org/abs/2510.02627)|null|
 |**2025-10-02**|**Calibrating the Full Predictive Class Distribution of 3D Object Detectors for Autonomous Driving**|Cornelius Schröder et.al.|[2510.01829](http://arxiv.org/abs/2510.01829)|null|
 |**2025-10-02**|**Nav-EE: Navigation-Guided Early Exiting for Efficient Vision-Language Models in Autonomous Driving**|Haibo Hu et.al.|[2510.01795](http://arxiv.org/abs/2510.01795)|null|
 |**2025-10-02**|**Predictive Preference Learning from Human Interventions**|Haoyuan Cai et.al.|[2510.01545](http://arxiv.org/abs/2510.01545)|null|
@@ -454,6 +466,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Mixture of Many Zero-Compute Experts: A High-Rate Quantization Theory Perspective**|Yehuda Dar et.al.|[2510.03151](http://arxiv.org/abs/2510.03151)|null|
+|**2025-10-02**|**ElasticMoE: An Efficient Auto Scaling Method for Mixture-of-Experts Models**|Gursimran Singh et.al.|[2510.02613](http://arxiv.org/abs/2510.02613)|null|
 |**2025-10-02**|**UpSafe $^\circ$ C: Upcycling for Controllable Safety in Large Language Models**|Yuhao Sun et.al.|[2510.02194](http://arxiv.org/abs/2510.02194)|null|
 |**2025-10-02**|**LadderMoE: Ladder-Side Mixture of Experts Adapters for Bronze Inscription Recognition**|Rixin Zhou et.al.|[2510.01651](http://arxiv.org/abs/2510.01651)|null|
 |**2025-10-01**|**Dirichlet-Prior Shaping: Guiding Expert Specialization in Upcycled MoEs**|Leyla Mirvakhabova et.al.|[2510.01185](http://arxiv.org/abs/2510.01185)|null|
@@ -601,14 +615,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**The Curious Case of In-Training Compression of State Space Models**|Makram Chahine et.al.|[2510.02823](http://arxiv.org/abs/2510.02823)|null|
+|**2025-10-02**|**Accurate linear modeling of EEG-based cortical activity during a passive motor task with input: a sub-space identification approach**|Sanna Bakels et.al.|[2510.02596](http://arxiv.org/abs/2510.02596)|null|
+|**2025-10-02**|**Bridging the Prediction Error Method and Subspace Identification: A Weighted Null Space Fitting Method**|Jiabao He et.al.|[2510.02529](http://arxiv.org/abs/2510.02529)|null|
+|**2025-10-01**|**Linear RNNs for autoregressive generation of long music samples**|Konrad Szewczyk et.al.|[2510.02401](http://arxiv.org/abs/2510.02401)|null|
+|**2025-09-30**|**Dynamic Modeling and Control System Analysis for Continuous-Disc Filters in Pulp Mill Operations**|Jose M. Campos-Salazar et.al.|[2510.02385](http://arxiv.org/abs/2510.02385)|null|
 |**2025-10-02**|**Knots and variance ordering of sequential Monte Carlo algorithms**|Joshua J Bon et.al.|[2510.01901](http://arxiv.org/abs/2510.01901)|null|
 |**2025-10-01**|**Gather-Scatter Mamba: Accelerating Propagation with Efficient State Space Model**|Hyun-kyu Ko et.al.|[2510.00862](http://arxiv.org/abs/2510.00862)|null|
 |**2025-10-01**|**Memory Determines Learning Direction: A Theory of Gradient-Based Optimization in State Space Models**|JingChuan Guan et.al.|[2510.00563](http://arxiv.org/abs/2510.00563)|null|
 |**2025-09-30**|**PRISM: Progressive Rain removal with Integrated State-space Modeling**|Pengze Xue et.al.|[2509.26413](http://arxiv.org/abs/2509.26413)|null|
 |**2025-09-30**|**Neural Network State-Space Estimators**|Minxing Sun et.al.|[2509.25959](http://arxiv.org/abs/2509.25959)|null|
 |**2025-09-30**|**Bringing Emerging Architectures to Sequence Labeling in NLP**|Ana Ezquerro et.al.|[2509.25918](http://arxiv.org/abs/2509.25918)|null|
-|**2025-09-29**|**Benchmarking ECG Foundational Models: A Reality Check Across Clinical Tasks**|M A Al-Masud et.al.|[2509.25095](http://arxiv.org/abs/2509.25095)|null|
-|**2025-09-29**|**DyMoDreamer: World Modeling with Dynamic Modulation**|Boxuan Zhang et.al.|[2509.24804](http://arxiv.org/abs/2509.24804)|null|
+|**2025-09-29**|**Benchmarking ECG Foundational Models: A Reality Check Across Clinical Tasks**|M A Al-Masud et.al.|[2509.25095](http://arxiv.org/abs/2509.25095)|**[link](https://github.com/naql-sa-s-com2/2509503658)**|
+|**2025-09-29**|**DyMoDreamer: World Modeling with Dynamic Modulation**|Boxuan Zhang et.al.|[2509.24804](http://arxiv.org/abs/2509.24804)|**[link](https://github.com/Ultraman-Tiga1/DyMoDreamer)**|
 |**2025-09-29**|**Q-Net: Transferable Queue Length Estimation via Kalman-based Neural Networks**|Ting Gao et.al.|[2509.24725](http://arxiv.org/abs/2509.24725)|null|
 |**2025-09-29**|**Wavelet-Assisted Mamba for Satellite-Derived Sea Surface Temperature Super-Resolution**|Wankun Chen et.al.|[2509.24334](http://arxiv.org/abs/2509.24334)|null|
 |**2025-09-29**|**Similarity-Aware Selective State-Space Modeling for Semantic Correspondence**|Seungwook Kim et.al.|[2509.24318](http://arxiv.org/abs/2509.24318)|null|
