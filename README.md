@@ -20,10 +20,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-05**|**Flexible and Efficient Spatio-Temporal Transformer for Sequential Visual Place Recognition**|Yu Kiu et.al.|[2510.04282](http://arxiv.org/abs/2510.04282)|null|
+|**2025-10-04**|**The Overlooked Value of Test-time Reference Sets in Visual Place Recognition**|Mubariz Zaffar et.al.|[2510.03751](http://arxiv.org/abs/2510.03751)|null|
 |**2025-10-03**|**Team Xiaomi EV-AD VLA: Caption-Guided Retrieval System for Cross-Modal Drone Navigation -- Technical Report for IROS 2025 RoboSense Challenge Track 4**|Lingfeng Zhang et.al.|[2510.02728](http://arxiv.org/abs/2510.02728)|null|
 |**2025-10-01**|**A Scene is Worth a Thousand Features: Feed-Forward Camera Localization from a Collection of Image Features**|Axel Barroso-Laguna et.al.|[2510.00978](http://arxiv.org/abs/2510.00978)|null|
 |**2025-10-01**|**Semantic Visual Simultaneous Localization and Mapping: A Survey on State of the Art, Challenges, and Future Directions**|Thanh Nguyen Canh et.al.|[2510.00783](http://arxiv.org/abs/2510.00783)|null|
-|**2025-09-30**|**Video Object Segmentation-Aware Audio Generation**|Ilpo Viertola et.al.|[2509.26604](http://arxiv.org/abs/2509.26604)|**[link](https://github.com/ilpoviertola/SAGANet)**|
+|**2025-09-30**|**Video Object Segmentation-Aware Audio Generation**|Ilpo Viertola et.al.|[2509.26604](http://arxiv.org/abs/2509.26604)|null|
 |**2025-09-30**|**SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval**|Ren-Di Wu et.al.|[2509.26330](http://arxiv.org/abs/2509.26330)|null|
 |**2025-09-30**|**SETR: A Two-Stage Semantic-Enhanced Framework for Zero-Shot Composed Image Retrieval**|Yuqi Xiao et.al.|[2509.26012](http://arxiv.org/abs/2509.26012)|null|
 |**2025-09-30**|**SAGE: Spatial-visual Adaptive Graph Exploration for Visual Place Recognition**|Shunpeng Chen et.al.|[2509.25723](http://arxiv.org/abs/2509.25723)|null|
@@ -118,6 +120,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-06**|**Provable Affine Identifiability of Nonlinear CCA under Latent Distributional Priors**|Zhiwei Han et.al.|[2510.04758](http://arxiv.org/abs/2510.04758)|null|
+|**2025-10-04**|**Enhancing Foveated Rendering with Weighted Reservoir Sampling**|Ville Cantory et.al.|[2510.03964](http://arxiv.org/abs/2510.03964)|null|
+|**2025-10-04**|**Optimized Minimal 4D Gaussian Splatting**|Minseo Lee et.al.|[2510.03857](http://arxiv.org/abs/2510.03857)|null|
+|**2025-10-03**|**SketchPlan: Diffusion Based Drone Planning From Human Sketches**|Sixten Norelius et.al.|[2510.03545](http://arxiv.org/abs/2510.03545)|null|
+|**2025-09-30**|**Universal Beta Splatting**|Rong Liu et.al.|[2510.03312](http://arxiv.org/abs/2510.03312)|null|
 |**2025-10-03**|**Geometry Meets Vision: Revisiting Pretrained Semantics in Distilled Fields**|Zhiting Mei et.al.|[2510.03104](http://arxiv.org/abs/2510.03104)|null|
 |**2025-10-03**|**GS-Share: Enabling High-fidelity Map Sharing with Incremental Gaussian Splatting**|Xinran Zhang et.al.|[2510.02884](http://arxiv.org/abs/2510.02884)|null|
 |**2025-10-03**|**From Tokens to Nodes: Semantic-Guided Motion Control for Dynamic 3D Gaussian Splatting**|Jianing Chen et.al.|[2510.02732](http://arxiv.org/abs/2510.02732)|null|
@@ -255,6 +262,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-06**|**Comparative Analysis of YOLOv5, Faster R-CNN, SSD, and RetinaNet for Motorbike Detection in Kigali Autonomous Driving Context**|Ngeyen Yinkfu et.al.|[2510.04912](http://arxiv.org/abs/2510.04912)|null|
+|**2025-10-06**|**Progressive Gaussian Transformer with Anisotropy-aware Sampling for Open Vocabulary Occupancy Prediction**|Chi Yan et.al.|[2510.04759](http://arxiv.org/abs/2510.04759)|null|
+|**2025-10-05**|**Diffusion^2: Dual Diffusion Model with Uncertainty-Aware Adaptive Noise for Momentary Trajectory Prediction**|Yuhao Luo et.al.|[2510.04365](http://arxiv.org/abs/2510.04365)|null|
+|**2025-10-04**|**From Filters to VLMs: Benchmarking Defogging Methods through Object Detection and Segmentation Performance**|Ardalan Aryashad et.al.|[2510.03906](http://arxiv.org/abs/2510.03906)|null|
+|**2025-10-04**|**Referring Expression Comprehension for Small Objects**|Kanoko Goto et.al.|[2510.03701](http://arxiv.org/abs/2510.03701)|null|
+|**2025-10-04**|**Safety-Oriented Dynamic Path Planning for Automated Vehicles**|Mostafa Emam et.al.|[2510.03640](http://arxiv.org/abs/2510.03640)|null|
 |**2025-10-03**|**Training-Free Out-Of-Distribution Segmentation With Foundation Models**|Laith Nayal et.al.|[2510.02909](http://arxiv.org/abs/2510.02909)|null|
 |**2025-10-03**|**GS-Share: Enabling High-fidelity Map Sharing with Incremental Gaussian Splatting**|Xinran Zhang et.al.|[2510.02884](http://arxiv.org/abs/2510.02884)|null|
 |**2025-10-03**|**Action Deviation-Aware Inference for Low-Latency Wireless Robots**|Jeyoung Park et.al.|[2510.02851](http://arxiv.org/abs/2510.02851)|null|
@@ -430,6 +443,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-06**|**OKVIS2-X: Open Keyframe-based Visual-Inertial SLAM Configurable with Dense Depth or LiDAR, and GNSS**|Simon Boche et.al.|[2510.04612](http://arxiv.org/abs/2510.04612)|null|
+|**2025-10-05**|**Constructing coherent spatial memory in LLM agents through graph rectification**|Puzhen Zhang et.al.|[2510.04195](http://arxiv.org/abs/2510.04195)|null|
 |**2025-10-01**|**A Scene is Worth a Thousand Features: Feed-Forward Camera Localization from a Collection of Image Features**|Axel Barroso-Laguna et.al.|[2510.00978](http://arxiv.org/abs/2510.00978)|null|
 |**2025-09-30**|**Updates to the WFC3/UVIS Saturation Map**|Mitchell Revalski et.al.|[2510.00097](http://arxiv.org/abs/2510.00097)|null|
 |**2025-09-30**|**Memory-Efficient 2D/3D Shape Assembly of Robot Swarms**|Shuoyu Yue et.al.|[2509.26518](http://arxiv.org/abs/2509.26518)|null|
@@ -489,6 +504,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-06**|**REN: Anatomically-Informed Mixture-of-Experts for Interstitial Lung Disease Diagnosis**|Alec K. Peltekian et.al.|[2510.04923](http://arxiv.org/abs/2510.04923)|null|
+|**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
+|**2025-10-06**|**Multilingual Routing in Mixture-of-Experts**|Lucas Bandarkar et.al.|[2510.04694](http://arxiv.org/abs/2510.04694)|null|
+|**2025-10-06**|**Improving Multimodal Brain Encoding Model with Dynamic Subject-awareness Routing**|Xuanhua Yin et.al.|[2510.04670](http://arxiv.org/abs/2510.04670)|null|
+|**2025-10-06**|**Compressed Convolutional Attention: Efficient Attention in a Compressed Latent Space**|Tomas Figliolia et.al.|[2510.04476](http://arxiv.org/abs/2510.04476)|null|
+|**2025-10-05**|**HoRA: Cross-Head Low-Rank Adaptation with Joint Hypernetworks**|Nghiem T. Diep et.al.|[2510.04295](http://arxiv.org/abs/2510.04295)|null|
+|**2025-10-05**|**SliceMoE: Routing Embedding Slices Instead of Tokens for Fine-Grained and Balanced Transformer Scaling**|Harshil Vejendla et.al.|[2510.04286](http://arxiv.org/abs/2510.04286)|null|
+|**2025-10-05**|**MoME: Mixture of Matryoshka Experts for Audio-Visual Speech Recognition**|Umberto Cappellazzo et.al.|[2510.04136](http://arxiv.org/abs/2510.04136)|null|
 |**2025-10-03**|**Mixture of Many Zero-Compute Experts: A High-Rate Quantization Theory Perspective**|Yehuda Dar et.al.|[2510.03151](http://arxiv.org/abs/2510.03151)|null|
 |**2025-10-02**|**ElasticMoE: An Efficient Auto Scaling Method for Mixture-of-Experts Models**|Gursimran Singh et.al.|[2510.02613](http://arxiv.org/abs/2510.02613)|null|
 |**2025-10-02**|**UpSafe $^\circ$ C: Upcycling for Controllable Safety in Large Language Models**|Yuhao Sun et.al.|[2510.02194](http://arxiv.org/abs/2510.02194)|null|
@@ -640,6 +663,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-06**|**On Structured State-Space Duality**|Jerry Yao-Chieh Hu et.al.|[2510.04944](http://arxiv.org/abs/2510.04944)|null|
+|**2025-10-06**|**MCMC for State Space models**|Paul Fearnhead et.al.|[2510.04932](http://arxiv.org/abs/2510.04932)|null|
+|**2025-10-06**|**Hybrid Architectures for Language Models: Systematic Analysis and Design Insights**|Sangmin Bae et.al.|[2510.04800](http://arxiv.org/abs/2510.04800)|null|
+|**2025-10-06**|**Speak, Edit, Repeat: High-Fidelity Voice Editing and Zero-Shot TTS with Cross-Attentive Mamba**|Baher Mohammad et.al.|[2510.04738](http://arxiv.org/abs/2510.04738)|null|
+|**2025-10-05**|**Wave-PDE Nets: Trainable Wave-Equation Layers as an Alternative to Attention**|Harshil Vejendla et.al.|[2510.04304](http://arxiv.org/abs/2510.04304)|null|
 |**2025-10-03**|**The Curious Case of In-Training Compression of State Space Models**|Makram Chahine et.al.|[2510.02823](http://arxiv.org/abs/2510.02823)|null|
 |**2025-10-02**|**Accurate linear modeling of EEG-based cortical activity during a passive motor task with input: a sub-space identification approach**|Sanna Bakels et.al.|[2510.02596](http://arxiv.org/abs/2510.02596)|null|
 |**2025-10-02**|**Bridging the Prediction Error Method and Subspace Identification: A Weighted Null Space Fitting Method**|Jiabao He et.al.|[2510.02529](http://arxiv.org/abs/2510.02529)|null|
@@ -724,6 +752,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-06**|**In-Field Mapping of Grape Yield and Quality with Illumination-Invariant Deep Learning**|Ciem Cornelissen et.al.|[2510.04864](http://arxiv.org/abs/2510.04864)|null|
 |**2025-10-02**|**Flow-Matching Guided Deep Unfolding for Hyperspectral Image Reconstruction**|Yi Ai et.al.|[2510.01912](http://arxiv.org/abs/2510.01912)|null|
 |**2025-09-28**|**Joint Superpixel and Self-Representation Learning for Scalable Hyperspectral Image Clustering**|Xianlu Li et.al.|[2509.24027](http://arxiv.org/abs/2509.24027)|null|
 |**2025-09-28**|**Generalized Category Discovery in Hyperspectral Images via Prototype Subspace Modeling**|Xianlu Li et.al.|[2509.24017](http://arxiv.org/abs/2509.24017)|null|
