@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**CalibCLIP: Contextual Calibration of Dominant Semantics for Text-Driven Image Retrieval**|Bin Kang et.al.|[2510.05586](http://arxiv.org/abs/2510.05586)|null|
+|**2025-10-06**|**Personalizing Retrieval using Joint Embeddings or "the Return of Fluffy"**|Bruno Korbar et.al.|[2510.05411](http://arxiv.org/abs/2510.05411)|null|
 |**2025-10-05**|**Flexible and Efficient Spatio-Temporal Transformer for Sequential Visual Place Recognition**|Yu Kiu et.al.|[2510.04282](http://arxiv.org/abs/2510.04282)|null|
 |**2025-10-04**|**The Overlooked Value of Test-time Reference Sets in Visual Place Recognition**|Mubariz Zaffar et.al.|[2510.03751](http://arxiv.org/abs/2510.03751)|null|
 |**2025-10-03**|**Team Xiaomi EV-AD VLA: Caption-Guided Retrieval System for Cross-Modal Drone Navigation -- Technical Report for IROS 2025 RoboSense Challenge Track 4**|Lingfeng Zhang et.al.|[2510.02728](http://arxiv.org/abs/2510.02728)|null|
@@ -105,6 +107,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**ArchitectHead: Continuous Level of Detail Control for 3D Gaussian Head Avatars**|Peizhi Yan et.al.|[2510.05488](http://arxiv.org/abs/2510.05488)|null|
 |**2025-10-06**|**Provable Affine Identifiability of Nonlinear CCA under Latent Distributional Priors**|Zhiwei Han et.al.|[2510.04758](http://arxiv.org/abs/2510.04758)|null|
 |**2025-10-04**|**Enhancing Foveated Rendering with Weighted Reservoir Sampling**|Ville Cantory et.al.|[2510.03964](http://arxiv.org/abs/2510.03964)|null|
 |**2025-10-04**|**Optimized Minimal 4D Gaussian Splatting**|Minseo Lee et.al.|[2510.03857](http://arxiv.org/abs/2510.03857)|null|
@@ -245,6 +248,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**Drive&Gen: Co-Evaluating End-to-End Driving and Video Generation Models**|Jiahao Wang et.al.|[2510.06209](http://arxiv.org/abs/2510.06209)|null|
+|**2025-10-07**|**From Learning to Mastery: Achieving Safe and Efficient Real-World Autonomous Driving with Human-In-The-Loop Reinforcement Learning**|Li Zeqiao et.al.|[2510.06038](http://arxiv.org/abs/2510.06038)|null|
+|**2025-10-07**|**The Safety Challenge of World Models for Embodied AI Agents: A Review**|Lorenzo Baraldi et.al.|[2510.05865](http://arxiv.org/abs/2510.05865)|null|
+|**2025-10-07**|**ALISE: Annotation-Free LiDAR Instance Segmentation for Autonomous Driving**|Yongxuan Lyu et.al.|[2510.05752](http://arxiv.org/abs/2510.05752)|null|
+|**2025-10-07**|**Precise and Efficient Collision Prediction under Uncertainty in Autonomous Driving**|Marc Kaufeld et.al.|[2510.05729](http://arxiv.org/abs/2510.05729)|null|
 |**2025-10-06**|**Comparative Analysis of YOLOv5, Faster R-CNN, SSD, and RetinaNet for Motorbike Detection in Kigali Autonomous Driving Context**|Ngeyen Yinkfu et.al.|[2510.04912](http://arxiv.org/abs/2510.04912)|null|
 |**2025-10-06**|**Progressive Gaussian Transformer with Anisotropy-aware Sampling for Open Vocabulary Occupancy Prediction**|Chi Yan et.al.|[2510.04759](http://arxiv.org/abs/2510.04759)|null|
 |**2025-10-05**|**Diffusion^2: Dual Diffusion Model with Uncertainty-Aware Adaptive Noise for Momentary Trajectory Prediction**|Yuhao Luo et.al.|[2510.04365](http://arxiv.org/abs/2510.04365)|null|
@@ -481,6 +489,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**Barbarians at the Gate: How AI is Upending Systems Research**|Audrey Cheng et.al.|[2510.06189](http://arxiv.org/abs/2510.06189)|null|
+|**2025-10-07**|**CreditDecoding: Accelerating Parallel Decoding in Diffusion Large Language Models with Trace Credits**|Kangyu Wang et.al.|[2510.06133](http://arxiv.org/abs/2510.06133)|null|
+|**2025-10-07**|**Rasterized Steered Mixture of Experts for Efficient 2D Image Regression**|Yi-Hsin Li et.al.|[2510.05814](http://arxiv.org/abs/2510.05814)|null|
+|**2025-10-07**|**Mixture of Neuron Experts**|Runxi Cheng et.al.|[2510.05781](http://arxiv.org/abs/2510.05781)|null|
+|**2025-10-07**|**MSF-SER: Enriching Acoustic Modeling with Multi-Granularity Semantics for Speech Emotion Recognition**|Haoxun Li et.al.|[2510.05749](http://arxiv.org/abs/2510.05749)|null|
+|**2025-10-07**|**Orders in Chaos: Enhancing Large-Scale MoE LLM Serving with Data Movement Forecasting**|Zhongkai Yu et.al.|[2510.05497](http://arxiv.org/abs/2510.05497)|null|
+|**2025-10-06**|**Stratum: System-Hardware Co-Design with Tiered Monolithic 3D-Stackable DRAM for Efficient MoE Serving**|Yue Pan et.al.|[2510.05245](http://arxiv.org/abs/2510.05245)|null|
 |**2025-10-06**|**REN: Anatomically-Informed Mixture-of-Experts for Interstitial Lung Disease Diagnosis**|Alec K. Peltekian et.al.|[2510.04923](http://arxiv.org/abs/2510.04923)|null|
 |**2025-10-06**|**LMM-Incentive: Large Multimodal Model-based Incentive Design for User-Generated Content in Web 3.0**|Jinbo Wen et.al.|[2510.04765](http://arxiv.org/abs/2510.04765)|null|
 |**2025-10-06**|**Multilingual Routing in Mixture-of-Experts**|Lucas Bandarkar et.al.|[2510.04694](http://arxiv.org/abs/2510.04694)|null|
@@ -638,6 +653,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**High-Fidelity Synthetic ECG Generation via Mel-Spectrogram Informed Diffusion Training**|Zhuoyi Huang et.al.|[2510.05492](http://arxiv.org/abs/2510.05492)|null|
+|**2025-10-06**|**The End of Transformers? On Challenging Attention and the Rise of Sub-Quadratic Architectures**|Alexander M. Fichtl et.al.|[2510.05364](http://arxiv.org/abs/2510.05364)|null|
+|**2025-10-06**|**Rivaling Transformers: Multi-Scale Structured State-Space Mixtures for Agentic 6G O-RAN**|Farhad Rezazadeh et.al.|[2510.05255](http://arxiv.org/abs/2510.05255)|null|
 |**2025-10-06**|**On Structured State-Space Duality**|Jerry Yao-Chieh Hu et.al.|[2510.04944](http://arxiv.org/abs/2510.04944)|null|
 |**2025-10-06**|**MCMC for State Space models**|Paul Fearnhead et.al.|[2510.04932](http://arxiv.org/abs/2510.04932)|null|
 |**2025-10-06**|**Hybrid Architectures for Language Models: Systematic Analysis and Design Insights**|Sangmin Bae et.al.|[2510.04800](http://arxiv.org/abs/2510.04800)|null|
@@ -741,6 +759,7 @@ layout: default
 |**2025-09-22**|**HyperTTA: Test-Time Adaptation for Hyperspectral Image Classification under Distribution Shifts**|Xia Yue et.al.|[2509.08436](http://arxiv.org/abs/2509.08436)|null|
 |**2025-09-09**|**GW250114: testing Hawking's area law and the Kerr nature of black holes**|The LIGO Scientific Collaboration et.al.|[2509.08054](http://arxiv.org/abs/2509.08054)|null|
 |**2025-09-15**|**Directed searches for gravitational waves from ultralight vector boson clouds around merger remnant and galactic black holes during the first part of the fourth LIGO-Virgo-KAGRA observing run**|The LIGO Scientific Collaboration et.al.|[2509.07352](http://arxiv.org/abs/2509.07352)|null|
+|**2025-10-07**|**GWTC-4.0: Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave Propagation**|The LIGO Scientific Collaboration et.al.|[2509.04348](http://arxiv.org/abs/2509.04348)|null|
 |**2025-09-02**|**Explainability-Driven Dimensionality Reduction for Hyperspectral Imaging**|Salma Haidar et.al.|[2509.02340](http://arxiv.org/abs/2509.02340)|null|
 |**2025-09-01**|**FantasyHSI: Video-Generation-Centric 4D Human Synthesis In Any Scene through A Graph-based Multi-Agent Framework**|Lingzhou Mu et.al.|[2509.01232](http://arxiv.org/abs/2509.01232)|null|
 |**2025-08-31**|**CSFMamba: Cross State Fusion Mamba Operator for Multimodal Remote Sensing Image Classification**|Qingyu Wang et.al.|[2509.00677](http://arxiv.org/abs/2509.00677)|null|
