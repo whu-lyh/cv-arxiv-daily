@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.07
+## Updated on 2025.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -498,7 +498,7 @@ layout: default
 |**2025-10-01**|**Graph Integrated Multimodal Concept Bottleneck Model**|Jiakai Lin et.al.|[2510.00701](http://arxiv.org/abs/2510.00701)|null|
 |**2025-10-01**|**FAME: Adaptive Functional Attention with Expert Routing for Function-on-Function Regression**|Yifei Gao et.al.|[2510.00621](http://arxiv.org/abs/2510.00621)|null|
 |**2025-10-01**|**Adaptive Shared Experts with LoRA-Based Mixture of Experts for Multi-Task Learning**|Minghao Yang et.al.|[2510.00570](http://arxiv.org/abs/2510.00570)|null|
-|**2025-09-30**|**FlowMoE: A Scalable Pipeline Scheduling Framework for Distributed Mixture-of-Experts Training**|Yunqi Gao et.al.|[2510.00207](http://arxiv.org/abs/2510.00207)|null|
+|**2025-10-07**|**FlowMoE: A Scalable Pipeline Scheduling Framework for Distributed Mixture-of-Experts Training**|Yunqi Gao et.al.|[2510.00207](http://arxiv.org/abs/2510.00207)|null|
 |**2025-09-30**|**Training Matryoshka Mixture-of-Experts for Elastic Inference-Time Expert Utilization**|Yaoxiang Wang et.al.|[2509.26520](http://arxiv.org/abs/2509.26520)|null|
 |**2025-09-30**|**Nephrobase Cell+: Multimodal Single-Cell Foundation Model for Decoding Kidney Biology**|Chenyu Li et.al.|[2509.26223](http://arxiv.org/abs/2509.26223)|null|
 |**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Haiyang Li et.al.|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
