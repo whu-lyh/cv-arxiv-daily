@@ -1,4 +1,4 @@
-## Updated on 2025.10.09
+## Updated on 2025.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -85,7 +85,7 @@
 |**2025-08-27**|**Low-exposure, high-quality multimodal speckle X-ray imaging via an intrinsic gradient-flow approach**|Jayvan Liu et.al.|[2508.20209](http://arxiv.org/abs/2508.20209)|null|
 |**2025-08-27**|**Grounding Multimodal Large Language Models with Quantitative Skin Attributes: A Retrieval Study**|Max Torop et.al.|[2508.20188](http://arxiv.org/abs/2508.20188)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 ## Point Cloud Place Recognition
 
@@ -117,7 +117,7 @@
 |**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|null|
 |**2024-03-19**|**HeLiPR: Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition under Spatiotemporal Variations**|Minwoo Jung et.al.|[2309.14590](http://arxiv.org/abs/2309.14590)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 ## 3D GS
 
@@ -126,7 +126,7 @@
 |**2025-10-08**|**Generating Surface for Text-to-3D using 2D Gaussian Splatting**|Huanning Dong et.al.|[2510.06967](http://arxiv.org/abs/2510.06967)|null|
 |**2025-10-08**|**Capture and Interact: Rapid 3D Object Acquisition and Rendering with Gaussian Splatting in Unity**|Islomjon Shukhratov et.al.|[2510.06802](http://arxiv.org/abs/2510.06802)|null|
 |**2025-10-08**|**SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D Novel View Synthesis**|Jipeng Lyu et.al.|[2510.06694](http://arxiv.org/abs/2510.06694)|null|
-|**2025-10-08**|**RTGS: Real-Time 3D Gaussian Splatting SLAM via Multi-Level Redundancy Reduction**|Leshu Li et.al.|[2510.06644](http://arxiv.org/abs/2510.06644)|null|
+|**2025-10-09**|**RTGS: Real-Time 3D Gaussian Splatting SLAM via Multi-Level Redundancy Reduction**|Leshu Li et.al.|[2510.06644](http://arxiv.org/abs/2510.06644)|null|
 |**2025-10-07**|**Active Next-Best-View Optimization for Risk-Averse Path Planning**|Amirhossein Mollaei Khass et.al.|[2510.06481](http://arxiv.org/abs/2510.06481)|null|
 |**2025-10-07**|**ArchitectHead: Continuous Level of Detail Control for 3D Gaussian Head Avatars**|Peizhi Yan et.al.|[2510.05488](http://arxiv.org/abs/2510.05488)|null|
 |**2025-10-06**|**Provable Affine Identifiability of Nonlinear CCA under Latent Distributional Priors**|Zhiwei Han et.al.|[2510.04758](http://arxiv.org/abs/2510.04758)|null|
@@ -265,7 +265,7 @@
 |**2025-08-30**|**AGS: Accelerating 3D Gaussian Splatting SLAM via CODEC-Assisted Frame Covisibility Detection**|Houshu He et.al.|[2509.00433](http://arxiv.org/abs/2509.00433)|null|
 |**2025-08-29**|**Complete Gaussian Splats from a Single Image with Denoising Diffusion Models**|Ziwei Liao et.al.|[2508.21542](http://arxiv.org/abs/2508.21542)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -458,7 +458,7 @@
 |**2025-09-02**|**Curiosity-Driven Testing for Sequential Decision-Making Process**|Junda He et.al.|[2509.02025](http://arxiv.org/abs/2509.02025)|null|
 |**2025-09-02**|**Generalizing Unsupervised Lidar Odometry Model from Normal to Snowy Weather Conditions**|Beibei Zhou et.al.|[2509.02011](http://arxiv.org/abs/2509.02011)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 ## Map
 
@@ -499,7 +499,7 @@
 |**2025-06-05**|**ADEPT: Adaptive Diffusion Environment for Policy Transfer Sim-to-Real**|Youwei Yu et.al.|[2506.01759](http://arxiv.org/abs/2506.01759)|null|
 |**2025-06-01**|**Globally Consistent RGB-D SLAM with 2D Gaussian Splatting**|Xingguang Zhong et.al.|[2506.00970](http://arxiv.org/abs/2506.00970)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 ## Non-rigid Registration
 
@@ -519,7 +519,7 @@
 |**2013-04-15**|**Local Structure Matching Driven by Joint-Saliency-Structure Adaptive Kernel Regression**|Binjie Qin et.al.|[1302.0494](http://arxiv.org/abs/1302.0494)|null|
 |**2011-04-21**|**A Meshless Method for Variational Nonrigid 2-D Shape Registration**|Wei Liu et.al.|[1104.4168](http://arxiv.org/abs/1104.4168)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 ## MoE
 
@@ -527,7 +527,7 @@
 |---|---|---|---|---|
 |**2025-10-08**|**Guided by the Experts: Provable Feature Learning Dynamic of Soft-Routed Mixture-of-Experts**|Fangshuo Liao et.al.|[2510.07205](http://arxiv.org/abs/2510.07205)|null|
 |**2025-10-08**|**A Bridge from Audio to Video: Phoneme-Viseme Alignment Allows Every Face to Speak Multiple Languages**|Zibo Su et.al.|[2510.06612](http://arxiv.org/abs/2510.06612)|null|
-|**2025-10-07**|**SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation**|Shuang Cheng et.al.|[2510.06303](http://arxiv.org/abs/2510.06303)|null|
+|**2025-10-09**|**SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation**|Shuang Cheng et.al.|[2510.06303](http://arxiv.org/abs/2510.06303)|null|
 |**2025-10-06**|**Reproducibility Study of "XRec: Large Language Models for Explainable Recommendation"**|Ranjan Mishra et.al.|[2510.06275](http://arxiv.org/abs/2510.06275)|null|
 |**2025-10-08**|**Barbarians at the Gate: How AI is Upending Systems Research**|Audrey Cheng et.al.|[2510.06189](http://arxiv.org/abs/2510.06189)|null|
 |**2025-10-07**|**CreditDecoding: Accelerating Parallel Decoding in Diffusion Large Language Models with Trace Credits**|Kangyu Wang et.al.|[2510.06133](http://arxiv.org/abs/2510.06133)|null|
@@ -689,7 +689,7 @@
 |**2025-08-31**|**MEPT: Mixture of Expert Prompt Tuning as a Manifold Mapper**|Runjia Zeng et.al.|[2509.00996](http://arxiv.org/abs/2509.00996)|null|
 |**2025-08-31**|**Router Upcycling: Leveraging Mixture-of-Routers in Mixture-of-Experts Upcycling**|Junfeng Ran et.al.|[2509.00679](http://arxiv.org/abs/2509.00679)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 ## Mamba
 
@@ -699,7 +699,7 @@
 |**2025-10-08**|**DeRainMamba: A Frequency-Aware State Space Model with Detail Enhancement for Image Deraining**|Zhiliang Zhu et.al.|[2510.06746](http://arxiv.org/abs/2510.06746)|null|
 |**2025-10-08**|**A Comparative Analysis of Contextual Representation Flow in State-Space and Transformer Architectures**|Nhat M. Hoang et.al.|[2510.06640](http://arxiv.org/abs/2510.06640)|null|
 |**2025-10-08**|**Do Internal Layers of LLMs Reveal Patterns for Jailbreak Detection?**|Sri Durga Sai Sowmya Kadali et.al.|[2510.06594](http://arxiv.org/abs/2510.06594)|null|
-|**2025-10-07**|**High-Fidelity Synthetic ECG Generation via Mel-Spectrogram Informed Diffusion Training**|Zhuoyi Huang et.al.|[2510.05492](http://arxiv.org/abs/2510.05492)|null|
+|**2025-10-09**|**High-Fidelity Synthetic ECG Generation via Mel-Spectrogram Informed Diffusion Training**|Zhuoyi Huang et.al.|[2510.05492](http://arxiv.org/abs/2510.05492)|null|
 |**2025-10-06**|**The End of Transformers? On Challenging Attention and the Rise of Sub-Quadratic Architectures**|Alexander M. Fichtl et.al.|[2510.05364](http://arxiv.org/abs/2510.05364)|null|
 |**2025-10-06**|**Rivaling Transformers: Multi-Scale Structured State-Space Mixtures for Agentic 6G O-RAN**|Farhad Rezazadeh et.al.|[2510.05255](http://arxiv.org/abs/2510.05255)|null|
 |**2025-10-06**|**On Structured State-Space Duality**|Jerry Yao-Chieh Hu et.al.|[2510.04944](http://arxiv.org/abs/2510.04944)|null|
@@ -707,7 +707,7 @@
 |**2025-10-06**|**Hybrid Architectures for Language Models: Systematic Analysis and Design Insights**|Sangmin Bae et.al.|[2510.04800](http://arxiv.org/abs/2510.04800)|null|
 |**2025-10-06**|**Speak, Edit, Repeat: High-Fidelity Voice Editing and Zero-Shot TTS with Cross-Attentive Mamba**|Baher Mohammad et.al.|[2510.04738](http://arxiv.org/abs/2510.04738)|null|
 |**2025-10-05**|**Wave-PDE Nets: Trainable Wave-Equation Layers as an Alternative to Attention**|Harshil Vejendla et.al.|[2510.04304](http://arxiv.org/abs/2510.04304)|null|
-|**2025-10-03**|**The Curious Case of In-Training Compression of State Space Models**|Makram Chahine et.al.|[2510.02823](http://arxiv.org/abs/2510.02823)|null|
+|**2025-10-09**|**The Curious Case of In-Training Compression of State Space Models**|Makram Chahine et.al.|[2510.02823](http://arxiv.org/abs/2510.02823)|null|
 |**2025-10-02**|**Accurate linear modeling of EEG-based cortical activity during a passive motor task with input: a sub-space identification approach**|Sanna Bakels et.al.|[2510.02596](http://arxiv.org/abs/2510.02596)|null|
 |**2025-10-02**|**Bridging the Prediction Error Method and Subspace Identification: A Weighted Null Space Fitting Method**|Jiabao He et.al.|[2510.02529](http://arxiv.org/abs/2510.02529)|null|
 |**2025-10-01**|**Linear RNNs for autoregressive generation of long music samples**|Konrad Szewczyk et.al.|[2510.02401](http://arxiv.org/abs/2510.02401)|null|
@@ -785,7 +785,7 @@
 |**2025-08-30**|**SemaMIL: Semantic Reordering with Retrieval-Guided State Space Modeling for Whole Slide Image Classification**|Lubin Gan et.al.|[2509.00442](http://arxiv.org/abs/2509.00442)|null|
 |**2025-08-29**|**Quantum-Optimized Selective State Space Model for Efficient Time Series Prediction**|Stefan-Alexandru Jura et.al.|[2509.00259](http://arxiv.org/abs/2509.00259)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
 ## HSI Classification
 
@@ -830,5 +830,5 @@
 |**2025-08-01**|**Honey Classification using Hyperspectral Imaging and Machine Learning**|Mokhtar A. Al-Awadhi et.al.|[2508.00361](http://arxiv.org/abs/2508.00361)|null|
 |**2025-07-31**|**SAMSA: Segment Anything Model Enhanced with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation**|Alfie Roddan et.al.|[2507.23673](http://arxiv.org/abs/2507.23673)|null|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251010>back to top</a>)</p>
 
