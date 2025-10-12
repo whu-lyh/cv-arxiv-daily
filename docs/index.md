@@ -2,16 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.10.11
+## Updated on 2025.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-09**|**DarkHash: A Data-Free Backdoor Attack Against Deep Hashing**|Ziqi Zhou et.al.|[2510.08094](http://arxiv.org/abs/2510.08094)|**[link](https://github.com/Zhou-Zi7/DarkHash)**|
+|**2025-10-09**|**DarkHash: A Data-Free Backdoor Attack Against Deep Hashing**|Ziqi Zhou et.al.|[2510.08094](http://arxiv.org/abs/2510.08094)|null|
 |**2025-10-09**|**CIR-CoT: Towards Interpretable Composed Image Retrieval via End-to-End Chain-of-Thought Reasoning**|Weihuang Lin et.al.|[2510.08003](http://arxiv.org/abs/2510.08003)|null|
-|**2025-10-09**|**Mutual Learning for Hashing: Unlocking Strong Hash Functions from Weak Supervision**|Xiaoxu Ma et.al.|[2510.07703](http://arxiv.org/abs/2510.07703)|**[link](https://github.com/mxx0723/MLH)**|
+|**2025-10-09**|**Mutual Learning for Hashing: Unlocking Strong Hash Functions from Weak Supervision**|Xiaoxu Ma et.al.|[2510.07703](http://arxiv.org/abs/2510.07703)|null|
 |**2025-10-08**|**Multi-hop Deep Joint Source-Channel Coding with Deep Hash Distillation for Semantically Aligned Image Retrieval**|Didrik Bergström et.al.|[2510.06868](http://arxiv.org/abs/2510.06868)|null|
 |**2025-10-07**|**CalibCLIP: Contextual Calibration of Dominant Semantics for Text-Driven Image Retrieval**|Bin Kang et.al.|[2510.05586](http://arxiv.org/abs/2510.05586)|null|
 |**2025-10-06**|**Personalizing Retrieval using Joint Embeddings or "the Return of Fluffy"**|Bruno Korbar et.al.|[2510.05411](http://arxiv.org/abs/2510.05411)|null|
@@ -265,8 +265,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-09**|**Scalable Offline Metrics for Autonomous Driving**|Animikh Aich et.al.|[2510.08571](http://arxiv.org/abs/2510.08571)|**[link](https://github.com/uweiros/uweiros.github.io)**|
-|**2025-10-09**|**ResAD: Normalized Residual Trajectory Modeling for End-to-End Autonomous Driving**|Zhiyu Zheng et.al.|[2510.08562](http://arxiv.org/abs/2510.08562)|**[link](https://github.com/Duckyee728/ResAD-released)**|
+|**2025-10-09**|**Scalable Offline Metrics for Autonomous Driving**|Animikh Aich et.al.|[2510.08571](http://arxiv.org/abs/2510.08571)|null|
+|**2025-10-09**|**ResAD: Normalized Residual Trajectory Modeling for End-to-End Autonomous Driving**|Zhiyu Zheng et.al.|[2510.08562](http://arxiv.org/abs/2510.08562)|null|
 |**2025-10-09**|**Approximate Domain Unlearning for Vision-Language Models**|Kodai Kawamura et.al.|[2510.08132](http://arxiv.org/abs/2510.08132)|null|
 |**2025-10-09**|**LinguaSim: Interactive Multi-Vehicle Testing Scenario Generation via Natural Language Instruction Based on Large Language Models**|Qingyuan Shi et.al.|[2510.08046](http://arxiv.org/abs/2510.08046)|null|
 |**2025-10-09**|**RayFusion: Ray Fusion Enhanced Collaborative Visual Perception**|Shaohong Wang et.al.|[2510.08017](http://arxiv.org/abs/2510.08017)|null|
@@ -717,7 +717,7 @@ layout: default
 |**2025-10-01**|**Linear RNNs for autoregressive generation of long music samples**|Konrad Szewczyk et.al.|[2510.02401](http://arxiv.org/abs/2510.02401)|null|
 |**2025-09-30**|**Dynamic Modeling and Control System Analysis for Continuous-Disc Filters in Pulp Mill Operations**|Jose M. Campos-Salazar et.al.|[2510.02385](http://arxiv.org/abs/2510.02385)|null|
 |**2025-10-02**|**Knots and variance ordering of sequential Monte Carlo algorithms**|Joshua J Bon et.al.|[2510.01901](http://arxiv.org/abs/2510.01901)|null|
-|**2025-10-01**|**Gather-Scatter Mamba: Accelerating Propagation with Efficient State Space Model**|Hyun-kyu Ko et.al.|[2510.00862](http://arxiv.org/abs/2510.00862)|**[link](https://github.com/Ko-Lani/GSMamba)**|
+|**2025-10-01**|**Gather-Scatter Mamba: Accelerating Propagation with Efficient State Space Model**|Hyun-kyu Ko et.al.|[2510.00862](http://arxiv.org/abs/2510.00862)|null|
 |**2025-10-01**|**Memory Determines Learning Direction: A Theory of Gradient-Based Optimization in State Space Models**|JingChuan Guan et.al.|[2510.00563](http://arxiv.org/abs/2510.00563)|null|
 |**2025-09-30**|**PRISM: Progressive Rain removal with Integrated State-space Modeling**|Pengze Xue et.al.|[2509.26413](http://arxiv.org/abs/2509.26413)|null|
 |**2025-09-30**|**Neural Network State-Space Estimators**|Minxing Sun et.al.|[2509.25959](http://arxiv.org/abs/2509.25959)|null|
