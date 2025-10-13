@@ -20,7 +20,7 @@ layout: default
 |**2025-10-03**|**Team Xiaomi EV-AD VLA: Caption-Guided Retrieval System for Cross-Modal Drone Navigation -- Technical Report for IROS 2025 RoboSense Challenge Track 4**|Lingfeng Zhang et.al.|[2510.02728](http://arxiv.org/abs/2510.02728)|null|
 |**2025-10-01**|**A Scene is Worth a Thousand Features: Feed-Forward Camera Localization from a Collection of Image Features**|Axel Barroso-Laguna et.al.|[2510.00978](http://arxiv.org/abs/2510.00978)|null|
 |**2025-10-01**|**Semantic Visual Simultaneous Localization and Mapping: A Survey on State of the Art, Challenges, and Future Directions**|Thanh Nguyen Canh et.al.|[2510.00783](http://arxiv.org/abs/2510.00783)|null|
-|**2025-09-30**|**Video Object Segmentation-Aware Audio Generation**|Ilpo Viertola et.al.|[2509.26604](http://arxiv.org/abs/2509.26604)|null|
+|**2025-09-30**|**Video Object Segmentation-Aware Audio Generation**|Ilpo Viertola et.al.|[2509.26604](http://arxiv.org/abs/2509.26604)|**[link](https://github.com/ilpoviertola/SAGANet)**|
 |**2025-09-30**|**SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval**|Ren-Di Wu et.al.|[2509.26330](http://arxiv.org/abs/2509.26330)|null|
 |**2025-09-30**|**SETR: A Two-Stage Semantic-Enhanced Framework for Zero-Shot Composed Image Retrieval**|Yuqi Xiao et.al.|[2509.26012](http://arxiv.org/abs/2509.26012)|null|
 |**2025-09-30**|**SAGE: Spatial-visual Adaptive Graph Exploration for Visual Place Recognition**|Shunpeng Chen et.al.|[2509.25723](http://arxiv.org/abs/2509.25723)|null|
@@ -265,8 +265,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-09**|**Scalable Offline Metrics for Autonomous Driving**|Animikh Aich et.al.|[2510.08571](http://arxiv.org/abs/2510.08571)|null|
-|**2025-10-09**|**ResAD: Normalized Residual Trajectory Modeling for End-to-End Autonomous Driving**|Zhiyu Zheng et.al.|[2510.08562](http://arxiv.org/abs/2510.08562)|null|
+|**2025-10-09**|**Scalable Offline Metrics for Autonomous Driving**|Animikh Aich et.al.|[2510.08571](http://arxiv.org/abs/2510.08571)|**[link](https://github.com/uweiros/uweiros.github.io)**|
+|**2025-10-09**|**ResAD: Normalized Residual Trajectory Modeling for End-to-End Autonomous Driving**|Zhiyu Zheng et.al.|[2510.08562](http://arxiv.org/abs/2510.08562)|**[link](https://github.com/Duckyee728/ResAD-released)**|
 |**2025-10-09**|**Approximate Domain Unlearning for Vision-Language Models**|Kodai Kawamura et.al.|[2510.08132](http://arxiv.org/abs/2510.08132)|null|
 |**2025-10-09**|**LinguaSim: Interactive Multi-Vehicle Testing Scenario Generation via Natural Language Instruction Based on Large Language Models**|Qingyuan Shi et.al.|[2510.08046](http://arxiv.org/abs/2510.08046)|null|
 |**2025-10-09**|**RayFusion: Ray Fusion Enhanced Collaborative Visual Perception**|Shaohong Wang et.al.|[2510.08017](http://arxiv.org/abs/2510.08017)|null|
@@ -430,7 +430,7 @@ layout: default
 |**2025-09-10**|**Foundation Models for Autonomous Driving Perception: A Survey Through Core Capabilities**|Rajendramayavan Sathyam et.al.|[2509.08302](http://arxiv.org/abs/2509.08302)|null|
 |**2025-09-10**|**A Comprehensive Review of Reinforcement Learning for Autonomous Driving in the CARLA Simulator**|Elahe Delavari et.al.|[2509.08221](http://arxiv.org/abs/2509.08221)|null|
 |**2025-09-09**|**Mean Field Game-Based Interactive Trajectory Planning Using Physics-Inspired Unified Potential Fields**|Zhen Tian et.al.|[2509.08147](http://arxiv.org/abs/2509.08147)|null|
-|**2025-09-09**|**TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models**|Zongzheng Zhang et.al.|[2509.07962](http://arxiv.org/abs/2509.07962)|null|
+|**2025-09-09**|**TA-VLA: Elucidating the Design Space of Torque-aware Vision-Language-Action Models**|Zongzheng Zhang et.al.|[2509.07962](http://arxiv.org/abs/2509.07962)|**[link](https://github.com/ZZongzheng0918/TA-VLA)**|
 |**2025-09-09**|**Bias-Aware Machine Unlearning: Towards Fairer Vision Models via Controllable Forgetting**|Sai Siddhartha Chary Aylapuram et.al.|[2509.07456](http://arxiv.org/abs/2509.07456)|null|
 |**2025-09-09**|**Attention and Risk-Aware Decision Framework for Safe Autonomous Driving**|Zhen Tian et.al.|[2509.07412](http://arxiv.org/abs/2509.07412)|null|
 |**2025-09-09**|**TEGRA: A Flexible & Scalable NextGen Mobile Core**|Bilal Saleem et.al.|[2509.07410](http://arxiv.org/abs/2509.07410)|null|
@@ -587,11 +587,11 @@ layout: default
 |**2025-09-27**|**MoE-PHDS: One MoE checkpoint for flexible runtime sparsity**|Lauren. A Hannah et.al.|[2509.23012](http://arxiv.org/abs/2509.23012)|null|
 |**2025-09-26**|**Tiny-QMoE**|Jack Cashman et.al.|[2509.22951](http://arxiv.org/abs/2509.22951)|null|
 |**2025-09-26**|**Dynamic Experts Search: Enhancing Reasoning in Mixture-of-Experts LLMs at Test Time**|Yixuan Han et.al.|[2509.22572](http://arxiv.org/abs/2509.22572)|null|
-|**2025-09-26**|**Learning to Ball: Composing Policies for Long-Horizon Basketball Moves**|Pei Xu et.al.|[2509.22442](http://arxiv.org/abs/2509.22442)|null|
+|**2025-09-26**|**Learning to Ball: Composing Policies for Long-Horizon Basketball Moves**|Pei Xu et.al.|[2509.22442](http://arxiv.org/abs/2509.22442)|**[link](https://github.com/xupei0610/basketball)**|
 |**2025-09-26**|**Role-Aware Multi-modal federated learning system for detecting phishing webpages**|Bo Wang et.al.|[2509.22369](http://arxiv.org/abs/2509.22369)|null|
-|**2025-09-26**|**HEAPr: Hessian-based Efficient Atomic Expert Pruning in Output Space**|Ke Li et.al.|[2509.22299](http://arxiv.org/abs/2509.22299)|null|
+|**2025-09-26**|**HEAPr: Hessian-based Efficient Atomic Expert Pruning in Output Space**|Ke Li et.al.|[2509.22299](http://arxiv.org/abs/2509.22299)|**[link](https://github.com/LLIKKE/HEAPr)**|
 |**2025-09-26**|**Unlocking the Power of Mixture-of-Experts for Task-Aware Time Series Analytics**|Xingjian Wu et.al.|[2509.22279](http://arxiv.org/abs/2509.22279)|null|
-|**2025-09-26**|**MultiCrafter: High-Fidelity Multi-Subject Generation via Spatially Disentangled Attention and Identity-Aware Reinforcement Learning**|Tao Wu et.al.|[2509.21953](http://arxiv.org/abs/2509.21953)|null|
+|**2025-09-26**|**MultiCrafter: High-Fidelity Multi-Subject Generation via Spatially Disentangled Attention and Identity-Aware Reinforcement Learning**|Tao Wu et.al.|[2509.21953](http://arxiv.org/abs/2509.21953)|**[link](https://github.com/WuTao-CS/MultiCrafter)**|
 |**2025-09-26**|**Elastic MoE: Unlocking the Inference-Time Scalability of Mixture-of-Experts**|Naibin Gu et.al.|[2509.21892](http://arxiv.org/abs/2509.21892)|null|
 |**2025-09-26**|**ChaosNexus: A Foundation Model for Universal Chaotic System Forecasting with Multi-scale Representations**|Chang Liu et.al.|[2509.21802](http://arxiv.org/abs/2509.21802)|null|
 |**2025-09-26**|**LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE**|Yu Shang et.al.|[2509.21790](http://arxiv.org/abs/2509.21790)|null|

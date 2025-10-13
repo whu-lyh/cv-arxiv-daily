@@ -167,8 +167,8 @@
 |**2025-09-30**|**LLM-Powered Code Analysis and Optimization for Gaussian Splatting Kernels**|Yi Hu et.al.|[2509.25626](http://arxiv.org/abs/2509.25626)|null|
 |**2025-09-29**|**GaussianLens: Localized High-Resolution Reconstruction via On-Demand Gaussian Densification**|Yijia Weng et.al.|[2509.25603](http://arxiv.org/abs/2509.25603)|null|
 |**2025-09-29**|**Triangle Splatting+: Differentiable Rendering with Opaque Triangles**|Jan Held et.al.|[2509.25122](http://arxiv.org/abs/2509.25122)|null|
-|**2025-10-02**|**GEM: 3D Gaussian Splatting for Efficient and Accurate Cryo-EM Reconstruction**|Huaizhi Qu et.al.|[2509.25075](http://arxiv.org/abs/2509.25075)|null|
-|**2025-09-29**|**LVT: Large-Scale Scene Reconstruction via Local View Transformers**|Tooba Imtiaz et.al.|[2509.25001](http://arxiv.org/abs/2509.25001)|null|
+|**2025-10-02**|**GEM: 3D Gaussian Splatting for Efficient and Accurate Cryo-EM Reconstruction**|Huaizhi Qu et.al.|[2509.25075](http://arxiv.org/abs/2509.25075)|**[link](https://github.com/UNITES-Lab/GEM)**|
+|**2025-09-29**|**LVT: Large-Scale Scene Reconstruction via Local View Transformers**|Tooba Imtiaz et.al.|[2509.25001](http://arxiv.org/abs/2509.25001)|**[link](https://github.com/toobaimt/lvt)**|
 |**2025-09-29**|**DWGS: Enhancing Sparse-View Gaussian Splatting with Hybrid-Loss Depth Estimation and Bidirectional Warping**|Yu Ma et.al.|[2509.24893](http://arxiv.org/abs/2509.24893)|null|
 |**2025-09-29**|**ExGS: Extreme 3D Gaussian Compression with Diffusion Priors**|Jiaqi Chen et.al.|[2509.24758](http://arxiv.org/abs/2509.24758)|null|
 |**2025-10-01**|**Proxy-GS: Efficient 3D Gaussian Splatting via Proxy Mesh**|Yuanyuan Gao et.al.|[2509.24421](http://arxiv.org/abs/2509.24421)|null|
@@ -208,7 +208,7 @@
 |**2025-09-22**|**ProDyG: Progressive Dynamic Scene Reconstruction via Gaussian Splatting from Monocular Videos**|Shi Chen et.al.|[2509.17864](http://arxiv.org/abs/2509.17864)|null|
 |**2025-09-22**|**From Restoration to Reconstruction: Rethinking 3D Gaussian Splatting for Underwater Scenes**|Guoxi Huang et.al.|[2509.17789](http://arxiv.org/abs/2509.17789)|null|
 |**2025-09-22**|**Neural-MMGS: Multi-modal Neural Gaussian Splats for Large-Scale Scene Reconstruction**|Sitian Shen et.al.|[2509.17762](http://arxiv.org/abs/2509.17762)|null|
-|**2025-09-23**|**EmbodiedSplat: Personalized Real-to-Sim-to-Real Navigation with Gaussian Splats from a Mobile Device**|Gunjan Chhablani et.al.|[2509.17430](http://arxiv.org/abs/2509.17430)|null|
+|**2025-09-23**|**EmbodiedSplat: Personalized Real-to-Sim-to-Real Navigation with Gaussian Splats from a Mobile Device**|Gunjan Chhablani et.al.|[2509.17430](http://arxiv.org/abs/2509.17430)|**[link](https://github.com/gchhablani/embodied-splat-v1)**|
 |**2025-09-22**|**FGGS-LiDAR: Ultra-Fast, GPU-Accelerated Simulation from General 3DGS Models to LiDAR**|Junzhe Wu et.al.|[2509.17390](http://arxiv.org/abs/2509.17390)|null|
 |**2025-09-22**|**SmokeSeer: 3D Gaussian Splatting for Smoke Removal and Scene Reconstruction**|Neham Jain et.al.|[2509.17329](http://arxiv.org/abs/2509.17329)|null|
 |**2025-09-21**|**SPFSplatV2: Efficient Self-Supervised Pose-Free 3D Gaussian Splatting from Sparse Views**|Ranran Huang et.al.|[2509.17246](http://arxiv.org/abs/2509.17246)|null|
@@ -342,7 +342,7 @@
 |**2025-09-28**|**From Static to Dynamic: a Survey of Topology-Aware Perception in Autonomous Driving**|Yixiao Chen et.al.|[2509.23641](http://arxiv.org/abs/2509.23641)|null|
 |**2025-09-28**|**Foundation Model-Based Adaptive Semantic Image Transmission for Dynamic Wireless Environments**|Fangyu Liu et.al.|[2509.23590](http://arxiv.org/abs/2509.23590)|null|
 |**2025-09-28**|**BridgeDrive: Diffusion Bridge Policy for Closed-Loop Trajectory Planning in Autonomous Driving**|Shu Liu et.al.|[2509.23589](http://arxiv.org/abs/2509.23589)|null|
-|**2025-09-27**|**WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving**|Ziyue Zhu et.al.|[2509.23402](http://arxiv.org/abs/2509.23402)|null|
+|**2025-09-27**|**WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving**|Ziyue Zhu et.al.|[2509.23402](http://arxiv.org/abs/2509.23402)|**[link](https://github.com/wm-research/worldsplat)**|
 |**2025-09-27**|**Preventing Robotic Jailbreaking via Multimodal Domain Adaptation**|Francesco Marchiori et.al.|[2509.23281](http://arxiv.org/abs/2509.23281)|null|
 |**2025-09-26**|**Persistent Autoregressive Mapping with Traffic Rules for Autonomous Driving**|Shiyi Liang et.al.|[2509.22756](http://arxiv.org/abs/2509.22756)|null|
 |**2025-09-26**|**Self-driving cars: Are we there yet?**|Merve Atasever et.al.|[2509.22754](http://arxiv.org/abs/2509.22754)|null|
@@ -610,9 +610,9 @@
 |**2025-09-27**|**MoE-PHDS: One MoE checkpoint for flexible runtime sparsity**|Lauren. A Hannah et.al.|[2509.23012](http://arxiv.org/abs/2509.23012)|null|
 |**2025-09-26**|**Tiny-QMoE**|Jack Cashman et.al.|[2509.22951](http://arxiv.org/abs/2509.22951)|null|
 |**2025-09-26**|**Dynamic Experts Search: Enhancing Reasoning in Mixture-of-Experts LLMs at Test Time**|Yixuan Han et.al.|[2509.22572](http://arxiv.org/abs/2509.22572)|null|
-|**2025-09-26**|**Learning to Ball: Composing Policies for Long-Horizon Basketball Moves**|Pei Xu et.al.|[2509.22442](http://arxiv.org/abs/2509.22442)|null|
+|**2025-09-26**|**Learning to Ball: Composing Policies for Long-Horizon Basketball Moves**|Pei Xu et.al.|[2509.22442](http://arxiv.org/abs/2509.22442)|**[link](https://github.com/xupei0610/basketball)**|
 |**2025-09-26**|**Role-Aware Multi-modal federated learning system for detecting phishing webpages**|Bo Wang et.al.|[2509.22369](http://arxiv.org/abs/2509.22369)|null|
-|**2025-09-26**|**HEAPr: Hessian-based Efficient Atomic Expert Pruning in Output Space**|Ke Li et.al.|[2509.22299](http://arxiv.org/abs/2509.22299)|null|
+|**2025-09-26**|**HEAPr: Hessian-based Efficient Atomic Expert Pruning in Output Space**|Ke Li et.al.|[2509.22299](http://arxiv.org/abs/2509.22299)|**[link](https://github.com/LLIKKE/HEAPr)**|
 |**2025-09-26**|**Unlocking the Power of Mixture-of-Experts for Task-Aware Time Series Analytics**|Xingjian Wu et.al.|[2509.22279](http://arxiv.org/abs/2509.22279)|null|
 |**2025-09-26**|**MultiCrafter: High-Fidelity Multi-Subject Generation via Spatially Disentangled Attention and Identity-Aware Reinforcement Learning**|Tao Wu et.al.|[2509.21953](http://arxiv.org/abs/2509.21953)|null|
 |**2025-09-26**|**Elastic MoE: Unlocking the Inference-Time Scalability of Mixture-of-Experts**|Naibin Gu et.al.|[2509.21892](http://arxiv.org/abs/2509.21892)|null|
