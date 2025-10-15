@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.14
+## Updated on 2025.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -126,10 +126,10 @@ layout: default
 |**2025-10-11**|**Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting**|Jiahui Lu et.al.|[2510.10097](http://arxiv.org/abs/2510.10097)|null|
 |**2025-10-11**|**P-4DGS: Predictive 4D Gaussian Splatting with 90 $\times$ Compression**|Henan Wang et.al.|[2510.10030](http://arxiv.org/abs/2510.10030)|null|
 |**2025-10-11**|**CLoD-GS: Continuous Level-of-Detail via 3D Gaussian Splatting**|Zhigang Cheng et.al.|[2510.09997](http://arxiv.org/abs/2510.09997)|null|
-|**2025-10-11**|**VG-Mapping: Variation-Aware 3D Gaussians for Online Semi-static Scene Mapping**|Yicheng He et.al.|[2510.09962](http://arxiv.org/abs/2510.09962)|null|
+|**2025-10-11**|**VG-Mapping: Variation-Aware 3D Gaussians for Online Semi-static Scene Mapping**|Yicheng He et.al.|[2510.09962](http://arxiv.org/abs/2510.09962)|**[link](https://github.com/heyicheng-never/VG-Mapping)**|
 |**2025-10-10**|**LTGS: Long-Term Gaussian Scene Chronology From Sparse View Updates**|Minkwan Kim et.al.|[2510.09881](http://arxiv.org/abs/2510.09881)|null|
 |**2025-10-10**|**Vision Language Models: A Survey of 26K Papers**|Fengming Lin et.al.|[2510.09586](http://arxiv.org/abs/2510.09586)|null|
-|**2025-10-10**|**FLOWING: Implicit Neural Flows for Structure-Preserving Morphing**|Arthur Bizzi et.al.|[2510.09537](http://arxiv.org/abs/2510.09537)|null|
+|**2025-10-10**|**FLOWING: Implicit Neural Flows for Structure-Preserving Morphing**|Arthur Bizzi et.al.|[2510.09537](http://arxiv.org/abs/2510.09537)|**[link](https://github.com/schardong/flowing)**|
 |**2025-10-10**|**Two-Stage Gaussian Splatting Optimization for Outdoor Scene Reconstruction**|Deborah Pintani et.al.|[2510.09489](http://arxiv.org/abs/2510.09489)|null|
 |**2025-10-10**|**Visibility-Aware Densification for 3D Gaussian Splatting in Dynamic Urban Scenes**|Yikang Zhang et.al.|[2510.09364](http://arxiv.org/abs/2510.09364)|null|
 |**2025-10-09**|**ReSplat: Learning Recurrent Gaussian Splats**|Haofei Xu et.al.|[2510.08575](http://arxiv.org/abs/2510.08575)|null|
@@ -863,7 +863,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-13**|**Benchmarking foundation models for hyperspectral image classification: Application to cereal crop type mapping**|Walid Elbarz et.al.|[2510.11576](http://arxiv.org/abs/2510.11576)|null|
+|**2025-10-14**|**Benchmarking foundation models for hyperspectral image classification: Application to cereal crop type mapping**|Walid Elbarz et.al.|[2510.11576](http://arxiv.org/abs/2510.11576)|null|
 |**2025-10-13**|**Directly Mapping Interacting Components to Complex Systems' Emergent Properties**|Lina Yan et.al.|[2510.10881](http://arxiv.org/abs/2510.10881)|null|
 |**2025-10-10**|**SpectralCA: Bi-Directional Cross-Attention for Next-Generation UAV Hyperspectral Vision**|D. V. Brovko et.al.|[2510.09912](http://arxiv.org/abs/2510.09912)|null|
 |**2025-10-08**|**Label Semantics for Robust Hyperspectral Image Classification**|Rafin Hassan et.al.|[2510.07556](http://arxiv.org/abs/2510.07556)|null|
