@@ -9,8 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-13**|**Embedding the Teacher: Distilling vLLM Preferences for Scalable Image Retrieval**|Eric He et.al.|[2510.12014](http://arxiv.org/abs/2510.12014)|null|
 |**2025-10-13**|**Where on Earth? A Vision-Language Benchmark for Probing Model Geolocation Skills Across Scales**|Zhaofang Qian et.al.|[2510.10880](http://arxiv.org/abs/2510.10880)|null|
-|**2025-10-08**|**Population synthesis with geographic coordinates**|Jacopo Lenti et.al.|[2510.09669](http://arxiv.org/abs/2510.09669)|**[link](https://github.com/jaclenti/NFVAE-population-synthesis)**|
+|**2025-10-08**|**Population synthesis with geographic coordinates**|Jacopo Lenti et.al.|[2510.09669](http://arxiv.org/abs/2510.09669)|null|
 |**2025-10-10**|**Hierarchical Scheduling for Multi-Vector Image Retrieval**|Maoliang Li et.al.|[2510.08976](http://arxiv.org/abs/2510.08976)|null|
 |**2025-10-09**|**DarkHash: A Data-Free Backdoor Attack Against Deep Hashing**|Ziqi Zhou et.al.|[2510.08094](http://arxiv.org/abs/2510.08094)|**[link](https://github.com/Zhou-Zi7/DarkHash)**|
 |**2025-10-09**|**CIR-CoT: Towards Interpretable Composed Image Retrieval via End-to-End Chain-of-Thought Reasoning**|Weihuang Lin et.al.|[2510.08003](http://arxiv.org/abs/2510.08003)|null|
@@ -114,6 +115,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**Uncertainty Matters in Dynamic Gaussian Splatting for Monocular 4D Reconstruction**|Fengzhi Guo et.al.|[2510.12768](http://arxiv.org/abs/2510.12768)|null|
+|**2025-10-14**|**BSGS: Bi-stage 3D Gaussian Splatting for Camera Motion Deblurring**|An Zhao et.al.|[2510.12493](http://arxiv.org/abs/2510.12493)|null|
+|**2025-10-14**|**Hybrid Gaussian Splatting for Novel Urban View Synthesis**|Mohamed Omran et.al.|[2510.12308](http://arxiv.org/abs/2510.12308)|null|
+|**2025-10-14**|**PAGS: Priority-Adaptive Gaussian Splatting for Dynamic Driving Scenes**|Ying A et.al.|[2510.12282](http://arxiv.org/abs/2510.12282)|null|
+|**2025-10-14**|**UniGS: Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering**|Yusen Xie et.al.|[2510.12174](http://arxiv.org/abs/2510.12174)|null|
+|**2025-10-14**|**G4Splat: Geometry-Guided Gaussian Splatting with Generative Prior**|Junfeng Ni et.al.|[2510.12099](http://arxiv.org/abs/2510.12099)|null|
+|**2025-10-13**|**GS-Verse: Mesh-based Gaussian Splatting for Physics-aware Interaction in Virtual Reality**|Anastasiya Pechko et.al.|[2510.11878](http://arxiv.org/abs/2510.11878)|null|
 |**2025-10-13**|**Ev4DGS: Novel-view Rendering of Non-Rigid Objects from Monocular Event Streams**|Takuya Nakabayashi et.al.|[2510.11717](http://arxiv.org/abs/2510.11717)|null|
 |**2025-10-13**|**Phys2Real: Fusing VLM Priors with Interactive Online Adaptation for Uncertainty-Aware Sim-to-Real Manipulation**|Maggie Wang et.al.|[2510.11689](http://arxiv.org/abs/2510.11689)|null|
 |**2025-10-13**|**VA-GS: Enhancing the Geometric Representation of Gaussian Splatting via View Alignment**|Qing Li et.al.|[2510.11473](http://arxiv.org/abs/2510.11473)|null|
@@ -126,7 +134,7 @@ layout: default
 |**2025-10-11**|**Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting**|Jiahui Lu et.al.|[2510.10097](http://arxiv.org/abs/2510.10097)|null|
 |**2025-10-11**|**P-4DGS: Predictive 4D Gaussian Splatting with 90 $\times$ Compression**|Henan Wang et.al.|[2510.10030](http://arxiv.org/abs/2510.10030)|null|
 |**2025-10-11**|**CLoD-GS: Continuous Level-of-Detail via 3D Gaussian Splatting**|Zhigang Cheng et.al.|[2510.09997](http://arxiv.org/abs/2510.09997)|null|
-|**2025-10-11**|**VG-Mapping: Variation-Aware 3D Gaussians for Online Semi-static Scene Mapping**|Yicheng He et.al.|[2510.09962](http://arxiv.org/abs/2510.09962)|**[link](https://github.com/heyicheng-never/VG-Mapping)**|
+|**2025-10-11**|**VG-Mapping: Variation-Aware 3D Gaussians for Online Semi-static Scene Mapping**|Yicheng He et.al.|[2510.09962](http://arxiv.org/abs/2510.09962)|null|
 |**2025-10-10**|**LTGS: Long-Term Gaussian Scene Chronology From Sparse View Updates**|Minkwan Kim et.al.|[2510.09881](http://arxiv.org/abs/2510.09881)|null|
 |**2025-10-10**|**Vision Language Models: A Survey of 26K Papers**|Fengming Lin et.al.|[2510.09586](http://arxiv.org/abs/2510.09586)|null|
 |**2025-10-10**|**FLOWING: Implicit Neural Flows for Structure-Preserving Morphing**|Arthur Bizzi et.al.|[2510.09537](http://arxiv.org/abs/2510.09537)|**[link](https://github.com/schardong/flowing)**|
@@ -286,6 +294,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving**|Yingyan Li et.al.|[2510.12796](http://arxiv.org/abs/2510.12796)|null|
+|**2025-10-14**|**CAMNet: Leveraging Cooperative Awareness Messages for Vehicle Trajectory Prediction**|Mattia Grasselli et.al.|[2510.12703](http://arxiv.org/abs/2510.12703)|null|
+|**2025-10-14**|**CoIRL-AD: Collaborative-Competitive Imitation-Reinforcement Learning in Latent World Models for Autonomous Driving**|Xiaoji Zheng et.al.|[2510.12560](http://arxiv.org/abs/2510.12560)|null|
+|**2025-10-14**|**Biased-Attention Guided Risk Prediction for Safe Decision-Making at Unsignalized Intersections**|Chengyang Dong et.al.|[2510.12428](http://arxiv.org/abs/2510.12428)|null|
+|**2025-10-14**|**CurriFlow: Curriculum-Guided Depth Fusion with Optical Flow-Based Temporal Alignment for 3D Semantic Scene Completion**|Jinzhou Lin et.al.|[2510.12362](http://arxiv.org/abs/2510.12362)|null|
+|**2025-10-14**|**PAGS: Priority-Adaptive Gaussian Splatting for Dynamic Driving Scenes**|Ying A et.al.|[2510.12282](http://arxiv.org/abs/2510.12282)|null|
+|**2025-10-14**|**AngularFuse: A Closer Look at Angle-based Perception for Spatial-Sensitive Multi-Modality Image Fusion**|Xiaopeng Liu et.al.|[2510.12260](http://arxiv.org/abs/2510.12260)|null|
+|**2025-10-14**|**Hierarchical Reasoning with Vision-Language Models for Incident Reports from Dashcam Videos**|Shingo Yokoi et.al.|[2510.12190](http://arxiv.org/abs/2510.12190)|null|
 |**2025-10-13**|**Context-Aware Model-Based Reinforcement Learning for Autonomous Racing**|Emran Yasser Moustafa et.al.|[2510.11501](http://arxiv.org/abs/2510.11501)|null|
 |**2025-10-13**|**A Faster and More Reliable Middleware for Autonomous Driving Systems**|Yuankai He et.al.|[2510.11448](http://arxiv.org/abs/2510.11448)|null|
 |**2025-10-13**|**Future-Aware End-to-End Driving: Bidirectional Modeling of Trajectory Planning and Scene Evolution**|Bozhou Zhang et.al.|[2510.11092](http://arxiv.org/abs/2510.11092)|null|
@@ -510,6 +526,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**UniGS: Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering**|Yusen Xie et.al.|[2510.12174](http://arxiv.org/abs/2510.12174)|null|
 |**2025-10-13**|**ACE-G: Improving Generalization of Scene Coordinate Regression Through Query Pre-Training**|Leonard Bruns et.al.|[2510.11605](http://arxiv.org/abs/2510.11605)|null|
 |**2025-10-10**|**Robust Visual Teach-and-Repeat Navigation with Flexible Topo-metric Graph Map Representation**|Jikai Wang et.al.|[2510.09089](http://arxiv.org/abs/2510.09089)|null|
 |**2025-10-06**|**OKVIS2-X: Open Keyframe-based Visual-Inertial SLAM Configurable with Dense Depth or LiDAR, and GNSS**|Simon Boche et.al.|[2510.04612](http://arxiv.org/abs/2510.04612)|null|
@@ -569,6 +586,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**Dendrograms of Mixing Measures for Softmax-Gated Gaussian Mixture of Experts: Consistency without Model Sweeps**|Do Tien Hai et.al.|[2510.12744](http://arxiv.org/abs/2510.12744)|null|
+|**2025-10-14**|**Proof of Cloud: Data Center Execution Assurance for Confidential VMs**|Filip Rezabek et.al.|[2510.12469](http://arxiv.org/abs/2510.12469)|null|
+|**2025-10-14**|**MoBiLE: Efficient Mixture-of-Experts Inference on Consumer GPU with Mixture of Big Little Experts**|Yushu Zhao et.al.|[2510.12357](http://arxiv.org/abs/2510.12357)|null|
+|**2025-10-14**|**DE3S: Dual-Enhanced Soft-Sparse-Shape Learning for Medical Early Time-Series Classification**|Tao Xie et.al.|[2510.12214](http://arxiv.org/abs/2510.12214)|null|
+|**2025-10-13**|**Enhancing the Quality of 3D Lunar Maps Using JAXA's Kaguya Imagery**|Yumi Iwashita et.al.|[2510.11817](http://arxiv.org/abs/2510.11817)|null|
 |**2025-10-13**|**Beyond 'Templates': Category-Agnostic Object Pose, Size, and Shape Estimation from a Single View**|Jinyu Zhang et.al.|[2510.11687](http://arxiv.org/abs/2510.11687)|null|
 |**2025-10-13**|**Robust Ego-Exo Correspondence with Long-Term Memory**|Yijun Hu et.al.|[2510.11417](http://arxiv.org/abs/2510.11417)|null|
 |**2025-10-13**|**Stabilizing MoE Reinforcement Learning by Aligning Training and Inference Routers**|Wenhan Ma et.al.|[2510.11370](http://arxiv.org/abs/2510.11370)|null|
@@ -762,6 +784,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-14**|**State Space Prompting via Gathering and Spreading Spatio-Temporal Information for Video Understanding**|Jiahuan Zhou et.al.|[2510.12160](http://arxiv.org/abs/2510.12160)|null|
+|**2025-10-14**|**Chimera: State Space Models Beyond Sequences**|Aakash Lahoti et.al.|[2510.12111](http://arxiv.org/abs/2510.12111)|null|
 |**2025-10-13**|**Argus: JAX state-space filtering for gravitational wave detection with a pulsar timing array**|Tom Kimpson et.al.|[2510.11077](http://arxiv.org/abs/2510.11077)|null|
 |**2025-10-13**|**High-Resolution Spatiotemporal Modeling with Global-Local State Space Models for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2510.11017](http://arxiv.org/abs/2510.11017)|null|
 |**2025-10-12**|**MSF-Mamba: Motion-aware State Fusion Mamba for Efficient Micro-Gesture Recognition**|Deng Li et.al.|[2510.10478](http://arxiv.org/abs/2510.10478)|null|
