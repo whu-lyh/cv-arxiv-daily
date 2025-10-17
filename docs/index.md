@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.16
+## Updated on 2025.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -304,13 +304,13 @@ layout: default
 |**2025-10-15**|**CoDS: Enhancing Collaborative Perception in Heterogeneous Scenarios via Domain Separation**|Yushan Han et.al.|[2510.13432](http://arxiv.org/abs/2510.13432)|null|
 |**2025-10-15**|**Partitioned Scheduling for DAG Tasks Considering Probabilistic Execution Time**|Fuma Omori et.al.|[2510.13279](http://arxiv.org/abs/2510.13279)|null|
 |**2025-10-15**|**SAJA: A State-Action Joint Attack Framework on Multi-Agent Deep Reinforcement Learning**|Weiqi Guo et.al.|[2510.13262](http://arxiv.org/abs/2510.13262)|null|
-|**2025-10-15**|**CymbaDiff: Structured Spatial Diffusion for Sketch-based 3D Semantic Urban Scene Generation**|Li Liang et.al.|[2510.13245](http://arxiv.org/abs/2510.13245)|null|
+|**2025-10-16**|**CymbaDiff: Structured Spatial Diffusion for Sketch-based 3D Semantic Urban Scene Generation**|Li Liang et.al.|[2510.13245](http://arxiv.org/abs/2510.13245)|null|
 |**2025-10-15**|**An Analytical Framework to Enhance Autonomous Vehicle Perception for Smart Cities**|Jalal Khan et.al.|[2510.13230](http://arxiv.org/abs/2510.13230)|null|
 |**2025-10-15**|**Complementary Information Guided Occupancy Prediction via Multi-Level Representation Fusion**|Rongtao Xu et.al.|[2510.13198](http://arxiv.org/abs/2510.13198)|null|
 |**2025-10-15**|**Safe Driving in Occluded Environments**|Zhuoyuan Wang et.al.|[2510.13114](http://arxiv.org/abs/2510.13114)|null|
 |**2025-10-15**|**DriveCritic: Towards Context-Aware, Human-Aligned Evaluation for Autonomous Driving with Vision-Language Models**|Jingyu Song et.al.|[2510.13108](http://arxiv.org/abs/2510.13108)|null|
 |**2025-10-15**|**ADPerf: Investigating and Testing Performance in Autonomous Driving Systems**|Tri Minh-Triet Pham et.al.|[2510.13078](http://arxiv.org/abs/2510.13078)|null|
-|**2025-10-14**|**SimULi: Real-Time LiDAR and Camera Simulation with Unscented Transforms**|Haithem Turki et.al.|[2510.12901](http://arxiv.org/abs/2510.12901)|null|
+|**2025-10-16**|**SimULi: Real-Time LiDAR and Camera Simulation with Unscented Transforms**|Haithem Turki et.al.|[2510.12901](http://arxiv.org/abs/2510.12901)|null|
 |**2025-10-14**|**DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving**|Yingyan Li et.al.|[2510.12796](http://arxiv.org/abs/2510.12796)|null|
 |**2025-10-14**|**CAMNet: Leveraging Cooperative Awareness Messages for Vehicle Trajectory Prediction**|Mattia Grasselli et.al.|[2510.12703](http://arxiv.org/abs/2510.12703)|null|
 |**2025-10-14**|**CoIRL-AD: Collaborative-Competitive Imitation-Reinforcement Learning in Latent World Models for Autonomous Driving**|Xiaoji Zheng et.al.|[2510.12560](http://arxiv.org/abs/2510.12560)|null|
@@ -808,13 +808,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-15**|**The Mechanistic Emergence of Symbol Grounding in Language Models**|Shuyu Wu et.al.|[2510.13796](http://arxiv.org/abs/2510.13796)|null|
+|**2025-10-16**|**The Mechanistic Emergence of Symbol Grounding in Language Models**|Shuyu Wu et.al.|[2510.13796](http://arxiv.org/abs/2510.13796)|null|
 |**2025-10-14**|**One Dimensional CNN ECG Mamba for Multilabel Abnormality Classification in 12 Lead ECG**|Huawei Jiang et.al.|[2510.13046](http://arxiv.org/abs/2510.13046)|null|
 |**2025-10-14**|**State Space Prompting via Gathering and Spreading Spatio-Temporal Information for Video Understanding**|Jiahuan Zhou et.al.|[2510.12160](http://arxiv.org/abs/2510.12160)|null|
 |**2025-10-14**|**Chimera: State Space Models Beyond Sequences**|Aakash Lahoti et.al.|[2510.12111](http://arxiv.org/abs/2510.12111)|null|
 |**2025-10-13**|**Argus: JAX state-space filtering for gravitational wave detection with a pulsar timing array**|Tom Kimpson et.al.|[2510.11077](http://arxiv.org/abs/2510.11077)|null|
 |**2025-10-13**|**High-Resolution Spatiotemporal Modeling with Global-Local State Space Models for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2510.11017](http://arxiv.org/abs/2510.11017)|null|
-|**2025-10-12**|**MSF-Mamba: Motion-aware State Fusion Mamba for Efficient Micro-Gesture Recognition**|Deng Li et.al.|[2510.10478](http://arxiv.org/abs/2510.10478)|null|
+|**2025-10-16**|**MSF-Mamba: Motion-aware State Fusion Mamba for Efficient Micro-Gesture Recognition**|Deng Li et.al.|[2510.10478](http://arxiv.org/abs/2510.10478)|null|
 |**2025-10-10**|**Design Principles for Sequence Models via Coefficient Dynamics**|Jerome Sieber et.al.|[2510.09389](http://arxiv.org/abs/2510.09389)|null|
 |**2025-10-10**|**Task-Level Insights from Eigenvalues across Sequence Models**|Rahel Rickenbach et.al.|[2510.09379](http://arxiv.org/abs/2510.09379)|null|
 |**2025-10-10**|**Minkowski-MambaNet: A Point Cloud Framework with Selective State Space Models for Forest Biomass Quantification**|Jinxiang Tu et.al.|[2510.09367](http://arxiv.org/abs/2510.09367)|null|
