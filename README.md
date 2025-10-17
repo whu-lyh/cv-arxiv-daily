@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**Acquisition of interpretable domain information during brain MR image harmonization for content-based image retrieval**|Keima Abe et.al.|[2510.14535](http://arxiv.org/abs/2510.14535)|null|
 |**2025-10-15**|**Through the Lens of Doubt: Robust and Efficient Uncertainty Estimation for Visual Place Recognition**|Emily Miller et.al.|[2510.13464](http://arxiv.org/abs/2510.13464)|null|
 |**2025-10-15**|**Mobile Coverage Analysis using Crowdsourced Data**|Timothy Wong et.al.|[2510.13459](http://arxiv.org/abs/2510.13459)|null|
 |**2025-10-13**|**Embedding the Teacher: Distilling vLLM Preferences for Scalable Image Retrieval**|Eric He et.al.|[2510.12014](http://arxiv.org/abs/2510.12014)|null|
@@ -132,6 +133,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**Leveraging Learned Image Prior for 3D Gaussian Compression**|Seungjoo Shin et.al.|[2510.14705](http://arxiv.org/abs/2510.14705)|null|
+|**2025-10-16**|**BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU**|Junyi Wu et.al.|[2510.14564](http://arxiv.org/abs/2510.14564)|null|
+|**2025-10-16**|**GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering**|Alexander Valverde et.al.|[2510.14270](http://arxiv.org/abs/2510.14270)|null|
+|**2025-10-16**|**Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures**|Yuancheng Xu et.al.|[2510.14179](http://arxiv.org/abs/2510.14179)|null|
+|**2025-10-15**|**Capture, Canonicalize, Splat: Zero-Shot 3D Gaussian Avatars from Unstructured Phone Images**|Emanuel Garbin et.al.|[2510.14081](http://arxiv.org/abs/2510.14081)|null|
+|**2025-10-15**|**Instant Skinned Gaussian Avatars for Web, Mobile and VR Applications**|Naruya Kondo et.al.|[2510.13978](http://arxiv.org/abs/2510.13978)|null|
 |**2025-10-15**|**VIST3A: Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator**|Hyojun Go et.al.|[2510.13454](http://arxiv.org/abs/2510.13454)|null|
 |**2025-10-15**|**Leveraging 2D Priors and SDF Guidance for Dynamic Urban Scene Rendering**|Siddharth Tourani et.al.|[2510.13381](http://arxiv.org/abs/2510.13381)|null|
 |**2025-10-15**|**STT-GS: Sample-Then-Transmit Edge Gaussian Splatting with Joint Client Selection and Power Control**|Zhen Li et.al.|[2510.13186](http://arxiv.org/abs/2510.13186)|null|
@@ -316,6 +323,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**David vs. Goliath: A comparative study of different-sized LLMs for code generation in the domain of automotive scenario generation**|Philipp Bauerfeind et.al.|[2510.14115](http://arxiv.org/abs/2510.14115)|null|
 |**2025-10-15**|**Provably Invincible Adversarial Attacks on Reinforcement Learning Systems: A Rate-Distortion Information-Theoretic Approach**|Ziqing Lu et.al.|[2510.13792](http://arxiv.org/abs/2510.13792)|null|
 |**2025-10-15**|**XD-RCDepth: Lightweight Radar-Camera Depth Estimation with Explainability-Aligned and Distribution-Aware Distillation**|Huawei Sun et.al.|[2510.13565](http://arxiv.org/abs/2510.13565)|null|
 |**2025-10-15**|**CoDS: Enhancing Collaborative Perception in Heterogeneous Scenarios via Domain Separation**|Yushan Han et.al.|[2510.13432](http://arxiv.org/abs/2510.13432)|null|
@@ -626,6 +634,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**Rewiring Experts on the Fly:Continuous Rerouting for Better Online Adaptation in Mixture-of-Expert models**|Guinan Su et.al.|[2510.14853](http://arxiv.org/abs/2510.14853)|null|
+|**2025-10-16**|**MergeMoE: Efficient Compression of MoE Models via Expert Output Merging**|Ruijie Miao et.al.|[2510.14436](http://arxiv.org/abs/2510.14436)|null|
+|**2025-10-16**|**Expertise need not monopolize: Action-Specialized Mixture of Experts for Vision-Language-Action Learning**|Weijie Shen et.al.|[2510.14300](http://arxiv.org/abs/2510.14300)|null|
+|**2025-10-16**|**MACE: Mixture-of-Experts Accelerated Coordinate Encoding for Large-Scale Scene Localization and Rendering**|Mingkai Liu et.al.|[2510.14251](http://arxiv.org/abs/2510.14251)|null|
+|**2025-10-16**|**Demonstrating Exoplanet Transit Photometry from Space with a 15-mm Aperture Optical Navigation Camera on Hayabusa2**|Koki Yumoto et.al.|[2510.14229](http://arxiv.org/abs/2510.14229)|null|
+|**2025-10-15**|**REAP the Experts: Why Pruning Prevails for One-Shot MoE compression**|Mike Lasby et.al.|[2510.13999](http://arxiv.org/abs/2510.13999)|null|
 |**2025-10-15**|**Steer-MoE: Efficient Audio-Language Alignment with a Mixture-of-Experts Steering Module**|Ruitao Feng et.al.|[2510.13558](http://arxiv.org/abs/2510.13558)|null|
 |**2025-10-15**|**ExpressNet-MoE: A Hybrid Deep Neural Network for Emotion Recognition**|Deeptimaan Banerjee et.al.|[2510.13493](http://arxiv.org/abs/2510.13493)|null|
 |**2025-10-15**|**Who Speaks for the Trigger? Dynamic Expert Routing in Backdoored Mixture-of-Experts Transformers**|Xin Zhao et.al.|[2510.13462](http://arxiv.org/abs/2510.13462)|null|
@@ -833,6 +847,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**To Infinity and Beyond: Tool-Use Unlocks Length Generalization in State Space Models**|Eran Malach et.al.|[2510.14826](http://arxiv.org/abs/2510.14826)|null|
+|**2025-10-16**|**State-Space Models for Tabular Prior-Data Fitted Networks**|Felix Koch et.al.|[2510.14573](http://arxiv.org/abs/2510.14573)|null|
+|**2025-10-16**|**A Deep State-Space Model Compression Method using Upper Bound on Output Error**|Hiroki Sakamoto et.al.|[2510.14542](http://arxiv.org/abs/2510.14542)|null|
+|**2025-10-16**|**SHaRe-SSM: An Oscillatory Spiking Neural Network for Target Variable Modeling in Long Sequences**|Kartikay Agrawal et.al.|[2510.14386](http://arxiv.org/abs/2510.14386)|null|
+|**2025-10-16**|**DRBD-Mamba for Robust and Efficient Brain Tumor Segmentation with Analytical Insights**|Danish Ali et.al.|[2510.14383](http://arxiv.org/abs/2510.14383)|null|
+|**2025-10-15**|**Context-Selective State Space Models: Feedback is All You Need**|Riccardo Zattra et.al.|[2510.14027](http://arxiv.org/abs/2510.14027)|null|
 |**2025-10-16**|**The Mechanistic Emergence of Symbol Grounding in Language Models**|Shuyu Wu et.al.|[2510.13796](http://arxiv.org/abs/2510.13796)|null|
 |**2025-10-14**|**One Dimensional CNN ECG Mamba for Multilabel Abnormality Classification in 12 Lead ECG**|Huawei Jiang et.al.|[2510.13046](http://arxiv.org/abs/2510.13046)|null|
 |**2025-10-14**|**State Space Prompting via Gathering and Spreading Spatio-Temporal Information for Video Understanding**|Jiahuan Zhou et.al.|[2510.12160](http://arxiv.org/abs/2510.12160)|null|
