@@ -133,6 +133,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-17**|**PFGS: Pose-Fused 3D Gaussian Splatting for Complete Multi-Pose Object Reconstruction**|Ting-Yu Yen et.al.|[2510.15386](http://arxiv.org/abs/2510.15386)|null|
+|**2025-10-17**|**GaussGym: An open-source real-to-sim framework for learning locomotion from pixels**|Alejandro Escontrela et.al.|[2510.15352](http://arxiv.org/abs/2510.15352)|null|
+|**2025-10-16**|**SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images**|Jiaxin Guo et.al.|[2510.15072](http://arxiv.org/abs/2510.15072)|null|
 |**2025-10-16**|**Leveraging Learned Image Prior for 3D Gaussian Compression**|Seungjoo Shin et.al.|[2510.14705](http://arxiv.org/abs/2510.14705)|null|
 |**2025-10-16**|**BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU**|Junyi Wu et.al.|[2510.14564](http://arxiv.org/abs/2510.14564)|null|
 |**2025-10-16**|**GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering**|Alexander Valverde et.al.|[2510.14270](http://arxiv.org/abs/2510.14270)|null|
@@ -323,6 +326,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-17**|**LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal**|Shr-Ruei Tsai et.al.|[2510.15868](http://arxiv.org/abs/2510.15868)|null|
+|**2025-10-17**|**Perfect Prediction or Plenty of Proposals? What Matters Most in Planning for Autonomous Driving**|Aron Distelzweig et.al.|[2510.15505](http://arxiv.org/abs/2510.15505)|null|
+|**2025-10-17**|**VDRive: Leveraging Reinforced VLA and Diffusion Policy for End-to-end Autonomous Driving**|Ziang Guo et.al.|[2510.15446](http://arxiv.org/abs/2510.15446)|null|
+|**2025-10-17**|**FreqPDE: Rethinking Positional Depth Embedding for Multi-View 3D Object Detection Transformers**|Haisheng Su et.al.|[2510.15385](http://arxiv.org/abs/2510.15385)|null|
 |**2025-10-15**|**David vs. Goliath: A comparative study of different-sized LLMs for code generation in the domain of automotive scenario generation**|Philipp Bauerfeind et.al.|[2510.14115](http://arxiv.org/abs/2510.14115)|null|
 |**2025-10-15**|**Provably Invincible Adversarial Attacks on Reinforcement Learning Systems: A Rate-Distortion Information-Theoretic Approach**|Ziqing Lu et.al.|[2510.13792](http://arxiv.org/abs/2510.13792)|null|
 |**2025-10-15**|**XD-RCDepth: Lightweight Radar-Camera Depth Estimation with Explainability-Aligned and Distribution-Aware Distillation**|Huawei Sun et.al.|[2510.13565](http://arxiv.org/abs/2510.13565)|null|
@@ -570,6 +577,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-17**|**HEADER: Hierarchical Robot Exploration via Attention-Based Deep Reinforcement Learning with Expert-Guided Reward**|Yuhong Cao et.al.|[2510.15679](http://arxiv.org/abs/2510.15679)|null|
 |**2025-10-14**|**UniGS: Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering**|Yusen Xie et.al.|[2510.12174](http://arxiv.org/abs/2510.12174)|null|
 |**2025-10-13**|**ACE-G: Improving Generalization of Scene Coordinate Regression Through Query Pre-Training**|Leonard Bruns et.al.|[2510.11605](http://arxiv.org/abs/2510.11605)|null|
 |**2025-10-10**|**Robust Visual Teach-and-Repeat Navigation with Flexible Topo-metric Graph Map Representation**|Jikai Wang et.al.|[2510.09089](http://arxiv.org/abs/2510.09089)|null|
@@ -634,6 +642,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-17**|**Mixture of Experts Approaches in Dense Retrieval Tasks**|Effrosyni Sokli et.al.|[2510.15683](http://arxiv.org/abs/2510.15683)|null|
+|**2025-10-17**|**FlexiReID: Adaptive Mixture of Expert for Multi-Modal Person Re-Identification**|Zhen Sun et.al.|[2510.15595](http://arxiv.org/abs/2510.15595)|null|
+|**2025-10-17**|**Backdoor or Manipulation? Graph Mixture of Experts Can Defend Against Various Graph Adversarial Attacks**|Yuyuan Feng et.al.|[2510.15333](http://arxiv.org/abs/2510.15333)|null|
+|**2025-10-17**|**MTmixAtt: Integrating Mixture-of-Experts with Multi-Mix Attention for Large-Scale Recommendation**|Xianyang Qi et.al.|[2510.15286](http://arxiv.org/abs/2510.15286)|null|
+|**2025-10-17**|**Adaptive Individual Uncertainty under Out-Of-Distribution Shift with Expert-Routed Conformal Prediction**|Amitesh Badkul et.al.|[2510.15233](http://arxiv.org/abs/2510.15233)|null|
 |**2025-10-16**|**Rewiring Experts on the Fly:Continuous Rerouting for Better Online Adaptation in Mixture-of-Expert models**|Guinan Su et.al.|[2510.14853](http://arxiv.org/abs/2510.14853)|null|
 |**2025-10-16**|**MergeMoE: Efficient Compression of MoE Models via Expert Output Merging**|Ruijie Miao et.al.|[2510.14436](http://arxiv.org/abs/2510.14436)|null|
 |**2025-10-16**|**Expertise need not monopolize: Action-Specialized Mixture of Experts for Vision-Language-Action Learning**|Weijie Shen et.al.|[2510.14300](http://arxiv.org/abs/2510.14300)|null|
@@ -847,6 +860,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-17**|**Recursive Inference for Heterogeneous Multi-Output GP State-Space Models with Arbitrary Moment Matching**|Tengjie Zheng et.al.|[2510.15390](http://arxiv.org/abs/2510.15390)|null|
+|**2025-10-17**|**Cortical-SSM: A Deep State Space Model for EEG and ECoG Motor Imagery Decoding**|Shuntaro Suzuki et.al.|[2510.15371](http://arxiv.org/abs/2510.15371)|null|
 |**2025-10-16**|**To Infinity and Beyond: Tool-Use Unlocks Length Generalization in State Space Models**|Eran Malach et.al.|[2510.14826](http://arxiv.org/abs/2510.14826)|null|
 |**2025-10-16**|**State-Space Models for Tabular Prior-Data Fitted Networks**|Felix Koch et.al.|[2510.14573](http://arxiv.org/abs/2510.14573)|null|
 |**2025-10-16**|**A Deep State-Space Model Compression Method using Upper Bound on Output Error**|Hiroki Sakamoto et.al.|[2510.14542](http://arxiv.org/abs/2510.14542)|null|
