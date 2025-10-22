@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-21**|**Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection**|Ji Du et.al.|[2510.18437](http://arxiv.org/abs/2510.18437)|**[link](https://github.com/xiaohainku/RISE)**|
+|**2025-10-21**|**ImageGem: In-the-wild Generative Image Interaction Dataset for Generative Model Personalization**|Yuanhe Guo et.al.|[2510.18433](http://arxiv.org/abs/2510.18433)|null|
+|**2025-10-21**|**DualHash: A Stochastic Primal-Dual Algorithm with Theoretical Guarantee for Deep Hashing**|Luxuan Li et.al.|[2510.18218](http://arxiv.org/abs/2510.18218)|null|
 |**2025-10-20**|**Joint Multi-Condition Representation Modelling via Matrix Factorisation for Visual Place Recognition**|Timur Ismagilov et.al.|[2510.17739](http://arxiv.org/abs/2510.17739)|null|
 |**2025-10-18**|**iWatchRoadv2: Pothole Detection, Geospatial Mapping, and Intelligent Road Governance**|Rishi Raj Sahoo et.al.|[2510.16375](http://arxiv.org/abs/2510.16375)|**[link](https://github.com/codewithRiC/iWatchRoadv2)**|
 |**2025-10-16**|**Acquisition of interpretable domain information during brain MR image harmonization for content-based image retrieval**|Keima Abe et.al.|[2510.14535](http://arxiv.org/abs/2510.14535)|null|
@@ -135,6 +138,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-21**|**Moving Light Adaptive Colonoscopy Reconstruction via Illumination-Attenuation-Aware 3D Gaussian Splatting**|Hao Wang et.al.|[2510.18739](http://arxiv.org/abs/2510.18739)|null|
+|**2025-10-21**|**Mono4DGS-HDR: High Dynamic Range 4D Gaussian Splatting from Alternating-exposure Monocular Videos**|Jinfeng Liu et.al.|[2510.18489](http://arxiv.org/abs/2510.18489)|null|
+|**2025-10-21**|**OpenInsGaussian: Open-vocabulary Instance Gaussian Segmentation with Context-aware Cross-view Fusion**|Tianyu Huang et.al.|[2510.18253](http://arxiv.org/abs/2510.18253)|null|
+|**2025-10-20**|**From Volume Rendering to 3D Gaussian Splatting: Theory and Applications**|Vitor Pereira Matias et.al.|[2510.18101](http://arxiv.org/abs/2510.18101)|null|
+|**2025-10-20**|**HouseTour: A Virtual Real Estate A(I)gent**|Ata Çelen et.al.|[2510.18054](http://arxiv.org/abs/2510.18054)|null|
 |**2025-10-20**|**Botany-Bot: Digital Twin Monitoring of Occluded and Underleaf Plant Structures with Gaussian Splats**|Simeon Adebola et.al.|[2510.17783](http://arxiv.org/abs/2510.17783)|null|
 |**2025-10-20**|**Raindrop GS: A Benchmark for 3D Gaussian Splatting under Raindrop Conditions**|Zhiqiang Teng et.al.|[2510.17719](http://arxiv.org/abs/2510.17719)|null|
 |**2025-10-20**|**Initialize to Generalize: A Stronger Initialization Pipeline for Sparse-View 3DGS**|Feng Zhou et.al.|[2510.17479](http://arxiv.org/abs/2510.17479)|null|
@@ -337,6 +345,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-21**|**Descriptor: Occluded nuScenes: A Multi-Sensor Dataset for Evaluating Perception Robustness in Automated Driving**|Sanjay Kumar et.al.|[2510.18552](http://arxiv.org/abs/2510.18552)|null|
+|**2025-10-21**|**MMRHP: A Miniature Mixed-Reality HIL Platform for Auditable Closed-Loop Evaluation**|Mingxin Li et.al.|[2510.18371](http://arxiv.org/abs/2510.18371)|null|
+|**2025-10-21**|**ViSE: A Systematic Approach to Vision-Only Street-View Extrapolation**|Kaiyuan Tan et.al.|[2510.18341](http://arxiv.org/abs/2510.18341)|null|
+|**2025-10-21**|**OmniNWM: Omniscient Driving Navigation World Models**|Bohan Li et.al.|[2510.18313](http://arxiv.org/abs/2510.18313)|null|
+|**2025-10-21**|**OpenInsGaussian: Open-vocabulary Instance Gaussian Segmentation with Context-aware Cross-view Fusion**|Tianyu Huang et.al.|[2510.18253](http://arxiv.org/abs/2510.18253)|null|
+|**2025-10-21**|**BlendCLIP: Bridging Synthetic and Real Domains for Zero-Shot 3D Object Classification with Multimodal Pretraining**|Ajinkya Khoche et.al.|[2510.18244](http://arxiv.org/abs/2510.18244)|null|
+|**2025-10-20**|**SPACeR: Self-Play Anchoring with Centralized Reference Models**|Wei-Jer Chang et.al.|[2510.18060](http://arxiv.org/abs/2510.18060)|null|
+|**2025-10-20**|**SAVANT: Semantic Analysis with Vision-Augmented Anomaly deTection**|Roberto Brusnicki et.al.|[2510.18034](http://arxiv.org/abs/2510.18034)|null|
 |**2025-10-20**|**4DSegStreamer: Streaming 4D Panoptic Segmentation via Dual Threads**|Ling Liu et.al.|[2510.17664](http://arxiv.org/abs/2510.17664)|null|
 |**2025-10-20**|**Enhanced Motion Forecasting with Plug-and-Play Multimodal Large Language Models**|Katie Luo et.al.|[2510.17274](http://arxiv.org/abs/2510.17274)|null|
 |**2025-10-20**|**Explainability of Large Language Models: Opportunities and Challenges toward Generating Trustworthy Explanations**|Shahin Atakishiyev et.al.|[2510.17256](http://arxiv.org/abs/2510.17256)|null|
@@ -601,6 +617,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-21**|**OmniNWM: Omniscient Driving Navigation World Models**|Bohan Li et.al.|[2510.18313](http://arxiv.org/abs/2510.18313)|null|
 |**2025-10-17**|**HEADER: Hierarchical Robot Exploration via Attention-Based Deep Reinforcement Learning with Expert-Guided Reward**|Yuhong Cao et.al.|[2510.15679](http://arxiv.org/abs/2510.15679)|null|
 |**2025-10-14**|**UniGS: Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering**|Yusen Xie et.al.|[2510.12174](http://arxiv.org/abs/2510.12174)|null|
 |**2025-10-13**|**ACE-G: Improving Generalization of Scene Coordinate Regression Through Query Pre-Training**|Leonard Bruns et.al.|[2510.11605](http://arxiv.org/abs/2510.11605)|null|
@@ -666,6 +683,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-21**|**Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale Thinking Model**|Ling Team et.al.|[2510.18855](http://arxiv.org/abs/2510.18855)|null|
+|**2025-10-21**|**Unifying and Enhancing Graph Transformers via a Hierarchical Mask Framework**|Yujie Xing et.al.|[2510.18825](http://arxiv.org/abs/2510.18825)|null|
+|**2025-10-21**|**Noise-Conditioned Mixture-of-Experts Framework for Robust Speaker Verification**|Bin Gu et.al.|[2510.18533](http://arxiv.org/abs/2510.18533)|null|
+|**2025-10-21**|**Training Diverse Graph Experts for Ensembles: A Systematic Empirical Study**|Gangda Deng et.al.|[2510.18370](http://arxiv.org/abs/2510.18370)|null|
+|**2025-10-21**|**DeepSeek-OCR: Contexts Optical Compression**|Haoran Wei et.al.|[2510.18234](http://arxiv.org/abs/2510.18234)|null|
+|**2025-10-19**|**L-MoE: End-to-End Training of a Lightweight Mixture of Low-Rank Adaptation Experts**|Shihao Ji et.al.|[2510.17898](http://arxiv.org/abs/2510.17898)|null|
 |**2025-10-20**|**Towards 3D Objectness Learning in an Open World**|Taichi Liu et.al.|[2510.17686](http://arxiv.org/abs/2510.17686)|null|
 |**2025-10-20**|**Intelligent Communication Mixture-of-Experts Boosted-Medical Image Segmentation Foundation Model**|Xinwei Zhang et.al.|[2510.17684](http://arxiv.org/abs/2510.17684)|null|
 |**2025-10-20**|**Learned Inertial Odometry for Cycling Based on Mixture of Experts Algorithm**|Hao Qiao et.al.|[2510.17604](http://arxiv.org/abs/2510.17604)|null|
@@ -895,6 +918,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-21**|**MLMA: Towards Multilingual with Mamba Based Architectures**|Mohamed Nabih Ali et.al.|[2510.18684](http://arxiv.org/abs/2510.18684)|null|
+|**2025-10-15**|**DMTrack: Deformable State-Space Modeling for UAV Multi-Object Tracking with Kalman Fusion and Uncertainty-Aware Association**|Zenghuang Fu et.al.|[2510.17860](http://arxiv.org/abs/2510.17860)|null|
 |**2025-10-20**|**S4ECG: Exploring the impact of long-range interactions for arrhythmia prediction**|Tiezhi Wang et.al.|[2510.17406](http://arxiv.org/abs/2510.17406)|null|
 |**2025-10-20**|**CausalMamba: Scalable Conditional State Space Models for Neural Causal Inference**|Sangyoon Bae et.al.|[2510.17318](http://arxiv.org/abs/2510.17318)|null|
 |**2025-10-20**|**Understanding and Improving Length Generalization in Hierarchical Sparse Attention Models**|Jiaqi Leng et.al.|[2510.17196](http://arxiv.org/abs/2510.17196)|null|
