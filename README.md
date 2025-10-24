@@ -1,4 +1,4 @@
-## Updated on 2025.10.23
+## Updated on 2025.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-10-21**|**ImageGem: In-the-wild Generative Image Interaction Dataset for Generative Model Personalization**|Yuanhe Guo et.al.|[2510.18433](http://arxiv.org/abs/2510.18433)|null|
 |**2025-10-21**|**DualHash: A Stochastic Primal-Dual Algorithm with Theoretical Guarantee for Deep Hashing**|Luxuan Li et.al.|[2510.18218](http://arxiv.org/abs/2510.18218)|null|
 |**2025-10-20**|**Joint Multi-Condition Representation Modelling via Matrix Factorisation for Visual Place Recognition**|Timur Ismagilov et.al.|[2510.17739](http://arxiv.org/abs/2510.17739)|null|
-|**2025-10-18**|**iWatchRoadv2: Pothole Detection, Geospatial Mapping, and Intelligent Road Governance**|Rishi Raj Sahoo et.al.|[2510.16375](http://arxiv.org/abs/2510.16375)|null|
+|**2025-10-18**|**iWatchRoadv2: Pothole Detection, Geospatial Mapping, and Intelligent Road Governance**|Rishi Raj Sahoo et.al.|[2510.16375](http://arxiv.org/abs/2510.16375)|**[link](https://github.com/codewithRiC/iWatchRoadv2)**|
 |**2025-10-16**|**Acquisition of interpretable domain information during brain MR image harmonization for content-based image retrieval**|Keima Abe et.al.|[2510.14535](http://arxiv.org/abs/2510.14535)|null|
 |**2025-10-15**|**Through the Lens of Doubt: Robust and Efficient Uncertainty Estimation for Visual Place Recognition**|Emily Miller et.al.|[2510.13464](http://arxiv.org/abs/2510.13464)|null|
 |**2025-10-15**|**Mobile Coverage Analysis using Crowdsourced Data**|Timothy Wong et.al.|[2510.13459](http://arxiv.org/abs/2510.13459)|null|
@@ -101,7 +101,7 @@
 |**2025-08-27**|**Low-exposure, high-quality multimodal speckle X-ray imaging via an intrinsic gradient-flow approach**|Jayvan Liu et.al.|[2508.20209](http://arxiv.org/abs/2508.20209)|null|
 |**2025-08-27**|**Grounding Multimodal Large Language Models with Quantitative Skin Attributes: A Retrieval Study**|Max Torop et.al.|[2508.20188](http://arxiv.org/abs/2508.20188)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## Point Cloud Place Recognition
 
@@ -133,7 +133,7 @@
 |**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|null|
 |**2024-03-19**|**HeLiPR: Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition under Spatiotemporal Variations**|Minwoo Jung et.al.|[2309.14590](http://arxiv.org/abs/2309.14590)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## 3D GS
 
@@ -345,7 +345,7 @@
 |**2025-08-30**|**AGS: Accelerating 3D Gaussian Splatting SLAM via CODEC-Assisted Frame Covisibility Detection**|Houshu He et.al.|[2509.00433](http://arxiv.org/abs/2509.00433)|null|
 |**2025-08-29**|**Complete Gaussian Splats from a Single Image with Denoising Diffusion Models**|Ziwei Liao et.al.|[2508.21542](http://arxiv.org/abs/2508.21542)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -356,7 +356,7 @@
 |**2025-10-22**|**SFGFusion: Surface Fitting Guided 3D Object Detection with 4D Radar and Camera Fusion**|Xiaozhi Li et.al.|[2510.19215](http://arxiv.org/abs/2510.19215)|null|
 |**2025-10-22**|**Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks**|Kai Zeng et.al.|[2510.19195](http://arxiv.org/abs/2510.19195)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
-|**2025-10-21**|**Descriptor: Occluded nuScenes: A Multi-Sensor Dataset for Evaluating Perception Robustness in Automated Driving**|Sanjay Kumar et.al.|[2510.18552](http://arxiv.org/abs/2510.18552)|null|
+|**2025-10-23**|**Occluded nuScenes: A Multi-Sensor Dataset for Evaluating Perception Robustness in Automated Driving**|Sanjay Kumar et.al.|[2510.18552](http://arxiv.org/abs/2510.18552)|null|
 |**2025-10-21**|**MMRHP: A Miniature Mixed-Reality HIL Platform for Auditable Closed-Loop Evaluation**|Mingxin Li et.al.|[2510.18371](http://arxiv.org/abs/2510.18371)|null|
 |**2025-10-21**|**ViSE: A Systematic Approach to Vision-Only Street-View Extrapolation**|Kaiyuan Tan et.al.|[2510.18341](http://arxiv.org/abs/2510.18341)|null|
 |**2025-10-22**|**OmniNWM: Omniscient Driving Navigation World Models**|Bohan Li et.al.|[2510.18313](http://arxiv.org/abs/2510.18313)|null|
@@ -622,7 +622,7 @@
 |**2025-09-02**|**Curiosity-Driven Testing for Sequential Decision-Making Process**|Junda He et.al.|[2509.02025](http://arxiv.org/abs/2509.02025)|null|
 |**2025-09-02**|**Generalizing Unsupervised Lidar Odometry Model from Normal to Snowy Weather Conditions**|Beibei Zhou et.al.|[2509.02011](http://arxiv.org/abs/2509.02011)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## Map
 
@@ -668,7 +668,7 @@
 |**2025-06-05**|**ADEPT: Adaptive Diffusion Environment for Policy Transfer Sim-to-Real**|Youwei Yu et.al.|[2506.01759](http://arxiv.org/abs/2506.01759)|null|
 |**2025-06-01**|**Globally Consistent RGB-D SLAM with 2D Gaussian Splatting**|Xingguang Zhong et.al.|[2506.00970](http://arxiv.org/abs/2506.00970)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## Non-rigid Registration
 
@@ -688,7 +688,7 @@
 |**2013-04-15**|**Local Structure Matching Driven by Joint-Saliency-Structure Adaptive Kernel Regression**|Binjie Qin et.al.|[1302.0494](http://arxiv.org/abs/1302.0494)|null|
 |**2011-04-21**|**A Meshless Method for Variational Nonrigid 2-D Shape Registration**|Wei Liu et.al.|[1104.4168](http://arxiv.org/abs/1104.4168)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## MoE
 
@@ -697,7 +697,7 @@
 |**2025-10-22**|**HybridEP: Scaling Expert Parallelism to Cross-Datacenter Scenario via Hybrid Expert/Data Transmission**|Weihao Yang et.al.|[2510.19470](http://arxiv.org/abs/2510.19470)|null|
 |**2025-10-22**|**MoE-Prism: Disentangling Monolithic Experts for Elastic MoE Services via Model-System Co-Designs**|Xinfeng Xia et.al.|[2510.19366](http://arxiv.org/abs/2510.19366)|null|
 |**2025-10-22**|**Modeling Turn-Taking with Semantically Informed Gestures**|Varsha Suresh et.al.|[2510.19350](http://arxiv.org/abs/2510.19350)|null|
-|**2025-10-22**|**RailS: Load Balancing for All-to-All Communication in Distributed Mixture-of-Experts Training**|Heng Xu et.al.|[2510.19262](http://arxiv.org/abs/2510.19262)|null|
+|**2025-10-23**|**RailS: Load Balancing for All-to-All Communication in Distributed Mixture-of-Experts Training**|Heng Xu et.al.|[2510.19262](http://arxiv.org/abs/2510.19262)|null|
 |**2025-10-22**|**A Design Science Blueprint for an Orchestrated AI Assistant in Doctoral Supervision**|Teo Susnjak et.al.|[2510.19227](http://arxiv.org/abs/2510.19227)|null|
 |**2025-10-22**|**MoE-GS: Mixture of Experts for Dynamic Gaussian Splatting**|In-Hwan Jin et.al.|[2510.19210](http://arxiv.org/abs/2510.19210)|null|
 |**2025-10-21**|**Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale Thinking Model**|Ling Team et.al.|[2510.18855](http://arxiv.org/abs/2510.18855)|null|
@@ -929,16 +929,16 @@
 |**2025-08-31**|**MEPT: Mixture of Expert Prompt Tuning as a Manifold Mapper**|Runjia Zeng et.al.|[2509.00996](http://arxiv.org/abs/2509.00996)|null|
 |**2025-08-31**|**Router Upcycling: Leveraging Mixture-of-Routers in Mixture-of-Experts Upcycling**|Junfeng Ran et.al.|[2509.00679](http://arxiv.org/abs/2509.00679)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## Mamba
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-10-22**|**PRGCN: A Graph Memory Network for Cross-Sequence Pattern Reuse in 3D Human Pose Estimation**|Zhuoyang Xie et.al.|[2510.19475](http://arxiv.org/abs/2510.19475)|null|
-|**2025-10-22**|**Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge**|Penghao Wang et.al.|[2510.19266](http://arxiv.org/abs/2510.19266)|null|
+|**2025-10-23**|**Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge**|Penghao Wang et.al.|[2510.19266](http://arxiv.org/abs/2510.19266)|null|
 |**2025-10-21**|**$Δ$ t-Mamba3D: A Time-Aware Spatio-Temporal State-Space Model for Breast Cancer Risk Prediction**|Zhengbo Zhou et.al.|[2510.19003](http://arxiv.org/abs/2510.19003)|null|
-|**2025-10-21**|**MLMA: Towards Multilingual with Mamba Based Architectures**|Mohamed Nabih Ali et.al.|[2510.18684](http://arxiv.org/abs/2510.18684)|null|
+|**2025-10-23**|**MLMA: Towards Multilingual ASR With Mamba-based Architectures**|Mohamed Nabih Ali et.al.|[2510.18684](http://arxiv.org/abs/2510.18684)|null|
 |**2025-10-15**|**DMTrack: Deformable State-Space Modeling for UAV Multi-Object Tracking with Kalman Fusion and Uncertainty-Aware Association**|Zenghuang Fu et.al.|[2510.17860](http://arxiv.org/abs/2510.17860)|null|
 |**2025-10-20**|**S4ECG: Exploring the impact of long-range interactions for arrhythmia prediction**|Tiezhi Wang et.al.|[2510.17406](http://arxiv.org/abs/2510.17406)|null|
 |**2025-10-20**|**CausalMamba: Scalable Conditional State Space Models for Neural Causal Inference**|Sangyoon Bae et.al.|[2510.17318](http://arxiv.org/abs/2510.17318)|null|
@@ -1055,7 +1055,7 @@
 |**2025-08-30**|**SemaMIL: Semantic Reordering with Retrieval-Guided State Space Modeling for Whole Slide Image Classification**|Lubin Gan et.al.|[2509.00442](http://arxiv.org/abs/2509.00442)|null|
 |**2025-08-29**|**Quantum-Optimized Selective State Space Model for Efficient Time Series Prediction**|Stefan-Alexandru Jura et.al.|[2509.00259](http://arxiv.org/abs/2509.00259)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
 ## HSI Classification
 
@@ -1107,5 +1107,5 @@
 |**2025-08-01**|**Honey Classification using Hyperspectral Imaging and Machine Learning**|Mokhtar A. Al-Awadhi et.al.|[2508.00361](http://arxiv.org/abs/2508.00361)|null|
 |**2025-07-31**|**SAMSA: Segment Anything Model Enhanced with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation**|Alfie Roddan et.al.|[2507.23673](http://arxiv.org/abs/2507.23673)|null|
 
-<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251024>back to top</a>)</p>
 
