@@ -625,7 +625,7 @@ layout: default
 |**2025-10-14**|**UniGS: Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering**|Yusen Xie et.al.|[2510.12174](http://arxiv.org/abs/2510.12174)|null|
 |**2025-10-13**|**ACE-G: Improving Generalization of Scene Coordinate Regression Through Query Pre-Training**|Leonard Bruns et.al.|[2510.11605](http://arxiv.org/abs/2510.11605)|null|
 |**2025-10-10**|**Robust Visual Teach-and-Repeat Navigation with Flexible Topo-metric Graph Map Representation**|Jikai Wang et.al.|[2510.09089](http://arxiv.org/abs/2510.09089)|null|
-|**2025-10-06**|**OKVIS2-X: Open Keyframe-based Visual-Inertial SLAM Configurable with Dense Depth or LiDAR, and GNSS**|Simon Boche et.al.|[2510.04612](http://arxiv.org/abs/2510.04612)|null|
+|**2025-10-06**|**OKVIS2-X: Open Keyframe-based Visual-Inertial SLAM Configurable with Dense Depth or LiDAR, and GNSS**|Simon Boche et.al.|[2510.04612](http://arxiv.org/abs/2510.04612)|**[link](https://github.com/ethz-mrl/OKVIS2-X)**|
 |**2025-10-05**|**Constructing coherent spatial memory in LLM agents through graph rectification**|Puzhen Zhang et.al.|[2510.04195](http://arxiv.org/abs/2510.04195)|null|
 |**2025-10-01**|**A Scene is Worth a Thousand Features: Feed-Forward Camera Localization from a Collection of Image Features**|Axel Barroso-Laguna et.al.|[2510.00978](http://arxiv.org/abs/2510.00978)|null|
 |**2025-09-30**|**Updates to the WFC3/UVIS Saturation Map**|Mitchell Revalski et.al.|[2510.00097](http://arxiv.org/abs/2510.00097)|null|
