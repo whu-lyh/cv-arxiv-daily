@@ -1,4 +1,4 @@
-## Updated on 2025.10.26
+## Updated on 2025.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -84,7 +84,7 @@
 |**2025-09-05**|**Towards an Accurate and Effective Robot Vision (The Problem of Topological Localization for Mobile Robots)**|Emanuela Boros et.al.|[2509.04948](http://arxiv.org/abs/2509.04948)|null|
 |**2025-09-05**|**FloodVision: Urban Flood Depth Estimation Using Foundation Vision-Language Models and Domain Knowledge Graph**|Zhangding Liu et.al.|[2509.04772](http://arxiv.org/abs/2509.04772)|null|
 |**2025-09-05**|**Global-to-Local or Local-to-Global? Enhancing Image Retrieval with Efficient Local Search and Effective Global Re-ranking**|Dror Aiger et.al.|[2509.04351](http://arxiv.org/abs/2509.04351)|null|
-|**2025-09-05**|**GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization**|Pengyue Jia et.al.|[2509.04334](http://arxiv.org/abs/2509.04334)|null|
+|**2025-09-05**|**GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization**|Pengyue Jia et.al.|[2509.04334](http://arxiv.org/abs/2509.04334)|**[link](https://github.com/Applied-Machine-Learning-Lab/GeoArena)**|
 |**2025-09-04**|**DUDE: Diffusion-Based Unsupervised Cross-Domain Image Retrieval**|Ruohong Yang et.al.|[2509.04193](http://arxiv.org/abs/2509.04193)|null|
 |**2025-09-04**|**A Foundation Model for Chest X-ray Interpretation with Grounded Reasoning via Online Reinforcement Learning**|Qika Lin et.al.|[2509.03906](http://arxiv.org/abs/2509.03906)|null|
 |**2025-09-02**|**Scale, Don't Fine-tune: Guiding Multimodal LLMs for Efficient Visual Place Recognition at Test-Time**|Jintao Cheng et.al.|[2509.02129](http://arxiv.org/abs/2509.02129)|null|
@@ -102,7 +102,7 @@
 |**2025-08-27**|**Low-exposure, high-quality multimodal speckle X-ray imaging via an intrinsic gradient-flow approach**|Jayvan Liu et.al.|[2508.20209](http://arxiv.org/abs/2508.20209)|null|
 |**2025-08-27**|**Grounding Multimodal Large Language Models with Quantitative Skin Attributes: A Retrieval Study**|Max Torop et.al.|[2508.20188](http://arxiv.org/abs/2508.20188)|null|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 
 ## Point Cloud Place Recognition
 
@@ -134,7 +134,7 @@
 |**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|null|
 |**2024-03-19**|**HeLiPR: Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition under Spatiotemporal Variations**|Minwoo Jung et.al.|[2309.14590](http://arxiv.org/abs/2309.14590)|null|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 
 ## 3D GS
 
@@ -350,7 +350,7 @@
 |**2025-08-30**|**AGS: Accelerating 3D Gaussian Splatting SLAM via CODEC-Assisted Frame Covisibility Detection**|Houshu He et.al.|[2509.00433](http://arxiv.org/abs/2509.00433)|null|
 |**2025-08-29**|**Complete Gaussian Splats from a Single Image with Denoising Diffusion Models**|Ziwei Liao et.al.|[2508.21542](http://arxiv.org/abs/2508.21542)|null|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -633,7 +633,7 @@
 |**2025-09-02**|**Curiosity-Driven Testing for Sequential Decision-Making Process**|Junda He et.al.|[2509.02025](http://arxiv.org/abs/2509.02025)|null|
 |**2025-09-02**|**Generalizing Unsupervised Lidar Odometry Model from Normal to Snowy Weather Conditions**|Beibei Zhou et.al.|[2509.02011](http://arxiv.org/abs/2509.02011)|null|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 
 ## Map
 
@@ -679,7 +679,7 @@
 |**2025-06-05**|**ADEPT: Adaptive Diffusion Environment for Policy Transfer Sim-to-Real**|Youwei Yu et.al.|[2506.01759](http://arxiv.org/abs/2506.01759)|null|
 |**2025-06-01**|**Globally Consistent RGB-D SLAM with 2D Gaussian Splatting**|Xingguang Zhong et.al.|[2506.00970](http://arxiv.org/abs/2506.00970)|null|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 
 ## Non-rigid Registration
 
@@ -699,7 +699,7 @@
 |**2013-04-15**|**Local Structure Matching Driven by Joint-Saliency-Structure Adaptive Kernel Regression**|Binjie Qin et.al.|[1302.0494](http://arxiv.org/abs/1302.0494)|null|
 |**2011-04-21**|**A Meshless Method for Variational Nonrigid 2-D Shape Registration**|Wei Liu et.al.|[1104.4168](http://arxiv.org/abs/1104.4168)|null|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 
 ## MoE
 
@@ -867,7 +867,7 @@
 |**2025-09-22**|**SSNet: Flexible and robust channel extrapolation for fluid antenna systems enabled by an self-supervised learning framework**|Yuan Gao et.al.|[2509.17797](http://arxiv.org/abs/2509.17797)|null|
 |**2025-09-22**|**Qwen3-Omni Technical Report**|Jin Xu et.al.|[2509.17765](http://arxiv.org/abs/2509.17765)|null|
 |**2025-09-22**|**Attention-based Mixture of Experts for Robust Speech Deepfake Detection**|Viola Negroni et.al.|[2509.17585](http://arxiv.org/abs/2509.17585)|null|
-|**2025-09-22**|**Robust Mixture Models for Algorithmic Fairness Under Latent Heterogeneity**|Siqi Li et.al.|[2509.17411](http://arxiv.org/abs/2509.17411)|null|
+|**2025-09-22**|**Robust Mixture Models for Algorithmic Fairness Under Latent Heterogeneity**|Siqi Li et.al.|[2509.17411](http://arxiv.org/abs/2509.17411)|**[link](https://github.com/siqili0325/ROME)**|
 |**2025-09-21**|**MoEs Are Stronger than You Think: Hyper-Parallel Inference Scaling with RoE**|Soheil Zibakhsh et.al.|[2509.17238](http://arxiv.org/abs/2509.17238)|null|
 |**2025-09-21**|**A community-driven optimization framework for redrawing school attendance boundaries**|Hongzhao Guan et.al.|[2509.17130](http://arxiv.org/abs/2509.17130)|null|
 |**2025-09-21**|**CoBEVMoE: Heterogeneity-aware Feature Fusion with Dynamic Mixture-of-Experts for Collaborative Perception**|Lingzhao Kong et.al.|[2509.17107](http://arxiv.org/abs/2509.17107)|null|
@@ -946,7 +946,7 @@
 |**2025-08-31**|**MEPT: Mixture of Expert Prompt Tuning as a Manifold Mapper**|Runjia Zeng et.al.|[2509.00996](http://arxiv.org/abs/2509.00996)|null|
 |**2025-08-31**|**Router Upcycling: Leveraging Mixture-of-Routers in Mixture-of-Experts Upcycling**|Junfeng Ran et.al.|[2509.00679](http://arxiv.org/abs/2509.00679)|null|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 
 ## Mamba
 
@@ -955,7 +955,7 @@
 |**2025-10-22**|**PRGCN: A Graph Memory Network for Cross-Sequence Pattern Reuse in 3D Human Pose Estimation**|Zhuoyang Xie et.al.|[2510.19475](http://arxiv.org/abs/2510.19475)|null|
 |**2025-10-23**|**Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge**|Penghao Wang et.al.|[2510.19266](http://arxiv.org/abs/2510.19266)|null|
 |**2025-10-21**|**$Δ$ t-Mamba3D: A Time-Aware Spatio-Temporal State-Space Model for Breast Cancer Risk Prediction**|Zhengbo Zhou et.al.|[2510.19003](http://arxiv.org/abs/2510.19003)|null|
-|**2025-10-23**|**MLMA: Towards Multilingual ASR With Mamba-based Architectures**|Mohamed Nabih Ali et.al.|[2510.18684](http://arxiv.org/abs/2510.18684)|null|
+|**2025-10-23**|**MLMA: Towards Multilingual ASR With Mamba-based Architectures**|Mohamed Nabih Ali et.al.|[2510.18684](http://arxiv.org/abs/2510.18684)|**[link](https://github.com/mnabihali/MLMA)**|
 |**2025-10-15**|**DMTrack: Deformable State-Space Modeling for UAV Multi-Object Tracking with Kalman Fusion and Uncertainty-Aware Association**|Zenghuang Fu et.al.|[2510.17860](http://arxiv.org/abs/2510.17860)|null|
 |**2025-10-20**|**S4ECG: Exploring the impact of long-range interactions for arrhythmia prediction**|Tiezhi Wang et.al.|[2510.17406](http://arxiv.org/abs/2510.17406)|null|
 |**2025-10-20**|**CausalMamba: Scalable Conditional State Space Models for Neural Causal Inference**|Sangyoon Bae et.al.|[2510.17318](http://arxiv.org/abs/2510.17318)|null|
@@ -1072,7 +1072,7 @@
 |**2025-08-30**|**SemaMIL: Semantic Reordering with Retrieval-Guided State Space Modeling for Whole Slide Image Classification**|Lubin Gan et.al.|[2509.00442](http://arxiv.org/abs/2509.00442)|null|
 |**2025-08-29**|**Quantum-Optimized Selective State Space Model for Efficient Time Series Prediction**|Stefan-Alexandru Jura et.al.|[2509.00259](http://arxiv.org/abs/2509.00259)|null|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 
 ## HSI Classification
 
@@ -1125,5 +1125,5 @@
 |**2025-08-01**|**Honey Classification using Hyperspectral Imaging and Machine Learning**|Mokhtar A. Al-Awadhi et.al.|[2508.00361](http://arxiv.org/abs/2508.00361)|null|
 |**2025-07-31**|**SAMSA: Segment Anything Model Enhanced with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation**|Alfie Roddan et.al.|[2507.23673](http://arxiv.org/abs/2507.23673)|null|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 

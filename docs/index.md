@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.26
+## Updated on 2025.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -658,7 +658,7 @@ layout: default
 |**2025-07-31**|**X-ray Polarization Detection of the Pulsar Wind Nebula in G21.5-0.9 with IXPE**|Niccolò Di Lalla et.al.|[2506.05630](http://arxiv.org/abs/2506.05630)|null|
 |**2025-08-13**|**DualMap: Online Open-Vocabulary Semantic Mapping for Natural Language Navigation in Dynamic Changing Scenes**|Jiajun Jiang et.al.|[2506.01950](http://arxiv.org/abs/2506.01950)|null|
 |**2025-06-05**|**ADEPT: Adaptive Diffusion Environment for Policy Transfer Sim-to-Real**|Youwei Yu et.al.|[2506.01759](http://arxiv.org/abs/2506.01759)|null|
-|**2025-06-01**|**Globally Consistent RGB-D SLAM with 2D Gaussian Splatting**|Xingguang Zhong et.al.|[2506.00970](http://arxiv.org/abs/2506.00970)|null|
+|**2025-06-01**|**Globally Consistent RGB-D SLAM with 2D Gaussian Splatting**|Xingguang Zhong et.al.|[2506.00970](http://arxiv.org/abs/2506.00970)|**[link](https://github.com/PRBonn/2DGS-SLAM)**|
 
 ## Non-rigid Registration
 
@@ -694,7 +694,7 @@ layout: default
 |**2025-10-22**|**A Design Science Blueprint for an Orchestrated AI Assistant in Doctoral Supervision**|Teo Susnjak et.al.|[2510.19227](http://arxiv.org/abs/2510.19227)|null|
 |**2025-10-22**|**MoE-GS: Mixture of Experts for Dynamic Gaussian Splatting**|In-Hwan Jin et.al.|[2510.19210](http://arxiv.org/abs/2510.19210)|null|
 |**2025-10-21**|**Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale Thinking Model**|Ling Team et.al.|[2510.18855](http://arxiv.org/abs/2510.18855)|null|
-|**2025-10-21**|**Unifying and Enhancing Graph Transformers via a Hierarchical Mask Framework**|Yujie Xing et.al.|[2510.18825](http://arxiv.org/abs/2510.18825)|null|
+|**2025-10-21**|**Unifying and Enhancing Graph Transformers via a Hierarchical Mask Framework**|Yujie Xing et.al.|[2510.18825](http://arxiv.org/abs/2510.18825)|**[link](https://github.com/null-xyj/M3Dphormer)**|
 |**2025-10-21**|**Noise-Conditioned Mixture-of-Experts Framework for Robust Speaker Verification**|Bin Gu et.al.|[2510.18533](http://arxiv.org/abs/2510.18533)|null|
 |**2025-10-21**|**Training Diverse Graph Experts for Ensembles: A Systematic Empirical Study**|Gangda Deng et.al.|[2510.18370](http://arxiv.org/abs/2510.18370)|null|
 |**2025-10-21**|**DeepSeek-OCR: Contexts Optical Compression**|Haoran Wei et.al.|[2510.18234](http://arxiv.org/abs/2510.18234)|null|
