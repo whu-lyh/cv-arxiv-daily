@@ -9,7 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-27**|**Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment**|Hongyi Wang et.al.|[2510.23224](http://arxiv.org/abs/2510.23224)|**[link](https://github.com/Dootmaan/PathSearch)**|
+|**2025-10-27**|**Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment**|Hongyi Wang et.al.|[2510.23224](http://arxiv.org/abs/2510.23224)|null|
 |**2025-10-26**|**Seeing the Unseen: Towards Zero-Shot Inspection for Wind Turbine Blades using Knowledge-Augmented Vision Language Models**|Yang Zhang et.al.|[2510.22868](http://arxiv.org/abs/2510.22868)|null|
 |**2025-10-26**|**Cross-view Localization and Synthesis -- Datasets, Challenges and Opportunities**|Ningli Xu et.al.|[2510.22736](http://arxiv.org/abs/2510.22736)|null|
 |**2025-10-26**|**STATUS Bench: A Rigorous Benchmark for Evaluating Object State Understanding in Vision-Language Models**|Mahiro Ukai et.al.|[2510.22571](http://arxiv.org/abs/2510.22571)|null|
@@ -130,6 +130,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**NVSim: Novel View Synthesis Simulator for Large Scale Indoor Navigation**|Mingyu Jeong et.al.|[2510.24335](http://arxiv.org/abs/2510.24335)|null|
+|**2025-10-28**|**LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation**|Haotian Zhou et.al.|[2510.24118](http://arxiv.org/abs/2510.24118)|null|
+|**2025-10-28**|**A Survey on Collaborative SLAM with 3D Gaussian Splatting**|Phuc Nguyen Xuan et.al.|[2510.23988](http://arxiv.org/abs/2510.23988)|null|
+|**2025-10-27**|**PlanarGS: High-Fidelity Indoor 3D Gaussian Splatting Guided by Vision-Language Planar Priors**|Xirui Jin et.al.|[2510.23930](http://arxiv.org/abs/2510.23930)|null|
 |**2025-10-27**|**Explicit Memory through Online 3D Gaussian Splatting Improves Class-Agnostic Video Segmentation**|Anthony Opipari et.al.|[2510.23521](http://arxiv.org/abs/2510.23521)|null|
 |**2025-10-27**|**VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting**|Hoonhee Cho et.al.|[2510.23205](http://arxiv.org/abs/2510.23205)|null|
 |**2025-10-27**|**EndoWave: Rational-Wavelet 4D Gaussian Splatting for Endoscopic Reconstruction**|Taoyu Wu et.al.|[2510.23087](http://arxiv.org/abs/2510.23087)|null|
@@ -357,6 +361,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**Learning to Drive Safely with Hybrid Options**|Bram De Cooman et.al.|[2510.24674](http://arxiv.org/abs/2510.24674)|null|
+|**2025-10-28**|**Enhancing Vision-Language Models for Autonomous Driving through Task-Specific Prompting and Spatial Reasoning**|Aodi Wu et.al.|[2510.24152](http://arxiv.org/abs/2510.24152)|null|
+|**2025-10-28**|**ZTRS: Zero-Imitation End-to-end Autonomous Driving with Trajectory Scoring**|Zhenxin Li et.al.|[2510.24108](http://arxiv.org/abs/2510.24108)|null|
+|**2025-10-28**|**SynAD: Enhancing Real-World End-to-End Autonomous Driving Models through Synthetic Data Integration**|Jongsuk Kim et.al.|[2510.24052](http://arxiv.org/abs/2510.24052)|null|
+|**2025-10-27**|**Modeling and Scheduling of Fusion Patterns in Autonomous Driving Systems (Extended Version)**|Hoora Sobhani et.al.|[2510.23895](http://arxiv.org/abs/2510.23895)|null|
 |**2025-10-27**|**VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting**|Hoonhee Cho et.al.|[2510.23205](http://arxiv.org/abs/2510.23205)|null|
 |**2025-10-27**|**Scaling Up Occupancy-centric Driving Scene Generation: Dataset and Method**|Bohan Li et.al.|[2510.22973](http://arxiv.org/abs/2510.22973)|null|
 |**2025-10-26**|**Uncertainty-Aware Autonomous Vehicles: Predicting the Road Ahead**|Shireen Kudukkil Manchingal et.al.|[2510.22680](http://arxiv.org/abs/2510.22680)|null|
@@ -713,6 +722,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**Routing Matters in MoE: Scaling Diffusion Transformers with Explicit Routing Guidance**|Yujie Wei et.al.|[2510.24711](http://arxiv.org/abs/2510.24711)|null|
+|**2025-10-28**|**Language-Conditioned Representations and Mixture-of-Experts Policy for Robust Multi-Task Robotic Manipulation**|Xiucheng Zhang et.al.|[2510.24055](http://arxiv.org/abs/2510.24055)|null|
+|**2025-10-26**|**Sparsity and Superposition in Mixture of Experts**|Marmik Chaudhari et.al.|[2510.23671](http://arxiv.org/abs/2510.23671)|null|
 |**2025-10-27**|**EMTSF:Extraordinary Mixture of SOTA Models for Time Series Forecasting**|Musleh Alharthi et.al.|[2510.23396](http://arxiv.org/abs/2510.23396)|null|
 |**2025-10-27**|**Rethinking GSPO: The Perplexity-Entropy Equivalence**|Chi Liu et.al.|[2510.23142](http://arxiv.org/abs/2510.23142)|null|
 |**2025-10-27**|**Knocking-Heads Attention**|Zhanchao Zhou et.al.|[2510.23052](http://arxiv.org/abs/2510.23052)|null|
@@ -969,6 +981,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**DeshadowMamba: Deshadowing as 1D Sequential Similarity**|Zhaotong Yang et.al.|[2510.24260](http://arxiv.org/abs/2510.24260)|null|
 |**2025-10-27**|**Deep Active Inference with Diffusion Policy and Multiple Timescale World Model for Real-World Exploration and Navigation**|Riko Yokozawa et.al.|[2510.23258](http://arxiv.org/abs/2510.23258)|null|
 |**2025-10-27**|**Hankel Singular Value Regularization for Highly Compressible State Space Models**|Paul Schwerdtner et.al.|[2510.22951](http://arxiv.org/abs/2510.22951)|null|
 |**2025-10-27**|**GTR-Mamba: Geometry-to-Tangent Routing for Hyperbolic POI Recommendation**|Zhuoxuan Li et.al.|[2510.22942](http://arxiv.org/abs/2510.22942)|null|
