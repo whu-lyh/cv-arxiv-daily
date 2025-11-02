@@ -1184,11 +1184,11 @@
 |**2025-10-06**|**In-Field Mapping of Grape Yield and Quality with Illumination-Invariant Deep Learning**|Ciem Cornelissen et.al.|[2510.04864](http://arxiv.org/abs/2510.04864)|null|
 |**2025-10-02**|**Flow-Matching Guided Deep Unfolding for Hyperspectral Image Reconstruction**|Yi Ai et.al.|[2510.01912](http://arxiv.org/abs/2510.01912)|null|
 |**2025-09-28**|**Joint Superpixel and Self-Representation Learning for Scalable Hyperspectral Image Clustering**|Xianlu Li et.al.|[2509.24027](http://arxiv.org/abs/2509.24027)|null|
-|**2025-09-28**|**Generalized Category Discovery in Hyperspectral Images via Prototype Subspace Modeling**|Xianlu Li et.al.|[2509.24017](http://arxiv.org/abs/2509.24017)|null|
+|**2025-09-28**|**Generalized Category Discovery in Hyperspectral Images via Prototype Subspace Modeling**|Xianlu Li et.al.|[2509.24017](http://arxiv.org/abs/2509.24017)|**[link](https://github.com/lxlscut/gcd_hsi)**|
 |**2025-09-20**|**Learning Hyperspectral Images with Curated Text Prompts for Efficient Multimodal Alignment**|Abhiroop Chatterjee et.al.|[2509.22697](http://arxiv.org/abs/2509.22697)|null|
 |**2025-09-25**|**Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models**|Juana Valeria Hurtado et.al.|[2509.20107](http://arxiv.org/abs/2509.20107)|null|
 |**2025-09-21**|**SwarmChat: An LLM-Based, Context-Aware Multimodal Interaction System for Robotic Swarms**|Ettilla Mohiuddin Eumi et.al.|[2509.16920](http://arxiv.org/abs/2509.16920)|null|
-|**2025-09-20**|**Spectral Compressive Imaging via Chromaticity-Intensity Decomposition**|Xiaodong Wang et.al.|[2509.16690](http://arxiv.org/abs/2509.16690)|null|
+|**2025-09-20**|**Spectral Compressive Imaging via Chromaticity-Intensity Decomposition**|Xiaodong Wang et.al.|[2509.16690](http://arxiv.org/abs/2509.16690)|**[link](https://github.com/xiaodongwo/CIDNet)**|
 |**2025-09-16**|**Curriculum Multi-Task Self-Supervision Improves Lightweight Architectures for Onboard Satellite Hyperspectral Image Segmentation**|Hugo Carlesso et.al.|[2509.13229](http://arxiv.org/abs/2509.13229)|null|
 |**2025-09-15**|**Progressive Flow-inspired Unfolding for Spectral Compressive Imaging**|Xiaodong Wang et.al.|[2509.12079](http://arxiv.org/abs/2509.12079)|null|
 |**2025-09-19**|**USCTNet: A deep unfolding nuclear-norm optimization solver for physically consistent HSI reconstruction**|Xiaoyang Ma et.al.|[2509.10651](http://arxiv.org/abs/2509.10651)|null|
