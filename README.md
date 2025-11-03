@@ -202,7 +202,7 @@
 |**2025-10-16**|**Leveraging Learned Image Prior for 3D Gaussian Compression**|Seungjoo Shin et.al.|[2510.14705](http://arxiv.org/abs/2510.14705)|null|
 |**2025-10-16**|**BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU**|Junyi Wu et.al.|[2510.14564](http://arxiv.org/abs/2510.14564)|null|
 |**2025-10-16**|**GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering**|Alexander Valverde et.al.|[2510.14270](http://arxiv.org/abs/2510.14270)|null|
-|**2025-10-16**|**Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures**|Yuancheng Xu et.al.|[2510.14179](http://arxiv.org/abs/2510.14179)|null|
+|**2025-10-16**|**Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures**|Yuancheng Xu et.al.|[2510.14179](http://arxiv.org/abs/2510.14179)|**[link](https://github.com/Eyeline-Labs/Virtually-Being)**|
 |**2025-10-17**|**Capture, Canonicalize, Splat: Zero-Shot 3D Gaussian Avatars from Unstructured Phone Images**|Emanuel Garbin et.al.|[2510.14081](http://arxiv.org/abs/2510.14081)|null|
 |**2025-10-15**|**Instant Skinned Gaussian Avatars for Web, Mobile and VR Applications**|Naruya Kondo et.al.|[2510.13978](http://arxiv.org/abs/2510.13978)|null|
 |**2025-10-15**|**VIST3A: Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator**|Hyojun Go et.al.|[2510.13454](http://arxiv.org/abs/2510.13454)|null|
@@ -425,7 +425,7 @@
 |**2025-10-22**|**VGD: Visual Geometry Gaussian Splatting for Feed-Forward Surround-view Driving Reconstruction**|Junhong Lin et.al.|[2510.19578](http://arxiv.org/abs/2510.19578)|null|
 |**2025-10-22**|**AutoMT: A Multi-Agent LLM Framework for Automated Metamorphic Testing of Autonomous Driving Systems**|Linfeng Liang et.al.|[2510.19438](http://arxiv.org/abs/2510.19438)|null|
 |**2025-10-22**|**SFGFusion: Surface Fitting Guided 3D Object Detection with 4D Radar and Camera Fusion**|Xiaozhi Li et.al.|[2510.19215](http://arxiv.org/abs/2510.19215)|null|
-|**2025-10-24**|**Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks**|Kai Zeng et.al.|[2510.19195](http://arxiv.org/abs/2510.19195)|null|
+|**2025-10-24**|**Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks**|Kai Zeng et.al.|[2510.19195](http://arxiv.org/abs/2510.19195)|**[link](https://github.com/wm-research/Dream4Drive)**|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 |**2025-10-23**|**Occluded nuScenes: A Multi-Sensor Dataset for Evaluating Perception Robustness in Automated Driving**|Sanjay Kumar et.al.|[2510.18552](http://arxiv.org/abs/2510.18552)|null|
 |**2025-10-21**|**MMRHP: A Miniature Mixed-Reality HIL Platform for Auditable Closed-Loop Evaluation**|Mingxin Li et.al.|[2510.18371](http://arxiv.org/abs/2510.18371)|null|
@@ -501,7 +501,7 @@
 |**2025-10-09**|**ResAD: Normalized Residual Trajectory Modeling for End-to-End Autonomous Driving**|Zhiyu Zheng et.al.|[2510.08562](http://arxiv.org/abs/2510.08562)|null|
 |**2025-10-09**|**Approximate Domain Unlearning for Vision-Language Models**|Kodai Kawamura et.al.|[2510.08132](http://arxiv.org/abs/2510.08132)|null|
 |**2025-10-09**|**LinguaSim: Interactive Multi-Vehicle Testing Scenario Generation via Natural Language Instruction Based on Large Language Models**|Qingyuan Shi et.al.|[2510.08046](http://arxiv.org/abs/2510.08046)|null|
-|**2025-10-09**|**RayFusion: Ray Fusion Enhanced Collaborative Visual Perception**|Shaohong Wang et.al.|[2510.08017](http://arxiv.org/abs/2510.08017)|null|
+|**2025-10-09**|**RayFusion: Ray Fusion Enhanced Collaborative Visual Perception**|Shaohong Wang et.al.|[2510.08017](http://arxiv.org/abs/2510.08017)|**[link](https://github.com/wangsh0111/RayFusion)**|
 |**2025-10-09**|**CVD-STORM: Cross-View Video Diffusion with Spatial-Temporal Reconstruction Model for Autonomous Driving**|Tianrui Zhang et.al.|[2510.07944](http://arxiv.org/abs/2510.07944)|null|
 |**2025-10-09**|**MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding**|Peiran Wu et.al.|[2510.07915](http://arxiv.org/abs/2510.07915)|null|
 |**2025-10-10**|**GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models**|Qinghongbing Xie et.al.|[2510.07791](http://arxiv.org/abs/2510.07791)|null|
@@ -1211,7 +1211,7 @@
 |**2025-08-15**|**Hyperspectral vs. RGB for Pedestrian Segmentation in Urban Driving Scenes: A Comparative Study**|Jiarong Li et.al.|[2508.11301](http://arxiv.org/abs/2508.11301)|null|
 |**2025-08-14**|**CSNR and JMIM Based Spectral Band Selection for Reducing Metamerism in Urban Driving**|Jiarong Li et.al.|[2508.10962](http://arxiv.org/abs/2508.10962)|null|
 |**2025-08-13**|**Probabilistic Emissivity Retrieval from Hyperspectral Data via Physics-Guided Variational Inference**|Joshua R. Tempelman et.al.|[2508.08291](http://arxiv.org/abs/2508.08291)|null|
-|**2025-08-11**|**Hyperspectral Imaging**|Danfeng Hong et.al.|[2508.08107](http://arxiv.org/abs/2508.08107)|null|
+|**2025-08-11**|**Hyperspectral Imaging**|Danfeng Hong et.al.|[2508.08107](http://arxiv.org/abs/2508.08107)|**[link](https://github.com/spectralpython/spectral)**|
 |**2025-08-11**|**DETACH: Cross-domain Learning for Long-Horizon Tasks via Mixture of Disentangled Experts**|Yutong Shen et.al.|[2508.07842](http://arxiv.org/abs/2508.07842)|null|
 |**2025-08-09**|**TerraMAE: Learning Spatial-Spectral Representations from Hyperspectral Earth Observation Data via Adaptive Masked Autoencoders**|Tanjim Bin Faruk et.al.|[2508.07020](http://arxiv.org/abs/2508.07020)|null|
 |**2025-08-05**|**Low-rankness and Smoothness Meet Subspace: A Unified Tensor Regularization for Hyperspectral Image Super-resolution**|Jun Zhang et.al.|[2508.03049](http://arxiv.org/abs/2508.03049)|null|

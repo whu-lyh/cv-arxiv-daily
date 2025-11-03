@@ -208,7 +208,7 @@ layout: default
 |**2025-10-12**|**High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic Manipulation Learning with Gaussian Splatting**|Haoyu Zhao et.al.|[2510.10637](http://arxiv.org/abs/2510.10637)|null|
 |**2025-10-12**|**Towards Efficient 3D Gaussian Human Avatar Compression: A Prior-Guided Framework**|Shanzhi Yin et.al.|[2510.10492](http://arxiv.org/abs/2510.10492)|null|
 |**2025-10-11**|**Opacity-Gradient Driven Density Control for Compact and Efficient Few-Shot 3D Gaussian Splatting**|Abdelrhman Elrawy et.al.|[2510.10257](http://arxiv.org/abs/2510.10257)|null|
-|**2025-10-11**|**Color3D: Controllable and Consistent 3D Colorization with Personalized Colorizer**|Yecong Wan et.al.|[2510.10152](http://arxiv.org/abs/2510.10152)|null|
+|**2025-10-11**|**Color3D: Controllable and Consistent 3D Colorization with Personalized Colorizer**|Yecong Wan et.al.|[2510.10152](http://arxiv.org/abs/2510.10152)|**[link](https://github.com/yecongwan/Color3D)**|
 |**2025-10-11**|**Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting**|Jiahui Lu et.al.|[2510.10097](http://arxiv.org/abs/2510.10097)|null|
 |**2025-10-11**|**P-4DGS: Predictive 4D Gaussian Splatting with 90 $\times$ Compression**|Henan Wang et.al.|[2510.10030](http://arxiv.org/abs/2510.10030)|null|
 |**2025-10-11**|**CLoD-GS: Continuous Level-of-Detail via 3D Gaussian Splatting**|Zhigang Cheng et.al.|[2510.09997](http://arxiv.org/abs/2510.09997)|null|
@@ -408,7 +408,7 @@ layout: default
 |**2025-10-22**|**VGD: Visual Geometry Gaussian Splatting for Feed-Forward Surround-view Driving Reconstruction**|Junhong Lin et.al.|[2510.19578](http://arxiv.org/abs/2510.19578)|null|
 |**2025-10-22**|**AutoMT: A Multi-Agent LLM Framework for Automated Metamorphic Testing of Autonomous Driving Systems**|Linfeng Liang et.al.|[2510.19438](http://arxiv.org/abs/2510.19438)|null|
 |**2025-10-22**|**SFGFusion: Surface Fitting Guided 3D Object Detection with 4D Radar and Camera Fusion**|Xiaozhi Li et.al.|[2510.19215](http://arxiv.org/abs/2510.19215)|null|
-|**2025-10-24**|**Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks**|Kai Zeng et.al.|[2510.19195](http://arxiv.org/abs/2510.19195)|null|
+|**2025-10-24**|**Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks**|Kai Zeng et.al.|[2510.19195](http://arxiv.org/abs/2510.19195)|**[link](https://github.com/wm-research/Dream4Drive)**|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 |**2025-10-23**|**Occluded nuScenes: A Multi-Sensor Dataset for Evaluating Perception Robustness in Automated Driving**|Sanjay Kumar et.al.|[2510.18552](http://arxiv.org/abs/2510.18552)|null|
 |**2025-10-21**|**MMRHP: A Miniature Mixed-Reality HIL Platform for Auditable Closed-Loop Evaluation**|Mingxin Li et.al.|[2510.18371](http://arxiv.org/abs/2510.18371)|null|
@@ -565,8 +565,8 @@ layout: default
 |**2025-09-24**|**RDAR: Reward-Driven Agent Relevance Estimation for Autonomous Driving**|Carlo Bosio et.al.|[2509.19789](http://arxiv.org/abs/2509.19789)|null|
 |**2025-09-24**|**EfficienT-HDR: An Efficient Transformer-Based Framework via Multi-Exposure Fusion for HDR Reconstruction**|Yu-Shen Huang et.al.|[2509.19779](http://arxiv.org/abs/2509.19779)|null|
 |**2025-09-23**|**The Impact of 2D Segmentation Backbones on Point Cloud Predictions Using 4D Radar**|William L. Muckelroy III et.al.|[2509.19644](http://arxiv.org/abs/2509.19644)|null|
-|**2025-09-23**|**Coordinated PSO-PID based longitudinal control with LPV-MPC based lateral control for autonomous vehicles**|Yassine Kebbati et.al.|[2509.19529](http://arxiv.org/abs/2509.19529)|null|
-|**2025-09-23**|**Autonomous driving using an optimized neural network based adaptive LPV-MPC controller**|Yassine Kebbati et.al.|[2509.19523](http://arxiv.org/abs/2509.19523)|null|
+|**2025-09-23**|**Coordinated PSO-PID based longitudinal control with LPV-MPC based lateral control for autonomous vehicles**|Yassine Kebbati et.al.|[2509.19529](http://arxiv.org/abs/2509.19529)|**[link](https://github.com/yassinekebbati/ECC2022)**|
+|**2025-09-23**|**Autonomous driving using an optimized neural network based adaptive LPV-MPC controller**|Yassine Kebbati et.al.|[2509.19523](http://arxiv.org/abs/2509.19523)|**[link](https://github.com/yassinekebbati/NN_MPC-vs-ANFIS_MPC)**|
 |**2025-09-23**|**Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation**|Sherwin Bahmani et.al.|[2509.19296](http://arxiv.org/abs/2509.19296)|null|
 |**2025-09-24**|**An on-chip Pixel Processing Approach with 2.4μs latency for Asynchronous Read-out of SPAD-based dToF Flash LiDARs**|Yiyang Liu et.al.|[2509.19192](http://arxiv.org/abs/2509.19192)|null|
 |**2025-09-23**|**TriFusion-AE: Language-Guided Depth and LiDAR Fusion for Robust Point Cloud Processing**|Susmit Neogi et.al.|[2509.18743](http://arxiv.org/abs/2509.18743)|null|
