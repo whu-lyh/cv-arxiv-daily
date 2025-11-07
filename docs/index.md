@@ -9,10 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**Multi-Task Learning for Visually Grounded Reasoning in Gastrointestinal VQA**|Itbaan Safwan et.al.|[2511.04384](http://arxiv.org/abs/2511.04384)|null|
+|**2025-11-06**|**An Efficient Algorithm for Learning-Based Visual Localization**|Jindi Zhong et.al.|[2511.04232](http://arxiv.org/abs/2511.04232)|null|
+|**2025-11-05**|**The Human Flourishing Geographic Index: A County-Level Dataset for the United States, 2013--2023**|Stefano M. Iacus et.al.|[2511.03915](http://arxiv.org/abs/2511.03915)|null|
 |**2025-11-04**|**Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization**|Tao Liu et.al.|[2511.02489](http://arxiv.org/abs/2511.02489)|null|
 |**2025-11-04**|**LUMA-RAG: Lifelong Multimodal Agents with Provably Stable Streaming Alignment**|Rohan Wandre et.al.|[2511.02371](http://arxiv.org/abs/2511.02371)|null|
-|**2025-11-03**|**SEPS: Semantic-enhanced Patch Slimming Framework for fine-grained cross-modal alignment**|Xinyu Mao et.al.|[2511.01390](http://arxiv.org/abs/2511.01390)|**[link](https://github.com/Sweet4tars/seps)**|
-|**2025-11-02**|**GeoToken: Hierarchical Geolocalization of Images via Next Token Prediction**|Narges Ghasemi et.al.|[2511.01082](http://arxiv.org/abs/2511.01082)|**[link](https://github.com/NNargesNN/GeoToken)**|
+|**2025-11-03**|**SEPS: Semantic-enhanced Patch Slimming Framework for fine-grained cross-modal alignment**|Xinyu Mao et.al.|[2511.01390](http://arxiv.org/abs/2511.01390)|null|
+|**2025-11-02**|**GeoToken: Hierarchical Geolocalization of Images via Next Token Prediction**|Narges Ghasemi et.al.|[2511.01082](http://arxiv.org/abs/2511.01082)|null|
 |**2025-11-02**|**Dynamic Multi-level Weighted Alignment Network for Zero-shot Sketch-based Image Retrieval**|Hanwen Su et.al.|[2511.00925](http://arxiv.org/abs/2511.00925)|null|
 |**2025-10-31**|**GEDICorrect: A Scalable Python Tool for Orbit-, Beam-, and Footprint-Level GEDI Geolocation Correction**|Leonel Corado et.al.|[2511.00319](http://arxiv.org/abs/2511.00319)|null|
 |**2025-10-31**|**Approximate Diverse $k$ -nearest Neighbor Search in Vector Database**|Jiachen Zhao et.al.|[2510.27243](http://arxiv.org/abs/2510.27243)|null|
@@ -142,6 +145,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions**|Kaifeng Zhang et.al.|[2511.04665](http://arxiv.org/abs/2511.04665)|null|
+|**2025-11-06**|**FastGS: Training 3D Gaussian Splatting in 100 Seconds**|Shiwei Ren et.al.|[2511.04283](http://arxiv.org/abs/2511.04283)|null|
+|**2025-11-06**|**CaRF: Enhancing Multi-View Consistency in Referring 3D Gaussian Splatting Segmentation**|Yuwen Tao et.al.|[2511.03992](http://arxiv.org/abs/2511.03992)|null|
 |**2025-11-05**|**DentalSplat: Dental Occlusion Novel View Synthesis from Sparse Intra-Oral Photographs**|Yiyi Miao et.al.|[2511.03099](http://arxiv.org/abs/2511.03099)|null|
 |**2025-11-04**|**PercHead: Perceptual Head Model for Single-Image 3D Head Reconstruction & Editing**|Antonio Oroz et.al.|[2511.02777](http://arxiv.org/abs/2511.02777)|null|
 |**2025-11-04**|**Object-Centric 3D Gaussian Splatting for Strawberry Plant Reconstruction and Phenotyping**|Jiajia Li et.al.|[2511.02207](http://arxiv.org/abs/2511.02207)|null|
@@ -387,10 +393,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**SAFe-Copilot: Unified Shared Autonomy Framework**|Phat Nguyen et.al.|[2511.04664](http://arxiv.org/abs/2511.04664)|null|
+|**2025-11-06**|**UniSplat: Unified Spatio-Temporal Fusion via 3D Latent Scaffolds for Dynamic Driving Scene Reconstruction**|Chen Shi et.al.|[2511.04595](http://arxiv.org/abs/2511.04595)|null|
+|**2025-11-06**|**A Tool for Benchmarking Large Language Models' Robustness in Assessing the Realism of Driving Scenarios**|Jiahui Wu et.al.|[2511.04267](http://arxiv.org/abs/2511.04267)|null|
+|**2025-11-06**|**ScaleDL: Towards Scalable and Efficient Runtime Prediction for Distributed Deep Learning Workloads**|Xiaokai Wang et.al.|[2511.04162](http://arxiv.org/abs/2511.04162)|null|
 |**2025-11-04**|**Comprehensive Assessment of LiDAR Evaluation Metrics: A Comparative Study Using Simulated and Real Data**|Syed Mostaquim Ali et.al.|[2511.02994](http://arxiv.org/abs/2511.02994)|null|
 |**2025-11-04**|**Keeping it Local, Tiny and Real: Automated Report Generation on Edge Computing Devices for Mechatronic-Based Cognitive Systems**|Nicolas Schuler et.al.|[2511.02507](http://arxiv.org/abs/2511.02507)|null|
 |**2025-11-04**|**3D Point Cloud Object Detection on Edge Devices for Split Computing**|Taisuke Noguchi et.al.|[2511.02293](http://arxiv.org/abs/2511.02293)|null|
-|**2025-11-04**|**LLMs as Judges: Toward The Automatic Review of GSN-compliant Assurance Cases**|Gerhard Yu et.al.|[2511.02203](http://arxiv.org/abs/2511.02203)|**[link](https://github.com/GerhardYu/LLMs-as-Judges-Toward-The-Automatic-Review-of-GSN-compliant-Assurance-Cases-Figures)**|
+|**2025-11-04**|**LLMs as Judges: Toward The Automatic Review of GSN-compliant Assurance Cases**|Gerhard Yu et.al.|[2511.02203](http://arxiv.org/abs/2511.02203)|null|
 |**2025-11-03**|**UniLION: Towards Unified Autonomous Driving Model with Linear Group RNNs**|Zhe Liu et.al.|[2511.01768](http://arxiv.org/abs/2511.01768)|null|
 |**2025-11-03**|**LLM-Assisted Tool for Joint Generation of Formulas and Functions in Rule-Based Verification of Map Transformations**|Ruidi He et.al.|[2511.01423](http://arxiv.org/abs/2511.01423)|null|
 |**2025-11-03**|**VeriODD: From YAML to SMT-LIB -- Automating Verification of Operational Design Domains**|Bassel Rafie et.al.|[2511.01417](http://arxiv.org/abs/2511.01417)|null|
@@ -779,6 +789,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**GNN-MoE: Context-Aware Patch Routing using GNNs for Parameter-Efficient Domain Generalization**|Mahmoud Soliman et.al.|[2511.04008](http://arxiv.org/abs/2511.04008)|null|
 |**2025-11-05**|**GMoPE:A Prompt-Expert Mixture Framework for Graph Foundation Models**|Zhibin Wang et.al.|[2511.03251](http://arxiv.org/abs/2511.03251)|null|
 |**2025-11-04**|**From Solo to Symphony: Orchestrating Multi-Agent Collaboration with Single-Agent Demos**|Xun Wang et.al.|[2511.02762](http://arxiv.org/abs/2511.02762)|null|
 |**2025-11-04**|**Verifying LLM Inference to Prevent Model Weight Exfiltration**|Roy Rinberg et.al.|[2511.02620](http://arxiv.org/abs/2511.02620)|null|
@@ -1067,6 +1078,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**Generative Bayesian Filtering and Parameter Learning**|Edoardo Marcelli et.al.|[2511.04552](http://arxiv.org/abs/2511.04552)|null|
+|**2025-11-06**|**Online Bayesian Experimental Design for Partially Observed Dynamical Systems**|Sara Pérez-Vieites et.al.|[2511.04403](http://arxiv.org/abs/2511.04403)|null|
 |**2025-11-05**|**FAPEX: Fractional Amplitude-Phase Expressor for Robust Cross-Subject Seizure Prediction**|Ruizhe Zheng et.al.|[2511.03263](http://arxiv.org/abs/2511.03263)|null|
 |**2025-11-04**|**Apriel-H1: Towards Efficient Enterprise Reasoning Models**|Oleksiy Ostapenko et.al.|[2511.02651](http://arxiv.org/abs/2511.02651)|null|
 |**2025-11-04**|**MM-UNet: Morph Mamba U-shaped Convolutional Networks for Retinal Vessel Segmentation**|Jiawen Liu et.al.|[2511.02193](http://arxiv.org/abs/2511.02193)|null|
