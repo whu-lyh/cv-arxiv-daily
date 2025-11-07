@@ -1,4 +1,4 @@
-## Updated on 2025.11.06
+## Updated on 2025.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,8 +22,8 @@
 |---|---|---|---|---|
 |**2025-11-04**|**Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization**|Tao Liu et.al.|[2511.02489](http://arxiv.org/abs/2511.02489)|null|
 |**2025-11-04**|**LUMA-RAG: Lifelong Multimodal Agents with Provably Stable Streaming Alignment**|Rohan Wandre et.al.|[2511.02371](http://arxiv.org/abs/2511.02371)|null|
-|**2025-11-03**|**SEPS: Semantic-enhanced Patch Slimming Framework for fine-grained cross-modal alignment**|Xinyu Mao et.al.|[2511.01390](http://arxiv.org/abs/2511.01390)|null|
-|**2025-11-02**|**GeoToken: Hierarchical Geolocalization of Images via Next Token Prediction**|Narges Ghasemi et.al.|[2511.01082](http://arxiv.org/abs/2511.01082)|null|
+|**2025-11-03**|**SEPS: Semantic-enhanced Patch Slimming Framework for fine-grained cross-modal alignment**|Xinyu Mao et.al.|[2511.01390](http://arxiv.org/abs/2511.01390)|**[link](https://github.com/Sweet4tars/seps)**|
+|**2025-11-02**|**GeoToken: Hierarchical Geolocalization of Images via Next Token Prediction**|Narges Ghasemi et.al.|[2511.01082](http://arxiv.org/abs/2511.01082)|**[link](https://github.com/NNargesNN/GeoToken)**|
 |**2025-11-02**|**Dynamic Multi-level Weighted Alignment Network for Zero-shot Sketch-based Image Retrieval**|Hanwen Su et.al.|[2511.00925](http://arxiv.org/abs/2511.00925)|null|
 |**2025-10-31**|**GEDICorrect: A Scalable Python Tool for Orbit-, Beam-, and Footprint-Level GEDI Geolocation Correction**|Leonel Corado et.al.|[2511.00319](http://arxiv.org/abs/2511.00319)|null|
 |**2025-10-31**|**Approximate Diverse $k$ -nearest Neighbor Search in Vector Database**|Jiachen Zhao et.al.|[2510.27243](http://arxiv.org/abs/2510.27243)|null|
@@ -119,7 +119,7 @@
 |**2025-08-27**|**Low-exposure, high-quality multimodal speckle X-ray imaging via an intrinsic gradient-flow approach**|Jayvan Liu et.al.|[2508.20209](http://arxiv.org/abs/2508.20209)|null|
 |**2025-08-27**|**Grounding Multimodal Large Language Models with Quantitative Skin Attributes: A Retrieval Study**|Max Torop et.al.|[2508.20188](http://arxiv.org/abs/2508.20188)|null|
 
-<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
 
 ## Point Cloud Place Recognition
 
@@ -151,7 +151,7 @@
 |**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|null|
 |**2024-03-19**|**HeLiPR: Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition under Spatiotemporal Variations**|Minwoo Jung et.al.|[2309.14590](http://arxiv.org/abs/2309.14590)|null|
 
-<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
 
 ## 3D GS
 
@@ -398,7 +398,7 @@
 |**2025-08-30**|**AGS: Accelerating 3D Gaussian Splatting SLAM via CODEC-Assisted Frame Covisibility Detection**|Houshu He et.al.|[2509.00433](http://arxiv.org/abs/2509.00433)|null|
 |**2025-08-29**|**Complete Gaussian Splats from a Single Image with Denoising Diffusion Models**|Ziwei Liao et.al.|[2508.21542](http://arxiv.org/abs/2508.21542)|null|
 
-<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -407,7 +407,7 @@
 |**2025-11-04**|**Comprehensive Assessment of LiDAR Evaluation Metrics: A Comparative Study Using Simulated and Real Data**|Syed Mostaquim Ali et.al.|[2511.02994](http://arxiv.org/abs/2511.02994)|null|
 |**2025-11-04**|**Keeping it Local, Tiny and Real: Automated Report Generation on Edge Computing Devices for Mechatronic-Based Cognitive Systems**|Nicolas Schuler et.al.|[2511.02507](http://arxiv.org/abs/2511.02507)|null|
 |**2025-11-04**|**3D Point Cloud Object Detection on Edge Devices for Split Computing**|Taisuke Noguchi et.al.|[2511.02293](http://arxiv.org/abs/2511.02293)|null|
-|**2025-11-04**|**LLMs as Judges: Toward The Automatic Review of GSN-compliant Assurance Cases**|Gerhard Yu et.al.|[2511.02203](http://arxiv.org/abs/2511.02203)|null|
+|**2025-11-04**|**LLMs as Judges: Toward The Automatic Review of GSN-compliant Assurance Cases**|Gerhard Yu et.al.|[2511.02203](http://arxiv.org/abs/2511.02203)|**[link](https://github.com/GerhardYu/LLMs-as-Judges-Toward-The-Automatic-Review-of-GSN-compliant-Assurance-Cases-Figures)**|
 |**2025-11-03**|**UniLION: Towards Unified Autonomous Driving Model with Linear Group RNNs**|Zhe Liu et.al.|[2511.01768](http://arxiv.org/abs/2511.01768)|null|
 |**2025-11-03**|**LLM-Assisted Tool for Joint Generation of Formulas and Functions in Rule-Based Verification of Map Transformations**|Ruidi He et.al.|[2511.01423](http://arxiv.org/abs/2511.01423)|null|
 |**2025-11-03**|**VeriODD: From YAML to SMT-LIB -- Automating Verification of Operational Design Domains**|Bassel Rafie et.al.|[2511.01417](http://arxiv.org/abs/2511.01417)|null|
@@ -727,13 +727,13 @@
 |**2025-09-02**|**Curiosity-Driven Testing for Sequential Decision-Making Process**|Junda He et.al.|[2509.02025](http://arxiv.org/abs/2509.02025)|null|
 |**2025-09-02**|**Generalizing Unsupervised Lidar Odometry Model from Normal to Snowy Weather Conditions**|Beibei Zhou et.al.|[2509.02011](http://arxiv.org/abs/2509.02011)|null|
 
-<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
 
 ## Map
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-11-05**|**SENT Map - Semantically Enhanced Topological Maps with Foundation Models**|Raj Surya Rajendran Kathirvel et.al.|[2511.03165](http://arxiv.org/abs/2511.03165)|null|
+|**2025-11-05**|**SENT Map -- Semantically Enhanced Topological Maps with Foundation Models**|Raj Surya Rajendran Kathirvel et.al.|[2511.03165](http://arxiv.org/abs/2511.03165)|null|
 |**2025-11-03**|**An Adjoint Method for Differentiable Fluid Simulation on Flow Maps**|Zhiqi Li et.al.|[2511.01259](http://arxiv.org/abs/2511.01259)|null|
 |**2025-10-24**|**OmniNWM: Omniscient Driving Navigation World Models**|Bohan Li et.al.|[2510.18313](http://arxiv.org/abs/2510.18313)|null|
 |**2025-10-17**|**HEADER: Hierarchical Robot Exploration via Attention-Based Deep Reinforcement Learning with Expert-Guided Reward**|Yuhong Cao et.al.|[2510.15679](http://arxiv.org/abs/2510.15679)|null|
@@ -775,7 +775,7 @@
 |**2025-06-05**|**ADEPT: Adaptive Diffusion Environment for Policy Transfer Sim-to-Real**|Youwei Yu et.al.|[2506.01759](http://arxiv.org/abs/2506.01759)|null|
 |**2025-06-01**|**Globally Consistent RGB-D SLAM with 2D Gaussian Splatting**|Xingguang Zhong et.al.|[2506.00970](http://arxiv.org/abs/2506.00970)|null|
 
-<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
 
 ## Non-rigid Registration
 
@@ -796,7 +796,7 @@
 |**2013-04-15**|**Local Structure Matching Driven by Joint-Saliency-Structure Adaptive Kernel Regression**|Binjie Qin et.al.|[1302.0494](http://arxiv.org/abs/1302.0494)|null|
 |**2011-04-21**|**A Meshless Method for Variational Nonrigid 2-D Shape Registration**|Wei Liu et.al.|[1104.4168](http://arxiv.org/abs/1104.4168)|null|
 
-<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
 
 ## MoE
 
@@ -1086,7 +1086,7 @@
 |**2025-08-31**|**MEPT: Mixture of Expert Prompt Tuning as a Manifold Mapper**|Runjia Zeng et.al.|[2509.00996](http://arxiv.org/abs/2509.00996)|null|
 |**2025-08-31**|**Router Upcycling: Leveraging Mixture-of-Routers in Mixture-of-Experts Upcycling**|Junfeng Ran et.al.|[2509.00679](http://arxiv.org/abs/2509.00679)|null|
 
-<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
 
 ## Mamba
 
@@ -1232,7 +1232,7 @@
 |**2025-08-30**|**SemaMIL: Semantic Reordering with Retrieval-Guided State Space Modeling for Whole Slide Image Classification**|Lubin Gan et.al.|[2509.00442](http://arxiv.org/abs/2509.00442)|null|
 |**2025-08-29**|**Quantum-Optimized Selective State Space Model for Efficient Time Series Prediction**|Stefan-Alexandru Jura et.al.|[2509.00259](http://arxiv.org/abs/2509.00259)|null|
 
-<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
 
 ## HSI Classification
 
@@ -1240,7 +1240,7 @@
 |---|---|---|---|---|
 |**2025-10-31**|**SpecAware: A Spectral-Content Aware Foundation Model for Unifying Multi-Sensor Learning in Hyperspectral Remote Sensing Mapping**|Renjie Ji et.al.|[2510.27219](http://arxiv.org/abs/2510.27219)|null|
 |**2025-10-30**|**GW241011 and GW241110: Exploring Binary Formation and Fundamental Physics with Asymmetric, High-Spin Black Hole Coalescence**|The LIGO Scientific Collaboration et.al.|[2510.26931](http://arxiv.org/abs/2510.26931)|null|
-|**2025-10-23**|**SpectraMorph: Structured Latent Learning for Self-Supervised Hyperspectral Super-Resolution**|Ritik Shah et.al.|[2510.20814](http://arxiv.org/abs/2510.20814)|**[link](https://github.com/ritikgshah/SpectraMorph)**|
+|**2025-10-23**|**SpectraMorph: Structured Latent Learning for Self-Supervised Hyperspectral Super-Resolution**|Ritik Shah et.al.|[2510.20814](http://arxiv.org/abs/2510.20814)|null|
 |**2025-10-20**|**Directional Search for Persistent Gravitational Waves: Results from the First Part of LIGO-Virgo-KAGRA's Fourth Observing Run**|The LIGO Scientific Collaboration et.al.|[2510.17487](http://arxiv.org/abs/2510.17487)|null|
 |**2025-10-18**|**HYDRA: HYbrid knowledge Distillation and spectral Reconstruction Algorithm for high channel hyperspectral camera applications**|Christopher Thirgood et.al.|[2510.16664](http://arxiv.org/abs/2510.16664)|null|
 |**2025-10-15**|**Near-Infrared Hyperspectral Imaging Applications in Food Analysis -- Improving Algorithms and Methodologies**|Ole-Christian Galbo Engstrøm et.al.|[2510.13452](http://arxiv.org/abs/2510.13452)|null|
@@ -1287,5 +1287,5 @@
 |**2025-08-01**|**Honey Classification using Hyperspectral Imaging and Machine Learning**|Mokhtar A. Al-Awadhi et.al.|[2508.00361](http://arxiv.org/abs/2508.00361)|null|
 |**2025-07-31**|**SAMSA: Segment Anything Model Enhanced with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation**|Alfie Roddan et.al.|[2507.23673](http://arxiv.org/abs/2507.23673)|null|
 
-<p align=right>(<a href=#updated-on-20251106>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
 

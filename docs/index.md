@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.06
+## Updated on 2025.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -11,8 +11,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-11-04**|**Object Detection as an Optional Basis: A Graph Matching Network for Cross-View UAV Localization**|Tao Liu et.al.|[2511.02489](http://arxiv.org/abs/2511.02489)|null|
 |**2025-11-04**|**LUMA-RAG: Lifelong Multimodal Agents with Provably Stable Streaming Alignment**|Rohan Wandre et.al.|[2511.02371](http://arxiv.org/abs/2511.02371)|null|
-|**2025-11-03**|**SEPS: Semantic-enhanced Patch Slimming Framework for fine-grained cross-modal alignment**|Xinyu Mao et.al.|[2511.01390](http://arxiv.org/abs/2511.01390)|null|
-|**2025-11-02**|**GeoToken: Hierarchical Geolocalization of Images via Next Token Prediction**|Narges Ghasemi et.al.|[2511.01082](http://arxiv.org/abs/2511.01082)|null|
+|**2025-11-03**|**SEPS: Semantic-enhanced Patch Slimming Framework for fine-grained cross-modal alignment**|Xinyu Mao et.al.|[2511.01390](http://arxiv.org/abs/2511.01390)|**[link](https://github.com/Sweet4tars/seps)**|
+|**2025-11-02**|**GeoToken: Hierarchical Geolocalization of Images via Next Token Prediction**|Narges Ghasemi et.al.|[2511.01082](http://arxiv.org/abs/2511.01082)|**[link](https://github.com/NNargesNN/GeoToken)**|
 |**2025-11-02**|**Dynamic Multi-level Weighted Alignment Network for Zero-shot Sketch-based Image Retrieval**|Hanwen Su et.al.|[2511.00925](http://arxiv.org/abs/2511.00925)|null|
 |**2025-10-31**|**GEDICorrect: A Scalable Python Tool for Orbit-, Beam-, and Footprint-Level GEDI Geolocation Correction**|Leonel Corado et.al.|[2511.00319](http://arxiv.org/abs/2511.00319)|null|
 |**2025-10-31**|**Approximate Diverse $k$ -nearest Neighbor Search in Vector Database**|Jiachen Zhao et.al.|[2510.27243](http://arxiv.org/abs/2510.27243)|null|
@@ -390,7 +390,7 @@ layout: default
 |**2025-11-04**|**Comprehensive Assessment of LiDAR Evaluation Metrics: A Comparative Study Using Simulated and Real Data**|Syed Mostaquim Ali et.al.|[2511.02994](http://arxiv.org/abs/2511.02994)|null|
 |**2025-11-04**|**Keeping it Local, Tiny and Real: Automated Report Generation on Edge Computing Devices for Mechatronic-Based Cognitive Systems**|Nicolas Schuler et.al.|[2511.02507](http://arxiv.org/abs/2511.02507)|null|
 |**2025-11-04**|**3D Point Cloud Object Detection on Edge Devices for Split Computing**|Taisuke Noguchi et.al.|[2511.02293](http://arxiv.org/abs/2511.02293)|null|
-|**2025-11-04**|**LLMs as Judges: Toward The Automatic Review of GSN-compliant Assurance Cases**|Gerhard Yu et.al.|[2511.02203](http://arxiv.org/abs/2511.02203)|null|
+|**2025-11-04**|**LLMs as Judges: Toward The Automatic Review of GSN-compliant Assurance Cases**|Gerhard Yu et.al.|[2511.02203](http://arxiv.org/abs/2511.02203)|**[link](https://github.com/GerhardYu/LLMs-as-Judges-Toward-The-Automatic-Review-of-GSN-compliant-Assurance-Cases-Figures)**|
 |**2025-11-03**|**UniLION: Towards Unified Autonomous Driving Model with Linear Group RNNs**|Zhe Liu et.al.|[2511.01768](http://arxiv.org/abs/2511.01768)|null|
 |**2025-11-03**|**LLM-Assisted Tool for Joint Generation of Formulas and Functions in Rule-Based Verification of Map Transformations**|Ruidi He et.al.|[2511.01423](http://arxiv.org/abs/2511.01423)|null|
 |**2025-11-03**|**VeriODD: From YAML to SMT-LIB -- Automating Verification of Operational Design Domains**|Bassel Rafie et.al.|[2511.01417](http://arxiv.org/abs/2511.01417)|null|
@@ -714,7 +714,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-05**|**SENT Map - Semantically Enhanced Topological Maps with Foundation Models**|Raj Surya Rajendran Kathirvel et.al.|[2511.03165](http://arxiv.org/abs/2511.03165)|null|
+|**2025-11-05**|**SENT Map -- Semantically Enhanced Topological Maps with Foundation Models**|Raj Surya Rajendran Kathirvel et.al.|[2511.03165](http://arxiv.org/abs/2511.03165)|null|
 |**2025-11-03**|**An Adjoint Method for Differentiable Fluid Simulation on Flow Maps**|Zhiqi Li et.al.|[2511.01259](http://arxiv.org/abs/2511.01259)|null|
 |**2025-10-24**|**OmniNWM: Omniscient Driving Navigation World Models**|Bohan Li et.al.|[2510.18313](http://arxiv.org/abs/2510.18313)|null|
 |**2025-10-17**|**HEADER: Hierarchical Robot Exploration via Attention-Based Deep Reinforcement Learning with Expert-Guided Reward**|Yuhong Cao et.al.|[2510.15679](http://arxiv.org/abs/2510.15679)|null|
@@ -1213,7 +1213,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-31**|**SpecAware: A Spectral-Content Aware Foundation Model for Unifying Multi-Sensor Learning in Hyperspectral Remote Sensing Mapping**|Renjie Ji et.al.|[2510.27219](http://arxiv.org/abs/2510.27219)|null|
 |**2025-10-30**|**GW241011 and GW241110: Exploring Binary Formation and Fundamental Physics with Asymmetric, High-Spin Black Hole Coalescence**|The LIGO Scientific Collaboration et.al.|[2510.26931](http://arxiv.org/abs/2510.26931)|null|
-|**2025-10-23**|**SpectraMorph: Structured Latent Learning for Self-Supervised Hyperspectral Super-Resolution**|Ritik Shah et.al.|[2510.20814](http://arxiv.org/abs/2510.20814)|**[link](https://github.com/ritikgshah/SpectraMorph)**|
+|**2025-10-23**|**SpectraMorph: Structured Latent Learning for Self-Supervised Hyperspectral Super-Resolution**|Ritik Shah et.al.|[2510.20814](http://arxiv.org/abs/2510.20814)|null|
 |**2025-10-20**|**Directional Search for Persistent Gravitational Waves: Results from the First Part of LIGO-Virgo-KAGRA's Fourth Observing Run**|The LIGO Scientific Collaboration et.al.|[2510.17487](http://arxiv.org/abs/2510.17487)|null|
 |**2025-10-18**|**HYDRA: HYbrid knowledge Distillation and spectral Reconstruction Algorithm for high channel hyperspectral camera applications**|Christopher Thirgood et.al.|[2510.16664](http://arxiv.org/abs/2510.16664)|null|
 |**2025-10-15**|**Near-Infrared Hyperspectral Imaging Applications in Food Analysis -- Improving Algorithms and Methodologies**|Ole-Christian Galbo Engstrøm et.al.|[2510.13452](http://arxiv.org/abs/2510.13452)|null|
