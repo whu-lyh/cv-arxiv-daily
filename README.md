@@ -129,7 +129,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-10-02**|**LangGrasp: Leveraging Fine-Tuned LLMs for Language Interactive Robot Grasping with Ambiguous Instructions**|Yunhan Lin et.al.|[2510.02104](http://arxiv.org/abs/2510.02104)|null|
-|**2025-08-09**|**LifelongPR: Lifelong point cloud place recognition based on sample replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|**[link](https://github.com/zouxianghong/LifelongPR)**|
+|**2025-08-09**|**LifelongPR: Lifelong point cloud place recognition based on sample replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|null|
 |**2025-08-08**|**ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models**|Minwoo Jung et.al.|[2505.18364](http://arxiv.org/abs/2505.18364)|null|
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
 |**2025-08-27**|**OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**|Shuhao Kang et.al.|[2504.19258](http://arxiv.org/abs/2504.19258)|null|
@@ -1268,7 +1268,7 @@
 |**2025-09-20**|**Learning Hyperspectral Images with Curated Text Prompts for Efficient Multimodal Alignment**|Abhiroop Chatterjee et.al.|[2509.22697](http://arxiv.org/abs/2509.22697)|null|
 |**2025-09-25**|**Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models**|Juana Valeria Hurtado et.al.|[2509.20107](http://arxiv.org/abs/2509.20107)|null|
 |**2025-09-21**|**SwarmChat: An LLM-Based, Context-Aware Multimodal Interaction System for Robotic Swarms**|Ettilla Mohiuddin Eumi et.al.|[2509.16920](http://arxiv.org/abs/2509.16920)|null|
-|**2025-09-20**|**Spectral Compressive Imaging via Chromaticity-Intensity Decomposition**|Xiaodong Wang et.al.|[2509.16690](http://arxiv.org/abs/2509.16690)|null|
+|**2025-09-20**|**Spectral Compressive Imaging via Chromaticity-Intensity Decomposition**|Xiaodong Wang et.al.|[2509.16690](http://arxiv.org/abs/2509.16690)|**[link](https://github.com/xiaodongwo/CIDNet)**|
 |**2025-09-16**|**Curriculum Multi-Task Self-Supervision Improves Lightweight Architectures for Onboard Satellite Hyperspectral Image Segmentation**|Hugo Carlesso et.al.|[2509.13229](http://arxiv.org/abs/2509.13229)|null|
 |**2025-09-15**|**Progressive Flow-inspired Unfolding for Spectral Compressive Imaging**|Xiaodong Wang et.al.|[2509.12079](http://arxiv.org/abs/2509.12079)|null|
 |**2025-09-19**|**USCTNet: A deep unfolding nuclear-norm optimization solver for physically consistent HSI reconstruction**|Xiaoyang Ma et.al.|[2509.10651](http://arxiv.org/abs/2509.10651)|null|
