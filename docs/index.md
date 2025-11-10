@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.09
+## Updated on 2025.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -1226,7 +1226,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-31**|**SpecAware: A Spectral-Content Aware Foundation Model for Unifying Multi-Sensor Learning in Hyperspectral Remote Sensing Mapping**|Renjie Ji et.al.|[2510.27219](http://arxiv.org/abs/2510.27219)|null|
 |**2025-10-30**|**GW241011 and GW241110: Exploring Binary Formation and Fundamental Physics with Asymmetric, High-Spin Black Hole Coalescence**|The LIGO Scientific Collaboration et.al.|[2510.26931](http://arxiv.org/abs/2510.26931)|null|
-|**2025-10-23**|**SpectraMorph: Structured Latent Learning for Self-Supervised Hyperspectral Super-Resolution**|Ritik Shah et.al.|[2510.20814](http://arxiv.org/abs/2510.20814)|null|
+|**2025-10-23**|**SpectraMorph: Structured Latent Learning for Self-Supervised Hyperspectral Super-Resolution**|Ritik Shah et.al.|[2510.20814](http://arxiv.org/abs/2510.20814)|**[link](https://github.com/ritikgshah/SpectraMorph)**|
 |**2025-10-20**|**Directional Search for Persistent Gravitational Waves: Results from the First Part of LIGO-Virgo-KAGRA's Fourth Observing Run**|The LIGO Scientific Collaboration et.al.|[2510.17487](http://arxiv.org/abs/2510.17487)|null|
 |**2025-10-18**|**HYDRA: HYbrid knowledge Distillation and spectral Reconstruction Algorithm for high channel hyperspectral camera applications**|Christopher Thirgood et.al.|[2510.16664](http://arxiv.org/abs/2510.16664)|null|
 |**2025-10-15**|**Near-Infrared Hyperspectral Imaging Applications in Food Analysis -- Improving Algorithms and Methodologies**|Ole-Christian Galbo Engstrøm et.al.|[2510.13452](http://arxiv.org/abs/2510.13452)|null|
@@ -1241,7 +1241,7 @@ layout: default
 |**2025-09-20**|**Learning Hyperspectral Images with Curated Text Prompts for Efficient Multimodal Alignment**|Abhiroop Chatterjee et.al.|[2509.22697](http://arxiv.org/abs/2509.22697)|null|
 |**2025-09-25**|**Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models**|Juana Valeria Hurtado et.al.|[2509.20107](http://arxiv.org/abs/2509.20107)|null|
 |**2025-09-21**|**SwarmChat: An LLM-Based, Context-Aware Multimodal Interaction System for Robotic Swarms**|Ettilla Mohiuddin Eumi et.al.|[2509.16920](http://arxiv.org/abs/2509.16920)|null|
-|**2025-09-20**|**Spectral Compressive Imaging via Chromaticity-Intensity Decomposition**|Xiaodong Wang et.al.|[2509.16690](http://arxiv.org/abs/2509.16690)|**[link](https://github.com/xiaodongwo/CIDNet)**|
+|**2025-09-20**|**Spectral Compressive Imaging via Chromaticity-Intensity Decomposition**|Xiaodong Wang et.al.|[2509.16690](http://arxiv.org/abs/2509.16690)|null|
 |**2025-09-16**|**Curriculum Multi-Task Self-Supervision Improves Lightweight Architectures for Onboard Satellite Hyperspectral Image Segmentation**|Hugo Carlesso et.al.|[2509.13229](http://arxiv.org/abs/2509.13229)|null|
 |**2025-09-15**|**Progressive Flow-inspired Unfolding for Spectral Compressive Imaging**|Xiaodong Wang et.al.|[2509.12079](http://arxiv.org/abs/2509.12079)|null|
 |**2025-09-19**|**USCTNet: A deep unfolding nuclear-norm optimization solver for physically consistent HSI reconstruction**|Xiaoyang Ma et.al.|[2509.10651](http://arxiv.org/abs/2509.10651)|null|
