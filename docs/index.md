@@ -129,7 +129,7 @@ layout: default
 |**2025-03-20**|**CMMLoc: Advancing Text-to-PointCloud Localization with Cauchy-Mixture-Model Based Framework**|Yanlong Xu et.al.|[2503.02593](http://arxiv.org/abs/2503.02593)|null|
 |**2025-02-07**|**HeLiOS: Heterogeneous LiDAR Place Recognition via Overlap-based Learning and Local Spherical Transformer**|Minwoo Jung et.al.|[2501.18943](http://arxiv.org/abs/2501.18943)|null|
 |**2024-12-20**|**SaliencyI2PLoc: saliency-guided image-point cloud localization using contrastive learning**|Yuhao Li et.al.|[2412.15577](http://arxiv.org/abs/2412.15577)|null|
-|**2025-04-04**|**PerLA: Perceptive 3D Language Assistant**|Guofeng Mei et.al.|[2411.19774](http://arxiv.org/abs/2411.19774)|null|
+|**2025-04-04**|**PerLA: Perceptive 3D Language Assistant**|Guofeng Mei et.al.|[2411.19774](http://arxiv.org/abs/2411.19774)|**[link](https://github.com/gfmei/PerLA)**|
 |**2025-05-19**|**A Deeper Look into Second-Order Feature Aggregation for LiDAR Place Recognition**|Saimunur Rahman et.al.|[2409.15919](http://arxiv.org/abs/2409.15919)|null|
 |**2024-09-06**|**Matched Filtering based LiDAR Place Recognition for Urban and Natural Environments**|Therese Joseph et.al.|[2409.03998](http://arxiv.org/abs/2409.03998)|null|
 |**2024-10-02**|**Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**|Hogyun Kim et.al.|[2408.07330](http://arxiv.org/abs/2408.07330)|null|
@@ -138,7 +138,7 @@ layout: default
 |**2024-10-09**|**PointNetPGAP-SLC: A 3D LiDAR-based Place Recognition Approach with Segment-level Consistency Training for Mobile Robots in Horticulture**|T. Barros et.al.|[2405.19038](http://arxiv.org/abs/2405.19038)|null|
 |**2025-03-14**|**VXP: Voxel-Cross-Pixel Large-scale Image-LiDAR Place Recognition**|Yun-Jin Li et.al.|[2403.14594](http://arxiv.org/abs/2403.14594)|null|
 |**2024-08-30**|**Evaluation and Deployment of LiDAR-based Place Recognition in Dense Forests**|Haedam Oh et.al.|[2403.14326](http://arxiv.org/abs/2403.14326)|null|
-|**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|null|
+|**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|**[link](https://github.com/Master-cai/VOLoc)**|
 |**2024-03-19**|**HeLiPR: Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition under Spatiotemporal Variations**|Minwoo Jung et.al.|[2309.14590](http://arxiv.org/abs/2309.14590)|null|
 
 ## 3D GS
@@ -241,7 +241,7 @@ layout: default
 |**2025-10-10**|**Visibility-Aware Densification for 3D Gaussian Splatting in Dynamic Urban Scenes**|Yikang Zhang et.al.|[2510.09364](http://arxiv.org/abs/2510.09364)|null|
 |**2025-10-09**|**ReSplat: Learning Recurrent Gaussian Splats**|Haofei Xu et.al.|[2510.08575](http://arxiv.org/abs/2510.08575)|null|
 |**2025-10-09**|**D $^2$ GS: Depth-and-Density Guided Gaussian Splatting for Stable and Accurate Sparse-View Reconstruction**|Meixi Song et.al.|[2510.08566](http://arxiv.org/abs/2510.08566)|null|
-|**2025-10-09**|**Splat the Net: Radiance Fields with Splattable Neural Primitives**|Xilong Zhou et.al.|[2510.08491](http://arxiv.org/abs/2510.08491)|null|
+|**2025-10-09**|**Splat the Net: Radiance Fields with Splattable Neural Primitives**|Xilong Zhou et.al.|[2510.08491](http://arxiv.org/abs/2510.08491)|**[link](https://github.com/huynguyenbao/splat-the-net)**|
 |**2025-10-09**|**Efficient Label Refinement for Face Parsing Under Extreme Poses Using 3D Gaussian Splatting**|Ankit Gahlawat et.al.|[2510.08096](http://arxiv.org/abs/2510.08096)|null|
 |**2025-10-09**|**CVD-STORM: Cross-View Video Diffusion with Spatial-Temporal Reconstruction Model for Autonomous Driving**|Tianrui Zhang et.al.|[2510.07944](http://arxiv.org/abs/2510.07944)|null|
 |**2025-10-09**|**PrismGS: Physically-Grounded Anti-Aliasing for High-Fidelity Large-Scale 3D Gaussian Splatting**|Houqiang Zhong et.al.|[2510.07830](http://arxiv.org/abs/2510.07830)|null|
@@ -250,7 +250,7 @@ layout: default
 |**2025-10-08**|**Generating Surface for Text-to-3D using 2D Gaussian Splatting**|Huanning Dong et.al.|[2510.06967](http://arxiv.org/abs/2510.06967)|null|
 |**2025-10-08**|**Capture and Interact: Rapid 3D Object Acquisition and Rendering with Gaussian Splatting in Unity**|Islomjon Shukhratov et.al.|[2510.06802](http://arxiv.org/abs/2510.06802)|null|
 |**2025-10-08**|**SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D Novel View Synthesis**|Jipeng Lyu et.al.|[2510.06694](http://arxiv.org/abs/2510.06694)|null|
-|**2025-10-09**|**RTGS: Real-Time 3D Gaussian Splatting SLAM via Multi-Level Redundancy Reduction**|Leshu Li et.al.|[2510.06644](http://arxiv.org/abs/2510.06644)|null|
+|**2025-10-09**|**RTGS: Real-Time 3D Gaussian Splatting SLAM via Multi-Level Redundancy Reduction**|Leshu Li et.al.|[2510.06644](http://arxiv.org/abs/2510.06644)|**[link](https://github.com/UMN-ZhaoLab/RTGS)**|
 |**2025-10-07**|**Active Next-Best-View Optimization for Risk-Averse Path Planning**|Amirhossein Mollaei Khass et.al.|[2510.06481](http://arxiv.org/abs/2510.06481)|null|
 |**2025-10-07**|**ArchitectHead: Continuous Level of Detail Control for 3D Gaussian Head Avatars**|Peizhi Yan et.al.|[2510.05488](http://arxiv.org/abs/2510.05488)|null|
 |**2025-10-06**|**Provable Affine Identifiability of Nonlinear CCA under Latent Distributional Priors**|Zhiwei Han et.al.|[2510.04758](http://arxiv.org/abs/2510.04758)|null|
@@ -502,7 +502,7 @@ layout: default
 |**2025-10-14**|**Hierarchical Reasoning with Vision-Language Models for Incident Reports from Dashcam Videos**|Shingo Yokoi et.al.|[2510.12190](http://arxiv.org/abs/2510.12190)|null|
 |**2025-10-13**|**Context-Aware Model-Based Reinforcement Learning for Autonomous Racing**|Emran Yasser Moustafa et.al.|[2510.11501](http://arxiv.org/abs/2510.11501)|null|
 |**2025-10-13**|**A Faster and More Reliable Middleware for Autonomous Driving Systems**|Yuankai He et.al.|[2510.11448](http://arxiv.org/abs/2510.11448)|null|
-|**2025-10-13**|**Future-Aware End-to-End Driving: Bidirectional Modeling of Trajectory Planning and Scene Evolution**|Bozhou Zhang et.al.|[2510.11092](http://arxiv.org/abs/2510.11092)|null|
+|**2025-10-13**|**Future-Aware End-to-End Driving: Bidirectional Modeling of Trajectory Planning and Scene Evolution**|Bozhou Zhang et.al.|[2510.11092](http://arxiv.org/abs/2510.11092)|**[link](https://github.com/LogosRoboticsGroup/SeerDrive)**|
 |**2025-10-13**|**Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling**|Tianyi Tan et.al.|[2510.11083](http://arxiv.org/abs/2510.11083)|null|
 |**2025-10-13**|**Game-Theoretic Risk-Shaped Reinforcement Learning for Safe Autonomous Driving**|Dong Hu et.al.|[2510.10960](http://arxiv.org/abs/2510.10960)|null|
 |**2025-10-13**|**Neutral Agent-based Adversarial Policy Learning against Deep Reinforcement Learning in Multi-party Open Systems**|Qizhou Peng et.al.|[2510.10937](http://arxiv.org/abs/2510.10937)|null|
@@ -559,7 +559,7 @@ layout: default
 |**2025-10-03**|**A Trajectory Generator for High-Density Traffic and Diverse Agent-Interaction Scenarios**|Ruining Yang et.al.|[2510.02627](http://arxiv.org/abs/2510.02627)|null|
 |**2025-10-02**|**Calibrating the Full Predictive Class Distribution of 3D Object Detectors for Autonomous Driving**|Cornelius Schröder et.al.|[2510.01829](http://arxiv.org/abs/2510.01829)|null|
 |**2025-10-02**|**Nav-EE: Navigation-Guided Early Exiting for Efficient Vision-Language Models in Autonomous Driving**|Haibo Hu et.al.|[2510.01795](http://arxiv.org/abs/2510.01795)|null|
-|**2025-10-02**|**Predictive Preference Learning from Human Interventions**|Haoyuan Cai et.al.|[2510.01545](http://arxiv.org/abs/2510.01545)|null|
+|**2025-10-02**|**Predictive Preference Learning from Human Interventions**|Haoyuan Cai et.al.|[2510.01545](http://arxiv.org/abs/2510.01545)|**[link](https://github.com/metadriverse/PPL)**|
 |**2025-10-01**|**Strategic Fusion of Vision Language Models: Shapley-Credited Context-Aware Dawid-Skene for Multi-Label Tasks in Autonomous Driving**|Yuxiang Feng et.al.|[2510.01126](http://arxiv.org/abs/2510.01126)|null|
 |**2025-10-01**|**Datasets for Valence and Arousal Inference: A Survey**|Helen Schneider et.al.|[2510.00738](http://arxiv.org/abs/2510.00738)|null|
 |**2025-09-30**|**CHAI: Command Hijacking against embodied AI**|Luis Burbano et.al.|[2510.00181](http://arxiv.org/abs/2510.00181)|null|
@@ -743,7 +743,7 @@ layout: default
 |**2025-10-30**|**FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph**|Xiaolin Zhou et.al.|[2509.13733](http://arxiv.org/abs/2509.13733)|null|
 |**2025-09-16**|**Maps for Autonomous Driving: Full-process Survey and Frontiers**|Pengxin Chen et.al.|[2509.12632](http://arxiv.org/abs/2509.12632)|null|
 |**2025-09-15**|**Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing**|Bingyu Li et.al.|[2509.12040](http://arxiv.org/abs/2509.12040)|null|
-|**2025-09-11**|**ObjectReact: Learning Object-Relative Control for Visual Navigation**|Sourav Garg et.al.|[2509.09594](http://arxiv.org/abs/2509.09594)|null|
+|**2025-09-11**|**ObjectReact: Learning Object-Relative Control for Visual Navigation**|Sourav Garg et.al.|[2509.09594](http://arxiv.org/abs/2509.09594)|**[link](https://github.com/oravus/object-react)**|
 |**2025-09-01**|**Hierarchical Motion Captioning Utilizing External Text Data Source**|Clayton Leite et.al.|[2509.01471](http://arxiv.org/abs/2509.01471)|null|
 |**2025-08-19**|**MMIS-Net for Retinal Fluid Segmentation and Detection**|Nchongmaje Ndipenocha et.al.|[2508.13936](http://arxiv.org/abs/2508.13936)|null|
 |**2025-08-03**|**DiffSemanticFusion: Semantic Raster BEV Fusion for Autonomous Driving via Online HD Map Diffusion**|Zhigang Sun et.al.|[2508.01778](http://arxiv.org/abs/2508.01778)|null|
@@ -957,8 +957,8 @@ layout: default
 |**2025-09-29**|**LLaDA-MoE: A Sparse MoE Diffusion Language Model**|Fengqi Zhu et.al.|[2509.24389](http://arxiv.org/abs/2509.24389)|null|
 |**2025-09-29**|**Uni-NTFM: A Unified Foundation Model for EEG Signal Representation Learning**|Zhisheng Chen et.al.|[2509.24222](http://arxiv.org/abs/2509.24222)|null|
 |**2025-09-28**|**HunyuanImage 3.0 Technical Report**|Siyu Cao et.al.|[2509.23951](http://arxiv.org/abs/2509.23951)|null|
-|**2025-09-28**|**Beyond Benchmarks: Understanding Mixture-of-Experts Models through Internal Mechanisms**|Jiahao Ying et.al.|[2509.23933](http://arxiv.org/abs/2509.23933)|null|
-|**2025-09-28**|**Bayesian Mixture-of-Experts: Towards Making LLMs Know What They Don't Know**|Albus Yizhuo Li et.al.|[2509.23830](http://arxiv.org/abs/2509.23830)|null|
+|**2025-09-28**|**Beyond Benchmarks: Understanding Mixture-of-Experts Models through Internal Mechanisms**|Jiahao Ying et.al.|[2509.23933](http://arxiv.org/abs/2509.23933)|**[link](https://github.com/yingjiahao14/MoE-MUI)**|
+|**2025-09-28**|**Bayesian Mixture-of-Experts: Towards Making LLMs Know What They Don't Know**|Albus Yizhuo Li et.al.|[2509.23830](http://arxiv.org/abs/2509.23830)|**[link](https://github.com/albus-li/msc-thesis)**|
 |**2025-09-28**|**A Modality-Tailored Graph Modeling Framework for Urban Region Representation via Contrastive Learning**|Yaya Zhao et.al.|[2509.23772](http://arxiv.org/abs/2509.23772)|null|
 |**2025-09-28**|**Towards a Comprehensive Scaling Law of Mixture-of-Experts**|Guoliang Zhao et.al.|[2509.23678](http://arxiv.org/abs/2509.23678)|null|
 |**2025-09-28**|**PreScope: Unleashing the Power of Prefetching for Resource-Constrained MoE Inference**|Enda Yu et.al.|[2509.23638](http://arxiv.org/abs/2509.23638)|null|

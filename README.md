@@ -129,7 +129,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-10-02**|**LangGrasp: Leveraging Fine-Tuned LLMs for Language Interactive Robot Grasping with Ambiguous Instructions**|Yunhan Lin et.al.|[2510.02104](http://arxiv.org/abs/2510.02104)|null|
-|**2025-08-09**|**LifelongPR: Lifelong point cloud place recognition based on sample replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|null|
+|**2025-08-09**|**LifelongPR: Lifelong point cloud place recognition based on sample replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|**[link](https://github.com/zouxianghong/LifelongPR)**|
 |**2025-08-08**|**ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models**|Minwoo Jung et.al.|[2505.18364](http://arxiv.org/abs/2505.18364)|null|
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
 |**2025-08-27**|**OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**|Shuhao Kang et.al.|[2504.19258](http://arxiv.org/abs/2504.19258)|null|
@@ -273,7 +273,7 @@
 |**2025-10-04**|**Optimized Minimal 4D Gaussian Splatting**|Minseo Lee et.al.|[2510.03857](http://arxiv.org/abs/2510.03857)|null|
 |**2025-10-03**|**SketchPlan: Diffusion Based Drone Planning From Human Sketches**|Sixten Norelius et.al.|[2510.03545](http://arxiv.org/abs/2510.03545)|null|
 |**2025-09-30**|**Universal Beta Splatting**|Rong Liu et.al.|[2510.03312](http://arxiv.org/abs/2510.03312)|null|
-|**2025-10-03**|**Geometry Meets Vision: Revisiting Pretrained Semantics in Distilled Fields**|Zhiting Mei et.al.|[2510.03104](http://arxiv.org/abs/2510.03104)|null|
+|**2025-10-03**|**Geometry Meets Vision: Revisiting Pretrained Semantics in Distilled Fields**|Zhiting Mei et.al.|[2510.03104](http://arxiv.org/abs/2510.03104)|**[link](https://github.com/irom-princeton/spine)**|
 |**2025-10-03**|**GS-Share: Enabling High-fidelity Map Sharing with Incremental Gaussian Splatting**|Xinran Zhang et.al.|[2510.02884](http://arxiv.org/abs/2510.02884)|null|
 |**2025-10-03**|**From Tokens to Nodes: Semantic-Guided Motion Control for Dynamic 3D Gaussian Splatting**|Jianing Chen et.al.|[2510.02732](http://arxiv.org/abs/2510.02732)|null|
 |**2025-10-03**|**FSFSplatter: Build Surface and Novel Views with Sparse-Views within 3min**|Yibin Zhao et.al.|[2510.02691](http://arxiv.org/abs/2510.02691)|null|
@@ -286,8 +286,8 @@
 |**2025-10-02**|**ROI-GS: Interest-based Local Quality 3D Gaussian Splatting**|Quoc-Anh Bui et.al.|[2510.01978](http://arxiv.org/abs/2510.01978)|null|
 |**2025-10-02**|**GreenhouseSplat: A Dataset of Photorealistic Greenhouse Simulations for Mobile Robotics**|Diram Tabaa et.al.|[2510.01848](http://arxiv.org/abs/2510.01848)|null|
 |**2025-10-02**|**LOBE-GS: Load-Balanced and Efficient 3D Gaussian Splatting for Large-Scale Scene Reconstruction**|Sheng-Hsiang Hung et.al.|[2510.01767](http://arxiv.org/abs/2510.01767)|null|
-|**2025-10-02**|**MPMAvatar: Learning 3D Gaussian Avatars with Accurate and Robust Physics-Based Dynamics**|Changmin Lee et.al.|[2510.01619](http://arxiv.org/abs/2510.01619)|null|
-|**2025-10-01**|**Instant4D: 4D Gaussian Splatting in Minutes**|Zhanpeng Luo et.al.|[2510.01119](http://arxiv.org/abs/2510.01119)|null|
+|**2025-10-02**|**MPMAvatar: Learning 3D Gaussian Avatars with Accurate and Robust Physics-Based Dynamics**|Changmin Lee et.al.|[2510.01619](http://arxiv.org/abs/2510.01619)|**[link](https://github.com/KAISTChangmin/MPMAvatar)**|
+|**2025-10-01**|**Instant4D: 4D Gaussian Splatting in Minutes**|Zhanpeng Luo et.al.|[2510.01119](http://arxiv.org/abs/2510.01119)|**[link](https://github.com/Zhanpeng1202/Instant4D)**|
 |**2025-09-30**|**HART: Human Aligned Reconstruction Transformer**|Xiyi Chen et.al.|[2509.26621](http://arxiv.org/abs/2509.26621)|null|
 |**2025-09-30**|**Stylos: Multi-View 3D Stylization with Single-Forward Gaussian Splatting**|Hanzhou Liu et.al.|[2509.26455](http://arxiv.org/abs/2509.26455)|null|
 |**2025-09-30**|**GaussEdit: Adaptive 3D Scene Editing with Text and Image Prompts**|Zhenyu Shu et.al.|[2509.26055](http://arxiv.org/abs/2509.26055)|null|
@@ -425,9 +425,9 @@
 |**2025-11-03**|**Embodied Cognition Augmented End2End Autonomous Driving**|Ling Niu et.al.|[2511.01334](http://arxiv.org/abs/2511.01334)|null|
 |**2025-11-02**|**Layer-Wise Modality Decomposition for Interpretable Multimodal Sensor Fusion**|Jaehyun Park et.al.|[2511.00859](http://arxiv.org/abs/2511.00859)|null|
 |**2025-11-04**|**Towards classification-based representation learning for place recognition on LiDAR scans**|Maksim Konoplia et.al.|[2511.00738](http://arxiv.org/abs/2511.00738)|null|
-|**2025-11-01**|**Unveiling Uniform Shifted Power Law in Stochastic Human and Autonomous Driving Behavior**|Wang Chen et.al.|[2511.00659](http://arxiv.org/abs/2511.00659)|null|
+|**2025-11-01**|**Unveiling Uniform Shifted Power Law in Stochastic Human and Autonomous Driving Behavior**|Wang Chen et.al.|[2511.00659](http://arxiv.org/abs/2511.00659)|**[link](https://github.com/CATS-Lab/Shifted_Power_Law)**|
 |**2025-11-01**|**RNN-based linear parameter varying adaptive model predictive control for autonomous driving**|Yassine Kebbati et.al.|[2511.00610](http://arxiv.org/abs/2511.00610)|null|
-|**2025-10-31**|**Dynamic Model Selection for Trajectory Prediction via Pairwise Ranking and Meta-Features**|Lu Bowen et.al.|[2511.00126](http://arxiv.org/abs/2511.00126)|null|
+|**2025-10-31**|**Dynamic Model Selection for Trajectory Prediction via Pairwise Ranking and Meta-Features**|Lu Bowen et.al.|[2511.00126](http://arxiv.org/abs/2511.00126)|**[link](https://github.com/lbw1850151881-lang/trajectory-ranking-gate)**|
 |**2025-10-30**|**Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail**|NVIDIA et.al.|[2511.00088](http://arxiv.org/abs/2511.00088)|null|
 |**2025-10-31**|**Trends and Challenges in Next-Generation GNSS Interference Management**|Leatile Marata et.al.|[2510.27576](http://arxiv.org/abs/2510.27576)|null|
 |**2025-10-31**|**Modified-Emergency Index (MEI): A Criticality Metric for Autonomous Driving in Lateral Conflict**|Hao Cheng et.al.|[2510.27333](http://arxiv.org/abs/2510.27333)|null|
@@ -1007,7 +1007,7 @@
 |**2025-09-24**|**Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference**|Ziyi Han et.al.|[2509.19781](http://arxiv.org/abs/2509.19781)|null|
 |**2025-09-23**|**Human-AI Narrative Synthesis to Foster Shared Understanding in Civic Decision-Making**|Cassandra Overney et.al.|[2509.19643](http://arxiv.org/abs/2509.19643)|null|
 |**2025-09-21**|**A Statistical Mixture-of-Experts Framework for EMG Artifact Removal in EEG: Empirical Insights and a Proof-of-Concept Application**|Benjamin J. Choi et.al.|[2509.19385](http://arxiv.org/abs/2509.19385)|null|
-|**2025-09-23**|**DevFD: Developmental Face Forgery Detection by Learning Shared and Orthogonal LoRA Subspaces**|Tianshuo Zhang et.al.|[2509.19230](http://arxiv.org/abs/2509.19230)|null|
+|**2025-09-23**|**DevFD: Developmental Face Forgery Detection by Learning Shared and Orthogonal LoRA Subspaces**|Tianshuo Zhang et.al.|[2509.19230](http://arxiv.org/abs/2509.19230)|**[link](https://github.com/ZhangTSia/DevFD)**|
 |**2025-09-23**|**Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation**|Yunzhe Shen et.al.|[2509.18912](http://arxiv.org/abs/2509.18912)|null|
 |**2025-09-23**|**LongCat-Flash-Thinking Technical Report**|Meituan LongCat Team et.al.|[2509.18883](http://arxiv.org/abs/2509.18883)|null|
 |**2025-09-23**|**PIE: Perception and Interaction Enhanced End-to-End Motion Planning for Autonomous Driving**|Chengran Yuan et.al.|[2509.18609](http://arxiv.org/abs/2509.18609)|null|
@@ -1020,7 +1020,7 @@
 |**2025-09-22**|**Attention-based Mixture of Experts for Robust Speech Deepfake Detection**|Viola Negroni et.al.|[2509.17585](http://arxiv.org/abs/2509.17585)|null|
 |**2025-09-22**|**Robust Mixture Models for Algorithmic Fairness Under Latent Heterogeneity**|Siqi Li et.al.|[2509.17411](http://arxiv.org/abs/2509.17411)|**[link](https://github.com/siqili0325/ROME)**|
 |**2025-09-21**|**MoEs Are Stronger than You Think: Hyper-Parallel Inference Scaling with RoE**|Soheil Zibakhsh et.al.|[2509.17238](http://arxiv.org/abs/2509.17238)|null|
-|**2025-09-21**|**A community-driven optimization framework for redrawing school attendance boundaries**|Hongzhao Guan et.al.|[2509.17130](http://arxiv.org/abs/2509.17130)|null|
+|**2025-09-21**|**A community-driven optimization framework for redrawing school attendance boundaries**|Hongzhao Guan et.al.|[2509.17130](http://arxiv.org/abs/2509.17130)|**[link](https://github.com/Plural-Connections/EAAMO-2025-Redrawing-School-Attendance-Boundaries)**|
 |**2025-09-21**|**CoBEVMoE: Heterogeneity-aware Feature Fusion with Dynamic Mixture-of-Experts for Collaborative Perception**|Lingzhao Kong et.al.|[2509.17107](http://arxiv.org/abs/2509.17107)|null|
 |**2025-09-21**|**Dynamic Expert Specialization: Towards Catastrophic Forgetting-Free Multi-Domain MoE Adaptation**|Junzhuo Li et.al.|[2509.16882](http://arxiv.org/abs/2509.16882)|null|
 |**2025-09-20**|**KungfuBot2: Learning Versatile Motion Skills for Humanoid Whole-Body Control**|Jinrui Han et.al.|[2509.16638](http://arxiv.org/abs/2509.16638)|null|
@@ -1186,8 +1186,8 @@
 |**2025-09-28**|**HyMaTE: A Hybrid Mamba and Transformer Model for EHR Representation Learning**|Md Mozaharul Mottalib et.al.|[2509.24118](http://arxiv.org/abs/2509.24118)|null|
 |**2025-09-28**|**Hazy Pedestrian Trajectory Prediction via Physical Priors and Graph-Mamba**|Jian Chen et.al.|[2509.24020](http://arxiv.org/abs/2509.24020)|null|
 |**2025-09-28**|**Trained Mamba Emulates Online Gradient Descent in In-Context Linear Regression**|Jiarui Jiang et.al.|[2509.23779](http://arxiv.org/abs/2509.23779)|null|
-|**2025-10-04**|**EfficientMIL: Efficient Linear-Complexity MIL Method for WSI Classification**|Chengying She et.al.|[2509.23640](http://arxiv.org/abs/2509.23640)|null|
-|**2025-09-26**|**TRUST: Test-Time Refinement using Uncertainty-Guided SSM Traverses**|Sahar Dastani et.al.|[2509.22813](http://arxiv.org/abs/2509.22813)|null|
+|**2025-10-04**|**EfficientMIL: Efficient Linear-Complexity MIL Method for WSI Classification**|Chengying She et.al.|[2509.23640](http://arxiv.org/abs/2509.23640)|**[link](https://github.com/chengyingshe/EfficientMIL)**|
+|**2025-09-26**|**TRUST: Test-Time Refinement using Uncertainty-Guided SSM Traverses**|Sahar Dastani et.al.|[2509.22813](http://arxiv.org/abs/2509.22813)|**[link](https://github.com/Sahardastani/trust)**|
 |**2025-09-26**|**StateX: Enhancing RNN Recall via Post-training State Expansion**|Xingyu Shen et.al.|[2509.22630](http://arxiv.org/abs/2509.22630)|null|
 |**2025-09-26**|**Structured Sparse Transition Matrices to Enable State Tracking in State-Space Models**|Aleksandar Terzić et.al.|[2509.22284](http://arxiv.org/abs/2509.22284)|null|
 |**2025-09-25**|**MedVSR: Medical Video Super-Resolution with Cross State-Space Propagation**|Xinyu Liu et.al.|[2509.21265](http://arxiv.org/abs/2509.21265)|null|
