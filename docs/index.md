@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.12
+## Updated on 2025.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -942,11 +942,11 @@ layout: default
 |**2025-01-10**|**A Steerable Deep Network for Model-Free Diffusion MRI Registration**|Gianfranco Cortes et.al.|[2501.04794](http://arxiv.org/abs/2501.04794)|null|
 |**2024-10-31**|**UniRiT: Towards Few-Shot Non-Rigid Point Cloud Registration**|Geng Li et.al.|[2410.22909](http://arxiv.org/abs/2410.22909)|null|
 |**2025-06-06**|**SynBench: A Synthetic Benchmark for Non-rigid 3D Point Cloud Registration**|Sara Monji-Azad et.al.|[2409.14474](http://arxiv.org/abs/2409.14474)|null|
-|**2025-10-01**|**SPARE: Symmetrized Point-to-Plane Distance for Robust Non-Rigid 3D Registration**|Yuxin Yao et.al.|[2405.20188](http://arxiv.org/abs/2405.20188)|null|
+|**2025-10-01**|**SPARE: Symmetrized Point-to-Plane Distance for Robust Non-Rigid 3D Registration**|Yuxin Yao et.al.|[2405.20188](http://arxiv.org/abs/2405.20188)|**[link](https://github.com/yaoyx689/spare)**|
 |**2024-04-19**|**DeeperHistReg: Robust Whole Slide Images Registration Framework**|Marek Wodzinski et.al.|[2404.14434](http://arxiv.org/abs/2404.14434)|null|
 |**2024-04-26**|**RegWSI: Whole Slide Image Registration using Combined Deep Feature- and Intensity-Based Methods: Winner of the ACROBAT 2023 Challenge**|Marek Wodzinski et.al.|[2404.13108](http://arxiv.org/abs/2404.13108)|null|
 |**2024-01-05**|**Partition-based Nonrigid Registration for 3D Face Model**|Yuping Ye et.al.|[2401.02607](http://arxiv.org/abs/2401.02607)|null|
-|**2023-03-20**|**Deep Graph-based Spatial Consistency for Robust Non-rigid Point Cloud Registration**|Zheng Qin et.al.|[2303.09950](http://arxiv.org/abs/2303.09950)|null|
+|**2023-03-20**|**Deep Graph-based Spatial Consistency for Robust Non-rigid Point Cloud Registration**|Zheng Qin et.al.|[2303.09950](http://arxiv.org/abs/2303.09950)|**[link](https://github.com/qinzheng93/GraphSCNet)**|
 |**2023-02-21**|**Fast and Robust Non-Rigid Registration Using Accelerated Majorization-Minimization**|Yuxin Yao et.al.|[2206.03410](http://arxiv.org/abs/2206.03410)|null|
 |**2022-10-06**|**Non-rigid Point Cloud Registration with Neural Deformation Pyramid**|Yang Li et.al.|[2205.12796](http://arxiv.org/abs/2205.12796)|null|
 |**2022-05-21**|**Myocardial Segmentation of Late Gadolinium Enhanced MR Images by Propagation of Contours from Cine MR Images**|Dong Wei et.al.|[2205.10595](http://arxiv.org/abs/2205.10595)|null|
