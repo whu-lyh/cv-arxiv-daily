@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.13
+## Updated on 2025.11.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -182,7 +182,7 @@ layout: default
 |**2021-06-21**|**Radar-to-Lidar: Heterogeneous Place Recognition via Joint Learning**|Huan Yin et.al.|[2102.04960](http://arxiv.org/abs/2102.04960)|null|
 |**2021-08-05**|**A Registration-aided Domain Adaptation Network for 3D Point Cloud Based Place Recognition**|Zhijian Qiao et.al.|[2012.05018](http://arxiv.org/abs/2012.05018)|null|
 |**2020-08-04**|**PIC-Net: Point Cloud and Image Collaboration Network for Large-Scale Place Recognition**|Yuheng Lu et.al.|[2008.00658](http://arxiv.org/abs/2008.00658)|null|
-|**2020-07-06**|**LOL: Lidar-Only Odometry and Localization in 3D Point Cloud Maps**|David Rozenberszki et.al.|[2007.01595](http://arxiv.org/abs/2007.01595)|null|
+|**2020-07-06**|**LOL: Lidar-Only Odometry and Localization in 3D Point Cloud Maps**|David Rozenberszki et.al.|[2007.01595](http://arxiv.org/abs/2007.01595)|**[link](https://github.com/RozDavid/LOL)**|
 
 ## Cross-modality Localization
 
@@ -199,7 +199,7 @@ layout: default
 |**2024-07-15**|**SceneGraphLoc: Cross-Modal Coarse Visual Localization on 3D Scene Graphs**|Yang Miao et.al.|[2404.00469](http://arxiv.org/abs/2404.00469)|null|
 |**2023-12-29**|**LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization**|Sai Shubodh Puligilla et.al.|[2312.16648](http://arxiv.org/abs/2312.16648)|null|
 |**2023-09-20**|**Sound Source Localization is All about Cross-Modal Alignment**|Arda Senocak et.al.|[2309.10724](http://arxiv.org/abs/2309.10724)|null|
-|**2023-10-17**|**Counterfactual Cross-modality Reasoning for Weakly Supervised Video Moment Localization**|Zezhong Lv et.al.|[2308.05648](http://arxiv.org/abs/2308.05648)|null|
+|**2023-10-17**|**Counterfactual Cross-modality Reasoning for Weakly Supervised Video Moment Localization**|Zezhong Lv et.al.|[2308.05648](http://arxiv.org/abs/2308.05648)|**[link](https://github.com/sLdZ0306/CCR)**|
 |**2022-10-31**|**Visual Answer Localization with Cross-modal Mutual Knowledge Transfer**|Yixuan Weng et.al.|[2210.14823](http://arxiv.org/abs/2210.14823)|null|
 |**2022-08-04**|**Dilated Context Integrated Network with Cross-Modal Consensus for Temporal Emotion Localization in Videos**|Juncheng Li et.al.|[2208.01954](http://arxiv.org/abs/2208.01954)|null|
 |**2023-01-18**|**CSDN: Cross-modal Shape-transfer Dual-refinement Network for Point Cloud Completion**|Zhe Zhu et.al.|[2208.00751](http://arxiv.org/abs/2208.00751)|null|
@@ -1281,15 +1281,15 @@ layout: default
 |**2025-06-02**|**Point-MoE: Towards Cross-Domain Generalization in 3D Semantic Segmentation via Mixture-of-Experts**|Xuweiyi Chen et.al.|[2505.23926](http://arxiv.org/abs/2505.23926)|null|
 |**2025-05-29**|**Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity**|Yehui Tang et.al.|[2505.21411](http://arxiv.org/abs/2505.21411)|null|
 |**2025-05-27**|**FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models**|Hao Kang et.al.|[2505.20225](http://arxiv.org/abs/2505.20225)|null|
-|**2025-05-22**|**MoE-Loco: Mixture of Experts for Multitask Locomotion**|Runhan Huang et.al.|[2503.08564](http://arxiv.org/abs/2503.08564)|**[link](https://github.com/hrh6666/MoE-Loco)**|
+|**2025-05-22**|**MoE-Loco: Mixture of Experts for Multitask Locomotion**|Runhan Huang et.al.|[2503.08564](http://arxiv.org/abs/2503.08564)|null|
 |**2025-03-06**|**Convergence Rates for Softmax Gating Mixture of Experts**|Huy Nguyen et.al.|[2503.03213](http://arxiv.org/abs/2503.03213)|null|
 |**2025-01-29**|**Mixture of Experts (MoE): A Big Data Perspective**|Wensheng Gan et.al.|[2501.16352](http://arxiv.org/abs/2501.16352)|null|
 |**2024-12-02**|**MH-MoE: Multi-Head Mixture-of-Experts**|Shaohan Huang et.al.|[2411.16205](http://arxiv.org/abs/2411.16205)|null|
 |**2024-10-24**|**ExpertFlow: Optimized Expert Activation and Token Allocation for Efficient Mixture-of-Experts Inference**|Xin He et.al.|[2410.17954](http://arxiv.org/abs/2410.17954)|null|
 |**2024-10-11**|**MoE++: Accelerating Mixture-of-Experts Methods with Zero-Computation Experts**|Peng Jin et.al.|[2410.07348](http://arxiv.org/abs/2410.07348)|null|
 |**2024-05-21**|**Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts**|Yunxin Li et.al.|[2405.11273](http://arxiv.org/abs/2405.11273)|null|
-|**2024-05-31**|**Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models**|Xudong Lu et.al.|[2402.14800](http://arxiv.org/abs/2402.14800)|**[link](https://github.com/Lucky-Lance/Expert_Sparsity)**|
-|**2024-10-29**|**GraphMETRO: Mitigating Complex Graph Distribution Shifts via Mixture of Aligned Experts**|Shirley Wu et.al.|[2312.04693](http://arxiv.org/abs/2312.04693)|**[link](https://github.com/Wuyxin/GraphMETRO)**|
+|**2024-05-31**|**Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models**|Xudong Lu et.al.|[2402.14800](http://arxiv.org/abs/2402.14800)|null|
+|**2024-10-29**|**GraphMETRO: Mitigating Complex Graph Distribution Shifts via Mixture of Aligned Experts**|Shirley Wu et.al.|[2312.04693](http://arxiv.org/abs/2312.04693)|null|
 |**2023-09-12**|**Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning**|Ted Zadouri et.al.|[2309.05444](http://arxiv.org/abs/2309.05444)|null|
 |**2023-04-25**|**Pipeline MoE: A Flexible MoE Implementation with Pipeline Parallelism**|Xin Chen et.al.|[2304.11414](http://arxiv.org/abs/2304.11414)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|null|
