@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.19
+## Updated on 2025.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -1963,7 +1963,7 @@ layout: default
 |**2025-11-13**|**Direct multi-model dark-matter search with gravitational-wave interferometers using data from the first part of the fourth LIGO-Virgo-KAGRA observing run**|The LIGO Scientific Collaboration et.al.|[2510.27022](http://arxiv.org/abs/2510.27022)|null|
 |**2025-10-30**|**GW241011 and GW241110: Exploring Binary Formation and Fundamental Physics with Asymmetric, High-Spin Black Hole Coalescence**|The LIGO Scientific Collaboration et.al.|[2510.26931](http://arxiv.org/abs/2510.26931)|null|
 |**2025-11-07**|**Cosmological and High Energy Physics implications from gravitational-wave background searches in LIGO-Virgo-KAGRA's O1-O4a runs**|The LIGO Scientific Collaboration et.al.|[2510.26848](http://arxiv.org/abs/2510.26848)|null|
-|**2025-10-23**|**SpectraMorph: Structured Latent Learning for Self-Supervised Hyperspectral Super-Resolution**|Ritik Shah et.al.|[2510.20814](http://arxiv.org/abs/2510.20814)|null|
+|**2025-10-23**|**SpectraMorph: Structured Latent Learning for Self-Supervised Hyperspectral Super-Resolution**|Ritik Shah et.al.|[2510.20814](http://arxiv.org/abs/2510.20814)|**[link](https://github.com/ritikgshah/SpectraMorph)**|
 |**2025-10-20**|**Directional Search for Persistent Gravitational Waves: Results from the First Part of LIGO-Virgo-KAGRA's Fourth Observing Run**|The LIGO Scientific Collaboration et.al.|[2510.17487](http://arxiv.org/abs/2510.17487)|null|
 |**2025-10-18**|**HYDRA: HYbrid knowledge Distillation and spectral Reconstruction Algorithm for high channel hyperspectral camera applications**|Christopher Thirgood et.al.|[2510.16664](http://arxiv.org/abs/2510.16664)|null|
 |**2025-10-15**|**Near-Infrared Hyperspectral Imaging Applications in Food Analysis -- Improving Algorithms and Methodologies**|Ole-Christian Galbo Engstrøm et.al.|[2510.13452](http://arxiv.org/abs/2510.13452)|null|
