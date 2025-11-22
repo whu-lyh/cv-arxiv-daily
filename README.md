@@ -25,8 +25,8 @@
 |**2025-11-20**|**Comparison of Text-Based and Image-Based Retrieval in Multimodal Retrieval Augmented Generation Large Language Model Systems**|Elias Lumer et.al.|[2511.16654](http://arxiv.org/abs/2511.16654)|null|
 |**2025-11-20**|**Measurement incompatibility in Bayesian multiparameter quantum estimation**|Francesco Albarelli et.al.|[2511.16645](http://arxiv.org/abs/2511.16645)|null|
 |**2025-11-20**|**SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-Agent System for Multimodal Survival Prediction**|Guolin Huang et.al.|[2511.16635](http://arxiv.org/abs/2511.16635)|null|
-|**2025-11-20**|**SAM2S: Segment Anything in Surgical Videos via Semantic Long-term Tracking**|Haofeng Liu et.al.|[2511.16618](http://arxiv.org/abs/2511.16618)|null|
-|**2025-11-20**|**POMA-3D: The Point Map Way to 3D Scene Understanding**|Ye Mao et.al.|[2511.16567](http://arxiv.org/abs/2511.16567)|null|
+|**2025-11-20**|**SAM2S: Segment Anything in Surgical Videos via Semantic Long-term Tracking**|Haofeng Liu et.al.|[2511.16618](http://arxiv.org/abs/2511.16618)|**[link](https://github.com/jinlab-imvr/SAM2S)**|
+|**2025-11-20**|**POMA-3D: The Point Map Way to 3D Scene Understanding**|Ye Mao et.al.|[2511.16567](http://arxiv.org/abs/2511.16567)|**[link](https://github.com/MatchLab-Imperial/POMA-3D)**|
 |**2025-11-20**|**NutriScreener: Retrieval-Augmented Multi-Pose Graph Attention Network for Malnourishment Screening**|Misaal Khan et.al.|[2511.16566](http://arxiv.org/abs/2511.16566)|null|
 |**2025-11-20**|**Investigating Optical Flow Computation: From Local Methods to a Multiresolution Horn-Schunck Implementation with Bilinear Interpolation**|Haytham Ziani et.al.|[2511.16535](http://arxiv.org/abs/2511.16535)|null|
 |**2025-11-20**|**Contrastive vision-language learning with paraphrasing and negation**|Kwun Ho Ngan et.al.|[2511.16527](http://arxiv.org/abs/2511.16527)|null|
