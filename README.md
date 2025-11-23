@@ -1881,8 +1881,8 @@
 |**2025-11-20**|**Simba: Towards High-Fidelity and Geometrically-Consistent Point Cloud Completion via Transformation Diffusion**|Lirui Zhang et.al.|[2511.16161](http://arxiv.org/abs/2511.16161)|null|
 |**2025-11-20**|**How Noise Benefits AI-generated Image Detection**|Jiazhen Yan et.al.|[2511.16136](http://arxiv.org/abs/2511.16136)|null|
 |**2025-11-20**|**Decoupling Complexity from Scale in Latent Diffusion Model**|Tianxiong Zhong et.al.|[2511.16117](http://arxiv.org/abs/2511.16117)|null|
-|**2025-11-20**|**Parallelizable Complex Neural Dynamics Models for PMSM Temperature Estimation with Hardware Acceleration**|Xinyuan Liao et.al.|[2511.16093](http://arxiv.org/abs/2511.16093)|null|
-|**2025-11-20**|**A Hybrid Proactive And Predictive Framework For Edge Cloud Resource Management**|Hrikshesh Kumar et.al.|[2511.16075](http://arxiv.org/abs/2511.16075)|null|
+|**2025-11-20**|**Parallelizable Complex Neural Dynamics Models for PMSM Temperature Estimation with Hardware Acceleration**|Xinyuan Liao et.al.|[2511.16093](http://arxiv.org/abs/2511.16093)|**[link](https://github.com/XinyuanLiao/ComplexNDM)**|
+|**2025-11-20**|**A Hybrid Proactive And Predictive Framework For Edge Cloud Resource Management**|Hrikshesh Kumar et.al.|[2511.16075](http://arxiv.org/abs/2511.16075)|**[link](https://github.com/Anshul-Gupta-1410/Design-Project)**|
 |**2025-11-20**|**High-Throughput Exploration of Refractory High-Entropy Alloys for Strength and Plasticity**|Stephen A. Giles et.al.|[2511.16057](http://arxiv.org/abs/2511.16057)|null|
 |**2025-11-20**|**Exploiting Inter-Sample Information for Long-tailed Out-of-Distribution Detection**|Nimeshika Udayangani et.al.|[2511.16015](http://arxiv.org/abs/2511.16015)|null|
 |**2025-11-20**|**Synergizing Deconfounding and Temporal Generalization For Time-series Counterfactual Outcome Estimation**|Yiling Liu et.al.|[2511.16006](http://arxiv.org/abs/2511.16006)|null|
@@ -2159,8 +2159,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-11-20**|**SpectralTrain: A Universal Framework for Hyperspectral Image Classification**|Meihua Zhou et.al.|[2511.16084](http://arxiv.org/abs/2511.16084)|null|
-|**2025-11-19**|**Hyperspectral Image Classification using Spectral-Spatial Mixer Network**|Mohammed Q. Alkhatib et.al.|[2511.15692](http://arxiv.org/abs/2511.15692)|null|
+|**2025-11-20**|**SpectralTrain: A Universal Framework for Hyperspectral Image Classification**|Meihua Zhou et.al.|[2511.16084](http://arxiv.org/abs/2511.16084)|**[link](https://github.com/mh-zhou/SpectralTrain)**|
+|**2025-11-19**|**Hyperspectral Image Classification using Spectral-Spatial Mixer Network**|Mohammed Q. Alkhatib et.al.|[2511.15692](http://arxiv.org/abs/2511.15692)|**[link](https://github.com/mqalkhatib/SS-MixNet)**|
 |**2025-11-19**|**Multimodal Optical Imaging Platform for Quantitative Burn Assessment**|Nathaniel Hanson et.al.|[2511.15509](http://arxiv.org/abs/2511.15509)|null|
 |**2025-11-19**|**Hyperspectral Super-Resolution with Inter-Image Variability via Degradation-based Low-Rank and Residual Fusion Method**|Yue Wen et.al.|[2511.15052](http://arxiv.org/abs/2511.15052)|null|
 |**2025-11-17**|**Human-centric Maintenance Process Through Integration of AI, Speech, and AR**|Parul Khanna et.al.|[2511.13918](http://arxiv.org/abs/2511.13918)|null|
