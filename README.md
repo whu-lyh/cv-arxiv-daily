@@ -375,7 +375,7 @@
 |**2025-11-12**|**BronchOpt : Vision-Based Pose Optimization with Fine-Tuned Foundation Models for Accurate Bronchoscopy Navigation**|Hongchao Shu et.al.|[2511.09443](http://arxiv.org/abs/2511.09443)|null|
 |**2025-11-12**|**xHAP: Cross-Modal Attention for Haptic Feedback Estimation in the Tactile Internet**|Georgios Kokkinis et.al.|[2511.09137](http://arxiv.org/abs/2511.09137)|null|
 |**2025-11-11**|**Multi-modal Deepfake Detection and Localization with FPN-Transformer**|Chende Zheng et.al.|[2511.08031](http://arxiv.org/abs/2511.08031)|null|
-|**2025-11-11**|**Cross Modal Fine-grained Alignment via Granularity-aware and Region-uncertain Modeling**|Jiale Liu et.al.|[2511.07710](http://arxiv.org/abs/2511.07710)|null|
+|**2025-11-11**|**Cross Modal Fine-grained Alignment via Granularity-aware and Region-uncertain Modeling**|Jiale Liu et.al.|[2511.07710](http://arxiv.org/abs/2511.07710)|**[link](https://github.com/H3IIoWorld/GRM)**|
 |**2025-11-10**|**Mono3DVG-EnSD: Enhanced Spatial-aware and Dimension-decoupled Text Encoding for Monocular 3D Visual Grounding**|Yuzhen Li et.al.|[2511.06908](http://arxiv.org/abs/2511.06908)|null|
 |**2025-11-10**|**Semi-distributed Cross-modal Air-Ground Relative Localization**|Weining Lu et.al.|[2511.06749](http://arxiv.org/abs/2511.06749)|null|
 |**2025-11-09**|**Affordance-Guided Coarse-to-Fine Exploration for Base Placement in Open-Vocabulary Mobile Manipulation**|Tzu-Jung Lin et.al.|[2511.06240](http://arxiv.org/abs/2511.06240)|null|
@@ -436,7 +436,7 @@
 |**2025-11-19**|**Evaluating Multimodal Large Language Models on Vertically Written Japanese Text**|Keito Sasagawa et.al.|[2511.15059](http://arxiv.org/abs/2511.15059)|null|
 |**2025-11-18**|**X-WIN: Building Chest Radiograph World Model via Predictive Sensing**|Zefan Yang et.al.|[2511.14918](http://arxiv.org/abs/2511.14918)|null|
 |**2025-11-18**|**Gaussian See, Gaussian Do: Semantic 3D Motion Transfer from Multiview Video**|Yarin Bekor et.al.|[2511.14848](http://arxiv.org/abs/2511.14848)|null|
-|**2025-11-18**|**SparseSurf: Sparse-View 3D Gaussian Splatting for Surface Reconstruction**|Meiying Gu et.al.|[2511.14633](http://arxiv.org/abs/2511.14633)|null|
+|**2025-11-18**|**SparseSurf: Sparse-View 3D Gaussian Splatting for Surface Reconstruction**|Meiying Gu et.al.|[2511.14633](http://arxiv.org/abs/2511.14633)|**[link](https://github.com/miya-oi/SparseSurf)**|
 |**2025-11-18**|**Interaction-Aware 4D Gaussian Splatting for Dynamic Hand-Object Interaction Reconstruction**|Hao Tian et.al.|[2511.14540](http://arxiv.org/abs/2511.14540)|null|
 |**2025-11-18**|**2D Gaussians Spatial Transport for Point-supervised Density Regression**|Miao Shang et.al.|[2511.14477](http://arxiv.org/abs/2511.14477)|null|
 |**2025-11-18**|**BEDLAM2.0: Synthetic Humans and Cameras in Motion**|Joachim Tesch et.al.|[2511.14394](http://arxiv.org/abs/2511.14394)|null|
@@ -465,8 +465,8 @@
 |**2025-11-17**|**Redshifting the Cosmological Constant in Unimodular Gravity via Nonlinear Quantum Mechanics**|David E. Kaplan et.al.|[2511.12897](http://arxiv.org/abs/2511.12897)|null|
 |**2025-11-17**|**Reconstructing 3D Scenes in Native High Dynamic Range**|Kaixuan Zhang et.al.|[2511.12895](http://arxiv.org/abs/2511.12895)|null|
 |**2025-11-16**|**Which Way from B to A: The role of embedding geometry in image interpolation for Stable Diffusion**|Nicholas Karris et.al.|[2511.12757](http://arxiv.org/abs/2511.12757)|null|
-|**2025-11-15**|**Changes in Real Time: Online Scene Change Detection with Multi-View Fusion**|Chamuditha Jayanga Galappaththige et.al.|[2511.12370](http://arxiv.org/abs/2511.12370)|null|
-|**2025-11-15**|**LiDAR-GS++:Improving LiDAR Gaussian Reconstruction via Diffusion Priors**|Qifeng Chen et.al.|[2511.12304](http://arxiv.org/abs/2511.12304)|null|
+|**2025-11-15**|**Changes in Real Time: Online Scene Change Detection with Multi-View Fusion**|Chamuditha Jayanga Galappaththige et.al.|[2511.12370](http://arxiv.org/abs/2511.12370)|**[link](https://github.com/Chumsy0725/O-SCD)**|
+|**2025-11-15**|**LiDAR-GS++:Improving LiDAR Gaussian Reconstruction via Diffusion Priors**|Qifeng Chen et.al.|[2511.12304](http://arxiv.org/abs/2511.12304)|**[link](https://github.com/CN-ADLab/LiDAR_GS_plus)**|
 |**2025-11-15**|**SRSplat: Feed-Forward Super-Resolution Gaussian Splatting from Sparse Multi-View Images**|Xinyuan Hu et.al.|[2511.12040](http://arxiv.org/abs/2511.12040)|null|
 |**2025-11-14**|**SimTac: A Physics-Based Simulator for Vision-Based Tactile Sensing with Biomorphic Structures**|Xuyang Zhang et.al.|[2511.11456](http://arxiv.org/abs/2511.11456)|null|
 |**2025-11-14**|**Robust inverse material design with physical guarantees using the Voigt-Reuss Net**|Sanath Keshav et.al.|[2511.11388](http://arxiv.org/abs/2511.11388)|null|
@@ -901,7 +901,7 @@
 |**2025-11-04**|**Comprehensive Assessment of LiDAR Evaluation Metrics: A Comparative Study Using Simulated and Real Data**|Syed Mostaquim Ali et.al.|[2511.02994](http://arxiv.org/abs/2511.02994)|null|
 |**2025-11-04**|**Keeping it Local, Tiny and Real: Automated Report Generation on Edge Computing Devices for Mechatronic-Based Cognitive Systems**|Nicolas Schuler et.al.|[2511.02507](http://arxiv.org/abs/2511.02507)|null|
 |**2025-11-04**|**3D Point Cloud Object Detection on Edge Devices for Split Computing**|Taisuke Noguchi et.al.|[2511.02293](http://arxiv.org/abs/2511.02293)|null|
-|**2025-11-04**|**LLMs as Judges: Toward The Automatic Review of GSN-compliant Assurance Cases**|Gerhard Yu et.al.|[2511.02203](http://arxiv.org/abs/2511.02203)|null|
+|**2025-11-04**|**LLMs as Judges: Toward The Automatic Review of GSN-compliant Assurance Cases**|Gerhard Yu et.al.|[2511.02203](http://arxiv.org/abs/2511.02203)|**[link](https://github.com/GerhardYu/LLMs-as-Judges-Toward-The-Automatic-Review-of-GSN-compliant-Assurance-Cases-Figures)**|
 |**2025-11-03**|**UniLION: Towards Unified Autonomous Driving Model with Linear Group RNNs**|Zhe Liu et.al.|[2511.01768](http://arxiv.org/abs/2511.01768)|null|
 |**2025-11-03**|**LLM-Assisted Tool for Joint Generation of Formulas and Functions in Rule-Based Verification of Map Transformations**|Ruidi He et.al.|[2511.01423](http://arxiv.org/abs/2511.01423)|null|
 |**2025-11-03**|**VeriODD: From YAML to SMT-LIB -- Automating Verification of Operational Design Domains**|Bassel Rafie et.al.|[2511.01417](http://arxiv.org/abs/2511.01417)|null|
@@ -1450,11 +1450,11 @@
 |**2025-01-10**|**A Steerable Deep Network for Model-Free Diffusion MRI Registration**|Gianfranco Cortes et.al.|[2501.04794](http://arxiv.org/abs/2501.04794)|null|
 |**2024-10-31**|**UniRiT: Towards Few-Shot Non-Rigid Point Cloud Registration**|Geng Li et.al.|[2410.22909](http://arxiv.org/abs/2410.22909)|null|
 |**2025-06-06**|**SynBench: A Synthetic Benchmark for Non-rigid 3D Point Cloud Registration**|Sara Monji-Azad et.al.|[2409.14474](http://arxiv.org/abs/2409.14474)|null|
-|**2025-10-01**|**SPARE: Symmetrized Point-to-Plane Distance for Robust Non-Rigid 3D Registration**|Yuxin Yao et.al.|[2405.20188](http://arxiv.org/abs/2405.20188)|null|
+|**2025-10-01**|**SPARE: Symmetrized Point-to-Plane Distance for Robust Non-Rigid 3D Registration**|Yuxin Yao et.al.|[2405.20188](http://arxiv.org/abs/2405.20188)|**[link](https://github.com/yaoyx689/spare)**|
 |**2024-04-19**|**DeeperHistReg: Robust Whole Slide Images Registration Framework**|Marek Wodzinski et.al.|[2404.14434](http://arxiv.org/abs/2404.14434)|null|
 |**2024-04-26**|**RegWSI: Whole Slide Image Registration using Combined Deep Feature- and Intensity-Based Methods: Winner of the ACROBAT 2023 Challenge**|Marek Wodzinski et.al.|[2404.13108](http://arxiv.org/abs/2404.13108)|null|
 |**2024-01-05**|**Partition-based Nonrigid Registration for 3D Face Model**|Yuping Ye et.al.|[2401.02607](http://arxiv.org/abs/2401.02607)|null|
-|**2023-03-20**|**Deep Graph-based Spatial Consistency for Robust Non-rigid Point Cloud Registration**|Zheng Qin et.al.|[2303.09950](http://arxiv.org/abs/2303.09950)|null|
+|**2023-03-20**|**Deep Graph-based Spatial Consistency for Robust Non-rigid Point Cloud Registration**|Zheng Qin et.al.|[2303.09950](http://arxiv.org/abs/2303.09950)|**[link](https://github.com/qinzheng93/GraphSCNet)**|
 |**2023-02-21**|**Fast and Robust Non-Rigid Registration Using Accelerated Majorization-Minimization**|Yuxin Yao et.al.|[2206.03410](http://arxiv.org/abs/2206.03410)|null|
 |**2022-10-06**|**Non-rigid Point Cloud Registration with Neural Deformation Pyramid**|Yang Li et.al.|[2205.12796](http://arxiv.org/abs/2205.12796)|null|
 |**2022-05-21**|**Myocardial Segmentation of Late Gadolinium Enhanced MR Images by Propagation of Contours from Cine MR Images**|Dong Wei et.al.|[2205.10595](http://arxiv.org/abs/2205.10595)|null|
@@ -1463,7 +1463,7 @@
 |**2021-04-27**|**Deep Convolutional Neural Network for Non-rigid Image Registration**|Eduard F. Durech et.al.|[2104.12034](http://arxiv.org/abs/2104.12034)|null|
 |**2020-06-15**|**Nonrigid registration using Gaussian processes and local likelihood estimation**|Ashton Wiens et.al.|[2006.06864](http://arxiv.org/abs/2006.06864)|null|
 |**2020-07-28**|**Cortical surface registration using unsupervised learning**|Jieyu Cheng et.al.|[2004.04617](http://arxiv.org/abs/2004.04617)|null|
-|**2020-04-10**|**Quasi-Newton Solver for Robust Non-Rigid Registration**|Yuxin Yao et.al.|[2004.04322](http://arxiv.org/abs/2004.04322)|null|
+|**2020-04-10**|**Quasi-Newton Solver for Robust Non-Rigid Registration**|Yuxin Yao et.al.|[2004.04322](http://arxiv.org/abs/2004.04322)|**[link](https://github.com/Juyong/Fast_RNRR)**|
 |**2020-01-14**|**A Comparative Study for Non-rigid Image Registration and Rigid Image Registration**|Xiaoran Zhang et.al.|[2001.03831](http://arxiv.org/abs/2001.03831)|null|
 |**2019-04-02**|**Automatic Nonrigid Histological Image Registration with Adaptive Multistep Algorithm**|Marek Wodzinski et.al.|[1904.00982](http://arxiv.org/abs/1904.00982)|null|
 |**2019-04-07**|**Symmetry-guided nonrigid registration: the case for distortion correction in multidimensional photoemission spectroscopy**|Rui Patrick Xian et.al.|[1901.00312](http://arxiv.org/abs/1901.00312)|null|
@@ -2211,7 +2211,7 @@
 |**2025-09-08**|**GWTC-4.0: Updating the Gravitational-Wave Transient Catalog with Observations from the First Part of the Fourth LIGO-Virgo-KAGRA Observing Run**|The LIGO Scientific Collaboration et.al.|[2508.18082](http://arxiv.org/abs/2508.18082)|null|
 |**2025-09-03**|**Open Data from LIGO, Virgo, and KAGRA through the First Part of the Fourth Observing Run**|The LIGO Scientific Collaboration et.al.|[2508.18079](http://arxiv.org/abs/2508.18079)|null|
 |**2025-08-25**|**Few-shot Unknown Class Discovery of Hyperspectral Images with Prototype Learning and Clustering**|Chun Liu et.al.|[2508.18075](http://arxiv.org/abs/2508.18075)|null|
-|**2025-08-21**|**Deep Equilibrium Convolutional Sparse Coding for Hyperspectral Image Denoising**|Jin Ye et.al.|[2508.15553](http://arxiv.org/abs/2508.15553)|null|
+|**2025-08-21**|**Deep Equilibrium Convolutional Sparse Coding for Hyperspectral Image Denoising**|Jin Ye et.al.|[2508.15553](http://arxiv.org/abs/2508.15553)|**[link](https://github.com/huimengyoudelaka/DECSC)**|
 |**2025-08-15**|**Hyperspectral vs. RGB for Pedestrian Segmentation in Urban Driving Scenes: A Comparative Study**|Jiarong Li et.al.|[2508.11301](http://arxiv.org/abs/2508.11301)|null|
 |**2025-08-14**|**CSNR and JMIM Based Spectral Band Selection for Reducing Metamerism in Urban Driving**|Jiarong Li et.al.|[2508.10962](http://arxiv.org/abs/2508.10962)|null|
 |**2025-08-13**|**Probabilistic Emissivity Retrieval from Hyperspectral Data via Physics-Guided Variational Inference**|Joshua R. Tempelman et.al.|[2508.08291](http://arxiv.org/abs/2508.08291)|null|

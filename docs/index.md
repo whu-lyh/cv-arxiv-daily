@@ -317,7 +317,7 @@ layout: default
 |**2024-07-31**|**SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition**|Raktim Gautam Goswami et.al.|[2407.08260](http://arxiv.org/abs/2407.08260)|null|
 |**2024-06-21**|**Voxel-Based Point Cloud Localization for Smart Spaces Management**|F. S. Mortazavi et.al.|[2406.15110](http://arxiv.org/abs/2406.15110)|null|
 |**2024-10-09**|**PointNetPGAP-SLC: A 3D LiDAR-based Place Recognition Approach with Segment-level Consistency Training for Mobile Robots in Horticulture**|T. Barros et.al.|[2405.19038](http://arxiv.org/abs/2405.19038)|null|
-|**2024-05-14**|**OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**|Qiuchi Xiang et.al.|[2405.07966](http://arxiv.org/abs/2405.07966)|null|
+|**2024-05-14**|**OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**|Qiuchi Xiang et.al.|[2405.07966](http://arxiv.org/abs/2405.07966)|**[link](https://github.com/SCNU-RISLAB/OverlapMamba)**|
 |**2025-03-14**|**VXP: Voxel-Cross-Pixel Large-scale Image-LiDAR Place Recognition**|Yun-Jin Li et.al.|[2403.14594](http://arxiv.org/abs/2403.14594)|null|
 |**2024-08-30**|**Evaluation and Deployment of LiDAR-based Place Recognition in Dense Forests**|Haedam Oh et.al.|[2403.14326](http://arxiv.org/abs/2403.14326)|null|
 |**2024-02-27**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|null|
@@ -326,10 +326,10 @@ layout: default
 |**2024-09-25**|**SelFLoc: Selective Feature Fusion for Large-scale Point Cloud-based Place Recognition**|Qibo Qiu et.al.|[2306.01205](http://arxiv.org/abs/2306.01205)|null|
 |**2025-06-26**|**BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images**|Lun Luo et.al.|[2302.14325](http://arxiv.org/abs/2302.14325)|null|
 |**2023-11-14**|**Object Scan Context: Object-centric Spatial Descriptor for Place Recognition within 3D Point Cloud Map**|Haodong Yuan et.al.|[2206.03062](http://arxiv.org/abs/2206.03062)|null|
-|**2022-11-30**|**InCloud: Incremental Learning for Point Cloud Place Recognition**|Joshua Knights et.al.|[2203.00807](http://arxiv.org/abs/2203.00807)|null|
+|**2022-11-30**|**InCloud: Incremental Learning for Point Cloud Place Recognition**|Joshua Knights et.al.|[2203.00807](http://arxiv.org/abs/2203.00807)|**[link](https://github.com/csiro-robotics/InCloud)**|
 |**2025-06-26**|**BVMatch: Lidar-based Place Recognition Using Bird's-eye View Images**|Lun Luo et.al.|[2109.00317](http://arxiv.org/abs/2109.00317)|null|
 |**2021-04-15**|**MinkLoc++: Lidar and Monocular Image Fusion for Place Recognition**|Jacek Komorowski et.al.|[2104.05327](http://arxiv.org/abs/2104.05327)|null|
-|**2021-04-23**|**Robust Place Recognition using an Imaging Lidar**|Tixiao Shan et.al.|[2103.02111](http://arxiv.org/abs/2103.02111)|null|
+|**2021-04-23**|**Robust Place Recognition using an Imaging Lidar**|Tixiao Shan et.al.|[2103.02111](http://arxiv.org/abs/2103.02111)|**[link](https://github.com/TixiaoShan/imaging_lidar_place_recognition)**|
 |**2021-06-21**|**Radar-to-Lidar: Heterogeneous Place Recognition via Joint Learning**|Huan Yin et.al.|[2102.04960](http://arxiv.org/abs/2102.04960)|null|
 |**2021-08-05**|**A Registration-aided Domain Adaptation Network for 3D Point Cloud Based Place Recognition**|Zhijian Qiao et.al.|[2012.05018](http://arxiv.org/abs/2012.05018)|null|
 |**2020-08-04**|**PIC-Net: Point Cloud and Image Collaboration Network for Large-Scale Place Recognition**|Yuheng Lu et.al.|[2008.00658](http://arxiv.org/abs/2008.00658)|null|
@@ -481,10 +481,10 @@ layout: default
 |**2025-11-10**|**Accelerated, Memory-Efficient Far-Field Scattering Computation with Monte Carlo SBR**|Samuel Audia et.al.|[2511.07586](http://arxiv.org/abs/2511.07586)|null|
 |**2025-11-10**|**YoNoSplat: You Only Need One Model for Feedforward 3D Gaussian Splatting**|Botao Ye et.al.|[2511.07321](http://arxiv.org/abs/2511.07321)|null|
 |**2025-11-10**|**4DSTR: Advancing Generative 4D Gaussians with Spatial-Temporal Rectification for High-Quality and Consistent 4D Generation**|Mengmeng Liu et.al.|[2511.07241](http://arxiv.org/abs/2511.07241)|null|
-|**2025-11-10**|**Sparse4DGS: 4D Gaussian Splatting for Sparse-Frame Dynamic Scene Reconstruction**|Changyue Shi et.al.|[2511.07122](http://arxiv.org/abs/2511.07122)|null|
+|**2025-11-10**|**Sparse4DGS: 4D Gaussian Splatting for Sparse-Frame Dynamic Scene Reconstruction**|Changyue Shi et.al.|[2511.07122](http://arxiv.org/abs/2511.07122)|**[link](https://github.com/ChangyueShi/Sparse4DGS)**|
 |**2025-11-10**|**GFix: Perceptually Enhanced Gaussian Splatting Video Compression**|Siyue Teng et.al.|[2511.06953](http://arxiv.org/abs/2511.06953)|null|
 |**2025-11-10**|**MUGSQA: Novel Multi-Uncertainty-Based Gaussian Splatting Quality Assessment Method, Dataset, and Benchmarks**|Tianang Chen et.al.|[2511.06830](http://arxiv.org/abs/2511.06830)|null|
-|**2025-11-10**|**ConeGS: Error-Guided Densification Using Pixel Cones for Improved Reconstruction with Fewer Primitives**|Bartłomiej Baranowski et.al.|[2511.06810](http://arxiv.org/abs/2511.06810)|null|
+|**2025-11-10**|**ConeGS: Error-Guided Densification Using Pixel Cones for Improved Reconstruction with Fewer Primitives**|Bartłomiej Baranowski et.al.|[2511.06810](http://arxiv.org/abs/2511.06810)|**[link](https://github.com/baranowskibrt/conegs)**|
 |**2025-11-10**|**Robust and High-Fidelity 3D Gaussian Splatting: Fusing Pose Priors and Geometry Constraints for Texture-Deficient Outdoor Scenes**|Meijun Guo et.al.|[2511.06765](http://arxiv.org/abs/2511.06765)|null|
 |**2025-11-10**|**Rethinking Rainy 3D Scene Reconstruction via Perspective Transforming and Brightness Tuning**|Qianfeng Yang et.al.|[2511.06734](http://arxiv.org/abs/2511.06734)|null|
 |**2025-11-10**|**DIAL-GS: Dynamic Instance Aware Reconstruction for Label-free Street Scenes with 4D Gaussian Splatting**|Chenpeng Su et.al.|[2511.06632](http://arxiv.org/abs/2511.06632)|null|
@@ -956,7 +956,7 @@ layout: default
 |**2025-10-18**|**Advancing Off-Road Autonomous Driving: The Large-Scale ORAD-3D Dataset and Comprehensive Benchmarks**|Chen Min et.al.|[2510.16500](http://arxiv.org/abs/2510.16500)|null|
 |**2025-10-18**|**Enhancing Rotated Object Detection via Anisotropic Gaussian Bounding Box and Bhattacharyya Distance**|Chien Thai et.al.|[2510.16445](http://arxiv.org/abs/2510.16445)|null|
 |**2025-10-17**|**ObjectTransforms for Uncertainty Quantification and Reduction in Vision-Based Perception for Autonomous Vehicles**|Nishad Sahu et.al.|[2510.16118](http://arxiv.org/abs/2510.16118)|null|
-|**2025-10-17**|**LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal**|Shr-Ruei Tsai et.al.|[2510.15868](http://arxiv.org/abs/2510.15868)|null|
+|**2025-10-17**|**LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal**|Shr-Ruei Tsai et.al.|[2510.15868](http://arxiv.org/abs/2510.15868)|**[link](https://github.com/Ray-1026/LightsOut-official)**|
 |**2025-10-17**|**Perfect Prediction or Plenty of Proposals? What Matters Most in Planning for Autonomous Driving**|Aron Distelzweig et.al.|[2510.15505](http://arxiv.org/abs/2510.15505)|null|
 |**2025-10-17**|**VDRive: Leveraging Reinforced VLA and Diffusion Policy for End-to-end Autonomous Driving**|Ziang Guo et.al.|[2510.15446](http://arxiv.org/abs/2510.15446)|null|
 |**2025-10-17**|**FreqPDE: Rethinking Positional Depth Embedding for Multi-View 3D Object Detection Transformers**|Haisheng Su et.al.|[2510.15385](http://arxiv.org/abs/2510.15385)|null|
