@@ -1,4 +1,4 @@
-## Updated on 2025.11.23
+## Updated on 2025.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -271,7 +271,7 @@
 |**2018-05-16**|**Visual Global Localization with a Hybrid WNN-CNN Approach**|Avelino Forechi et.al.|[1805.03183](http://arxiv.org/abs/1805.03183)|null|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|null|
 
-<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 
 ## Point Cloud Place Recognition
 
@@ -349,7 +349,7 @@
 |**2020-08-04**|**PIC-Net: Point Cloud and Image Collaboration Network for Large-Scale Place Recognition**|Yuheng Lu et.al.|[2008.00658](http://arxiv.org/abs/2008.00658)|null|
 |**2020-07-06**|**LOL: Lidar-Only Odometry and Localization in 3D Point Cloud Maps**|David Rozenberszki et.al.|[2007.01595](http://arxiv.org/abs/2007.01595)|**[link](https://github.com/RozDavid/LOL)**|
 
-<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 
 ## Cross-modality Localization
 
@@ -408,7 +408,7 @@
 |**2021-07-28**|**Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization**|Fa-Ting Hong et.al.|[2107.12589](http://arxiv.org/abs/2107.12589)|null|
 |**2020-09-15**|**RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization**|Niluthpol Chowdhury Mithun et.al.|[2009.05695](http://arxiv.org/abs/2009.05695)|null|
 
-<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 
 ## 3D GS
 
@@ -431,7 +431,7 @@
 |**2025-11-19**|**Think Visually, Reason Textually: Vision-Language Synergy in ARC**|Beichen Zhang et.al.|[2511.15703](http://arxiv.org/abs/2511.15703)|null|
 |**2025-11-19**|**ChartEditor: A Reinforcement Learning Framework for Robust Chart Editing**|Liangyu Chen et.al.|[2511.15266](http://arxiv.org/abs/2511.15266)|null|
 |**2025-11-19**|**VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation**|Tairan He et.al.|[2511.15200](http://arxiv.org/abs/2511.15200)|null|
-|**2025-11-19**|**Gaussian Blending: Rethinking Alpha Blending in 3D Gaussian Splatting**|Junseo Koo et.al.|[2511.15102](http://arxiv.org/abs/2511.15102)|null|
+|**2025-11-19**|**Gaussian Blending: Rethinking Alpha Blending in 3D Gaussian Splatting**|Junseo Koo et.al.|[2511.15102](http://arxiv.org/abs/2511.15102)|**[link](https://github.com/1207koo/gaussian_blending)**|
 |**2025-11-19**|**BokehFlow: Depth-Free Controllable Bokeh Rendering via Flow Matching**|Yachuan Huang et.al.|[2511.15066](http://arxiv.org/abs/2511.15066)|null|
 |**2025-11-19**|**Evaluating Multimodal Large Language Models on Vertically Written Japanese Text**|Keito Sasagawa et.al.|[2511.15059](http://arxiv.org/abs/2511.15059)|null|
 |**2025-11-18**|**X-WIN: Building Chest Radiograph World Model via Predictive Sensing**|Zefan Yang et.al.|[2511.14918](http://arxiv.org/abs/2511.14918)|null|
@@ -778,7 +778,7 @@
 |**2024-03-26**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095](http://arxiv.org/abs/2403.16095)|null|
 |**2024-04-09**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700](http://arxiv.org/abs/2311.11700)|null|
 
-<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -789,7 +789,7 @@
 |**2025-11-20**|**Flow-Aided Flight Through Dynamic Clutters From Point To Motion**|Bowen Xu et.al.|[2511.16372](http://arxiv.org/abs/2511.16372)|null|
 |**2025-11-20**|**DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks**|Vincenzo Pomponi et.al.|[2511.16223](http://arxiv.org/abs/2511.16223)|null|
 |**2025-11-20**|**AskDB: An LLM Agent for Natural Language Interaction with Relational Databases**|Xuan-Quang Phan et.al.|[2511.16131](http://arxiv.org/abs/2511.16131)|null|
-|**2025-11-20**|**LiSTAR: Ray-Centric World Models for 4D LiDAR Sequences in Autonomous Driving**|Pei Liu et.al.|[2511.16049](http://arxiv.org/abs/2511.16049)|null|
+|**2025-11-20**|**LiSTAR: Ray-Centric World Models for 4D LiDAR Sequences in Autonomous Driving**|Pei Liu et.al.|[2511.16049](http://arxiv.org/abs/2511.16049)|**[link](https://github.com/ocean-luna/LiSTAR)**|
 |**2025-11-19**|**RE for AI in Practice: Managing Data Annotation Requirements for AI Autonomous Driving Systems**|Hina Saeeda et.al.|[2511.15859](http://arxiv.org/abs/2511.15859)|null|
 |**2025-11-19**|**Continual Reinforcement Learning for Cyber-Physical Systems: Lessons Learned and Open Challenges**|Kim N. Nolle et.al.|[2511.15652](http://arxiv.org/abs/2511.15652)|null|
 |**2025-11-19**|**Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2511.15597](http://arxiv.org/abs/2511.15597)|null|
@@ -1240,7 +1240,7 @@
 |**2019-09-18**|**A*3D Dataset: Towards Autonomous Driving in Challenging Environments**|Quang-Hieu Pham et.al.|[1909.07541](http://arxiv.org/abs/1909.07541)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 
 ## Map
 
@@ -1421,7 +1421,7 @@
 |**2015-06-15**|**Maximum Likelihood Fusion of Stochastic Maps**|Brandon Jones et.al.|[1303.6170](http://arxiv.org/abs/1303.6170)|null|
 |**2008-03-13**|**Quantum Reference Frames and the Classification of Rotationally-Invariant Maps**|J. -C. Boileau et.al.|[0709.0142](http://arxiv.org/abs/0709.0142)|null|
 
-<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 
 ## Non-rigid Registration
 
@@ -1475,7 +1475,7 @@
 |**2013-04-15**|**Local Structure Matching Driven by Joint-Saliency-Structure Adaptive Kernel Regression**|Binjie Qin et.al.|[1302.0494](http://arxiv.org/abs/1302.0494)|null|
 |**2011-04-22**|**A Meshless Method for Variational Nonrigid 2-D Shape Registration**|Wei Liu et.al.|[1104.4168](http://arxiv.org/abs/1104.4168)|null|
 
-<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 
 ## MoE
 
@@ -1861,7 +1861,7 @@
 |**2023-04-25**|**Pipeline MoE: A Flexible MoE Implementation with Pipeline Parallelism**|Xin Chen et.al.|[2304.11414](http://arxiv.org/abs/2304.11414)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|**[link](https://github.com/deepseek-ai/DeepSeek-VL2)**|
 
-<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 
 ## Mamba
 
@@ -1881,8 +1881,8 @@
 |**2025-11-20**|**Simba: Towards High-Fidelity and Geometrically-Consistent Point Cloud Completion via Transformation Diffusion**|Lirui Zhang et.al.|[2511.16161](http://arxiv.org/abs/2511.16161)|null|
 |**2025-11-20**|**How Noise Benefits AI-generated Image Detection**|Jiazhen Yan et.al.|[2511.16136](http://arxiv.org/abs/2511.16136)|null|
 |**2025-11-20**|**Decoupling Complexity from Scale in Latent Diffusion Model**|Tianxiong Zhong et.al.|[2511.16117](http://arxiv.org/abs/2511.16117)|null|
-|**2025-11-20**|**Parallelizable Complex Neural Dynamics Models for PMSM Temperature Estimation with Hardware Acceleration**|Xinyuan Liao et.al.|[2511.16093](http://arxiv.org/abs/2511.16093)|**[link](https://github.com/XinyuanLiao/ComplexNDM)**|
-|**2025-11-20**|**A Hybrid Proactive And Predictive Framework For Edge Cloud Resource Management**|Hrikshesh Kumar et.al.|[2511.16075](http://arxiv.org/abs/2511.16075)|**[link](https://github.com/Anshul-Gupta-1410/Design-Project)**|
+|**2025-11-20**|**Parallelizable Complex Neural Dynamics Models for PMSM Temperature Estimation with Hardware Acceleration**|Xinyuan Liao et.al.|[2511.16093](http://arxiv.org/abs/2511.16093)|null|
+|**2025-11-20**|**A Hybrid Proactive And Predictive Framework For Edge Cloud Resource Management**|Hrikshesh Kumar et.al.|[2511.16075](http://arxiv.org/abs/2511.16075)|null|
 |**2025-11-20**|**High-Throughput Exploration of Refractory High-Entropy Alloys for Strength and Plasticity**|Stephen A. Giles et.al.|[2511.16057](http://arxiv.org/abs/2511.16057)|null|
 |**2025-11-20**|**Exploiting Inter-Sample Information for Long-tailed Out-of-Distribution Detection**|Nimeshika Udayangani et.al.|[2511.16015](http://arxiv.org/abs/2511.16015)|null|
 |**2025-11-20**|**Synergizing Deconfounding and Temporal Generalization For Time-series Counterfactual Outcome Estimation**|Yiling Liu et.al.|[2511.16006](http://arxiv.org/abs/2511.16006)|null|
@@ -2153,14 +2153,14 @@
 |**2024-11-26**|**PointMamba: A Simple State Space Model for Point Cloud Analysis**|Dingkang Liang et.al.|[2402.10739](http://arxiv.org/abs/2402.10739)|null|
 |**2024-11-15**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|null|
 
-<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 
 ## HSI Classification
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-11-20**|**SpectralTrain: A Universal Framework for Hyperspectral Image Classification**|Meihua Zhou et.al.|[2511.16084](http://arxiv.org/abs/2511.16084)|**[link](https://github.com/mh-zhou/SpectralTrain)**|
-|**2025-11-19**|**Hyperspectral Image Classification using Spectral-Spatial Mixer Network**|Mohammed Q. Alkhatib et.al.|[2511.15692](http://arxiv.org/abs/2511.15692)|**[link](https://github.com/mqalkhatib/SS-MixNet)**|
+|**2025-11-20**|**SpectralTrain: A Universal Framework for Hyperspectral Image Classification**|Meihua Zhou et.al.|[2511.16084](http://arxiv.org/abs/2511.16084)|null|
+|**2025-11-19**|**Hyperspectral Image Classification using Spectral-Spatial Mixer Network**|Mohammed Q. Alkhatib et.al.|[2511.15692](http://arxiv.org/abs/2511.15692)|null|
 |**2025-11-19**|**Multimodal Optical Imaging Platform for Quantitative Burn Assessment**|Nathaniel Hanson et.al.|[2511.15509](http://arxiv.org/abs/2511.15509)|null|
 |**2025-11-19**|**Hyperspectral Super-Resolution with Inter-Image Variability via Degradation-based Low-Rank and Residual Fusion Method**|Yue Wen et.al.|[2511.15052](http://arxiv.org/abs/2511.15052)|null|
 |**2025-11-17**|**Human-centric Maintenance Process Through Integration of AI, Speech, and AR**|Parul Khanna et.al.|[2511.13918](http://arxiv.org/abs/2511.13918)|null|
@@ -2244,5 +2244,5 @@
 |**2016-06-17**|**Combining multiscale features for classification of hyperspectral images: a sequence based kernel approach**|Yanwei Cui et.al.|[1606.04985](http://arxiv.org/abs/1606.04985)|null|
 |**2015-04-30**|**Robust hyperspectral image classification with rejection fields**|Filipe Condessa et.al.|[1504.07918](http://arxiv.org/abs/1504.07918)|null|
 
-<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 

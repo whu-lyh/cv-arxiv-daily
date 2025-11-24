@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.23
+## Updated on 2025.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -413,7 +413,7 @@ layout: default
 |**2025-11-19**|**Think Visually, Reason Textually: Vision-Language Synergy in ARC**|Beichen Zhang et.al.|[2511.15703](http://arxiv.org/abs/2511.15703)|null|
 |**2025-11-19**|**ChartEditor: A Reinforcement Learning Framework for Robust Chart Editing**|Liangyu Chen et.al.|[2511.15266](http://arxiv.org/abs/2511.15266)|null|
 |**2025-11-19**|**VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation**|Tairan He et.al.|[2511.15200](http://arxiv.org/abs/2511.15200)|null|
-|**2025-11-19**|**Gaussian Blending: Rethinking Alpha Blending in 3D Gaussian Splatting**|Junseo Koo et.al.|[2511.15102](http://arxiv.org/abs/2511.15102)|null|
+|**2025-11-19**|**Gaussian Blending: Rethinking Alpha Blending in 3D Gaussian Splatting**|Junseo Koo et.al.|[2511.15102](http://arxiv.org/abs/2511.15102)|**[link](https://github.com/1207koo/gaussian_blending)**|
 |**2025-11-19**|**BokehFlow: Depth-Free Controllable Bokeh Rendering via Flow Matching**|Yachuan Huang et.al.|[2511.15066](http://arxiv.org/abs/2511.15066)|null|
 |**2025-11-19**|**Evaluating Multimodal Large Language Models on Vertically Written Japanese Text**|Keito Sasagawa et.al.|[2511.15059](http://arxiv.org/abs/2511.15059)|null|
 |**2025-11-18**|**X-WIN: Building Chest Radiograph World Model via Predictive Sensing**|Zefan Yang et.al.|[2511.14918](http://arxiv.org/abs/2511.14918)|null|
@@ -769,7 +769,7 @@ layout: default
 |**2025-11-20**|**Flow-Aided Flight Through Dynamic Clutters From Point To Motion**|Bowen Xu et.al.|[2511.16372](http://arxiv.org/abs/2511.16372)|null|
 |**2025-11-20**|**DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks**|Vincenzo Pomponi et.al.|[2511.16223](http://arxiv.org/abs/2511.16223)|null|
 |**2025-11-20**|**AskDB: An LLM Agent for Natural Language Interaction with Relational Databases**|Xuan-Quang Phan et.al.|[2511.16131](http://arxiv.org/abs/2511.16131)|null|
-|**2025-11-20**|**LiSTAR: Ray-Centric World Models for 4D LiDAR Sequences in Autonomous Driving**|Pei Liu et.al.|[2511.16049](http://arxiv.org/abs/2511.16049)|null|
+|**2025-11-20**|**LiSTAR: Ray-Centric World Models for 4D LiDAR Sequences in Autonomous Driving**|Pei Liu et.al.|[2511.16049](http://arxiv.org/abs/2511.16049)|**[link](https://github.com/ocean-luna/LiSTAR)**|
 |**2025-11-19**|**RE for AI in Practice: Managing Data Annotation Requirements for AI Autonomous Driving Systems**|Hina Saeeda et.al.|[2511.15859](http://arxiv.org/abs/2511.15859)|null|
 |**2025-11-19**|**Continual Reinforcement Learning for Cyber-Physical Systems: Lessons Learned and Open Challenges**|Kim N. Nolle et.al.|[2511.15652](http://arxiv.org/abs/2511.15652)|null|
 |**2025-11-19**|**Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2511.15597](http://arxiv.org/abs/2511.15597)|null|
@@ -1853,8 +1853,8 @@ layout: default
 |**2025-11-20**|**Simba: Towards High-Fidelity and Geometrically-Consistent Point Cloud Completion via Transformation Diffusion**|Lirui Zhang et.al.|[2511.16161](http://arxiv.org/abs/2511.16161)|null|
 |**2025-11-20**|**How Noise Benefits AI-generated Image Detection**|Jiazhen Yan et.al.|[2511.16136](http://arxiv.org/abs/2511.16136)|null|
 |**2025-11-20**|**Decoupling Complexity from Scale in Latent Diffusion Model**|Tianxiong Zhong et.al.|[2511.16117](http://arxiv.org/abs/2511.16117)|null|
-|**2025-11-20**|**Parallelizable Complex Neural Dynamics Models for PMSM Temperature Estimation with Hardware Acceleration**|Xinyuan Liao et.al.|[2511.16093](http://arxiv.org/abs/2511.16093)|**[link](https://github.com/XinyuanLiao/ComplexNDM)**|
-|**2025-11-20**|**A Hybrid Proactive And Predictive Framework For Edge Cloud Resource Management**|Hrikshesh Kumar et.al.|[2511.16075](http://arxiv.org/abs/2511.16075)|**[link](https://github.com/Anshul-Gupta-1410/Design-Project)**|
+|**2025-11-20**|**Parallelizable Complex Neural Dynamics Models for PMSM Temperature Estimation with Hardware Acceleration**|Xinyuan Liao et.al.|[2511.16093](http://arxiv.org/abs/2511.16093)|null|
+|**2025-11-20**|**A Hybrid Proactive And Predictive Framework For Edge Cloud Resource Management**|Hrikshesh Kumar et.al.|[2511.16075](http://arxiv.org/abs/2511.16075)|null|
 |**2025-11-20**|**High-Throughput Exploration of Refractory High-Entropy Alloys for Strength and Plasticity**|Stephen A. Giles et.al.|[2511.16057](http://arxiv.org/abs/2511.16057)|null|
 |**2025-11-20**|**Exploiting Inter-Sample Information for Long-tailed Out-of-Distribution Detection**|Nimeshika Udayangani et.al.|[2511.16015](http://arxiv.org/abs/2511.16015)|null|
 |**2025-11-20**|**Synergizing Deconfounding and Temporal Generalization For Time-series Counterfactual Outcome Estimation**|Yiling Liu et.al.|[2511.16006](http://arxiv.org/abs/2511.16006)|null|
@@ -2129,8 +2129,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-20**|**SpectralTrain: A Universal Framework for Hyperspectral Image Classification**|Meihua Zhou et.al.|[2511.16084](http://arxiv.org/abs/2511.16084)|**[link](https://github.com/mh-zhou/SpectralTrain)**|
-|**2025-11-19**|**Hyperspectral Image Classification using Spectral-Spatial Mixer Network**|Mohammed Q. Alkhatib et.al.|[2511.15692](http://arxiv.org/abs/2511.15692)|**[link](https://github.com/mqalkhatib/SS-MixNet)**|
+|**2025-11-20**|**SpectralTrain: A Universal Framework for Hyperspectral Image Classification**|Meihua Zhou et.al.|[2511.16084](http://arxiv.org/abs/2511.16084)|null|
+|**2025-11-19**|**Hyperspectral Image Classification using Spectral-Spatial Mixer Network**|Mohammed Q. Alkhatib et.al.|[2511.15692](http://arxiv.org/abs/2511.15692)|null|
 |**2025-11-19**|**Multimodal Optical Imaging Platform for Quantitative Burn Assessment**|Nathaniel Hanson et.al.|[2511.15509](http://arxiv.org/abs/2511.15509)|null|
 |**2025-11-19**|**Hyperspectral Super-Resolution with Inter-Image Variability via Degradation-based Low-Rank and Residual Fusion Method**|Yue Wen et.al.|[2511.15052](http://arxiv.org/abs/2511.15052)|null|
 |**2025-11-17**|**Human-centric Maintenance Process Through Integration of AI, Speech, and AR**|Parul Khanna et.al.|[2511.13918](http://arxiv.org/abs/2511.13918)|null|
