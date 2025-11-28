@@ -1465,10 +1465,10 @@
 |**2025-11-26**|**Scaling limits of critical FK-decorated random planar maps with $q=4$**|William Da Silva et.al.|[2511.21480](http://arxiv.org/abs/2511.21480)|null|
 |**2025-11-26**|**$\texttt{CRLS}$ : Convolutional Regularized Least Squares Framework for Reduced Order Modeling of Transonic Flows**|Muhammad Bilal et.al.|[2511.21425](http://arxiv.org/abs/2511.21425)|null|
 |**2025-11-26**|**Bombyx: OpenCilk Compilation for FPGA Hardware Acceleration**|Mohamed Shahawy et.al.|[2511.21346](http://arxiv.org/abs/2511.21346)|null|
-|**2025-11-26**|**Discovery and recovery of crystalline materials with property-conditioned transformers**|Cyprien Bone et.al.|[2511.21299](http://arxiv.org/abs/2511.21299)|null|
+|**2025-11-26**|**Discovery and recovery of crystalline materials with property-conditioned transformers**|Cyprien Bone et.al.|[2511.21299](http://arxiv.org/abs/2511.21299)|**[link](https://github.com/C-Bone-UCL/CrystaLLM-pi)**|
 |**2025-11-26**|**Rigidity of bounded-type Siegel polynomials**|Kostiantyn Drach et.al.|[2511.21246](http://arxiv.org/abs/2511.21246)|null|
 |**2025-11-26**|**When barchan dunes move over craters**|Paulo Vitor Ribeiro Plácido et.al.|[2511.21177](http://arxiv.org/abs/2511.21177)|null|
-|**2025-11-26**|**Referring Video Object Segmentation with Cross-Modality Proxy Queries**|Baoli Sun et.al.|[2511.21139](http://arxiv.org/abs/2511.21139)|null|
+|**2025-11-26**|**Referring Video Object Segmentation with Cross-Modality Proxy Queries**|Baoli Sun et.al.|[2511.21139](http://arxiv.org/abs/2511.21139)|**[link](https://github.com/Sunbaoli/ProxyFormer)**|
 |**2025-11-26**|**MNM : Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations**|Seunghun Baek et.al.|[2511.21092](http://arxiv.org/abs/2511.21092)|null|
 |**2025-11-26**|**Witness wedges in fidelity-deviation plane: separating teleportation advantage and Bell-inequality violation**|Kyoungho Cho et.al.|[2511.21079](http://arxiv.org/abs/2511.21079)|null|
 |**2025-11-25**|**Exploring Time-Step Size in Reinforcement Learning for Sepsis Treatment**|Yingchuan Sun et.al.|[2511.20913](http://arxiv.org/abs/2511.20913)|null|
