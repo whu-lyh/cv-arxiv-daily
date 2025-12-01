@@ -375,7 +375,7 @@
 |**2025-11-19**|**Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2511.15597](http://arxiv.org/abs/2511.15597)|null|
 |**2025-11-19**|**Text2Loc++: Generalizing 3D Point Cloud Localization from Natural Language**|Yan Xia et.al.|[2511.15308](http://arxiv.org/abs/2511.15308)|null|
 |**2025-11-18**|**NeuralBoneReg: A Novel Self-Supervised Method for Robust and Accurate Multi-Modal Bone Surface Registration**|Luohong Wu et.al.|[2511.14286](http://arxiv.org/abs/2511.14286)|null|
-|**2025-11-17**|**Part-X-MLLM: Part-aware 3D Multimodal Large Language Model**|Chunshi Wang et.al.|[2511.13647](http://arxiv.org/abs/2511.13647)|null|
+|**2025-11-17**|**Part-X-MLLM: Part-aware 3D Multimodal Large Language Model**|Chunshi Wang et.al.|[2511.13647](http://arxiv.org/abs/2511.13647)|**[link](https://github.com/AiEson/Part-X-MLLM)**|
 |**2025-11-18**|**ArtiWorld: LLM-Driven Articulation of 3D Objects in Scenes**|Yixuan Yang et.al.|[2511.12977](http://arxiv.org/abs/2511.12977)|null|
 |**2025-11-12**|**Task-Aware 3D Affordance Segmentation via 2D Guidance and Geometric Refinement**|Lian He et.al.|[2511.11702](http://arxiv.org/abs/2511.11702)|null|
 |**2025-11-18**|**LoG3D: Ultra-High-Resolution 3D Shape Modeling via Local-to-Global Partitioning**|Xinran Yang et.al.|[2511.10040](http://arxiv.org/abs/2511.10040)|null|
@@ -393,9 +393,9 @@
 |**2025-11-07**|**Implicit reconstruction from point cloud: an adaptive level-set-based semi-Lagrangian method**|Silvia Preda et.al.|[2511.05145](http://arxiv.org/abs/2511.05145)|null|
 |**2025-11-04**|**Curvature of high-dimensional data**|Jiayi Chen et.al.|[2511.02873](http://arxiv.org/abs/2511.02873)|null|
 |**2025-11-02**|**GauDP: Reinventing Multi-Agent Collaboration through Gaussian-Image Synergy in Diffusion Policies**|Ziye Wang et.al.|[2511.00998](http://arxiv.org/abs/2511.00998)|null|
-|**2025-11-02**|**Modeling Microenvironment Trajectories on Spatial Transcriptomics with NicheFlow**|Kristiyan Sakalyan et.al.|[2511.00977](http://arxiv.org/abs/2511.00977)|null|
+|**2025-11-02**|**Modeling Microenvironment Trajectories on Spatial Transcriptomics with NicheFlow**|Kristiyan Sakalyan et.al.|[2511.00977](http://arxiv.org/abs/2511.00977)|**[link](https://github.com/kristiyansakalyan/nicheflow)**|
 |**2025-11-04**|**Towards classification-based representation learning for place recognition on LiDAR scans**|Maksim Konoplia et.al.|[2511.00738](http://arxiv.org/abs/2511.00738)|null|
-|**2025-11-01**|**Multi-Mapcher: Loop Closure Detection-Free Heterogeneous LiDAR Multi-Session SLAM Leveraging Outlier-Robust Registration for Autonomous Vehicles**|Hyungtae Lim et.al.|[2511.00635](http://arxiv.org/abs/2511.00635)|null|
+|**2025-11-01**|**Multi-Mapcher: Loop Closure Detection-Free Heterogeneous LiDAR Multi-Session SLAM Leveraging Outlier-Robust Registration for Autonomous Vehicles**|Hyungtae Lim et.al.|[2511.00635](http://arxiv.org/abs/2511.00635)|**[link](https://github.com/url-kaist/multi-mapcher)**|
 |**2025-10-31**|**MambaNetLK: Enhancing Colonoscopy Point Cloud Registration with Mamba**|Linzhe Jiang et.al.|[2511.00260](http://arxiv.org/abs/2511.00260)|null|
 |**2025-10-29**|**Figuring Out Gas & Galaxies In Enzo (FOGGIE) XI: Circumgalactic O VI Emission Traces Clumpy Inflowing Recycled Gas**|Cassandra Lochhaas et.al.|[2510.25844](http://arxiv.org/abs/2510.25844)|null|
 |**2025-10-02**|**LangGrasp: Leveraging Fine-Tuned LLMs for Language Interactive Robot Grasping with Ambiguous Instructions**|Yunhan Lin et.al.|[2510.02104](http://arxiv.org/abs/2510.02104)|null|
@@ -1260,7 +1260,7 @@
 |**2025-10-07**|**ALISE: Annotation-Free LiDAR Instance Segmentation for Autonomous Driving**|Yongxuan Lyu et.al.|[2510.05752](http://arxiv.org/abs/2510.05752)|null|
 |**2025-10-07**|**Precise and Efficient Collision Prediction under Uncertainty in Autonomous Driving**|Marc Kaufeld et.al.|[2510.05729](http://arxiv.org/abs/2510.05729)|null|
 |**2025-10-06**|**Comparative Analysis of YOLOv5, Faster R-CNN, SSD, and RetinaNet for Motorbike Detection in Kigali Autonomous Driving Context**|Ngeyen Yinkfu et.al.|[2510.04912](http://arxiv.org/abs/2510.04912)|null|
-|**2025-10-08**|**Progressive Gaussian Transformer with Anisotropy-aware Sampling for Open Vocabulary Occupancy Prediction**|Chi Yan et.al.|[2510.04759](http://arxiv.org/abs/2510.04759)|null|
+|**2025-10-08**|**Progressive Gaussian Transformer with Anisotropy-aware Sampling for Open Vocabulary Occupancy Prediction**|Chi Yan et.al.|[2510.04759](http://arxiv.org/abs/2510.04759)|**[link](https://github.com/yanchi-3dv/PG-Occ)**|
 |**2025-10-05**|**Diffusion^2: Dual Diffusion Model with Uncertainty-Aware Adaptive Noise for Momentary Trajectory Prediction**|Yuhao Luo et.al.|[2510.04365](http://arxiv.org/abs/2510.04365)|null|
 |**2025-10-04**|**From Filters to VLMs: Benchmarking Defogging Methods through Object Detection and Segmentation Performance**|Ardalan Aryashad et.al.|[2510.03906](http://arxiv.org/abs/2510.03906)|null|
 |**2025-10-04**|**Referring Expression Comprehension for Small Objects**|Kanoko Goto et.al.|[2510.03701](http://arxiv.org/abs/2510.03701)|null|
@@ -1838,7 +1838,7 @@
 |**2025-11-13**|**Generalizable Slum Detection from Satellite Imagery with Mixture-of-Experts**|Sumin Lee et.al.|[2511.10300](http://arxiv.org/abs/2511.10300)|null|
 |**2025-11-13**|**RobIA: Robust Instance-aware Continual Test-time Adaptation for Deep Stereo**|Jueun Ko et.al.|[2511.10107](http://arxiv.org/abs/2511.10107)|null|
 |**2025-11-13**|**BuddyMoE: Exploiting Expert Redundancy to Accelerate Memory-Constrained Mixture-of-Experts Inference**|Yun Wang et.al.|[2511.10054](http://arxiv.org/abs/2511.10054)|null|
-|**2025-11-14**|**HI-TransPA: Hearing Impairments Translation Personal Assistant**|Zhiming Ma et.al.|[2511.09915](http://arxiv.org/abs/2511.09915)|null|
+|**2025-11-14**|**HI-TransPA: Hearing Impairments Translation Personal Assistant**|Zhiming Ma et.al.|[2511.09915](http://arxiv.org/abs/2511.09915)|**[link](https://github.com/JimmyMa99/HI-TransPA)**|
 |**2025-11-13**|**ConSurv: Multimodal Continual Learning for Survival Analysis**|Dianzhi Yu et.al.|[2511.09853](http://arxiv.org/abs/2511.09853)|null|
 |**2025-11-11**|**Let the Experts Speak: Improving Survival Prediction & Calibration via Mixture-of-Experts Heads**|Todd Morrill et.al.|[2511.09567](http://arxiv.org/abs/2511.09567)|null|
 |**2025-11-12**|**SMF-VO: Direct Ego-Motion Estimation via Sparse Motion Fields**|Sangheon Yang et.al.|[2511.09072](http://arxiv.org/abs/2511.09072)|null|
@@ -2042,8 +2042,8 @@
 |**2025-09-29**|**LLaDA-MoE: A Sparse MoE Diffusion Language Model**|Fengqi Zhu et.al.|[2509.24389](http://arxiv.org/abs/2509.24389)|null|
 |**2025-09-29**|**Uni-NTFM: A Unified Foundation Model for EEG Signal Representation Learning**|Zhisheng Chen et.al.|[2509.24222](http://arxiv.org/abs/2509.24222)|null|
 |**2025-09-28**|**HunyuanImage 3.0 Technical Report**|Siyu Cao et.al.|[2509.23951](http://arxiv.org/abs/2509.23951)|null|
-|**2025-09-28**|**Beyond Benchmarks: Understanding Mixture-of-Experts Models through Internal Mechanisms**|Jiahao Ying et.al.|[2509.23933](http://arxiv.org/abs/2509.23933)|null|
-|**2025-09-28**|**Bayesian Mixture-of-Experts: Towards Making LLMs Know What They Don't Know**|Albus Yizhuo Li et.al.|[2509.23830](http://arxiv.org/abs/2509.23830)|null|
+|**2025-09-28**|**Beyond Benchmarks: Understanding Mixture-of-Experts Models through Internal Mechanisms**|Jiahao Ying et.al.|[2509.23933](http://arxiv.org/abs/2509.23933)|**[link](https://github.com/yingjiahao14/MoE-MUI)**|
+|**2025-09-28**|**Bayesian Mixture-of-Experts: Towards Making LLMs Know What They Don't Know**|Albus Yizhuo Li et.al.|[2509.23830](http://arxiv.org/abs/2509.23830)|**[link](https://github.com/albus-li/msc-thesis)**|
 |**2025-09-28**|**A Modality-Tailored Graph Modeling Framework for Urban Region Representation via Contrastive Learning**|Yaya Zhao et.al.|[2509.23772](http://arxiv.org/abs/2509.23772)|null|
 |**2025-09-28**|**Towards a Comprehensive Scaling Law of Mixture-of-Experts**|Guoliang Zhao et.al.|[2509.23678](http://arxiv.org/abs/2509.23678)|null|
 |**2025-09-28**|**PreScope: Unleashing the Power of Prefetching for Resource-Constrained MoE Inference**|Enda Yu et.al.|[2509.23638](http://arxiv.org/abs/2509.23638)|null|
@@ -2566,7 +2566,7 @@
 |**2025-11-19**|**Hyperspectral Super-Resolution with Inter-Image Variability via Degradation-based Low-Rank and Residual Fusion Method**|Yue Wen et.al.|[2511.15052](http://arxiv.org/abs/2511.15052)|null|
 |**2025-11-17**|**Human-centric Maintenance Process Through Integration of AI, Speech, and AR**|Parul Khanna et.al.|[2511.13918](http://arxiv.org/abs/2511.13918)|null|
 |**2025-11-17**|**SpectralAdapt: Semi-Supervised Domain Adaptation with Spectral Priors for Human-Centered Hyperspectral Image Reconstruction**|Yufei Wen et.al.|[2511.13020](http://arxiv.org/abs/2511.13020)|null|
-|**2025-11-15**|**CLAReSNet: When Convolution Meets Latent Attention for Hyperspectral Image Classification**|Asmit Bandyopadhyay et.al.|[2511.12346](http://arxiv.org/abs/2511.12346)|null|
+|**2025-11-15**|**CLAReSNet: When Convolution Meets Latent Attention for Hyperspectral Image Classification**|Asmit Bandyopadhyay et.al.|[2511.12346](http://arxiv.org/abs/2511.12346)|**[link](https://github.com/Bandyopadhyay-Asmit/CLAReSNet)**|
 |**2025-11-15**|**Multimodal RGB-HSI Feature Fusion with Patient-Aware Incremental Heuristic Meta-Learning for Oral Lesion Classification**|Rupam Mukherjee et.al.|[2511.12268](http://arxiv.org/abs/2511.12268)|null|
 |**2025-11-13**|**Exposing DeepFakes via Hyperspectral Domain Mapping**|Aditya Mehta et.al.|[2511.11732](http://arxiv.org/abs/2511.11732)|null|
 |**2025-11-13**|**Perceive, Act and Correct: Confidence Is Not Enough for Hyperspectral Classification**|Muzhou Yang et.al.|[2511.10068](http://arxiv.org/abs/2511.10068)|null|
