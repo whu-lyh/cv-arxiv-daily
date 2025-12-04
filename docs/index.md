@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.03
+## Updated on 2025.12.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-02**|**MagicQuillV2: Precise and Interactive Image Editing with Layered Visual Cues**|Zichen Liu et.al.|[2512.03046](http://arxiv.org/abs/2512.03046)|null|
+|**2025-12-02**|**MagicQuillV2: Precise and Interactive Image Editing with Layered Visual Cues**|Zichen Liu et.al.|[2512.03046](http://arxiv.org/abs/2512.03046)|**[link](https://github.com/zliucz/MagicQuillV2)**|
 |**2025-12-02**|**Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation**|Zeqi Xiao et.al.|[2512.03040](http://arxiv.org/abs/2512.03040)|null|
 |**2025-12-02**|**Stability of knot equivalence at low regularity, and symmetric critical knots for the Möbius energy**|Simon Blatt et.al.|[2512.02998](http://arxiv.org/abs/2512.02998)|null|
 |**2025-12-02**|**MIRI spectrophotometry of GN-z11: Detection and nature of an optical red continuum component**|A. Crespo Gómez et.al.|[2512.02997](http://arxiv.org/abs/2512.02997)|null|
@@ -1620,8 +1620,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2009-10-21**|**Quantum Error Correction Beyond Completely Positive Maps**|A. Shabani et.al.|[quant-ph/0610028](http://arxiv.org/abs/quant-ph/0610028)|null|
-|**2025-12-02**|**CAMEO: Correspondence-Attention Alignment for Multi-View Diffusion Models**|Minkyung Kwon et.al.|[2512.03045](http://arxiv.org/abs/2512.03045)|null|
-|**2025-12-02**|**U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences**|Xiang Xu et.al.|[2512.02982](http://arxiv.org/abs/2512.02982)|null|
+|**2025-12-02**|**CAMEO: Correspondence-Attention Alignment for Multi-View Diffusion Models**|Minkyung Kwon et.al.|[2512.03045](http://arxiv.org/abs/2512.03045)|**[link](https://github.com/cvlab-kaist/CAMEO)**|
+|**2025-12-02**|**U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences**|Xiang Xu et.al.|[2512.02982](http://arxiv.org/abs/2512.02982)|**[link](https://github.com/Vinith6/Vinith6-DF2512499CECA02982841F47E2F4BCFD)**|
 |**2025-12-02**|**Unipotent quantum coordinate ring and minuscule prefundamental representations: twisted case**|Il-Seung Jang et.al.|[2512.02946](http://arxiv.org/abs/2512.02946)|null|
 |**2025-12-02**|**MRD: Multi-resolution Retrieval-Detection Fusion for High-Resolution Image Understanding**|Fan Yang et.al.|[2512.02906](http://arxiv.org/abs/2512.02906)|null|
 |**2025-12-02**|**FAIRY2I: Universal Extremely-Low Bit QAT framework via Widely-Linear Representation and Phase-Aware Quantization**|Feiyu Wang et.al.|[2512.02901](http://arxiv.org/abs/2512.02901)|null|
