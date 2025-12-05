@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.04
+## Updated on 2025.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -26,7 +26,7 @@ layout: default
 |**2025-12-03**|**Global-Local Aware Scene Text Editing**|Fuxiang Yang et.al.|[2512.03574](http://arxiv.org/abs/2512.03574)|null|
 |**2025-12-03**|**M3DR: Towards Universal Multilingual Multimodal Document Retrieval**|Adithya S Kolavi et.al.|[2512.03514](http://arxiv.org/abs/2512.03514)|null|
 |**2025-12-03**|**Think Before You Drive: World Model-Inspired Multimodal Grounding for Autonomous Vehicles**|Haicheng Liao et.al.|[2512.03454](http://arxiv.org/abs/2512.03454)|null|
-|**2025-12-03**|**Multi-Aspect Knowledge-Enhanced Medical Vision-Language Pretraining with Multi-Agent Data Generation**|Xieji Li et.al.|[2512.03445](http://arxiv.org/abs/2512.03445)|null|
+|**2025-12-03**|**Multi-Aspect Knowledge-Enhanced Medical Vision-Language Pretraining with Multi-Agent Data Generation**|Xieji Li et.al.|[2512.03445](http://arxiv.org/abs/2512.03445)|**[link](https://github.com/XiejiLi/MAGEN-O-MAKE)**|
 |**2025-12-03**|**Multimodal Reinforcement Learning with Agentic Verifier for AI Agents**|Reuben Tan et.al.|[2512.03438](http://arxiv.org/abs/2512.03438)|null|
 |**2025-12-03**|**Building a Radio AGN Sample from Cosmic Morning -- The Radio High-Redshift Quasar Catalog (RHzQCat): I. Catalog from SDSS Quasars and Radio Surveys at $z > 3$**|Yingkang Zhang et.al.|[2512.03415](http://arxiv.org/abs/2512.03415)|null|
 |**2025-12-02**|**MagicQuillV2: Precise and Interactive Image Editing with Layered Visual Cues**|Zichen Liu et.al.|[2512.03046](http://arxiv.org/abs/2512.03046)|**[link](https://github.com/zliucz/MagicQuillV2)**|
