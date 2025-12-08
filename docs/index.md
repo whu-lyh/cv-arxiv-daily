@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.07
+## Updated on 2025.12.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -630,7 +630,7 @@ layout: default
 |**2025-12-04**|**Efficient Spatially-Variant Convolution via Differentiable Sparse Kernel Complex**|Zhizhen Wu et.al.|[2512.04556](http://arxiv.org/abs/2512.04556)|null|
 |**2025-12-04**|**Gaussian Entropy Fields: Driving Adaptive Sparsity in 3D Gaussian Optimization**|Hong Kuang et.al.|[2512.04542](http://arxiv.org/abs/2512.04542)|null|
 |**2025-12-04**|**Refaçade: Editing Object with Given Reference Texture**|Youze Huang et.al.|[2512.04534](http://arxiv.org/abs/2512.04534)|null|
-|**2025-12-04**|**UTrice: Unifying Primitives in Differentiable Ray Tracing and Rasterization via Triangles for Particle-Based 3D Scenes**|Changhe Liu et.al.|[2512.04421](http://arxiv.org/abs/2512.04421)|null|
+|**2025-12-04**|**UTrice: Unifying Primitives in Differentiable Ray Tracing and Rasterization via Triangles for Particle-Based 3D Scenes**|Changhe Liu et.al.|[2512.04421](http://arxiv.org/abs/2512.04421)|**[link](https://github.com/waizui/UTrice)**|
 |**2025-12-03**|**SyncTrack4D: Cross-Video Motion Alignment and Video Synchronization for Multi-Video 4D Gaussian Splatting**|Yonghan Lee et.al.|[2512.04315](http://arxiv.org/abs/2512.04315)|null|
 |**2025-12-03**|**Mind-to-Face: Neural-Driven Photorealistic Avatar Synthesis via EEG Decoding**|Haolin Xiong et.al.|[2512.04313](http://arxiv.org/abs/2512.04313)|null|
 |**2025-12-03**|**Machine Learning Pipeline for Denoising Low Signal-To-Noise Ratio and Out-of-Distribution Transmission Electron Microscopy Datasets**|Brian Lee et.al.|[2512.04045](http://arxiv.org/abs/2512.04045)|null|
@@ -1127,7 +1127,7 @@ layout: default
 |**2025-12-04**|**E3AD: An Emotion-Aware Vision-Language-Action Model for Human-Centric End-to-End Autonomous Driving**|Yihong Tang et.al.|[2512.04733](http://arxiv.org/abs/2512.04733)|null|
 |**2025-12-04**|**Efficient Safety Verification of Autonomous Vehicles with Neural Network Operator**|Lingxiang Fan et.al.|[2512.04557](http://arxiv.org/abs/2512.04557)|null|
 |**2025-12-04**|**dVLM-AD: Enhance Diffusion Vision-Language-Model for Driving via Controllable Reasoning**|Yingzi Ma et.al.|[2512.04459](http://arxiv.org/abs/2512.04459)|null|
-|**2025-12-04**|**MindDrive: An All-in-One Framework Bridging World Models and Vision-Language Model for End-to-End Autonomous Driving**|Bin Suna et.al.|[2512.04441](http://arxiv.org/abs/2512.04441)|null|
+|**2025-12-04**|**MindDrive: An All-in-One Framework Bridging World Models and Vision-Language Model for End-to-End Autonomous Driving**|Bin Sun et.al.|[2512.04441](http://arxiv.org/abs/2512.04441)|null|
 |**2025-12-03**|**DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle**|Fangyu Lei et.al.|[2512.04324](http://arxiv.org/abs/2512.04324)|null|
 |**2025-12-03**|**Driving Beyond Privilege: Distilling Dense-Reward Knowledge into Sparse-Reward Policies**|Feeza Khan Khanzada et.al.|[2512.04279](http://arxiv.org/abs/2512.04279)|null|
 |**2025-12-03**|**PINN vs LSTM: A Comparative Study for Steam Temperature Control in Heat Recovery Steam Generators**|Mojtaba Fanoodi et.al.|[2512.04183](http://arxiv.org/abs/2512.04183)|null|
@@ -1727,7 +1727,7 @@ layout: default
 |**2025-12-04**|**TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards**|Mauro Martini et.al.|[2512.04772](http://arxiv.org/abs/2512.04772)|null|
 |**2025-12-04**|**Spectral micro-CT for quantitative analysis of calcification in fibrocartilage**|Vittoria Mazzini et.al.|[2512.04662](http://arxiv.org/abs/2512.04662)|null|
 |**2025-12-04**|**Standard audiogram classification from loudness scaling data using unsupervised, supervised, and explainable machine learning techniques**|Chen Xu et.al.|[2512.04616](http://arxiv.org/abs/2512.04616)|null|
-|**2025-12-04**|**Malicious Image Analysis via Vision-Language Segmentation Fusion: Detection, Element, and Location in One-shot**|Sheng Hang et.al.|[2512.04599](http://arxiv.org/abs/2512.04599)|null|
+|**2025-12-04**|**Malicious Image Analysis via Vision-Language Segmentation Fusion: Detection, Element, and Location in One-shot**|Sheng Hang et.al.|[2512.04599](http://arxiv.org/abs/2512.04599)|**[link](https://github.com/S-Hang23/SA-VLM)**|
 |**2025-12-04**|**Prompt2Craft: Generating Functional Craft Assemblies with LLMs**|Vitor Hideyo Isume et.al.|[2512.04568](http://arxiv.org/abs/2512.04568)|null|
 |**2025-12-04**|**Convergence Dynamics and Scaling Laws in the Dissipative Relativistic Kicked Rotator**|Daniel Borin et.al.|[2512.04471](http://arxiv.org/abs/2512.04471)|null|
 |**2025-12-04**|**MAFNet:Multi-frequency Adaptive Fusion Network for Real-time Stereo Matching**|Ao Xu et.al.|[2512.04358](http://arxiv.org/abs/2512.04358)|null|
