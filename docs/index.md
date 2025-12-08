@@ -1320,7 +1320,7 @@ layout: default
 |**2025-11-14**|**Robust and Efficient Communication in Multi-Agent Reinforcement Learning**|Zejiao Liu et.al.|[2511.11393](http://arxiv.org/abs/2511.11393)|null|
 |**2025-11-14**|**Simulating an Autonomous System in CARLA using ROS 2**|Joseph Abdo et.al.|[2511.11310](http://arxiv.org/abs/2511.11310)|null|
 |**2025-11-14**|**GraphPilot: Grounded Scene Graph Conditioning for Language-Based Autonomous Driving**|Fabian Schmidt et.al.|[2511.11266](http://arxiv.org/abs/2511.11266)|null|
-|**2025-11-14**|**UAVBench: An Open Benchmark Dataset for Autonomous and Agentic AI UAV Systems via LLM-Generated Flight Scenarios**|Mohamed Amine Ferrag et.al.|[2511.11252](http://arxiv.org/abs/2511.11252)|null|
+|**2025-11-14**|**UAVBench: An Open Benchmark Dataset for Autonomous and Agentic AI UAV Systems via LLM-Generated Flight Scenarios**|Mohamed Amine Ferrag et.al.|[2511.11252](http://arxiv.org/abs/2511.11252)|**[link](https://github.com/maferrag/UAVBench)**|
 |**2025-11-14**|**One-to-N Backdoor Attack in 3D Point Cloud via Spherical Trigger**|Dongmei Shan et.al.|[2511.11210](http://arxiv.org/abs/2511.11210)|null|
 |**2025-11-14**|**CATS-V2V: A Real-World Vehicle-to-Vehicle Cooperative Perception Dataset with Complex Adverse Traffic Scenarios**|Hangyu Li et.al.|[2511.11168](http://arxiv.org/abs/2511.11168)|null|
 |**2025-11-14**|**Phys-Liquid: A Physics-Informed Dataset for Estimating 3D Geometry and Volume of Transparent Deformable Liquids**|Ke Ma et.al.|[2511.11077](http://arxiv.org/abs/2511.11077)|null|
@@ -2082,7 +2082,7 @@ layout: default
 |**2025-01-10**|**A Steerable Deep Network for Model-Free Diffusion MRI Registration**|Gianfranco Cortes et.al.|[2501.04794](http://arxiv.org/abs/2501.04794)|null|
 |**2024-10-31**|**UniRiT: Towards Few-Shot Non-Rigid Point Cloud Registration**|Geng Li et.al.|[2410.22909](http://arxiv.org/abs/2410.22909)|null|
 |**2025-06-06**|**SynBench: A Synthetic Benchmark for Non-rigid 3D Point Cloud Registration**|Sara Monji-Azad et.al.|[2409.14474](http://arxiv.org/abs/2409.14474)|null|
-|**2025-10-01**|**SPARE: Symmetrized Point-to-Plane Distance for Robust Non-Rigid 3D Registration**|Yuxin Yao et.al.|[2405.20188](http://arxiv.org/abs/2405.20188)|null|
+|**2025-10-01**|**SPARE: Symmetrized Point-to-Plane Distance for Robust Non-Rigid 3D Registration**|Yuxin Yao et.al.|[2405.20188](http://arxiv.org/abs/2405.20188)|**[link](https://github.com/yaoyx689/spare)**|
 |**2024-04-19**|**DeeperHistReg: Robust Whole Slide Images Registration Framework**|Marek Wodzinski et.al.|[2404.14434](http://arxiv.org/abs/2404.14434)|null|
 |**2024-04-26**|**RegWSI: Whole Slide Image Registration using Combined Deep Feature- and Intensity-Based Methods: Winner of the ACROBAT 2023 Challenge**|Marek Wodzinski et.al.|[2404.13108](http://arxiv.org/abs/2404.13108)|null|
 |**2024-01-05**|**Partition-based Nonrigid Registration for 3D Face Model**|Yuping Ye et.al.|[2401.02607](http://arxiv.org/abs/2401.02607)|null|
@@ -2292,7 +2292,7 @@ layout: default
 |**2025-10-31**|**LongCat-Flash-Omni Technical Report**|Meituan LongCat Team et.al.|[2511.00279](http://arxiv.org/abs/2511.00279)|**[link](https://github.com/meituan-longcat/LongCat-Flash-Omni)**|
 |**2025-10-31**|**Phased DMD: Few-step Distribution Matching Distillation via Score Matching within Subintervals**|Xiangyu Fan et.al.|[2510.27684](http://arxiv.org/abs/2510.27684)|null|
 |**2025-10-31**|**RDMA Point-to-Point Communication for LLM Systems**|Nandor Licker et.al.|[2510.27656](http://arxiv.org/abs/2510.27656)|null|
-|**2025-10-31**|**MoRE: 3D Visual Geometry Reconstruction Meets Mixture-of-Experts**|Jingnan Gao et.al.|[2510.27234](http://arxiv.org/abs/2510.27234)|null|
+|**2025-10-31**|**MoRE: 3D Visual Geometry Reconstruction Meets Mixture-of-Experts**|Jingnan Gao et.al.|[2510.27234](http://arxiv.org/abs/2510.27234)|**[link](https://github.com/G-1nOnly/MoRE_Website)**|
 |**2025-10-31**|**AFM-Net: Advanced Fusing Hierarchical CNN Visual Priors with Global Sequence Modeling for Remote Sensing Image Scene Classification**|Yuanhao Tang et.al.|[2510.27155](http://arxiv.org/abs/2510.27155)|null|
 |**2025-10-30**|**Adaptive Data Flywheel: Applying MAPE Control Loops to AI Agent Improvement**|Aaditya Shukla et.al.|[2510.27051](http://arxiv.org/abs/2510.27051)|null|
 |**2025-10-30**|**Mixture-of-Transformers Learn Faster: A Theoretical Study on Classification Problems**|Hongbo Li et.al.|[2510.27004](http://arxiv.org/abs/2510.27004)|null|
@@ -2665,7 +2665,7 @@ layout: default
 |**2025-12-01**|**PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications**|Yunze Liu et.al.|[2512.01383](http://arxiv.org/abs/2512.01383)|null|
 |**2025-12-01**|**InternVideo-Next: Towards General Video Foundation Models without Video-Text Supervision**|Chenting Wang et.al.|[2512.01342](http://arxiv.org/abs/2512.01342)|null|
 |**2025-11-28**|**Wilson loops, symmetries, and selective bulk-boundary correspondence in higher-order topological insulators**|Suman Aich et.al.|[2511.23471](http://arxiv.org/abs/2511.23471)|null|
-|**2025-11-28**|**Visual Generation Tuning**|Jiahao Guo et.al.|[2511.23469](http://arxiv.org/abs/2511.23469)|null|
+|**2025-11-28**|**Visual Generation Tuning**|Jiahao Guo et.al.|[2511.23469](http://arxiv.org/abs/2511.23469)|**[link](https://github.com/ali-vilab/FreeScale)**|
 |**2025-11-28**|**SmallWorlds: Assessing Dynamics Understanding of World Models in Isolated Environments**|Xinyi Li et.al.|[2511.23465](http://arxiv.org/abs/2511.23465)|null|
 |**2025-11-28**|**Kinetic Mixing and the Phantom Illusion: Axion-Dilaton Quintessence in Light of DESI DR2**|Michael W. Toomey et.al.|[2511.23463](http://arxiv.org/abs/2511.23463)|null|
 |**2025-11-28**|**DisMo: Disentangled Motion Representations for Open-World Motion Transfer**|Thomas Ressler-Antal et.al.|[2511.23428](http://arxiv.org/abs/2511.23428)|null|
@@ -2948,8 +2948,8 @@ layout: default
 |**2025-10-09**|**High-Fidelity Synthetic ECG Generation via Mel-Spectrogram Informed Diffusion Training**|Zhuoyi Huang et.al.|[2510.05492](http://arxiv.org/abs/2510.05492)|null|
 |**2025-10-06**|**The End of Transformers? On Challenging Attention and the Rise of Sub-Quadratic Architectures**|Alexander M. Fichtl et.al.|[2510.05364](http://arxiv.org/abs/2510.05364)|null|
 |**2025-10-06**|**Rivaling Transformers: Multi-Scale Structured State-Space Mixtures for Agentic 6G O-RAN**|Farhad Rezazadeh et.al.|[2510.05255](http://arxiv.org/abs/2510.05255)|null|
-|**2025-10-06**|**On Structured State-Space Duality**|Jerry Yao-Chieh Hu et.al.|[2510.04944](http://arxiv.org/abs/2510.04944)|null|
-|**2025-10-06**|**MCMC for State Space models**|Paul Fearnhead et.al.|[2510.04932](http://arxiv.org/abs/2510.04932)|null|
+|**2025-10-06**|**On Structured State-Space Duality**|Jerry Yao-Chieh Hu et.al.|[2510.04944](http://arxiv.org/abs/2510.04944)|**[link](https://github.com/AlwaysFHao/TiM4Rec)**|
+|**2025-10-06**|**MCMC for State Space models**|Paul Fearnhead et.al.|[2510.04932](http://arxiv.org/abs/2510.04932)|**[link](https://github.com/yanisrem/SSM-Project)**|
 |**2025-10-06**|**Hybrid Architectures for Language Models: Systematic Analysis and Design Insights**|Sangmin Bae et.al.|[2510.04800](http://arxiv.org/abs/2510.04800)|null|
 |**2025-10-06**|**Speak, Edit, Repeat: High-Fidelity Voice Editing and Zero-Shot TTS with Cross-Attentive Mamba**|Baher Mohammad et.al.|[2510.04738](http://arxiv.org/abs/2510.04738)|null|
 |**2025-10-05**|**Wave-PDE Nets: Trainable Wave-Equation Layers as an Alternative to Attention**|Harshil Vejendla et.al.|[2510.04304](http://arxiv.org/abs/2510.04304)|null|

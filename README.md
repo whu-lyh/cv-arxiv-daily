@@ -147,7 +147,7 @@
 |**2025-11-25**|**Wide Area Surface Dosimetry with Conformal Scintillator Array for External Beam Radiotherapy**|Roman Vasyltsiv et.al.|[2511.20472](http://arxiv.org/abs/2511.20472)|null|
 |**2025-11-25**|**Power-Efficient Autonomous Mobile Robots**|Liangkai Liu et.al.|[2511.20467](http://arxiv.org/abs/2511.20467)|null|
 |**2025-11-25**|**STARFlow-V: End-to-End Video Generative Modeling with Normalizing Flow**|Jiatao Gu et.al.|[2511.20462](http://arxiv.org/abs/2511.20462)|null|
-|**2025-11-25**|**Look Where It Matters: Training-Free Ultra-HR Remote Sensing VQA via Adaptive Zoom Search**|Yunqi Zhou et.al.|[2511.20460](http://arxiv.org/abs/2511.20460)|null|
+|**2025-11-25**|**Look Where It Matters: Training-Free Ultra-HR Remote Sensing VQA via Adaptive Zoom Search**|Yunqi Zhou et.al.|[2511.20460](http://arxiv.org/abs/2511.20460)|**[link](https://github.com/kiki-zyq/ZoomSearch)**|
 |**2025-11-25**|**A meshless data-tailored approach to compute statistics from scattered data with adaptive radial basis functions**|Damien Rigutto et.al.|[2511.20449](http://arxiv.org/abs/2511.20449)|null|
 |**2025-11-25**|**A Training-Free Approach for Multi-ID Customization via Attention Adjustment and Spatial Control**|Jiawei Lin et.al.|[2511.20401](http://arxiv.org/abs/2511.20401)|null|
 |**2025-11-25**|**Real-Space Imaging of Moiré-Confined Excitons in Twisted Bilayer MoS $_2$**|Laurens J. M. Westenberg et.al.|[2511.20398](http://arxiv.org/abs/2511.20398)|null|
@@ -2063,7 +2063,7 @@
 |**2023-06-08**|**NeMO: Neural Map Growing System for Spatiotemporal Fusion in Bird's-Eye-View and BDD-Map Benchmark**|Xi Zhu et.al.|[2306.04540](http://arxiv.org/abs/2306.04540)|null|
 |**2023-03-07**|**Vox-Fusion: Dense Tracking and Mapping with Voxel-based Neural Implicit Representation**|Xingrui Yang et.al.|[2210.15858](http://arxiv.org/abs/2210.15858)|null|
 |**2022-10-17**|**Fast genomic optical map assembly algorithm using binary representation**|Przemysław Stawczyk et.al.|[2210.06865](http://arxiv.org/abs/2210.06865)|null|
-|**2023-08-17**|**Large-Scale Traffic Congestion Prediction based on Multimodal Fusion and Representation Mapping**|Bodong Zhou et.al.|[2208.11061](http://arxiv.org/abs/2208.11061)|null|
+|**2023-08-17**|**Large-Scale Traffic Congestion Prediction based on Multimodal Fusion and Representation Mapping**|Bodong Zhou et.al.|[2208.11061](http://arxiv.org/abs/2208.11061)|**[link](https://github.com/luckkyzhou/TCP-MFRM)**|
 |**2023-05-18**|**LiDAR Road-Atlas: An Efficient Map Representation for General 3D Urban Environment**|Banghe Wu et.al.|[2204.05727](http://arxiv.org/abs/2204.05727)|null|
 |**2023-08-08**|**NeuralBlox: Real-Time Neural Representation Fusion for Robust Volumetric Mapping**|Stefan Lionar et.al.|[2110.09415](http://arxiv.org/abs/2110.09415)|null|
 |**2021-04-08**|**VGF-Net: Visual-Geometric Fusion Learning for Simultaneous Drone Navigation and Height Mapping**|Yilin Liu et.al.|[2104.03109](http://arxiv.org/abs/2104.03109)|null|
@@ -2732,7 +2732,7 @@
 |**2025-11-26**|**OVOD-Agent: A Markov-Bandit Framework for Proactive Visual Reasoning and Self-Evolving Detection**|Chujie Wang et.al.|[2511.21064](http://arxiv.org/abs/2511.21064)|null|
 |**2025-11-26**|**Gated KalmaNet: A Fading Memory Layer Through Test-Time Ridge Regression**|Liangzu Peng et.al.|[2511.21016](http://arxiv.org/abs/2511.21016)|null|
 |**2025-11-26**|**SpaceX: Exploring metrics with the SPACE model for developer productivity**|Sanchit Kaul et.al.|[2511.20955](http://arxiv.org/abs/2511.20955)|null|
-|**2025-11-25**|**DINO-Tok: Adapting DINO for Visual Tokenizers**|Mingkai Jia et.al.|[2511.20565](http://arxiv.org/abs/2511.20565)|null|
+|**2025-11-25**|**DINO-Tok: Adapting DINO for Visual Tokenizers**|Mingkai Jia et.al.|[2511.20565](http://arxiv.org/abs/2511.20565)|**[link](https://github.com/MKJia/DINO-Tok)**|
 |**2025-11-25**|**From Features to States: Data-Driven Selection of Measured State Variables via RFE-DMDc**|Haoyu Wang et.al.|[2511.20552](http://arxiv.org/abs/2511.20552)|null|
 |**2025-11-25**|**Physically Interpretable Interatomic Potentials via Symbolic Regression and Reinforcement Learning**|Bilvin Varughese et.al.|[2511.20506](http://arxiv.org/abs/2511.20506)|null|
 |**2025-11-25**|**Generative Modeling with Manifold Percolation**|Rui Tong et.al.|[2511.20503](http://arxiv.org/abs/2511.20503)|null|
@@ -2770,7 +2770,7 @@
 |**2025-11-24**|**KernelBand: Boosting LLM-based Kernel Optimization with a Hierarchical and Hardware-aware Multi-armed Bandit**|Dezhi Ran et.al.|[2511.18868](http://arxiv.org/abs/2511.18868)|null|
 |**2025-11-24**|**SupLID: Geometrical Guidance for Out-of-Distribution Detection in Semantic Segmentation**|Nimeshika Udayangani et.al.|[2511.18816](http://arxiv.org/abs/2511.18816)|null|
 |**2025-11-24**|**ConceptGuard: Proactive Safety in Text-and-Image-to-Video Generation through Multimodal Risk Detection**|Ruize Ma et.al.|[2511.18780](http://arxiv.org/abs/2511.18780)|null|
-|**2025-11-24**|**SAOT: An Enhanced Locality-Aware Spectral Transformer for Solving PDEs**|Chenhong Zhou et.al.|[2511.18777](http://arxiv.org/abs/2511.18777)|null|
+|**2025-11-24**|**SAOT: An Enhanced Locality-Aware Spectral Transformer for Solving PDEs**|Chenhong Zhou et.al.|[2511.18777](http://arxiv.org/abs/2511.18777)|**[link](https://github.com/chenhong-zhou/SAOT)**|
 |**2025-11-24**|**Edit2Perceive: Image Editing Diffusion Models Are Strong Dense Perceivers**|Yiqing Shi et.al.|[2511.18673](http://arxiv.org/abs/2511.18673)|null|
 |**2025-11-21**|**Counterfactual World Models via Digital Twin-conditioned Video Diffusion**|Yiqing Shen et.al.|[2511.17481](http://arxiv.org/abs/2511.17481)|null|
 |**2025-11-21**|**Moving superfluids in the rotating universe**|Jose Beltrán Jiménez et.al.|[2511.17472](http://arxiv.org/abs/2511.17472)|null|
