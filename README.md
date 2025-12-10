@@ -1,4 +1,4 @@
-## Updated on 2025.12.09
+## Updated on 2025.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -480,7 +480,7 @@
 |**2018-05-16**|**Visual Global Localization with a Hybrid WNN-CNN Approach**|Avelino Forechi et.al.|[1805.03183](http://arxiv.org/abs/1805.03183)|null|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
 
 ## Point Cloud Place Recognition
 
@@ -580,7 +580,7 @@
 |**2020-08-04**|**PIC-Net: Point Cloud and Image Collaboration Network for Large-Scale Place Recognition**|Yuheng Lu et.al.|[2008.00658](http://arxiv.org/abs/2008.00658)|null|
 |**2020-07-06**|**LOL: Lidar-Only Odometry and Localization in 3D Point Cloud Maps**|David Rozenberszki et.al.|[2007.01595](http://arxiv.org/abs/2007.01595)|**[link](https://github.com/RozDavid/LOL)**|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
 
 ## Cross-modality Localization
 
@@ -678,7 +678,7 @@
 |**2021-07-28**|**Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization**|Fa-Ting Hong et.al.|[2107.12589](http://arxiv.org/abs/2107.12589)|null|
 |**2020-09-15**|**RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization**|Niluthpol Chowdhury Mithun et.al.|[2009.05695](http://arxiv.org/abs/2009.05695)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
 
 ## 3D GS
 
@@ -1208,16 +1208,16 @@
 |**2024-03-26**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095](http://arxiv.org/abs/2403.16095)|null|
 |**2024-04-09**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700](http://arxiv.org/abs/2311.11700)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-08**|**DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving**|Jialv Zou et.al.|[2512.07745](http://arxiv.org/abs/2512.07745)|**[link](https://github.com/hustvl/DiffusionDriveV2)**|
+|**2025-12-08**|**DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving**|Jialv Zou et.al.|[2512.07745](http://arxiv.org/abs/2512.07745)|null|
 |**2025-12-08**|**VP-AutoTest: A Virtual-Physical Fusion Autonomous Driving Testing Platform**|Yiming Cui et.al.|[2512.07507](http://arxiv.org/abs/2512.07507)|null|
 |**2025-12-08**|**Towards Reliable Test-Time Adaptation: Style Invariance as a Correctness Likelihood**|Gilhyun Nam et.al.|[2512.07390](http://arxiv.org/abs/2512.07390)|null|
-|**2025-12-08**|**Unified Camera Positional Encoding for Controlled Video Generation**|Cheng Zhang et.al.|[2512.07237](http://arxiv.org/abs/2512.07237)|**[link](https://github.com/chengzhag/UCPE)**|
+|**2025-12-08**|**Unified Camera Positional Encoding for Controlled Video Generation**|Cheng Zhang et.al.|[2512.07237](http://arxiv.org/abs/2512.07237)|null|
 |**2025-12-08**|**TrajMoE: Scene-Adaptive Trajectory Planning with Mixture of Experts and Reinforcement Learning**|Zebin Xing et.al.|[2512.07135](http://arxiv.org/abs/2512.07135)|null|
 |**2025-12-08**|**Mimir: Hierarchical Goal-Driven Diffusion with Uncertainty Propagation for End-to-End Autonomous Driving**|Zebin Xing et.al.|[2512.07130](http://arxiv.org/abs/2512.07130)|null|
 |**2025-12-07**|**Spatial Retrieval Augmented Autonomous Driving**|Xiaosong Jia et.al.|[2512.06865](http://arxiv.org/abs/2512.06865)|null|
@@ -1833,7 +1833,7 @@
 |**2019-09-18**|**A*3D Dataset: Towards Autonomous Driving in Challenging Environments**|Quang-Hieu Pham et.al.|[1909.07541](http://arxiv.org/abs/1909.07541)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
 
 ## Map
 
@@ -2193,7 +2193,7 @@
 |**2015-06-15**|**Maximum Likelihood Fusion of Stochastic Maps**|Brandon Jones et.al.|[1303.6170](http://arxiv.org/abs/1303.6170)|null|
 |**2008-03-13**|**Quantum Reference Frames and the Classification of Rotationally-Invariant Maps**|J. -C. Boileau et.al.|[0709.0142](http://arxiv.org/abs/0709.0142)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
 
 ## Non-rigid Registration
 
@@ -2255,7 +2255,7 @@
 |**2013-04-15**|**Local Structure Matching Driven by Joint-Saliency-Structure Adaptive Kernel Regression**|Binjie Qin et.al.|[1302.0494](http://arxiv.org/abs/1302.0494)|null|
 |**2011-04-22**|**A Meshless Method for Variational Nonrigid 2-D Shape Registration**|Wei Liu et.al.|[1104.4168](http://arxiv.org/abs/1104.4168)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
 
 ## MoE
 
@@ -2746,7 +2746,7 @@
 |**2023-04-25**|**Pipeline MoE: A Flexible MoE Implementation with Pipeline Parallelism**|Xin Chen et.al.|[2304.11414](http://arxiv.org/abs/2304.11414)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|**[link](https://github.com/deepseek-ai/DeepSeek-VL2)**|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
 
 ## Mamba
 
@@ -2755,7 +2755,7 @@
 |**2025-12-08**|**How Far are Modern Trackers from UAV-Anti-UAV? A Million-Scale Benchmark and New Baseline**|Chunhui Zhang et.al.|[2512.07385](http://arxiv.org/abs/2512.07385)|null|
 |**2025-12-07**|**Always Keep Your Promises: DynamicLRP, A Model-Agnostic Solution To Layer-Wise Relevance Propagation**|Kevin Lee et.al.|[2512.07010](http://arxiv.org/abs/2512.07010)|null|
 |**2025-12-07**|**FGE: A Fast Free-Boundary Grad-Shafranov Evolutive Solver**|Cosmas Heiß et.al.|[2512.06847](http://arxiv.org/abs/2512.06847)|null|
-|**2025-12-07**|**TextMamba: Scene Text Detector with Mamba**|Qiyan Zhao et.al.|[2512.06657](http://arxiv.org/abs/2512.06657)|**[link](https://github.com/ErikZ719/TextMamba)**|
+|**2025-12-07**|**TextMamba: Scene Text Detector with Mamba**|Qiyan Zhao et.al.|[2512.06657](http://arxiv.org/abs/2512.06657)|null|
 |**2025-12-06**|**Assessing the Information Content of Individual Spikes in Population-Level Models of Neural Spiking Activity**|Azar Ghahari et.al.|[2512.06280](http://arxiv.org/abs/2512.06280)|null|
 |**2025-12-05**|**Speech World Model: Causal State-Action Planning with Explicit Reasoning for Speech**|Xuanru Zhou et.al.|[2512.05933](http://arxiv.org/abs/2512.05933)|null|
 |**2025-12-05**|**World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty**|Zhiting Mei et.al.|[2512.05927](http://arxiv.org/abs/2512.05927)|null|
@@ -3249,7 +3249,7 @@
 |**2024-11-26**|**PointMamba: A Simple State Space Model for Point Cloud Analysis**|Dingkang Liang et.al.|[2402.10739](http://arxiv.org/abs/2402.10739)|null|
 |**2024-11-15**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
 
 ## HSI Classification
 
@@ -3351,5 +3351,5 @@
 |**2016-06-17**|**Combining multiscale features for classification of hyperspectral images: a sequence based kernel approach**|Yanwei Cui et.al.|[1606.04985](http://arxiv.org/abs/1606.04985)|null|
 |**2015-04-30**|**Robust hyperspectral image classification with rejection fields**|Filipe Condessa et.al.|[1504.07918](http://arxiv.org/abs/1504.07918)|null|
 
-<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
 

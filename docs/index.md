@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.09
+## Updated on 2025.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -1194,10 +1194,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-08**|**DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving**|Jialv Zou et.al.|[2512.07745](http://arxiv.org/abs/2512.07745)|**[link](https://github.com/hustvl/DiffusionDriveV2)**|
+|**2025-12-08**|**DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving**|Jialv Zou et.al.|[2512.07745](http://arxiv.org/abs/2512.07745)|null|
 |**2025-12-08**|**VP-AutoTest: A Virtual-Physical Fusion Autonomous Driving Testing Platform**|Yiming Cui et.al.|[2512.07507](http://arxiv.org/abs/2512.07507)|null|
 |**2025-12-08**|**Towards Reliable Test-Time Adaptation: Style Invariance as a Correctness Likelihood**|Gilhyun Nam et.al.|[2512.07390](http://arxiv.org/abs/2512.07390)|null|
-|**2025-12-08**|**Unified Camera Positional Encoding for Controlled Video Generation**|Cheng Zhang et.al.|[2512.07237](http://arxiv.org/abs/2512.07237)|**[link](https://github.com/chengzhag/UCPE)**|
+|**2025-12-08**|**Unified Camera Positional Encoding for Controlled Video Generation**|Cheng Zhang et.al.|[2512.07237](http://arxiv.org/abs/2512.07237)|null|
 |**2025-12-08**|**TrajMoE: Scene-Adaptive Trajectory Planning with Mixture of Experts and Reinforcement Learning**|Zebin Xing et.al.|[2512.07135](http://arxiv.org/abs/2512.07135)|null|
 |**2025-12-08**|**Mimir: Hierarchical Goal-Driven Diffusion with Uncertainty Propagation for End-to-End Autonomous Driving**|Zebin Xing et.al.|[2512.07130](http://arxiv.org/abs/2512.07130)|null|
 |**2025-12-07**|**Spatial Retrieval Augmented Autonomous Driving**|Xiaosong Jia et.al.|[2512.06865](http://arxiv.org/abs/2512.06865)|null|
@@ -2727,7 +2727,7 @@ layout: default
 |**2025-12-08**|**How Far are Modern Trackers from UAV-Anti-UAV? A Million-Scale Benchmark and New Baseline**|Chunhui Zhang et.al.|[2512.07385](http://arxiv.org/abs/2512.07385)|null|
 |**2025-12-07**|**Always Keep Your Promises: DynamicLRP, A Model-Agnostic Solution To Layer-Wise Relevance Propagation**|Kevin Lee et.al.|[2512.07010](http://arxiv.org/abs/2512.07010)|null|
 |**2025-12-07**|**FGE: A Fast Free-Boundary Grad-Shafranov Evolutive Solver**|Cosmas Heiß et.al.|[2512.06847](http://arxiv.org/abs/2512.06847)|null|
-|**2025-12-07**|**TextMamba: Scene Text Detector with Mamba**|Qiyan Zhao et.al.|[2512.06657](http://arxiv.org/abs/2512.06657)|**[link](https://github.com/ErikZ719/TextMamba)**|
+|**2025-12-07**|**TextMamba: Scene Text Detector with Mamba**|Qiyan Zhao et.al.|[2512.06657](http://arxiv.org/abs/2512.06657)|null|
 |**2025-12-06**|**Assessing the Information Content of Individual Spikes in Population-Level Models of Neural Spiking Activity**|Azar Ghahari et.al.|[2512.06280](http://arxiv.org/abs/2512.06280)|null|
 |**2025-12-05**|**Speech World Model: Causal State-Action Planning with Explicit Reasoning for Speech**|Xuanru Zhou et.al.|[2512.05933](http://arxiv.org/abs/2512.05933)|null|
 |**2025-12-05**|**World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty**|Zhiting Mei et.al.|[2512.05927](http://arxiv.org/abs/2512.05927)|null|
