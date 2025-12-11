@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.10
+## Updated on 2025.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -2126,7 +2126,7 @@ layout: default
 |**2025-11-13**|**UniGS: Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering**|Yusen Xie et.al.|[2510.12174](http://arxiv.org/abs/2510.12174)|null|
 |**2025-10-13**|**ACE-G: Improving Generalization of Scene Coordinate Regression Through Query Pre-Training**|Leonard Bruns et.al.|[2510.11605](http://arxiv.org/abs/2510.11605)|null|
 |**2025-10-10**|**Robust Visual Teach-and-Repeat Navigation with Flexible Topo-metric Graph Map Representation**|Jikai Wang et.al.|[2510.09089](http://arxiv.org/abs/2510.09089)|null|
-|**2025-10-06**|**OKVIS2-X: Open Keyframe-based Visual-Inertial SLAM Configurable with Dense Depth or LiDAR, and GNSS**|Simon Boche et.al.|[2510.04612](http://arxiv.org/abs/2510.04612)|null|
+|**2025-10-06**|**OKVIS2-X: Open Keyframe-based Visual-Inertial SLAM Configurable with Dense Depth or LiDAR, and GNSS**|Simon Boche et.al.|[2510.04612](http://arxiv.org/abs/2510.04612)|**[link](https://github.com/ethz-mrl/OKVIS2-X)**|
 |**2025-10-05**|**Constructing coherent spatial memory in LLM agents through graph rectification**|Puzhen Zhang et.al.|[2510.04195](http://arxiv.org/abs/2510.04195)|null|
 |**2025-10-01**|**A Scene is Worth a Thousand Features: Feed-Forward Camera Localization from a Collection of Image Features**|Axel Barroso-Laguna et.al.|[2510.00978](http://arxiv.org/abs/2510.00978)|null|
 |**2025-09-30**|**Updates to the WFC3/UVIS Saturation Map**|Mitchell Revalski et.al.|[2510.00097](http://arxiv.org/abs/2510.00097)|null|
@@ -2184,7 +2184,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-01**|**Robust Rigid and Non-Rigid Medical Image Registration Using Learnable Edge Kernels**|Ahsan Raza Siyal et.al.|[2512.01771](http://arxiv.org/abs/2512.01771)|null|
+|**2025-12-01**|**Robust Rigid and Non-Rigid Medical Image Registration Using Learnable Edge Kernels**|Ahsan Raza Siyal et.al.|[2512.01771](http://arxiv.org/abs/2512.01771)|**[link](https://github.com/AhsanSiyal/Robust-Rigid-and-Non-Rigid-Medical-Image-Registration-Using-Learnable-Edge-Kernels)**|
 |**2025-11-19**|**Coarse-to-Fine Non-Rigid Registration for Side-Scan Sonar Mosaicking**|Can Lei et.al.|[2512.00052](http://arxiv.org/abs/2512.00052)|null|
 |**2025-11-06**|**Systematic Evaluation of Preprocessing Techniques for Accurate Image Registration in Digital Pathology**|Fatemehzahra Darzi et.al.|[2511.04171](http://arxiv.org/abs/2511.04171)|null|
 |**2025-11-25**|**CORE -- A Cell-Level Coarse-to-Fine Image Registration Engine for Multi-stain Image Alignment**|Esha Sadia Nasir et.al.|[2511.03826](http://arxiv.org/abs/2511.03826)|null|
