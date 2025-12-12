@@ -9,10 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**Beyond Pixels: A Training-Free, Text-to-Text Framework for Remote Sensing Image Retrieval**|J. Xiao et.al.|[2512.10596](http://arxiv.org/abs/2512.10596)|null|
 |**2025-12-10**|**YOPO-Nav: Visual Navigation using 3DGS Graphs from One-Pass Videos**|Ryan Meegan et.al.|[2512.09903](http://arxiv.org/abs/2512.09903)|null|
 |**2025-12-09**|**Adaptive Thresholding for Visual Place Recognition using Negative Gaussian Mixture Statistics**|Nick Trinh et.al.|[2512.09071](http://arxiv.org/abs/2512.09071)|null|
 |**2025-12-08**|**Generalized Referring Expression Segmentation on Aerial Photos**|Luís Marnoto et.al.|[2512.07338](http://arxiv.org/abs/2512.07338)|**[link](https://github.com/luispl77/aerial-d)**|
-|**2025-12-07**|**Spatial Retrieval Augmented Autonomous Driving**|Xiaosong Jia et.al.|[2512.06865](http://arxiv.org/abs/2512.06865)|**[link](https://github.com/SpatialRetrievalAD/SpatialRetrievalAD-Dataset-Devkit)**|
+|**2025-12-07**|**Spatial Retrieval Augmented Autonomous Driving**|Xiaosong Jia et.al.|[2512.06865](http://arxiv.org/abs/2512.06865)|null|
 |**2025-12-06**|**Language-driven Fine-grained Retrieval**|Shijie Wang et.al.|[2512.06255](http://arxiv.org/abs/2512.06255)|null|
 |**2025-12-05**|**GuideNav: User-Informed Development of a Vision-Only Robotic Navigation Assistant For Blind Travelers**|Hochul Hwang et.al.|[2512.06147](http://arxiv.org/abs/2512.06147)|null|
 |**2025-12-05**|**M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG**|David Anugraha et.al.|[2512.05959](http://arxiv.org/abs/2512.05959)|null|
@@ -668,12 +669,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting**|Madhav Agarwal et.al.|[2512.10939](http://arxiv.org/abs/2512.10939)|null|
+|**2025-12-11**|**MoCapAnything: Unified 3D Motion Capture for Arbitrary Skeletons from Monocular Videos**|Kehong Gong et.al.|[2512.10881](http://arxiv.org/abs/2512.10881)|null|
+|**2025-12-11**|**DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting**|Shuyi Zhou et.al.|[2512.10572](http://arxiv.org/abs/2512.10572)|null|
+|**2025-12-11**|**Neural Hamiltonian Deformation Fields for Dynamic Scene Rendering**|Hai-Long Qin et.al.|[2512.10424](http://arxiv.org/abs/2512.10424)|null|
+|**2025-12-11**|**Breaking the Vicious Cycle: Coherent 3D Gaussian Splatting from Sparse and Motion-Blurred Views**|Zhankuo Xu et.al.|[2512.10369](http://arxiv.org/abs/2512.10369)|null|
+|**2025-12-11**|**Physically Aware 360 $^\circ$ View Generation from a Single Image using Disentangled Scene Embeddings**|Karthikeya KV et.al.|[2512.10293](http://arxiv.org/abs/2512.10293)|null|
+|**2025-12-11**|**Long-LRM++: Preserving Fine Details in Feed-Forward Wide-Coverage Reconstruction**|Chen Ziwen et.al.|[2512.10267](http://arxiv.org/abs/2512.10267)|null|
+|**2025-12-10**|**TraceFlow: Dynamic 3D Reconstruction of Specular Scenes Driven by Ray Tracing**|Jiachen Tao et.al.|[2512.10095](http://arxiv.org/abs/2512.10095)|null|
 |**2025-12-10**|**GAINS: Gaussian-based Inverse Rendering from Sparse Multi-View Captures**|Patrick Noras et.al.|[2512.09925](http://arxiv.org/abs/2512.09925)|null|
 |**2025-12-10**|**Splatent: Splatting Diffusion Latents for Novel View Synthesis**|Or Hirschorn et.al.|[2512.09923](http://arxiv.org/abs/2512.09923)|null|
 |**2025-12-10**|**YOPO-Nav: Visual Navigation using 3DGS Graphs from One-Pass Videos**|Ryan Meegan et.al.|[2512.09903](http://arxiv.org/abs/2512.09903)|null|
 |**2025-12-10**|**ReMoSPLAT: Reactive Mobile Manipulation Control on a Gaussian Splat**|Nicolas Marticorena et.al.|[2512.09656](http://arxiv.org/abs/2512.09656)|null|
 |**2025-12-10**|**D $^2$ GSLAM: 4D Dynamic Gaussian Splatting SLAM**|Siting Zhu et.al.|[2512.09411](http://arxiv.org/abs/2512.09411)|null|
-|**2025-12-10**|**Relightable and Dynamic Gaussian Avatar Reconstruction from Monocular Video**|Seonghwa Choi et.al.|[2512.09335](http://arxiv.org/abs/2512.09335)|null|
+|**2025-12-11**|**Relightable and Dynamic Gaussian Avatar Reconstruction from Monocular Video**|Seonghwa Choi et.al.|[2512.09335](http://arxiv.org/abs/2512.09335)|null|
 |**2025-12-10**|**MoRel: Long-Range Flicker-Free 4D Motion Modeling via Anchor Relay-based Bidirectional Blending with Hierarchical Densification**|Sangwoon Kwak et.al.|[2512.09270](http://arxiv.org/abs/2512.09270)|null|
 |**2025-12-09**|**GTAvatar: Bridging Gaussian Splatting and Texture Mapping for Relightable and Editable Gaussian Avatars**|Kelian Baert et.al.|[2512.09162](http://arxiv.org/abs/2512.09162)|null|
 |**2025-12-09**|**OpenMonoGS-SLAM: Monocular Gaussian Splatting SLAM with Open-set Semantics**|Jisang Yoo et.al.|[2512.08625](http://arxiv.org/abs/2512.08625)|null|
@@ -1209,6 +1218,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**Towards Efficient and Effective Multi-Camera Encoding for End-to-End Driving**|Jiawei Yang et.al.|[2512.10947](http://arxiv.org/abs/2512.10947)|null|
+|**2025-12-11**|**SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving**|Peizheng Li et.al.|[2512.10719](http://arxiv.org/abs/2512.10719)|null|
+|**2025-12-11**|**NaviHydra: Controllable Navigation-guided End-to-end Autonomous Driving with Hydra-distillation**|Hanfeng Wu et.al.|[2512.10660](http://arxiv.org/abs/2512.10660)|null|
+|**2025-12-11**|**UACER: An Uncertainty-Aware Critic Ensemble Framework for Robust Adversarial Reinforcement Learning**|Jiaxi Wu et.al.|[2512.10492](http://arxiv.org/abs/2512.10492)|null|
+|**2025-12-11**|**T-SKM-Net: Trainable Neural Network Framework for Linear Constraint Satisfaction via Sampling Kaczmarz-Motzkin Method**|Haoyu Zhu et.al.|[2512.10461](http://arxiv.org/abs/2512.10461)|null|
+|**2025-12-11**|**Adaptive Dual-Weighted Gravitational Point Cloud Denoising Method**|Ge Zhang et.al.|[2512.10386](http://arxiv.org/abs/2512.10386)|null|
+|**2025-12-11**|**InfoCom: Kilobyte-Scale Communication-Efficient Collaborative Perception with Information Bottleneck**|Quanmin Wei et.al.|[2512.10305](http://arxiv.org/abs/2512.10305)|null|
+|**2025-12-11**|**Latent Chain-of-Thought World Modeling for End-to-End Driving**|Shuhan Tan et.al.|[2512.10226](http://arxiv.org/abs/2512.10226)|null|
 |**2025-12-10**|**UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving**|Hao Lu et.al.|[2512.09864](http://arxiv.org/abs/2512.09864)|null|
 |**2025-12-10**|**COVLM-RL: Critical Object-Oriented Reasoning for Autonomous Driving Using VLM-Guided Reinforcement Learning**|Lin Li et.al.|[2512.09349](http://arxiv.org/abs/2512.09349)|null|
 |**2025-12-10**|**Traffic Scene Small Target Detection Method Based on YOLOv8n-SPTS Model for Autonomous Driving**|Songhan Wu et.al.|[2512.09296](http://arxiv.org/abs/2512.09296)|null|
@@ -2258,6 +2275,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration**|Sicheng Mo et.al.|[2512.10954](http://arxiv.org/abs/2512.10954)|null|
+|**2025-12-11**|**Unleashing Degradation-Carrying Features in Symmetric U-Net: Simpler and Stronger Baselines for All-in-One Image Restoration**|Wenlong Jiao et.al.|[2512.10581](http://arxiv.org/abs/2512.10581)|null|
+|**2025-12-11**|**Error-Propagation-Free Learned Video Compression With Dual-Domain Progressive Temporal Alignment**|Han Li et.al.|[2512.10450](http://arxiv.org/abs/2512.10450)|null|
+|**2025-12-10**|**Openpi Comet: Competition Solution For 2025 BEHAVIOR Challenge**|Junjie Bai et.al.|[2512.10071](http://arxiv.org/abs/2512.10071)|null|
 |**2025-12-10**|**Efficient Continual Learning in Neural Machine Translation: A Low-Rank Adaptation Approach**|Salvador Carrión et.al.|[2512.09910](http://arxiv.org/abs/2512.09910)|null|
 |**2025-12-10**|**DynaIP: Dynamic Image Prompt Adapter for Scalable Zero-shot Personalized Text-to-Image Generation**|Zhizhong Wang et.al.|[2512.09814](http://arxiv.org/abs/2512.09814)|null|
 |**2025-12-10**|**M3Net: A Multi-Metric Mixture of Experts Network Digital Twin with Graph Neural Networks**|Blessed Guda et.al.|[2512.09797](http://arxiv.org/abs/2512.09797)|null|
@@ -2758,8 +2779,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**Hybrid Transformer-Mamba Architecture for Weakly Supervised Volumetric Medical Segmentation**|Yiheng Lyu et.al.|[2512.10353](http://arxiv.org/abs/2512.10353)|null|
+|**2025-12-10**|**Inertial Magnetic SLAM Systems Using Low-Cost Sensors**|Chuan Huang et.al.|[2512.10128](http://arxiv.org/abs/2512.10128)|null|
 |**2025-12-10**|**Neural posterior inference with state-space models for calibrating ice sheet simulators**|Bao Anh Vu et.al.|[2512.09561](http://arxiv.org/abs/2512.09561)|null|
-|**2025-12-10**|**StateSpace-SSL: Linear-Time Self-supervised Learning for Plant Disease Detectio**|Abdullah Al Mamun et.al.|[2512.09492](http://arxiv.org/abs/2512.09492)|null|
+|**2025-12-11**|**StateSpace-SSL: Linear-Time Self-supervised Learning for Plant Disease Detection**|Abdullah Al Mamun et.al.|[2512.09492](http://arxiv.org/abs/2512.09492)|null|
 |**2025-12-08**|**How Far are Modern Trackers from UAV-Anti-UAV? A Million-Scale Benchmark and New Baseline**|Chunhui Zhang et.al.|[2512.07385](http://arxiv.org/abs/2512.07385)|null|
 |**2025-12-07**|**Always Keep Your Promises: DynamicLRP, A Model-Agnostic Solution To Layer-Wise Relevance Propagation**|Kevin Lee et.al.|[2512.07010](http://arxiv.org/abs/2512.07010)|null|
 |**2025-12-07**|**FGE: A Fast Free-Boundary Grad-Shafranov Evolutive Solver**|Cosmas Heiß et.al.|[2512.06847](http://arxiv.org/abs/2512.06847)|null|
@@ -3261,7 +3284,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-10**|**Perception-Inspired Color Space Design for Photo White Balance Editing**|Yang Cheng et.al.|[2512.09383](http://arxiv.org/abs/2512.09383)|null|
+|**2025-12-11**|**Perception-Inspired Color Space Design for Photo White Balance Editing**|Yang Cheng et.al.|[2512.09383](http://arxiv.org/abs/2512.09383)|null|
 |**2025-12-08**|**Agreement Disagreement Guided Knowledge Transfer for Cross-Scene Hyperspectral Imaging**|Lu Huo et.al.|[2512.08990](http://arxiv.org/abs/2512.08990)|null|
 |**2025-12-08**|**Enhancing Knowledge Transfer in Hyperspectral Image Classification via Cross-scene Knowledge Integration**|Lu Huo et.al.|[2512.08989](http://arxiv.org/abs/2512.08989)|null|
 |**2025-12-05**|**Hyperspectral Unmixing with 3D Convolutional Sparse Coding and Projected Simplex Volume Maximization**|Gargi Panda et.al.|[2512.05674](http://arxiv.org/abs/2512.05674)|null|
