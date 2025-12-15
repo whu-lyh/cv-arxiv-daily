@@ -1923,7 +1923,7 @@ layout: default
 |**2025-12-02**|**Digit-Indexed q-ary SEC-DED Codes with Near-Hamming Overhead**|Jiaxu Hu et.al.|[2512.02747](http://arxiv.org/abs/2512.02747)|null|
 |**2025-12-02**|**Efficient Simulation of the 2D Hubbard Model via Hilbert Space-Filling Curve Mapping**|Ashkan Abedi et.al.|[2512.02666](http://arxiv.org/abs/2512.02666)|null|
 |**2025-12-02**|**PolarGuide-GSDR: 3D Gaussian Splatting Driven by Polarization Priors and Deferred Reflection for Real-World Reflective Scenes**|Derui Shan et.al.|[2512.02664](http://arxiv.org/abs/2512.02664)|null|
-|**2025-12-02**|**Content-Aware Texturing for Gaussian Splatting**|Panagiotis Papantonakis et.al.|[2512.02621](http://arxiv.org/abs/2512.02621)|null|
+|**2025-12-02**|**Content-Aware Texturing for Gaussian Splatting**|Panagiotis Papantonakis et.al.|[2512.02621](http://arxiv.org/abs/2512.02621)|**[link](https://github.com/graphdeco-inria/gs-texturing)**|
 |**2025-12-02**|**Quantum LLMs Using Quantum Computing to Analyze and Process Semantic Information**|Timo Aukusti Laine et.al.|[2512.02619](http://arxiv.org/abs/2512.02619)|null|
 |**2025-12-02**|**Interface Correlators in Symmetric Product Orbifolds**|Sebastian Harris et.al.|[2512.02616](http://arxiv.org/abs/2512.02616)|null|
 |**2025-12-02**|**Updates on dipolar anisotropy in local measurements of the Hubble constant from Cosmicflows-4**|Vincenzo Salzano et.al.|[2512.02526](http://arxiv.org/abs/2512.02526)|null|
@@ -2199,7 +2199,7 @@ layout: default
 |**2023-06-08**|**NeMO: Neural Map Growing System for Spatiotemporal Fusion in Bird's-Eye-View and BDD-Map Benchmark**|Xi Zhu et.al.|[2306.04540](http://arxiv.org/abs/2306.04540)|null|
 |**2023-03-07**|**Vox-Fusion: Dense Tracking and Mapping with Voxel-based Neural Implicit Representation**|Xingrui Yang et.al.|[2210.15858](http://arxiv.org/abs/2210.15858)|null|
 |**2022-10-17**|**Fast genomic optical map assembly algorithm using binary representation**|Przemysław Stawczyk et.al.|[2210.06865](http://arxiv.org/abs/2210.06865)|null|
-|**2023-08-17**|**Large-Scale Traffic Congestion Prediction based on Multimodal Fusion and Representation Mapping**|Bodong Zhou et.al.|[2208.11061](http://arxiv.org/abs/2208.11061)|null|
+|**2023-08-17**|**Large-Scale Traffic Congestion Prediction based on Multimodal Fusion and Representation Mapping**|Bodong Zhou et.al.|[2208.11061](http://arxiv.org/abs/2208.11061)|**[link](https://github.com/luckkyzhou/TCP-MFRM)**|
 |**2023-05-18**|**LiDAR Road-Atlas: An Efficient Map Representation for General 3D Urban Environment**|Banghe Wu et.al.|[2204.05727](http://arxiv.org/abs/2204.05727)|null|
 |**2023-08-08**|**NeuralBlox: Real-Time Neural Representation Fusion for Robust Volumetric Mapping**|Stefan Lionar et.al.|[2110.09415](http://arxiv.org/abs/2110.09415)|null|
 |**2021-04-08**|**VGF-Net: Visual-Geometric Fusion Learning for Simultaneous Drone Navigation and Height Mapping**|Yilin Liu et.al.|[2104.03109](http://arxiv.org/abs/2104.03109)|null|
