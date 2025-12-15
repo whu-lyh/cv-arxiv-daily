@@ -687,9 +687,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**Moment-Based 3D Gaussian Splatting: Resolving Volumetric Occlusion with Order-Independent Transmittance**|Jan U. Müller et.al.|[2512.11800](http://arxiv.org/abs/2512.11800)|null|
+|**2025-12-12**|**3DTeethSAM: Taming SAM2 for 3D Teeth Segmentation**|Zhiguo Lu et.al.|[2512.11557](http://arxiv.org/abs/2512.11557)|null|
+|**2025-12-12**|**Prior-Enhanced Gaussian Splatting for Dynamic Scene Reconstruction from Casual Video**|Meng-Li Shih et.al.|[2512.11356](http://arxiv.org/abs/2512.11356)|null|
+|**2025-12-12**|**Lightweight 3D Gaussian Splatting Compression via Video Codec**|Qi Yang et.al.|[2512.11186](http://arxiv.org/abs/2512.11186)|null|
 |**2025-12-11**|**GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting**|Madhav Agarwal et.al.|[2512.10939](http://arxiv.org/abs/2512.10939)|null|
 |**2025-12-11**|**MoCapAnything: Unified 3D Motion Capture for Arbitrary Skeletons from Monocular Videos**|Kehong Gong et.al.|[2512.10881](http://arxiv.org/abs/2512.10881)|null|
-|**2025-12-11**|**DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting**|Shuyi Zhou et.al.|[2512.10572](http://arxiv.org/abs/2512.10572)|**[link](https://github.com/ShuyiZhou495/DeMapGS-project-page)**|
+|**2025-12-11**|**DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting**|Shuyi Zhou et.al.|[2512.10572](http://arxiv.org/abs/2512.10572)|null|
 |**2025-12-11**|**Neural Hamiltonian Deformation Fields for Dynamic Scene Rendering**|Hai-Long Qin et.al.|[2512.10424](http://arxiv.org/abs/2512.10424)|null|
 |**2025-12-11**|**Breaking the Vicious Cycle: Coherent 3D Gaussian Splatting from Sparse and Motion-Blurred Views**|Zhankuo Xu et.al.|[2512.10369](http://arxiv.org/abs/2512.10369)|null|
 |**2025-12-11**|**Physically Aware 360 $^\circ$ View Generation from a Single Image using Disentangled Scene Embeddings**|Karthikeya KV et.al.|[2512.10293](http://arxiv.org/abs/2512.10293)|null|
@@ -1238,6 +1242,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**LUCID: Learning-Enabled Uncertainty-Aware Certification of Stochastic Dynamical Systems**|Ernesto Casablanca et.al.|[2512.11750](http://arxiv.org/abs/2512.11750)|null|
+|**2025-12-12**|**Evaluating Foundation Models' 3D Understanding Through Multi-View Correspondence Analysis**|Valentina Lilova et.al.|[2512.11574](http://arxiv.org/abs/2512.11574)|null|
+|**2025-12-12**|**CarlaNCAP: A Framework for Quantifying the Safety of Vulnerable Road Users in Infrastructure-Assisted Collective Perception Using EuroNCAP Scenarios**|Jörg Gamerdinger et.al.|[2512.11551](http://arxiv.org/abs/2512.11551)|null|
+|**2025-12-12**|**SATMapTR: Satellite Image Enhanced Online HD Map Construction**|Bingyuan Huang et.al.|[2512.11319](http://arxiv.org/abs/2512.11319)|null|
+|**2025-12-12**|**Elevation Aware 2D/3D Co-simulation Framework for Large-scale Traffic Flow and High-fidelity Vehicle Dynamics**|Chandra Raskoti et.al.|[2512.11249](http://arxiv.org/abs/2512.11249)|null|
+|**2025-12-12**|**FutureX: Enhance End-to-End Autonomous Driving via Latent Chain-of-Thought World Model**|Hongbin Lin et.al.|[2512.11226](http://arxiv.org/abs/2512.11226)|null|
 |**2025-12-11**|**Towards Efficient and Effective Multi-Camera Encoding for End-to-End Driving**|Jiawei Yang et.al.|[2512.10947](http://arxiv.org/abs/2512.10947)|null|
 |**2025-12-11**|**SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving**|Peizheng Li et.al.|[2512.10719](http://arxiv.org/abs/2512.10719)|null|
 |**2025-12-11**|**NaviHydra: Controllable Navigation-guided End-to-end Autonomous Driving with Hydra-distillation**|Hanfeng Wu et.al.|[2512.10660](http://arxiv.org/abs/2512.10660)|null|
@@ -2301,10 +2311,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**Measurement of the cosmic ray nickel energy spectrum from 10 GeV/n to 2 TeV/n with the DAMPE**|F. Alemanno et.al.|[2512.11425](http://arxiv.org/abs/2512.11425)|null|
 |**2025-12-11**|**Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration**|Sicheng Mo et.al.|[2512.10954](http://arxiv.org/abs/2512.10954)|null|
 |**2025-12-11**|**Unleashing Degradation-Carrying Features in Symmetric U-Net: Simpler and Stronger Baselines for All-in-One Image Restoration**|Wenlong Jiao et.al.|[2512.10581](http://arxiv.org/abs/2512.10581)|null|
 |**2025-12-11**|**Error-Propagation-Free Learned Video Compression With Dual-Domain Progressive Temporal Alignment**|Han Li et.al.|[2512.10450](http://arxiv.org/abs/2512.10450)|null|
-|**2025-12-10**|**Openpi Comet: Competition Solution For 2025 BEHAVIOR Challenge**|Junjie Bai et.al.|[2512.10071](http://arxiv.org/abs/2512.10071)|null|
+|**2025-12-12**|**Openpi Comet: Competition Solution For 2025 BEHAVIOR Challenge**|Junjie Bai et.al.|[2512.10071](http://arxiv.org/abs/2512.10071)|null|
 |**2025-12-10**|**Efficient Continual Learning in Neural Machine Translation: A Low-Rank Adaptation Approach**|Salvador Carrión et.al.|[2512.09910](http://arxiv.org/abs/2512.09910)|null|
 |**2025-12-10**|**DynaIP: Dynamic Image Prompt Adapter for Scalable Zero-shot Personalized Text-to-Image Generation**|Zhizhong Wang et.al.|[2512.09814](http://arxiv.org/abs/2512.09814)|null|
 |**2025-12-10**|**M3Net: A Multi-Metric Mixture of Experts Network Digital Twin with Graph Neural Networks**|Blessed Guda et.al.|[2512.09797](http://arxiv.org/abs/2512.09797)|null|
@@ -2319,7 +2330,7 @@
 |**2025-12-08**|**Relational Visual Similarity**|Thao Nguyen et.al.|[2512.07833](http://arxiv.org/abs/2512.07833)|null|
 |**2025-12-08**|**Each Prompt Matters: Scaling Reinforcement Learning Without Wasting Rollouts on Hundred-Billion-Scale MoE**|Anxiang Zeng et.al.|[2512.07710](http://arxiv.org/abs/2512.07710)|null|
 |**2025-12-08**|**LongCat-Image Technical Report**|Meituan LongCat Team et.al.|[2512.07584](http://arxiv.org/abs/2512.07584)|null|
-|**2025-12-08**|**MultiMotion: Multi Subject Video Motion Transfer via Video Diffusion Transformer**|Penghui Liu et.al.|[2512.07500](http://arxiv.org/abs/2512.07500)|null|
+|**2025-12-12**|**MultiMotion: Multi Subject Video Motion Transfer via Video Diffusion Transformer**|Penghui Liu et.al.|[2512.07500](http://arxiv.org/abs/2512.07500)|null|
 |**2025-12-08**|**Equivariant Diffusion for Crystal Structure Prediction**|Peijia Lin et.al.|[2512.07289](http://arxiv.org/abs/2512.07289)|null|
 |**2025-12-08**|**Measurement of the branching fraction of $η\to μ^+ μ^-$ and search for $η\to e^+ e^-$**|BESIII Collaboration et.al.|[2512.07144](http://arxiv.org/abs/2512.07144)|null|
 |**2025-12-09**|**TrajMoE: Scene-Adaptive Trajectory Planning with Mixture of Experts and Reinforcement Learning**|Zebin Xing et.al.|[2512.07135](http://arxiv.org/abs/2512.07135)|null|
@@ -2807,6 +2818,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**TSkel-Mamba: Temporal Dynamic Modeling via State Space Model for Human Skeleton-based Action Recognition**|Yanan Liu et.al.|[2512.11503](http://arxiv.org/abs/2512.11503)|null|
+|**2025-12-11**|**On a class of constrained Bayesian filters and their numerical implementation in high-dimensional state-space Markov models**|Utku Erdogan et.al.|[2512.11012](http://arxiv.org/abs/2512.11012)|null|
 |**2025-12-11**|**Hybrid Transformer-Mamba Architecture for Weakly Supervised Volumetric Medical Segmentation**|Yiheng Lyu et.al.|[2512.10353](http://arxiv.org/abs/2512.10353)|null|
 |**2025-12-10**|**Inertial Magnetic SLAM Systems Using Low-Cost Sensors**|Chuan Huang et.al.|[2512.10128](http://arxiv.org/abs/2512.10128)|null|
 |**2025-12-10**|**Neural posterior inference with state-space models for calibrating ice sheet simulators**|Bao Anh Vu et.al.|[2512.09561](http://arxiv.org/abs/2512.09561)|null|
