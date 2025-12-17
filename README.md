@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**CLNet: Cross-View Correspondence Makes a Stronger Geo-Localizationer**|Xianwei Cao et.al.|[2512.14560](http://arxiv.org/abs/2512.14560)|null|
+|**2025-12-16**|**Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries**|Emanuele Mezzi et.al.|[2512.14102](http://arxiv.org/abs/2512.14102)|null|
 |**2025-12-15**|**Towards Test-time Efficient Visual Place Recognition via Asymmetric Query Processing**|Jaeyoon Kim et.al.|[2512.13055](http://arxiv.org/abs/2512.13055)|null|
 |**2025-12-14**|**Patch-wise Retrieval: A Bag of Practical Techniques for Instance-level Matching**|Wonseok Choi et.al.|[2512.12610](http://arxiv.org/abs/2512.12610)|null|
 |**2025-12-11**|**Beyond Pixels: A Training-Free, Text-to-Text Framework for Remote Sensing Image Retrieval**|J. Xiao et.al.|[2512.10596](http://arxiv.org/abs/2512.10596)|null|
@@ -689,6 +691,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**BridgeNet: A Dataset of Graph-based Bridge Structural Models for Machine Learning Applications**|Lazlo Bleker et.al.|[2512.14496](http://arxiv.org/abs/2512.14496)|null|
+|**2025-12-16**|**Broadening View Synthesis of Dynamic Scenes from Constrained Monocular Videos**|Le Jiang et.al.|[2512.14406](http://arxiv.org/abs/2512.14406)|null|
+|**2025-12-16**|**HGS: Hybrid Gaussian Splatting with Static-Dynamic Decomposition for Compact Dynamic View Synthesis**|Kaizhe Zhang et.al.|[2512.14352](http://arxiv.org/abs/2512.14352)|null|
+|**2025-12-16**|**Beyond a Single Light: A Large-Scale Aerial Dataset for Urban Scene Reconstruction Under Varying Illumination**|Zhuoxiao Li et.al.|[2512.14200](http://arxiv.org/abs/2512.14200)|null|
+|**2025-12-16**|**Spherical Voronoi: Directional Appearance as a Differentiable Partition of the Sphere**|Francesco Di Sario et.al.|[2512.14180](http://arxiv.org/abs/2512.14180)|null|
+|**2025-12-16**|**GaussianPlant: Structure-aligned Gaussian Splatting for 3D Reconstruction of Plants**|Yang Yang et.al.|[2512.14087](http://arxiv.org/abs/2512.14087)|null|
+|**2025-12-16**|**ASAP-Textured Gaussians: Enhancing Textured Gaussians with Adaptive Sampling and Anisotropic Parameterization**|Meng Wei et.al.|[2512.14039](http://arxiv.org/abs/2512.14039)|null|
+|**2025-12-15**|**Nexels: Neurally-Textured Surfels for Real-Time Novel View Synthesis with Sparse Geometries**|Victor Rong et.al.|[2512.13796](http://arxiv.org/abs/2512.13796)|null|
 |**2025-12-15**|**Computer vision training dataset generation for robotic environments using Gaussian splatting**|Patryk Niżeniec et.al.|[2512.13411](http://arxiv.org/abs/2512.13411)|null|
 |**2025-12-15**|**Light Field Based 6DoF Tracking of Previously Unobserved Objects**|Nikolai Goncharov et.al.|[2512.13007](http://arxiv.org/abs/2512.13007)|null|
 |**2025-12-15**|**Qonvolution: Towards Learning High-Frequency Signals with Queried Convolution**|Abhinav Kumar et.al.|[2512.12898](http://arxiv.org/abs/2512.12898)|null|
@@ -1249,9 +1259,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-15**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Haoyu Fu et.al.|[2512.13636](http://arxiv.org/abs/2512.13636)|null|
+|**2025-12-16**|**DriverGaze360: OmniDirectional Driver Attention with Object-Level Guidance**|Shreedhar Govil et.al.|[2512.14266](http://arxiv.org/abs/2512.14266)|null|
+|**2025-12-16**|**OmniGen: Unified Multimodal Sensor Generation for Autonomous Driving**|Tao Tang et.al.|[2512.14225](http://arxiv.org/abs/2512.14225)|null|
+|**2025-12-16**|**CIS-BA: Continuous Interaction Space Based Backdoor Attack for Object Detection in the Real-World**|Shuxin Zhao et.al.|[2512.14158](http://arxiv.org/abs/2512.14158)|null|
+|**2025-12-16**|**OmniDrive-R1: Reinforcement-driven Interleaved Multi-modal Chain-of-Thought for Trustworthy Vision-Language Autonomous Driving**|Zhenguo Zhang et.al.|[2512.14044](http://arxiv.org/abs/2512.14044)|null|
+|**2025-12-16**|**FocalComm: Hard Instance-Aware Multi-Agent Perception**|Dereje Shenkut et.al.|[2512.13982](http://arxiv.org/abs/2512.13982)|null|
+|**2025-12-15**|**A Convex Obstacle Avoidance Formulation**|Ricardo Tapia et.al.|[2512.13836](http://arxiv.org/abs/2512.13836)|null|
+|**2025-12-16**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Haoyu Fu et.al.|[2512.13636](http://arxiv.org/abs/2512.13636)|null|
 |**2025-12-15**|**Post-Training and Test-Time Scaling of Generative Agent Behavior Models for Interactive Autonomous Driving**|Hyunki Seong et.al.|[2512.13262](http://arxiv.org/abs/2512.13262)|null|
-|**2025-12-15**|**MMDrive: Interactive Scene Understanding Beyond Vision with Multi-representational Fusion**|Minghui Hou et.al.|[2512.13177](http://arxiv.org/abs/2512.13177)|null|
+|**2025-12-16**|**MMDrive: Interactive Scene Understanding Beyond Vision with Multi-representational Fusion**|Minghui Hou et.al.|[2512.13177](http://arxiv.org/abs/2512.13177)|null|
 |**2025-12-15**|**Diffusion-Based Restoration for Multi-Modal 3D Object Detection in Adverse Weather**|Zhijian He et.al.|[2512.13107](http://arxiv.org/abs/2512.13107)|null|
 |**2025-12-15**|**Sequence of Expert: Boosting Imitation Planners for Autonomous Driving through Temporal Alternation**|Xiang Li et.al.|[2512.13094](http://arxiv.org/abs/2512.13094)|null|
 |**2025-12-15**|**Machine Learning Architectures for the Estimation of Predicted Occupancy Grids in Road Traffic**|Parthasarathy Nadarajan et.al.|[2512.12907](http://arxiv.org/abs/2512.12907)|null|
@@ -1910,6 +1926,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2009-10-21**|**Quantum Error Correction Beyond Completely Positive Maps**|A. Shabani et.al.|[quant-ph/0610028](http://arxiv.org/abs/quant-ph/0610028)|null|
+|**2025-12-16**|**ACE-SLAM: Scene Coordinate Regression for Neural Implicit Real-Time SLAM**|Ignacio Alzugaray et.al.|[2512.14032](http://arxiv.org/abs/2512.14032)|null|
 |**2025-12-05**|**Categorifying isomonodromic deformations via Lie groupoids I: Logarithmic singularities**|Waleed Qaisar et.al.|[2512.05966](http://arxiv.org/abs/2512.05966)|null|
 |**2025-12-05**|**AQUA-Net: Adaptive Frequency Fusion and Illumination Aware Network for Underwater Image Enhancement**|Munsif Ali et.al.|[2512.05960](http://arxiv.org/abs/2512.05960)|null|
 |**2025-12-05**|**World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty**|Zhiting Mei et.al.|[2512.05927](http://arxiv.org/abs/2512.05927)|null|
@@ -2269,6 +2286,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**Test Time Optimized Generalized AI-based Medical Image Registration Method**|Sneha Sree C. et.al.|[2512.14556](http://arxiv.org/abs/2512.14556)|null|
 |**2025-12-01**|**Robust Rigid and Non-Rigid Medical Image Registration Using Learnable Edge Kernels**|Ahsan Raza Siyal et.al.|[2512.01771](http://arxiv.org/abs/2512.01771)|null|
 |**2025-11-19**|**Coarse-to-Fine Non-Rigid Registration for Side-Scan Sonar Mosaicking**|Can Lei et.al.|[2512.00052](http://arxiv.org/abs/2512.00052)|null|
 |**2025-11-06**|**Systematic Evaluation of Preprocessing Techniques for Accurate Image Registration in Digital Pathology**|Fatemehzahra Darzi et.al.|[2511.04171](http://arxiv.org/abs/2511.04171)|null|
@@ -2331,8 +2349,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**Measurements of the branching fractions of $χ_{cJ}\to φφη, φφη^{\prime}$ and $φK^+K^-η$**|BESIII Collaboration et.al.|[2512.14369](http://arxiv.org/abs/2512.14369)|null|
+|**2025-12-16**|**SketchAssist: A Practical Assistant for Semantic Edits and Precise Local Redrawing**|Han Zou et.al.|[2512.14140](http://arxiv.org/abs/2512.14140)|null|
+|**2025-12-16**|**SonicMoE: Accelerating MoE with IO and Tile-aware Optimizations**|Wentao Guo et.al.|[2512.14080](http://arxiv.org/abs/2512.14080)|null|
+|**2025-12-16**|**Sparsity-Controllable Dynamic Top-p MoE for Large Foundation Model Pre-training**|Can Jin et.al.|[2512.13996](http://arxiv.org/abs/2512.13996)|null|
+|**2025-12-15**|**Connection between galaxy morphology and dark-matter halo structure II: predicting disk structure from dark-matter halo properties**|Jinning Liang et.al.|[2512.13822](http://arxiv.org/abs/2512.13822)|null|
+|**2025-12-13**|**RAST-MoE-RL: A Regime-Aware Spatio-Temporal MoE Framework for Deep Reinforcement Learning in Ride-Hailing**|Yuhan Tang et.al.|[2512.13727](http://arxiv.org/abs/2512.13727)|null|
 |**2025-12-15**|**StutterFuse: Mitigating Modality Collapse in Stuttering Detection with Jaccard-Weighted Metric Learning and Gated Fusion**|Guransh Singh et.al.|[2512.13632](http://arxiv.org/abs/2512.13632)|null|
-|**2025-12-15**|**Janus: Disaggregating Attention and Experts for Scalable MoE Inference**|Zhexiang Zhang et.al.|[2512.13525](http://arxiv.org/abs/2512.13525)|null|
+|**2025-12-16**|**Janus: Disaggregating Attention and Experts for Scalable MoE Inference**|Zhexiang Zhang et.al.|[2512.13525](http://arxiv.org/abs/2512.13525)|null|
 |**2025-12-15**|**SIGMA: An AI-Empowered Training Stack on Early-Life Hardware**|Lei Qu et.al.|[2512.13488](http://arxiv.org/abs/2512.13488)|null|
 |**2025-12-15**|**Automated Information Flow Selection for Multi-scenario Multi-task Recommendation**|Chaohua Yang et.al.|[2512.13396](http://arxiv.org/abs/2512.13396)|null|
 |**2025-12-15**|**Sharpen the Spec, Cut the Code: A Case for Generative File System with SYSSPEC**|Qingyuan Liu et.al.|[2512.13047](http://arxiv.org/abs/2512.13047)|null|
@@ -2851,6 +2875,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**XAI-Driven Diagnosis of Generalization Failure in State-Space Cerebrovascular Segmentation Models: A Case Study on Domain Shift Between RSNA and TopCoW Datasets**|Youssef Abuzeid et.al.|[2512.13977](http://arxiv.org/abs/2512.13977)|null|
 |**2025-12-15**|**Temporal parallelisation of continuous-time maximum-a-posteriori trajectory estimation**|Hassan Razavi et.al.|[2512.13319](http://arxiv.org/abs/2512.13319)|null|
 |**2025-12-14**|**Error-Free Linear Attention is a Free Lunch: Exact Solution from Continuous-Time Dynamics**|Jingdi Lei et.al.|[2512.12602](http://arxiv.org/abs/2512.12602)|null|
 |**2025-12-13**|**HydroDiffusion: Diffusion-Based Probabilistic Streamflow Forecasting with a State Space Backbone**|Yihan Wang et.al.|[2512.12183](http://arxiv.org/abs/2512.12183)|null|
