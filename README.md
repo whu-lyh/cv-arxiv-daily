@@ -691,6 +691,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**Gaussian Pixel Codec Avatars: A Hybrid Representation for Efficient Rendering**|Divam Gupta et.al.|[2512.15711](http://arxiv.org/abs/2512.15711)|null|
+|**2025-12-17**|**Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting**|Arthur Moreau et.al.|[2512.15508](http://arxiv.org/abs/2512.15508)|null|
+|**2025-12-17**|**VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments**|Yuze Wu et.al.|[2512.15258](http://arxiv.org/abs/2512.15258)|null|
+|**2025-12-17**|**MVGSR: Multi-View Consistent 3D Gaussian Super-Resolution via Epipolar Guidance**|Kaizhe Zhang et.al.|[2512.15048](http://arxiv.org/abs/2512.15048)|null|
+|**2025-12-17**|**A Gaussian Parameterization for Direct Atomic Structure Identification in Electron Tomography**|Nalini M. Singh et.al.|[2512.15034](http://arxiv.org/abs/2512.15034)|null|
 |**2025-12-16**|**BridgeNet: A Dataset of Graph-based Bridge Structural Models for Machine Learning Applications**|Lazlo Bleker et.al.|[2512.14496](http://arxiv.org/abs/2512.14496)|null|
 |**2025-12-16**|**Broadening View Synthesis of Dynamic Scenes from Constrained Monocular Videos**|Le Jiang et.al.|[2512.14406](http://arxiv.org/abs/2512.14406)|null|
 |**2025-12-16**|**HGS: Hybrid Gaussian Splatting with Static-Dynamic Decomposition for Compact Dynamic View Synthesis**|Kaizhe Zhang et.al.|[2512.14352](http://arxiv.org/abs/2512.14352)|null|
@@ -1259,6 +1264,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**OccSTeP: Benchmarking 4D Occupancy Spatio-Temporal Persistence**|Yu Zheng et.al.|[2512.15621](http://arxiv.org/abs/2512.15621)|null|
+|**2025-12-17**|**Gaussian Process Dual MPC using Active Inference: An Autonomous Vehicle Usecase**|Mohammad Mahmoudi Filabadi et.al.|[2512.15381](http://arxiv.org/abs/2512.15381)|null|
+|**2025-12-17**|**KD360-VoxelBEV: LiDAR and 360-degree Camera Cross Modality Knowledge Distillation for Bird's-Eye-View Segmentation**|Wenke E et.al.|[2512.15311](http://arxiv.org/abs/2512.15311)|null|
+|**2025-12-17**|**EPSM: A Novel Metric to Evaluate the Safety of Environmental Perception in Autonomous Driving**|Jörg Gamerdinger et.al.|[2512.15195](http://arxiv.org/abs/2512.15195)|null|
+|**2025-12-17**|**Large Model Enabled Embodied Intelligence for 6G Integrated Perception, Communication, and Computation Network**|Zhuoran Li et.al.|[2512.15109](http://arxiv.org/abs/2512.15109)|null|
+|**2025-12-17**|**LADY: Linear Attention for Autonomous Driving Efficiency without Transformers**|Jihao Huang et.al.|[2512.15038](http://arxiv.org/abs/2512.15038)|null|
 |**2025-12-16**|**DriverGaze360: OmniDirectional Driver Attention with Object-Level Guidance**|Shreedhar Govil et.al.|[2512.14266](http://arxiv.org/abs/2512.14266)|null|
 |**2025-12-16**|**OmniGen: Unified Multimodal Sensor Generation for Autonomous Driving**|Tao Tang et.al.|[2512.14225](http://arxiv.org/abs/2512.14225)|null|
 |**2025-12-16**|**CIS-BA: Continuous Interaction Space Based Backdoor Attack for Object Detection in the Real-World**|Shuxin Zhao et.al.|[2512.14158](http://arxiv.org/abs/2512.14158)|null|
@@ -2349,6 +2360,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**Wake instability past a sphere settling in a strongly stratified flow**|Chang-Fan Mo et.al.|[2512.15626](http://arxiv.org/abs/2512.15626)|**[link](https://github.com/napbartudev/sds)**|
+|**2025-12-17**|**Measurements of the Absolute Branching Fraction of the Semileptonic Decay $\mathbf{Ξ^{-}\rightarrow Λe^- \barν_{e}}$ and the Axial Charge of the $\mathbfΞ^{-}$**|BESIII Collaboration et.al.|[2512.15273](http://arxiv.org/abs/2512.15273)|null|
+|**2025-12-17**|**VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments**|Yuze Wu et.al.|[2512.15258](http://arxiv.org/abs/2512.15258)|null|
+|**2025-12-17**|**Search for the decays $X(3872)\to K_{S}^{0}K^{\pm}π^{\mp}$ and $K^*(892)\bar{K}$ at BESIII**|BESIII Collaboration et.al.|[2512.15091](http://arxiv.org/abs/2512.15091)|null|
+|**2025-12-16**|**Let the Barbarians In: How AI Can Accelerate Systems Performance Research**|Audrey Cheng et.al.|[2512.14806](http://arxiv.org/abs/2512.14806)|null|
+|**2025-12-15**|**SocialNav-MoE: A Mixture-of-Experts Vision Language Model for Socially Compliant Navigation with Reinforcement Fine-Tuning**|Tomohito Kawabata et.al.|[2512.14757](http://arxiv.org/abs/2512.14757)|null|
 |**2025-12-16**|**Measurements of the branching fractions of $χ_{cJ}\to φφη, φφη^{\prime}$ and $φK^+K^-η$**|BESIII Collaboration et.al.|[2512.14369](http://arxiv.org/abs/2512.14369)|null|
 |**2025-12-16**|**SketchAssist: A Practical Assistant for Semantic Edits and Precise Local Redrawing**|Han Zou et.al.|[2512.14140](http://arxiv.org/abs/2512.14140)|null|
 |**2025-12-16**|**SonicMoE: Accelerating MoE with IO and Tile-aware Optimizations**|Wentao Guo et.al.|[2512.14080](http://arxiv.org/abs/2512.14080)|null|
@@ -2875,6 +2892,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**Characterizing Mamba's Selective Memory using Auto-Encoders**|Tamanna Hossain et.al.|[2512.15653](http://arxiv.org/abs/2512.15653)|null|
+|**2025-12-17**|**On non-stationarity of the Poisson gamma state space models**|Kaoru Irie et.al.|[2512.15128](http://arxiv.org/abs/2512.15128)|null|
+|**2025-12-17**|**How Many Heads Make an SSM? A Unified Framework for Attention and State Space Models**|Ali Ghodsi et.al.|[2512.15115](http://arxiv.org/abs/2512.15115)|null|
 |**2025-12-16**|**XAI-Driven Diagnosis of Generalization Failure in State-Space Cerebrovascular Segmentation Models: A Case Study on Domain Shift Between RSNA and TopCoW Datasets**|Youssef Abuzeid et.al.|[2512.13977](http://arxiv.org/abs/2512.13977)|null|
 |**2025-12-15**|**Temporal parallelisation of continuous-time maximum-a-posteriori trajectory estimation**|Hassan Razavi et.al.|[2512.13319](http://arxiv.org/abs/2512.13319)|null|
 |**2025-12-14**|**Error-Free Linear Attention is a Free Lunch: Exact Solution from Continuous-Time Dynamics**|Jingdi Lei et.al.|[2512.12602](http://arxiv.org/abs/2512.12602)|null|
@@ -3388,6 +3408,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**Bridging the Gap Between Modern UX Design and Particle Accelerator Control Room Interfaces**|Rachael Hill et.al.|[2512.14872](http://arxiv.org/abs/2512.14872)|null|
 |**2025-12-11**|**Perception-Inspired Color Space Design for Photo White Balance Editing**|Yang Cheng et.al.|[2512.09383](http://arxiv.org/abs/2512.09383)|null|
 |**2025-12-08**|**Agreement Disagreement Guided Knowledge Transfer for Cross-Scene Hyperspectral Imaging**|Lu Huo et.al.|[2512.08990](http://arxiv.org/abs/2512.08990)|null|
 |**2025-12-08**|**Enhancing Knowledge Transfer in Hyperspectral Image Classification via Cross-scene Knowledge Integration**|Lu Huo et.al.|[2512.08989](http://arxiv.org/abs/2512.08989)|null|
