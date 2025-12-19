@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.18
+## Updated on 2025.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -2334,7 +2334,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-17**|**Wake instability past a sphere settling in a strongly stratified flow**|Chang-Fan Mo et.al.|[2512.15626](http://arxiv.org/abs/2512.15626)|**[link](https://github.com/napbartudev/sds)**|
+|**2025-12-17**|**Wake instability past a sphere settling in a strongly stratified flow**|Chang-Fan Mo et.al.|[2512.15626](http://arxiv.org/abs/2512.15626)|null|
 |**2025-12-17**|**Measurements of the Absolute Branching Fraction of the Semileptonic Decay $\mathbf{Ξ^{-}\rightarrow Λe^- \barν_{e}}$ and the Axial Charge of the $\mathbfΞ^{-}$**|BESIII Collaboration et.al.|[2512.15273](http://arxiv.org/abs/2512.15273)|null|
 |**2025-12-17**|**VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments**|Yuze Wu et.al.|[2512.15258](http://arxiv.org/abs/2512.15258)|null|
 |**2025-12-17**|**Search for the decays $X(3872)\to K_{S}^{0}K^{\pm}π^{\mp}$ and $K^*(892)\bar{K}$ at BESIII**|BESIII Collaboration et.al.|[2512.15091](http://arxiv.org/abs/2512.15091)|null|
