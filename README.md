@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**Plug to Place: Indoor Multimedia Geolocation from Electrical Sockets for Digital Investigation**|Kanwal Aftab et.al.|[2512.16620](http://arxiv.org/abs/2512.16620)|null|
+|**2025-12-18**|**MACL: Multi-Label Adaptive Contrastive Learning Loss for Remote Sensing Image Retrieval**|Amna Amir et.al.|[2512.16294](http://arxiv.org/abs/2512.16294)|null|
 |**2025-12-16**|**CLNet: Cross-View Correspondence Makes a Stronger Geo-Localizationer**|Xianwei Cao et.al.|[2512.14560](http://arxiv.org/abs/2512.14560)|null|
 |**2025-12-16**|**Neurosymbolic Inference On Foundation Models For Remote Sensing Text-to-image Retrieval With Complex Queries**|Emanuele Mezzi et.al.|[2512.14102](http://arxiv.org/abs/2512.14102)|null|
 |**2025-12-15**|**Towards Test-time Efficient Visual Place Recognition via Asymmetric Query Processing**|Jaeyoon Kim et.al.|[2512.13055](http://arxiv.org/abs/2512.13055)|null|
@@ -691,6 +693,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**Instant Expressive Gaussian Head Avatar via 3D-Aware Expression Distillation**|Kaiwen Jiang et.al.|[2512.16893](http://arxiv.org/abs/2512.16893)|null|
+|**2025-12-18**|**SDFoam: Signed-Distance Foam for explicit surface reconstruction**|Antonella Rech et.al.|[2512.16706](http://arxiv.org/abs/2512.16706)|null|
+|**2025-12-18**|**Using Gaussian Splats to Create High-Fidelity Facial Geometry and Texture**|Haodi He et.al.|[2512.16397](http://arxiv.org/abs/2512.16397)|null|
 |**2025-12-17**|**Gaussian Pixel Codec Avatars: A Hybrid Representation for Efficient Rendering**|Divam Gupta et.al.|[2512.15711](http://arxiv.org/abs/2512.15711)|null|
 |**2025-12-17**|**Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting**|Arthur Moreau et.al.|[2512.15508](http://arxiv.org/abs/2512.15508)|null|
 |**2025-12-17**|**VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments**|Yuze Wu et.al.|[2512.15258](http://arxiv.org/abs/2512.15258)|null|
@@ -1264,12 +1269,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**DVGT: Driving Visual Geometry Transformer**|Sicheng Zuo et.al.|[2512.16919](http://arxiv.org/abs/2512.16919)|null|
+|**2025-12-18**|**Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future**|Tianshuai Hu et.al.|[2512.16760](http://arxiv.org/abs/2512.16760)|null|
+|**2025-12-18**|**The Bi-objective Electric Autonomous Dial-a-Ride Problem**|Yue Su et.al.|[2512.16605](http://arxiv.org/abs/2512.16605)|null|
+|**2025-12-18**|**Autoencoder-based Denoising Defense against Adversarial Attacks on Object Detection**|Min Geun Song et.al.|[2512.16123](http://arxiv.org/abs/2512.16123)|null|
+|**2025-12-18**|**Driving in Corner Case: A Real-World Adversarial Closed-Loop Evaluation Platform for End-to-End Autonomous Driving**|Jiaheng Geng et.al.|[2512.16055](http://arxiv.org/abs/2512.16055)|null|
+|**2025-12-17**|**From Words to Wavelengths: VLMs for Few-Shot Multispectral Object Detection**|Manuel Nkegoum et.al.|[2512.15971](http://arxiv.org/abs/2512.15971)|null|
+|**2025-12-17**|**Human-like Working Memory from Artificial Intrinsic Plasticity Neurons**|Jingli Liu et.al.|[2512.15829](http://arxiv.org/abs/2512.15829)|null|
 |**2025-12-17**|**OccSTeP: Benchmarking 4D Occupancy Spatio-Temporal Persistence**|Yu Zheng et.al.|[2512.15621](http://arxiv.org/abs/2512.15621)|null|
 |**2025-12-17**|**Gaussian Process Dual MPC using Active Inference: An Autonomous Vehicle Usecase**|Mohammad Mahmoudi Filabadi et.al.|[2512.15381](http://arxiv.org/abs/2512.15381)|null|
 |**2025-12-17**|**KD360-VoxelBEV: LiDAR and 360-degree Camera Cross Modality Knowledge Distillation for Bird's-Eye-View Segmentation**|Wenke E et.al.|[2512.15311](http://arxiv.org/abs/2512.15311)|null|
 |**2025-12-17**|**EPSM: A Novel Metric to Evaluate the Safety of Environmental Perception in Autonomous Driving**|Jörg Gamerdinger et.al.|[2512.15195](http://arxiv.org/abs/2512.15195)|null|
 |**2025-12-17**|**Large Model Enabled Embodied Intelligence for 6G Integrated Perception, Communication, and Computation Network**|Zhuoran Li et.al.|[2512.15109](http://arxiv.org/abs/2512.15109)|null|
-|**2025-12-17**|**LADY: Linear Attention for Autonomous Driving Efficiency without Transformers**|Jihao Huang et.al.|[2512.15038](http://arxiv.org/abs/2512.15038)|null|
+|**2025-12-18**|**LADY: Linear Attention for Autonomous Driving Efficiency without Transformers**|Jihao Huang et.al.|[2512.15038](http://arxiv.org/abs/2512.15038)|null|
 |**2025-12-16**|**DriverGaze360: OmniDirectional Driver Attention with Object-Level Guidance**|Shreedhar Govil et.al.|[2512.14266](http://arxiv.org/abs/2512.14266)|null|
 |**2025-12-16**|**OmniGen: Unified Multimodal Sensor Generation for Autonomous Driving**|Tao Tang et.al.|[2512.14225](http://arxiv.org/abs/2512.14225)|null|
 |**2025-12-16**|**CIS-BA: Continuous Interaction Space Based Backdoor Attack for Object Detection in the Real-World**|Shuxin Zhao et.al.|[2512.14158](http://arxiv.org/abs/2512.14158)|null|
@@ -2360,11 +2372,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**LinkedOut: Linking World Knowledge Representation Out of Video LLM for Next-Generation Video Recommendation**|Haichao Zhang et.al.|[2512.16891](http://arxiv.org/abs/2512.16891)|null|
+|**2025-12-18**|**The WINTER Observatory: A One-Degree InGaAs Survey Camera to study the Transient Infrared Sky**|Danielle Frostig et.al.|[2512.16753](http://arxiv.org/abs/2512.16753)|null|
+|**2025-12-18**|**PoseMoE: Mixture-of-Experts Network for Monocular 3D Human Pose Estimation**|Mengyuan Liu et.al.|[2512.16494](http://arxiv.org/abs/2512.16494)|null|
+|**2025-12-18**|**Efficient CPU-GPU Collaborative Inference for MoE-based LLMs on Memory-Limited Systems**|En-Ming Huang et.al.|[2512.16473](http://arxiv.org/abs/2512.16473)|null|
+|**2025-12-18**|**Pretrained Battery Transformer (PBT): A battery life prediction foundation model**|Ruifeng Tan et.al.|[2512.16334](http://arxiv.org/abs/2512.16334)|null|
+|**2025-12-18**|**Sigma-Moe-Tiny Technical Report**|Qingguo Hu et.al.|[2512.16248](http://arxiv.org/abs/2512.16248)|null|
+|**2025-12-18**|**Open Ad-hoc Categorization with Contextualized Feature Learning**|Zilin Wang et.al.|[2512.16202](http://arxiv.org/abs/2512.16202)|null|
+|**2025-12-18**|**INTELLECT-3: Technical Report**|Prime Intellect Team et.al.|[2512.16144](http://arxiv.org/abs/2512.16144)|null|
 |**2025-12-17**|**Wake instability past a sphere settling in a strongly stratified flow**|Chang-Fan Mo et.al.|[2512.15626](http://arxiv.org/abs/2512.15626)|null|
 |**2025-12-17**|**Measurements of the Absolute Branching Fraction of the Semileptonic Decay $\mathbf{Ξ^{-}\rightarrow Λe^- \barν_{e}}$ and the Axial Charge of the $\mathbfΞ^{-}$**|BESIII Collaboration et.al.|[2512.15273](http://arxiv.org/abs/2512.15273)|null|
 |**2025-12-17**|**VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments**|Yuze Wu et.al.|[2512.15258](http://arxiv.org/abs/2512.15258)|null|
 |**2025-12-17**|**Search for the decays $X(3872)\to K_{S}^{0}K^{\pm}π^{\mp}$ and $K^*(892)\bar{K}$ at BESIII**|BESIII Collaboration et.al.|[2512.15091](http://arxiv.org/abs/2512.15091)|null|
-|**2025-12-16**|**Let the Barbarians In: How AI Can Accelerate Systems Performance Research**|Audrey Cheng et.al.|[2512.14806](http://arxiv.org/abs/2512.14806)|null|
+|**2025-12-18**|**Let the Barbarians In: How AI Can Accelerate Systems Performance Research**|Audrey Cheng et.al.|[2512.14806](http://arxiv.org/abs/2512.14806)|null|
 |**2025-12-15**|**SocialNav-MoE: A Mixture-of-Experts Vision Language Model for Socially Compliant Navigation with Reinforcement Fine-Tuning**|Tomohito Kawabata et.al.|[2512.14757](http://arxiv.org/abs/2512.14757)|null|
 |**2025-12-16**|**Measurements of the branching fractions of $χ_{cJ}\to φφη, φφη^{\prime}$ and $φK^+K^-η$**|BESIII Collaboration et.al.|[2512.14369](http://arxiv.org/abs/2512.14369)|null|
 |**2025-12-16**|**SketchAssist: A Practical Assistant for Semantic Edits and Precise Local Redrawing**|Han Zou et.al.|[2512.14140](http://arxiv.org/abs/2512.14140)|null|
@@ -2892,6 +2912,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**KineST: A Kinematics-guided Spatiotemporal State Space Model for Human Motion Tracking from Sparse Signals**|Shuting Zhao et.al.|[2512.16791](http://arxiv.org/abs/2512.16791)|null|
+|**2025-12-18**|**KOSS: Kalman-Optimal Selective State Spaces for Long-Term Sequence Modeling**|Lei Wang et.al.|[2512.16723](http://arxiv.org/abs/2512.16723)|null|
+|**2025-12-18**|**CPMamba: Selective State Space Models for MIMO Channel Prediction in High-Mobility Environments**|Sheng Luo et.al.|[2512.16315](http://arxiv.org/abs/2512.16315)|null|
+|**2025-12-17**|**BarcodeMamba+: Advancing State-Space Models for Fungal Biodiversity Research**|Tiancheng Gao et.al.|[2512.15931](http://arxiv.org/abs/2512.15931)|null|
+|**2025-12-14**|**RAMBO: Reliability Analysis for Mamba through Bit-flip attack Optimization**|Sanjay Das et.al.|[2512.15778](http://arxiv.org/abs/2512.15778)|null|
 |**2025-12-17**|**Characterizing Mamba's Selective Memory using Auto-Encoders**|Tamanna Hossain et.al.|[2512.15653](http://arxiv.org/abs/2512.15653)|null|
 |**2025-12-17**|**On non-stationarity of the Poisson gamma state space models**|Kaoru Irie et.al.|[2512.15128](http://arxiv.org/abs/2512.15128)|null|
 |**2025-12-17**|**How Many Heads Make an SSM? A Unified Framework for Attention and State Space Models**|Ali Ghodsi et.al.|[2512.15115](http://arxiv.org/abs/2512.15115)|null|
