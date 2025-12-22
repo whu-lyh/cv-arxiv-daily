@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.21
+## Updated on 2025.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -3424,7 +3424,7 @@ layout: default
 |**2025-11-19**|**Hyperspectral Super-Resolution with Inter-Image Variability via Degradation-based Low-Rank and Residual Fusion Method**|Yue Wen et.al.|[2511.15052](http://arxiv.org/abs/2511.15052)|null|
 |**2025-11-17**|**Human-centric Maintenance Process Through Integration of AI, Speech, and AR**|Parul Khanna et.al.|[2511.13918](http://arxiv.org/abs/2511.13918)|null|
 |**2025-11-17**|**SpectralAdapt: Semi-Supervised Domain Adaptation with Spectral Priors for Human-Centered Hyperspectral Image Reconstruction**|Yufei Wen et.al.|[2511.13020](http://arxiv.org/abs/2511.13020)|null|
-|**2025-11-15**|**CLAReSNet: When Convolution Meets Latent Attention for Hyperspectral Image Classification**|Asmit Bandyopadhyay et.al.|[2511.12346](http://arxiv.org/abs/2511.12346)|null|
+|**2025-11-15**|**CLAReSNet: When Convolution Meets Latent Attention for Hyperspectral Image Classification**|Asmit Bandyopadhyay et.al.|[2511.12346](http://arxiv.org/abs/2511.12346)|**[link](https://github.com/Bandyopadhyay-Asmit/CLAReSNet)**|
 |**2025-11-15**|**Multimodal RGB-HSI Feature Fusion with Patient-Aware Incremental Heuristic Meta-Learning for Oral Lesion Classification**|Rupam Mukherjee et.al.|[2511.12268](http://arxiv.org/abs/2511.12268)|null|
 |**2025-11-13**|**Exposing DeepFakes via Hyperspectral Domain Mapping**|Aditya Mehta et.al.|[2511.11732](http://arxiv.org/abs/2511.11732)|null|
 |**2025-11-13**|**Perceive, Act and Correct: Confidence Is Not Enough for Hyperspectral Classification**|Muzhou Yang et.al.|[2511.10068](http://arxiv.org/abs/2511.10068)|null|
