@@ -41,7 +41,7 @@
 |**2025-12-05**|**NormalView: sensor-agnostic tree species classification from backpack and aerial lidar data using geometric projections**|Juho Korkeala et.al.|[2512.05610](http://arxiv.org/abs/2512.05610)|null|
 |**2025-12-05**|**Learning High-Fidelity Cloth Animation via Skinning-Free Image Transfer**|Rong Wang et.al.|[2512.05593](http://arxiv.org/abs/2512.05593)|null|
 |**2025-12-05**|**A Comprehensive Framework for Automated Quality Control in the Automotive Industry**|Panagiota Moraiti et.al.|[2512.05579](http://arxiv.org/abs/2512.05579)|null|
-|**2025-12-05**|**MedDIFT: Multi-Scale Diffusion-Based Correspondence in 3D Medical Imaging**|Xingyu Zhang et.al.|[2512.05571](http://arxiv.org/abs/2512.05571)|null|
+|**2025-12-05**|**MedDIFT: Multi-Scale Diffusion-Based Correspondence in 3D Medical Imaging**|Xingyu Zhang et.al.|[2512.05571](http://arxiv.org/abs/2512.05571)|**[link](https://github.com/merlinxyz/MedDIFT)**|
 |**2025-12-05**|**2K-Characters-10K-Stories: A Quality-Gated Stylized Narrative Dataset with Disentangled Control and Sequence Consistency**|Xingxi Yin et.al.|[2512.05557](http://arxiv.org/abs/2512.05557)|null|
 |**2025-12-05**|**Know-Show: Benchmarking Video-Language Models on Spatio-Temporal Grounded Reasoning**|Chinthani Sugandhika et.al.|[2512.05513](http://arxiv.org/abs/2512.05513)|null|
 |**2025-12-05**|**Decoding with Structured Awareness: Integrating Directional, Frequency-Spatial, and Structural Attention for Medical Image Segmentation**|Fan Zhang et.al.|[2512.05494](http://arxiv.org/abs/2512.05494)|null|
@@ -791,7 +791,7 @@
 |**2025-12-02**|**Flux4D: Flow-based Unsupervised 4D Reconstruction**|Jingkang Wang et.al.|[2512.03210](http://arxiv.org/abs/2512.03210)|null|
 |**2025-12-02**|**PPTArena: A Benchmark for Agentic PowerPoint Editing**|Michael Ofengenden et.al.|[2512.03042](http://arxiv.org/abs/2512.03042)|null|
 |**2025-12-02**|**SurfFill: Completion of LiDAR Point Clouds via Gaussian Surfel Splatting**|Svenja Strobel et.al.|[2512.03010](http://arxiv.org/abs/2512.03010)|null|
-|**2025-12-02**|**DGGT: Feedforward 4D Reconstruction of Dynamic Driving Scenes using Unposed Images**|Xiaoxue Chen et.al.|[2512.03004](http://arxiv.org/abs/2512.03004)|null|
+|**2025-12-02**|**DGGT: Feedforward 4D Reconstruction of Dynamic Driving Scenes using Unposed Images**|Xiaoxue Chen et.al.|[2512.03004](http://arxiv.org/abs/2512.03004)|**[link](https://github.com/xiaomi-research/dggt)**|
 |**2025-12-02**|**EGGS: Exchangeable 2D/3D Gaussian Splatting for Geometry-Appearance Balanced Novel View Synthesis**|Yancheng Zhang et.al.|[2512.02932](http://arxiv.org/abs/2512.02932)|null|
 |**2025-12-02**|**Adaptive hydrogels with spatiotemporal stiffening using pH-modulating enzymes**|Natascha Gray et.al.|[2512.02698](http://arxiv.org/abs/2512.02698)|null|
 |**2025-12-02**|**PolarGuide-GSDR: 3D Gaussian Splatting Driven by Polarization Priors and Deferred Reflection for Real-World Reflective Scenes**|Derui Shan et.al.|[2512.02664](http://arxiv.org/abs/2512.02664)|null|
@@ -1493,7 +1493,7 @@
 |**2025-11-20**|**AskDB: An LLM Agent for Natural Language Interaction with Relational Databases**|Xuan-Quang Phan et.al.|[2511.16131](http://arxiv.org/abs/2511.16131)|null|
 |**2025-11-20**|**LiSTAR: Ray-Centric World Models for 4D LiDAR Sequences in Autonomous Driving**|Pei Liu et.al.|[2511.16049](http://arxiv.org/abs/2511.16049)|null|
 |**2025-11-19**|**RE for AI in Practice: Managing Data Annotation Requirements for AI Autonomous Driving Systems**|Hina Saeeda et.al.|[2511.15859](http://arxiv.org/abs/2511.15859)|null|
-|**2025-11-19**|**Continual Reinforcement Learning for Cyber-Physical Systems: Lessons Learned and Open Challenges**|Kim N. Nolle et.al.|[2511.15652](http://arxiv.org/abs/2511.15652)|null|
+|**2025-11-19**|**Continual Reinforcement Learning for Cyber-Physical Systems: Lessons Learned and Open Challenges**|Kim N. Nolle et.al.|[2511.15652](http://arxiv.org/abs/2511.15652)|**[link](https://github.com/knolle1/cl-parking-rldm2025)**|
 |**2025-11-19**|**Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2511.15597](http://arxiv.org/abs/2511.15597)|null|
 |**2025-11-20**|**CompTrack: Information Bottleneck-Guided Low-Rank Dynamic Token Compression for Point Cloud Tracking**|Sifan Zhou et.al.|[2511.15580](http://arxiv.org/abs/2511.15580)|null|
 |**2025-11-19**|**Computer-Use Agents as Judges for Generative User Interface**|Kevin Qinghong Lin et.al.|[2511.15567](http://arxiv.org/abs/2511.15567)|null|
@@ -2885,7 +2885,7 @@
 |**2025-09-01**|**LongCat-Flash Technical Report**|Meituan LongCat Team et.al.|[2509.01322](http://arxiv.org/abs/2509.01322)|null|
 |**2025-09-01**|**SimulMEGA: MoE Routers are Advanced Policy Makers for Simultaneous Speech Translation**|Chenyang Le et.al.|[2509.01200](http://arxiv.org/abs/2509.01200)|null|
 |**2025-09-06**|**Joint Information Extraction Across Classical and Modern Chinese with Tea-MOELoRA**|Xuemei Tang et.al.|[2509.01158](http://arxiv.org/abs/2509.01158)|null|
-|**2025-08-31**|**MEPT: Mixture of Expert Prompt Tuning as a Manifold Mapper**|Runjia Zeng et.al.|[2509.00996](http://arxiv.org/abs/2509.00996)|null|
+|**2025-08-31**|**MEPT: Mixture of Expert Prompt Tuning as a Manifold Mapper**|Runjia Zeng et.al.|[2509.00996](http://arxiv.org/abs/2509.00996)|**[link](https://github.com/runtsang/MEPT)**|
 |**2025-08-31**|**Router Upcycling: Leveraging Mixture-of-Routers in Mixture-of-Experts Upcycling**|Junfeng Ran et.al.|[2509.00679](http://arxiv.org/abs/2509.00679)|null|
 |**2025-11-03**|**Accelerating Mixture-of-Experts Inference by Hiding Offloading Latency with Speculative Decoding**|Zhibin Wang et.al.|[2508.21706](http://arxiv.org/abs/2508.21706)|null|
 |**2025-07-01**|**Sub-MoE: Efficient Mixture-of-Expert LLMs Compression via Subspace Expert Merging**|Lujun Li et.al.|[2506.23266](http://arxiv.org/abs/2506.23266)|null|
@@ -3095,8 +3095,8 @@
 |**2025-11-25**|**Proximity driven photon-tunneling in chiral quantum hybrid systems**|Aryan Pratap Srivastava et.al.|[2511.20357](http://arxiv.org/abs/2511.20357)|null|
 |**2025-11-25**|**Active Inference in Discrete State Spaces from First Principles**|Patrick Kenny et.al.|[2511.20321](http://arxiv.org/abs/2511.20321)|null|
 |**2025-11-25**|**Improving Language Agents through BREW**|Shashank Kirtania et.al.|[2511.20297](http://arxiv.org/abs/2511.20297)|null|
-|**2025-11-25**|**DAPointMamba: Domain Adaptive Point Mamba for Point Cloud Completion**|Yinghui Li et.al.|[2511.20278](http://arxiv.org/abs/2511.20278)|null|
-|**2025-11-25**|**PromptMoG: Enhancing Diversity in Long-Prompt Image Generation via Prompt Embedding Mixture-of-Gaussian Sampling**|Bo-Kai Ruan et.al.|[2511.20251](http://arxiv.org/abs/2511.20251)|null|
+|**2025-11-25**|**DAPointMamba: Domain Adaptive Point Mamba for Point Cloud Completion**|Yinghui Li et.al.|[2511.20278](http://arxiv.org/abs/2511.20278)|**[link](https://github.com/Yinghui-Li-New/DAMamba)**|
+|**2025-11-25**|**PromptMoG: Enhancing Diversity in Long-Prompt Image Generation via Prompt Embedding Mixture-of-Gaussian Sampling**|Bo-Kai Ruan et.al.|[2511.20251](http://arxiv.org/abs/2511.20251)|**[link](https://github.com/basiclab/PromptMoG)**|
 |**2025-11-25**|**POMDP-Based Routing for DTNs with Partial Knowledge and Dependent Failures**|Gregory F. Stock et.al.|[2511.20241](http://arxiv.org/abs/2511.20241)|null|
 |**2025-11-25**|**Communication-Efficient Learning for Satellite Constellations**|Ruxandra-Stefania Tudose et.al.|[2511.20220](http://arxiv.org/abs/2511.20220)|null|
 |**2025-11-25**|**Exo2EgoSyn: Unlocking Foundation Video Generation Models for Exocentric-to-Egocentric Video Synthesis**|Mohammad Mahdi et.al.|[2511.20186](http://arxiv.org/abs/2511.20186)|null|
@@ -3341,12 +3341,12 @@
 |**2025-09-30**|**PRISM: Progressive Rain removal with Integrated State-space Modeling**|Pengze Xue et.al.|[2509.26413](http://arxiv.org/abs/2509.26413)|null|
 |**2025-09-30**|**Neural Network State-Space Estimators**|Minxing Sun et.al.|[2509.25959](http://arxiv.org/abs/2509.25959)|null|
 |**2025-09-30**|**Bringing Emerging Architectures to Sequence Labeling in NLP**|Ana Ezquerro et.al.|[2509.25918](http://arxiv.org/abs/2509.25918)|null|
-|**2025-09-29**|**Benchmarking ECG Foundational Models: A Reality Check Across Clinical Tasks**|M A Al-Masud et.al.|[2509.25095](http://arxiv.org/abs/2509.25095)|null|
-|**2025-09-29**|**DyMoDreamer: World Modeling with Dynamic Modulation**|Boxuan Zhang et.al.|[2509.24804](http://arxiv.org/abs/2509.24804)|null|
+|**2025-09-29**|**Benchmarking ECG Foundational Models: A Reality Check Across Clinical Tasks**|M A Al-Masud et.al.|[2509.25095](http://arxiv.org/abs/2509.25095)|**[link](https://github.com/Ay250/250953N)**|
+|**2025-09-29**|**DyMoDreamer: World Modeling with Dynamic Modulation**|Boxuan Zhang et.al.|[2509.24804](http://arxiv.org/abs/2509.24804)|**[link](https://github.com/Ultraman-Tiga1/DyMoDreamer)**|
 |**2025-09-29**|**Q-Net: Transferable Queue Length Estimation via Kalman-based Neural Networks**|Ting Gao et.al.|[2509.24725](http://arxiv.org/abs/2509.24725)|null|
 |**2025-09-29**|**Wavelet-Assisted Mamba for Satellite-Derived Sea Surface Temperature Super-Resolution**|Wankun Chen et.al.|[2509.24334](http://arxiv.org/abs/2509.24334)|null|
-|**2025-09-29**|**Similarity-Aware Selective State-Space Modeling for Semantic Correspondence**|Seungwook Kim et.al.|[2509.24318](http://arxiv.org/abs/2509.24318)|null|
-|**2025-09-28**|**HyMaTE: A Hybrid Mamba and Transformer Model for EHR Representation Learning**|Md Mozaharul Mottalib et.al.|[2509.24118](http://arxiv.org/abs/2509.24118)|null|
+|**2025-09-29**|**Similarity-Aware Selective State-Space Modeling for Semantic Correspondence**|Seungwook Kim et.al.|[2509.24318](http://arxiv.org/abs/2509.24318)|**[link](https://github.com/wookiekim/MambaMatcher)**|
+|**2025-09-28**|**HyMaTE: A Hybrid Mamba and Transformer Model for EHR Representation Learning**|Md Mozaharul Mottalib et.al.|[2509.24118](http://arxiv.org/abs/2509.24118)|**[link](https://github.com/mmmdip/HyMaTE)**|
 |**2025-09-28**|**Hazy Pedestrian Trajectory Prediction via Physical Priors and Graph-Mamba**|Jian Chen et.al.|[2509.24020](http://arxiv.org/abs/2509.24020)|null|
 |**2025-09-28**|**Trained Mamba Emulates Online Gradient Descent in In-Context Linear Regression**|Jiarui Jiang et.al.|[2509.23779](http://arxiv.org/abs/2509.23779)|null|
 |**2025-10-04**|**EfficientMIL: Efficient Linear-Complexity MIL Method for WSI Classification**|Chengying She et.al.|[2509.23640](http://arxiv.org/abs/2509.23640)|**[link](https://github.com/chengyingshe/EfficientMIL)**|

@@ -549,7 +549,7 @@ layout: default
 |**2025-03-20**|**CMMLoc: Advancing Text-to-PointCloud Localization with Cauchy-Mixture-Model Based Framework**|Yanlong Xu et.al.|[2503.02593](http://arxiv.org/abs/2503.02593)|null|
 |**2025-02-07**|**HeLiOS: Heterogeneous LiDAR Place Recognition via Overlap-based Learning and Local Spherical Transformer**|Minwoo Jung et.al.|[2501.18943](http://arxiv.org/abs/2501.18943)|null|
 |**2024-12-20**|**SaliencyI2PLoc: saliency-guided image-point cloud localization using contrastive learning**|Yuhao Li et.al.|[2412.15577](http://arxiv.org/abs/2412.15577)|null|
-|**2025-04-04**|**PerLA: Perceptive 3D Language Assistant**|Guofeng Mei et.al.|[2411.19774](http://arxiv.org/abs/2411.19774)|null|
+|**2025-04-04**|**PerLA: Perceptive 3D Language Assistant**|Guofeng Mei et.al.|[2411.19774](http://arxiv.org/abs/2411.19774)|**[link](https://github.com/gfmei/PerLA)**|
 |**2024-10-10**|**Monocular Visual Place Recognition in LiDAR Maps via Cross-Modal State Space Model and Multi-View Matching**|Gongxin Yao et.al.|[2410.06285](http://arxiv.org/abs/2410.06285)|null|
 |**2025-05-19**|**A Deeper Look into Second-Order Feature Aggregation for LiDAR Place Recognition**|Saimunur Rahman et.al.|[2409.15919](http://arxiv.org/abs/2409.15919)|null|
 |**2024-09-06**|**Matched Filtering based LiDAR Place Recognition for Urban and Natural Environments**|Therese Joseph et.al.|[2409.03998](http://arxiv.org/abs/2409.03998)|null|
@@ -560,7 +560,7 @@ layout: default
 |**2024-05-14**|**OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**|Qiuchi Xiang et.al.|[2405.07966](http://arxiv.org/abs/2405.07966)|**[link](https://github.com/SCNU-RISLAB/OverlapMamba)**|
 |**2025-03-14**|**VXP: Voxel-Cross-Pixel Large-scale Image-LiDAR Place Recognition**|Yun-Jin Li et.al.|[2403.14594](http://arxiv.org/abs/2403.14594)|null|
 |**2024-08-30**|**Evaluation and Deployment of LiDAR-based Place Recognition in Dense Forests**|Haedam Oh et.al.|[2403.14326](http://arxiv.org/abs/2403.14326)|null|
-|**2024-02-27**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|null|
+|**2024-02-27**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|**[link](https://github.com/Master-cai/VOLoc)**|
 |**2024-03-19**|**HeLiPR: Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition under Spatiotemporal Variations**|Minwoo Jung et.al.|[2309.14590](http://arxiv.org/abs/2309.14590)|null|
 |**2023-08-25**|**VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition**|Gengxuan Tian et.al.|[2308.12870](http://arxiv.org/abs/2308.12870)|null|
 |**2024-09-25**|**SelFLoc: Selective Feature Fusion for Large-scale Point Cloud-based Place Recognition**|Qibo Qiu et.al.|[2306.01205](http://arxiv.org/abs/2306.01205)|null|
@@ -718,7 +718,7 @@ layout: default
 |**2025-12-09**|**GTAvatar: Bridging Gaussian Splatting and Texture Mapping for Relightable and Editable Gaussian Avatars**|Kelian Baert et.al.|[2512.09162](http://arxiv.org/abs/2512.09162)|null|
 |**2025-12-09**|**OpenMonoGS-SLAM: Monocular Gaussian Splatting SLAM with Open-set Semantics**|Jisang Yoo et.al.|[2512.08625](http://arxiv.org/abs/2512.08625)|null|
 |**2025-12-09**|**On-the-fly Large-scale 3D Reconstruction from Multi-Camera Rigs**|Yijia Guo et.al.|[2512.08498](http://arxiv.org/abs/2512.08498)|null|
-|**2025-12-09**|**Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform**|Yuning Gong et.al.|[2512.08478](http://arxiv.org/abs/2512.08478)|null|
+|**2025-12-09**|**Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform**|Yuning Gong et.al.|[2512.08478](http://arxiv.org/abs/2512.08478)|**[link](https://github.com/Visionary-Laboratory/visionary)**|
 |**2025-12-09**|**HybridSplat: Fast Reflection-baked Gaussian Tracing using Hybrid Splatting**|Chang Liu et.al.|[2512.08334](http://arxiv.org/abs/2512.08334)|null|
 |**2025-12-09**|**Zero-Splat TeleAssist: A Zero-Shot Pose Estimation Framework for Semantic Teleoperation**|Srijan Dokania et.al.|[2512.08271](http://arxiv.org/abs/2512.08271)|null|
 |**2025-12-08**|**Multi-view Pyramid Transformer: Look Coarser to See Broader**|Gyeongjin Kang et.al.|[2512.07806](http://arxiv.org/abs/2512.07806)|null|
@@ -2255,7 +2255,7 @@ layout: default
 |**2025-06-17**|**TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Indoor Localization and Mapping**|Jeewon Kim et.al.|[2506.14178](http://arxiv.org/abs/2506.14178)|null|
 |**2025-06-16**|**Complexity of Coexistence Regions in the GRHT Map**|Sishu Shankar Muni et.al.|[2506.13515](http://arxiv.org/abs/2506.13515)|null|
 |**2025-06-09**|**ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving**|Yongkang Li et.al.|[2506.08052](http://arxiv.org/abs/2506.08052)|null|
-|**2025-06-07**|**Multimodal Spatial Language Maps for Robot Navigation and Manipulation**|Chenguang Huang et.al.|[2506.06862](http://arxiv.org/abs/2506.06862)|null|
+|**2025-06-07**|**Multimodal Spatial Language Maps for Robot Navigation and Manipulation**|Chenguang Huang et.al.|[2506.06862](http://arxiv.org/abs/2506.06862)|**[link](https://github.com/Tom-Huang/mslmaps)**|
 |**2025-08-19**|**Flexible Operator Fusion for Fast Sparse Transformer with Diverse Masking on GPU**|Wenhao Dai et.al.|[2506.06095](http://arxiv.org/abs/2506.06095)|null|
 |**2025-07-31**|**X-ray Polarization Detection of the Pulsar Wind Nebula in G21.5-0.9 with IXPE**|Niccolò Di Lalla et.al.|[2506.05630](http://arxiv.org/abs/2506.05630)|null|
 |**2025-08-13**|**DualMap: Online Open-Vocabulary Semantic Mapping for Natural Language Navigation in Dynamic Changing Scenes**|Jiajun Jiang et.al.|[2506.01950](http://arxiv.org/abs/2506.01950)|null|
@@ -3230,8 +3230,8 @@ layout: default
 |**2025-11-13**|**A Universal Block Error Rate Bound for Fluid Antenna Systems**|Zhentian Zhang et.al.|[2511.09929](http://arxiv.org/abs/2511.09929)|null|
 |**2025-11-13**|**Boosting In-Silicon Directed Evolution with Fine-Tuned Protein Language Model and Tree Search**|Yaodong Yang et.al.|[2511.09900](http://arxiv.org/abs/2511.09900)|null|
 |**2025-11-13**|**Interaction-induced Dimension Reduction for Bound States in Microwave-Shielded Ultracold Molecules**|Haitian Wang et.al.|[2511.09856](http://arxiv.org/abs/2511.09856)|null|
-|**2025-11-12**|**Test-Time Spectrum-Aware Latent Steering for Zero-Shot Generalization in Vision-Language Models**|Konstantinos M. Dafnis et.al.|[2511.09809](http://arxiv.org/abs/2511.09809)|null|
-|**2025-11-12**|**A Robust Task-Level Control Architecture for Learned Dynamical Systems**|Eshika Pathak et.al.|[2511.09790](http://arxiv.org/abs/2511.09790)|null|
+|**2025-11-12**|**Test-Time Spectrum-Aware Latent Steering for Zero-Shot Generalization in Vision-Language Models**|Konstantinos M. Dafnis et.al.|[2511.09809](http://arxiv.org/abs/2511.09809)|**[link](https://github.com/kdafnis/STS)**|
+|**2025-11-12**|**A Robust Task-Level Control Architecture for Learned Dynamical Systems**|Eshika Pathak et.al.|[2511.09790](http://arxiv.org/abs/2511.09790)|**[link](https://github.com/eshikapathak/L1-DS)**|
 |**2025-11-12**|**Ksurf-Drone: Attention Kalman Filter for Contextual Bandit Optimization in Cloud Resource Allocation**|Michael Dang'ana et.al.|[2511.09766](http://arxiv.org/abs/2511.09766)|null|
 |**2025-11-12**|**CloudMamba: Grouped Selective State Spaces for Point Cloud Analysis**|Kanglin Qu et.al.|[2511.07823](http://arxiv.org/abs/2511.07823)|null|
 |**2025-11-10**|**On the Redundant Distributed Observability of Mixed Traffic Transportation Systems**|M. Doostmohammadian et.al.|[2511.06950](http://arxiv.org/abs/2511.06950)|null|
