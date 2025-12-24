@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark**|Hao Guo et.al.|[2512.20174](http://arxiv.org/abs/2512.20174)|null|
+|**2025-12-23**|**Towards Generative Location Awareness for Disaster Response: A Probabilistic Cross-view Geolocalization Approach**|Hao Li et.al.|[2512.20056](http://arxiv.org/abs/2512.20056)|null|
 |**2025-12-22**|**Beyond CLIP: Knowledge-Enhanced Multimodal Transformers for Cross-Modal Alignment in Diabetic Retinopathy Diagnosis**|Argha Kamal Samanta et.al.|[2512.19663](http://arxiv.org/abs/2512.19663)|null|
 |**2025-12-22**|**Finer-Personalization Rank: Fine-Grained Retrieval Examines Identity Preservation for Personalized Generation**|Connor Kilrain et.al.|[2512.19026](http://arxiv.org/abs/2512.19026)|**[link](https://github.com/OSU-MLB/Finer-Personalization-Rank)**|
 |**2025-12-21**|**Text2Graph VPR: A Text-to-Graph Expert System for Explainable Place Recognition in Changing Environments**|Saeideh Yousefzadeh et.al.|[2512.18613](http://arxiv.org/abs/2512.18613)|null|
@@ -701,6 +703,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**Nebula: Enable City-Scale 3D Gaussian Splatting in Virtual Reality via Collaborative Rendering and Accelerated Stereo Rasterization**|He Zhu et.al.|[2512.20495](http://arxiv.org/abs/2512.20495)|null|
+|**2025-12-23**|**SmartSplat: Feature-Smart Gaussians for Scalable Compression of Ultra-High-Resolution Images**|Linfei Li et.al.|[2512.20377](http://arxiv.org/abs/2512.20377)|null|
+|**2025-12-23**|**Enhancing annotations for 5D apple pose estimation through 3D Gaussian Splatting (3DGS)**|Robert van de Ven et.al.|[2512.20148](http://arxiv.org/abs/2512.20148)|null|
+|**2025-12-23**|**Dreamcrafter: Immersive Editing of 3D Radiance Fields Through Flexible, Generative Inputs and Outputs**|Cyrus Vachha et.al.|[2512.20129](http://arxiv.org/abs/2512.20129)|null|
 |**2025-12-22**|**WorldWarp: Propagating 3D Geometry with Asynchronous Video Diffusion**|Hanyang Kong et.al.|[2512.19678](http://arxiv.org/abs/2512.19678)|null|
 |**2025-12-22**|**4D Gaussian Splatting as a Learned Dynamical System**|Arnold Caleb Asiimwe et.al.|[2512.19648](http://arxiv.org/abs/2512.19648)|null|
 |**2025-12-22**|**GaussianImage++: Boosted Image Representation and Compression with 2D Gaussian Splatting**|Tiantian Li et.al.|[2512.19108](http://arxiv.org/abs/2512.19108)|null|
@@ -1289,6 +1295,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**KnowVal: A Knowledge-Augmented and Value-Guided Autonomous Driving System**|Zhongyu Xia et.al.|[2512.20299](http://arxiv.org/abs/2512.20299)|null|
+|**2025-12-23**|**UrbanV2X: A Multisensory Vehicle-Infrastructure Dataset for Cooperative Navigation in Urban Areas**|Qijun Qin et.al.|[2512.20224](http://arxiv.org/abs/2512.20224)|null|
+|**2025-12-23**|**RESPOND: Risk-Enhanced Structured Pattern for LLM-driven Online Node-level Decision-making**|Dan Chen et.al.|[2512.20179](http://arxiv.org/abs/2512.20179)|null|
+|**2025-12-23**|**LiDARDraft: Generating LiDAR Point Cloud from Versatile Inputs**|Haiyun Wei et.al.|[2512.20105](http://arxiv.org/abs/2512.20105)|null|
+|**2025-12-22**|**Vehicle-centric Perception via Multimodal Structured Pre-training**|Wentao Wu et.al.|[2512.19934](http://arxiv.org/abs/2512.19934)|null|
 |**2025-12-22**|**A Gauss-Newton-Induced Structure-Exploiting Algorithm for Differentiable Optimal Control**|Yuankun Chen et.al.|[2512.19447](http://arxiv.org/abs/2512.19447)|null|
 |**2025-12-22**|**Are All Data Necessary? Efficient Data Pruning for Large-scale Autonomous Driving Dataset via Trajectory Entropy Maximization**|Zhaoyang Liu et.al.|[2512.19270](http://arxiv.org/abs/2512.19270)|null|
 |**2025-12-22**|**AMap: Distilling Future Priors for Ahead-Aware Online HD Map Construction**|Ruikai Li et.al.|[2512.19150](http://arxiv.org/abs/2512.19150)|null|
@@ -2409,6 +2420,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**MoE-DiffuSeq: Enhancing Long-Document Diffusion Models with Sparse Attention and Mixture of Experts**|Alexandros Christoforos et.al.|[2512.20604](http://arxiv.org/abs/2512.20604)|null|
+|**2025-12-23**|**Branch Learning in MRI: More Data, More Models, More Training**|Yuyang Li et.al.|[2512.20330](http://arxiv.org/abs/2512.20330)|null|
+|**2025-12-23**|**Mixture-of-Experts with Gradient Conflict-Driven Subspace Topology Pruning for Emergent Modularity**|Yuxing Gan et.al.|[2512.20291](http://arxiv.org/abs/2512.20291)|null|
+|**2025-12-23**|**Degradation-Aware Metric Prompting for Hyperspectral Image Restoration**|Binfeng Wang et.al.|[2512.20251](http://arxiv.org/abs/2512.20251)|null|
+|**2025-12-23**|**AMoE: Agglomerative Mixture-of-Experts Vision Foundation Model**|Sofian Chaybouti et.al.|[2512.20157](http://arxiv.org/abs/2512.20157)|null|
+|**2025-12-23**|**Fun-Audio-Chat Technical Report**|Qian Chen et.al.|[2512.20156](http://arxiv.org/abs/2512.20156)|null|
+|**2025-12-23**|**Bring My Cup! Personalizing Vision-Language-Action Models with Visual Attentive Prompting**|Sangoh Lee et.al.|[2512.20014](http://arxiv.org/abs/2512.20014)|null|
+|**2025-12-23**|**Observation and branching fraction measurements of $χ_{cJ}\to p \bar p K^0_S K^0_S$**|BESIII Collaboration et.al.|[2512.19993](http://arxiv.org/abs/2512.19993)|null|
+|**2025-12-22**|**UCCL-EP: Portable Expert-Parallel Communication**|Ziming Mao et.al.|[2512.19849](http://arxiv.org/abs/2512.19849)|null|
+|**2025-12-21**|**How Many Experts Are Enough? Towards Optimal Semantic Specialization for Mixture-of-Experts**|Sumin Park et.al.|[2512.19765](http://arxiv.org/abs/2512.19765)|null|
 |**2025-12-22**|**Towards Closed-Loop Embodied Empathy Evolution: Probing LLM-Centric Lifelong Empathic Motion Generation in Unseen Scenarios**|Jiawen Wang et.al.|[2512.19551](http://arxiv.org/abs/2512.19551)|null|
 |**2025-12-22**|**EGM: Efficiently Learning General Motion Tracking Policy for High Dynamic Humanoid Whole-Body Control**|Chao Yang et.al.|[2512.19043](http://arxiv.org/abs/2512.19043)|null|
 |**2025-12-21**|**Tempo as the Stable Cue: Hierarchical Mixture of Tempo and Beat Experts for Music to 3D Dance Generation**|Guangtao Lyu et.al.|[2512.18804](http://arxiv.org/abs/2512.18804)|null|
@@ -2981,9 +3002,9 @@
 |**2025-12-17**|**How Many Heads Make an SSM? A Unified Framework for Attention and State Space Models**|Ali Ghodsi et.al.|[2512.15115](http://arxiv.org/abs/2512.15115)|null|
 |**2025-12-16**|**XAI-Driven Diagnosis of Generalization Failure in State-Space Cerebrovascular Segmentation Models: A Case Study on Domain Shift Between RSNA and TopCoW Datasets**|Youssef Abuzeid et.al.|[2512.13977](http://arxiv.org/abs/2512.13977)|null|
 |**2025-12-15**|**Temporal parallelisation of continuous-time maximum-a-posteriori trajectory estimation**|Hassan Razavi et.al.|[2512.13319](http://arxiv.org/abs/2512.13319)|null|
-|**2025-12-14**|**Error-Free Linear Attention is a Free Lunch: Exact Solution from Continuous-Time Dynamics**|Jingdi Lei et.al.|[2512.12602](http://arxiv.org/abs/2512.12602)|**[link](https://github.com/declare-lab/EFLA)**|
+|**2025-12-14**|**Error-Free Linear Attention is a Free Lunch: Exact Solution from Continuous-Time Dynamics**|Jingdi Lei et.al.|[2512.12602](http://arxiv.org/abs/2512.12602)|null|
 |**2025-12-13**|**HydroDiffusion: Diffusion-Based Probabilistic Streamflow Forecasting with a State Space Backbone**|Yihan Wang et.al.|[2512.12183](http://arxiv.org/abs/2512.12183)|null|
-|**2025-12-12**|**TSkel-Mamba: Temporal Dynamic Modeling via State Space Model for Human Skeleton-based Action Recognition**|Yanan Liu et.al.|[2512.11503](http://arxiv.org/abs/2512.11503)|**[link](https://github.com/ryannus2025-ai/TSkel-Mamba)**|
+|**2025-12-12**|**TSkel-Mamba: Temporal Dynamic Modeling via State Space Model for Human Skeleton-based Action Recognition**|Yanan Liu et.al.|[2512.11503](http://arxiv.org/abs/2512.11503)|null|
 |**2025-12-11**|**On a class of constrained Bayesian filters and their numerical implementation in high-dimensional state-space Markov models**|Utku Erdogan et.al.|[2512.11012](http://arxiv.org/abs/2512.11012)|null|
 |**2025-12-11**|**Hybrid Transformer-Mamba Architecture for Weakly Supervised Volumetric Medical Segmentation**|Yiheng Lyu et.al.|[2512.10353](http://arxiv.org/abs/2512.10353)|null|
 |**2025-12-10**|**Inertial Magnetic SLAM Systems Using Low-Cost Sensors**|Chuan Huang et.al.|[2512.10128](http://arxiv.org/abs/2512.10128)|null|
@@ -3492,6 +3513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**Degradation-Aware Metric Prompting for Hyperspectral Image Restoration**|Binfeng Wang et.al.|[2512.20251](http://arxiv.org/abs/2512.20251)|null|
 |**2025-12-22**|**Rethinking Coupled Tensor Analysis for Hyperspectral Super-Resolution: Recoverable Modeling Under Endmember Variability**|Meng Ding et.al.|[2512.19489](http://arxiv.org/abs/2512.19489)|null|
 |**2025-12-22**|**A Parametric Framework for Anticipatory Flashflood Warning: Integrating Landscape Vulnerability with Precipitation Forecasts**|Xiangpeng Li et.al.|[2512.17785](http://arxiv.org/abs/2512.17785)|null|
 |**2025-12-16**|**Bridging the Gap Between Modern UX Design and Particle Accelerator Control Room Interfaces**|Rachael Hill et.al.|[2512.14872](http://arxiv.org/abs/2512.14872)|null|
