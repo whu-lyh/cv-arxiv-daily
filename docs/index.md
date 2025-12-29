@@ -497,7 +497,7 @@ layout: default
 |**2025-12-05**|**NormalView: sensor-agnostic tree species classification from backpack and aerial lidar data using geometric projections**|Juho Korkeala et.al.|[2512.05610](http://arxiv.org/abs/2512.05610)|null|
 |**2025-12-04**|**A dynamic memory assignment strategy for dilation-based ICP algorithm on embedded GPUs**|Qiong Chang et.al.|[2512.04996](http://arxiv.org/abs/2512.04996)|null|
 |**2025-12-04**|**TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards**|Mauro Martini et.al.|[2512.04772](http://arxiv.org/abs/2512.04772)|null|
-|**2025-12-03**|**DM3D: Deformable Mamba via Offset-Guided Gaussian Sequencing for Point Cloud Understanding**|Bin Liu et.al.|[2512.03424](http://arxiv.org/abs/2512.03424)|null|
+|**2025-12-03**|**DM3D: Deformable Mamba via Offset-Guided Gaussian Sequencing for Point Cloud Understanding**|Bin Liu et.al.|[2512.03424](http://arxiv.org/abs/2512.03424)|**[link](https://github.com/L1277471578/DM3D)**|
 |**2025-12-03**|**What Is The Best 3D Scene Representation for Robotics? From Geometric to Foundation Models**|Tianchen Deng et.al.|[2512.03422](http://arxiv.org/abs/2512.03422)|null|
 |**2025-12-02**|**GraphFusion3D: Dynamic Graph Attention Convolution with Adaptive Cross-Modal Transformer for 3D Object Detection**|Md Sohag Mia et.al.|[2512.02991](http://arxiv.org/abs/2512.02991)|null|
 |**2025-12-02**|**Polar Perspectives: Evaluating 2-D LiDAR Projections for Robust Place Recognition with Visual Foundation Models**|Pierpaolo Serio et.al.|[2512.02897](http://arxiv.org/abs/2512.02897)|null|
@@ -569,9 +569,9 @@ layout: default
 |**2024-10-02**|**Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**|Hogyun Kim et.al.|[2408.07330](http://arxiv.org/abs/2408.07330)|null|
 |**2024-07-31**|**SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition**|Raktim Gautam Goswami et.al.|[2407.08260](http://arxiv.org/abs/2407.08260)|null|
 |**2024-06-21**|**Voxel-Based Point Cloud Localization for Smart Spaces Management**|F. S. Mortazavi et.al.|[2406.15110](http://arxiv.org/abs/2406.15110)|null|
-|**2024-10-09**|**PointNetPGAP-SLC: A 3D LiDAR-based Place Recognition Approach with Segment-level Consistency Training for Mobile Robots in Horticulture**|T. Barros et.al.|[2405.19038](http://arxiv.org/abs/2405.19038)|null|
+|**2024-10-09**|**PointNetPGAP-SLC: A 3D LiDAR-based Place Recognition Approach with Segment-level Consistency Training for Mobile Robots in Horticulture**|T. Barros et.al.|[2405.19038](http://arxiv.org/abs/2405.19038)|**[link](https://github.com/Cybonic/PointNetPGAP-SLC)**|
 |**2024-05-14**|**OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**|Qiuchi Xiang et.al.|[2405.07966](http://arxiv.org/abs/2405.07966)|**[link](https://github.com/SCNU-RISLAB/OverlapMamba)**|
-|**2025-03-14**|**VXP: Voxel-Cross-Pixel Large-scale Image-LiDAR Place Recognition**|Yun-Jin Li et.al.|[2403.14594](http://arxiv.org/abs/2403.14594)|null|
+|**2025-03-14**|**VXP: Voxel-Cross-Pixel Large-scale Image-LiDAR Place Recognition**|Yun-Jin Li et.al.|[2403.14594](http://arxiv.org/abs/2403.14594)|**[link](https://github.com/yunjinli/vxp)**|
 |**2024-08-30**|**Evaluation and Deployment of LiDAR-based Place Recognition in Dense Forests**|Haedam Oh et.al.|[2403.14326](http://arxiv.org/abs/2403.14326)|null|
 |**2024-02-27**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961](http://arxiv.org/abs/2402.15961)|**[link](https://github.com/Master-cai/VOLoc)**|
 |**2024-03-19**|**HeLiPR: Heterogeneous LiDAR Dataset for inter-LiDAR Place Recognition under Spatiotemporal Variations**|Minwoo Jung et.al.|[2309.14590](http://arxiv.org/abs/2309.14590)|null|
@@ -1843,7 +1843,7 @@ layout: default
 |**2025-09-24**|**Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving**|Pengxiang Li et.al.|[2509.20109](http://arxiv.org/abs/2509.20109)|null|
 |**2025-09-25**|**Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models**|Juana Valeria Hurtado et.al.|[2509.20107](http://arxiv.org/abs/2509.20107)|null|
 |**2025-09-24**|**Steerable Adversarial Scenario Generation through Test-Time Preference Alignment**|Tong Nie et.al.|[2509.20102](http://arxiv.org/abs/2509.20102)|null|
-|**2025-09-25**|**OmniScene: Attention-Augmented Multimodal 4D Scene Understanding for Autonomous Driving**|Pei Liu et.al.|[2509.19973](http://arxiv.org/abs/2509.19973)|null|
+|**2025-09-25**|**OmniScene: Attention-Augmented Multimodal 4D Scene Understanding for Autonomous Driving**|Pei Liu et.al.|[2509.19973](http://arxiv.org/abs/2509.19973)|**[link](https://github.com/ocean-luna/OmniScene)**|
 |**2025-09-24**|**BiTAA: A Bi-Task Adversarial Attack for Object Detection and Depth Estimation via 3D Gaussian Splatting**|Yixun Zhang et.al.|[2509.19793](http://arxiv.org/abs/2509.19793)|null|
 |**2025-09-24**|**RDAR: Reward-Driven Agent Relevance Estimation for Autonomous Driving**|Carlo Bosio et.al.|[2509.19789](http://arxiv.org/abs/2509.19789)|null|
 |**2025-09-24**|**EfficienT-HDR: An Efficient Transformer-Based Framework via Multi-Exposure Fusion for HDR Reconstruction**|Yu-Shen Huang et.al.|[2509.19779](http://arxiv.org/abs/2509.19779)|null|
@@ -1996,7 +1996,7 @@ layout: default
 |**2025-12-05**|**The Power of Network Pluralism: Multi-Perspective Modeling of Heterogeneous Legal Document Networks**|Titus Pünder et.al.|[2512.05679](http://arxiv.org/abs/2512.05679)|null|
 |**2025-12-05**|**Over-the-Air Semantic Alignment with Stacked Intelligent Metasurfaces**|Mario Edoardo Pandolfo et.al.|[2512.05657](http://arxiv.org/abs/2512.05657)|null|
 |**2025-12-05**|**Modular Jets for Supervised Pipelines: Diagnosing Mirage vs Identifiability**|Suman Sanyal et.al.|[2512.05638](http://arxiv.org/abs/2512.05638)|null|
-|**2025-12-05**|**Experts-Guided Unbalanced Optimal Transport for ISP Learning from Unpaired and/or Paired Data**|Georgy Perevozchikov et.al.|[2512.05635](http://arxiv.org/abs/2512.05635)|null|
+|**2025-12-05**|**Experts-Guided Unbalanced Optimal Transport for ISP Learning from Unpaired and/or Paired Data**|Georgy Perevozchikov et.al.|[2512.05635](http://arxiv.org/abs/2512.05635)|**[link](https://github.com/gosha20777/EGUOT-ISP)**|
 |**2025-12-05**|**Sticky eigenstates in systems with sharply-divided phase space**|Hua Yan et.al.|[2512.05627](http://arxiv.org/abs/2512.05627)|null|
 |**2025-12-05**|**Refined HLA Linkage Disequilibrium Architectures of World Populations by a Novel Allelic Correlation Measure**|Fei Zhang et.al.|[2512.05573](http://arxiv.org/abs/2512.05573)|null|
 |**2025-12-05**|**Knowing Your Uncertainty -- On the application of LLM in social sciences**|Bolun Zhang et.al.|[2512.05461](http://arxiv.org/abs/2512.05461)|null|
@@ -2098,11 +2098,11 @@ layout: default
 |**2025-11-27**|**NOMA Assisted Downlink Power Allocation in Pinching Antenna Systems Using Convolutional Neural Network**|Saeed Mohammadzadeh et.al.|[2511.22328](http://arxiv.org/abs/2511.22328)|null|
 |**2025-11-27**|**UNION: A Lightweight Target Representation for Efficient Zero-Shot Image-Guided Retrieval with Optional Textual Queries**|Hoang-Bao Le et.al.|[2511.22253](http://arxiv.org/abs/2511.22253)|null|
 |**2025-11-26**|**Machine Learning Approaches to Clinical Risk Prediction: Multi-Scale Temporal Alignment in Electronic Health Records**|Wei-Chen Chang et.al.|[2511.21561](http://arxiv.org/abs/2511.21561)|null|
-|**2025-11-26**|**CanKD: Cross-Attention-based Non-local operation for Feature-based Knowledge Distillation**|Shizhe Sun et.al.|[2511.21503](http://arxiv.org/abs/2511.21503)|null|
+|**2025-11-26**|**CanKD: Cross-Attention-based Non-local operation for Feature-based Knowledge Distillation**|Shizhe Sun et.al.|[2511.21503](http://arxiv.org/abs/2511.21503)|**[link](https://github.com/tori-hotaru/CanKD)**|
 |**2025-11-26**|**Scaling limits of critical FK-decorated random planar maps with $q=4$**|William Da Silva et.al.|[2511.21480](http://arxiv.org/abs/2511.21480)|null|
 |**2025-11-26**|**$\texttt{CRLS}$ : Convolutional Regularized Least Squares Framework for Reduced Order Modeling of Transonic Flows**|Muhammad Bilal et.al.|[2511.21425](http://arxiv.org/abs/2511.21425)|null|
 |**2025-11-26**|**Bombyx: OpenCilk Compilation for FPGA Hardware Acceleration**|Mohamed Shahawy et.al.|[2511.21346](http://arxiv.org/abs/2511.21346)|null|
-|**2025-11-26**|**Discovery and recovery of crystalline materials with property-conditioned transformers**|Cyprien Bone et.al.|[2511.21299](http://arxiv.org/abs/2511.21299)|null|
+|**2025-11-26**|**Discovery and recovery of crystalline materials with property-conditioned transformers**|Cyprien Bone et.al.|[2511.21299](http://arxiv.org/abs/2511.21299)|**[link](https://github.com/C-Bone-UCL/CrystaLLM-pi)**|
 |**2025-11-26**|**Rigidity of bounded-type Siegel polynomials**|Kostiantyn Drach et.al.|[2511.21246](http://arxiv.org/abs/2511.21246)|null|
 |**2025-11-26**|**When barchan dunes move over craters**|Paulo Vitor Ribeiro Plácido et.al.|[2511.21177](http://arxiv.org/abs/2511.21177)|null|
 |**2025-11-26**|**Referring Video Object Segmentation with Cross-Modality Proxy Queries**|Baoli Sun et.al.|[2511.21139](http://arxiv.org/abs/2511.21139)|null|
@@ -3221,10 +3221,10 @@ layout: default
 |**2025-11-20**|**SeSE: A Structural Information-Guided Uncertainty Quantification Framework for Hallucination Detection in LLMs**|Xingtao Zhao et.al.|[2511.16275](http://arxiv.org/abs/2511.16275)|null|
 |**2025-11-20**|**SwiTrack: Tri-State Switch for Cross-Modal Object Tracking**|Boyue Xu et.al.|[2511.16227](http://arxiv.org/abs/2511.16227)|null|
 |**2025-11-20**|**CausalMamba: Interpretable State Space Modeling for Temporal Rumor Causality**|Xiaotong Zhan et.al.|[2511.16191](http://arxiv.org/abs/2511.16191)|null|
-|**2025-11-20**|**Simba: Towards High-Fidelity and Geometrically-Consistent Point Cloud Completion via Transformation Diffusion**|Lirui Zhang et.al.|[2511.16161](http://arxiv.org/abs/2511.16161)|null|
+|**2025-11-20**|**Simba: Towards High-Fidelity and Geometrically-Consistent Point Cloud Completion via Transformation Diffusion**|Lirui Zhang et.al.|[2511.16161](http://arxiv.org/abs/2511.16161)|**[link](https://github.com/I2-Multimedia-Lab/Simba)**|
 |**2025-11-20**|**How Noise Benefits AI-generated Image Detection**|Jiazhen Yan et.al.|[2511.16136](http://arxiv.org/abs/2511.16136)|null|
 |**2025-11-20**|**Decoupling Complexity from Scale in Latent Diffusion Model**|Tianxiong Zhong et.al.|[2511.16117](http://arxiv.org/abs/2511.16117)|null|
-|**2025-11-20**|**Parallelizable Complex Neural Dynamics Models for PMSM Temperature Estimation with Hardware Acceleration**|Xinyuan Liao et.al.|[2511.16093](http://arxiv.org/abs/2511.16093)|null|
+|**2025-11-20**|**Parallelizable Complex Neural Dynamics Models for PMSM Temperature Estimation with Hardware Acceleration**|Xinyuan Liao et.al.|[2511.16093](http://arxiv.org/abs/2511.16093)|**[link](https://github.com/XinyuanLiao/ComplexNDM)**|
 |**2025-11-20**|**A Hybrid Proactive And Predictive Framework For Edge Cloud Resource Management**|Hrikshesh Kumar et.al.|[2511.16075](http://arxiv.org/abs/2511.16075)|null|
 |**2025-11-20**|**High-Throughput Exploration of Refractory High-Entropy Alloys for Strength and Plasticity**|Stephen A. Giles et.al.|[2511.16057](http://arxiv.org/abs/2511.16057)|null|
 |**2025-11-20**|**Exploiting Inter-Sample Information for Long-tailed Out-of-Distribution Detection**|Nimeshika Udayangani et.al.|[2511.16015](http://arxiv.org/abs/2511.16015)|null|
