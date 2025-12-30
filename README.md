@@ -21,10 +21,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**MindWatcher: Toward Smarter Multimodal Tool-Integrated Reasoning**|Jiawei Chen et.al.|[2512.23412](http://arxiv.org/abs/2512.23412)|**[link](https://github.com/TIMMY-CHAN/MindWatcher)**|
+|**2025-12-29**|**Anomaly Detection by Effectively Leveraging Synthetic Images**|Sungho Kang et.al.|[2512.23227](http://arxiv.org/abs/2512.23227)|null|
 |**2025-12-26**|**Reloc-VGGT: Visual Re-localization with Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21883](http://arxiv.org/abs/2512.21883)|null|
 |**2025-12-24**|**Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval**|Dao Sy Duy Minh et.al.|[2512.21221](http://arxiv.org/abs/2512.21221)|null|
-|**2025-12-24**|**UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21078](http://arxiv.org/abs/2512.21078)|null|
-|**2025-12-23**|**Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints**|Youjin Jung et.al.|[2512.20781](http://arxiv.org/abs/2512.20781)|null|
+|**2025-12-28**|**UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21078](http://arxiv.org/abs/2512.21078)|null|
+|**2025-12-23**|**Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints**|Youjin Jung et.al.|[2512.20781](http://arxiv.org/abs/2512.20781)|**[link](https://github.com/jjungyujin/SoFT)**|
 |**2025-12-23**|**Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark**|Hao Guo et.al.|[2512.20174](http://arxiv.org/abs/2512.20174)|null|
 |**2025-12-23**|**Towards Generative Location Awareness for Disaster Response: A Probabilistic Cross-view Geolocalization Approach**|Hao Li et.al.|[2512.20056](http://arxiv.org/abs/2512.20056)|null|
 |**2025-12-22**|**Beyond CLIP: Knowledge-Enhanced Multimodal Transformers for Cross-Modal Alignment in Diabetic Retinopathy Diagnosis**|Argha Kamal Samanta et.al.|[2512.19663](http://arxiv.org/abs/2512.19663)|null|
@@ -667,7 +669,7 @@
 |**2025-10-20**|**Closed-Loop Transfer for Weakly-supervised Affordance Grounding**|Jiajin Tang et.al.|[2510.17384](http://arxiv.org/abs/2510.17384)|null|
 |**2025-09-27**|**AttAnchor: Guiding Cross-Modal Token Alignment in VLMs with Attention Anchors**|Junyang Zhang et.al.|[2509.23109](http://arxiv.org/abs/2509.23109)|null|
 |**2025-09-30**|**InterKey: Cross-modal Intersection Keypoints for Global Localization on OpenStreetMap**|Nguyen Hoang Khoi Tran et.al.|[2509.13857](http://arxiv.org/abs/2509.13857)|null|
-|**2025-09-17**|**Cross-modal Full-mode Fine-grained Alignment for Text-to-Image Person Retrieval**|Hao Yin et.al.|[2509.13754](http://arxiv.org/abs/2509.13754)|null|
+|**2025-12-28**|**Cross-modal Full-mode Fine-grained Alignment for Text-to-Image Person Retrieval**|Hao Yin et.al.|[2509.13754](http://arxiv.org/abs/2509.13754)|null|
 |**2025-09-16**|**Semantic-Enhanced Cross-Modal Place Recognition for Robust Robot Localization**|Yujia Lin et.al.|[2509.13474](http://arxiv.org/abs/2509.13474)|null|
 |**2025-09-12**|**TUNI: Real-time RGB-T Semantic Segmentation with Unified Multi-Modal Feature Extraction and Cross-Modal Feature Fusion**|Xiaodong Guo et.al.|[2509.10005](http://arxiv.org/abs/2509.10005)|null|
 |**2025-09-09**|**Aerial-ground Cross-modal Localization: Dataset, Ground-truth, and Benchmark**|Yandi Yang et.al.|[2509.07362](http://arxiv.org/abs/2509.07362)|null|
@@ -707,6 +709,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**Contour Information Aware 2D Gaussian Splatting for Image Representation**|Masaya Takabe et.al.|[2512.23255](http://arxiv.org/abs/2512.23255)|null|
+|**2025-12-29**|**GVSynergy-Det: Synergistic Gaussian-Voxel Representations for Multi-View 3D Object Detection**|Yi Zhang et.al.|[2512.23176](http://arxiv.org/abs/2512.23176)|null|
+|**2025-12-28**|**Differentiable Physics-Driven Human Representation for Millimeter-Wave Based Pose Estimation**|Shuntian Zheng et.al.|[2512.23054](http://arxiv.org/abs/2512.23054)|null|
+|**2025-12-28**|**Hash Grid Feature Pruning**|Yangzhi Ma et.al.|[2512.22882](http://arxiv.org/abs/2512.22882)|null|
+|**2025-12-28**|**Next Best View Selections for Semantic and Dynamic 3D Gaussian Splatting**|Yiqian Li et.al.|[2512.22771](http://arxiv.org/abs/2512.22771)|null|
+|**2025-12-27**|**SCPainter: A Unified Framework for Realistic 3D Asset Insertion and Novel View Synthesis**|Paul Dobre et.al.|[2512.22706](http://arxiv.org/abs/2512.22706)|null|
+|**2025-12-27**|**Tracking by Predicting 3-D Gaussians Over Time**|Tanish Baranwal et.al.|[2512.22489](http://arxiv.org/abs/2512.22489)|null|
 |**2025-12-24**|**AirGS: Real-Time 4D Gaussian Streaming for Free-Viewpoint Video Experiences**|Zhe Wang et.al.|[2512.20943](http://arxiv.org/abs/2512.20943)|null|
 |**2025-12-24**|**Quantile Rendering: Efficiently Embedding High-dimensional Feature on 3D Gaussian Splatting**|Yoonwoo Jeong et.al.|[2512.20927](http://arxiv.org/abs/2512.20927)|null|
 |**2025-12-23**|**Nebula: Enable City-Scale 3D Gaussian Splatting in Virtual Reality via Collaborative Rendering and Accelerated Stereo Rasterization**|He Zhu et.al.|[2512.20495](http://arxiv.org/abs/2512.20495)|null|
@@ -1301,6 +1310,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception**|Xiaoyu Li et.al.|[2512.23635](http://arxiv.org/abs/2512.23635)|null|
+|**2025-12-29**|**Parallelized Code Generation from Simulink Models for Event-driven and Timer-driven ROS 2 Nodes**|Kenshin Obi et.al.|[2512.23605](http://arxiv.org/abs/2512.23605)|null|
+|**2025-12-29**|**A Kalman Filter-Based Disturbance Observer for Steer-by-Wire Systems**|Nikolai Beving et.al.|[2512.23593](http://arxiv.org/abs/2512.23593)|null|
+|**2025-12-29**|**Unsupervised Learning for Detection of Rare Driving Scenarios**|Dat Le et.al.|[2512.23585](http://arxiv.org/abs/2512.23585)|null|
+|**2025-12-29**|**Model-based Development for Autonomous Driving Software Considering Parallelization**|Kenshin Obi et.al.|[2512.23575](http://arxiv.org/abs/2512.23575)|null|
+|**2025-12-29**|**Assessing behaviour coverage in a multi-agent system simulation for autonomous vehicle testing**|Manuel Franco-Vivo et.al.|[2512.23445](http://arxiv.org/abs/2512.23445)|null|
+|**2025-12-29**|**DriveLaW:Unifying Planning and Video Generation in a Latent Driving World**|Tianze Xia et.al.|[2512.23421](http://arxiv.org/abs/2512.23421)|null|
+|**2025-12-29**|**A Human-Oriented Cooperative Driving Approach: Integrating Driving Intention, State, and Conflict**|Qin Wang et.al.|[2512.23220](http://arxiv.org/abs/2512.23220)|null|
+|**2025-12-29**|**Exploring Syn-to-Real Domain Adaptation for Military Target Detection**|Jongoh Jeong et.al.|[2512.23208](http://arxiv.org/abs/2512.23208)|null|
+|**2025-12-29**|**A Weak Signal Learning Dataset and Its Baseline Method**|Xianqi Liu et.al.|[2512.23160](http://arxiv.org/abs/2512.23160)|null|
+|**2025-12-28**|**Wavelet-based Multi-View Fusion of 4D Radar Tensor and Camera for Robust 3D Object Detection**|Runwei Guan et.al.|[2512.22972](http://arxiv.org/abs/2512.22972)|null|
+|**2025-12-28**|**ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving**|Qihang Peng et.al.|[2512.22939](http://arxiv.org/abs/2512.22939)|null|
+|**2025-12-27**|**SCPainter: A Unified Framework for Realistic 3D Asset Insertion and Novel View Synthesis**|Paul Dobre et.al.|[2512.22706](http://arxiv.org/abs/2512.22706)|null|
+|**2025-12-27**|**CoDS: Collaborative Perception via Digital Semantic Communication**|Jipeng Gan et.al.|[2512.22513](http://arxiv.org/abs/2512.22513)|null|
+|**2025-12-27**|**SCAFusion: A Multimodal 3D Detection Framework for Small Object Detection in Lunar Surface Exploration**|Xin Chen et.al.|[2512.22503](http://arxiv.org/abs/2512.22503)|null|
 |**2025-12-26**|**Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models**|Zongmin Zhang et.al.|[2512.22046](http://arxiv.org/abs/2512.22046)|null|
 |**2025-12-26**|**RT-Focuser: A Real-Time Lightweight Model for Edge-side Image Deblurring**|Zhuoyu Wu et.al.|[2512.21975](http://arxiv.org/abs/2512.21975)|null|
 |**2025-12-26**|**TimeBill: Time-Budgeted Inference for Large Language Models**|Qi Fan et.al.|[2512.21859](http://arxiv.org/abs/2512.21859)|null|
@@ -2371,6 +2395,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-27**|**Multimodal Diffeomorphic Registration with Neural ODEs and Structural Descriptors**|Salvador Rodriguez-Sanz et.al.|[2512.22689](http://arxiv.org/abs/2512.22689)|null|
 |**2025-12-16**|**Test Time Optimized Generalized AI-based Medical Image Registration Method**|Sneha Sree C. et.al.|[2512.14556](http://arxiv.org/abs/2512.14556)|null|
 |**2025-12-01**|**Robust Rigid and Non-Rigid Medical Image Registration Using Learnable Edge Kernels**|Ahsan Raza Siyal et.al.|[2512.01771](http://arxiv.org/abs/2512.01771)|null|
 |**2025-11-19**|**Coarse-to-Fine Non-Rigid Registration for Side-Scan Sonar Mosaicking**|Can Lei et.al.|[2512.00052](http://arxiv.org/abs/2512.00052)|null|
@@ -2434,6 +2459,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**Observations of the Fermi bubbles and the Galactic center excess with the DArk Matter Particle Explorer**|F. Alemanno et.al.|[2512.23458](http://arxiv.org/abs/2512.23458)|**[link](https://github.com/szqtc/FermiBubbles_GCE_by_DAMPE)**|
+|**2025-12-29**|**Dynamic Subspace Composition: Efficient Adaptation via Contractive Basis Expansion**|Vladimer Khasia et.al.|[2512.23448](http://arxiv.org/abs/2512.23448)|null|
+|**2025-12-29**|**Coupling Experts and Routers in Mixture-of-Experts via an Auxiliary Loss**|Ang Lv et.al.|[2512.23447](http://arxiv.org/abs/2512.23447)|null|
+|**2025-12-29**|**Bitcoin-IPC: Scaling Bitcoin with a Network of Proof-of-Stake Subnets**|Marko Vukolić et.al.|[2512.23439](http://arxiv.org/abs/2512.23439)|null|
+|**2025-12-29**|**Study of $\bar{K}^*(892)^0 η$ and $K_S^0 a_0(980)^0$ in the $D^{0} \to K_{S}^{0}π^0η$ decay**|BESIII Collaboration et.al.|[2512.23389](http://arxiv.org/abs/2512.23389)|null|
+|**2025-12-29**|**YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection**|Xu Lin et.al.|[2512.23273](http://arxiv.org/abs/2512.23273)|null|
+|**2025-12-28**|**Trust Region Masking for Long-Horizon LLM Reinforcement Learning**|Yingru Li et.al.|[2512.23075](http://arxiv.org/abs/2512.23075)|null|
+|**2025-12-28**|**FLEX-MoE: Federated Mixture-of-Experts with Load-balanced Expert Assignment**|Boyang Zhang et.al.|[2512.23070](http://arxiv.org/abs/2512.23070)|null|
+|**2025-12-28**|**Viability and Performance of a Private LLM Server for SMBs: A Benchmark Analysis of Qwen3-30B on Consumer-Grade Hardware**|Alex Khalil et.al.|[2512.23029](http://arxiv.org/abs/2512.23029)|null|
+|**2025-12-28**|**Reach-Avoid Differential game with Reachability Analysis for UAVs: A decomposition approach**|Minh Bui et.al.|[2512.22793](http://arxiv.org/abs/2512.22793)|null|
+|**2025-12-28**|**Text-Routed Sparse Mixture-of-Experts Model with Explanation and Temporal Alignment for Multi-Modal Sentiment Analysis**|Dongning Rao et.al.|[2512.22741](http://arxiv.org/abs/2512.22741)|null|
+|**2025-12-27**|**RollArt: Scaling Agentic RL Training via Disaggregated Infrastructure**|Wei Gao et.al.|[2512.22560](http://arxiv.org/abs/2512.22560)|null|
+|**2025-12-27**|**Scalpel-SAM: A Semi-Supervised Paradigm for Adapting SAM to Infrared Small Object Detection**|Zihan Liu et.al.|[2512.22483](http://arxiv.org/abs/2512.22483)|null|
+|**2025-12-27**|**Bright 4B: Scaling Hyperspherical Learning for Segmentation in 3D Brightfield Microscopy**|Amil Khan et.al.|[2512.22423](http://arxiv.org/abs/2512.22423)|null|
 |**2025-12-26**|**FUSCO: High-Performance Distributed Data Shuffling via Transformation-Communication Fusion**|Zhuoran Zhu et.al.|[2512.22036](http://arxiv.org/abs/2512.22036)|null|
 |**2025-12-26**|**SWE-RM: Execution-free Feedback For Software Engineering Agents**|KaShun Shum et.al.|[2512.21919](http://arxiv.org/abs/2512.21919)|null|
 |**2025-12-26**|**Accelerate Speculative Decoding with Sparse Computation in Verification**|Jikai Wang et.al.|[2512.21911](http://arxiv.org/abs/2512.21911)|null|
@@ -3018,6 +3057,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-28**|**Breaking the Memory Wall: Exact Analytical Differentiation via Tiled Operator-Space Evolution**|Shuhuan Wang et.al.|[2512.23068](http://arxiv.org/abs/2512.23068)|null|
+|**2025-12-28**|**Nonlinear Dynamical Modeling of Human Intracranial Brain Activity with Flexible Inference**|Kiarash Vaziri et.al.|[2512.22785](http://arxiv.org/abs/2512.22785)|null|
 |**2025-12-25**|**UltraLBM-UNet: Ultralight Bidirectional Mamba-based Model for Skin Lesion Segmentation**|Linxuan Fan et.al.|[2512.21584](http://arxiv.org/abs/2512.21584)|null|
 |**2025-12-24**|**A Mechanistic Analysis of Transformers for Dynamical Systems**|Gregory Duthé et.al.|[2512.21113](http://arxiv.org/abs/2512.21113)|null|
 |**2025-12-25**|**Efficient Vision Mamba for MRI Super-Resolution via Hybrid Selective Scanning**|Mojtaba Safari et.al.|[2512.19676](http://arxiv.org/abs/2512.19676)|null|
