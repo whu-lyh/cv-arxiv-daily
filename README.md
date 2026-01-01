@@ -21,12 +21,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-29**|**MindWatcher: Toward Smarter Multimodal Tool-Integrated Reasoning**|Jiawei Chen et.al.|[2512.23412](http://arxiv.org/abs/2512.23412)|**[link](https://github.com/TIMMY-CHAN/MindWatcher)**|
+|**2025-12-31**|**OCP-LS: An Efficient Algorithm for Visual Localization**|Jindi Zhong et.al.|[2512.24552](http://arxiv.org/abs/2512.24552)|null|
+|**2025-12-29**|**Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation**|Guo Ye et.al.|[2512.23864](http://arxiv.org/abs/2512.23864)|null|
+|**2025-12-29**|**MindWatcher: Toward Smarter Multimodal Tool-Integrated Reasoning**|Jiawei Chen et.al.|[2512.23412](http://arxiv.org/abs/2512.23412)|null|
 |**2025-12-29**|**Anomaly Detection by Effectively Leveraging Synthetic Images**|Sungho Kang et.al.|[2512.23227](http://arxiv.org/abs/2512.23227)|null|
 |**2025-12-26**|**Reloc-VGGT: Visual Re-localization with Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21883](http://arxiv.org/abs/2512.21883)|null|
 |**2025-12-24**|**Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval**|Dao Sy Duy Minh et.al.|[2512.21221](http://arxiv.org/abs/2512.21221)|null|
 |**2025-12-28**|**UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21078](http://arxiv.org/abs/2512.21078)|null|
-|**2025-12-23**|**Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints**|Youjin Jung et.al.|[2512.20781](http://arxiv.org/abs/2512.20781)|**[link](https://github.com/jjungyujin/SoFT)**|
+|**2025-12-23**|**Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints**|Youjin Jung et.al.|[2512.20781](http://arxiv.org/abs/2512.20781)|null|
 |**2025-12-23**|**Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark**|Hao Guo et.al.|[2512.20174](http://arxiv.org/abs/2512.20174)|null|
 |**2025-12-23**|**Towards Generative Location Awareness for Disaster Response: A Probabilistic Cross-view Geolocalization Approach**|Hao Li et.al.|[2512.20056](http://arxiv.org/abs/2512.20056)|null|
 |**2025-12-22**|**Beyond CLIP: Knowledge-Enhanced Multimodal Transformers for Cross-Modal Alignment in Diabetic Retinopathy Diagnosis**|Argha Kamal Samanta et.al.|[2512.19663](http://arxiv.org/abs/2512.19663)|null|
@@ -709,13 +711,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**PhysTalk: Language-driven Real-time Physics in 3D Gaussian Scenes**|Luca Collorone et.al.|[2512.24986](http://arxiv.org/abs/2512.24986)|null|
+|**2025-12-31**|**UniC-Lift: Unified 3D Instance Segmentation via Contrastive Learning**|Ankit Dhiman et.al.|[2512.24763](http://arxiv.org/abs/2512.24763)|null|
+|**2025-12-31**|**Splatwizard: A Benchmark Toolkit for 3D Gaussian Splatting Compression**|Xiang Liu et.al.|[2512.24742](http://arxiv.org/abs/2512.24742)|null|
+|**2025-12-30**|**Structure-Guided Allocation of 2D Gaussians for Image Representation and Compression**|Huanxiong Liang et.al.|[2512.24018](http://arxiv.org/abs/2512.24018)|null|
+|**2025-12-30**|**Improved 3D Gaussian Splatting of Unknown Spacecraft Structure Using Space Environment Illumination Knowledge**|Tae Ha Park et.al.|[2512.23998](http://arxiv.org/abs/2512.23998)|null|
 |**2025-12-29**|**Contour Information Aware 2D Gaussian Splatting for Image Representation**|Masaya Takabe et.al.|[2512.23255](http://arxiv.org/abs/2512.23255)|null|
 |**2025-12-29**|**GVSynergy-Det: Synergistic Gaussian-Voxel Representations for Multi-View 3D Object Detection**|Yi Zhang et.al.|[2512.23176](http://arxiv.org/abs/2512.23176)|null|
-|**2025-12-28**|**Differentiable Physics-Driven Human Representation for Millimeter-Wave Based Pose Estimation**|Shuntian Zheng et.al.|[2512.23054](http://arxiv.org/abs/2512.23054)|null|
+|**2025-12-30**|**Differentiable Physics-Driven Human Representation for Millimeter-Wave Based Pose Estimation**|Shuntian Zheng et.al.|[2512.23054](http://arxiv.org/abs/2512.23054)|null|
 |**2025-12-28**|**Hash Grid Feature Pruning**|Yangzhi Ma et.al.|[2512.22882](http://arxiv.org/abs/2512.22882)|null|
 |**2025-12-28**|**Next Best View Selections for Semantic and Dynamic 3D Gaussian Splatting**|Yiqian Li et.al.|[2512.22771](http://arxiv.org/abs/2512.22771)|null|
 |**2025-12-27**|**SCPainter: A Unified Framework for Realistic 3D Asset Insertion and Novel View Synthesis**|Paul Dobre et.al.|[2512.22706](http://arxiv.org/abs/2512.22706)|null|
-|**2025-12-27**|**Tracking by Predicting 3-D Gaussians Over Time**|Tanish Baranwal et.al.|[2512.22489](http://arxiv.org/abs/2512.22489)|null|
+|**2025-12-30**|**Tracking by Predicting 3-D Gaussians Over Time**|Tanish Baranwal et.al.|[2512.22489](http://arxiv.org/abs/2512.22489)|null|
 |**2025-12-24**|**AirGS: Real-Time 4D Gaussian Streaming for Free-Viewpoint Video Experiences**|Zhe Wang et.al.|[2512.20943](http://arxiv.org/abs/2512.20943)|null|
 |**2025-12-24**|**Quantile Rendering: Efficiently Embedding High-dimensional Feature on 3D Gaussian Splatting**|Yoonwoo Jeong et.al.|[2512.20927](http://arxiv.org/abs/2512.20927)|null|
 |**2025-12-23**|**Nebula: Enable City-Scale 3D Gaussian Splatting in Virtual Reality via Collaborative Rendering and Accelerated Stereo Rasterization**|He Zhu et.al.|[2512.20495](http://arxiv.org/abs/2512.20495)|null|
@@ -1310,13 +1317,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**Semi-Supervised Diversity-Aware Domain Adaptation for 3D Object detection**|Bartłomiej Olber et.al.|[2512.24922](http://arxiv.org/abs/2512.24922)|null|
+|**2025-12-31**|**LSRE: Latent Semantic Rule Encoding for Real-Time Semantic Risk Detection in Autonomous Driving**|Qian Cheng et.al.|[2512.24712](http://arxiv.org/abs/2512.24712)|null|
+|**2025-12-31**|**Decentralized No-Regret Frequency-Time Scheduling for FMCW Radar Interference Avoidance**|Yunian Pan et.al.|[2512.24619](http://arxiv.org/abs/2512.24619)|null|
+|**2025-12-30**|**Counterfactual VLA: Self-Reflective Vision-Language-Action Model with Adaptive Reasoning**|Zhenghao "Mark" Peng et.al.|[2512.24426](http://arxiv.org/abs/2512.24426)|null|
+|**2025-12-30**|**Spatial-aware Vision Language Model for Autonomous Driving**|Weijie Wei et.al.|[2512.24331](http://arxiv.org/abs/2512.24331)|null|
+|**2025-12-30**|**MambaSeg: Harnessing Mamba for Accurate and Efficient Image-Event Semantic Segmentation**|Fuqiang Gu et.al.|[2512.24243](http://arxiv.org/abs/2512.24243)|null|
+|**2025-12-30**|**Mirage: One-Step Video Diffusion for Photorealistic and Coherent Asset Editing in Driving Scenes**|Shuyun Wang et.al.|[2512.24227](http://arxiv.org/abs/2512.24227)|null|
+|**2025-12-30**|**Guided Diffusion-based Generation of Adversarial Objects for Real-World Monocular Depth Estimation Attacks**|Yongtao Chen et.al.|[2512.24111](http://arxiv.org/abs/2512.24111)|null|
+|**2025-12-30**|**Multi-Scenario Highway Lane-Change Intention Prediction: A Temporal Physics-Informed Multi-Modal Framework**|Jiazhao Shi et.al.|[2512.24075](http://arxiv.org/abs/2512.24075)|null|
+|**2025-12-30**|**DriveExplorer: Images-Only Decoupled 4D Reconstruction with Progressive Restoration for Driving View Extrapolation**|Yuang Jia et.al.|[2512.23983](http://arxiv.org/abs/2512.23983)|null|
 |**2025-12-29**|**Rethinking the Spatio-Temporal Alignment of End-to-End 3D Perception**|Xiaoyu Li et.al.|[2512.23635](http://arxiv.org/abs/2512.23635)|null|
 |**2025-12-29**|**Parallelized Code Generation from Simulink Models for Event-driven and Timer-driven ROS 2 Nodes**|Kenshin Obi et.al.|[2512.23605](http://arxiv.org/abs/2512.23605)|null|
 |**2025-12-29**|**A Kalman Filter-Based Disturbance Observer for Steer-by-Wire Systems**|Nikolai Beving et.al.|[2512.23593](http://arxiv.org/abs/2512.23593)|null|
 |**2025-12-29**|**Unsupervised Learning for Detection of Rare Driving Scenarios**|Dat Le et.al.|[2512.23585](http://arxiv.org/abs/2512.23585)|null|
 |**2025-12-29**|**Model-based Development for Autonomous Driving Software Considering Parallelization**|Kenshin Obi et.al.|[2512.23575](http://arxiv.org/abs/2512.23575)|null|
 |**2025-12-29**|**Assessing behaviour coverage in a multi-agent system simulation for autonomous vehicle testing**|Manuel Franco-Vivo et.al.|[2512.23445](http://arxiv.org/abs/2512.23445)|null|
-|**2025-12-29**|**DriveLaW:Unifying Planning and Video Generation in a Latent Driving World**|Tianze Xia et.al.|[2512.23421](http://arxiv.org/abs/2512.23421)|null|
+|**2025-12-31**|**DriveLaW:Unifying Planning and Video Generation in a Latent Driving World**|Tianze Xia et.al.|[2512.23421](http://arxiv.org/abs/2512.23421)|null|
 |**2025-12-29**|**A Human-Oriented Cooperative Driving Approach: Integrating Driving Intention, State, and Conflict**|Qin Wang et.al.|[2512.23220](http://arxiv.org/abs/2512.23220)|null|
 |**2025-12-29**|**Exploring Syn-to-Real Domain Adaptation for Military Target Detection**|Jongoh Jeong et.al.|[2512.23208](http://arxiv.org/abs/2512.23208)|null|
 |**2025-12-29**|**A Weak Signal Learning Dataset and Its Baseline Method**|Xianqi Liu et.al.|[2512.23160](http://arxiv.org/abs/2512.23160)|null|
@@ -2459,12 +2476,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem**|Weixun Wang et.al.|[2512.24873](http://arxiv.org/abs/2512.24873)|null|
+|**2025-12-31**|**Compute-Accuracy Pareto Frontiers for Open-Source Reasoning Large Language Models**|Ákos Prucs et.al.|[2512.24776](http://arxiv.org/abs/2512.24776)|null|
+|**2025-12-30**|**Joint Selection for Large-Scale Pre-Training Data via Policy Gradient-based Mask Learning**|Ziqing Fan et.al.|[2512.24265](http://arxiv.org/abs/2512.24265)|null|
+|**2025-12-30**|**Training Report of TeleChat3-MoE**|Xinzhang Liu et.al.|[2512.24157](http://arxiv.org/abs/2512.24157)|null|
+|**2025-12-30**|**Skyrmion and Meron Crystals in Intermetallic Gd $_3$Ru$_4$Al$_{12}$ : Microscopic Model Insights into Chiral Phases**|Jiajun Mo et.al.|[2512.24071](http://arxiv.org/abs/2512.24071)|null|
+|**2025-12-30**|**RepetitionCurse: Measuring and Understanding Router Imbalance in Mixture-of-Experts LLMs under DoS Stress**|Ruixuan Huang et.al.|[2512.23995](http://arxiv.org/abs/2512.23995)|null|
+|**2025-12-30**|**Towards a bottom-up formulation of spin kinetic theory**|Zonglin Mo et.al.|[2512.23960](http://arxiv.org/abs/2512.23960)|null|
+|**2025-12-30**|**Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling**|Chulun Zhou et.al.|[2512.23959](http://arxiv.org/abs/2512.23959)|null|
+|**2025-12-30**|**Learnable Query Aggregation with KV Routing for Cross-view Geo-localisation**|Hualin Ye et.al.|[2512.23938](http://arxiv.org/abs/2512.23938)|null|
 |**2025-12-29**|**Observations of the Fermi bubbles and the Galactic center excess with the DArk Matter Particle Explorer**|F. Alemanno et.al.|[2512.23458](http://arxiv.org/abs/2512.23458)|null|
 |**2025-12-29**|**Dynamic Subspace Composition: Efficient Adaptation via Contractive Basis Expansion**|Vladimer Khasia et.al.|[2512.23448](http://arxiv.org/abs/2512.23448)|null|
 |**2025-12-29**|**Coupling Experts and Routers in Mixture-of-Experts via an Auxiliary Loss**|Ang Lv et.al.|[2512.23447](http://arxiv.org/abs/2512.23447)|null|
 |**2025-12-29**|**Bitcoin-IPC: Scaling Bitcoin with a Network of Proof-of-Stake Subnets**|Marko Vukolić et.al.|[2512.23439](http://arxiv.org/abs/2512.23439)|null|
 |**2025-12-29**|**Study of $\bar{K}^*(892)^0 η$ and $K_S^0 a_0(980)^0$ in the $D^{0} \to K_{S}^{0}π^0η$ decay**|BESIII Collaboration et.al.|[2512.23389](http://arxiv.org/abs/2512.23389)|null|
-|**2025-12-29**|**YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection**|Xu Lin et.al.|[2512.23273](http://arxiv.org/abs/2512.23273)|null|
+|**2025-12-30**|**YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection**|Xu Lin et.al.|[2512.23273](http://arxiv.org/abs/2512.23273)|null|
 |**2025-12-28**|**Trust Region Masking for Long-Horizon LLM Reinforcement Learning**|Yingru Li et.al.|[2512.23075](http://arxiv.org/abs/2512.23075)|null|
 |**2025-12-28**|**FLEX-MoE: Federated Mixture-of-Experts with Load-balanced Expert Assignment**|Boyang Zhang et.al.|[2512.23070](http://arxiv.org/abs/2512.23070)|null|
 |**2025-12-28**|**Viability and Performance of a Private LLM Server for SMBs: A Benchmark Analysis of Qwen3-30B on Consumer-Grade Hardware**|Alex Khalil et.al.|[2512.23029](http://arxiv.org/abs/2512.23029)|null|
@@ -3057,6 +3083,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-30**|**Bridging the Perception-Cognition Gap:Re-engineering SAM2 with Hilbert-Mamba for Robust VLM-based Medical Diagnosis**|Hao Wu et.al.|[2512.24013](http://arxiv.org/abs/2512.24013)|null|
+|**2025-12-29**|**MS-SSM: A Multi-Scale State Space Model for Efficient Sequence Modeling**|Mahdi Karami et.al.|[2512.23824](http://arxiv.org/abs/2512.23824)|null|
 |**2025-12-28**|**Breaking the Memory Wall: Exact Analytical Differentiation via Tiled Operator-Space Evolution**|Shuhuan Wang et.al.|[2512.23068](http://arxiv.org/abs/2512.23068)|null|
 |**2025-12-28**|**Nonlinear Dynamical Modeling of Human Intracranial Brain Activity with Flexible Inference**|Kiarash Vaziri et.al.|[2512.22785](http://arxiv.org/abs/2512.22785)|null|
 |**2025-12-25**|**UltraLBM-UNet: Ultralight Bidirectional Mamba-based Model for Skin Lesion Segmentation**|Linxuan Fan et.al.|[2512.21584](http://arxiv.org/abs/2512.21584)|null|
@@ -3587,6 +3615,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-30**|**Deep Global Clustering for Hyperspectral Image Segmentation: Concepts, Applications, and Open Challenges**|Yu-Tang Chang et.al.|[2512.24172](http://arxiv.org/abs/2512.24172)|null|
 |**2025-12-25**|**Degradation-Aware Metric Prompting for Hyperspectral Image Restoration**|Binfeng Wang et.al.|[2512.20251](http://arxiv.org/abs/2512.20251)|null|
 |**2025-12-22**|**Rethinking Coupled Tensor Analysis for Hyperspectral Super-Resolution: Recoverable Modeling Under Endmember Variability**|Meng Ding et.al.|[2512.19489](http://arxiv.org/abs/2512.19489)|null|
 |**2025-12-22**|**A Parametric Framework for Anticipatory Flashflood Warning: Integrating Landscape Vulnerability with Precipitation Forecasts**|Xiangpeng Li et.al.|[2512.17785](http://arxiv.org/abs/2512.17785)|null|
