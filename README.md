@@ -1333,8 +1333,8 @@
 |**2025-12-29**|**Unsupervised Learning for Detection of Rare Driving Scenarios**|Dat Le et.al.|[2512.23585](http://arxiv.org/abs/2512.23585)|null|
 |**2025-12-29**|**Model-based Development for Autonomous Driving Software Considering Parallelization**|Kenshin Obi et.al.|[2512.23575](http://arxiv.org/abs/2512.23575)|null|
 |**2025-12-29**|**Assessing behaviour coverage in a multi-agent system simulation for autonomous vehicle testing**|Manuel Franco-Vivo et.al.|[2512.23445](http://arxiv.org/abs/2512.23445)|null|
-|**2025-12-31**|**DriveLaW:Unifying Planning and Video Generation in a Latent Driving World**|Tianze Xia et.al.|[2512.23421](http://arxiv.org/abs/2512.23421)|**[link](https://github.com/wm-research/DriveLaW)**|
-|**2025-12-29**|**A Human-Oriented Cooperative Driving Approach: Integrating Driving Intention, State, and Conflict**|Qin Wang et.al.|[2512.23220](http://arxiv.org/abs/2512.23220)|**[link](https://github.com/i-Qin/HOCD)**|
+|**2025-12-31**|**DriveLaW:Unifying Planning and Video Generation in a Latent Driving World**|Tianze Xia et.al.|[2512.23421](http://arxiv.org/abs/2512.23421)|null|
+|**2025-12-29**|**A Human-Oriented Cooperative Driving Approach: Integrating Driving Intention, State, and Conflict**|Qin Wang et.al.|[2512.23220](http://arxiv.org/abs/2512.23220)|null|
 |**2025-12-29**|**Exploring Syn-to-Real Domain Adaptation for Military Target Detection**|Jongoh Jeong et.al.|[2512.23208](http://arxiv.org/abs/2512.23208)|null|
 |**2025-12-29**|**A Weak Signal Learning Dataset and Its Baseline Method**|Xianqi Liu et.al.|[2512.23160](http://arxiv.org/abs/2512.23160)|null|
 |**2025-12-28**|**Wavelet-based Multi-View Fusion of 4D Radar Tensor and Camera for Robust 3D Object Detection**|Runwei Guan et.al.|[2512.22972](http://arxiv.org/abs/2512.22972)|null|
