@@ -149,7 +149,7 @@
 |**2025-12-01**|**Social Media Data Mining of Human Behaviour during Bushfire Evacuation**|Junfeng Wu et.al.|[2512.01262](http://arxiv.org/abs/2512.01262)|null|
 |**2025-12-01**|**M4-BLIP: Advancing Multi-Modal Media Manipulation Detection through Face-Enhanced Local Analysis**|Hang Wu et.al.|[2512.01214](http://arxiv.org/abs/2512.01214)|null|
 |**2025-11-30**|**A sudden fine-scale bright kernel captured by Hi-C Flare during an M1.6-class solar flare's post-maximum phase**|Sanjiv K. Tiwari et.al.|[2512.01140](http://arxiv.org/abs/2512.01140)|null|
-|**2025-11-30**|**OmniFD: A Unified Model for Versatile Face Forgery Detection**|Haotian Liu et.al.|[2512.01128](http://arxiv.org/abs/2512.01128)|null|
+|**2025-11-30**|**OmniFD: A Unified Model for Versatile Face Forgery Detection**|Haotian Liu et.al.|[2512.01128](http://arxiv.org/abs/2512.01128)|**[link](https://github.com/haotianll/OmniFD)**|
 |**2025-11-28**|**DEAL-300K: Diffusion-based Editing Area Localization with a 300K-Scale Dataset and Frequency-Prompted Baseline**|Rui Zhang et.al.|[2511.23377](http://arxiv.org/abs/2511.23377)|**[link](https://github.com/ymhzyj/DEAL-300K)**|
 |**2025-11-28**|**FACT-GS: Frequency-Aligned Complexity-Aware Texture Reparameterization for 2D Gaussian Splatting**|Tianhao Xie et.al.|[2511.23292](http://arxiv.org/abs/2511.23292)|null|
 |**2025-11-28**|**Robust 3DGS-based SLAM via Adaptive Kernel Smoothing**|Shouhe Zhang et.al.|[2511.23221](http://arxiv.org/abs/2511.23221)|null|
@@ -3289,7 +3289,7 @@
 |**2025-11-24**|**What is the signature of a trion in photoemission?**|Jinyuan Wu et.al.|[2511.19280](http://arxiv.org/abs/2511.19280)|null|
 |**2025-11-24**|**Solar-GECO: Perovskite Solar Cell Property Prediction with Geometric-Aware Co-Attention**|Lucas Li et.al.|[2511.19263](http://arxiv.org/abs/2511.19263)|null|
 |**2025-11-24**|**LAST: LeArning to Think in Space and Time for Generalist Vision-Language Models**|Shuai Wang et.al.|[2511.19261](http://arxiv.org/abs/2511.19261)|null|
-|**2025-11-24**|**Learning Plug-and-play Memory for Guiding Video Diffusion Models**|Selena Song et.al.|[2511.19229](http://arxiv.org/abs/2511.19229)|null|
+|**2025-11-24**|**Learning Plug-and-play Memory for Guiding Video Diffusion Models**|Selena Song et.al.|[2511.19229](http://arxiv.org/abs/2511.19229)|**[link](https://github.com/Thrcle421/DiT-Mem)**|
 |**2025-11-24**|**Reference-Free Sampling-Based Model Predictive Control**|Fabian Schramm et.al.|[2511.19204](http://arxiv.org/abs/2511.19204)|null|
 |**2025-11-24**|**Information Physics of Intelligence: Unifying Logical Depth and Entropy under Thermodynamic Constraints**|Jianfeng Xu et.al.|[2511.19156](http://arxiv.org/abs/2511.19156)|null|
 |**2025-11-24**|**Fast-Converging and Asymptotic-Preserving DSMC**|Bin Hu et.al.|[2511.19061](http://arxiv.org/abs/2511.19061)|null|

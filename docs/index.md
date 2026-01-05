@@ -229,10 +229,10 @@ layout: default
 |**2025-11-21**|**GPR-OdomNet: Difference and Similarity-Driven Odometry Estimation Network for Ground Penetrating Radar-Based Localization**|Huaichao Wang et.al.|[2511.17457](http://arxiv.org/abs/2511.17457)|null|
 |**2025-11-21**|**REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing**|Binger Chen et.al.|[2511.17442](http://arxiv.org/abs/2511.17442)|null|
 |**2025-11-21**|**Preventing Shortcut Learning in Medical Image Analysis through Intermediate Layer Knowledge Distillation from Specialist Teachers**|Christopher Boland et.al.|[2511.17421](http://arxiv.org/abs/2511.17421)|null|
-|**2025-11-21**|**IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation**|Yifan Li et.al.|[2511.17384](http://arxiv.org/abs/2511.17384)|null|
+|**2025-11-21**|**IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation**|Yifan Li et.al.|[2511.17384](http://arxiv.org/abs/2511.17384)|**[link](https://github.com/JackYFL/IndustryNav_project_page)**|
 |**2025-11-21**|**SVRecon: Sparse Voxel Rasterization for Surface Reconstruction**|Seunghun Oh et.al.|[2511.17364](http://arxiv.org/abs/2511.17364)|null|
 |**2025-11-21**|**NoPe-NeRF++: Local-to-Global Optimization of NeRF with No Pose Prior**|Dongbo Shi et.al.|[2511.17322](http://arxiv.org/abs/2511.17322)|null|
-|**2025-11-21**|**MolSight: Optical Chemical Structure Recognition with SMILES Pretraining, Multi-Granularity Learning and Reinforcement Learning**|Wenrui Zhang et.al.|[2511.17300](http://arxiv.org/abs/2511.17300)|null|
+|**2025-11-21**|**MolSight: Optical Chemical Structure Recognition with SMILES Pretraining, Multi-Granularity Learning and Reinforcement Learning**|Wenrui Zhang et.al.|[2511.17300](http://arxiv.org/abs/2511.17300)|**[link](https://github.com/hustvl/MolSight)**|
 |**2025-11-21**|**Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation**|Chuancheng Shi et.al.|[2511.17282](http://arxiv.org/abs/2511.17282)|null|
 |**2025-11-21**|**A Little More Like This: Text-to-Image Retrieval with Vision-Language Models Using Relevance Feedback**|Bulat Khaertdinov et.al.|[2511.17255](http://arxiv.org/abs/2511.17255)|null|
 |**2025-11-21**|**Mixed Reality Scenic Live Streaming for Cultural Heritage: Visual Interactions in a Historic Landscape**|Zeyu Huang et.al.|[2511.17246](http://arxiv.org/abs/2511.17246)|null|
@@ -1748,7 +1748,7 @@ layout: default
 |**2025-10-21**|**BlendCLIP: Bridging Synthetic and Real Domains for Zero-Shot 3D Object Classification with Multimodal Pretraining**|Ajinkya Khoche et.al.|[2510.18244](http://arxiv.org/abs/2510.18244)|null|
 |**2025-10-20**|**SPACeR: Self-Play Anchoring with Centralized Reference Models**|Wei-Jer Chang et.al.|[2510.18060](http://arxiv.org/abs/2510.18060)|null|
 |**2025-10-20**|**SAVANT: Semantic Analysis with Vision-Augmented Anomaly deTection**|Roberto Brusnicki et.al.|[2510.18034](http://arxiv.org/abs/2510.18034)|null|
-|**2025-10-20**|**4DSegStreamer: Streaming 4D Panoptic Segmentation via Dual Threads**|Ling Liu et.al.|[2510.17664](http://arxiv.org/abs/2510.17664)|null|
+|**2025-10-20**|**4DSegStreamer: Streaming 4D Panoptic Segmentation via Dual Threads**|Ling Liu et.al.|[2510.17664](http://arxiv.org/abs/2510.17664)|**[link](https://github.com/llada60/4DSegStreamer)**|
 |**2025-10-20**|**Enhanced Motion Forecasting with Plug-and-Play Multimodal Large Language Models**|Katie Luo et.al.|[2510.17274](http://arxiv.org/abs/2510.17274)|null|
 |**2025-10-20**|**Explainability of Large Language Models: Opportunities and Challenges toward Generating Trustworthy Explanations**|Shahin Atakishiyev et.al.|[2510.17256](http://arxiv.org/abs/2510.17256)|null|
 |**2025-10-20**|**SimpleVSF: VLM-Scoring Fusion for Trajectory Prediction of End-to-End Autonomous Driving**|Peiru Zheng et.al.|[2510.17191](http://arxiv.org/abs/2510.17191)|null|
@@ -2244,7 +2244,7 @@ layout: default
 |**2025-11-18**|**From minimal-length quantum theory to modified gravity**|Rocco D'Agostino et.al.|[2511.14869](http://arxiv.org/abs/2511.14869)|null|
 |**2025-11-18**|**Geometry of Generalized Density Functional Theories**|Chih-Chun Wang et.al.|[2511.14822](http://arxiv.org/abs/2511.14822)|null|
 |**2025-11-18**|**High-resolution weak lensing mass mapping from DES-Y3 data using diffusion-based prior**|Supranta S. Boruah et.al.|[2511.14667](http://arxiv.org/abs/2511.14667)|null|
-|**2025-11-18**|**Gallant: Voxel Grid-based Humanoid Locomotion and Local-navigation across 3D Constrained Terrains**|Qingwei Ben et.al.|[2511.14625](http://arxiv.org/abs/2511.14625)|null|
+|**2025-11-18**|**Gallant: Voxel Grid-based Humanoid Locomotion and Local-navigation across 3D Constrained Terrains**|Qingwei Ben et.al.|[2511.14625](http://arxiv.org/abs/2511.14625)|**[link](https://github.com/GallantLoco/GallantLoco.github.io)**|
 |**2025-11-18**|**A Controllable Perceptual Feature Generative Model for Melody Harmonization via Conditional Variational Autoencoder**|Dengyun Huang et.al.|[2511.14600](http://arxiv.org/abs/2511.14600)|null|
 |**2025-11-18**|**A Bayesian INLA-SPDE Approach to Spatio-Temporal Point-Grid Fusion with Change-of-Support and Misaligned Covariates**|Weiyue Zheng et.al.|[2511.14535](http://arxiv.org/abs/2511.14535)|null|
 |**2025-11-18**|**A Generative Data Framework with Authentic Supervision for Underwater Image Restoration and Enhancement**|Yufeng Tian et.al.|[2511.14521](http://arxiv.org/abs/2511.14521)|null|
@@ -2281,7 +2281,7 @@ layout: default
 |**2025-11-17**|**Vortex creep heating in neutron star cooling with direct Urca processes in heavy neutron stars**|Yoonhak Nam et.al.|[2511.13263](http://arxiv.org/abs/2511.13263)|null|
 |**2025-11-17**|**GaRLILEO: Gravity-aligned Radar-Leg-Inertial Enhanced Odometry**|Chiyun Noh et.al.|[2511.13216](http://arxiv.org/abs/2511.13216)|null|
 |**2025-11-17**|**Collision-Free Navigation of Mobile Robots via Quadtree-Based Model Predictive Control**|Osama Al Sheikh Ali et.al.|[2511.13188](http://arxiv.org/abs/2511.13188)|null|
-|**2025-11-17**|**Region-Point Joint Representation for Effective Trajectory Similarity Learning**|Hao Long et.al.|[2511.13125](http://arxiv.org/abs/2511.13125)|null|
+|**2025-11-17**|**Region-Point Joint Representation for Effective Trajectory Similarity Learning**|Hao Long et.al.|[2511.13125](http://arxiv.org/abs/2511.13125)|**[link](https://github.com/Alfred4c/RePo)**|
 |**2025-11-17**|**A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features**|Hanzhe Liang et.al.|[2511.13115](http://arxiv.org/abs/2511.13115)|null|
 |**2025-11-14**|**Estimating Total Effects in Bipartite Experiments with Spillovers and Partial Eligibility**|Albert Tan et.al.|[2511.11564](http://arxiv.org/abs/2511.11564)|null|
 |**2025-11-14**|**Terrain Costmap Generation via Scaled Preference Conditioning**|Luisa Mao et.al.|[2511.11529](http://arxiv.org/abs/2511.11529)|null|
@@ -3271,9 +3271,9 @@ layout: default
 |**2025-11-24**|**BSN-V: The First Detailed Light Curve Modeling of Eight Totally Eclipsing Contact Binary Stars Using Ground-Based and TESS Observations**|Atila Poro et.al.|[2511.18909](http://arxiv.org/abs/2511.18909)|null|
 |**2025-11-24**|**MFmamba: A Multi-function Network for Panchromatic Image Resolution Restoration Based on State-Space Model**|Qian Jiang et.al.|[2511.18888](http://arxiv.org/abs/2511.18888)|null|
 |**2025-11-24**|**KernelBand: Boosting LLM-based Kernel Optimization with a Hierarchical and Hardware-aware Multi-armed Bandit**|Dezhi Ran et.al.|[2511.18868](http://arxiv.org/abs/2511.18868)|null|
-|**2025-11-24**|**SupLID: Geometrical Guidance for Out-of-Distribution Detection in Semantic Segmentation**|Nimeshika Udayangani et.al.|[2511.18816](http://arxiv.org/abs/2511.18816)|null|
+|**2025-11-24**|**SupLID: Geometrical Guidance for Out-of-Distribution Detection in Semantic Segmentation**|Nimeshika Udayangani et.al.|[2511.18816](http://arxiv.org/abs/2511.18816)|**[link](https://github.com/hdnugit/SupLID)**|
 |**2025-11-24**|**ConceptGuard: Proactive Safety in Text-and-Image-to-Video Generation through Multimodal Risk Detection**|Ruize Ma et.al.|[2511.18780](http://arxiv.org/abs/2511.18780)|null|
-|**2025-11-24**|**SAOT: An Enhanced Locality-Aware Spectral Transformer for Solving PDEs**|Chenhong Zhou et.al.|[2511.18777](http://arxiv.org/abs/2511.18777)|null|
+|**2025-11-24**|**SAOT: An Enhanced Locality-Aware Spectral Transformer for Solving PDEs**|Chenhong Zhou et.al.|[2511.18777](http://arxiv.org/abs/2511.18777)|**[link](https://github.com/chenhong-zhou/SAOT)**|
 |**2025-11-24**|**Edit2Perceive: Image Editing Diffusion Models Are Strong Dense Perceivers**|Yiqing Shi et.al.|[2511.18673](http://arxiv.org/abs/2511.18673)|null|
 |**2025-11-21**|**Counterfactual World Models via Digital Twin-conditioned Video Diffusion**|Yiqing Shen et.al.|[2511.17481](http://arxiv.org/abs/2511.17481)|null|
 |**2025-11-21**|**Moving superfluids in the rotating universe**|Jose Beltrán Jiménez et.al.|[2511.17472](http://arxiv.org/abs/2511.17472)|null|
