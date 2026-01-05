@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.04
+## Updated on 2026.01.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -2400,7 +2400,7 @@ layout: default
 |**2025-10-17**|**ERNet: Efficient Non-Rigid Registration Network for Point Sequences**|Guangzhao He et.al.|[2510.15800](http://arxiv.org/abs/2510.15800)|null|
 |**2025-09-12**|**Human Body Segment Volume Estimation with Two RGB-D Cameras**|Giulia Bassani et.al.|[2509.10429](http://arxiv.org/abs/2509.10429)|null|
 |**2025-09-09**|**A Comprehensive Pipeline for Aortic Segmentation and Shape Analysis**|Nairouz Shehata et.al.|[2509.09718](http://arxiv.org/abs/2509.09718)|null|
-|**2025-08-19**|**Shape-from-Template with Generalised Camera**|Agniva Sengupta et.al.|[2508.13791](http://arxiv.org/abs/2508.13791)|null|
+|**2025-08-19**|**Shape-from-Template with Generalised Camera**|Agniva Sengupta et.al.|[2508.13791](http://arxiv.org/abs/2508.13791)|**[link](https://github.com/agnivsen/sft-generalised)**|
 |**2025-08-24**|**FractMorph: A Fractional Fourier-Based Multi-Domain Transformer for Deformable Image Registration**|Shayan Kebriti et.al.|[2508.12445](http://arxiv.org/abs/2508.12445)|null|
 |**2025-07-27**|**PIVOTS: Aligning unseen Structures using Preoperative to Intraoperative Volume-To-Surface Registration for Liver Navigation**|Peng Liu et.al.|[2507.20337](http://arxiv.org/abs/2507.20337)|null|
 |**2025-07-10**|**X-RAFT: Cross-Modal Non-Rigid Registration of Blue and White Light Neurosurgical Hyperspectral Images**|Charlie Budd et.al.|[2507.07747](http://arxiv.org/abs/2507.07747)|null|
