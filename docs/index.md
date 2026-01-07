@@ -9,11 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps**|Xuchang Zhong et.al.|[2601.02730](http://arxiv.org/abs/2601.02730)|null|
+|**2026-01-06**|**Loop Closure using AnyLoc Visual Place Recognition in DPV-SLAM**|Wenzheng Zhang et.al.|[2601.02723](http://arxiv.org/abs/2601.02723)|null|
+|**2026-01-05**|**Comparative Analysis of Binarization Methods For Medical Image Hashing On Odir Dataset**|Nedim Muzoglu et.al.|[2601.02564](http://arxiv.org/abs/2601.02564)|null|
 |**2026-01-04**|**Breadcrumbs in the Digital Forest: Tracing Criminals through Torrent Metadata with OSINT**|Annelies de Jong et.al.|[2601.01492](http://arxiv.org/abs/2601.01492)|null|
 |**2026-01-05**|**Vision-Language Reasoning for Geolocalization: A Reinforcement Learning Approach**|Biao Wu et.al.|[2601.00388](http://arxiv.org/abs/2601.00388)|null|
 |**2025-12-31**|**OCP-LS: An Efficient Algorithm for Visual Localization**|Jindi Zhong et.al.|[2512.24552](http://arxiv.org/abs/2512.24552)|null|
 |**2025-12-29**|**Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation**|Guo Ye et.al.|[2512.23864](http://arxiv.org/abs/2512.23864)|null|
-|**2025-12-29**|**MindWatcher: Toward Smarter Multimodal Tool-Integrated Reasoning**|Jiawei Chen et.al.|[2512.23412](http://arxiv.org/abs/2512.23412)|**[link](https://github.com/TIMMY-CHAN/MindWatcher)**|
+|**2025-12-29**|**MindWatcher: Toward Smarter Multimodal Tool-Integrated Reasoning**|Jiawei Chen et.al.|[2512.23412](http://arxiv.org/abs/2512.23412)|null|
 |**2025-12-29**|**Anomaly Detection by Effectively Leveraging Synthetic Images**|Sungho Kang et.al.|[2512.23227](http://arxiv.org/abs/2512.23227)|null|
 |**2025-12-26**|**Reloc-VGGT: Visual Re-localization with Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21883](http://arxiv.org/abs/2512.21883)|null|
 |**2025-12-24**|**Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval**|Dao Sy Duy Minh et.al.|[2512.21221](http://arxiv.org/abs/2512.21221)|null|
@@ -695,6 +698,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**A High-Fidelity Digital Twin for Robotic Manipulation Based on 3D Gaussian Splatting**|Ziyang Sun et.al.|[2601.03200](http://arxiv.org/abs/2601.03200)|null|
+|**2026-01-06**|**Stroke Patches: Customizable Artistic Image Styling Using Regression**|Ian Jaffray et.al.|[2601.03114](http://arxiv.org/abs/2601.03114)|null|
+|**2026-01-06**|**SA-ResGS: Self-Augmented Residual 3D Gaussian Splatting for Next Best View Selection**|Kim Jun-Seong et.al.|[2601.03024](http://arxiv.org/abs/2601.03024)|null|
+|**2026-01-06**|**CAMO: Category-Agnostic 3D Motion Transfer from Monocular 2D Videos**|Taeyeon Kim et.al.|[2601.02716](http://arxiv.org/abs/2601.02716)|null|
 |**2026-01-05**|**HeadLighter: Disentangling Illumination in Generative 3D Gaussian Heads via Lightstage Captures**|Yating Wang et.al.|[2601.02103](http://arxiv.org/abs/2601.02103)|null|
 |**2026-01-05**|**360-GeoGS: Geometrically Consistent Feed-Forward 3D Gaussian Splatting Reconstruction for 360 Images**|Jiaqi Yao et.al.|[2601.02102](http://arxiv.org/abs/2601.02102)|null|
 |**2026-01-05**|**InpaintHuman: Reconstructing Occluded Humans with Multi-Scale UV Mapping and Identity-Preserving Diffusion Inpainting**|Jinlong Fan et.al.|[2601.02098](http://arxiv.org/abs/2601.02098)|null|
@@ -1310,6 +1317,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**Enhancing Safety in Automated Ports: A Virtual Reality Study of Pedestrian-Autonomous Vehicle Interactions under Time Pressure, Visual Constraints, and Varying Vehicle Size**|Yuan Che et.al.|[2601.03218](http://arxiv.org/abs/2601.03218)|null|
+|**2026-01-06**|**Towards Efficient 3D Object Detection for Vehicle-Infrastructure Collaboration via Risk-Intent Selection**|Li Wang et.al.|[2601.03001](http://arxiv.org/abs/2601.03001)|null|
+|**2026-01-06**|**HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps**|Xuchang Zhong et.al.|[2601.02730](http://arxiv.org/abs/2601.02730)|null|
 |**2026-01-05**|**VIT-Ped: Visionary Intention Transformer for Pedestrian Behavior Analysis**|Aly R. Elkammar et.al.|[2601.01989](http://arxiv.org/abs/2601.01989)|null|
 |**2026-01-05**|**Sparse Threats, Focused Defense: Criticality-Aware Robust Reinforcement Learning for Safe Autonomous Driving**|Qi Wei et.al.|[2601.01800](http://arxiv.org/abs/2601.01800)|null|
 |**2026-01-05**|**AlignDrive: Aligned Lateral-Longitudinal Planning for End-to-End Autonomous Driving**|Yanhao Wu et.al.|[2601.01762](http://arxiv.org/abs/2601.01762)|null|
@@ -2473,6 +2483,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**ReCCur: A Recursive Corner-Case Curation Framework for Robust Vision-Language Understanding in Open and Edge Scenarios**|Yihan Wei et.al.|[2601.03011](http://arxiv.org/abs/2601.03011)|null|
+|**2026-01-06**|**MoE Adapter for Large Audio Language Models: Sparsity, Disentanglement, and Gradient-Conflict-Free**|Yishu Lei et.al.|[2601.02967](http://arxiv.org/abs/2601.02967)|null|
+|**2026-01-06**|**MixTTE: Multi-Level Mixture-of-Experts for Scalable and Adaptive Travel Time Estimation**|Wenzhao Jiang et.al.|[2601.02943](http://arxiv.org/abs/2601.02943)|null|
+|**2026-01-06**|**MiMo-V2-Flash Technical Report**|Bangjun Xiao et.al.|[2601.02780](http://arxiv.org/abs/2601.02780)|null|
 |**2026-01-05**|**Routing by Analogy: kNN-Augmented Expert Assignment for Mixture-of-Experts**|Boxuan Lyu et.al.|[2601.02144](http://arxiv.org/abs/2601.02144)|null|
 |**2026-01-05**|**Cross section measurement of $e^{+}e^{-}\rightarrow π^{0}π^{0}ψ(3686)$ from $\sqrt{s}=$ 4.008 GeV to 4.951 GeV**|BESIII Collaboration et.al.|[2601.02136](http://arxiv.org/abs/2601.02136)|null|
 |**2026-01-05**|**FormuLLA: A Large Language Model Approach to Generating Novel 3D Printable Formulations**|Adeshola Okubena et.al.|[2601.02071](http://arxiv.org/abs/2601.02071)|null|
@@ -2483,9 +2497,9 @@ layout: default
 |**2026-01-05**|**K-EXAONE Technical Report**|Eunbi Choi et.al.|[2601.01739](http://arxiv.org/abs/2601.01739)|null|
 |**2026-01-05**|**Yuan3.0 Flash: An Open Multimodal Large Language Model for Enterprise Applications**|YuanLab. ai et.al.|[2601.01718](http://arxiv.org/abs/2601.01718)|null|
 |**2026-01-05**|**Varying-Coefficient Mixture of Experts Model**|Qicheng Zhao et.al.|[2601.01699](http://arxiv.org/abs/2601.01699)|null|
-|**2026-01-04**|**Measurements of the absolute branching fractions of the $Λ_{c}^{+}$ hadronic decays**|BESIII Collaboration et.al.|[2601.01503](http://arxiv.org/abs/2601.01503)|null|
+|**2026-01-06**|**Measurements of the absolute branching fractions of the $Λ_{c}^{+}$ hadronic decays**|BESIII Collaboration et.al.|[2601.01503](http://arxiv.org/abs/2601.01503)|null|
 |**2026-01-04**|**Multi-Subspace Multi-Modal Modeling for Diffusion Models: Estimation, Convergence and Mixture of Experts**|Ruofeng Yang et.al.|[2601.01475](http://arxiv.org/abs/2601.01475)|null|
-|**2026-01-04**|**Making MoE based LLM inference resilient with Tarragon**|Songyu Zhang et.al.|[2601.01310](http://arxiv.org/abs/2601.01310)|null|
+|**2026-01-06**|**Making MoE-based LLM Inference Resilient with Tarragon**|Songyu Zhang et.al.|[2601.01310](http://arxiv.org/abs/2601.01310)|null|
 |**2026-01-03**|**MambaFormer: Token-Level Guided Routing Mixture-of-Experts for Accurate and Efficient Clinical Assistance**|Hamad Khan et.al.|[2601.01260](http://arxiv.org/abs/2601.01260)|null|
 |**2026-01-02**|**Reliability Under Randomness: An Empirical Analysis of Sparse and Dense Language Models Across Decoding Temperatures**|Kabir Grover et.al.|[2601.00942](http://arxiv.org/abs/2601.00942)|null|
 |**2026-01-02**|**HFedMoE: Resource-aware Heterogeneous Federated Learning with Mixture-of-Experts**|Zihan Fang et.al.|[2601.00583](http://arxiv.org/abs/2601.00583)|null|
@@ -3098,8 +3112,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-06**|**Time-Aware Synthetic Control**|Saeyoung Rho et.al.|[2601.03099](http://arxiv.org/abs/2601.03099)|null|
+|**2026-01-06**|**Fast Surrogate Models for Adaptive Aircraft Trajectory Prediction in En route Airspace**|Nick Pepper et.al.|[2601.03075](http://arxiv.org/abs/2601.03075)|null|
+|**2026-01-06**|**XLSR-MamBo: Scaling the Hybrid Mamba-Attention Backbone for Audio Deepfake Detection**|Kwok-Ho Ng et.al.|[2601.02944](http://arxiv.org/abs/2601.02944)|null|
+|**2026-01-05**|**AMC26: VSSEA robust position control**|Emre Sariyildiz et.al.|[2601.02557](http://arxiv.org/abs/2601.02557)|null|
+|**2026-01-05**|**Scalable Gaussian Processes for Integrated and Overlapping Measurements Via Augmented State Space Models**|Ryan A. Rubenzahl et.al.|[2601.02527](http://arxiv.org/abs/2601.02527)|null|
+|**2026-01-02**|**SpikySpace: A Spiking State Space Model for Energy-Efficient Time Series Forecasting**|Kaiwen Tang et.al.|[2601.02411](http://arxiv.org/abs/2601.02411)|null|
 |**2026-01-05**|**A Mamba-Based Model for Automatic Chord Recognition**|Chunyu Yuan et.al.|[2601.02101](http://arxiv.org/abs/2601.02101)|null|
-|**2026-01-05**|**Hidden State Poisoning Attacks against Mamba-based Language Models**|Alexandre Le Mercier et.al.|[2601.01972](http://arxiv.org/abs/2601.01972)|null|
+|**2026-01-06**|**Hidden State Poisoning Attacks against Mamba-based Language Models**|Alexandre Le Mercier et.al.|[2601.01972](http://arxiv.org/abs/2601.01972)|null|
 |**2026-01-04**|**Reliable Grid Forecasting: State Space Models for Safety-Critical Energy Systems**|Jisoo Lee et.al.|[2601.01410](http://arxiv.org/abs/2601.01410)|null|
 |**2026-01-04**|**LinMU: Multimodal Understanding Made Linear**|Hongjie Wang et.al.|[2601.01322](http://arxiv.org/abs/2601.01322)|null|
 |**2026-01-03**|**MambaFormer: Token-Level Guided Routing Mixture-of-Experts for Accurate and Efficient Clinical Assistance**|Hamad Khan et.al.|[2601.01260](http://arxiv.org/abs/2601.01260)|null|
