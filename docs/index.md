@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.08
+## Updated on 2026.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -2498,9 +2498,9 @@ layout: default
 |**2026-01-07**|**When Helpers Become Hazards: A Benchmark for Analyzing Multimodal LLM-Powered Safety in Daily Life**|Xinyue Lou et.al.|[2601.04043](http://arxiv.org/abs/2601.04043)|null|
 |**2026-01-07**|**A Scheduling Framework for Efficient MoE Inference on Edge GPU-NDP Systems**|Qi Wu et.al.|[2601.03992](http://arxiv.org/abs/2601.03992)|null|
 |**2026-01-07**|**Spectral Manifold Regularization for Stable and Modular Routing in Deep MoE Architectures**|Ibrahim Delibasoglu et.al.|[2601.03889](http://arxiv.org/abs/2601.03889)|null|
-|**2026-01-07**|**PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation**|Wenlong Huang et.al.|[2601.03782](http://arxiv.org/abs/2601.03782)|**[link](https://github.com/huangwl18/PointWorld)**|
+|**2026-01-07**|**PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation**|Wenlong Huang et.al.|[2601.03782](http://arxiv.org/abs/2601.03782)|null|
 |**2026-01-07**|**Variational Inference, Entropy, and Orthogonality: A Unified Theory of Mixture-of-Experts**|Ye Su et.al.|[2601.03577](http://arxiv.org/abs/2601.03577)|null|
-|**2026-01-07**|**CALM: Culturally Self-Aware Language Models**|Lingzhi Shen et.al.|[2601.03483](http://arxiv.org/abs/2601.03483)|**[link](https://github.com/slz0925/CALM)**|
+|**2026-01-07**|**CALM: Culturally Self-Aware Language Models**|Lingzhi Shen et.al.|[2601.03483](http://arxiv.org/abs/2601.03483)|null|
 |**2026-01-06**|**The Illusion of Specialization: Unveiling the Domain-Invariant "Standing Committee" in Mixture-of-Experts Models**|Yan Wang et.al.|[2601.03425](http://arxiv.org/abs/2601.03425)|null|
 |**2026-01-06**|**AT2024wpp: An Extremely Luminous Fast Ultraviolet Transient Powered by Accretion onto a Black Hole**|Daniel A. Perley et.al.|[2601.03337](http://arxiv.org/abs/2601.03337)|null|
 |**2026-01-06**|**ReCCur: A Recursive Corner-Case Curation Framework for Robust Vision-Language Understanding in Open and Edge Scenarios**|Yihan Wei et.al.|[2601.03011](http://arxiv.org/abs/2601.03011)|null|
