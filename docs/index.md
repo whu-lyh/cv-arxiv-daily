@@ -9,7 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-09**|**Ground What You See: Hallucination-Resistant MLLMs via Caption Feedback, Diversity-Aware Sampling, and Conflict Regularization**|Miao Pan et.al.|[2601.06224](http://arxiv.org/abs/2601.06224)|**[link](https://github.com/ZJU-OmniAI/OMNEX-VL)**|
+|**2026-01-13**|**Spatial Context Improves the Integration of Text with Remote Sensing for Mapping Environmental Variables**|Valerie Zermatten et.al.|[2601.08750](http://arxiv.org/abs/2601.08750)|null|
+|**2026-01-13**|**Enhancing Image Quality Assessment Ability of LMMs via Retrieval-Augmented Generation**|Kang Fu et.al.|[2601.08311](http://arxiv.org/abs/2601.08311)|null|
+|**2026-01-13**|**Ground What You See: Hallucination-Resistant MLLMs via Caption Feedback, Diversity-Aware Sampling, and Conflict Regularization**|Miao Pan et.al.|[2601.06224](http://arxiv.org/abs/2601.06224)|**[link](https://github.com/ZJU-OmniAI/OMNEX-VL)**|
 |**2026-01-09**|**Descriptor: Multi-Regional Cloud Honeypot Dataset (MURHCAD)**|Enrique Feito-Casares et.al.|[2601.05813](http://arxiv.org/abs/2601.05813)|null|
 |**2026-01-08**|**Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization**|Yuxiang Ji et.al.|[2601.05432](http://arxiv.org/abs/2601.05432)|**[link](https://github.com/AMAP-ML/Thinking-with-Map)**|
 |**2026-01-08**|**Multi-task Cross-modal Learning for Chest X-ray Image Retrieval**|Zhaohui Liang et.al.|[2601.05399](http://arxiv.org/abs/2601.05399)|null|
@@ -706,8 +708,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**3DGS-Drag: Dragging Gaussians for Intuitive Point-Based 3D Editing**|Jiahua Dong et.al.|[2601.07963](http://arxiv.org/abs/2601.07963)|null|
 |**2026-01-12**|**FMAC: a Fair Fiducial Marker Accuracy Comparison Software**|Guillaume J. Laurent et.al.|[2601.07723](http://arxiv.org/abs/2601.07723)|null|
-|**2026-01-12**|**ViewMorpher3D: A 3D-aware Diffusion Framework for Multi-Camera Novel View Synthesis in Autonomous Driving**|Farhad G. Zanjani et.al.|[2601.07540](http://arxiv.org/abs/2601.07540)|null|
+|**2026-01-13**|**ViewMorpher3D: A 3D-aware Diffusion Framework for Multi-Camera Novel View Synthesis in Autonomous Driving**|Farhad G. Zanjani et.al.|[2601.07540](http://arxiv.org/abs/2601.07540)|null|
 |**2026-01-12**|**Mon3tr: Monocular 3D Telepresence with Pre-built Gaussian Avatars as Amortization**|Fangyu Lin et.al.|[2601.07518](http://arxiv.org/abs/2601.07518)|null|
 |**2026-01-12**|**R3-RECON: Radiance-Field-Free Active Reconstruction via Renderability**|Xiaofeng Jin et.al.|[2601.07484](http://arxiv.org/abs/2601.07484)|null|
 |**2026-01-11**|**SARA: Scene-Aware Reconstruction Accelerator**|Jee Won Lee et.al.|[2601.06831](http://arxiv.org/abs/2601.06831)|null|
@@ -1347,8 +1350,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**SoC: Semantic Orthogonal Calibration for Test-Time Prompt Tuning**|Leo Fillioux et.al.|[2601.08617](http://arxiv.org/abs/2601.08617)|null|
+|**2026-01-13**|**Coverage-Guided Road Selection and Prioritization for Efficient Testing in Autonomous Driving Systems**|Qurban Ali et.al.|[2601.08609](http://arxiv.org/abs/2601.08609)|null|
+|**2026-01-13**|**Large Multimodal Models for Embodied Intelligent Driving: The Next Frontier in Self-Driving?**|Long Zhang et.al.|[2601.08434](http://arxiv.org/abs/2601.08434)|null|
+|**2026-01-13**|**Semantic Misalignment in Vision-Language Models under Perceptual Degradation**|Guo Cheng et.al.|[2601.08355](http://arxiv.org/abs/2601.08355)|null|
+|**2026-01-09**|**An Empirical Study on Knowledge Transfer under Domain and Label Shifts in 3D LiDAR Point Clouds**|Subeen Lee et.al.|[2601.07855](http://arxiv.org/abs/2601.07855)|null|
 |**2026-01-12**|**Leveraging 3D Representation Alignment and RGB Pretrained Priors for LiDAR Scene Generation**|Nicolas Sereyjol-Garros et.al.|[2601.07692](http://arxiv.org/abs/2601.07692)|null|
-|**2026-01-12**|**ViewMorpher3D: A 3D-aware Diffusion Framework for Multi-Camera Novel View Synthesis in Autonomous Driving**|Farhad G. Zanjani et.al.|[2601.07540](http://arxiv.org/abs/2601.07540)|null|
+|**2026-01-13**|**ViewMorpher3D: A 3D-aware Diffusion Framework for Multi-Camera Novel View Synthesis in Autonomous Driving**|Farhad G. Zanjani et.al.|[2601.07540](http://arxiv.org/abs/2601.07540)|null|
 |**2026-01-12**|**Task Prototype-Based Knowledge Retrieval for Multi-Task Learning from Partially Annotated Data**|Youngmin Oh et.al.|[2601.07474](http://arxiv.org/abs/2601.07474)|null|
 |**2026-01-12**|**Software-Hardware Co-optimization for Modular E2E AV Paradigm: A Unified Framework of Optimization Approaches, Simulation Environment and Evaluation Metrics**|Chengzhi Ji et.al.|[2601.07393](http://arxiv.org/abs/2601.07393)|null|
 |**2026-01-12**|**SC-MII: Infrastructure LiDAR-based 3D Object Detection on Edge Devices for Split Computing with Multiple Intermediate Outputs Integration**|Taisuke Noguchi et.al.|[2601.07119](http://arxiv.org/abs/2601.07119)|null|
@@ -2493,7 +2501,7 @@ layout: default
 |**2025-10-17**|**ERNet: Efficient Non-Rigid Registration Network for Point Sequences**|Guangzhao He et.al.|[2510.15800](http://arxiv.org/abs/2510.15800)|null|
 |**2025-09-12**|**Human Body Segment Volume Estimation with Two RGB-D Cameras**|Giulia Bassani et.al.|[2509.10429](http://arxiv.org/abs/2509.10429)|null|
 |**2025-09-09**|**A Comprehensive Pipeline for Aortic Segmentation and Shape Analysis**|Nairouz Shehata et.al.|[2509.09718](http://arxiv.org/abs/2509.09718)|null|
-|**2025-08-19**|**Shape-from-Template with Generalised Camera**|Agniva Sengupta et.al.|[2508.13791](http://arxiv.org/abs/2508.13791)|null|
+|**2025-08-19**|**Shape-from-Template with Generalised Camera**|Agniva Sengupta et.al.|[2508.13791](http://arxiv.org/abs/2508.13791)|**[link](https://github.com/agnivsen/sft-generalised)**|
 |**2025-08-24**|**FractMorph: A Fractional Fourier-Based Multi-Domain Transformer for Deformable Image Registration**|Shayan Kebriti et.al.|[2508.12445](http://arxiv.org/abs/2508.12445)|null|
 |**2025-07-27**|**PIVOTS: Aligning unseen Structures using Preoperative to Intraoperative Volume-To-Surface Registration for Liver Navigation**|Peng Liu et.al.|[2507.20337](http://arxiv.org/abs/2507.20337)|null|
 |**2025-07-10**|**X-RAFT: Cross-Modal Non-Rigid Registration of Blue and White Light Neurosurgical Hyperspectral Images**|Charlie Budd et.al.|[2507.07747](http://arxiv.org/abs/2507.07747)|null|
@@ -2543,6 +2551,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**MixServe: An Automatic Distributed Serving System for MoE Models with Hybrid Parallelism Based on Fused Communication Algorithm**|Bowen Zhou et.al.|[2601.08800](http://arxiv.org/abs/2601.08800)|null|
+|**2026-01-13**|**LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms**|Namhyun Kim et.al.|[2601.08780](http://arxiv.org/abs/2601.08780)|null|
+|**2026-01-13**|**M $^2$ FMoE: Multi-Resolution Multi-View Frequency Mixture-of-Experts for Extreme-Adaptive Time Series Forecasting**|Yaohui Huang et.al.|[2601.08631](http://arxiv.org/abs/2601.08631)|null|
+|**2026-01-13**|**Robust CAPTCHA Using Audio Illusions in the Era of Large Language Models: from Evaluation to Advances**|Ziqi Ding et.al.|[2601.08516](http://arxiv.org/abs/2601.08516)|null|
+|**2026-01-13**|**Taxon: Hierarchical Tax Code Prediction with Semantically Aligned LLM Expert Guidance**|Jihang Li et.al.|[2601.08418](http://arxiv.org/abs/2601.08418)|null|
+|**2026-01-13**|**Controlled LLM Training on Spectral Sphere**|Tian Xie et.al.|[2601.08393](http://arxiv.org/abs/2601.08393)|null|
+|**2026-01-13**|**Deconstructing Pre-training: Knowledge Attribution Analysis in MoE and Dense Models**|Bo Wang et.al.|[2601.08383](http://arxiv.org/abs/2601.08383)|null|
+|**2026-01-13**|**Towards Principled Design of Mixture-of-Experts Language Models under Memory and Inference Constraints**|Seng Pei Liew et.al.|[2601.08215](http://arxiv.org/abs/2601.08215)|null|
+|**2026-01-12**|**Towards Specialized Generalists: A Multi-Task MoE-LoRA Framework for Domain-Specific LLM Adaptation**|Yuxin Yang et.al.|[2601.07935](http://arxiv.org/abs/2601.07935)|null|
+|**2026-01-12**|**An eclipsing 8.56 minute orbital period mass-transferring binary**|Emma T. Chickles et.al.|[2601.07925](http://arxiv.org/abs/2601.07925)|null|
 |**2026-01-12**|**Emotional Support Evaluation Framework via Controllable and Diverse Seeker Simulator**|Chaewon Heo et.al.|[2601.07698](http://arxiv.org/abs/2601.07698)|null|
 |**2026-01-12**|**Amplitude analysis and branching fraction measurement of $J/ψ\to Λ\barΣ^0η+\mathrm{c.c}$**|BESIII Collaboration et.al.|[2601.07617](http://arxiv.org/abs/2601.07617)|null|
 |**2026-01-12**|**Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models**|Xin Cheng et.al.|[2601.07372](http://arxiv.org/abs/2601.07372)|null|
@@ -3211,6 +3229,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**SfMamba: Efficient Source-Free Domain Adaptation via Selective Scan Modeling**|Xi Chen et.al.|[2601.08608](http://arxiv.org/abs/2601.08608)|null|
+|**2026-01-13**|**Particle Filtering for a Class of State-Space Models with Low and Degenerate Observational Noise**|Abylay Zhumekenov et.al.|[2601.08411](http://arxiv.org/abs/2601.08411)|null|
+|**2026-01-12**|**Rescind: Countering Image Misconduct in Biomedical Publications with Vision-Language and State-Space Modeling**|Soumyaroop Nandi et.al.|[2601.08040](http://arxiv.org/abs/2601.08040)|null|
+|**2026-01-12**|**Language markers of emotion flexibility predict depression and anxiety treatment outcomes**|Benjamin Brindle et.al.|[2601.07961](http://arxiv.org/abs/2601.07961)|null|
 |**2026-01-11**|**Conditional Normalizing Flows for Forward and Backward Joint State and Parameter Estimation**|Luke S. Lagunowich et.al.|[2601.07013](http://arxiv.org/abs/2601.07013)|null|
 |**2026-01-11**|**Deep Recurrent Hidden Markov Learning Framework for Multi-Stage Advanced Persistent Threat Prediction**|Saleem Ishaq Tijjani et.al.|[2601.06734](http://arxiv.org/abs/2601.06734)|null|
 |**2026-01-08**|**Akasha 2: Hamiltonian State Space Duality and Visual-Language Joint Embedding Predictive Architectur**|Yani Meziani et.al.|[2601.06212](http://arxiv.org/abs/2601.06212)|null|
@@ -3764,11 +3786,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**MMLGNet: Cross-Modal Alignment of Remote Sensing Data using CLIP**|Aditya Chaudhary et.al.|[2601.08420](http://arxiv.org/abs/2601.08420)|null|
 |**2026-01-12**|**SDHSI-Net: Learning Better Representations for Hyperspectral Images via Self-Distillation**|Prachet Dev Singh et.al.|[2601.07416](http://arxiv.org/abs/2601.07416)|null|
 |**2026-01-11**|**Adversarial Attacks on Medical Hyperspectral Imaging Exploiting Spectral-Spatial Dependencies and Multiscale Features**|Yunrui Gu et.al.|[2601.07056](http://arxiv.org/abs/2601.07056)|null|
 |**2026-01-08**|**EdgeLDR: Quaternion Low-Displacement Rank Neural Networks for Edge-Efficient Deep Learning**|Vladimir Frants et.al.|[2601.05379](http://arxiv.org/abs/2601.05379)|null|
 |**2026-01-07**|**HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection**|Shuyan Bai et.al.|[2601.03736](http://arxiv.org/abs/2601.03736)|null|
-|**2026-01-03**|**Efficient Hyperspectral Image Reconstruction Using Lightweight Separate Spectral Transformers**|Jianan Li et.al.|[2601.01064](http://arxiv.org/abs/2601.01064)|**[link](https://github.com/wcz1124/LSST)**|
+|**2026-01-03**|**Efficient Hyperspectral Image Reconstruction Using Lightweight Separate Spectral Transformers**|Jianan Li et.al.|[2601.01064](http://arxiv.org/abs/2601.01064)|null|
 |**2025-12-30**|**Deep Global Clustering for Hyperspectral Image Segmentation: Concepts, Applications, and Open Challenges**|Yu-Tang Chang et.al.|[2512.24172](http://arxiv.org/abs/2512.24172)|null|
 |**2025-12-25**|**Degradation-Aware Metric Prompting for Hyperspectral Image Restoration**|Binfeng Wang et.al.|[2512.20251](http://arxiv.org/abs/2512.20251)|null|
 |**2025-12-22**|**Rethinking Coupled Tensor Analysis for Hyperspectral Super-Resolution: Recoverable Modeling Under Endmember Variability**|Meng Ding et.al.|[2512.19489](http://arxiv.org/abs/2512.19489)|null|
