@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.13
+## Updated on 2026.01.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -2493,7 +2493,7 @@ layout: default
 |**2025-10-17**|**ERNet: Efficient Non-Rigid Registration Network for Point Sequences**|Guangzhao He et.al.|[2510.15800](http://arxiv.org/abs/2510.15800)|null|
 |**2025-09-12**|**Human Body Segment Volume Estimation with Two RGB-D Cameras**|Giulia Bassani et.al.|[2509.10429](http://arxiv.org/abs/2509.10429)|null|
 |**2025-09-09**|**A Comprehensive Pipeline for Aortic Segmentation and Shape Analysis**|Nairouz Shehata et.al.|[2509.09718](http://arxiv.org/abs/2509.09718)|null|
-|**2025-08-19**|**Shape-from-Template with Generalised Camera**|Agniva Sengupta et.al.|[2508.13791](http://arxiv.org/abs/2508.13791)|**[link](https://github.com/agnivsen/sft-generalised)**|
+|**2025-08-19**|**Shape-from-Template with Generalised Camera**|Agniva Sengupta et.al.|[2508.13791](http://arxiv.org/abs/2508.13791)|null|
 |**2025-08-24**|**FractMorph: A Fractional Fourier-Based Multi-Domain Transformer for Deformable Image Registration**|Shayan Kebriti et.al.|[2508.12445](http://arxiv.org/abs/2508.12445)|null|
 |**2025-07-27**|**PIVOTS: Aligning unseen Structures using Preoperative to Intraoperative Volume-To-Surface Registration for Liver Navigation**|Peng Liu et.al.|[2507.20337](http://arxiv.org/abs/2507.20337)|null|
 |**2025-07-10**|**X-RAFT: Cross-Modal Non-Rigid Registration of Blue and White Light Neurosurgical Hyperspectral Images**|Charlie Budd et.al.|[2507.07747](http://arxiv.org/abs/2507.07747)|null|
@@ -3768,7 +3768,7 @@ layout: default
 |**2026-01-11**|**Adversarial Attacks on Medical Hyperspectral Imaging Exploiting Spectral-Spatial Dependencies and Multiscale Features**|Yunrui Gu et.al.|[2601.07056](http://arxiv.org/abs/2601.07056)|null|
 |**2026-01-08**|**EdgeLDR: Quaternion Low-Displacement Rank Neural Networks for Edge-Efficient Deep Learning**|Vladimir Frants et.al.|[2601.05379](http://arxiv.org/abs/2601.05379)|null|
 |**2026-01-07**|**HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection**|Shuyan Bai et.al.|[2601.03736](http://arxiv.org/abs/2601.03736)|null|
-|**2026-01-03**|**Efficient Hyperspectral Image Reconstruction Using Lightweight Separate Spectral Transformers**|Jianan Li et.al.|[2601.01064](http://arxiv.org/abs/2601.01064)|null|
+|**2026-01-03**|**Efficient Hyperspectral Image Reconstruction Using Lightweight Separate Spectral Transformers**|Jianan Li et.al.|[2601.01064](http://arxiv.org/abs/2601.01064)|**[link](https://github.com/wcz1124/LSST)**|
 |**2025-12-30**|**Deep Global Clustering for Hyperspectral Image Segmentation: Concepts, Applications, and Open Challenges**|Yu-Tang Chang et.al.|[2512.24172](http://arxiv.org/abs/2512.24172)|null|
 |**2025-12-25**|**Degradation-Aware Metric Prompting for Hyperspectral Image Restoration**|Binfeng Wang et.al.|[2512.20251](http://arxiv.org/abs/2512.20251)|null|
 |**2025-12-22**|**Rethinking Coupled Tensor Analysis for Hyperspectral Super-Resolution: Recoverable Modeling Under Endmember Variability**|Meng Ding et.al.|[2512.19489](http://arxiv.org/abs/2512.19489)|null|
