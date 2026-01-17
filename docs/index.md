@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.16
+## Updated on 2026.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -1370,7 +1370,7 @@ layout: default
 |**2026-01-14**|**ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving**|Xuemei Yao et.al.|[2601.09377](http://arxiv.org/abs/2601.09377)|null|
 |**2026-01-14**|**Monte-Carlo Tree Search with Neural Network Guidance for Lane-Free Autonomous Driving**|Ioannis Peridis et.al.|[2601.09353](http://arxiv.org/abs/2601.09353)|null|
 |**2026-01-13**|**SoC: Semantic Orthogonal Calibration for Test-Time Prompt Tuning**|Leo Fillioux et.al.|[2601.08617](http://arxiv.org/abs/2601.08617)|null|
-|**2026-01-13**|**Coverage-Guided Road Selection and Prioritization for Efficient Testing in Autonomous Driving Systems**|Qurban Ali et.al.|[2601.08609](http://arxiv.org/abs/2601.08609)|**[link](https://github.com/lakhanqurban/prioritization)**|
+|**2026-01-13**|**Coverage-Guided Road Selection and Prioritization for Efficient Testing in Autonomous Driving Systems**|Qurban Ali et.al.|[2601.08609](http://arxiv.org/abs/2601.08609)|null|
 |**2026-01-14**|**Large Multimodal Models for Embodied Intelligent Driving: The Next Frontier in Self-Driving?**|Long Zhang et.al.|[2601.08434](http://arxiv.org/abs/2601.08434)|null|
 |**2026-01-15**|**Semantic Misalignment in Vision-Language Models under Perceptual Degradation**|Guo Cheng et.al.|[2601.08355](http://arxiv.org/abs/2601.08355)|null|
 |**2026-01-09**|**An Empirical Study on Knowledge Transfer under Domain and Label Shifts in 3D LiDAR Point Clouds**|Subeen Lee et.al.|[2601.07855](http://arxiv.org/abs/2601.07855)|null|
