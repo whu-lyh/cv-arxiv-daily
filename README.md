@@ -951,7 +951,7 @@
 |**2025-11-27**|**Bringing Your Portrait to 3D Presence**|Jiawei Zhang et.al.|[2511.22553](http://arxiv.org/abs/2511.22553)|null|
 |**2025-11-27**|**FedRE: A Representation Entanglement Framework for Model-Heterogeneous Federated Learning**|Yuan Yao et.al.|[2511.22265](http://arxiv.org/abs/2511.22265)|null|
 |**2025-11-27**|**Can Protective Watermarking Safeguard the Copyright of 3D Gaussian Splatting?**|Wenkai Huang et.al.|[2511.22262](http://arxiv.org/abs/2511.22262)|null|
-|**2025-11-26**|**Resolution Where It Counts: Hash-based GPU-Accelerated 3D Reconstruction via Variance-Adaptive Voxel Grids**|Lorenzo De Rebotti et.al.|[2511.21459](http://arxiv.org/abs/2511.21459)|null|
+|**2025-11-26**|**Resolution Where It Counts: Hash-based GPU-Accelerated 3D Reconstruction via Variance-Adaptive Voxel Grids**|Lorenzo De Rebotti et.al.|[2511.21459](http://arxiv.org/abs/2511.21459)|**[link](https://github.com/rvp-group/mrhash)**|
 |**2025-11-26**|**Endo-G $^{2}$ T: Geometry-Guided & Temporally Aware Time-Embedded 4DGS For Endoscopic Scenes**|Yangle Liu et.al.|[2511.21367](http://arxiv.org/abs/2511.21367)|null|
 |**2025-11-26**|**Unlocking Zero-shot Potential of Semi-dense Image Matching via Gaussian Splatting**|Juncheng Chen et.al.|[2511.21265](http://arxiv.org/abs/2511.21265)|null|
 |**2025-11-26**|**The Spheres Dataset: Multitrack Orchestral Recordings for Music Source Separation and Information Retrieval**|Jaime Garcia-Martinez et.al.|[2511.21247](http://arxiv.org/abs/2511.21247)|null|
@@ -967,9 +967,9 @@
 |**2025-11-25**|**Clair Obscur: an Illumination-Aware Method for Real-World Image Vectorization**|Xingyue Lin et.al.|[2511.20034](http://arxiv.org/abs/2511.20034)|null|
 |**2025-11-25**|**GigaWorld-0: World Models as Data Engine to Empower Embodied AI**|GigaWorld Team et.al.|[2511.19861](http://arxiv.org/abs/2511.19861)|null|
 |**2025-11-25**|**Temporal-Visual Semantic Alignment: A Unified Architecture for Transferring Spatial Priors from Vision Models to Zero-Shot Temporal Tasks**|Xiangkai Ma et.al.|[2511.19856](http://arxiv.org/abs/2511.19856)|null|
-|**2025-11-25**|**STAvatar: Soft Binding and Temporal Density Control for Monocular 3D Head Avatars Reconstruction**|Jiankuo Zhao et.al.|[2511.19854](http://arxiv.org/abs/2511.19854)|null|
+|**2025-11-25**|**STAvatar: Soft Binding and Temporal Density Control for Monocular 3D Head Avatars Reconstruction**|Jiankuo Zhao et.al.|[2511.19854](http://arxiv.org/abs/2511.19854)|**[link](https://github.com/LCFAW/STAvatar)**|
 |**2025-11-24**|**ModHiFi: Identifying High Fidelity predictive components for Model Modification**|Dhruva Kashyap et.al.|[2511.19566](http://arxiv.org/abs/2511.19566)|null|
-|**2025-11-24**|**Proxy-Free Gaussian Splats Deformation with Splat-Based Surface Estimation**|Jaeyeong Kim et.al.|[2511.19542](http://arxiv.org/abs/2511.19542)|null|
+|**2025-11-24**|**Proxy-Free Gaussian Splats Deformation with Splat-Based Surface Estimation**|Jaeyeong Kim et.al.|[2511.19542](http://arxiv.org/abs/2511.19542)|**[link](https://github.com/kjae0/SpLap)**|
 |**2025-11-24**|**LumiTex: Towards High-Fidelity PBR Texture Generation with Illumination Context**|Jingzhi Bao et.al.|[2511.19437](http://arxiv.org/abs/2511.19437)|null|
 |**2025-11-24**|**Efficiency vs. Fidelity: A Comparative Analysis of Diffusion Probabilistic Models and Flow Matching on Low-Resource Hardware**|Srishti Gupta et.al.|[2511.19379](http://arxiv.org/abs/2511.19379)|null|
 |**2025-11-24**|**DensifyBeforehand: LiDAR-assisted Content-aware Densification for Efficient and Quality 3D Gaussian Splatting**|Phurtivilai Patt et.al.|[2511.19294](http://arxiv.org/abs/2511.19294)|null|
@@ -2016,7 +2016,7 @@
 |**2025-09-26**|**An Intention-driven Lane Change Framework Considering Heterogeneous Dynamic Cooperation in Mixed-traffic Environment**|Xiaoyun Qiu et.al.|[2509.22550](http://arxiv.org/abs/2509.22550)|null|
 |**2025-09-26**|**EfficientDepth: A Fast and Detail-Preserving Monocular Depth Estimation Model**|Andrii Litvynchuk et.al.|[2509.22527](http://arxiv.org/abs/2509.22527)|null|
 |**2025-09-29**|**A Multi-Modality Evaluation of the Reality Gap in Autonomous Driving Systems**|Stefano Carlo Lambertenghi et.al.|[2509.22379](http://arxiv.org/abs/2509.22379)|null|
-|**2025-09-26**|**UniMapGen: A Generative Framework for Large-Scale Map Construction from Multi-modal Data**|Yujian Yuan et.al.|[2509.22262](http://arxiv.org/abs/2509.22262)|null|
+|**2025-09-26**|**UniMapGen: A Generative Framework for Large-Scale Map Construction from Multi-modal Data**|Yujian Yuan et.al.|[2509.22262](http://arxiv.org/abs/2509.22262)|**[link](https://github.com/Yujianyuan/unimapgen.github.io)**|
 |**2025-09-26**|**An Adaptive ICP LiDAR Odometry Based on Reliable Initial Pose**|Qifeng Wang et.al.|[2509.22058](http://arxiv.org/abs/2509.22058)|null|
 |**2025-09-25**|**PL-VIWO2: A Lightweight, Fast and Robust Visual-Inertial-Wheel Odometry Using Points and Lines**|Zhixin Zhang et.al.|[2509.21563](http://arxiv.org/abs/2509.21563)|null|
 |**2025-09-25**|**Autoregressive End-to-End Planning with Time-Invariant Spatial Alignment and Multi-Objective Policy Refinement**|Jianbo Zhao et.al.|[2509.20938](http://arxiv.org/abs/2509.20938)|null|
@@ -2445,7 +2445,7 @@
 |**2025-11-13**|**Semantic Property Maps for Driving Applications**|Marcus Greiff et.al.|[2511.10798](http://arxiv.org/abs/2511.10798)|null|
 |**2025-11-13**|**Curved Worlds, Clear Boundaries: Generalizing Speech Deepfake Detection using Hyperbolic and Spherical Geometry Spaces**|Farhan Sheth et.al.|[2511.10793](http://arxiv.org/abs/2511.10793)|null|
 |**2025-11-13**|**Domination between non-Fuchsian representations and anti-de Sitter geometry**|Farid Diaf et.al.|[2511.10570](http://arxiv.org/abs/2511.10570)|null|
-|**2025-11-13**|**OmniVGGT: Omni-Modality Driven Visual Geometry Grounded**|Haosong Peng et.al.|[2511.10560](http://arxiv.org/abs/2511.10560)|null|
+|**2025-11-13**|**OmniVGGT: Omni-Modality Driven Visual Geometry Grounded**|Haosong Peng et.al.|[2511.10560](http://arxiv.org/abs/2511.10560)|**[link](https://github.com/Livioni/OmniVGGT-official)**|
 |**2025-11-13**|**A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space**|Huijie Liu et.al.|[2511.10555](http://arxiv.org/abs/2511.10555)|**[link](https://github.com/Kwai-Kolors/CoTyle)**|
 |**2025-11-13**|**Noncommutative tensor triangular geometry: modules, bimodules, and unipotent Hopf algebras**|Øyvind Solberg et.al.|[2511.10531](http://arxiv.org/abs/2511.10531)|null|
 |**2025-11-13**|**Learning Post-Newtonian Corrections from Numerical Relativity**|Jooheon Yoo et.al.|[2511.10522](http://arxiv.org/abs/2511.10522)|null|
@@ -2899,7 +2899,7 @@
 |**2025-11-21**|**Unified Class and Domain Incremental Learning with Mixture of Experts for Indoor Localization**|Akhil Singampalli et.al.|[2511.17829](http://arxiv.org/abs/2511.17829)|null|
 |**2025-11-21**|**Boosting Brain-inspired Path Integration Efficiency via Learning-based Replication of Continuous Attractor Neurodynamics**|Zhangyu Ge et.al.|[2511.17687](http://arxiv.org/abs/2511.17687)|null|
 |**2025-11-21**|**Sparse Mixture-of-Experts for Multi-Channel Imaging: Are All Channel Interactions Required?**|Sukwon Yun et.al.|[2511.17400](http://arxiv.org/abs/2511.17400)|null|
-|**2025-11-21**|**MCMoE: Completing Missing Modalities with Mixture of Experts for Incomplete Multimodal Action Quality Assessment**|Huangbiao Xu et.al.|[2511.17397](http://arxiv.org/abs/2511.17397)|null|
+|**2025-11-21**|**MCMoE: Completing Missing Modalities with Mixture of Experts for Incomplete Multimodal Action Quality Assessment**|Huangbiao Xu et.al.|[2511.17397](http://arxiv.org/abs/2511.17397)|**[link](https://github.com/XuHuangbiao/MCMoE)**|
 |**2025-11-21**|**Training Foundation Models on a Full-Stack AMD Platform: Compute, Networking, and System Design**|Quentin Anthony et.al.|[2511.17127](http://arxiv.org/abs/2511.17127)|null|
 |**2025-11-21**|**Parametric Retrieval-Augmented Generation using Latent Routing of LoRA Adapters**|Zhan Su et.al.|[2511.17044](http://arxiv.org/abs/2511.17044)|null|
 |**2025-11-21**|**VLM-Augmented Degradation Modeling for Image Restoration Under Adverse Weather Conditions**|Qianyi Shao et.al.|[2511.16998](http://arxiv.org/abs/2511.16998)|null|
@@ -3261,7 +3261,7 @@
 |**2025-09-02**|**Cache Management for Mixture-of-Experts LLMs -- extended version**|Spyros Angelopoulos et.al.|[2509.02408](http://arxiv.org/abs/2509.02408)|null|
 |**2025-09-02**|**OmniActor: A Generalist GUI and Embodied Agent for 2D&3D Worlds**|Longrong Yang et.al.|[2509.02322](http://arxiv.org/abs/2509.02322)|null|
 |**2025-09-01**|**Automatic Screening of Parkinson's Disease from Visual Explorations**|Maria F. Alcala-Durand et.al.|[2509.01326](http://arxiv.org/abs/2509.01326)|null|
-|**2025-09-01**|**LongCat-Flash Technical Report**|Meituan LongCat Team et.al.|[2509.01322](http://arxiv.org/abs/2509.01322)|null|
+|**2025-09-01**|**LongCat-Flash Technical Report**|Meituan LongCat Team et.al.|[2509.01322](http://arxiv.org/abs/2509.01322)|**[link](https://github.com/meituan-longcat/LongCat-Flash-Omni)**|
 |**2025-09-01**|**SimulMEGA: MoE Routers are Advanced Policy Makers for Simultaneous Speech Translation**|Chenyang Le et.al.|[2509.01200](http://arxiv.org/abs/2509.01200)|null|
 |**2025-09-06**|**Joint Information Extraction Across Classical and Modern Chinese with Tea-MOELoRA**|Xuemei Tang et.al.|[2509.01158](http://arxiv.org/abs/2509.01158)|null|
 |**2025-08-31**|**MEPT: Mixture of Expert Prompt Tuning as a Manifold Mapper**|Runjia Zeng et.al.|[2509.00996](http://arxiv.org/abs/2509.00996)|**[link](https://github.com/runtsang/MEPT)**|
@@ -3418,7 +3418,7 @@
 |**2025-12-02**|**PanFoMa: A Lightweight Foundation Model and Benchmark for Pan-Cancer**|Xiaoshui Huang et.al.|[2512.03111](http://arxiv.org/abs/2512.03111)|null|
 |**2025-12-02**|**The Hilbert space of gauge theories: group averaging and the quantization of Jackiw-Teitelboim gravity**|Elba Alonso-Monsalve et.al.|[2512.03030](http://arxiv.org/abs/2512.03030)|null|
 |**2025-12-02**|**Unrolled Networks are Conditional Probability Flows in MRI Reconstruction**|Kehan Qi et.al.|[2512.03020](http://arxiv.org/abs/2512.03020)|null|
-|**2025-12-02**|**TEXTRIX: Latent Attribute Grid for Native Texture Generation and Beyond**|Yifei Zeng et.al.|[2512.02993](http://arxiv.org/abs/2512.02993)|null|
+|**2025-12-02**|**TEXTRIX: Latent Attribute Grid for Native Texture Generation and Beyond**|Yifei Zeng et.al.|[2512.02993](http://arxiv.org/abs/2512.02993)|**[link](https://github.com/DreamTechAI/TEXTRIX)**|
 |**2025-12-08**|**AutoNeural: Co-Designing Vision-Language Models for NPU Inference**|Wei Chen et.al.|[2512.02924](http://arxiv.org/abs/2512.02924)|null|
 |**2025-12-02**|**Statistical-Symbolic Verification of Perception-Based Autonomous Systems using State-Dependent Conformal Prediction**|Yuang Geng et.al.|[2512.02893](http://arxiv.org/abs/2512.02893)|null|
 |**2025-12-02**|**MICCAI STSR 2025 Challenge: Semi-Supervised Teeth and Pulp Segmentation and CBCT-IOS Registration**|Yaqi Wang et.al.|[2512.02867](http://arxiv.org/abs/2512.02867)|null|

@@ -37,7 +37,7 @@ layout: default
 |**2025-12-23**|**Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark**|Hao Guo et.al.|[2512.20174](http://arxiv.org/abs/2512.20174)|null|
 |**2025-12-23**|**Towards Generative Location Awareness for Disaster Response: A Probabilistic Cross-view Geolocalization Approach**|Hao Li et.al.|[2512.20056](http://arxiv.org/abs/2512.20056)|null|
 |**2025-12-22**|**Beyond CLIP: Knowledge-Enhanced Multimodal Transformers for Cross-Modal Alignment in Diabetic Retinopathy Diagnosis**|Argha Kamal Samanta et.al.|[2512.19663](http://arxiv.org/abs/2512.19663)|null|
-|**2025-12-22**|**Finer-Personalization Rank: Fine-Grained Retrieval Examines Identity Preservation for Personalized Generation**|Connor Kilrain et.al.|[2512.19026](http://arxiv.org/abs/2512.19026)|null|
+|**2025-12-22**|**Finer-Personalization Rank: Fine-Grained Retrieval Examines Identity Preservation for Personalized Generation**|Connor Kilrain et.al.|[2512.19026](http://arxiv.org/abs/2512.19026)|**[link](https://github.com/OSU-MLB/Finer-Personalization-Rank)**|
 |**2025-12-21**|**Text2Graph VPR: A Text-to-Graph Expert System for Explainable Place Recognition in Changing Environments**|Saeideh Yousefzadeh et.al.|[2512.18613](http://arxiv.org/abs/2512.18613)|null|
 |**2025-12-20**|**Through the PRISm: Importance-Aware Scene Graphs for Image Retrieval**|Dimitrios Georgoulopoulos et.al.|[2512.18407](http://arxiv.org/abs/2512.18407)|null|
 |**2025-12-20**|**GeoSense-AI: Fast Location Inference from Crisis Microblogs**|Deepit Sapru et.al.|[2512.18225](http://arxiv.org/abs/2512.18225)|null|
@@ -831,7 +831,7 @@ layout: default
 |**2025-12-09**|**Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform**|Yuning Gong et.al.|[2512.08478](http://arxiv.org/abs/2512.08478)|**[link](https://github.com/Visionary-Laboratory/visionary)**|
 |**2025-12-09**|**HybridSplat: Fast Reflection-baked Gaussian Tracing using Hybrid Splatting**|Chang Liu et.al.|[2512.08334](http://arxiv.org/abs/2512.08334)|null|
 |**2025-12-09**|**Zero-Splat TeleAssist: A Zero-Shot Pose Estimation Framework for Semantic Teleoperation**|Srijan Dokania et.al.|[2512.08271](http://arxiv.org/abs/2512.08271)|null|
-|**2025-12-08**|**Multi-view Pyramid Transformer: Look Coarser to See Broader**|Gyeongjin Kang et.al.|[2512.07806](http://arxiv.org/abs/2512.07806)|null|
+|**2025-12-08**|**Multi-view Pyramid Transformer: Look Coarser to See Broader**|Gyeongjin Kang et.al.|[2512.07806](http://arxiv.org/abs/2512.07806)|**[link](https://github.com/Gynjn/MVP)**|
 |**2025-12-08**|**Tessellation GS: Neural Mesh Gaussians for Robust Monocular Reconstruction of Dynamic Objects**|Shuohan Tao et.al.|[2512.07381](http://arxiv.org/abs/2512.07381)|null|
 |**2025-12-08**|**Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting**|Shilong Jin et.al.|[2512.07345](http://arxiv.org/abs/2512.07345)|null|
 |**2025-12-08**|**AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing**|Ziming Hong et.al.|[2512.07247](http://arxiv.org/abs/2512.07247)|null|
@@ -852,7 +852,7 @@ layout: default
 |**2025-12-05**|**3D Path Planning for Robot-assisted Vertebroplasty from Arbitrary Bi-plane X-ray via Differentiable Rendering**|Blanca Inigo et.al.|[2512.05803](http://arxiv.org/abs/2512.05803)|null|
 |**2025-12-05**|**Learning High-Fidelity Cloth Animation via Skinning-Free Image Transfer**|Rong Wang et.al.|[2512.05593](http://arxiv.org/abs/2512.05593)|null|
 |**2025-12-05**|**SCoNE: Spherical Consistent Neighborhoods Ensemble for Effective and Efficient Multi-View Anomaly Detection**|Yang Xu et.al.|[2512.05540](http://arxiv.org/abs/2512.05540)|null|
-|**2025-12-05**|**TED-4DGS: Temporally Activated and Embedding-based Deformation for 4DGS Compression**|Cheng-Yuan Ho et.al.|[2512.05446](http://arxiv.org/abs/2512.05446)|null|
+|**2025-12-05**|**TED-4DGS: Temporally Activated and Embedding-based Deformation for 4DGS Compression**|Cheng-Yuan Ho et.al.|[2512.05446](http://arxiv.org/abs/2512.05446)|**[link](https://github.com/NYCU-MAPL/TED-4DGS)**|
 |**2025-12-05**|**Image Semantic Communication with Quadtree Partition-based Coding**|Yinhuan Huang et.al.|[2512.05395](http://arxiv.org/abs/2512.05395)|null|
 |**2025-12-05**|**SplatPainter: Interactive Authoring of 3D Gaussians from 2D Edits via Test-Time Training**|Yang Zheng et.al.|[2512.05354](http://arxiv.org/abs/2512.05354)|null|
 |**2025-12-04**|**DEAR: Dataset for Evaluating the Aesthetics of RenderingDEAR: Dataset for Evaluating the Aesthetics of Rendering**|Vsevolod Plohotnuk et.al.|[2512.05209](http://arxiv.org/abs/2512.05209)|null|
@@ -2332,10 +2332,10 @@ layout: default
 |**2025-11-20**|**SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation**|Zhenyuan Qin et.al.|[2511.16666](http://arxiv.org/abs/2511.16666)|null|
 |**2025-11-20**|**Comparison of Text-Based and Image-Based Retrieval in Multimodal Retrieval Augmented Generation Large Language Model Systems**|Elias Lumer et.al.|[2511.16654](http://arxiv.org/abs/2511.16654)|null|
 |**2025-11-20**|**Toward Artificial Palpation: Representation Learning of Touch on Soft Bodies**|Zohar Rimon et.al.|[2511.16596](http://arxiv.org/abs/2511.16596)|null|
-|**2025-11-21**|**POMA-3D: The Point Map Way to 3D Scene Understanding**|Ye Mao et.al.|[2511.16567](http://arxiv.org/abs/2511.16567)|null|
+|**2025-11-21**|**POMA-3D: The Point Map Way to 3D Scene Understanding**|Ye Mao et.al.|[2511.16567](http://arxiv.org/abs/2511.16567)|**[link](https://github.com/MatchLab-Imperial/POMA-3D)**|
 |**2025-11-20**|**TurkColBERT: A Benchmark of Dense and Late-Interaction Models for Turkish Information Retrieval**|Özay Ezerceli et.al.|[2511.16528](http://arxiv.org/abs/2511.16528)|null|
 |**2025-11-20**|**Flow-Aided Flight Through Dynamic Clutters From Point To Motion**|Bowen Xu et.al.|[2511.16372](http://arxiv.org/abs/2511.16372)|null|
-|**2025-11-20**|**Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling**|Minseok Seo et.al.|[2511.16301](http://arxiv.org/abs/2511.16301)|null|
+|**2025-11-20**|**Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling**|Minseok Seo et.al.|[2511.16301](http://arxiv.org/abs/2511.16301)|**[link](https://github.com/seominseok0429/Upsample-Anything_Pytorch)**|
 |**2025-11-20**|**Optimizing 3D Gaussian Splattering for Mobile GPUs**|Md Musfiqur Rahman Sanim et.al.|[2511.16298](http://arxiv.org/abs/2511.16298)|null|
 |**2025-11-20**|**Exponential map in DT theory**|Sarunas Kaubrys et.al.|[2511.16261](http://arxiv.org/abs/2511.16261)|null|
 |**2025-11-20**|**Video2Layout: Recall and Reconstruct Metric-Grounded Cognitive Map for Spatial Reasoning**|Yibin Huang et.al.|[2511.16160](http://arxiv.org/abs/2511.16160)|null|
@@ -3109,7 +3109,7 @@ layout: default
 |**2025-09-30**|**Training Matryoshka Mixture-of-Experts for Elastic Inference-Time Expert Utilization**|Yaoxiang Wang et.al.|[2509.26520](http://arxiv.org/abs/2509.26520)|null|
 |**2025-09-30**|**Nephrobase Cell+: Multimodal Single-Cell Foundation Model for Decoding Kidney Biology**|Chenyu Li et.al.|[2509.26223](http://arxiv.org/abs/2509.26223)|null|
 |**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Haiyang Li et.al.|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
-|**2025-09-30**|**UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression**|Yuan Zhao et.al.|[2509.25934](http://arxiv.org/abs/2509.25934)|null|
+|**2025-09-30**|**UniMMAD: Unified Multi-Modal and Multi-Class Anomaly Detection via MoE-Driven Feature Decompression**|Yuan Zhao et.al.|[2509.25934](http://arxiv.org/abs/2509.25934)|**[link](https://github.com/yuanzhao-CVLAB/UniMMAD)**|
 |**2025-09-30**|**Understanding the Mixture-of-Experts with Nadaraya-Watson Kernel**|Chuanyang Zheng et.al.|[2509.25913](http://arxiv.org/abs/2509.25913)|null|
 |**2025-10-01**|**A Multimodal LLM Approach for Visual Question Answering on Multiparametric 3D Brain MRI**|Arvind Murari Vepa et.al.|[2509.25889](http://arxiv.org/abs/2509.25889)|null|
 |**2025-09-30**|**Collaborative Compression for Large-Scale MoE Deployment on Edge**|Yixiao Chen et.al.|[2509.25689](http://arxiv.org/abs/2509.25689)|null|
@@ -3653,7 +3653,7 @@ layout: default
 |**2025-11-12**|**Test-Time Spectrum-Aware Latent Steering for Zero-Shot Generalization in Vision-Language Models**|Konstantinos M. Dafnis et.al.|[2511.09809](http://arxiv.org/abs/2511.09809)|**[link](https://github.com/kdafnis/STS)**|
 |**2025-11-12**|**A Robust Task-Level Control Architecture for Learned Dynamical Systems**|Eshika Pathak et.al.|[2511.09790](http://arxiv.org/abs/2511.09790)|**[link](https://github.com/eshikapathak/L1-DS)**|
 |**2025-11-12**|**Ksurf-Drone: Attention Kalman Filter for Contextual Bandit Optimization in Cloud Resource Allocation**|Michael Dang'ana et.al.|[2511.09766](http://arxiv.org/abs/2511.09766)|null|
-|**2025-11-12**|**CloudMamba: Grouped Selective State Spaces for Point Cloud Analysis**|Kanglin Qu et.al.|[2511.07823](http://arxiv.org/abs/2511.07823)|null|
+|**2025-11-12**|**CloudMamba: Grouped Selective State Spaces for Point Cloud Analysis**|Kanglin Qu et.al.|[2511.07823](http://arxiv.org/abs/2511.07823)|**[link](https://github.com/Point-Cloud-Learning/CloudMamba)**|
 |**2025-11-10**|**On the Redundant Distributed Observability of Mixed Traffic Transportation Systems**|M. Doostmohammadian et.al.|[2511.06950](http://arxiv.org/abs/2511.06950)|null|
 |**2025-11-10**|**Dual Mamba for Node-Specific Representation Learning: Tackling Over-Smoothing with Selective State Space Modeling**|Xin He et.al.|[2511.06756](http://arxiv.org/abs/2511.06756)|null|
 |**2025-11-08**|**L2T-Hyena: Enhancing State-Space Models with an Adaptive Learn-to-Teach Framework**|Fatemeh Sobati et.al.|[2511.05926](http://arxiv.org/abs/2511.05926)|null|
@@ -3808,7 +3808,7 @@ layout: default
 |**2024-07-18**|**Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model**|Tao Wang et.al.|[2407.12319](http://arxiv.org/abs/2407.12319)|null|
 |**2025-01-14**|**Pamba: Enhancing Global Interaction in Point Clouds via State Space Model**|Zhuoyuan Li et.al.|[2406.17442](http://arxiv.org/abs/2406.17442)|null|
 |**2024-06-11**|**PointABM:Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis**|Jia-wei Chen et.al.|[2406.06069](http://arxiv.org/abs/2406.06069)|null|
-|**2024-06-18**|**PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis**|Zicheng Wang et.al.|[2405.15463](http://arxiv.org/abs/2405.15463)|null|
+|**2024-06-18**|**PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis**|Zicheng Wang et.al.|[2405.15463](http://arxiv.org/abs/2405.15463)|**[link](https://github.com/xiaoyao3302/PoinTramba)**|
 |**2024-05-08**|**Vision Mamba: A Comprehensive Survey and Taxonomy**|Xiao Liu et.al.|[2405.04404](http://arxiv.org/abs/2405.04404)|**[link](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)**|
 |**2024-11-12**|**Visual Mamba: A Survey and New Outlooks**|Rui Xu et.al.|[2404.18861](http://arxiv.org/abs/2404.18861)|**[link](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)**|
 |**2024-04-29**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|
@@ -3816,7 +3816,7 @@ layout: default
 |**2024-03-19**|**Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy**|Jiuming Liu et.al.|[2403.06467](http://arxiv.org/abs/2403.06467)|null|
 |**2024-06-25**|**MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection**|Tianxiang Chen et.al.|[2403.02148](http://arxiv.org/abs/2403.02148)|**[link](https://github.com/txchen-USTC/MiM-ISTD)**|
 |**2024-10-14**|**Point Cloud Mamba: Point Cloud Learning via State Space Model**|Tao Zhang et.al.|[2403.00762](http://arxiv.org/abs/2403.00762)|**[link](https://github.com/SkyworkAI/PointCloudMamba)**|
-|**2024-11-26**|**PointMamba: A Simple State Space Model for Point Cloud Analysis**|Dingkang Liang et.al.|[2402.10739](http://arxiv.org/abs/2402.10739)|null|
+|**2024-11-26**|**PointMamba: A Simple State Space Model for Point Cloud Analysis**|Dingkang Liang et.al.|[2402.10739](http://arxiv.org/abs/2402.10739)|**[link](https://github.com/LMD0311/PointMamba)**|
 |**2024-11-15**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|**[link](https://github.com/hustvl/Vim)**|
 
 ## HSI Classification
