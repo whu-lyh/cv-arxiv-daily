@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.19
+## Updated on 2026.01.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -572,11 +572,11 @@ layout: default
 |**2025-10-31**|**MambaNetLK: Enhancing Colonoscopy Point Cloud Registration with Mamba**|Linzhe Jiang et.al.|[2511.00260](http://arxiv.org/abs/2511.00260)|null|
 |**2025-10-29**|**Figuring Out Gas & Galaxies In Enzo (FOGGIE) XI: Circumgalactic O VI Emission Traces Clumpy Inflowing Recycled Gas**|Cassandra Lochhaas et.al.|[2510.25844](http://arxiv.org/abs/2510.25844)|null|
 |**2025-10-02**|**LangGrasp: Leveraging Fine-Tuned LLMs for Language Interactive Robot Grasping with Ambiguous Instructions**|Yunhan Lin et.al.|[2510.02104](http://arxiv.org/abs/2510.02104)|null|
-|**2025-08-09**|**LifelongPR: Lifelong point cloud place recognition based on sample replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|null|
+|**2025-08-09**|**LifelongPR: Lifelong point cloud place recognition based on sample replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|**[link](https://github.com/zouxianghong/LifelongPR)**|
 |**2025-08-08**|**ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models**|Minwoo Jung et.al.|[2505.18364](http://arxiv.org/abs/2505.18364)|null|
 |**2025-05-26**|**MinkUNeXt-SI: Improving point cloud-based place recognition including spherical coordinates and LiDAR intensity**|Judith Vilella-Cantos et.al.|[2505.17591](http://arxiv.org/abs/2505.17591)|null|
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
-|**2025-08-27**|**OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**|Shuhao Kang et.al.|[2504.19258](http://arxiv.org/abs/2504.19258)|null|
+|**2025-08-27**|**OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**|Shuhao Kang et.al.|[2504.19258](http://arxiv.org/abs/2504.19258)|**[link](https://github.com/WHU-USI3DV/OPAL)**|
 |**2025-06-19**|**An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather**|Xiongwei Zhao et.al.|[2504.14806](http://arxiv.org/abs/2504.14806)|null|
 |**2025-04-16**|**Diffusion Based Robust LiDAR Place Recognition**|Benjamin Krummenacher et.al.|[2504.12412](http://arxiv.org/abs/2504.12412)|null|
 |**2025-10-03**|**Vehicle-Scene Interaction: A Text-Driven 3D Lidar Place Recognition Method for Autonomous Driving**|Tianyi Shang et.al.|[2503.18035](http://arxiv.org/abs/2503.18035)|null|
