@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing**|Tingyu Song et.al.|[2601.16125](http://arxiv.org/abs/2601.16125)|**[link](https://github.com/SighingSnow/edir)**|
 |**2026-01-21**|**Unified Multimodal and Multilingual Retrieval via Multi-Task Learning with NLU Integration**|Xinyuan Zhang et.al.|[2601.14714](http://arxiv.org/abs/2601.14714)|null|
 |**2026-01-21**|**LookBench: A Live and Holistic Open Benchmark for Fashion Image Retrieval**|Chao Gao et.al.|[2601.14706](http://arxiv.org/abs/2601.14706)|null|
 |**2026-01-20**|**XR: Cross-Modal Agents for Composed Image Retrieval**|Zhongyu Yang et.al.|[2601.14245](http://arxiv.org/abs/2601.14245)|null|
@@ -29,7 +30,7 @@
 |**2026-01-19**|**DC-VLAQ: Query-Residual Aggregation for Robust Visual Place Recognition**|Hanyu Zhu et.al.|[2601.12729](http://arxiv.org/abs/2601.12729)|null|
 |**2026-01-18**|**Abusing the Internet of Medical Things: Evaluating Threat Models and Forensic Readiness for Multi-Vector Attacks on Connected Healthcare Devices**|Isabel Straw et.al.|[2601.12593](http://arxiv.org/abs/2601.12593)|null|
 |**2026-01-17**|**SupScene: Learning Overlap-Aware Global Descriptor for Unconstrained SfM**|Xulei Shi et.al.|[2601.11930](http://arxiv.org/abs/2601.11930)|null|
-|**2026-01-16**|**Heterogeneous Uncertainty-Guided Composed Image Retrieval with Fine-Grained Probabilistic Learning**|Haomiao Tang et.al.|[2601.11393](http://arxiv.org/abs/2601.11393)|null|
+|**2026-01-22**|**Heterogeneous Uncertainty-Guided Composed Image Retrieval with Fine-Grained Probabilistic Learning**|Haomiao Tang et.al.|[2601.11393](http://arxiv.org/abs/2601.11393)|null|
 |**2026-01-16**|**Simple Models, Rich Representations: Visual Decoding from Primate Intracortical Neural Signals**|Matteo Ciferri et.al.|[2601.11108](http://arxiv.org/abs/2601.11108)|null|
 |**2026-01-20**|**Multilingual-To-Multimodal (M2M): Unlocking New Languages with Monolingual Text**|Piyush Singh Pasi et.al.|[2601.10096](http://arxiv.org/abs/2601.10096)|null|
 |**2026-01-20**|**UniHash: Unifying Pointwise and Pairwise Hashing Paradigms for Seen and Unseen Category Retrieval**|Xiaoxu Ma et.al.|[2601.09828](http://arxiv.org/abs/2601.09828)|null|
@@ -739,10 +740,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**EVolSplat4D: Efficient Volume-based Gaussian Splatting for 4D Urban Scene Synthesis**|Sheng Miao et.al.|[2601.15951](http://arxiv.org/abs/2601.15951)|null|
+|**2026-01-22**|**ThermoSplat: Cross-Modal 3D Gaussian Splatting with Feature Modulation and Geometry Decoupling**|Zhaoqi Su et.al.|[2601.15897](http://arxiv.org/abs/2601.15897)|null|
+|**2026-01-22**|**LL-GaussianImage: Efficient Image Representation for Zero-shot Low-Light Enhancement with 2D Gaussian Splatting**|Yuhan Chen et.al.|[2601.15772](http://arxiv.org/abs/2601.15772)|null|
+|**2026-01-22**|**LL-GaussianMap: Zero-shot Low-Light Image Enhancement via 2D Gaussian Splatting Guided Gain Maps**|Yuhan Chen et.al.|[2601.15766](http://arxiv.org/abs/2601.15766)|null|
+|**2026-01-21**|**SplatBus: A Gaussian Splatting Viewer Framework via GPU Interprocess Communication**|Yinghan Xu et.al.|[2601.15431](http://arxiv.org/abs/2601.15431)|null|
 |**2026-01-21**|**LuxRemix: Lighting Decomposition and Remixing for Indoor Scenes**|Ruofan Liang et.al.|[2601.15283](http://arxiv.org/abs/2601.15283)|null|
 |**2026-01-21**|**ScenDi: 3D-to-2D Scene Diffusion Cascades for Urban Generation**|Hanlei Guo et.al.|[2601.15221](http://arxiv.org/abs/2601.15221)|null|
 |**2026-01-21**|**POTR: Post-Training 3DGS Compression**|Bert Ramlot et.al.|[2601.14821](http://arxiv.org/abs/2601.14821)|null|
-|**2026-01-20**|**Structured Image-based Coding for Efficient Gaussian Splatting Compression**|Pedro Martin et.al.|[2601.14510](http://arxiv.org/abs/2601.14510)|null|
+|**2026-01-22**|**Structured Image-based Coding for Efficient Gaussian Splatting Compression**|Pedro Martin et.al.|[2601.14510](http://arxiv.org/abs/2601.14510)|null|
 |**2026-01-20**|**Rig-Aware 3D Reconstruction of Vehicle Undercarriages using Gaussian Splatting**|Nitin Kulkarni et.al.|[2601.14208](http://arxiv.org/abs/2601.14208)|null|
 |**2026-01-20**|**One-Shot Refiner: Boosting Feed-forward Novel View Synthesis via One-Step Diffusion**|Yitong Dong et.al.|[2601.14161](http://arxiv.org/abs/2601.14161)|null|
 |**2026-01-20**|**ParkingTwin: Training-Free Streaming 3D Reconstruction for Parking-Lot Digital Twins**|Xinhao Liu et.al.|[2601.13706](http://arxiv.org/abs/2601.13706)|null|
@@ -1402,10 +1408,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**EVolSplat4D: Efficient Volume-based Gaussian Splatting for 4D Urban Scene Synthesis**|Sheng Miao et.al.|[2601.15951](http://arxiv.org/abs/2601.15951)|null|
+|**2026-01-22**|**DualShield: Safe Model Predictive Diffusion via Reachability Analysis for Interactive Autonomous Driving**|Rui Yang et.al.|[2601.15729](http://arxiv.org/abs/2601.15729)|null|
+|**2026-01-22**|**SuperOcc: Toward Cohesive Temporal Modeling for Superquadric-based Occupancy Prediction**|Zichen Yu et.al.|[2601.15644](http://arxiv.org/abs/2601.15644)|null|
+|**2026-01-21**|**SplatBus: A Gaussian Splatting Viewer Framework via GPU Interprocess Communication**|Yinghan Xu et.al.|[2601.15431](http://arxiv.org/abs/2601.15431)|null|
 |**2026-01-21**|**DrivIng: A Large-Scale Multimodal Driving Dataset with Full Digital Twin Integration**|Dominik Rößle et.al.|[2601.15260](http://arxiv.org/abs/2601.15260)|null|
 |**2026-01-21**|**AutoDriDM: An Explainable Benchmark for Decision-Making of Vision-Language Models in Autonomous Driving**|Zecong Tang et.al.|[2601.14702](http://arxiv.org/abs/2601.14702)|null|
 |**2026-01-20**|**Vision-Based Natural Language Scene Understanding for Autonomous Driving: An Extended Dataset and a New Model for Traffic Scene Description Generation**|Danial Sadrian Zadeh et.al.|[2601.14438](http://arxiv.org/abs/2601.14438)|null|
-|**2026-01-20**|**Correcting and Quantifying Systematic Errors in 3D Box Annotations for Autonomous Driving**|Alexandre Justo Miro et.al.|[2601.14038](http://arxiv.org/abs/2601.14038)|**[link](https://github.com/alexandre-justo-miro/annotation-correction-3D-boxes)**|
+|**2026-01-20**|**Correcting and Quantifying Systematic Errors in 3D Box Annotations for Autonomous Driving**|Alexandre Justo Miro et.al.|[2601.14038](http://arxiv.org/abs/2601.14038)|null|
 |**2026-01-20**|**PAtt: A Pattern Attention Network for ETA Prediction Using Historical Speed Profiles**|ByeoungDo Kim et.al.|[2601.13793](http://arxiv.org/abs/2601.13793)|null|
 |**2026-01-19**|**NeuroShield: A Neuro-Symbolic Framework for Adversarial Robustness**|Ali Shafiee Sarvestani et.al.|[2601.13162](http://arxiv.org/abs/2601.13162)|null|
 |**2026-01-19**|**AsyncBEV: Cross-modal Flow Alignment in Asynchronous 3D Object Detection**|Shiming Wang et.al.|[2601.12994](http://arxiv.org/abs/2601.12994)|null|
@@ -2215,7 +2225,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2009-10-21**|**Quantum Error Correction Beyond Completely Positive Maps**|A. Shabani et.al.|[quant-ph/0610028](http://arxiv.org/abs/quant-ph/0610028)|null|
-|**2026-01-18**|**OpenNavMap: Structure-Free Topometric Mapping via Large-Scale Collaborative Localization**|Jianhao Jiao et.al.|[2601.12291](http://arxiv.org/abs/2601.12291)|null|
+|**2026-01-18**|**OpenNavMap: Structure-Free Topometric Mapping via Large-Scale Collaborative Localization**|Jianhao Jiao et.al.|[2601.12291](http://arxiv.org/abs/2601.12291)|**[link](https://github.com/RPL-CS-UCL/OpenNavMap)**|
 |**2025-12-16**|**ACE-SLAM: Scene Coordinate Regression for Neural Implicit Real-Time SLAM**|Ignacio Alzugaray et.al.|[2512.14032](http://arxiv.org/abs/2512.14032)|null|
 |**2025-12-05**|**Categorifying isomonodromic deformations via Lie groupoids I: Logarithmic singularities**|Waleed Qaisar et.al.|[2512.05966](http://arxiv.org/abs/2512.05966)|null|
 |**2025-12-05**|**AQUA-Net: Adaptive Frequency Fusion and Illumination Aware Network for Underwater Image Enhancement**|Munsif Ali et.al.|[2512.05960](http://arxiv.org/abs/2512.05960)|null|
@@ -2641,6 +2651,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning**|Moo Jin Kim et.al.|[2601.16163](http://arxiv.org/abs/2601.16163)|null|
+|**2026-01-22**|**Universal Refusal Circuits Across LLMs: Cross-Model Transfer via Trajectory Replay and Concept-Basis Reconstruction**|Tony Cristofano et.al.|[2601.16034](http://arxiv.org/abs/2601.16034)|null|
+|**2026-01-22**|**Search for the reaction channel $e^+ e^- \to ηη\,J/ψ$ and the isospin partner of the $Z_c(3900)$ at center-of-mass energies $\sqrt{s} = 4.226-4.950$ GeV**|BESIII Collaboration et.al.|[2601.15882](http://arxiv.org/abs/2601.15882)|null|
+|**2026-01-22**|**LL-GaussianImage: Efficient Image Representation for Zero-shot Low-Light Enhancement with 2D Gaussian Splatting**|Yuhan Chen et.al.|[2601.15772](http://arxiv.org/abs/2601.15772)|null|
+|**2026-01-22**|**Redshift-Binned Constraints on the Hubble Constant under $Λ$ CDM, CPL, and Padé Cosmography**|Zhi-Yuan Mo et.al.|[2601.15765](http://arxiv.org/abs/2601.15765)|null|
+|**2026-01-21**|**On the diagonal of low bidegree hypersurfaces**|Morten Lüders et.al.|[2601.15409](http://arxiv.org/abs/2601.15409)|null|
+|**2026-01-21**|**Improving MoE Compute Efficiency by Composing Weight and Data Sparsity**|Maciej Kilian et.al.|[2601.15370](http://arxiv.org/abs/2601.15370)|null|
 |**2026-01-21**|**Pb4U-GNet: Resolution-Adaptive Garment Simulation via Propagation-before-Update Graph Network**|Aoran Liu et.al.|[2601.15110](http://arxiv.org/abs/2601.15110)|null|
 |**2026-01-21**|**Mixture-of-Experts Models in Vision: Routing, Optimization, and Generalization**|Adam Rokah et.al.|[2601.15021](http://arxiv.org/abs/2601.15021)|null|
 |**2026-01-21**|**SynPerf: A Hybrid Analytical-ML Framework for GPU Performance Prediction**|Kaixuan Zhang et.al.|[2601.14910](http://arxiv.org/abs/2601.14910)|null|
@@ -3370,6 +3387,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**NeuroMamba: Multi-Perspective Feature Interaction with Visual Mamba for Neuron Segmentation**|Liuyun Jiang et.al.|[2601.15929](http://arxiv.org/abs/2601.15929)|null|
+|**2026-01-22**|**Design, Modelling, and Control of Magnetic Ball Suspension System**|Sampson E. Nwachukwu et.al.|[2601.15622](http://arxiv.org/abs/2601.15622)|null|
+|**2026-01-20**|**A Dual-Head Transformer-State-Space Architecture for Neurocircuit Mechanism Decomposition from fMRI**|Cole Korponay et.al.|[2601.15344](http://arxiv.org/abs/2601.15344)|null|
 |**2026-01-21**|**UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking**|Qihua Liang et.al.|[2601.14799](http://arxiv.org/abs/2601.14799)|null|
 |**2026-01-21**|**Training-Efficient Text-to-Music Generation with State-Space Modeling**|Wei-Jaw Lee et.al.|[2601.14786](http://arxiv.org/abs/2601.14786)|null|
 |**2026-01-21**|**M2I2HA: A Multi-modal Object Detection Method Based on Intra- and Inter-Modal Hypergraph Attention**|Xiaofan Yang et.al.|[2601.14776](http://arxiv.org/abs/2601.14776)|null|
@@ -3943,6 +3963,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**Clustering-Guided Spatial-Spectral Mamba for Hyperspectral Image Classification**|Zack Dewis et.al.|[2601.16098](http://arxiv.org/abs/2601.16098)|null|
+|**2026-01-22**|**Multimodal Imaging System Combining Hyperspectral and Laser Speckle Imaging for In Vivo Hemodynamic and Metabolic Monitoring**|Junda Wang et.al.|[2601.15947](http://arxiv.org/abs/2601.15947)|null|
+|**2026-01-22**|**White-Box mHC: Electromagnetic Spectrum-Aware and Interpretable Stream Interactions for Hyperspectral Image Classification**|Yimin Zhu et.al.|[2601.15757](http://arxiv.org/abs/2601.15757)|null|
 |**2026-01-20**|**SHARE: A Fully Unsupervised Framework for Single Hyperspectral Image Restoration**|Jiangwei Xie et.al.|[2601.13987](http://arxiv.org/abs/2601.13987)|null|
 |**2026-01-18**|**Utilizing the Score of Data Distribution for Hyperspectral Anomaly Detection**|Jiahui Sheng et.al.|[2601.12379](http://arxiv.org/abs/2601.12379)|null|
 |**2026-01-18**|**Turbo-GoDec: Exploiting the Cluster Sparsity Prior for Hyperspectral Anomaly Detection**|Jiahui Sheng et.al.|[2601.12337](http://arxiv.org/abs/2601.12337)|null|
@@ -3959,7 +3982,7 @@
 |**2026-01-21**|**Constraints on gravitational waves from the 2024 Vela pulsar glitch**|The LIGO Scientific Collaboration et.al.|[2512.17990](http://arxiv.org/abs/2512.17990)|null|
 |**2025-12-22**|**A Parametric Framework for Anticipatory Flashflood Warning: Integrating Landscape Vulnerability with Precipitation Forecasts**|Xiangpeng Li et.al.|[2512.17785](http://arxiv.org/abs/2512.17785)|null|
 |**2025-12-16**|**Bridging the Gap Between Modern UX Design and Particle Accelerator Control Room Interfaces**|Rachael Hill et.al.|[2512.14872](http://arxiv.org/abs/2512.14872)|null|
-|**2025-12-11**|**Perception-Inspired Color Space Design for Photo White Balance Editing**|Yang Cheng et.al.|[2512.09383](http://arxiv.org/abs/2512.09383)|null|
+|**2025-12-11**|**Perception-Inspired Color Space Design for Photo White Balance Editing**|Yang Cheng et.al.|[2512.09383](http://arxiv.org/abs/2512.09383)|**[link](https://github.com/YangCheng58/WB_Color_Space)**|
 |**2025-12-08**|**Agreement Disagreement Guided Knowledge Transfer for Cross-Scene Hyperspectral Imaging**|Lu Huo et.al.|[2512.08990](http://arxiv.org/abs/2512.08990)|null|
 |**2025-12-08**|**Enhancing Knowledge Transfer in Hyperspectral Image Classification via Cross-scene Knowledge Integration**|Lu Huo et.al.|[2512.08989](http://arxiv.org/abs/2512.08989)|null|
 |**2025-12-05**|**Hyperspectral Unmixing with 3D Convolutional Sparse Coding and Projected Simplex Volume Maximization**|Gargi Panda et.al.|[2512.05674](http://arxiv.org/abs/2512.05674)|null|
