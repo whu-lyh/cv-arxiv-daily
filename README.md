@@ -1,4 +1,4 @@
-## Updated on 2026.01.23
+## Updated on 2026.01.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -535,7 +535,7 @@
 |**2018-05-16**|**Visual Global Localization with a Hybrid WNN-CNN Approach**|Avelino Forechi et.al.|[1805.03183](http://arxiv.org/abs/1805.03183)|null|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|null|
 
-<p align=right>(<a href=#updated-on-20260123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260124>back to top</a>)</p>
 
 ## Point Cloud Place Recognition
 
@@ -635,7 +635,7 @@
 |**2020-08-04**|**PIC-Net: Point Cloud and Image Collaboration Network for Large-Scale Place Recognition**|Yuheng Lu et.al.|[2008.00658](http://arxiv.org/abs/2008.00658)|null|
 |**2020-07-06**|**LOL: Lidar-Only Odometry and Localization in 3D Point Cloud Maps**|David Rozenberszki et.al.|[2007.01595](http://arxiv.org/abs/2007.01595)|**[link](https://github.com/RozDavid/LOL)**|
 
-<p align=right>(<a href=#updated-on-20260123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260124>back to top</a>)</p>
 
 ## Cross-modality Localization
 
@@ -734,7 +734,7 @@
 |**2021-07-28**|**Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization**|Fa-Ting Hong et.al.|[2107.12589](http://arxiv.org/abs/2107.12589)|null|
 |**2020-09-15**|**RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization**|Niluthpol Chowdhury Mithun et.al.|[2009.05695](http://arxiv.org/abs/2009.05695)|null|
 
-<p align=right>(<a href=#updated-on-20260123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260124>back to top</a>)</p>
 
 ## 3D GS
 
@@ -742,8 +742,8 @@
 |---|---|---|---|---|
 |**2026-01-22**|**EVolSplat4D: Efficient Volume-based Gaussian Splatting for 4D Urban Scene Synthesis**|Sheng Miao et.al.|[2601.15951](http://arxiv.org/abs/2601.15951)|null|
 |**2026-01-22**|**ThermoSplat: Cross-Modal 3D Gaussian Splatting with Feature Modulation and Geometry Decoupling**|Zhaoqi Su et.al.|[2601.15897](http://arxiv.org/abs/2601.15897)|null|
-|**2026-01-22**|**LL-GaussianImage: Efficient Image Representation for Zero-shot Low-Light Enhancement with 2D Gaussian Splatting**|Yuhan Chen et.al.|[2601.15772](http://arxiv.org/abs/2601.15772)|null|
-|**2026-01-22**|**LL-GaussianMap: Zero-shot Low-Light Image Enhancement via 2D Gaussian Splatting Guided Gain Maps**|Yuhan Chen et.al.|[2601.15766](http://arxiv.org/abs/2601.15766)|null|
+|**2026-01-22**|**LL-GaussianImage: Efficient Image Representation for Zero-shot Low-Light Enhancement with 2D Gaussian Splatting**|Yuhan Chen et.al.|[2601.15772](http://arxiv.org/abs/2601.15772)|**[link](https://github.com/YuhanChen2024/LL-GaussianImage)**|
+|**2026-01-22**|**LL-GaussianMap: Zero-shot Low-Light Image Enhancement via 2D Gaussian Splatting Guided Gain Maps**|Yuhan Chen et.al.|[2601.15766](http://arxiv.org/abs/2601.15766)|**[link](https://github.com/YuhanChen2024/LL-GaussianMap)**|
 |**2026-01-21**|**SplatBus: A Gaussian Splatting Viewer Framework via GPU Interprocess Communication**|Yinghan Xu et.al.|[2601.15431](http://arxiv.org/abs/2601.15431)|null|
 |**2026-01-21**|**LuxRemix: Lighting Decomposition and Remixing for Indoor Scenes**|Ruofan Liang et.al.|[2601.15283](http://arxiv.org/abs/2601.15283)|null|
 |**2026-01-21**|**ScenDi: 3D-to-2D Scene Diffusion Cascades for Urban Generation**|Hanlei Guo et.al.|[2601.15221](http://arxiv.org/abs/2601.15221)|null|
@@ -1402,7 +1402,7 @@
 |**2024-03-26**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095](http://arxiv.org/abs/2403.16095)|null|
 |**2024-04-09**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700](http://arxiv.org/abs/2311.11700)|null|
 
-<p align=right>(<a href=#updated-on-20260123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260124>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -2218,14 +2218,14 @@
 |**2019-09-18**|**A*3D Dataset: Towards Autonomous Driving in Challenging Environments**|Quang-Hieu Pham et.al.|[1909.07541](http://arxiv.org/abs/1909.07541)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260124>back to top</a>)</p>
 
 ## Map
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2009-10-21**|**Quantum Error Correction Beyond Completely Positive Maps**|A. Shabani et.al.|[quant-ph/0610028](http://arxiv.org/abs/quant-ph/0610028)|null|
-|**2026-01-18**|**OpenNavMap: Structure-Free Topometric Mapping via Large-Scale Collaborative Localization**|Jianhao Jiao et.al.|[2601.12291](http://arxiv.org/abs/2601.12291)|**[link](https://github.com/RPL-CS-UCL/OpenNavMap)**|
+|**2026-01-18**|**OpenNavMap: Structure-Free Topometric Mapping via Large-Scale Collaborative Localization**|Jianhao Jiao et.al.|[2601.12291](http://arxiv.org/abs/2601.12291)|null|
 |**2025-12-16**|**ACE-SLAM: Scene Coordinate Regression for Neural Implicit Real-Time SLAM**|Ignacio Alzugaray et.al.|[2512.14032](http://arxiv.org/abs/2512.14032)|null|
 |**2025-12-05**|**Categorifying isomonodromic deformations via Lie groupoids I: Logarithmic singularities**|Waleed Qaisar et.al.|[2512.05966](http://arxiv.org/abs/2512.05966)|null|
 |**2025-12-05**|**AQUA-Net: Adaptive Frequency Fusion and Illumination Aware Network for Underwater Image Enhancement**|Munsif Ali et.al.|[2512.05960](http://arxiv.org/abs/2512.05960)|null|
@@ -2580,7 +2580,7 @@
 |**2015-06-15**|**Maximum Likelihood Fusion of Stochastic Maps**|Brandon Jones et.al.|[1303.6170](http://arxiv.org/abs/1303.6170)|null|
 |**2008-03-13**|**Quantum Reference Frames and the Classification of Rotationally-Invariant Maps**|J. -C. Boileau et.al.|[0709.0142](http://arxiv.org/abs/0709.0142)|null|
 
-<p align=right>(<a href=#updated-on-20260123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260124>back to top</a>)</p>
 
 ## Non-rigid Registration
 
@@ -2645,7 +2645,7 @@
 |**2013-04-15**|**Local Structure Matching Driven by Joint-Saliency-Structure Adaptive Kernel Regression**|Binjie Qin et.al.|[1302.0494](http://arxiv.org/abs/1302.0494)|null|
 |**2011-04-22**|**A Meshless Method for Variational Nonrigid 2-D Shape Registration**|Wei Liu et.al.|[1104.4168](http://arxiv.org/abs/1104.4168)|null|
 
-<p align=right>(<a href=#updated-on-20260123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260124>back to top</a>)</p>
 
 ## MoE
 
@@ -2654,7 +2654,7 @@
 |**2026-01-22**|**Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning**|Moo Jin Kim et.al.|[2601.16163](http://arxiv.org/abs/2601.16163)|null|
 |**2026-01-22**|**Universal Refusal Circuits Across LLMs: Cross-Model Transfer via Trajectory Replay and Concept-Basis Reconstruction**|Tony Cristofano et.al.|[2601.16034](http://arxiv.org/abs/2601.16034)|null|
 |**2026-01-22**|**Search for the reaction channel $e^+ e^- \to ηη\,J/ψ$ and the isospin partner of the $Z_c(3900)$ at center-of-mass energies $\sqrt{s} = 4.226-4.950$ GeV**|BESIII Collaboration et.al.|[2601.15882](http://arxiv.org/abs/2601.15882)|null|
-|**2026-01-22**|**LL-GaussianImage: Efficient Image Representation for Zero-shot Low-Light Enhancement with 2D Gaussian Splatting**|Yuhan Chen et.al.|[2601.15772](http://arxiv.org/abs/2601.15772)|null|
+|**2026-01-22**|**LL-GaussianImage: Efficient Image Representation for Zero-shot Low-Light Enhancement with 2D Gaussian Splatting**|Yuhan Chen et.al.|[2601.15772](http://arxiv.org/abs/2601.15772)|**[link](https://github.com/YuhanChen2024/LL-GaussianImage)**|
 |**2026-01-22**|**Redshift-Binned Constraints on the Hubble Constant under $Λ$ CDM, CPL, and Padé Cosmography**|Zhi-Yuan Mo et.al.|[2601.15765](http://arxiv.org/abs/2601.15765)|null|
 |**2026-01-21**|**On the diagonal of low bidegree hypersurfaces**|Morten Lüders et.al.|[2601.15409](http://arxiv.org/abs/2601.15409)|null|
 |**2026-01-21**|**Improving MoE Compute Efficiency by Composing Weight and Data Sparsity**|Maciej Kilian et.al.|[2601.15370](http://arxiv.org/abs/2601.15370)|null|
@@ -3381,7 +3381,7 @@
 |**2023-04-25**|**Pipeline MoE: A Flexible MoE Implementation with Pipeline Parallelism**|Xin Chen et.al.|[2304.11414](http://arxiv.org/abs/2304.11414)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|**[link](https://github.com/deepseek-ai/DeepSeek-VL2)**|
 
-<p align=right>(<a href=#updated-on-20260123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260124>back to top</a>)</p>
 
 ## Mamba
 
@@ -3957,7 +3957,7 @@
 |**2024-11-26**|**PointMamba: A Simple State Space Model for Point Cloud Analysis**|Dingkang Liang et.al.|[2402.10739](http://arxiv.org/abs/2402.10739)|null|
 |**2024-11-15**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|null|
 
-<p align=right>(<a href=#updated-on-20260123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260124>back to top</a>)</p>
 
 ## HSI Classification
 
@@ -3982,7 +3982,7 @@
 |**2026-01-21**|**Constraints on gravitational waves from the 2024 Vela pulsar glitch**|The LIGO Scientific Collaboration et.al.|[2512.17990](http://arxiv.org/abs/2512.17990)|null|
 |**2025-12-22**|**A Parametric Framework for Anticipatory Flashflood Warning: Integrating Landscape Vulnerability with Precipitation Forecasts**|Xiangpeng Li et.al.|[2512.17785](http://arxiv.org/abs/2512.17785)|null|
 |**2025-12-16**|**Bridging the Gap Between Modern UX Design and Particle Accelerator Control Room Interfaces**|Rachael Hill et.al.|[2512.14872](http://arxiv.org/abs/2512.14872)|null|
-|**2025-12-11**|**Perception-Inspired Color Space Design for Photo White Balance Editing**|Yang Cheng et.al.|[2512.09383](http://arxiv.org/abs/2512.09383)|**[link](https://github.com/YangCheng58/WB_Color_Space)**|
+|**2025-12-11**|**Perception-Inspired Color Space Design for Photo White Balance Editing**|Yang Cheng et.al.|[2512.09383](http://arxiv.org/abs/2512.09383)|null|
 |**2025-12-08**|**Agreement Disagreement Guided Knowledge Transfer for Cross-Scene Hyperspectral Imaging**|Lu Huo et.al.|[2512.08990](http://arxiv.org/abs/2512.08990)|null|
 |**2025-12-08**|**Enhancing Knowledge Transfer in Hyperspectral Image Classification via Cross-scene Knowledge Integration**|Lu Huo et.al.|[2512.08989](http://arxiv.org/abs/2512.08989)|null|
 |**2025-12-05**|**Hyperspectral Unmixing with 3D Convolutional Sparse Coding and Projected Simplex Volume Maximization**|Gargi Panda et.al.|[2512.05674](http://arxiv.org/abs/2512.05674)|null|
@@ -4081,5 +4081,5 @@
 |**2016-06-17**|**Combining multiscale features for classification of hyperspectral images: a sequence based kernel approach**|Yanwei Cui et.al.|[1606.04985](http://arxiv.org/abs/1606.04985)|null|
 |**2015-04-30**|**Robust hyperspectral image classification with rejection fields**|Filipe Condessa et.al.|[1504.07918](http://arxiv.org/abs/1504.07918)|null|
 
-<p align=right>(<a href=#updated-on-20260123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260124>back to top</a>)</p>
 
