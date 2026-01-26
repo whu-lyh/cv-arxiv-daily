@@ -1241,7 +1241,7 @@ layout: default
 |**2025-10-02**|**SIMSplat: Predictive Driving Scene Editing with Language-aligned 4D Gaussian Splatting**|Sung-Yeon Park et.al.|[2510.02469](http://arxiv.org/abs/2510.02469)|null|
 |**2025-10-02**|**StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided Illusions**|Bo-Hsu Ke et.al.|[2510.02314](http://arxiv.org/abs/2510.02314)|null|
 |**2025-10-02**|**Performance-Guided Refinement for Visual Aerial Navigation using Editable Gaussian Splatting in FalconGym 2.0**|Yan Miao et.al.|[2510.02248](http://arxiv.org/abs/2510.02248)|null|
-|**2025-10-02**|**Spec-Gloss Surfels and Normal-Diffuse Priors for Relightable Glossy Objects**|Georgios Kouros et.al.|[2510.02069](http://arxiv.org/abs/2510.02069)|null|
+|**2025-10-02**|**Spec-Gloss Surfels and Normal-Diffuse Priors for Relightable Glossy Objects**|Georgios Kouros et.al.|[2510.02069](http://arxiv.org/abs/2510.02069)|**[link](https://github.com/gkouros/SpecGloss-GS)**|
 |**2025-10-02**|**GaussianMorphing: Mesh-Guided 3D Gaussians for Semantic-Aware Object Morphing**|Mengtian Li et.al.|[2510.02034](http://arxiv.org/abs/2510.02034)|null|
 |**2025-10-02**|**4DGS-Craft: Consistent and Interactive 4D Gaussian Splatting Editing**|Lei Liu et.al.|[2510.01991](http://arxiv.org/abs/2510.01991)|null|
 |**2025-10-02**|**ROI-GS: Interest-based Local Quality 3D Gaussian Splatting**|Quoc-Anh Bui et.al.|[2510.01978](http://arxiv.org/abs/2510.01978)|null|
@@ -2516,7 +2516,7 @@ layout: default
 |**2025-10-30**|**FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph**|Xiaolin Zhou et.al.|[2509.13733](http://arxiv.org/abs/2509.13733)|null|
 |**2025-09-16**|**Maps for Autonomous Driving: Full-process Survey and Frontiers**|Pengxin Chen et.al.|[2509.12632](http://arxiv.org/abs/2509.12632)|null|
 |**2025-09-15**|**Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing**|Bingyu Li et.al.|[2509.12040](http://arxiv.org/abs/2509.12040)|null|
-|**2025-09-11**|**ObjectReact: Learning Object-Relative Control for Visual Navigation**|Sourav Garg et.al.|[2509.09594](http://arxiv.org/abs/2509.09594)|null|
+|**2025-09-11**|**ObjectReact: Learning Object-Relative Control for Visual Navigation**|Sourav Garg et.al.|[2509.09594](http://arxiv.org/abs/2509.09594)|**[link](https://github.com/oravus/object-react)**|
 |**2025-09-01**|**Hierarchical Motion Captioning Utilizing External Text Data Source**|Clayton Leite et.al.|[2509.01471](http://arxiv.org/abs/2509.01471)|null|
 |**2025-08-19**|**MMIS-Net for Retinal Fluid Segmentation and Detection**|Nchongmaje Ndipenocha et.al.|[2508.13936](http://arxiv.org/abs/2508.13936)|null|
 |**2025-08-03**|**DiffSemanticFusion: Semantic Raster BEV Fusion for Autonomous Driving via Online HD Map Diffusion**|Zhigang Sun et.al.|[2508.01778](http://arxiv.org/abs/2508.01778)|null|
@@ -3576,7 +3576,7 @@ layout: default
 |**2025-11-26**|**PathMamba: A Hybrid Mamba-Transformer for Topologically Coherent Road Segmentation in Satellite Imagery**|Jules Decaestecker et.al.|[2511.21298](http://arxiv.org/abs/2511.21298)|null|
 |**2025-11-26**|**Exploring muonphilic dark matter with the $Z_2$ -even mediator at muon colliders**|Wanyun Chen et.al.|[2511.21290](http://arxiv.org/abs/2511.21290)|null|
 |**2025-11-26**|**Floquet thermalization by power-law induced permutation symmetry breaking**|Manju C et.al.|[2511.21284](http://arxiv.org/abs/2511.21284)|null|
-|**2025-11-26**|**I-GLIDE: Input Groups for Latent Health Indicators in Degradation Estimation**|Lucas Thil et.al.|[2511.21208](http://arxiv.org/abs/2511.21208)|null|
+|**2025-11-26**|**I-GLIDE: Input Groups for Latent Health Indicators in Degradation Estimation**|Lucas Thil et.al.|[2511.21208](http://arxiv.org/abs/2511.21208)|**[link](https://github.com/LucasStill/I-GLIDE)**|
 |**2025-11-26**|**Vortex-Enhanced Zitterbewegung in Relativistic Electron Wave Packets**|Zhongze Guo et.al.|[2511.21142](http://arxiv.org/abs/2511.21142)|null|
 |**2025-11-26**|**Referring Video Object Segmentation with Cross-Modality Proxy Queries**|Baoli Sun et.al.|[2511.21139](http://arxiv.org/abs/2511.21139)|null|
 |**2025-11-26**|**DeepRFTv2: Kernel-level Learning for Image Deblurring**|Xintian Mao et.al.|[2511.21132](http://arxiv.org/abs/2511.21132)|null|

@@ -2204,7 +2204,7 @@
 |**2024-12-05**|**DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving**|Dingrui Wang et.al.|[2409.18053](http://arxiv.org/abs/2409.18053)|null|
 |**2024-04-16**|**Are NeRFs ready for autonomous driving? Towards closing the real-to-simulation gap**|Carl Lindström et.al.|[2403.16092](http://arxiv.org/abs/2403.16092)|null|
 |**2023-05-30**|**Selective Communication for Cooperative Perception in End-to-End Autonomous Driving**|Hsu-kuang Chiu et.al.|[2305.17181](http://arxiv.org/abs/2305.17181)|null|
-|**2023-09-14**|**Collaborative Perception in Autonomous Driving: Methods, Datasets and Challenges**|Yushan Han et.al.|[2301.06262](http://arxiv.org/abs/2301.06262)|null|
+|**2023-09-14**|**Collaborative Perception in Autonomous Driving: Methods, Datasets and Challenges**|Yushan Han et.al.|[2301.06262](http://arxiv.org/abs/2301.06262)|**[link](https://github.com/CatOneTwo/Collaborative-Perception-in-Autonomous-Driving)**|
 |**2022-06-28**|**A Human-Centric Method for Generating Causal Explanations in Natural Language for Autonomous Vehicle Motion Planning**|Balint Gyevnar et.al.|[2206.08783](http://arxiv.org/abs/2206.08783)|null|
 |**2023-07-31**|**Pushing the Limits of Learning-based Traversability Analysis for Autonomous Driving on CPU**|Daniel Fusaro et.al.|[2206.03083](http://arxiv.org/abs/2206.03083)|null|
 |**2021-11-16**|**A Scenario-Based Platform for Testing Autonomous Vehicle Behavior Prediction Models in Simulation**|Francis Indaheng et.al.|[2110.14870](http://arxiv.org/abs/2110.14870)|null|
@@ -2345,10 +2345,10 @@
 |**2025-11-26**|**Scaling limits of critical FK-decorated random planar maps with $q=4$**|William Da Silva et.al.|[2511.21480](http://arxiv.org/abs/2511.21480)|null|
 |**2025-11-26**|**$\texttt{CRLS}$ : Convolutional Regularized Least Squares Framework for Reduced Order Modeling of Transonic Flows**|Muhammad Bilal et.al.|[2511.21425](http://arxiv.org/abs/2511.21425)|null|
 |**2025-11-26**|**Bombyx: OpenCilk Compilation for FPGA Hardware Acceleration**|Mohamed Shahawy et.al.|[2511.21346](http://arxiv.org/abs/2511.21346)|null|
-|**2025-11-26**|**Discovery and recovery of crystalline materials with property-conditioned transformers**|Cyprien Bone et.al.|[2511.21299](http://arxiv.org/abs/2511.21299)|null|
+|**2025-11-26**|**Discovery and recovery of crystalline materials with property-conditioned transformers**|Cyprien Bone et.al.|[2511.21299](http://arxiv.org/abs/2511.21299)|**[link](https://github.com/C-Bone-UCL/CrystaLLM-pi)**|
 |**2025-11-26**|**Rigidity of bounded-type Siegel polynomials**|Kostiantyn Drach et.al.|[2511.21246](http://arxiv.org/abs/2511.21246)|null|
 |**2025-11-26**|**When barchan dunes move over craters**|Paulo Vitor Ribeiro Plácido et.al.|[2511.21177](http://arxiv.org/abs/2511.21177)|null|
-|**2025-11-26**|**Referring Video Object Segmentation with Cross-Modality Proxy Queries**|Baoli Sun et.al.|[2511.21139](http://arxiv.org/abs/2511.21139)|null|
+|**2025-11-26**|**Referring Video Object Segmentation with Cross-Modality Proxy Queries**|Baoli Sun et.al.|[2511.21139](http://arxiv.org/abs/2511.21139)|**[link](https://github.com/Sunbaoli/ProxyFormer)**|
 |**2025-11-26**|**MNM : Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations**|Seunghun Baek et.al.|[2511.21092](http://arxiv.org/abs/2511.21092)|null|
 |**2025-11-26**|**Witness wedges in fidelity-deviation plane: separating teleportation advantage and Bell-inequality violation**|Kyoungho Cho et.al.|[2511.21079](http://arxiv.org/abs/2511.21079)|null|
 |**2025-11-25**|**Exploring Time-Step Size in Reinforcement Learning for Sepsis Treatment**|Yingchuan Sun et.al.|[2511.20913](http://arxiv.org/abs/2511.20913)|null|
@@ -2853,7 +2853,7 @@
 |**2025-12-18**|**Efficient CPU-GPU Collaborative Inference for MoE-based LLMs on Memory-Limited Systems**|En-Ming Huang et.al.|[2512.16473](http://arxiv.org/abs/2512.16473)|null|
 |**2025-12-18**|**Pretrained Battery Transformer (PBT): A battery life prediction foundation model**|Ruifeng Tan et.al.|[2512.16334](http://arxiv.org/abs/2512.16334)|null|
 |**2025-12-19**|**Sigma-MoE-Tiny Technical Report**|Qingguo Hu et.al.|[2512.16248](http://arxiv.org/abs/2512.16248)|null|
-|**2025-12-18**|**Open Ad-hoc Categorization with Contextualized Feature Learning**|Zilin Wang et.al.|[2512.16202](http://arxiv.org/abs/2512.16202)|null|
+|**2025-12-18**|**Open Ad-hoc Categorization with Contextualized Feature Learning**|Zilin Wang et.al.|[2512.16202](http://arxiv.org/abs/2512.16202)|**[link](https://github.com/Wayne2Wang/OAK)**|
 |**2025-12-18**|**INTELLECT-3: Technical Report**|Prime Intellect Team et.al.|[2512.16144](http://arxiv.org/abs/2512.16144)|null|
 |**2025-12-17**|**Wake instability past a sphere settling in a strongly stratified flow**|Chang-Fan Mo et.al.|[2512.15626](http://arxiv.org/abs/2512.15626)|null|
 |**2025-12-17**|**Measurements of the Absolute Branching Fraction of the Semileptonic Decay $\mathbf{Ξ^{-}\rightarrow Λe^- \barν_{e}}$ and the Axial Charge of the $\mathbfΞ^{-}$**|BESIII Collaboration et.al.|[2512.15273](http://arxiv.org/abs/2512.15273)|null|
