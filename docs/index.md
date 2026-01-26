@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**X-Aligner: Composed Visual Retrieval without the Bells and Whistles**|Yuqian Zheng et.al.|[2601.16582](http://arxiv.org/abs/2601.16582)|null|
 |**2026-01-22**|**Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing**|Tingyu Song et.al.|[2601.16125](http://arxiv.org/abs/2601.16125)|**[link](https://github.com/SighingSnow/edir)**|
 |**2026-01-21**|**Unified Multimodal and Multilingual Retrieval via Multi-Task Learning with NLU Integration**|Xinyuan Zhang et.al.|[2601.14714](http://arxiv.org/abs/2601.14714)|null|
 |**2026-01-21**|**LookBench: A Live and Holistic Open Benchmark for Fashion Image Retrieval**|Chao Gao et.al.|[2601.14706](http://arxiv.org/abs/2601.14706)|null|
@@ -722,6 +723,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**A Step to Decouple Optimization in 3DGS**|Renjie Ding et.al.|[2601.16736](http://arxiv.org/abs/2601.16736)|null|
+|**2026-01-23**|**ReWeaver: Towards Simulation-Ready and Topology-Accurate Garment Reconstruction**|Ming Li et.al.|[2601.16672](http://arxiv.org/abs/2601.16672)|null|
 |**2026-01-22**|**EVolSplat4D: Efficient Volume-based Gaussian Splatting for 4D Urban Scene Synthesis**|Sheng Miao et.al.|[2601.15951](http://arxiv.org/abs/2601.15951)|null|
 |**2026-01-22**|**ThermoSplat: Cross-Modal 3D Gaussian Splatting with Feature Modulation and Geometry Decoupling**|Zhaoqi Su et.al.|[2601.15897](http://arxiv.org/abs/2601.15897)|null|
 |**2026-01-22**|**LL-GaussianImage: Efficient Image Representation for Zero-shot Low-Light Enhancement with 2D Gaussian Splatting**|Yuhan Chen et.al.|[2601.15772](http://arxiv.org/abs/2601.15772)|null|
@@ -1388,6 +1391,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**PocketDVDNet: Realtime Video Denoising for Real Camera Noise**|Crispian Morris et.al.|[2601.16780](http://arxiv.org/abs/2601.16780)|null|
+|**2026-01-22**|**DMAVA: Distributed Multi-Autonomous Vehicle Architecture Using Autoware**|Zubair Islam et.al.|[2601.16336](http://arxiv.org/abs/2601.16336)|null|
 |**2026-01-22**|**EVolSplat4D: Efficient Volume-based Gaussian Splatting for 4D Urban Scene Synthesis**|Sheng Miao et.al.|[2601.15951](http://arxiv.org/abs/2601.15951)|null|
 |**2026-01-22**|**DualShield: Safe Model Predictive Diffusion via Reachability Analysis for Interactive Autonomous Driving**|Rui Yang et.al.|[2601.15729](http://arxiv.org/abs/2601.15729)|null|
 |**2026-01-22**|**SuperOcc: Toward Cohesive Temporal Modeling for Superquadric-based Occupancy Prediction**|Zichen Yu et.al.|[2601.15644](http://arxiv.org/abs/2601.15644)|null|
@@ -2562,6 +2567,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Coarse-to-Fine Non-rigid Multi-modal Image Registration for Historical Panel Paintings based on Crack Structures**|Aline Sindel et.al.|[2601.16348](http://arxiv.org/abs/2601.16348)|null|
 |**2026-01-09**|**Deformation-Aware Observation Modeling for Radar-Based Human Sensing via 3D Scan-Depth Sequence Fusion**|Guangqi Shi et.al.|[2601.05676](http://arxiv.org/abs/2601.05676)|null|
 |**2025-12-27**|**Multimodal Diffeomorphic Registration with Neural ODEs and Structural Descriptors**|Salvador Rodriguez-Sanz et.al.|[2512.22689](http://arxiv.org/abs/2512.22689)|null|
 |**2025-12-16**|**Test Time Optimized Generalized AI-based Medical Image Registration Method**|Sneha Sree C. et.al.|[2512.14556](http://arxiv.org/abs/2512.14556)|null|
@@ -2625,6 +2631,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**First evidence for $D_s^+ \to f_1(1420) e^+ν_e$ and search for $D_s^+ \to f_1(1285) e^+ν_e$**|BESIII Collaboration et.al.|[2601.16938](http://arxiv.org/abs/2601.16938)|null|
+|**2026-01-23**|**Coarse-Grained Geometric Quantum Dynamics in the Tensor Network Representation**|Mo Sha et.al.|[2601.16913](http://arxiv.org/abs/2601.16913)|null|
+|**2026-01-23**|**GRIP: Algorithm-Agnostic Machine Unlearning for Mixture-of-Experts via Geometric Router Constraints**|Andy Zhu et.al.|[2601.16905](http://arxiv.org/abs/2601.16905)|null|
+|**2026-01-23**|**Mixture-of-Models: Unifying Heterogeneous Agents via N-Way Self-Evaluating Deliberation**|Tims Pecerskis et.al.|[2601.16863](http://arxiv.org/abs/2601.16863)|null|
+|**2026-01-23**|**SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents**|Yuhang Wang et.al.|[2601.16746](http://arxiv.org/abs/2601.16746)|null|
+|**2026-01-23**|**LongCat-Flash-Thinking-2601 Technical Report**|Meituan LongCat Team et.al.|[2601.16725](http://arxiv.org/abs/2601.16725)|null|
+|**2026-01-23**|**Search for the radiative decay $D^+_s \to γK^*(892)^+$**|BESIII Collaboration et.al.|[2601.16476](http://arxiv.org/abs/2601.16476)|null|
+|**2026-01-22**|**proto-Lightspeed: a high-speed, ultra-low read noise imager on the Magellan Clay Telescope**|Christopher Layden et.al.|[2601.16268](http://arxiv.org/abs/2601.16268)|null|
 |**2026-01-22**|**Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning**|Moo Jin Kim et.al.|[2601.16163](http://arxiv.org/abs/2601.16163)|null|
 |**2026-01-22**|**Universal Refusal Circuits Across LLMs: Cross-Model Transfer via Trajectory Replay and Concept-Basis Reconstruction**|Tony Cristofano et.al.|[2601.16034](http://arxiv.org/abs/2601.16034)|null|
 |**2026-01-22**|**Search for the reaction channel $e^+ e^- \to ηη\,J/ψ$ and the isospin partner of the $Z_c(3900)$ at center-of-mass energies $\sqrt{s} = 4.226-4.950$ GeV**|BESIII Collaboration et.al.|[2601.15882](http://arxiv.org/abs/2601.15882)|null|
@@ -3359,6 +3373,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**From Noisy News Sentiment Scores to Interpretable Temporal Dynamics: A Bayesian State-Space Model**|Ian Carbó Casals et.al.|[2601.16769](http://arxiv.org/abs/2601.16769)|null|
+|**2026-01-23**|**PanopMamba: Vision State Space Modeling for Nuclei Panoptic Segmentation**|Ming Kang et.al.|[2601.16631](http://arxiv.org/abs/2601.16631)|null|
+|**2026-01-23**|**Omni-directional attention mechanism based on Mamba for speech separation**|Ke Xue et.al.|[2601.16603](http://arxiv.org/abs/2601.16603)|null|
+|**2026-01-23**|**Variational Dimension Lifting for Robust Tracking of Nonlinear Stochastic Dynamics**|Yonatan L. Ashenafi et.al.|[2601.16470](http://arxiv.org/abs/2601.16470)|null|
 |**2026-01-22**|**NeuroMamba: Multi-Perspective Feature Interaction with Visual Mamba for Neuron Segmentation**|Liuyun Jiang et.al.|[2601.15929](http://arxiv.org/abs/2601.15929)|null|
 |**2026-01-22**|**Design, Modelling, and Control of Magnetic Ball Suspension System**|Sampson E. Nwachukwu et.al.|[2601.15622](http://arxiv.org/abs/2601.15622)|null|
 |**2026-01-20**|**A Dual-Head Transformer-State-Space Architecture for Neurocircuit Mechanism Decomposition from fMRI**|Cole Korponay et.al.|[2601.15344](http://arxiv.org/abs/2601.15344)|null|
