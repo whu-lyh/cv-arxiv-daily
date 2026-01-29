@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.28
+## Updated on 2026.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -711,7 +711,7 @@ layout: default
 |**2023-10-17**|**Counterfactual Cross-modality Reasoning for Weakly Supervised Video Moment Localization**|Zezhong Lv et.al.|[2308.05648](http://arxiv.org/abs/2308.05648)|**[link](https://github.com/sLdZ0306/CCR)**|
 |**2023-06-06**|**Energy-Based Models for Cross-Modal Localization using Convolutional Transformers**|Alan Wu et.al.|[2306.04021](http://arxiv.org/abs/2306.04021)|null|
 |**2023-05-07**|**Poses as Queries: Image-to-LiDAR Map Localization with Transformers**|Jinyu Miao et.al.|[2305.04298](http://arxiv.org/abs/2305.04298)|null|
-|**2023-03-23**|**Egocentric Audio-Visual Object Localization**|Chao Huang et.al.|[2303.13471](http://arxiv.org/abs/2303.13471)|null|
+|**2023-03-23**|**Egocentric Audio-Visual Object Localization**|Chao Huang et.al.|[2303.13471](http://arxiv.org/abs/2303.13471)|**[link](https://github.com/WikiChao/Ego-AV-Loc)**|
 |**2023-02-20**|**Champion Solution for the WSDM2023 Toloka VQA Challenge**|Shengyi Gao et.al.|[2301.09045](http://arxiv.org/abs/2301.09045)|null|
 |**2023-01-13**|**Text to Point Cloud Localization with Relation-Enhanced Transformer**|Guangzhi Wang et.al.|[2301.05372](http://arxiv.org/abs/2301.05372)|null|
 |**2022-12-06**|**Attention-Enhanced Cross-modal Localization Between 360 Images and Point Clouds**|Zhipeng Zhao et.al.|[2212.02757](http://arxiv.org/abs/2212.02757)|null|
@@ -732,7 +732,7 @@ layout: default
 |**2026-01-27**|**WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration**|Xinrui Zhang et.al.|[2601.19753](http://arxiv.org/abs/2601.19753)|null|
 |**2026-01-27**|**Fast Converging 3D Gaussian Splatting for 1-Minute Reconstruction**|Ziyu Zhang et.al.|[2601.19489](http://arxiv.org/abs/2601.19489)|null|
 |**2026-01-27**|**ClipGS-VR: Immersive and Interactive Cinematic Visualization of Volumetric Medical Data in Mobile Virtual Reality**|Yuqi Tong et.al.|[2601.19310](http://arxiv.org/abs/2601.19310)|null|
-|**2026-01-27**|**TIGaussian: Disentangle Gaussians for Spatial-Awared Text-Image-3D Alignment**|Jiarun Liu et.al.|[2601.19247](http://arxiv.org/abs/2601.19247)|null|
+|**2026-01-27**|**TIGaussian: Disentangle Gaussians for Spatial-Awared Text-Image-3D Alignment**|Jiarun Liu et.al.|[2601.19247](http://arxiv.org/abs/2601.19247)|**[link](https://github.com/RUiN-jiarun/TIGaussian)**|
 |**2026-01-27**|**UniMGS: Unifying Mesh and 3D Gaussian Splatting with Single-Pass Rasterization and Proxy-Based Deformation**|Zeyu Xiao et.al.|[2601.19233](http://arxiv.org/abs/2601.19233)|null|
 |**2026-01-27**|**Bridging Visual and Wireless Sensing: A Unified Radiation Field for 3D Radio Map Construction**|Chaozheng Wen et.al.|[2601.19216](http://arxiv.org/abs/2601.19216)|null|
 |**2026-01-26**|**Splat-Portrait: Generalizing Talking Heads with Gaussian Splatting**|Tong Shi et.al.|[2601.18633](http://arxiv.org/abs/2601.18633)|null|
