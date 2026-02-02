@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.01
+## Updated on 2026.02.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -1431,7 +1431,7 @@ layout: default
 |**2026-01-27**|**Instance-Guided Radar Depth Estimation for 3D Object Detection**|Chen-Chou Lo et.al.|[2601.19314](http://arxiv.org/abs/2601.19314)|null|
 |**2026-01-26**|**Learning the Pareto Space of Multi-Objective Autonomous Driving: A Modular, Data-Driven Approach**|Mohammad Elayan et.al.|[2601.18913](http://arxiv.org/abs/2601.18913)|null|
 |**2026-01-26**|**Towards Safety-Compliant Transformer Architectures for Automotive Systems**|Sven Kirchner et.al.|[2601.18850](http://arxiv.org/abs/2601.18850)|null|
-|**2026-01-25**|**Masked Depth Modeling for Spatial Perception**|Bin Tan et.al.|[2601.17895](http://arxiv.org/abs/2601.17895)|**[link](https://github.com/Robbyant/lingbot-depth)**|
+|**2026-01-25**|**Masked Depth Modeling for Spatial Perception**|Bin Tan et.al.|[2601.17895](http://arxiv.org/abs/2601.17895)|null|
 |**2026-01-23**|**PocketDVDNet: Realtime Video Denoising for Real Camera Noise**|Crispian Morris et.al.|[2601.16780](http://arxiv.org/abs/2601.16780)|null|
 |**2026-01-22**|**DMAVA: Distributed Multi-Autonomous Vehicle Architecture Using Autoware**|Zubair Islam et.al.|[2601.16336](http://arxiv.org/abs/2601.16336)|null|
 |**2026-01-22**|**EVolSplat4D: Efficient Volume-based Gaussian Splatting for 4D Urban Scene Synthesis**|Sheng Miao et.al.|[2601.15951](http://arxiv.org/abs/2601.15951)|null|
@@ -3470,14 +3470,14 @@ layout: default
 |**2026-01-27**|**On the Expressiveness of State Space Models via Temporal Logics**|Eric Alsmann et.al.|[2601.19467](http://arxiv.org/abs/2601.19467)|null|
 |**2026-01-24**|**Fluxamba: Topology-Aware Anisotropic State Space Models for Geological Lineament Segmentation in Multi-Source Remote Sensing**|Jin Bai et.al.|[2601.17288](http://arxiv.org/abs/2601.17288)|null|
 |**2026-01-23**|**From Noisy News Sentiment Scores to Interpretable Temporal Dynamics: A Bayesian State-Space Model**|Ian Carbó Casals et.al.|[2601.16769](http://arxiv.org/abs/2601.16769)|null|
-|**2026-01-23**|**PanopMamba: Vision State Space Modeling for Nuclei Panoptic Segmentation**|Ming Kang et.al.|[2601.16631](http://arxiv.org/abs/2601.16631)|null|
+|**2026-01-23**|**PanopMamba: Vision State Space Modeling for Nuclei Panoptic Segmentation**|Ming Kang et.al.|[2601.16631](http://arxiv.org/abs/2601.16631)|**[link](https://github.com/mkang315/PanopMamba)**|
 |**2026-01-23**|**Omni-directional attention mechanism based on Mamba for speech separation**|Ke Xue et.al.|[2601.16603](http://arxiv.org/abs/2601.16603)|null|
 |**2026-01-23**|**Variational Dimension Lifting for Robust Tracking of Nonlinear Stochastic Dynamics**|Yonatan L. Ashenafi et.al.|[2601.16470](http://arxiv.org/abs/2601.16470)|null|
 |**2026-01-22**|**NeuroMamba: Multi-Perspective Feature Interaction with Visual Mamba for Neuron Segmentation**|Liuyun Jiang et.al.|[2601.15929](http://arxiv.org/abs/2601.15929)|null|
 |**2026-01-22**|**Design, Modelling, and Control of Magnetic Ball Suspension System**|Sampson E. Nwachukwu et.al.|[2601.15622](http://arxiv.org/abs/2601.15622)|null|
 |**2026-01-20**|**A Dual-Head Transformer-State-Space Architecture for Neurocircuit Mechanism Decomposition from fMRI**|Cole Korponay et.al.|[2601.15344](http://arxiv.org/abs/2601.15344)|null|
 |**2026-01-21**|**UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking**|Qihua Liang et.al.|[2601.14799](http://arxiv.org/abs/2601.14799)|null|
-|**2026-01-21**|**Training-Efficient Text-to-Music Generation with State-Space Modeling**|Wei-Jaw Lee et.al.|[2601.14786](http://arxiv.org/abs/2601.14786)|**[link](https://github.com/Lonian6/SSM-TTM)**|
+|**2026-01-21**|**Training-Efficient Text-to-Music Generation with State-Space Modeling**|Wei-Jaw Lee et.al.|[2601.14786](http://arxiv.org/abs/2601.14786)|null|
 |**2026-01-24**|**M2I2HA: Multi-modal Object Detection Based on Intra- and Inter-Modal Hypergraph Attention**|Xiaofan Yang et.al.|[2601.14776](http://arxiv.org/abs/2601.14776)|null|
 |**2026-01-21**|**Spatially Generalizable Mobile Manipulation via Adaptive Experience Selection and Dynamic Imagination**|Ping Zhong et.al.|[2601.14649](http://arxiv.org/abs/2601.14649)|null|
 |**2026-01-20**|**PAS-Mamba: Phase-Amplitude-Spatial State Space Model for MRI Reconstruction**|Xiaoyan Kui et.al.|[2601.14530](http://arxiv.org/abs/2601.14530)|null|
@@ -4065,7 +4065,7 @@ layout: default
 |**2026-01-11**|**Adversarial Attacks on Medical Hyperspectral Imaging Exploiting Spectral-Spatial Dependencies and Multiscale Features**|Yunrui Gu et.al.|[2601.07056](http://arxiv.org/abs/2601.07056)|null|
 |**2026-01-08**|**EdgeLDR: Quaternion Low-Displacement Rank Neural Networks for Edge-Efficient Deep Learning**|Vladimir Frants et.al.|[2601.05379](http://arxiv.org/abs/2601.05379)|null|
 |**2026-01-07**|**HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection**|Shuyan Bai et.al.|[2601.03736](http://arxiv.org/abs/2601.03736)|null|
-|**2026-01-03**|**Efficient Hyperspectral Image Reconstruction Using Lightweight Separate Spectral Transformers**|Jianan Li et.al.|[2601.01064](http://arxiv.org/abs/2601.01064)|null|
+|**2026-01-03**|**Efficient Hyperspectral Image Reconstruction Using Lightweight Separate Spectral Transformers**|Jianan Li et.al.|[2601.01064](http://arxiv.org/abs/2601.01064)|**[link](https://github.com/wcz1124/LSST)**|
 |**2025-12-30**|**Deep Global Clustering for Hyperspectral Image Segmentation: Concepts, Applications, and Open Challenges**|Yu-Tang Chang et.al.|[2512.24172](http://arxiv.org/abs/2512.24172)|null|
 |**2025-12-25**|**Degradation-Aware Metric Prompting for Hyperspectral Image Restoration**|Binfeng Wang et.al.|[2512.20251](http://arxiv.org/abs/2512.20251)|null|
 |**2025-12-22**|**Rethinking Coupled Tensor Analysis for Hyperspectral Super-Resolution: Recoverable Modeling Under Endmember Variability**|Meng Ding et.al.|[2512.19489](http://arxiv.org/abs/2512.19489)|null|
