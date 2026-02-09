@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.08
+## Updated on 2026.02.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -274,7 +274,7 @@ layout: default
 |**2025-11-24**|**Zero-shot segmentation of skin tumors in whole-slide images with vision-language foundation models**|Santiago Moreno et.al.|[2511.18978](http://arxiv.org/abs/2511.18978)|null|
 |**2025-11-24**|**MagicWorld: Interactive Geometry-driven Video World Exploration**|Guangyuan Li et.al.|[2511.18886](http://arxiv.org/abs/2511.18886)|null|
 |**2025-11-24**|**Personalized Federated Segmentation with Shared Feature Aggregation and Boundary-Focused Calibration**|Ishmam Tashdeed et.al.|[2511.18847](http://arxiv.org/abs/2511.18847)|null|
-|**2025-11-24**|**SupLID: Geometrical Guidance for Out-of-Distribution Detection in Semantic Segmentation**|Nimeshika Udayangani et.al.|[2511.18816](http://arxiv.org/abs/2511.18816)|null|
+|**2025-11-24**|**SupLID: Geometrical Guidance for Out-of-Distribution Detection in Semantic Segmentation**|Nimeshika Udayangani et.al.|[2511.18816](http://arxiv.org/abs/2511.18816)|**[link](https://github.com/hdnugit/SupLID)**|
 |**2025-11-23**|**AIA-UltraNeRF:Acoustic-Impedance-Aware Neural Radiance Field with Hash Encodings for Robotic Ultrasound Reconstruction and Localization**|Shuai Zhang et.al.|[2511.18293](http://arxiv.org/abs/2511.18293)|null|
 |**2025-11-23**|**SwiftVGGT: A Scalable Visual Geometry Grounded Transformer for Large-Scale Scenes**|Jungho Lee et.al.|[2511.18290](http://arxiv.org/abs/2511.18290)|null|
 |**2025-11-22**|**Bias Is a Subspace, Not a Coordinate: A Geometric Rethinking of Post-hoc Debiasing in Vision-Language Models**|Dachuan Zhao et.al.|[2511.18123](http://arxiv.org/abs/2511.18123)|null|
@@ -2494,7 +2494,7 @@ layout: default
 |**2025-11-25**|**DOGE: Differentiable Bezier Graph Optimization for Road Network Extraction**|Jiahui Sun et.al.|[2511.19850](http://arxiv.org/abs/2511.19850)|null|
 |**2025-11-25**|**Rectified SpaAttn: Revisiting Attention Sparsity for Efficient Video Generation**|Xuewen Liu et.al.|[2511.19835](http://arxiv.org/abs/2511.19835)|null|
 |**2025-11-24**|**Rigidity of $\mathbf{SU(2)}$ and $\mathbf{SO(3)}$ quantum representations of mapping class groups at prime levels**|Pierre Godfard et.al.|[2511.19795](http://arxiv.org/abs/2511.19795)|null|
-|**2025-11-24**|**Flow Map Distillation Without Data**|Shangyuan Tong et.al.|[2511.19428](http://arxiv.org/abs/2511.19428)|null|
+|**2025-11-24**|**Flow Map Distillation Without Data**|Shangyuan Tong et.al.|[2511.19428](http://arxiv.org/abs/2511.19428)|**[link](https://github.com/ShangyuanTong/FreeFlow)**|
 |**2025-11-24**|**Dual-Granularity Semantic Prompting for Language Guidance Infrared Small Target Detection**|Zixuan Wang et.al.|[2511.19306](http://arxiv.org/abs/2511.19306)|null|
 |**2025-11-24**|**IOMMU Support for Virtual-Address Remote DMA in an ARMv8 environment**|Antonis Psistakis et.al.|[2511.19258](http://arxiv.org/abs/2511.19258)|null|
 |**2025-11-24**|**SENTINEL: A Fully End-to-End Language-Action Model for Humanoid Whole Body Control**|Yuxuan Wang et.al.|[2511.19236](http://arxiv.org/abs/2511.19236)|null|
