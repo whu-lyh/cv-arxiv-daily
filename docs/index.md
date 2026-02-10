@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.02.09
+## Updated on 2026.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-08**|**WristMIR: Coarse-to-Fine Region-Aware Retrieval of Pediatric Wrist Radiographs with Radiology Report-Driven Learning**|Mert Sonmezer et.al.|[2602.07872](http://arxiv.org/abs/2602.07872)|null|
 |**2026-02-04**|**Do Vision-Language Models Respect Contextual Integrity in Location Disclosure?**|Ruixin Yang et.al.|[2602.05023](http://arxiv.org/abs/2602.05023)|null|
 |**2026-02-04**|**SAR-RAG: ATR Visual Question Answering by Semantic Search, Retrieval, and MLLM Generation**|David F. Ramirez et.al.|[2602.04712](http://arxiv.org/abs/2602.04712)|null|
 |**2026-02-05**|**SDR-CIR: Semantic Debias Retrieval Framework for Training-Free Zero-Shot Composed Image Retrieval**|Yi Sun et.al.|[2602.04451](http://arxiv.org/abs/2602.04451)|null|
@@ -749,6 +750,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-08**|**Recovering 3D Shapes from Ultra-Fast Motion-Blurred Images**|Fei Yu et.al.|[2602.07860](http://arxiv.org/abs/2602.07860)|null|
+|**2026-02-07**|**Thermal odometry and dense mapping using learned ddometry and Gaussian splatting**|Tianhao Zhou et.al.|[2602.07493](http://arxiv.org/abs/2602.07493)|null|
+|**2026-02-06**|**Zero-Shot UAV Navigation in Forests via Relightable 3D Gaussian Splatting**|Zinan Lv et.al.|[2602.07101](http://arxiv.org/abs/2602.07101)|null|
 |**2026-02-06**|**DynFOA: Generating First-Order Ambisonics with Conditional Diffusion for Dynamic and Acoustically Complex 360-Degree Videos**|Ziyu Luo et.al.|[2602.06846](http://arxiv.org/abs/2602.06846)|null|
 |**2026-02-06**|**GaussianPOP: Principled Simplification Framework for Compact 3D Gaussian Splatting via Error Quantification**|Soonbin Lee et.al.|[2602.06830](http://arxiv.org/abs/2602.06830)|null|
 |**2026-02-06**|**Uncertainty-Aware 4D Gaussian Splatting for Monocular Occluded Human Rendering**|Weiquan Wang et.al.|[2602.06343](http://arxiv.org/abs/2602.06343)|null|
@@ -1471,6 +1475,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-07**|**All-Optical Segmentation via Diffractive Neural Networks for Autonomous Driving**|Yingjie Li et.al.|[2602.07717](http://arxiv.org/abs/2602.07717)|null|
+|**2026-02-07**|**Vision and language: Novel Representations and Artificial intelligence for Driving Scene Safety Assessment and Autonomous Vehicle Planning**|Ross Greer et.al.|[2602.07680](http://arxiv.org/abs/2602.07680)|null|
+|**2026-02-07**|**Seeing Roads Through Words: A Language-Guided Framework for RGB-T Driving Scene Segmentation**|Ruturaj Reddy et.al.|[2602.07343](http://arxiv.org/abs/2602.07343)|null|
+|**2026-02-07**|**RAPiD: Real-time Deterministic Trajectory Planning via Diffusion Behavior Priors for Safe and Efficient Autonomous Driving**|Ruturaj Reddy et.al.|[2602.07339](http://arxiv.org/abs/2602.07339)|null|
 |**2026-02-06**|**Temperature Scaling Attack Disrupting Model Confidence in Federated Learning**|Kichang Lee et.al.|[2602.06638](http://arxiv.org/abs/2602.06638)|null|
 |**2026-02-06**|**DriveWorld-VLA: Unified Latent-Space World Modeling with Vision-Language-Action for Autonomous Driving**|Feiyang jia et.al.|[2602.06521](http://arxiv.org/abs/2602.06521)|null|
 |**2026-02-06**|**Rebenchmarking Unsupervised Monocular 3D Occupancy Prediction**|Zizhan Guo et.al.|[2602.06488](http://arxiv.org/abs/2602.06488)|null|
@@ -2353,7 +2361,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2009-10-21**|**Quantum Error Correction Beyond Completely Positive Maps**|A. Shabani et.al.|[quant-ph/0610028](http://arxiv.org/abs/quant-ph/0610028)|null|
-|**2026-02-01**|**SPOT: Spatio-Temporal Obstacle-free Trajectory Planning for UAVs in an Unknown Dynamic Environment**|Astik Srivastava et.al.|[2602.01189](http://arxiv.org/abs/2602.01189)|null|
+|**2026-02-08**|**SPOT: Spatio-Temporal Obstacle-free Trajectory Planning for UAVs in an Unknown Dynamic Environment**|Astik Srivastava et.al.|[2602.01189](http://arxiv.org/abs/2602.01189)|null|
 |**2026-02-03**|**MapDream: Task-Driven Map Learning for Vision-Language Navigation**|Guoxin Lian et.al.|[2602.00222](http://arxiv.org/abs/2602.00222)|null|
 |**2026-01-18**|**OpenNavMap: Structure-Free Topometric Mapping via Large-Scale Collaborative Localization**|Jianhao Jiao et.al.|[2601.12291](http://arxiv.org/abs/2601.12291)|null|
 |**2025-12-16**|**ACE-SLAM: Scene Coordinate Regression for Neural Implicit Real-Time SLAM**|Ignacio Alzugaray et.al.|[2512.14032](http://arxiv.org/abs/2512.14032)|null|
@@ -2778,6 +2786,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-08**|**Thinking in Structures: Evaluating Spatial Intelligence through Reasoning on Constrained Manifolds**|Chen Yang et.al.|[2602.07864](http://arxiv.org/abs/2602.07864)|null|
+|**2026-02-07**|**SERE: Similarity-based Expert Re-routing for Efficient Batch Decoding in MoE Models**|Juntong Wu et.al.|[2602.07616](http://arxiv.org/abs/2602.07616)|**[link](https://github.com/JL-Cheng/SERE)**|
+|**2026-02-07**|**MSN: A Memory-based Sparse Activation Scaling Framework for Large-scale Industrial Recommendation**|Shikang Wu et.al.|[2602.07526](http://arxiv.org/abs/2602.07526)|null|
+|**2026-02-07**|**From Native Memes to Global Moderation: Cros-Cultural Evaluation of Vision-Language Models for Hateful Meme Detection**|Mo Wang et.al.|[2602.07497](http://arxiv.org/abs/2602.07497)|null|
+|**2026-02-07**|**Wavelet-Domain Masked Image Modeling for Color-Consistent HDR Video Reconstruction**|Yang Zhang et.al.|[2602.07393](http://arxiv.org/abs/2602.07393)|**[link](https://github.com/eezkni/WMNet)**|
+|**2026-02-07**|**When the Model Said 'No Comment', We Knew Helpfulness Was Dead, Honesty Was Alive, and Safety Was Terrified**|Gautam Siddharth Kashyap et.al.|[2602.07381](http://arxiv.org/abs/2602.07381)|null|
+|**2026-02-07**|**Semantic Search At LinkedIn**|Fedor Borisyuk et.al.|[2602.07309](http://arxiv.org/abs/2602.07309)|null|
+|**2026-02-06**|**XShare: Collaborative in-Batch Expert Sharing for Faster MoE Inference**|Daniil Vankov et.al.|[2602.07265](http://arxiv.org/abs/2602.07265)|null|
 |**2026-02-06**|**DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos**|Shenyuan Gao et.al.|[2602.06949](http://arxiv.org/abs/2602.06949)|null|
 |**2026-02-06**|**Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing**|Meng Lou et.al.|[2602.06862](http://arxiv.org/abs/2602.06862)|null|
 |**2026-02-06**|**POP: Online Structural Pruning Enables Efficient Inference of Large Foundation Models**|Yi Chen et.al.|[2602.06822](http://arxiv.org/abs/2602.06822)|null|
@@ -3633,6 +3649,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Behavior Score Prediction in Resting-State Functional MRI by Deep State Space Modeling**|Javier Salazar Cavazos et.al.|[2602.07131](http://arxiv.org/abs/2602.07131)|null|
 |**2026-02-06**|**Towards Understanding What State Space Models Learn About Code**|Jiali Wu et.al.|[2602.06774](http://arxiv.org/abs/2602.06774)|null|
 |**2026-02-06**|**Efficient Online Variational Estimation via Monte Carlo Sampling**|Mathis Chagneux et.al.|[2602.06579](http://arxiv.org/abs/2602.06579)|null|
 |**2026-02-06**|**AS-Mamba: Asymmetric Self-Guided Mamba Decoupled Iterative Network for Metal Artifact Reduction**|Bowen Ning et.al.|[2602.06350](http://arxiv.org/abs/2602.06350)|null|
