@@ -755,6 +755,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Faster-GS: Analyzing and Improving Gaussian Splatting Optimization**|Florian Hahlbohm et.al.|[2602.09999](http://arxiv.org/abs/2602.09999)|null|
 |**2026-02-10**|**CompSplat: Compression-aware 3D Gaussian Splatting for Real-world Video**|Hojun Song et.al.|[2602.09816](http://arxiv.org/abs/2602.09816)|null|
 |**2026-02-10**|**SciFlow-Bench: Evaluating Structure-Aware Scientific Diagram Generation via Inverse Parsing**|Tong Zhang et.al.|[2602.09809](http://arxiv.org/abs/2602.09809)|null|
 |**2026-02-10**|**Toward Fine-Grained Facial Control in 3D Talking Head Generation**|Shaoyang Xie et.al.|[2602.09736](http://arxiv.org/abs/2602.09736)|null|
@@ -2824,13 +2825,13 @@ layout: default
 |**2026-02-09**|**Generalizing GNNs with Tokenized Mixture of Experts**|Xiaoguang Guo et.al.|[2602.09258](http://arxiv.org/abs/2602.09258)|null|
 |**2026-02-09**|**UI-Venus-1.5 Technical Report**|Veuns-Team et.al.|[2602.09082](http://arxiv.org/abs/2602.09082)|null|
 |**2026-02-09**|**DirMoE: Dirichlet-routed Mixture of Experts**|Amirhossein Vahidi et.al.|[2602.09001](http://arxiv.org/abs/2602.09001)|null|
-|**2026-02-09**|**OmniReview: A Large-scale Benchmark and LLM-enhanced Framework for Realistic Reviewer Recommendation**|Yehua Huang et.al.|[2602.08896](http://arxiv.org/abs/2602.08896)|null|
+|**2026-02-09**|**OmniReview: A Large-scale Benchmark and LLM-enhanced Framework for Realistic Reviewer Recommendation**|Yehua Huang et.al.|[2602.08896](http://arxiv.org/abs/2602.08896)|**[link](https://github.com/hyhping2023/OmniReview)**|
 |**2026-02-09**|**FlexMoRE: A Flexible Mixture of Rank-heterogeneous Experts for Efficient Federatedly-trained Large Language Models**|Annemette Brok Pirchert et.al.|[2602.08818](http://arxiv.org/abs/2602.08818)|null|
 |**2026-02-10**|**MOVA: Towards Scalable and Synchronized Video-Audio Generation**|SII-OpenMOSS Team et.al.|[2602.08794](http://arxiv.org/abs/2602.08794)|null|
 |**2026-02-10**|**Redundancy-Free View Alignment for Multimodal Human Activity Recognition with Arbitrarily Missing Views**|Duc-Anh Nguyen et.al.|[2602.08755](http://arxiv.org/abs/2602.08755)|null|
 |**2026-02-09**|**Large Language Lobotomy: Jailbreaking Mixture-of-Experts via Expert Silencing**|Jona te Lintelo et.al.|[2602.08741](http://arxiv.org/abs/2602.08741)|null|
 |**2026-02-09**|**6G-Bench: An Open Benchmark for Semantic Communication and Network-Level Reasoning with Foundation Models in AI-Native 6G Networks**|Mohamed Amine Ferrag et.al.|[2602.08675](http://arxiv.org/abs/2602.08675)|null|
-|**2026-02-09**|**Fundamental Reasoning Paradigms Induce Out-of-Domain Generalization in Language Models**|Mingzi Cao et.al.|[2602.08658](http://arxiv.org/abs/2602.08658)|null|
+|**2026-02-10**|**Fundamental Reasoning Paradigms Induce Out-of-Domain Generalization in Language Models**|Mingzi Cao et.al.|[2602.08658](http://arxiv.org/abs/2602.08658)|null|
 |**2026-02-09**|**Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs**|Yukun Jiang et.al.|[2602.08621](http://arxiv.org/abs/2602.08621)|null|
 |**2026-02-09**|**Giant Magnetocaloric Effect in a High-Spin Shastry-Sutherland Dipolar Magnet**|Jianjian Gong et.al.|[2602.08497](http://arxiv.org/abs/2602.08497)|null|
 |**2026-02-09**|**TEAM: Temporal-Spatial Consistency Guided Expert Activation for MoE Diffusion Language Model Acceleration**|Linye Wei et.al.|[2602.08404](http://arxiv.org/abs/2602.08404)|null|
@@ -3704,6 +3705,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Can Image Splicing and Copy-Move Forgery Be Detected by the Same Model? Forensim: An Attention-Based State-Space Approach**|Soumyaroop Nandi et.al.|[2602.10079](http://arxiv.org/abs/2602.10079)|null|
 |**2026-02-10**|**BabyMamba-HAR: Lightweight Selective State Space Models for Efficient Human Activity Recognition on Resource Constrained Devices**|Mridankan Mandal et.al.|[2602.09872](http://arxiv.org/abs/2602.09872)|null|
 |**2026-02-09**|**DMamba: Decomposition-enhanced Mamba for Time Series Forecasting**|Ruxuan Chen et.al.|[2602.09081](http://arxiv.org/abs/2602.09081)|null|
 |**2026-02-08**|**MambaFusion: Adaptive State-Space Fusion for Multimodal 3D Object Detection**|Venkatraman Narayanan et.al.|[2602.08126](http://arxiv.org/abs/2602.08126)|null|
