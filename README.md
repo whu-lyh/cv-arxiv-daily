@@ -786,8 +786,8 @@
 |**2026-02-10**|**ERGO: Excess-Risk-Guided Optimization for High-Fidelity Monocular 3D Gaussian Splatting**|Zehua Ma et.al.|[2602.10278](http://arxiv.org/abs/2602.10278)|null|
 |**2026-02-10**|**XSPLAIN: XAI-enabling Splat-based Prototype Learning for Attribute-aware INterpretability**|Dominik Galus et.al.|[2602.10239](http://arxiv.org/abs/2602.10239)|null|
 |**2026-02-10**|**ArtisanGS: Interactive Tools for Gaussian Splat Selection with AI and Human in the Loop**|Clement Fuji Tsang et.al.|[2602.10173](http://arxiv.org/abs/2602.10173)|null|
-|**2026-02-10**|**Faster-GS: Analyzing and Improving Gaussian Splatting Optimization**|Florian Hahlbohm et.al.|[2602.09999](http://arxiv.org/abs/2602.09999)|null|
-|**2026-02-10**|**CompSplat: Compression-aware 3D Gaussian Splatting for Real-world Video**|Hojun Song et.al.|[2602.09816](http://arxiv.org/abs/2602.09816)|null|
+|**2026-02-10**|**Faster-GS: Analyzing and Improving Gaussian Splatting Optimization**|Florian Hahlbohm et.al.|[2602.09999](http://arxiv.org/abs/2602.09999)|**[link](https://github.com/nerficg-project/faster-gaussian-splatting)**|
+|**2026-02-10**|**CompSplat: Compression-aware 3D Gaussian Splatting for Real-world Video**|Hojun Song et.al.|[2602.09816](http://arxiv.org/abs/2602.09816)|**[link](https://github.com/hojunking/CompSplat)**|
 |**2026-02-10**|**SciFlow-Bench: Evaluating Structure-Aware Scientific Diagram Generation via Inverse Parsing**|Tong Zhang et.al.|[2602.09809](http://arxiv.org/abs/2602.09809)|null|
 |**2026-02-10**|**Toward Fine-Grained Facial Control in 3D Talking Head Generation**|Shaoyang Xie et.al.|[2602.09736](http://arxiv.org/abs/2602.09736)|null|
 |**2026-02-10**|**Stability and Concentration in Nonlinear Inverse Problems with Block-Structured Parameters: Lipschitz Geometry, Identifiability, and an Application to Gaussian Splatting**|Joe-Mei Feng et.al.|[2602.09415](http://arxiv.org/abs/2602.09415)|null|
@@ -2816,7 +2816,7 @@
 |**2025-10-17**|**ERNet: Efficient Non-Rigid Registration Network for Point Sequences**|Guangzhao He et.al.|[2510.15800](http://arxiv.org/abs/2510.15800)|null|
 |**2025-09-12**|**Human Body Segment Volume Estimation with Two RGB-D Cameras**|Giulia Bassani et.al.|[2509.10429](http://arxiv.org/abs/2509.10429)|null|
 |**2025-09-09**|**A Comprehensive Pipeline for Aortic Segmentation and Shape Analysis**|Nairouz Shehata et.al.|[2509.09718](http://arxiv.org/abs/2509.09718)|null|
-|**2025-08-19**|**Shape-from-Template with Generalised Camera**|Agniva Sengupta et.al.|[2508.13791](http://arxiv.org/abs/2508.13791)|null|
+|**2025-08-19**|**Shape-from-Template with Generalised Camera**|Agniva Sengupta et.al.|[2508.13791](http://arxiv.org/abs/2508.13791)|**[link](https://github.com/agnivsen/sft-generalised)**|
 |**2025-08-24**|**FractMorph: A Fractional Fourier-Based Multi-Domain Transformer for Deformable Image Registration**|Shayan Kebriti et.al.|[2508.12445](http://arxiv.org/abs/2508.12445)|null|
 |**2025-07-27**|**PIVOTS: Aligning unseen Structures using Preoperative to Intraoperative Volume-To-Surface Registration for Liver Navigation**|Peng Liu et.al.|[2507.20337](http://arxiv.org/abs/2507.20337)|null|
 |**2025-07-10**|**X-RAFT: Cross-Modal Non-Rigid Registration of Blue and White Light Neurosurgical Hyperspectral Images**|Charlie Budd et.al.|[2507.07747](http://arxiv.org/abs/2507.07747)|null|
@@ -3794,7 +3794,7 @@
 |**2026-02-09**|**DMamba: Decomposition-enhanced Mamba for Time Series Forecasting**|Ruxuan Chen et.al.|[2602.09081](http://arxiv.org/abs/2602.09081)|null|
 |**2026-02-12**|**MambaFusion: Adaptive State-Space Fusion for Multimodal 3D Object Detection**|Venkatraman Narayanan et.al.|[2602.08126](http://arxiv.org/abs/2602.08126)|null|
 |**2026-02-06**|**Behavior Score Prediction in Resting-State Functional MRI by Deep State Space Modeling**|Javier Salazar Cavazos et.al.|[2602.07131](http://arxiv.org/abs/2602.07131)|null|
-|**2026-02-06**|**Towards Understanding What State Space Models Learn About Code**|Jiali Wu et.al.|[2602.06774](http://arxiv.org/abs/2602.06774)|null|
+|**2026-02-06**|**Towards Understanding What State Space Models Learn About Code**|Jiali Wu et.al.|[2602.06774](http://arxiv.org/abs/2602.06774)|**[link](https://github.com/jettbrains/-L-)**|
 |**2026-02-06**|**Efficient Online Variational Estimation via Monte Carlo Sampling**|Mathis Chagneux et.al.|[2602.06579](http://arxiv.org/abs/2602.06579)|null|
 |**2026-02-06**|**AS-Mamba: Asymmetric Self-Guided Mamba Decoupled Iterative Network for Metal Artifact Reduction**|Bowen Ning et.al.|[2602.06350](http://arxiv.org/abs/2602.06350)|null|
 |**2026-02-05**|**MambaVF: State Space Model for Efficient Video Fusion**|Zixiang Zhao et.al.|[2602.06017](http://arxiv.org/abs/2602.06017)|null|
