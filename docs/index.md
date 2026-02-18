@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Privacy-Preserving and Secure Spectrum Sharing for Database-Driven Cognitive Radio Networks**|Saleh Darzia et.al.|[2602.15705](http://arxiv.org/abs/2602.15705)|null|
+|**2026-02-17**|**GMAIL: Generative Modality Alignment for generated Image Learning**|Shentong Mo et.al.|[2602.15368](http://arxiv.org/abs/2602.15368)|null|
+|**2026-02-16**|**AIC CTU@AVerImaTeC: dual-retriever RAG for image-text fact checking**|Herbert Ullrich et.al.|[2602.15190](http://arxiv.org/abs/2602.15190)|null|
 |**2026-02-16**|**Wrivinder: Towards Spatial Intelligence for Geo-locating Ground Images onto Satellite Imagery**|Chandrakanth Gudavalli et.al.|[2602.14929](http://arxiv.org/abs/2602.14929)|null|
 |**2026-02-15**|**Towards Spatial Transcriptomics-driven Pathology Foundation Models**|Konstantin Hemker et.al.|[2602.14177](http://arxiv.org/abs/2602.14177)|null|
 |**2026-02-14**|**High-fidelity 3D reconstruction for planetary exploration**|Alfonso Martínez-Petersen et.al.|[2602.13909](http://arxiv.org/abs/2602.13909)|null|
@@ -766,6 +769,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Semantic-Guided 3D Gaussian Splatting for Transient Object Removal**|Aditi Prabakaran et.al.|[2602.15516](http://arxiv.org/abs/2602.15516)|null|
+|**2026-02-17**|**DAV-GSWT: Diffusion-Active-View Sampling for Data-Efficient Gaussian Splatting Wang Tiles**|Rong Fu et.al.|[2602.15355](http://arxiv.org/abs/2602.15355)|null|
+|**2026-02-16**|**Time-Archival Camera Virtualization for Sports and Visual Performances**|Yunxiao Zhang et.al.|[2602.15181](http://arxiv.org/abs/2602.15181)|null|
 |**2026-02-16**|**Wrivinder: Towards Spatial Intelligence for Geo-locating Ground Images onto Satellite Imagery**|Chandrakanth Gudavalli et.al.|[2602.14929](http://arxiv.org/abs/2602.14929)|null|
 |**2026-02-16**|**Gaussian Mesh Renderer for Lightweight Differentiable Rendering**|Xinpeng Liu et.al.|[2602.14493](http://arxiv.org/abs/2602.14493)|null|
 |**2026-02-15**|**Learnable Multi-level Discrete Wavelet Transforms for 3D Gaussian Splatting Frequency Modulation**|Hung Nguyen et.al.|[2602.14199](http://arxiv.org/abs/2602.14199)|null|
@@ -1520,7 +1526,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-16**|**ThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal Imagery**|Ayush Shrivastava et.al.|[2602.14989](http://arxiv.org/abs/2602.14989)|**[link](https://github.com/sustainability-lab/thermeval)**|
+|**2026-02-17**|**RPT-SR: Regional Prior attention Transformer for infrared image Super-Resolution**|Youngwan Jin et.al.|[2602.15490](http://arxiv.org/abs/2602.15490)|null|
+|**2026-02-16**|**Near-Optimal Sample Complexity for Online Constrained MDPs**|Chang Liu et.al.|[2602.15076](http://arxiv.org/abs/2602.15076)|null|
+|**2026-02-16**|**ThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal Imagery**|Ayush Shrivastava et.al.|[2602.14989](http://arxiv.org/abs/2602.14989)|null|
 |**2026-02-16**|**DM0: An Embodied-Native Vision-Language-Action Model towards Physical AI**|En Yu et.al.|[2602.14974](http://arxiv.org/abs/2602.14974)|null|
 |**2026-02-16**|**DriveFine: Refining-Augmented Masked Diffusion VLA for Precise and Robust Driving**|Chenxu Dang et.al.|[2602.14577](http://arxiv.org/abs/2602.14577)|null|
 |**2026-02-16**|**Multimodal Covariance Steering in Belief Space with Active Probing and Influence for Autonomous Driving**|Devodita Chakravarty et.al.|[2602.14540](http://arxiv.org/abs/2602.14540)|null|
@@ -2872,8 +2880,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**ExpertWeaver: Unlocking the Inherent MoE in Dense LLMs with GLU Activation Patterns**|Ziyu Zhao et.al.|[2602.15521](http://arxiv.org/abs/2602.15521)|null|
+|**2026-02-17**|**GMAIL: Generative Modality Alignment for generated Image Learning**|Shentong Mo et.al.|[2602.15368](http://arxiv.org/abs/2602.15368)|null|
+|**2026-02-16**|**Mixture-of-Experts under Finite-Rate Gating: Communication--Generalization Trade-offs**|Ali Khalesi et.al.|[2602.15091](http://arxiv.org/abs/2602.15091)|**[link](https://github.com/RezaDeylam/MOE-under-Finite-Rate-Gating)**|
 |**2026-02-13**|**RynnBrain: Open Embodied Foundation Models**|Ronghao Dang et.al.|[2602.14979](http://arxiv.org/abs/2602.14979)|null|
-|**2026-02-16**|**Topological and arithmetic characteristics about products of projective lines with complex tori**|Jia-Li Mo et.al.|[2602.14745](http://arxiv.org/abs/2602.14745)|null|
+|**2026-02-16**|**Topological and arithmetic characteristics about products of projective lines with complex tori**|Jia-Li Mo et.al.|[2602.14745](http://arxiv.org/abs/2602.14745)|**[link](https://github.com/Ufere/Assingment_1)**|
 |**2026-02-16**|**DriveFine: Refining-Augmented Masked Diffusion VLA for Precise and Robust Driving**|Chenxu Dang et.al.|[2602.14577](http://arxiv.org/abs/2602.14577)|null|
 |**2026-02-15**|**DeepFusion: Accelerating MoE Training via Federated Knowledge Distillation from Heterogeneous Edge Devices**|Songyuan Li et.al.|[2602.14301](http://arxiv.org/abs/2602.14301)|null|
 |**2026-02-15**|**MILD: Multi-Intent Learning and Disambiguation for Proactive Failure Prediction in Intent-based Networking**|Md. Kamrul Hossain et.al.|[2602.14283](http://arxiv.org/abs/2602.14283)|null|
@@ -3804,6 +3815,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Tracking Time-Varying Multipath Channels forActive Sonar Applications**|Ashwani Koul et.al.|[2602.15555](http://arxiv.org/abs/2602.15555)|null|
 |**2026-02-15**|**Chemical Language Models for Natural Products: A State-Space Model Approach**|Ho-Hsuan Wang et.al.|[2602.13958](http://arxiv.org/abs/2602.13958)|null|
 |**2026-02-14**|**Backward Smoothing versus Fixed-Lag Smoothing in Particle Filters**|Genshiro Kitagawa et.al.|[2602.13635](http://arxiv.org/abs/2602.13635)|null|
 |**2026-02-13**|**Federated Learning of Nonlinear Temporal Dynamics with Graph Attention-based Cross-Client Interpretability**|Ayse Tursucular et.al.|[2602.13485](http://arxiv.org/abs/2602.13485)|null|
