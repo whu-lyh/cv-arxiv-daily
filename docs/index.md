@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -2882,9 +2882,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-02-17**|**ExpertWeaver: Unlocking the Inherent MoE in Dense LLMs with GLU Activation Patterns**|Ziyu Zhao et.al.|[2602.15521](http://arxiv.org/abs/2602.15521)|null|
 |**2026-02-17**|**GMAIL: Generative Modality Alignment for generated Image Learning**|Shentong Mo et.al.|[2602.15368](http://arxiv.org/abs/2602.15368)|null|
-|**2026-02-16**|**Mixture-of-Experts under Finite-Rate Gating: Communication--Generalization Trade-offs**|Ali Khalesi et.al.|[2602.15091](http://arxiv.org/abs/2602.15091)|**[link](https://github.com/RezaDeylam/MOE-under-Finite-Rate-Gating)**|
+|**2026-02-16**|**Mixture-of-Experts under Finite-Rate Gating: Communication--Generalization Trade-offs**|Ali Khalesi et.al.|[2602.15091](http://arxiv.org/abs/2602.15091)|null|
 |**2026-02-13**|**RynnBrain: Open Embodied Foundation Models**|Ronghao Dang et.al.|[2602.14979](http://arxiv.org/abs/2602.14979)|null|
-|**2026-02-16**|**Topological and arithmetic characteristics about products of projective lines with complex tori**|Jia-Li Mo et.al.|[2602.14745](http://arxiv.org/abs/2602.14745)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-02-16**|**Topological and arithmetic characteristics about products of projective lines with complex tori**|Jia-Li Mo et.al.|[2602.14745](http://arxiv.org/abs/2602.14745)|null|
 |**2026-02-16**|**DriveFine: Refining-Augmented Masked Diffusion VLA for Precise and Robust Driving**|Chenxu Dang et.al.|[2602.14577](http://arxiv.org/abs/2602.14577)|null|
 |**2026-02-15**|**DeepFusion: Accelerating MoE Training via Federated Knowledge Distillation from Heterogeneous Edge Devices**|Songyuan Li et.al.|[2602.14301](http://arxiv.org/abs/2602.14301)|null|
 |**2026-02-15**|**MILD: Multi-Intent Learning and Disambiguation for Proactive Failure Prediction in Intent-based Networking**|Md. Kamrul Hossain et.al.|[2602.14283](http://arxiv.org/abs/2602.14283)|null|
