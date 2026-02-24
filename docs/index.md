@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**VQPP: Video Query Performance Prediction Benchmark**|Adrian Catalin Lutu et.al.|[2602.17814](http://arxiv.org/abs/2602.17814)|null|
 |**2026-02-19**|**Visual Model Checking: Graph-Based Inference of Visual Routines for Image Retrieval**|Adrià Molina et.al.|[2602.17386](http://arxiv.org/abs/2602.17386)|null|
 |**2026-02-18**|**SCAR: Satellite Imagery-Based Calibration for Aerial Recordings**|Henry Hölzemann et.al.|[2602.16349](http://arxiv.org/abs/2602.16349)|null|
 |**2026-02-17**|**Automated Assessment of Kidney Ureteroscopy Exploration for Training**|Fangjie Li et.al.|[2602.15988](http://arxiv.org/abs/2602.15988)|null|
@@ -772,6 +773,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Unifying Color and Lightness Correction with View-Adaptive Curve Adjustment for Robust 3D Novel View Synthesis**|Ziteng Cui et.al.|[2602.18322](http://arxiv.org/abs/2602.18322)|null|
+|**2026-02-20**|**Diff2DGS: Reliable Reconstruction of Occluded Surgical Scenes via 2D Gaussian Splatting**|Tianyi Song et.al.|[2602.18314](http://arxiv.org/abs/2602.18314)|null|
 |**2026-02-19**|**4D Monocular Surgical Reconstruction under Arbitrary Camera Motions**|Jiwei Shan et.al.|[2602.17473](http://arxiv.org/abs/2602.17473)|null|
 |**2026-02-19**|**NRGS-SLAM: Monocular Non-Rigid SLAM for Endoscopy via Deformation-Aware 3D Gaussian Splatting**|Jiwei Shan et.al.|[2602.17182](http://arxiv.org/abs/2602.17182)|null|
 |**2026-02-19**|**B $^3$ -Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates**|Hiromichi Kamata et.al.|[2602.17134](http://arxiv.org/abs/2602.17134)|null|
@@ -1534,6 +1537,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**OODBench: Out-of-Distribution Benchmark for Large Vision-Language Models**|Ling Lin et.al.|[2602.18094](http://arxiv.org/abs/2602.18094)|null|
+|**2026-02-20**|**Dynamic Deception: When Pedestrians Team Up to Fool Autonomous Cars**|Masoud Jamshidiyan Tehrani et.al.|[2602.18079](http://arxiv.org/abs/2602.18079)|null|
+|**2026-02-20**|**Faster Training, Fewer Labels: Self-Supervised Pretraining for Fine-Grained BEV Segmentation**|Daniel Busch et.al.|[2602.18066](http://arxiv.org/abs/2602.18066)|null|
 |**2026-02-19**|**Conditional Flow Matching for Continuous Anomaly Detection in Autonomous Driving on a Manifold-Aware Spectral Space**|Antonio Guillen-Perez et.al.|[2602.17586](http://arxiv.org/abs/2602.17586)|null|
 |**2026-02-19**|**Hybrid System Planning using a Mixed-Integer ADMM Heuristic and Hybrid Zonotopes**|Joshua A. Robbins et.al.|[2602.17574](http://arxiv.org/abs/2602.17574)|null|
 |**2026-02-19**|**HiMAP: History-aware Map-occupancy Prediction with Fallback**|Yiming Xu et.al.|[2602.17231](http://arxiv.org/abs/2602.17231)|null|
@@ -2898,6 +2904,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Going Down Memory Lane: Scaling Tokens for Video Stream Understanding with Dynamic KV-Cache Memory**|Vatsal Agarwal et.al.|[2602.18434](http://arxiv.org/abs/2602.18434)|null|
+|**2026-02-20**|**RamanSeg: Interpretability-driven Deep Learning on Raman Spectra for Cancer Diagnosis**|Chris Tomy et.al.|[2602.18119](http://arxiv.org/abs/2602.18119)|null|
+|**2026-02-20**|**DeepSVU: Towards In-depth Security-oriented Video Understanding via Unified Physical-world Regularized MoE**|Yujie Jin et.al.|[2602.18019](http://arxiv.org/abs/2602.18019)|null|
+|**2026-02-19**|**Grassmannian Mixture-of-Experts: Concentration-Controlled Routing on Subspace Manifolds**|Ibne Farabi Shihab et.al.|[2602.17798](http://arxiv.org/abs/2602.17798)|null|
 |**2026-02-19**|**Phase-Aware Mixture of Experts for Agentic Reinforcement Learning**|Shengtian Yang et.al.|[2602.17038](http://arxiv.org/abs/2602.17038)|null|
 |**2026-02-19**|**Arcee Trinity Large Technical Report**|Varun Singh et.al.|[2602.17004](http://arxiv.org/abs/2602.17004)|null|
 |**2026-02-19**|**Conv-FinRe: A Conversational and Longitudinal Benchmark for Utility-Grounded Financial Recommendation**|Yan Wang et.al.|[2602.16990](http://arxiv.org/abs/2602.16990)|null|
@@ -3842,6 +3852,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**COMBA: Cross Batch Aggregation for Learning Large Graphs with Context Gating State Space Models**|Jiajun Shen et.al.|[2602.17893](http://arxiv.org/abs/2602.17893)|null|
+|**2026-02-19**|**Bayesian Optimality of In-Context Learning with Selective State Spaces**|Di Zhang et.al.|[2602.17744](http://arxiv.org/abs/2602.17744)|null|
 |**2026-02-18**|**StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation**|Zeyu Ren et.al.|[2602.16915](http://arxiv.org/abs/2602.16915)|null|
 |**2026-02-16**|**Is Mamba Reliable for Medical Imaging?**|Banafsheh Saber Latibari et.al.|[2602.16723](http://arxiv.org/abs/2602.16723)|null|
 |**2026-02-17**|**Tracking Time-Varying Multipath Channels forActive Sonar Applications**|Ashwani Koul et.al.|[2602.15555](http://arxiv.org/abs/2602.15555)|null|
@@ -3854,7 +3866,7 @@ layout: default
 |**2026-02-12**|**Learning to Forget Attention: Memory Consolidation for Adaptive Compute Reduction**|Ibne Farabi Shihab et.al.|[2602.12204](http://arxiv.org/abs/2602.12204)|null|
 |**2026-02-12**|**Improved state mixing in higher-order and block diagonal linear recurrent networks**|Igor Dubinin et.al.|[2602.12021](http://arxiv.org/abs/2602.12021)|null|
 |**2026-02-12**|**RI-Mamba: Rotation-Invariant Mamba for Robust Text-to-Shape Retrieval**|Khanh Nguyen et.al.|[2602.11673](http://arxiv.org/abs/2602.11673)|null|
-|**2026-02-12**|**Jailbreaking Leaves a Trace: Understanding and Detecting Jailbreak Attacks from Internal Representations of Large Language Models**|Sri Durga Sai Sowmya Kadali et.al.|[2602.11495](http://arxiv.org/abs/2602.11495)|null|
+|**2026-02-20**|**Jailbreaking Leaves a Trace: Understanding and Detecting Jailbreak Attacks from Internal Representations of Large Language Models**|Sri Durga Sai Sowmya Kadali et.al.|[2602.11495](http://arxiv.org/abs/2602.11495)|null|
 |**2026-02-11**|**Retrieval-Aware Distillation for Transformer-SSM Hybrids**|Aviv Bick et.al.|[2602.11374](http://arxiv.org/abs/2602.11374)|null|
 |**2026-02-11**|**LaSSM: Efficient Semantic-Spatial Query Decoding via Local Aggregation and State Space Models for 3D Instance Segmentation**|Lei Yao et.al.|[2602.11007](http://arxiv.org/abs/2602.11007)|null|
 |**2026-02-11**|**VFGS-Net: Frequency-Guided State-Space Learning for Topology-Preserving Retinal Vessel Segmentation**|Ruiqi Song et.al.|[2602.10978](http://arxiv.org/abs/2602.10978)|null|
