@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.24
+## Updated on 2026.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -1567,7 +1567,7 @@ layout: default
 |**2026-02-18**|**A Contrastive Learning Framework Empowered by Attention-based Feature Adaptation for Street-View Image Classification**|Qi You et.al.|[2602.16590](http://arxiv.org/abs/2602.16590)|null|
 |**2026-02-17**|**ScenicRules: An Autonomous Driving Benchmark with Multi-Objective Specifications and Abstract Scenarios**|Kevin Kai-Chun Chang et.al.|[2602.16073](http://arxiv.org/abs/2602.16073)|null|
 |**2026-02-15**|**A Comprehensive Survey on Deep Learning-Based LiDAR Super-Resolution for Autonomous Driving**|June Moh Goo et.al.|[2602.15904](http://arxiv.org/abs/2602.15904)|null|
-|**2026-02-17**|**RPT-SR: Regional Prior attention Transformer for infrared image Super-Resolution**|Youngwan Jin et.al.|[2602.15490](http://arxiv.org/abs/2602.15490)|null|
+|**2026-02-17**|**RPT-SR: Regional Prior attention Transformer for infrared image Super-Resolution**|Youngwan Jin et.al.|[2602.15490](http://arxiv.org/abs/2602.15490)|**[link](https://github.com/Yonsei-STL/RPT-SR)**|
 |**2026-02-16**|**Near-Optimal Sample Complexity for Online Constrained MDPs**|Chang Liu et.al.|[2602.15076](http://arxiv.org/abs/2602.15076)|null|
 |**2026-02-16**|**ThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal Imagery**|Ayush Shrivastava et.al.|[2602.14989](http://arxiv.org/abs/2602.14989)|null|
 |**2026-02-16**|**DM0: An Embodied-Native Vision-Language-Action Model towards Physical AI**|En Yu et.al.|[2602.14974](http://arxiv.org/abs/2602.14974)|null|
@@ -2884,7 +2884,7 @@ layout: default
 |**2025-05-28**|**NFR: Neural Feature-Guided Non-Rigid Shape Registration**|Puhua Jiang et.al.|[2505.22445](http://arxiv.org/abs/2505.22445)|null|
 |**2025-05-19**|**GuidedMorph: Two-Stage Deformable Registration for Breast MRI**|Yaqian Chen et.al.|[2505.13414](http://arxiv.org/abs/2505.13414)|null|
 |**2025-05-28**|**GrowSplat: Constructing Temporal Digital Twins of Plants with Gaussian Splats**|Simeon Adebola et.al.|[2505.10923](http://arxiv.org/abs/2505.10923)|null|
-|**2025-04-21**|**Landmark-Free Preoperative-to-Intraoperative Registration in Laparoscopic Liver Resection**|Jun Zhou et.al.|[2504.15152](http://arxiv.org/abs/2504.15152)|**[link](https://github.com/junzastar/Self-P2IR)**|
+|**2025-04-21**|**Landmark-Free Preoperative-to-Intraoperative Registration in Laparoscopic Liver Resection**|Jun Zhou et.al.|[2504.15152](http://arxiv.org/abs/2504.15152)|null|
 |**2025-04-11**|**X2BR: High-Fidelity 3D Bone Reconstruction from a Planar X-Ray Image with Hybrid Neural Implicit Methods**|Gokce Guven et.al.|[2504.08675](http://arxiv.org/abs/2504.08675)|null|
 |**2025-03-22**|**MAMAT: 3D Mamba-Based Atmospheric Turbulence Removal and its Object Detection Capability**|Paul Hill et.al.|[2503.17700](http://arxiv.org/abs/2503.17700)|null|
 |**2025-02-26**|**An anatomically-informed correspondence initialisation method to improve learning-based registration for radiotherapy**|Edward G. A. Henderson et.al.|[2502.19101](http://arxiv.org/abs/2502.19101)|null|
@@ -2927,10 +2927,10 @@ layout: default
 |**2026-02-23**|**ReAttn: Improving Attention-based Re-ranking via Attention Re-weighting**|Yuxing Tian et.al.|[2602.19969](http://arxiv.org/abs/2602.19969)|null|
 |**2026-02-23**|**A Replicate-and-Quantize Strategy for Plug-and-Play Load Balancing of Sparse Mixture-of-Experts LLMs**|Zijie Liu et.al.|[2602.19938](http://arxiv.org/abs/2602.19938)|null|
 |**2026-02-23**|**Towards Dexterous Embodied Manipulation via Deep Multi-Sensory Fusion and Sparse Expert Scaling**|Yirui Sun et.al.|[2602.19764](http://arxiv.org/abs/2602.19764)|null|
-|**2026-02-23**|**Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis**|Junhyeok Choi et.al.|[2602.19756](http://arxiv.org/abs/2602.19756)|**[link](https://github.com/junhyeok9712/PDS)**|
+|**2026-02-23**|**Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis**|Junhyeok Choi et.al.|[2602.19756](http://arxiv.org/abs/2602.19756)|null|
 |**2026-02-23**|**RAID: Retrieval-Augmented Anomaly Detection**|Mingxiu Cai et.al.|[2602.19611](http://arxiv.org/abs/2602.19611)|null|
 |**2026-02-23**|**EMS-FL: Federated Tuning of Mixture-of-Experts in Satellite-Terrestrial Networks via Expert-Driven Model Splitting**|Angzi Xu et.al.|[2602.19485](http://arxiv.org/abs/2602.19485)|null|
-|**2026-02-22**|**RegionRoute: Regional Style Transfer with Diffusion Model**|Bowen Chen et.al.|[2602.19254](http://arxiv.org/abs/2602.19254)|**[link](https://github.com/bwchen05/RegionRoute)**|
+|**2026-02-22**|**RegionRoute: Regional Style Transfer with Diffusion Model**|Bowen Chen et.al.|[2602.19254](http://arxiv.org/abs/2602.19254)|null|
 |**2026-02-22**|**Robust Exploration in Directed Controller Synthesis via Reinforcement Learning with Soft Mixture-of-Experts**|Toshihide Ubukata et.al.|[2602.19244](http://arxiv.org/abs/2602.19244)|null|
 |**2026-02-22**|**SegMoTE: Token-Level Mixture of Experts for Medical Image Segmentation**|Yujie Lu et.al.|[2602.19213](http://arxiv.org/abs/2602.19213)|null|
 |**2026-02-22**|**JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation**|Kai Liu et.al.|[2602.19163](http://arxiv.org/abs/2602.19163)|null|
@@ -4525,7 +4525,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-18**|**HS-3D-NeRF: 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs**|Kibon Ku et.al.|[2602.16950](http://arxiv.org/abs/2602.16950)|null|
+|**2026-02-18**|**HS-3D-NeRF: 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs**|Kibon Ku et.al.|[2602.16950](http://arxiv.org/abs/2602.16950)|**[link](https://github.com/baskargroup/HS-3D-NeRF)**|
 |**2026-02-11**|**Benchmarking Deep Learning and Statistical Target Detection Methods for PFM-1 Landmine Detection in UAV Hyperspectral Imagery**|Sagar Lekhak et.al.|[2602.10434](http://arxiv.org/abs/2602.10434)|null|
 |**2026-02-04**|**DMS2F-HAD: A Dual-branch Mamba-based Spatial-Spectral Fusion Network for Hyperspectral Anomaly Detection**|Aayushma Pant et.al.|[2602.04102](http://arxiv.org/abs/2602.04102)|null|
 |**2026-02-02**|**DSXFormer: Dual-Pooling Spectral Squeeze-Expansion and Dynamic Context Attention Transformer for Hyperspectral Image Classification**|Farhan Ullah et.al.|[2602.01906](http://arxiv.org/abs/2602.01906)|null|
