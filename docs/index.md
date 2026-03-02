@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.01
+## Updated on 2026.03.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -2987,7 +2987,7 @@ layout: default
 |**2026-02-26**|**IMMACULATE: A Practical LLM Auditing Framework via Verifiable Computation**|Yanpei Guo et.al.|[2602.22700](http://arxiv.org/abs/2602.22700)|null|
 |**2026-02-26**|**Switch-Hurdle: A MoE Encoder with AR Hurdle Decoder for Intermittent Demand Forecasting**|Fabian Muşat et.al.|[2602.22685](http://arxiv.org/abs/2602.22685)|null|
 |**2026-02-26**|**Accelerating LLM Pre-Training through Flat-Direction Dynamics Enhancement**|Shuchen Zhu et.al.|[2602.22681](http://arxiv.org/abs/2602.22681)|null|
-|**2026-02-26**|**Predictive variational inference for flexible regression models**|Lucas Kock et.al.|[2602.22582](http://arxiv.org/abs/2602.22582)|null|
+|**2026-02-26**|**Predictive variational inference for flexible regression models**|Lucas Kock et.al.|[2602.22582](http://arxiv.org/abs/2602.22582)|**[link](https://github.com/SourangshuGhosh/Doubly-Stochastic-Deep-Gaussian-Process)**|
 |**2026-02-26**|**Towards Dynamic Dense Retrieval with Routing Strategy**|Zhan Su et.al.|[2602.22547](http://arxiv.org/abs/2602.22547)|null|
 |**2026-02-25**|**NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training**|Dengdi Sun et.al.|[2602.22059](http://arxiv.org/abs/2602.22059)|null|
 |**2026-02-25**|**Excitation: Momentum For Experts**|Sagi Shaier et.al.|[2602.21798](http://arxiv.org/abs/2602.21798)|null|
