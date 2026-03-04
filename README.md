@@ -21,6 +21,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**LOO-PIT predictive model checking**|Herman Tesso et.al.|[2603.02928](http://arxiv.org/abs/2603.02928)|null|
+|**2026-03-03**|**Cross-view geo-localization, Image retrieval, Multiscale geometric modeling, Frequency domain enhancement**|Hongying Zhang et.al.|[2603.02726](http://arxiv.org/abs/2603.02726)|null|
+|**2026-03-02**|**Contributions of geolocated weather and building related data for insurance assessment of flood risks**|Mulah Moriah et.al.|[2603.02418](http://arxiv.org/abs/2603.02418)|null|
 |**2026-03-02**|**GeoDiT: Point-Conditioned Diffusion Transformer for Satellite Image Synthesis**|Srikumar Sastry et.al.|[2603.02172](http://arxiv.org/abs/2603.02172)|null|
 |**2026-03-02**|**Learning to Read Where to Look: Disease-Aware Vision-Language Pretraining for 3D CT**|Simon Ging et.al.|[2603.02026](http://arxiv.org/abs/2603.02026)|null|
 |**2026-03-02**|**Cross-modal Identity Mapping: Minimizing Information Loss in Modality Conversion via Reinforcement Learning**|Haonan Jia et.al.|[2603.01696](http://arxiv.org/abs/2603.01696)|null|
@@ -809,13 +812,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-03-02**|**OnlineX: Unified Online 3D Reconstruction and Understanding with Active-to-Stable State Evolution**|Chong Xia et.al.|[2603.02134](http://arxiv.org/abs/2603.02134)|null|
+|**2026-03-03**|**VIRGi: View-dependent Instant Recoloring of 3D Gaussians Splats**|Alessio Mazzucchelli et.al.|[2603.02986](http://arxiv.org/abs/2603.02986)|null|
+|**2026-03-03**|**Intrinsic Geometry-Appearance Consistency Optimization for Sparse-View Gaussian Splatting**|Kaiqiang Xiong et.al.|[2603.02893](http://arxiv.org/abs/2603.02893)|null|
+|**2026-03-03**|**Generalized non-exponential Gaussian splatting**|Sébastien Speierer et.al.|[2603.02887](http://arxiv.org/abs/2603.02887)|null|
+|**2026-03-03**|**Multimodal-Prior-Guided Importance Sampling for Hierarchical Gaussian Splatting in Sparse-View Novel View Synthesis**|Kaiqiang Xiong et.al.|[2603.02866](http://arxiv.org/abs/2603.02866)|null|
+|**2026-03-03**|**R3GW: Relightable 3D Gaussians for Outdoor Scenes in the Wild**|Margherita Lea Corona et.al.|[2603.02801](http://arxiv.org/abs/2603.02801)|null|
+|**2026-03-03**|**SemGS: Feed-Forward Semantic 3D Gaussian Splatting from Sparse Views for Generalizable Scene Understanding**|Sheng Ye et.al.|[2603.02548](http://arxiv.org/abs/2603.02548)|null|
+|**2026-03-03**|**OnlineX: Unified Online 3D Reconstruction and Understanding with Active-to-Stable State Evolution**|Chong Xia et.al.|[2603.02134](http://arxiv.org/abs/2603.02134)|null|
 |**2026-03-02**|**LiftAvatar: Kinematic-Space Completion for Expression-Controlled 3D Gaussian Avatar Animation**|Hualiang Wei et.al.|[2603.02129](http://arxiv.org/abs/2603.02129)|null|
 |**2026-03-02**|**Sparse View Distractor-Free Gaussian Splatting**|Yi Gu et.al.|[2603.01603](http://arxiv.org/abs/2603.01603)|null|
 |**2026-03-02**|**Radiometrically Consistent Gaussian Surfels for Inverse Rendering**|Kyu Beom Han et.al.|[2603.01491](http://arxiv.org/abs/2603.01491)|null|
 |**2026-03-01**|**FLICKER: A Fine-Grained Contribution-Aware Accelerator for Real-Time 3D Gaussian Splatting**|Wenhui Ou et.al.|[2603.01158](http://arxiv.org/abs/2603.01158)|null|
 |**2026-03-01**|**D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping**|Haozhe Lou et.al.|[2603.01151](http://arxiv.org/abs/2603.01151)|null|
-|**2026-03-01**|**HeroGS: Hierarchical Guidance for Robust 3D Gaussian Splatting under Sparse Views**|Jiashu Li et.al.|[2603.01099](http://arxiv.org/abs/2603.01099)|null|
+|**2026-03-03**|**HeroGS: Hierarchical Guidance for Robust 3D Gaussian Splatting under Sparse Views**|Jiashu Li et.al.|[2603.01099](http://arxiv.org/abs/2603.01099)|null|
 |**2026-03-01**|**Decoupling Motion and Geometry in 4D Gaussian Splatting**|Yi Zhang et.al.|[2603.00952](http://arxiv.org/abs/2603.00952)|null|
 |**2026-02-28**|**TokenSplat: Token-aligned 3D Gaussian Splatting for Feed-forward Pose-free Reconstruction**|Yihui Li et.al.|[2603.00697](http://arxiv.org/abs/2603.00697)|null|
 |**2026-02-28**|**Zero-Shot Robotic Manipulation via 3D Gaussian Splatting-Enhanced Multimodal Retrieval-Augmented Generation**|Zilong Xie et.al.|[2603.00500](http://arxiv.org/abs/2603.00500)|null|
@@ -1620,6 +1629,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[2603.03283](http://arxiv.org/abs/2603.03283)|null|
+|**2026-03-03**|**ACE-Brain-0: Spatial Intelligence as a Shared Scaffold for Universal Embodiments**|Ziyang Gong et.al.|[2603.03198](http://arxiv.org/abs/2603.03198)|null|
+|**2026-03-03**|**Real-Time Generative Policy via Langevin-Guided Flow Matching for Autonomous Driving**|Tianze Zhu et.al.|[2603.02613](http://arxiv.org/abs/2603.02613)|null|
+|**2026-03-03**|**VLMFusionOcc3D: VLM Assisted Multi-Modal 3D Semantic Occupancy Prediction**|A. Enes Doruk et.al.|[2603.02609](http://arxiv.org/abs/2603.02609)|null|
+|**2026-03-03**|**CAWM-Mamba: A unified model for infrared-visible image fusion and compound adverse weather restoration**|Huichun Liu et.al.|[2603.02560](http://arxiv.org/abs/2603.02560)|null|
+|**2026-03-03**|**AnchorDrive: LLM Scenario Rollout with Anchor-Guided Diffusion Regeneration for Safety-Critical Scenario Generation**|Zhulin Jiang et.al.|[2603.02542](http://arxiv.org/abs/2603.02542)|null|
+|**2026-03-03**|**EIMC: Efficient Instance-aware Multi-modal Collaborative Perception**|Kang Yang et.al.|[2603.02532](http://arxiv.org/abs/2603.02532)|null|
+|**2026-03-03**|**LLM-MLFFN: Multi-Level Autonomous Driving Behavior Feature Fusion via Large Language Model**|Xiangyu Li et.al.|[2603.02528](http://arxiv.org/abs/2603.02528)|null|
+|**2026-03-03**|**ModalPatch: A Plug-and-Play Module for Robust Multi-Modal 3D Object Detection under Modality Drop**|Shuangzhi Li et.al.|[2603.02481](http://arxiv.org/abs/2603.02481)|null|
+|**2026-03-02**|**TruckDrive: Long-Range Autonomous Highway Driving Dataset**|Filippo Ghilotti et.al.|[2603.02413](http://arxiv.org/abs/2603.02413)|null|
 |**2026-03-02**|**LAD-Drive: Bridging Language and Trajectory with Action-Aware Diffusion Transformers**|Fabian Schmidt et.al.|[2603.02035](http://arxiv.org/abs/2603.02035)|null|
 |**2026-03-02**|**LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**|Yuechen Luo et.al.|[2603.01928](http://arxiv.org/abs/2603.01928)|null|
 |**2026-03-02**|**Streaming Real-Time Trajectory Prediction Using Endpoint-Aware Modeling**|Alexander Prutsch et.al.|[2603.01864](http://arxiv.org/abs/2603.01864)|null|
@@ -3054,12 +3073,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**Beyond Language Modeling: An Exploration of Multimodal Pretraining**|Shengbang Tong et.al.|[2603.03276](http://arxiv.org/abs/2603.03276)|null|
+|**2026-03-03**|**Search for a massless particle beyond the Standard Model in the $Ξ^0\toΛ+ \text{invisible}$ decay**|BESIII Collaboration et.al.|[2603.03199](http://arxiv.org/abs/2603.03199)|null|
+|**2026-03-03**|**MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection**|Jun Yeong Park et.al.|[2603.03101](http://arxiv.org/abs/2603.03101)|null|
+|**2026-03-03**|**CMoE: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots**|Shihao Ma et.al.|[2603.03067](http://arxiv.org/abs/2603.03067)|null|
+|**2026-03-03**|**EduVQA: Benchmarking AI-Generated Video Quality Assessment for Education**|Baoliang Chen et.al.|[2603.03066](http://arxiv.org/abs/2603.03066)|null|
+|**2026-03-03**|**Practical FP4 Training for Large-Scale MoE Models on Hopper GPUs**|Wuyue Zhang et.al.|[2603.02731](http://arxiv.org/abs/2603.02731)|null|
+|**2026-03-03**|**TenExp: Mixture-of-Experts-Based Tensor Decomposition Structure Search Framework**|Ting-Wei Zhou et.al.|[2603.02720](http://arxiv.org/abs/2603.02720)|null|
+|**2026-03-03**|**MiM-DiT: MoE in MoE with Diffusion Transformers for All-in-One Image Restoration**|Lingshun Kong et.al.|[2603.02710](http://arxiv.org/abs/2603.02710)|null|
+|**2026-03-03**|**Addressing Missing and Noisy Modalities in One Solution: Unified Modality-Quality Framework for Low-quality Multimodal Data**|Sijie Mai et.al.|[2603.02695](http://arxiv.org/abs/2603.02695)|null|
+|**2026-03-03**|**Robust Heterogeneous Analog-Digital Computing for Mixture-of-Experts Models with Theoretical Generalization Guarantees**|Mohammed Nowaz Rabbani Chowdhury et.al.|[2603.02633](http://arxiv.org/abs/2603.02633)|null|
 |**2026-03-02**|**Search for the charmonium weak decay $ψ(2S)\to D_s^-π^+ + c.c.$ and $ψ(2S)\to D_s^-ρ^+ + c.c.$**|BESIII Collaboration et.al.|[2603.01777](http://arxiv.org/abs/2603.01777)|null|
 |**2026-03-02**|**DynaMoE: Dynamic Token-Level Expert Activation with Layer-Wise Adaptive Capacity for Mixture-of-Experts Neural Networks**|Gökdeniz Gülmez et.al.|[2603.01697](http://arxiv.org/abs/2603.01697)|null|
 |**2026-03-02**|**PathMoE: Interpretable Multimodal Interaction Experts for Pediatric Brain Tumor Classification**|Jian Yu et.al.|[2603.01547](http://arxiv.org/abs/2603.01547)|null|
 |**2026-03-02**|**Multimodal Mixture-of-Experts with Retrieval Augmentation for Protein Active Site Identification**|Jiayang Wu et.al.|[2603.01511](http://arxiv.org/abs/2603.01511)|null|
 |**2026-03-02**|**DOCFORGE-BENCH: A Comprehensive Benchmark for Document Forgery Detection and Analysis**|Zengqi Zhao et.al.|[2603.01433](http://arxiv.org/abs/2603.01433)|null|
-|**2026-03-02**|**UETrack: A Unified and Efficient Framework for Single Object Tracking**|Ben Kang et.al.|[2603.01412](http://arxiv.org/abs/2603.01412)|null|
+|**2026-03-03**|**UETrack: A Unified and Efficient Framework for Single Object Tracking**|Ben Kang et.al.|[2603.01412](http://arxiv.org/abs/2603.01412)|null|
 |**2026-03-02**|**Fed-GAME: Personalized Federated Learning with Graph Attention Mixture-of-Experts For Time-Series Forecasting**|Yi Li et.al.|[2603.01363](http://arxiv.org/abs/2603.01363)|null|
 |**2026-03-01**|**Truth as a Trajectory: What Internal Representations Reveal About Large Language Model Reasoning**|Hamed Damirchi et.al.|[2603.01326](http://arxiv.org/abs/2603.01326)|null|
 |**2026-03-01**|**Fast Confidence-Aware Human Prediction via Hardware-accelerated Bayesian Inference for Safe Robot Navigation**|Michael Lu et.al.|[2603.01122](http://arxiv.org/abs/2603.01122)|null|
@@ -4071,6 +4100,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-03**|**MaBERT:A Padding Safe Interleaved Transformer Mamba Hybrid Encoder for Efficient Extended Context Masked Language Modeling**|Jinwoong Kim et.al.|[2603.03001](http://arxiv.org/abs/2603.03001)|null|
+|**2026-03-03**|**Retrievit: In-context Retrieval Capabilities of Transformers, State Space Models, and Hybrid Architectures**|Georgios Pantazopoulos et.al.|[2603.02874](http://arxiv.org/abs/2603.02874)|null|
 |**2026-03-02**|**The Expressive Limits of Diagonal SSMs for State-Tracking**|Mehran Shakerinava et.al.|[2603.01959](http://arxiv.org/abs/2603.01959)|null|
 |**2026-03-02**|**Deep Learning for Financial Time Series: A Large-Scale Benchmark of Risk-Adjusted Performance**|Adir Saly-Kaufmann et.al.|[2603.01820](http://arxiv.org/abs/2603.01820)|null|
 |**2026-03-01**|**Efficient Extractive Summarization with MAMBA-Transformer Hybrids for Low-Resource Scenarios**|Nisrine Ait Khayi et.al.|[2603.01288](http://arxiv.org/abs/2603.01288)|null|
