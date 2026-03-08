@@ -21,7 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-03-04**|**PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing**|Rohan Mahadev et.al.|[2603.04598](http://arxiv.org/abs/2603.04598)|null|
+|**2026-03-04**|**PinPoint: Evaluation of Composed Image Retrieval with Explicit Negatives, Multi-Image Queries, and Paraphrase Testing**|Rohan Mahadev et.al.|[2603.04598](http://arxiv.org/abs/2603.04598)|**[link](https://github.com/pinterest/pinpoint-dataset)**|
 |**2026-03-04**|**SSR: A Generic Framework for Text-Aided Map Compression for Localization**|Mohammad Omama et.al.|[2603.04272](http://arxiv.org/abs/2603.04272)|null|
 |**2026-03-04**|**Long-Term Visual Localization in Dynamic Benthic Environments: A Dataset, Footprint-Based Ground Truth, and Visual Place Recognition Benchmark**|Martin Kvisvik Larsen et.al.|[2603.04056](http://arxiv.org/abs/2603.04056)|null|
 |**2026-03-04**|**HE-VPR: Height Estimation Enabled Aerial Visual Place Recognition Against Scale Variance**|Mengfan He et.al.|[2603.04050](http://arxiv.org/abs/2603.04050)|null|
