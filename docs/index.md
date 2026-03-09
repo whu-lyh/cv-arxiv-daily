@@ -68,7 +68,7 @@ layout: default
 |**2026-02-05**|**SDR-CIR: Semantic Debias Retrieval Framework for Training-Free Zero-Shot Composed Image Retrieval**|Yi Sun et.al.|[2602.04451](http://arxiv.org/abs/2602.04451)|null|
 |**2026-02-04**|**Quantile Transfer for Reliable Operating Point Selection in Visual Place Recognition**|Dhyey Manish Rajani et.al.|[2602.04401](http://arxiv.org/abs/2602.04401)|null|
 |**2026-02-04**|**Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement**|Zipeng Zhu et.al.|[2602.04304](http://arxiv.org/abs/2602.04304)|null|
-|**2026-02-03**|**LaVPR: Benchmarking Language and Vision for Place Recognition**|Ofer Idan et.al.|[2602.03253](http://arxiv.org/abs/2602.03253)|null|
+|**2026-02-03**|**LaVPR: Benchmarking Language and Vision for Place Recognition**|Ofer Idan et.al.|[2602.03253](http://arxiv.org/abs/2602.03253)|**[link](https://github.com/oferidan1/LaVPR)**|
 |**2026-02-03**|**ObjEmbed: Towards Universal Multimodal Object Embeddings**|Shenghao Fu et.al.|[2602.01753](http://arxiv.org/abs/2602.01753)|null|
 |**2026-02-02**|**Real-Time Loop Closure Detection in Visual SLAM via NetVLAD and Faiss**|Enguang Fan et.al.|[2602.01673](http://arxiv.org/abs/2602.01673)|null|
 |**2026-02-02**|**ReCALL: Recalibrating Capability Degradation for MLLM-based Composed Image Retrieval**|Tianyu Yang et.al.|[2602.01639](http://arxiv.org/abs/2602.01639)|null|
@@ -632,9 +632,9 @@ layout: default
 |**2025-11-22**|**Two-step Generalized RBF-Generated Finite Difference Method on Manifolds**|Rongji Li et.al.|[2511.18049](http://arxiv.org/abs/2511.18049)|null|
 |**2025-11-21**|**RL-AD-Net: Reinforcement Learning Guided Adaptive Displacement in Latent Space for Refined Point Cloud Completion**|Bhanu Pratap Paregi et.al.|[2511.17054](http://arxiv.org/abs/2511.17054)|null|
 |**2025-11-20**|**CRISTAL: Real-time Camera Registration in Static LiDAR Scans using Neural Rendering**|Joni Vanherck et.al.|[2511.16349](http://arxiv.org/abs/2511.16349)|null|
-|**2025-11-20**|**Simba: Towards High-Fidelity and Geometrically-Consistent Point Cloud Completion via Transformation Diffusion**|Lirui Zhang et.al.|[2511.16161](http://arxiv.org/abs/2511.16161)|null|
+|**2025-11-20**|**Simba: Towards High-Fidelity and Geometrically-Consistent Point Cloud Completion via Transformation Diffusion**|Lirui Zhang et.al.|[2511.16161](http://arxiv.org/abs/2511.16161)|**[link](https://github.com/I2-Multimedia-Lab/Simba)**|
 |**2025-11-20**|**Rad-GS: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments**|Renxiang Xiao et.al.|[2511.16091](http://arxiv.org/abs/2511.16091)|null|
-|**2025-11-19**|**Atlas Gaussian processes on restricted domains and point clouds**|Mu Niu et.al.|[2511.15822](http://arxiv.org/abs/2511.15822)|null|
+|**2025-11-19**|**Atlas Gaussian processes on restricted domains and point clouds**|Mu Niu et.al.|[2511.15822](http://arxiv.org/abs/2511.15822)|**[link](https://github.com/phutq341/PhuDepTrai)**|
 |**2025-11-21**|**The MeerKAT Fornax Survey VI. The collapse of the galaxy HI Mass Function in Fornax**|D. Kleiner et.al.|[2511.15795](http://arxiv.org/abs/2511.15795)|null|
 |**2025-11-19**|**Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2511.15597](http://arxiv.org/abs/2511.15597)|null|
 |**2025-11-19**|**Text2Loc++: Generalizing 3D Point Cloud Localization from Natural Language**|Yan Xia et.al.|[2511.15308](http://arxiv.org/abs/2511.15308)|null|
@@ -750,8 +750,8 @@ layout: default
 |**2025-11-14**|**FreDFT: Frequency Domain Fusion Transformer for Visible-Infrared Object Detection**|Wencong Wu et.al.|[2511.10046](http://arxiv.org/abs/2511.10046)|null|
 |**2025-11-12**|**BronchOpt : Vision-Based Pose Optimization with Fine-Tuned Foundation Models for Accurate Bronchoscopy Navigation**|Hongchao Shu et.al.|[2511.09443](http://arxiv.org/abs/2511.09443)|null|
 |**2025-11-12**|**xHAP: Cross-Modal Attention for Haptic Feedback Estimation in the Tactile Internet**|Georgios Kokkinis et.al.|[2511.09137](http://arxiv.org/abs/2511.09137)|null|
-|**2025-11-11**|**Multi-modal Deepfake Detection and Localization with FPN-Transformer**|Chende Zheng et.al.|[2511.08031](http://arxiv.org/abs/2511.08031)|null|
-|**2025-11-11**|**Cross Modal Fine-grained Alignment via Granularity-aware and Region-uncertain Modeling**|Jiale Liu et.al.|[2511.07710](http://arxiv.org/abs/2511.07710)|null|
+|**2025-11-11**|**Multi-modal Deepfake Detection and Localization with FPN-Transformer**|Chende Zheng et.al.|[2511.08031](http://arxiv.org/abs/2511.08031)|**[link](https://github.com/Zig-HS/MM-DDL)**|
+|**2025-11-11**|**Cross Modal Fine-grained Alignment via Granularity-aware and Region-uncertain Modeling**|Jiale Liu et.al.|[2511.07710](http://arxiv.org/abs/2511.07710)|**[link](https://github.com/H3IIoWorld/GRM)**|
 |**2025-11-10**|**Mono3DVG-EnSD: Enhanced Spatial-aware and Dimension-decoupled Text Encoding for Monocular 3D Visual Grounding**|Yuzhen Li et.al.|[2511.06908](http://arxiv.org/abs/2511.06908)|null|
 |**2025-11-10**|**Semi-distributed Cross-modal Air-Ground Relative Localization**|Weining Lu et.al.|[2511.06749](http://arxiv.org/abs/2511.06749)|null|
 |**2025-11-09**|**Affordance-Guided Coarse-to-Fine Exploration for Base Placement in Open-Vocabulary Mobile Manipulation**|Tzu-Jung Lin et.al.|[2511.06240](http://arxiv.org/abs/2511.06240)|null|
@@ -1081,8 +1081,8 @@ layout: default
 |**2025-12-12**|**3DTeethSAM: Taming SAM2 for 3D Teeth Segmentation**|Zhiguo Lu et.al.|[2512.11557](http://arxiv.org/abs/2512.11557)|null|
 |**2025-12-12**|**Prior-Enhanced Gaussian Splatting for Dynamic Scene Reconstruction from Casual Video**|Meng-Li Shih et.al.|[2512.11356](http://arxiv.org/abs/2512.11356)|null|
 |**2025-12-12**|**Lightweight 3D Gaussian Splatting Compression via Video Codec**|Qi Yang et.al.|[2512.11186](http://arxiv.org/abs/2512.11186)|null|
-|**2025-12-11**|**GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting**|Madhav Agarwal et.al.|[2512.10939](http://arxiv.org/abs/2512.10939)|null|
-|**2025-12-11**|**MoCapAnything: Unified 3D Motion Capture for Arbitrary Skeletons from Monocular Videos**|Kehong Gong et.al.|[2512.10881](http://arxiv.org/abs/2512.10881)|null|
+|**2025-12-11**|**GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting**|Madhav Agarwal et.al.|[2512.10939](http://arxiv.org/abs/2512.10939)|**[link](https://github.com/madhav1ag/GaussianHeadTalk)**|
+|**2025-12-11**|**MoCapAnything: Unified 3D Motion Capture for Arbitrary Skeletons from Monocular Videos**|Kehong Gong et.al.|[2512.10881](http://arxiv.org/abs/2512.10881)|**[link](https://github.com/dengkaile22/MoCapAnythingReproduction)**|
 |**2025-12-11**|**DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting**|Shuyi Zhou et.al.|[2512.10572](http://arxiv.org/abs/2512.10572)|null|
 |**2025-12-11**|**Neural Hamiltonian Deformation Fields for Dynamic Scene Rendering**|Hai-Long Qin et.al.|[2512.10424](http://arxiv.org/abs/2512.10424)|null|
 |**2025-12-11**|**Breaking the Vicious Cycle: Coherent 3D Gaussian Splatting from Sparse and Motion-Blurred Views**|Zhankuo Xu et.al.|[2512.10369](http://arxiv.org/abs/2512.10369)|null|
@@ -1096,7 +1096,7 @@ layout: default
 |**2025-12-10**|**D $^2$ GSLAM: 4D Dynamic Gaussian Splatting SLAM**|Siting Zhu et.al.|[2512.09411](http://arxiv.org/abs/2512.09411)|null|
 |**2025-12-11**|**Relightable and Dynamic Gaussian Avatar Reconstruction from Monocular Video**|Seonghwa Choi et.al.|[2512.09335](http://arxiv.org/abs/2512.09335)|null|
 |**2025-12-10**|**MoRel: Long-Range Flicker-Free 4D Motion Modeling via Anchor Relay-based Bidirectional Blending with Hierarchical Densification**|Sangwoon Kwak et.al.|[2512.09270](http://arxiv.org/abs/2512.09270)|null|
-|**2025-12-09**|**GTAvatar: Bridging Gaussian Splatting and Texture Mapping for Relightable and Editable Gaussian Avatars**|Kelian Baert et.al.|[2512.09162](http://arxiv.org/abs/2512.09162)|null|
+|**2025-12-09**|**GTAvatar: Bridging Gaussian Splatting and Texture Mapping for Relightable and Editable Gaussian Avatars**|Kelian Baert et.al.|[2512.09162](http://arxiv.org/abs/2512.09162)|**[link](https://github.com/KelianB/GTAvatar)**|
 |**2025-12-09**|**OpenMonoGS-SLAM: Monocular Gaussian Splatting SLAM with Open-set Semantics**|Jisang Yoo et.al.|[2512.08625](http://arxiv.org/abs/2512.08625)|null|
 |**2025-12-09**|**On-the-fly Large-scale 3D Reconstruction from Multi-Camera Rigs**|Yijia Guo et.al.|[2512.08498](http://arxiv.org/abs/2512.08498)|null|
 |**2025-12-09**|**Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform**|Yuning Gong et.al.|[2512.08478](http://arxiv.org/abs/2512.08478)|**[link](https://github.com/Visionary-Laboratory/visionary)**|
@@ -1731,7 +1731,7 @@ layout: default
 |**2026-02-15**|**A Comprehensive Survey on Deep Learning-Based LiDAR Super-Resolution for Autonomous Driving**|June Moh Goo et.al.|[2602.15904](http://arxiv.org/abs/2602.15904)|null|
 |**2026-02-17**|**RPT-SR: Regional Prior attention Transformer for infrared image Super-Resolution**|Youngwan Jin et.al.|[2602.15490](http://arxiv.org/abs/2602.15490)|**[link](https://github.com/Yonsei-STL/RPT-SR)**|
 |**2026-02-16**|**Near-Optimal Sample Complexity for Online Constrained MDPs**|Chang Liu et.al.|[2602.15076](http://arxiv.org/abs/2602.15076)|null|
-|**2026-02-16**|**ThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal Imagery**|Ayush Shrivastava et.al.|[2602.14989](http://arxiv.org/abs/2602.14989)|null|
+|**2026-02-16**|**ThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal Imagery**|Ayush Shrivastava et.al.|[2602.14989](http://arxiv.org/abs/2602.14989)|**[link](https://github.com/sustainability-lab/thermeval)**|
 |**2026-02-16**|**DM0: An Embodied-Native Vision-Language-Action Model towards Physical AI**|En Yu et.al.|[2602.14974](http://arxiv.org/abs/2602.14974)|null|
 |**2026-02-16**|**DriveFine: Refining-Augmented Masked Diffusion VLA for Precise and Robust Driving**|Chenxu Dang et.al.|[2602.14577](http://arxiv.org/abs/2602.14577)|null|
 |**2026-02-16**|**Multimodal Covariance Steering in Belief Space with Active Probing and Influence for Autonomous Driving**|Devodita Chakravarty et.al.|[2602.14540](http://arxiv.org/abs/2602.14540)|null|
@@ -2230,7 +2230,7 @@ layout: default
 |**2025-11-18**|**PAVE: An End-to-End Dataset for Production Autonomous Vehicle Evaluation**|Xiangyu Li et.al.|[2511.14185](http://arxiv.org/abs/2511.14185)|null|
 |**2025-11-18**|**RTS-Mono: A Real-Time Self-Supervised Monocular Depth Estimation Method for Real-World Deployment**|Zeyu Cheng et.al.|[2511.14107](http://arxiv.org/abs/2511.14107)|null|
 |**2025-11-18**|**Cosmological dynamics of interacting dark matter-dark energy in generalized Rastall gravity**|Manuel Gonzalez-Espinoza et.al.|[2511.14089](http://arxiv.org/abs/2511.14089)|null|
-|**2025-11-17**|**LoCoBench-Agent: An Interactive Benchmark for LLM Agents in Long-Context Software Engineering**|Jielin Qiu et.al.|[2511.13998](http://arxiv.org/abs/2511.13998)|null|
+|**2025-11-17**|**LoCoBench-Agent: An Interactive Benchmark for LLM Agents in Long-Context Software Engineering**|Jielin Qiu et.al.|[2511.13998](http://arxiv.org/abs/2511.13998)|**[link](https://github.com/SalesforceAIResearch/LoCoBench-Agent)**|
 |**2025-11-17**|**VLMs Guided Interpretable Decision Making for Autonomous Driving**|Xin Hu et.al.|[2511.13881](http://arxiv.org/abs/2511.13881)|null|
 |**2025-11-17**|**In-memory phononic learning toward cognitive mechanical intelligence**|Yuning Zhang et.al.|[2511.13543](http://arxiv.org/abs/2511.13543)|null|
 |**2025-11-17**|**An Automated Framework for Analyzing Structural Evolution in On-the-fly Non-adiabatic Molecular Dynamics Using Autoencoder and Multiple Molecular Descriptors**|Hangxu Liu et.al.|[2511.13364](http://arxiv.org/abs/2511.13364)|null|
@@ -3169,7 +3169,7 @@ layout: default
 |**2026-02-24**|**A Path to an All-Sky Survey with Roman**|Jiwon Jesse Han et.al.|[2602.21280](http://arxiv.org/abs/2602.21280)|null|
 |**2026-02-24**|**On infinite sets with no $3$ on a line**|Moe Putterman et.al.|[2602.21275](http://arxiv.org/abs/2602.21275)|null|
 |**2026-02-24**|**ReviveMoE: Fast Recovery for Hardware Failures in Large-Scale MoE LLM Inference Deployments**|Haley Li et.al.|[2602.21140](http://arxiv.org/abs/2602.21140)|null|
-|**2026-02-24**|**MUSE: Harnessing Precise and Diverse Semantics for Few-Shot Whole Slide Image Classification**|Jiahao Xu et.al.|[2602.20873](http://arxiv.org/abs/2602.20873)|null|
+|**2026-02-24**|**MUSE: Harnessing Precise and Diverse Semantics for Few-Shot Whole Slide Image Classification**|Jiahao Xu et.al.|[2602.20873](http://arxiv.org/abs/2602.20873)|**[link](https://github.com/JiahaoXu-god/CVPR2026_MUSE)**|
 |**2026-02-25**|**GeCo-SRT: Geometry-aware Continual Adaptation for Robotic Cross-Task Sim-to-Real Transfer**|Wenbo Yu et.al.|[2602.20871](http://arxiv.org/abs/2602.20871)|null|
 |**2026-02-24**|**Multi-time Loewner energy: rate function for large deviation**|Mo Chen et.al.|[2602.20642](http://arxiv.org/abs/2602.20642)|null|
 |**2026-02-24**|**Precise Measurement of Matter-Antimatter Asymmetry with Entangled Hyperon Antihyperon Pairs**|BESIII Collaboration et.al.|[2602.20524](http://arxiv.org/abs/2602.20524)|null|
@@ -3329,7 +3329,7 @@ layout: default
 |**2026-02-02**|**MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology**|Susu Hu et.al.|[2602.02282](http://arxiv.org/abs/2602.02282)|null|
 |**2026-02-02**|**Kimi K2.5: Visual Agentic Intelligence**|Kimi Team et.al.|[2602.02276](http://arxiv.org/abs/2602.02276)|null|
 |**2026-02-02**|**vLLM-Omni: Fully Disaggregated Serving for Any-to-Any Multimodal Models**|Peiqi Yin et.al.|[2602.02204](http://arxiv.org/abs/2602.02204)|null|
-|**2026-02-02**|**No Global Plan in Chain-of-Thought: Uncover the Latent Planning Horizon of LLMs**|Liyan Xu et.al.|[2602.02103](http://arxiv.org/abs/2602.02103)|null|
+|**2026-02-02**|**No Global Plan in Chain-of-Thought: Uncover the Latent Planning Horizon of LLMs**|Liyan Xu et.al.|[2602.02103](http://arxiv.org/abs/2602.02103)|**[link](https://github.com/lxucs/tele-lens)**|
 |**2026-02-02**|**Edge-Aligned Initialization of Kernels for Steered Mixture-of-Experts**|Martin Determann et.al.|[2602.02031](http://arxiv.org/abs/2602.02031)|null|
 |**2026-02-02**|**SAME: Stabilized Mixture-of-Experts for Multimodal Continual Instruction Tuning**|Zhen-Hao Xie et.al.|[2602.01990](http://arxiv.org/abs/2602.01990)|null|
 |**2026-02-02**|**Mixture-of-Experts with Intermediate CTC Supervision for Accented Speech Recognition**|Wonjun Lee et.al.|[2602.01967](http://arxiv.org/abs/2602.01967)|null|
@@ -3626,9 +3626,9 @@ layout: default
 |**2025-12-15**|**StutterFuse: Mitigating Modality Collapse in Stuttering Detection with Jaccard-Weighted Metric Learning and Gated Fusion**|Guransh Singh et.al.|[2512.13632](http://arxiv.org/abs/2512.13632)|null|
 |**2025-12-16**|**Janus: Disaggregating Attention and Experts for Scalable MoE Inference**|Zhexiang Zhang et.al.|[2512.13525](http://arxiv.org/abs/2512.13525)|null|
 |**2025-12-15**|**SIGMA: An AI-Empowered Training Stack on Early-Life Hardware**|Lei Qu et.al.|[2512.13488](http://arxiv.org/abs/2512.13488)|null|
-|**2025-12-15**|**Automated Information Flow Selection for Multi-scenario Multi-task Recommendation**|Chaohua Yang et.al.|[2512.13396](http://arxiv.org/abs/2512.13396)|null|
+|**2025-12-15**|**Automated Information Flow Selection for Multi-scenario Multi-task Recommendation**|Chaohua Yang et.al.|[2512.13396](http://arxiv.org/abs/2512.13396)|**[link](https://github.com/ChaohuaYang/AutoIFS)**|
 |**2025-12-15**|**Sharpen the Spec, Cut the Code: A Case for Generative File System with SYSSPEC**|Qingyuan Liu et.al.|[2512.13047](http://arxiv.org/abs/2512.13047)|null|
-|**2025-12-15**|**Safe Control of Multi-Agent Systems with Minimal Communication**|Mo Yang et.al.|[2512.13021](http://arxiv.org/abs/2512.13021)|null|
+|**2025-12-15**|**Safe Control of Multi-Agent Systems with Minimal Communication**|Mo Yang et.al.|[2512.13021](http://arxiv.org/abs/2512.13021)|**[link](https://github.com/Nephren17/multiagent_lowrankctrl)**|
 |**2025-12-15**|**SliceMoE: Bit-Sliced Expert Caching under Miss-Rate Constraints for Efficient MoE Inference**|Yuseon Choi et.al.|[2512.12990](http://arxiv.org/abs/2512.12990)|null|
 |**2025-12-14**|**Fault-Tolerant Sandboxing for AI Coding Agents: A Transactional Approach to Safe Autonomous Execution**|Boyang Yan et.al.|[2512.12806](http://arxiv.org/abs/2512.12806)|null|
 |**2025-12-14**|**Bayesian Optimization Parameter Tuning Framework for a Lyapunov Based Path Following Controller**|Zhewen Zheng et.al.|[2512.12649](http://arxiv.org/abs/2512.12649)|null|
