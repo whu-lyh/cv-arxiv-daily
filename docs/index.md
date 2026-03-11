@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.10
+## Updated on 2026.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Composed Vision-Language Retrieval for Skin Cancer Case Search via Joint Alignment of Global and Local Representations**|Yuheng Wang et.al.|[2603.09108](http://arxiv.org/abs/2603.09108)|null|
 |**2026-03-09**|**Enhancing Cross-View UAV Geolocalization via LVLM-Driven Relational Modeling**|Bowen Liu et.al.|[2603.08063](http://arxiv.org/abs/2603.08063)|null|
 |**2026-03-09**|**$L^3$ :Scene-agnostic Visual Localization in the Wild**|Yu Zhang et.al.|[2603.07937](http://arxiv.org/abs/2603.07937)|null|
 |**2026-03-08**|**Fluctuation imaging of disorder in monolayer semiconductors**|Tom T. C. Sistermans et.al.|[2603.07418](http://arxiv.org/abs/2603.07418)|null|
@@ -810,6 +811,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM**|Anh Thuan Tran et.al.|[2603.09673](http://arxiv.org/abs/2603.09673)|null|
+|**2026-03-10**|**DiffWind: Physics-Informed Differentiable Modeling of Wind-Driven Object Dynamics**|Yuanhang Lei et.al.|[2603.09668](http://arxiv.org/abs/2603.09668)|null|
+|**2026-03-10**|**X-GS: An Extensible Open Framework Unifying 3DGS Architectures with Downstream Multimodal Models**|Yueen Ma et.al.|[2603.09632](http://arxiv.org/abs/2603.09632)|null|
+|**2026-03-10**|**IntroSVG: Learning from Rendering Feedback for Text-to-SVG Generation via an Introspective Generator-Critic Framework**|Feiyu Wang et.al.|[2603.09312](http://arxiv.org/abs/2603.09312)|null|
+|**2026-03-10**|**DenoiseSplat: Feed-Forward Gaussian Splatting for Noisy 3D Scene Reconstruction**|Fuzhen Jiang et.al.|[2603.09291](http://arxiv.org/abs/2603.09291)|null|
+|**2026-03-10**|**Learning Convex Decomposition via Feature Fields**|Yuezhi Yang et.al.|[2603.09285](http://arxiv.org/abs/2603.09285)|null|
+|**2026-03-10**|**Speeding Up the Learning of 3D Gaussians with Much Shorter Gaussian Lists**|Jiaqi Liu et.al.|[2603.09277](http://arxiv.org/abs/2603.09277)|null|
+|**2026-03-09**|**SkipGS: Post-Densification Backward Skipping for Efficient 3DGS Training**|Jingxing Li et.al.|[2603.08997](http://arxiv.org/abs/2603.08997)|null|
+|**2026-03-09**|**SurgCalib: Gaussian Splatting-Based Hand-Eye Calibration for Robot-Assisted Minimally Invasive Surgery**|Zijian Wu et.al.|[2603.08983](http://arxiv.org/abs/2603.08983)|null|
+|**2026-03-09**|**Where, What, Why: Toward Explainable 3D-GS Watermarking**|Mingshu Cai et.al.|[2603.08809](http://arxiv.org/abs/2603.08809)|null|
 |**2026-03-09**|**ImprovedGS+: A High-Performance C++/CUDA Re-Implementation Strategy for 3D Gaussian Splatting**|Jordi Muñoz Vicente et.al.|[2603.08661](http://arxiv.org/abs/2603.08661)|null|
 |**2026-03-09**|**Spherical-GOF: Geometry-Aware Panoramic Gaussian Opacity Fields for 3D Scene Reconstruction**|Zhe Yang et.al.|[2603.08503](http://arxiv.org/abs/2603.08503)|null|
 |**2026-03-09**|**Improving Continual Learning for Gaussian Splatting based Environments Reconstruction on Commercial Off-the-Shelf Edge Devices**|Ivan Zaino et.al.|[2603.08499](http://arxiv.org/abs/2603.08499)|null|
@@ -1649,6 +1660,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**RESBev: Making BEV Perception More Robust**|Lifeng Zhuo et.al.|[2603.09529](http://arxiv.org/abs/2603.09529)|null|
+|**2026-03-10**|**Probing the Reliability of Driving VLMs: From Inconsistent Responses to Grounded Temporal Reasoning**|Chun-Peng Chang et.al.|[2603.09512](http://arxiv.org/abs/2603.09512)|null|
+|**2026-03-10**|**StyleVLA: Driving Style-Aware Vision Language Action Model for Autonomous Driving**|Yuan Gao et.al.|[2603.09482](http://arxiv.org/abs/2603.09482)|null|
+|**2026-03-10**|**EvoDriveVLA: Evolving Autonomous Driving Vision-Language-Action Model via Collaborative Perception-Planning Distillation**|Jiajun Cao et.al.|[2603.09465](http://arxiv.org/abs/2603.09465)|null|
+|**2026-03-10**|**Declarative Scenario-based Testing with RoadLogic**|Ezio Bartocci et.al.|[2603.09455](http://arxiv.org/abs/2603.09455)|null|
+|**2026-03-10**|**Open-World Motion Forecasting**|Nicolas Schischka et.al.|[2603.09420](http://arxiv.org/abs/2603.09420)|null|
+|**2026-03-10**|**Multi-model approach for autonomous driving: A comprehensive study on traffic sign-, vehicle- and lane detection and behavioral cloning**|Kanishkha Jaisankar et.al.|[2603.09255](http://arxiv.org/abs/2603.09255)|null|
+|**2026-03-09**|**Comparative Analysis of Patch Attack on VLM-Based Autonomous Driving Architectures**|David Fernandez et.al.|[2603.08897](http://arxiv.org/abs/2603.08897)|null|
 |**2026-03-09**|**OccTrack360: 4D Panoptic Occupancy Tracking from Surround-View Fisheye Cameras**|Yongzhi Lin et.al.|[2603.08521](http://arxiv.org/abs/2603.08521)|null|
 |**2026-03-09**|**Graph Based Semantic Encoder Decoder Framework for Task Oriented Communications in Connected Autonomous Vehicles**|Soheyb Ribouh et.al.|[2603.08438](http://arxiv.org/abs/2603.08438)|null|
 |**2026-03-09**|**DynamicVGGT: Learning Dynamic Point Maps for 4D Scene Reconstruction in Autonomous Driving**|Zhuolin He et.al.|[2603.08254](http://arxiv.org/abs/2603.08254)|null|
@@ -3130,6 +3149,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants**|Zuhao Zhang et.al.|[2603.09652](http://arxiv.org/abs/2603.09652)|null|
+|**2026-03-10**|**MORE-R1: Guiding LVLM for Multimodal Object-Entity Relation Extraction via Stepwise Reasoning with Reinforcement Learning**|Xiang Yuan et.al.|[2603.09478](http://arxiv.org/abs/2603.09478)|null|
+|**2026-03-10**|**Multi-tasking through quantum annealing**|Jargalsaikhan Artag et.al.|[2603.09468](http://arxiv.org/abs/2603.09468)|null|
+|**2026-03-10**|**Variational Routing: A Scalable Bayesian Framework for Calibrated Mixture-of-Experts Transformers**|Albus Yizhuo Li et.al.|[2603.09453](http://arxiv.org/abs/2603.09453)|null|
+|**2026-03-10**|**Exploring Modality-Aware Fusion and Decoupled Temporal Propagation for Multi-Modal Object Tracking**|Shilei Wang et.al.|[2603.09287](http://arxiv.org/abs/2603.09287)|null|
+|**2026-03-10**|**Acoustic and Semantic Modeling of Emotion in Spoken Language**|Soumya Dutta et.al.|[2603.09212](http://arxiv.org/abs/2603.09212)|null|
+|**2026-03-10**|**GST-VLA: Structured Gaussian Spatial Tokens for 3D Depth-Aware Vision-Language-Action Models**|Md Selim Sarowar et.al.|[2603.09079](http://arxiv.org/abs/2603.09079)|null|
+|**2026-03-09**|**The $qs$ Inequality: Quantifying the Double Penalty of Mixture-of-Experts at Inference**|Vignesh Adhinarayanan et.al.|[2603.08960](http://arxiv.org/abs/2603.08960)|null|
+|**2026-03-09**|**ConFu: Contemplate the Future for Better Speculative Sampling**|Zongyue Qin et.al.|[2603.08899](http://arxiv.org/abs/2603.08899)|null|
 |**2026-03-09**|**Microwave response of electrically driven spins in a three-qubit quantum processor**|Tanner M. Janda et.al.|[2603.08577](http://arxiv.org/abs/2603.08577)|null|
 |**2026-03-09**|**LAR-MoE: Latent-Aligned Routing for Mixture of Experts in Robotic Imitation Learning**|Ariel Rodriguez et.al.|[2603.08476](http://arxiv.org/abs/2603.08476)|null|
 |**2026-03-09**|**Amplitude Analysis of Singly Cabibbo-Suppressed Decay $Λ^{+}_{c}\to p K^{+} K^{-}$**|BESIII Collaboration et.al.|[2603.08469](http://arxiv.org/abs/2603.08469)|null|
@@ -4204,6 +4232,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Compiler-First State Space Duality and Portable $O(1)$ Autoregressive Caching for Inference**|Cosmo Santoni et.al.|[2603.09555](http://arxiv.org/abs/2603.09555)|null|
+|**2026-03-10**|**Exploring Modality-Aware Fusion and Decoupled Temporal Propagation for Multi-Modal Object Tracking**|Shilei Wang et.al.|[2603.09287](http://arxiv.org/abs/2603.09287)|null|
+|**2026-03-10**|**Progressive Split Mamba: Effective State Space Modelling for Image Restoration**|Mohammed Hassanin et.al.|[2603.09171](http://arxiv.org/abs/2603.09171)|null|
+|**2026-03-10**|**Rotation Equivariant Mamba for Vision Tasks**|Zhongchen Zhao et.al.|[2603.09138](http://arxiv.org/abs/2603.09138)|null|
+|**2026-03-10**|**WS-Net: Weak-Signal Representation Learning and Gated Abundance Reconstruction for Hyperspectral Unmixing via State-Space and Weak Signal Attention Fusion**|Zekun Long et.al.|[2603.09037](http://arxiv.org/abs/2603.09037)|null|
+|**2026-03-09**|**Expressivity-Efficiency Tradeoffs for Hybrid Sequence Models**|John Cooper et.al.|[2603.08859](http://arxiv.org/abs/2603.08859)|null|
+|**2026-03-07**|**Permutation-Equivariant 2D State Space Models: Theory and Canonical Architecture for Multivariate Time Series**|Seungwoo Jeong et.al.|[2603.08753](http://arxiv.org/abs/2603.08753)|null|
 |**2026-03-09**|**BuildMamba: A Visual State-Space Based Model for Multi-Task Building Segmentation and Height Estimation from Satellite Images**|Sinan U. Ulu et.al.|[2603.08523](http://arxiv.org/abs/2603.08523)|null|
 |**2026-03-08**|**Dissecting Spectral Granger Causality through Partial Information Decomposition**|Luca Faes et.al.|[2603.07634](http://arxiv.org/abs/2603.07634)|null|
 |**2026-03-07**|**Kinematics-Aware Latent World Models for Data-Efficient Autonomous Driving**|Jiazhuo Li et.al.|[2603.07264](http://arxiv.org/abs/2603.07264)|null|
