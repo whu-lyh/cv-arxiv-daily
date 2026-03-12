@@ -1669,6 +1669,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving**|Shuyao Shang et.al.|[2603.11041](http://arxiv.org/abs/2603.11041)|null|
+|**2026-03-11**|**STADA: Specification-based Testing for Autonomous Driving Agents**|Joy Saha et.al.|[2603.10940](http://arxiv.org/abs/2603.10940)|null|
 |**2026-03-11**|**Evaluating randomized smoothing as a defense against adversarial attacks in trajectory prediction**|Julian F. Schumann et.al.|[2603.10821](http://arxiv.org/abs/2603.10821)|null|
 |**2026-03-11**|**Recover to Predict: Progressive Retrospective Learning for Variable-Length Trajectory Prediction**|Hao Zhou et.al.|[2603.10597](http://arxiv.org/abs/2603.10597)|null|
 |**2026-03-11**|**KnowDiffuser: A Knowledge-Guided Diffusion Planner with LM Reasoning and Prior-Informed Trajectory Initialization**|Fan Ding et.al.|[2603.10441](http://arxiv.org/abs/2603.10441)|null|
