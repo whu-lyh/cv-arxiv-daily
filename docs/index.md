@@ -831,6 +831,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Matryoshka Gaussian Splatting**|Zhilin Guo et.al.|[2603.19234](http://arxiv.org/abs/2603.19234)|null|
+|**2026-03-19**|**Reconstruction Matters: Learning Geometry-Aligned BEV Representation through 3D Gaussian Splatting**|Yiren Lu et.al.|[2603.19193](http://arxiv.org/abs/2603.19193)|null|
+|**2026-03-19**|**GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning**|Yiren Lu et.al.|[2603.19137](http://arxiv.org/abs/2603.19137)|null|
+|**2026-03-19**|**GHOST: Fast Category-agnostic Hand-Object Interaction Reconstruction from RGB Videos using Gaussian Splatting**|Ahmed Tawfik Aboukhadra et.al.|[2603.18912](http://arxiv.org/abs/2603.18912)|null|
 |**2026-03-19**|**From ex(p) to poly: Gaussian Splatting with Polynomial Kernels**|Joerg H. Mueller et.al.|[2603.18707](http://arxiv.org/abs/2603.18707)|null|
 |**2026-03-19**|**OnlinePG: Online Open-Vocabulary Panoptic Mapping with 3D Gaussian Splatting**|Hongjia Zhai et.al.|[2603.18510](http://arxiv.org/abs/2603.18510)|null|
 |**2026-03-19**|**Inst4DGS: Instance-Decomposed 4D Gaussian Splatting with Multi-Video Label Permutation Learning**|Yonghan Lee et.al.|[2603.18402](http://arxiv.org/abs/2603.18402)|null|
@@ -1726,6 +1730,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding**|Dong Zhuo et.al.|[2603.19219](http://arxiv.org/abs/2603.19219)|null|
+|**2026-03-19**|**Reconstruction Matters: Learning Geometry-Aligned BEV Representation through 3D Gaussian Splatting**|Yiren Lu et.al.|[2603.19193](http://arxiv.org/abs/2603.19193)|null|
+|**2026-03-19**|**Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving**|Huiwen Yan et.al.|[2603.19188](http://arxiv.org/abs/2603.19188)|null|
 |**2026-03-19**|**Bridging Network Fragmentation: A Semantic-Augmented DRL Framework for UAV-aided VANETs**|Gaoxiang Cao et.al.|[2603.18871](http://arxiv.org/abs/2603.18871)|null|
 |**2026-03-19**|**Student views in AI Ethics and Social Impact**|Tudor-Dan Mihoc et.al.|[2603.18827](http://arxiv.org/abs/2603.18827)|null|
 |**2026-03-19**|**Benchmarking Visual Feature Representations for LiDAR-Inertial-Visual Odometry Under Challenging Conditions**|Eunseon Choi et.al.|[2603.18589](http://arxiv.org/abs/2603.18589)|null|
@@ -3286,6 +3293,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation**|Zhuolin Yang et.al.|[2603.19220](http://arxiv.org/abs/2603.19220)|null|
+|**2026-03-19**|**DyMoE: Dynamic Expert Orchestration with Mixed-Precision Quantization for Efficient MoE Inference on Edge**|Yuegui Huang et.al.|[2603.19172](http://arxiv.org/abs/2603.19172)|null|
+|**2026-03-19**|**ATG-MoE: Autoregressive trajectory generation with mixture-of-experts for assembly skill learning**|Weihang Huang et.al.|[2603.19029](http://arxiv.org/abs/2603.19029)|null|
+|**2026-03-19**|**GWTC-4.0: Tests of General Relativity. III. Tests of the Remnants**|The LIGO Scientific Collaboration et.al.|[2603.19021](http://arxiv.org/abs/2603.19021)|null|
+|**2026-03-19**|**GWTC-4.0: Tests of General Relativity. II. Parameterized Tests**|The LIGO Scientific Collaboration et.al.|[2603.19020](http://arxiv.org/abs/2603.19020)|null|
+|**2026-03-19**|**GWTC-4.0: Tests of General Relativity. I. Overview and General Tests**|The LIGO Scientific Collaboration et.al.|[2603.19019](http://arxiv.org/abs/2603.19019)|null|
 |**2026-03-19**|**DriftGuard: Mitigating Asynchronous Data Drift in Federated Learning**|Yizhou Han et.al.|[2603.18872](http://arxiv.org/abs/2603.18872)|null|
 |**2026-03-19**|**Empathetic Motion Generation for Humanoid Educational Robots via Reasoning-Guided Vision--Language--Motion Diffusion Architecture**|Fuze Sun et.al.|[2603.18771](http://arxiv.org/abs/2603.18771)|null|
 |**2026-03-19**|**Observation of $D_s^+ \to a_0(980)^+f_0(500)$ in the Amplitude Analysis of $D_s^+ \to π^+ π^0 π^0 η$**|BESIII Collaboration et.al.|[2603.18521](http://arxiv.org/abs/2603.18521)|null|
@@ -4439,6 +4452,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders**|Shang-Jui Ray Kuo et.al.|[2603.19209](http://arxiv.org/abs/2603.19209)|null|
+|**2026-03-19**|**The Exponentially Weighted Signature**|Alexandre Bloch et.al.|[2603.19198](http://arxiv.org/abs/2603.19198)|null|
+|**2026-03-19**|**LuMamba: Latent Unified Mamba for Electrode Topology-Invariant and Efficient EEG Modeling**|Danaé Broustail et.al.|[2603.19100](http://arxiv.org/abs/2603.19100)|null|
 |**2026-03-19**|**DA-Mamba: Learning Domain-Aware State Space Model for Global-Local Alignment in Domain Adaptive Object Detection**|Haochen Li et.al.|[2603.18757](http://arxiv.org/abs/2603.18757)|null|
 |**2026-03-19**|**Deceiving Flexibility: A Stealthy False Data Injection Model in Vehicle-to-Grid Coordination**|Kaan T. Gun et.al.|[2603.18424](http://arxiv.org/abs/2603.18424)|null|
 |**2026-03-18**|**Atomic Trajectory Modeling with State Space Models for Biomolecular Dynamics**|Liang Shi et.al.|[2603.17633](http://arxiv.org/abs/2603.17633)|null|
@@ -5146,6 +5162,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**GWTC-4.0: Tests of General Relativity. III. Tests of the Remnants**|The LIGO Scientific Collaboration et.al.|[2603.19021](http://arxiv.org/abs/2603.19021)|null|
+|**2026-03-19**|**GWTC-4.0: Tests of General Relativity. II. Parameterized Tests**|The LIGO Scientific Collaboration et.al.|[2603.19020](http://arxiv.org/abs/2603.19020)|null|
+|**2026-03-19**|**GWTC-4.0: Tests of General Relativity. I. Overview and General Tests**|The LIGO Scientific Collaboration et.al.|[2603.19019](http://arxiv.org/abs/2603.19019)|null|
 |**2026-03-17**|**Spectral Property-Driven Data Augmentation for Hyperspectral Single-Source Domain Generalization**|Taiqin Chen et.al.|[2603.16662](http://arxiv.org/abs/2603.16662)|null|
 |**2026-03-17**|**3D Fourier-based Global Feature Extraction for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2603.16426](http://arxiv.org/abs/2603.16426)|null|
 |**2026-03-16**|**HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions**|Yukang Cao et.al.|[2603.15612](http://arxiv.org/abs/2603.15612)|null|
