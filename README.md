@@ -1,4 +1,4 @@
-## Updated on 2026.03.28
+## Updated on 2026.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -555,11 +555,11 @@
 |**2025-10-25**|**Cross-Platform Short-Video Diplomacy: Topic and Sentiment Analysis of China-US Relations on Douyin and TikTok**|Zheng Wei et.al.|[2510.22415](http://arxiv.org/abs/2510.22415)|null|
 |**2025-10-24**|**BioCAP: Exploiting Synthetic Captions Beyond Labels in Biological Foundation Models**|Ziheng Zhang et.al.|[2510.20095](http://arxiv.org/abs/2510.20095)|null|
 |**2025-10-18**|**Small Language Models Offer Significant Potential for Science Community**|Jian Zhang et.al.|[2510.18890](http://arxiv.org/abs/2510.18890)|null|
-|**2025-10-21**|**Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection**|Ji Du et.al.|[2510.18437](http://arxiv.org/abs/2510.18437)|null|
+|**2025-10-21**|**Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection**|Ji Du et.al.|[2510.18437](http://arxiv.org/abs/2510.18437)|**[link](https://github.com/xiaohainku/RISE)**|
 |**2025-10-21**|**ImageGem: In-the-wild Generative Image Interaction Dataset for Generative Model Personalization**|Yuanhe Guo et.al.|[2510.18433](http://arxiv.org/abs/2510.18433)|null|
 |**2025-10-21**|**DualHash: A Stochastic Primal-Dual Algorithm with Theoretical Guarantee for Deep Hashing**|Luxuan Li et.al.|[2510.18218](http://arxiv.org/abs/2510.18218)|null|
 |**2025-10-20**|**Joint Multi-Condition Representation Modelling via Matrix Factorisation for Visual Place Recognition**|Timur Ismagilov et.al.|[2510.17739](http://arxiv.org/abs/2510.17739)|null|
-|**2025-10-18**|**iWatchRoadv2: Pothole Detection, Geospatial Mapping, and Intelligent Road Governance**|Rishi Raj Sahoo et.al.|[2510.16375](http://arxiv.org/abs/2510.16375)|null|
+|**2025-10-18**|**iWatchRoadv2: Pothole Detection, Geospatial Mapping, and Intelligent Road Governance**|Rishi Raj Sahoo et.al.|[2510.16375](http://arxiv.org/abs/2510.16375)|**[link](https://github.com/codewithRiC/iWatchRoadv2)**|
 |**2025-10-16**|**Acquisition of interpretable domain information during brain MR image harmonization for content-based image retrieval**|Keima Abe et.al.|[2510.14535](http://arxiv.org/abs/2510.14535)|null|
 |**2025-10-15**|**Through the Lens of Doubt: Robust and Efficient Uncertainty Estimation for Visual Place Recognition**|Emily Miller et.al.|[2510.13464](http://arxiv.org/abs/2510.13464)|null|
 |**2025-10-15**|**Mobile Coverage Analysis using Crowdsourced Data**|Timothy Wong et.al.|[2510.13459](http://arxiv.org/abs/2510.13459)|null|
@@ -655,7 +655,7 @@
 |**2018-05-16**|**Visual Global Localization with a Hybrid WNN-CNN Approach**|Avelino Forechi et.al.|[1805.03183](http://arxiv.org/abs/1805.03183)|**[link](https://github.com/LCAD-UFES/WNN-CNN-GL)**|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|null|
 
-<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
 
 ## Point Cloud Place Recognition
 
@@ -760,7 +760,7 @@
 |**2020-08-04**|**PIC-Net: Point Cloud and Image Collaboration Network for Large-Scale Place Recognition**|Yuheng Lu et.al.|[2008.00658](http://arxiv.org/abs/2008.00658)|null|
 |**2020-07-06**|**LOL: Lidar-Only Odometry and Localization in 3D Point Cloud Maps**|David Rozenberszki et.al.|[2007.01595](http://arxiv.org/abs/2007.01595)|**[link](https://github.com/RozDavid/LOL)**|
 
-<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
 
 ## Cross-modality Localization
 
@@ -860,7 +860,7 @@
 |**2021-07-28**|**Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization**|Fa-Ting Hong et.al.|[2107.12589](http://arxiv.org/abs/2107.12589)|null|
 |**2020-09-15**|**RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization**|Niluthpol Chowdhury Mithun et.al.|[2009.05695](http://arxiv.org/abs/2009.05695)|null|
 
-<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
 
 ## 3D GS
 
@@ -1801,7 +1801,7 @@
 |**2024-03-26**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095](http://arxiv.org/abs/2403.16095)|null|
 |**2024-04-09**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700](http://arxiv.org/abs/2311.11700)|null|
 
-<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -2613,10 +2613,10 @@
 |**2025-11-09**|**A Low-Rank Method for Vision Language Model Hallucination Mitigation in Autonomous Driving**|Keke Long et.al.|[2511.06496](http://arxiv.org/abs/2511.06496)|null|
 |**2025-11-09**|**VDNeRF: Vision-only Dynamic Neural Radiance Field for Urban Scenes**|Zhengyu Zou et.al.|[2511.06408](http://arxiv.org/abs/2511.06408)|null|
 |**2025-11-09**|**LaneDiffusion: Improving Centerline Graph Learning via Prior Injected BEV Feature Generation**|Zijie Wang et.al.|[2511.06272](http://arxiv.org/abs/2511.06272)|null|
-|**2025-11-09**|**VLDrive: Vision-Augmented Lightweight MLLMs for Efficient Language-grounded Autonomous Driving**|Ruifei Zhang et.al.|[2511.06256](http://arxiv.org/abs/2511.06256)|null|
-|**2025-11-09**|**AdaDrive: Self-Adaptive Slow-Fast System for Language-Grounded Autonomous Driving**|Ruifei Zhang et.al.|[2511.06253](http://arxiv.org/abs/2511.06253)|null|
+|**2025-11-09**|**VLDrive: Vision-Augmented Lightweight MLLMs for Efficient Language-grounded Autonomous Driving**|Ruifei Zhang et.al.|[2511.06256](http://arxiv.org/abs/2511.06256)|**[link](https://github.com/ReaFly/VLDrive)**|
+|**2025-11-09**|**AdaDrive: Self-Adaptive Slow-Fast System for Language-Grounded Autonomous Driving**|Ruifei Zhang et.al.|[2511.06253](http://arxiv.org/abs/2511.06253)|**[link](https://github.com/ReaFly/AdaDrive)**|
 |**2025-11-09**|**ROAR: Robust Accident Recognition and Anticipation for Autonomous Driving**|Xingcheng Liu et.al.|[2511.06226](http://arxiv.org/abs/2511.06226)|null|
-|**2025-11-08**|**Hybrid CNN-ViT Framework for Motion-Blurred Scene Text Restoration**|Umar Rashid et.al.|[2511.06087](http://arxiv.org/abs/2511.06087)|null|
+|**2025-11-08**|**Hybrid CNN-ViT Framework for Motion-Blurred Scene Text Restoration**|Umar Rashid et.al.|[2511.06087](http://arxiv.org/abs/2511.06087)|**[link](https://github.com/M-ArslanArshad/hybrid-cnn-vit-deblurring-summary)**|
 |**2025-11-08**|**Runtime Safety Monitoring of Deep Neural Networks for Perception: A Survey**|Albert Schotschneider et.al.|[2511.05982](http://arxiv.org/abs/2511.05982)|null|
 |**2025-11-08**|**Polymap: generating high definition map based on rasterized polygons**|Shiyu Gao et.al.|[2511.05944](http://arxiv.org/abs/2511.05944)|null|
 |**2025-11-07**|**SnowyLane: Robust Lane Detection on Snow-covered Rural Roads Using Infrastructural Elements**|Jörg Gamerdinger et.al.|[2511.05108](http://arxiv.org/abs/2511.05108)|null|
@@ -2969,7 +2969,7 @@
 |**2019-09-18**|**A*3D Dataset: Towards Autonomous Driving in Challenging Environments**|Quang-Hieu Pham et.al.|[1909.07541](http://arxiv.org/abs/1909.07541)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
 
 ## Map
 
@@ -3343,7 +3343,7 @@
 |**2015-06-15**|**Maximum Likelihood Fusion of Stochastic Maps**|Brandon Jones et.al.|[1303.6170](http://arxiv.org/abs/1303.6170)|null|
 |**2008-03-13**|**Quantum Reference Frames and the Classification of Rotationally-Invariant Maps**|J. -C. Boileau et.al.|[0709.0142](http://arxiv.org/abs/0709.0142)|null|
 
-<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
 
 ## Non-rigid Registration
 
@@ -3413,7 +3413,7 @@
 |**2013-04-15**|**Local Structure Matching Driven by Joint-Saliency-Structure Adaptive Kernel Regression**|Binjie Qin et.al.|[1302.0494](http://arxiv.org/abs/1302.0494)|null|
 |**2011-04-22**|**A Meshless Method for Variational Nonrigid 2-D Shape Registration**|Wei Liu et.al.|[1104.4168](http://arxiv.org/abs/1104.4168)|null|
 
-<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
 
 ## MoE
 
@@ -4523,7 +4523,7 @@
 |**2025-09-23**|**PIE: Perception and Interaction Enhanced End-to-End Motion Planning for Autonomous Driving**|Chengran Yuan et.al.|[2509.18609](http://arxiv.org/abs/2509.18609)|null|
 |**2025-09-23**|**Symphony-MoE: Harmonizing Disparate Pre-trained Models into a Coherent Mixture-of-Experts**|Qi Wang et.al.|[2509.18542](http://arxiv.org/abs/2509.18542)|null|
 |**2025-09-23**|**StableGuard: Towards Unified Copyright Protection and Tamper Localization in Latent Diffusion Models**|Haoxin Yang et.al.|[2509.17993](http://arxiv.org/abs/2509.17993)|null|
-|**2025-09-23**|**Optimizing Inference in Transformer-Based Models: A Multi-Method Benchmark**|Siu Hang Ho et.al.|[2509.17894](http://arxiv.org/abs/2509.17894)|null|
+|**2025-09-23**|**Optimizing Inference in Transformer-Based Models: A Multi-Method Benchmark**|Siu Hang Ho et.al.|[2509.17894](http://arxiv.org/abs/2509.17894)|**[link](https://github.com/ARTIFACT-CX/DiT-optimizations-benchmark)**|
 |**2025-09-22**|**Expert-as-a-Service: Towards Efficient, Scalable, and Robust Large-scale MoE Serving**|Ziming Liu et.al.|[2509.17863](http://arxiv.org/abs/2509.17863)|null|
 |**2025-09-22**|**SSNet: Flexible and robust channel extrapolation for fluid antenna systems enabled by an self-supervised learning framework**|Yuan Gao et.al.|[2509.17797](http://arxiv.org/abs/2509.17797)|null|
 |**2025-09-22**|**Qwen3-Omni Technical Report**|Jin Xu et.al.|[2509.17765](http://arxiv.org/abs/2509.17765)|null|
@@ -4625,7 +4625,7 @@
 |**2023-04-25**|**Pipeline MoE: A Flexible MoE Implementation with Pipeline Parallelism**|Xin Chen et.al.|[2304.11414](http://arxiv.org/abs/2304.11414)|null|
 |**2018-06-22**|**Mixtures of Experts Models**|Isobel Claire Gormley et.al.|[1806.08200](http://arxiv.org/abs/1806.08200)|**[link](https://github.com/deepseek-ai/DeepSeek-VL2)**|
 
-<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
 
 ## Mamba
 
@@ -5353,7 +5353,7 @@
 |**2024-11-26**|**PointMamba: A Simple State Space Model for Point Cloud Analysis**|Dingkang Liang et.al.|[2402.10739](http://arxiv.org/abs/2402.10739)|**[link](https://github.com/LMD0311/PointMamba)**|
 |**2024-11-15**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|**[link](https://github.com/hustvl/Vim)**|
 
-<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
 
 ## HSI Classification
 
@@ -5516,5 +5516,5 @@
 |**2016-06-17**|**Combining multiscale features for classification of hyperspectral images: a sequence based kernel approach**|Yanwei Cui et.al.|[1606.04985](http://arxiv.org/abs/1606.04985)|null|
 |**2015-04-30**|**Robust hyperspectral image classification with rejection fields**|Filipe Condessa et.al.|[1504.07918](http://arxiv.org/abs/1504.07918)|null|
 
-<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
 
