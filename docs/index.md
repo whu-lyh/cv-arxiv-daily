@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.04
+## Updated on 2026.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-03-31**|**EarthEmbeddingExplorer: A Web Application for Cross-Modal Retrieval of Global Satellite Images**|Yijie Zheng et.al.|[2603.29441](http://arxiv.org/abs/2603.29441)|null|
-|**2026-03-31**|**MELT: Improve Composed Image Retrieval via the Modification Frequentation-Rarity Balance Network**|Guozhi Qiu et.al.|[2603.29291](http://arxiv.org/abs/2603.29291)|**[link](https://github.com/luckylittlezhi/MELT)**|
+|**2026-03-31**|**MELT: Improve Composed Image Retrieval via the Modification Frequentation-Rarity Balance Network**|Guozhi Qiu et.al.|[2603.29291](http://arxiv.org/abs/2603.29291)|**[link](https://github.com/iLearn-Lab/ICASSP26-MELT)**|
 |**2026-03-30**|**The Problem of Dynamic Spatial Sampling and Geofence Surveillance**|Marty Davidson et.al.|[2603.28958](http://arxiv.org/abs/2603.28958)|null|
 |**2026-03-29**|**RHO: Robust Holistic OSM-Based Metric Cross-View Geo-Localization**|Junwei Zheng et.al.|[2603.27758](http://arxiv.org/abs/2603.27758)|**[link](https://github.com/AtmanDai/RHO)**|
 |**2026-03-29**|**NeedleDB: A Generative-AI Based System for Accurate and Efficient Image Retrieval using Complex Natural Language Queries**|Mahdi Erfanian et.al.|[2603.27464](http://arxiv.org/abs/2603.27464)|null|
@@ -859,7 +859,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-02**|**GEMM-GS: Accelerating 3D Gaussian Splatting on Tensor Cores with GEMM-Compatible Blending**|Haomin Li et.al.|[2604.02120](http://arxiv.org/abs/2604.02120)|null|
+|**2026-04-02**|**GEMM-GS: Accelerating 3D Gaussian Splatting on Tensor Cores with GEMM-Compatible Blending**|Haomin Li et.al.|[2604.02120](http://arxiv.org/abs/2604.02120)|**[link](https://github.com/shieldforever/GEMM-GS)**|
 |**2026-04-02**|**ProDiG: Progressive Diffusion-Guided Gaussian Splatting for Aerial to Ground Reconstruction**|Sirshapan Mitra et.al.|[2604.02003](http://arxiv.org/abs/2604.02003)|null|
 |**2026-04-02**|**Resonance4D: Frequency-Domain Motion Supervision for Preset-Free Physical Parameter Learning in 4D Dynamic Physical Scene Simulation**|Changshe Zhang et.al.|[2604.01994](http://arxiv.org/abs/2604.01994)|null|
 |**2026-04-02**|**GS^2: Graph-based Spatial Distribution Optimization for Compact 3D Gaussian Splatting**|Xianben Yang et.al.|[2604.01884](http://arxiv.org/abs/2604.01884)|null|
