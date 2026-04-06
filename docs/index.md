@@ -693,9 +693,9 @@ layout: default
 |**2025-11-19**|**Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2511.15597](http://arxiv.org/abs/2511.15597)|null|
 |**2025-11-19**|**Text2Loc++: Generalizing 3D Point Cloud Localization from Natural Language**|Yan Xia et.al.|[2511.15308](http://arxiv.org/abs/2511.15308)|null|
 |**2025-11-18**|**NeuralBoneReg: A Novel Self-Supervised Method for Robust and Accurate Multi-Modal Bone Surface Registration**|Luohong Wu et.al.|[2511.14286](http://arxiv.org/abs/2511.14286)|null|
-|**2025-11-17**|**Part-X-MLLM: Part-aware 3D Multimodal Large Language Model**|Chunshi Wang et.al.|[2511.13647](http://arxiv.org/abs/2511.13647)|null|
+|**2025-11-17**|**Part-X-MLLM: Part-aware 3D Multimodal Large Language Model**|Chunshi Wang et.al.|[2511.13647](http://arxiv.org/abs/2511.13647)|**[link](https://github.com/AiEson/Part-X-MLLM)**|
 |**2025-11-18**|**ArtiWorld: LLM-Driven Articulation of 3D Objects in Scenes**|Yixuan Yang et.al.|[2511.12977](http://arxiv.org/abs/2511.12977)|null|
-|**2025-11-12**|**Task-Aware 3D Affordance Segmentation via 2D Guidance and Geometric Refinement**|Lian He et.al.|[2511.11702](http://arxiv.org/abs/2511.11702)|null|
+|**2025-11-12**|**Task-Aware 3D Affordance Segmentation via 2D Guidance and Geometric Refinement**|Lian He et.al.|[2511.11702](http://arxiv.org/abs/2511.11702)|**[link](https://github.com/LianHe00/TASA-main)**|
 |**2025-11-18**|**LoG3D: Ultra-High-Resolution 3D Shape Modeling via Local-to-Global Partitioning**|Xinran Yang et.al.|[2511.10040](http://arxiv.org/abs/2511.10040)|null|
 |**2025-11-13**|**AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models**|Xinyi Wang et.al.|[2511.10017](http://arxiv.org/abs/2511.10017)|null|
 |**2025-11-12**|**PALMS+: Modular Image-Based Floor Plan Localization Leveraging Depth Foundation Model**|Yunqian Cheng et.al.|[2511.09724](http://arxiv.org/abs/2511.09724)|**[link](https://github.com/Head-inthe-Cloud/PALMS-Plane-based-Accessible-Indoor-Localization-Using-Mobile-Smartphones)**|
@@ -1264,9 +1264,9 @@ layout: default
 |**2025-12-23**|**Enhancing annotations for 5D apple pose estimation through 3D Gaussian Splatting (3DGS)**|Robert van de Ven et.al.|[2512.20148](http://arxiv.org/abs/2512.20148)|null|
 |**2025-12-25**|**Dreamcrafter: Immersive Editing of 3D Radiance Fields Through Flexible, Generative Inputs and Outputs**|Cyrus Vachha et.al.|[2512.20129](http://arxiv.org/abs/2512.20129)|null|
 |**2025-12-22**|**WorldWarp: Propagating 3D Geometry with Asynchronous Video Diffusion**|Hanyang Kong et.al.|[2512.19678](http://arxiv.org/abs/2512.19678)|null|
-|**2025-12-22**|**4D Gaussian Splatting as a Learned Dynamical System**|Arnold Caleb Asiimwe et.al.|[2512.19648](http://arxiv.org/abs/2512.19648)|null|
+|**2025-12-22**|**4D Gaussian Splatting as a Learned Dynamical System**|Arnold Caleb Asiimwe et.al.|[2512.19648](http://arxiv.org/abs/2512.19648)|**[link](https://github.com/arnold-caleb/evogs)**|
 |**2025-12-22**|**GaussianImage++: Boosted Image Representation and Compression with 2D Gaussian Splatting**|Tiantian Li et.al.|[2512.19108](http://arxiv.org/abs/2512.19108)|**[link](https://github.com/Sweethyh/GaussianImage_plus)**|
-|**2025-12-21**|**EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images**|Jongmin Park et.al.|[2512.18692](http://arxiv.org/abs/2512.18692)|null|
+|**2025-12-21**|**EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images**|Jongmin Park et.al.|[2512.18692](http://arxiv.org/abs/2512.18692)|**[link](https://github.com/KAIST-VICLab/EcoSplat)**|
 |**2025-12-21**|**Geometric-Photometric Event-based 3D Gaussian Ray Tracing**|Kai Kohyama et.al.|[2512.18640](http://arxiv.org/abs/2512.18640)|null|
 |**2025-12-21**|**ChronoDreamer: Action-Conditioned World Model as an Online Simulator for Robotic Planning**|Zhenhao Zhou et.al.|[2512.18619](http://arxiv.org/abs/2512.18619)|null|
 |**2025-12-20**|**MatSpray: Fusing 2D Material World Knowledge on 3D Geometry**|Philipp Langsteiner et.al.|[2512.18314](http://arxiv.org/abs/2512.18314)|null|
@@ -2023,8 +2023,8 @@ layout: default
 |**2026-03-09**|**Graph Based Semantic Encoder Decoder Framework for Task Oriented Communications in Connected Autonomous Vehicles**|Soheyb Ribouh et.al.|[2603.08438](http://arxiv.org/abs/2603.08438)|null|
 |**2026-03-09**|**DynamicVGGT: Learning Dynamic Point Maps for 4D Scene Reconstruction in Autonomous Driving**|Zhuolin He et.al.|[2603.08254](http://arxiv.org/abs/2603.08254)|null|
 |**2026-03-09**|**ALOOD: Exploiting Language Representations for LiDAR-based Out-of-Distribution Object Detection**|Michael Kösel et.al.|[2603.08180](http://arxiv.org/abs/2603.08180)|null|
-|**2026-03-09**|**SAMoE-VLA: A Scene Adaptive Mixture-of-Experts Vision-Language-Action Model for Autonomous Driving**|Zihan You et.al.|[2603.08113](http://arxiv.org/abs/2603.08113)|null|
-|**2026-03-09**|**RLPR: Radar-to-LiDAR Place Recognition via Two-Stage Asymmetric Cross-Modal Alignment for Autonomous Driving**|Zhangshuo Qi et.al.|[2603.07920](http://arxiv.org/abs/2603.07920)|null|
+|**2026-03-09**|**SAMoE-VLA: A Scene Adaptive Mixture-of-Experts Vision-Language-Action Model for Autonomous Driving**|Zihan You et.al.|[2603.08113](http://arxiv.org/abs/2603.08113)|**[link](https://github.com/ZihanYou/SAMoE-VLA)**|
+|**2026-03-09**|**RLPR: Radar-to-LiDAR Place Recognition via Two-Stage Asymmetric Cross-Modal Alignment for Autonomous Driving**|Zhangshuo Qi et.al.|[2603.07920](http://arxiv.org/abs/2603.07920)|**[link](https://github.com/QiZS-BIT/RLPR)**|
 |**2026-03-09**|**NaviDriveVLM: Decoupling High-Level Reasoning and Motion Planning for Autonomous Driving**|Ximeng Tao et.al.|[2603.07901](http://arxiv.org/abs/2603.07901)|null|
 |**2026-03-09**|**Toward Unified Multimodal Representation Learning for Autonomous Driving**|Ximeng Tao et.al.|[2603.07874](http://arxiv.org/abs/2603.07874)|null|
 |**2026-03-08**|**4DRC-OCC: Robust Semantic Occupancy Prediction Through Fusion of 4D Radar and Camera**|David Ninfa et.al.|[2603.07794](http://arxiv.org/abs/2603.07794)|null|
@@ -5311,7 +5311,7 @@ layout: default
 |**2025-11-14**|**Coherent-state path integrals in quantum thermodynamics**|Luca Salasnich et.al.|[2511.11547](http://arxiv.org/abs/2511.11547)|null|
 |**2025-11-14**|**Bridging Hidden States in Vision-Language Models**|Benjamin Fein-Ashley et.al.|[2511.11526](http://arxiv.org/abs/2511.11526)|null|
 |**2025-11-14**|**Rethinking Progression of Memory State in Robotic Manipulation: An Object-Centric Perspective**|Nhat Chung et.al.|[2511.11478](http://arxiv.org/abs/2511.11478)|null|
-|**2025-11-14**|**Unsupervised Motion-Compensated Decomposition for Cardiac MRI Reconstruction via Neural Representation**|Xuanyu Tian et.al.|[2511.11436](http://arxiv.org/abs/2511.11436)|null|
+|**2025-11-14**|**Unsupervised Motion-Compensated Decomposition for Cardiac MRI Reconstruction via Neural Representation**|Xuanyu Tian et.al.|[2511.11436](http://arxiv.org/abs/2511.11436)|**[link](https://github.com/MeijiTian/MoCo-INR)**|
 |**2025-11-14**|**Lorentz Transformation in Quantum Mechanics**|Marcello Baldo et.al.|[2511.11342](http://arxiv.org/abs/2511.11342)|null|
 |**2025-11-14**|**BOA Constrictor: A Mamba-based lossless compressor for High Energy Physics data**|Akshat Gupta et.al.|[2511.11337](http://arxiv.org/abs/2511.11337)|null|
 |**2025-11-14**|**RLSLM: A Hybrid Reinforcement Learning Framework Aligning Rule-Based Social Locomotion Model with Human Social Norms**|Yitian Kou et.al.|[2511.11323](http://arxiv.org/abs/2511.11323)|null|
@@ -5524,7 +5524,7 @@ layout: default
 |**2026-03-26**|**Narrowband searches for continuous gravitational waves from known pulsars in the first two parts of the fourth LIGO--Virgo--KAGRA observing run**|The LIGO Scientific Collaboration et.al.|[2603.25938](http://arxiv.org/abs/2603.25938)|null|
 |**2026-04-02**|**Searches for Continuous Gravitational Waves from Supernova Remnants in the first part of the LIGO-Virgo-KAGRA Fourth Observing run**|The LIGO Scientific Collaboration et.al.|[2603.25808](http://arxiv.org/abs/2603.25808)|null|
 |**2026-03-26**|**Challenges in Hyperspectral Imaging for Autonomous Driving: The HSI-Drive Case**|Koldo Basterretxea et.al.|[2603.25510](http://arxiv.org/abs/2603.25510)|null|
-|**2026-03-26**|**Underdetermined Blind Source Separation via Weighted Simplex Shrinkage Regularization and Quantum Deep Image Prior**|Chia-Hsiang Lin et.al.|[2603.25384](http://arxiv.org/abs/2603.25384)|null|
+|**2026-03-26**|**Underdetermined Blind Source Separation via Weighted Simplex Shrinkage Regularization and Quantum Deep Image Prior**|Chia-Hsiang Lin et.al.|[2603.25384](http://arxiv.org/abs/2603.25384)|**[link](https://github.com/IHCLab/GQ-mu)**|
 |**2026-03-25**|**Connecting Meteorite Spectra to Lunar Surface Composition Using Hyperspectral Imaging and Machine Learning**|Fatemeh Fazel Hesar et.al.|[2603.24323](http://arxiv.org/abs/2603.24323)|null|
 |**2026-03-25**|**LGEST: Dynamic Spatial-Spectral Expert Routing for Hyperspectral Image Classification**|Jiawen Wen et.al.|[2603.24045](http://arxiv.org/abs/2603.24045)|null|
 |**2026-03-23**|**A Latent Representation Learning Framework for Hyperspectral Image Emulation in Remote Sensing**|Chedly Ben Azizi et.al.|[2603.21911](http://arxiv.org/abs/2603.21911)|null|

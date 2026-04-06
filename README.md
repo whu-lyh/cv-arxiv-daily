@@ -501,7 +501,7 @@
 |**2025-11-14**|**OpenUS: A Fully Open-Source Foundation Model for Ultrasound Image Analysis via Self-Adaptive Masked Contrastive Learning**|Xiaoyu Zheng et.al.|[2511.11510](http://arxiv.org/abs/2511.11510)|**[link](https://github.com/XZheng0427/OpenUS)**|
 |**2025-11-14**|**Planetary nebulae as tracers of stellar population properties: a pilot study with MUSE**|Ana Inés Ennis et.al.|[2511.11479](http://arxiv.org/abs/2511.11479)|null|
 |**2025-11-14**|**Comprehension of Multilingual Expressions Referring to Target Objects in Visual Inputs**|Francisco Nogueira et.al.|[2511.11427](http://arxiv.org/abs/2511.11427)|null|
-|**2025-11-14**|**Shrinking the Teacher: An Adaptive Teaching Paradigm for Asymmetric EEG-Vision Alignment**|Lukun Wu et.al.|[2511.11422](http://arxiv.org/abs/2511.11422)|null|
+|**2025-11-14**|**Shrinking the Teacher: An Adaptive Teaching Paradigm for Asymmetric EEG-Vision Alignment**|Lukun Wu et.al.|[2511.11422](http://arxiv.org/abs/2511.11422)|**[link](https://github.com/LukunWuXDU/ATS)**|
 |**2025-11-14**|**Bidimensional measurements of photon statistics within a multimodal temporal framework**|C. Hainaut et.al.|[2511.11403](http://arxiv.org/abs/2511.11403)|null|
 |**2025-11-14**|**GRANITE: High-Resolution Imaging and Electrical Qualification of Large-Area TPC Electrodes**|Shumit A. Mitra et.al.|[2511.11401](http://arxiv.org/abs/2511.11401)|null|
 |**2025-11-14**|**Shadow-Induced Warps in Protoplanetary disks**|Shangjia Zhang et.al.|[2511.11358](http://arxiv.org/abs/2511.11358)|null|
@@ -911,7 +911,7 @@
 |**2026-03-31**|**Adversarial Prompt Injection Attack on Multimodal Large Language Models**|Meiwen Ding et.al.|[2603.29418](http://arxiv.org/abs/2603.29418)|null|
 |**2026-03-31**|**AA-Splat: Anti-Aliased Feed-forward Gaussian Splatting**|Taewoo Suh et.al.|[2603.29394](http://arxiv.org/abs/2603.29394)|null|
 |**2026-03-31**|**MotionScale: Reconstructing Appearance, Geometry, and Motion of Dynamic Scenes with Scalable 4D Gaussian Splatting**|Haoran Zhou et.al.|[2603.29296](http://arxiv.org/abs/2603.29296)|null|
-|**2026-03-31**|**LightHarmony3D: Harmonizing Illumination and Shadows for Object Insertion in 3D Gaussian Splatting**|Tianyu Huang et.al.|[2603.29209](http://arxiv.org/abs/2603.29209)|null|
+|**2026-03-31**|**LightHarmony3D: Harmonizing Illumination and Shadows for Object Insertion in 3D Gaussian Splatting**|Tianyu Huang et.al.|[2603.29209](http://arxiv.org/abs/2603.29209)|**[link](https://github.com/TianyuHuang-000/LightHarmony3D)**|
 |**2026-03-31**|**Efficient Camera Pose Augmentation for View Generalization in Robotic Policy Learning**|Sen Wang et.al.|[2603.29192](http://arxiv.org/abs/2603.29192)|null|
 |**2026-03-31**|**Hierarchical Visual Relocalization with Nearest View Synthesis from Feature Gaussian Splatting**|Huaqi Tao et.al.|[2603.29185](http://arxiv.org/abs/2603.29185)|null|
 |**2026-03-31**|**LG-HCC: Local Geometry-Aware Hierarchical Context Compression for 3D Gaussian Splatting**|Xuan Deng et.al.|[2603.28431](http://arxiv.org/abs/2603.28431)|null|
@@ -1390,9 +1390,9 @@
 |**2025-12-03**|**ShelfGaussian: Shelf-Supervised Open-Vocabulary Gaussian-based 3D Scene Understanding**|Lingjun Zhao et.al.|[2512.03370](http://arxiv.org/abs/2512.03370)|null|
 |**2025-12-02**|**Flux4D: Flow-based Unsupervised 4D Reconstruction**|Jingkang Wang et.al.|[2512.03210](http://arxiv.org/abs/2512.03210)|null|
 |**2025-12-02**|**PPTArena: A Benchmark for Agentic PowerPoint Editing**|Michael Ofengenden et.al.|[2512.03042](http://arxiv.org/abs/2512.03042)|null|
-|**2025-12-02**|**SurfFill: Completion of LiDAR Point Clouds via Gaussian Surfel Splatting**|Svenja Strobel et.al.|[2512.03010](http://arxiv.org/abs/2512.03010)|null|
+|**2025-12-02**|**SurfFill: Completion of LiDAR Point Clouds via Gaussian Surfel Splatting**|Svenja Strobel et.al.|[2512.03010](http://arxiv.org/abs/2512.03010)|**[link](https://github.com/qy21gafy/SurfFill)**|
 |**2025-12-02**|**DGGT: Feedforward 4D Reconstruction of Dynamic Driving Scenes using Unposed Images**|Xiaoxue Chen et.al.|[2512.03004](http://arxiv.org/abs/2512.03004)|**[link](https://github.com/xiaomi-research/dggt)**|
-|**2025-12-02**|**EGGS: Exchangeable 2D/3D Gaussian Splatting for Geometry-Appearance Balanced Novel View Synthesis**|Yancheng Zhang et.al.|[2512.02932](http://arxiv.org/abs/2512.02932)|null|
+|**2025-12-02**|**EGGS: Exchangeable 2D/3D Gaussian Splatting for Geometry-Appearance Balanced Novel View Synthesis**|Yancheng Zhang et.al.|[2512.02932](http://arxiv.org/abs/2512.02932)|**[link](https://github.com/Fobow/EGGS)**|
 |**2025-12-02**|**Adaptive hydrogels with spatiotemporal stiffening using pH-modulating enzymes**|Natascha Gray et.al.|[2512.02698](http://arxiv.org/abs/2512.02698)|null|
 |**2025-12-02**|**PolarGuide-GSDR: 3D Gaussian Splatting Driven by Polarization Priors and Deferred Reflection for Real-World Reflective Scenes**|Derui Shan et.al.|[2512.02664](http://arxiv.org/abs/2512.02664)|null|
 |**2025-12-02**|**PoreTrack3D: A Benchmark for Dynamic 3D Gaussian Splatting in Pore-Scale Facial Trajectory Tracking**|Dong Li et.al.|[2512.02648](http://arxiv.org/abs/2512.02648)|null|
@@ -1513,7 +1513,7 @@
 |**2025-11-20**|**Rad-GS: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments**|Renxiang Xiao et.al.|[2511.16091](http://arxiv.org/abs/2511.16091)|null|
 |**2025-11-20**|**Panel-by-Panel Souls: A Performative Workflow for Expressive Faces in AI-Assisted Manga Creation**|Qing Zhang et.al.|[2511.16038](http://arxiv.org/abs/2511.16038)|null|
 |**2025-11-20**|**CuriGS: Curriculum-Guided Gaussian Splatting for Sparse View Synthesis**|Zijian Wu et.al.|[2511.16030](http://arxiv.org/abs/2511.16030)|null|
-|**2025-11-19**|**Think Visually, Reason Textually: Vision-Language Synergy in ARC**|Beichen Zhang et.al.|[2511.15703](http://arxiv.org/abs/2511.15703)|null|
+|**2025-11-19**|**Think Visually, Reason Textually: Vision-Language Synergy in ARC**|Beichen Zhang et.al.|[2511.15703](http://arxiv.org/abs/2511.15703)|**[link](https://github.com/InternLM/ARC-VL)**|
 |**2025-11-19**|**ChartEditor: A Reinforcement Learning Framework for Robust Chart Editing**|Liangyu Chen et.al.|[2511.15266](http://arxiv.org/abs/2511.15266)|null|
 |**2025-11-19**|**VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation**|Tairan He et.al.|[2511.15200](http://arxiv.org/abs/2511.15200)|null|
 |**2025-11-19**|**Gaussian Blending: Rethinking Alpha Blending in 3D Gaussian Splatting**|Junseo Koo et.al.|[2511.15102](http://arxiv.org/abs/2511.15102)|**[link](https://github.com/1207koo/gaussian_blending)**|
@@ -5636,7 +5636,7 @@
 |**2025-11-13**|**Exposing DeepFakes via Hyperspectral Domain Mapping**|Aditya Mehta et.al.|[2511.11732](http://arxiv.org/abs/2511.11732)|null|
 |**2025-11-13**|**Perceive, Act and Correct: Confidence Is Not Enough for Hyperspectral Classification**|Muzhou Yang et.al.|[2511.10068](http://arxiv.org/abs/2511.10068)|null|
 |**2025-11-11**|**HyperScout-H: the hyperspectral imager for the ESA Hera mission**|Marcel M. Popescu et.al.|[2511.08047](http://arxiv.org/abs/2511.08047)|null|
-|**2025-11-10**|**GEWDiff: Geometric Enhanced Wavelet-based Diffusion Model for Hyperspectral Image Super-resolution**|Sirui Wang et.al.|[2511.07103](http://arxiv.org/abs/2511.07103)|null|
+|**2025-11-10**|**GEWDiff: Geometric Enhanced Wavelet-based Diffusion Model for Hyperspectral Image Super-resolution**|Sirui Wang et.al.|[2511.07103](http://arxiv.org/abs/2511.07103)|**[link](https://github.com/zhu-xlab/GEWDiff)**|
 |**2025-10-31**|**SpecAware: A Spectral-Content Aware Foundation Model for Unifying Multi-Sensor Learning in Hyperspectral Remote Sensing Mapping**|Renjie Ji et.al.|[2510.27219](http://arxiv.org/abs/2510.27219)|null|
 |**2025-11-13**|**Direct multi-model dark-matter search with gravitational-wave interferometers using data from the first part of the fourth LIGO-Virgo-KAGRA observing run**|The LIGO Scientific Collaboration et.al.|[2510.27022](http://arxiv.org/abs/2510.27022)|null|
 |**2025-10-30**|**GW241011 and GW241110: Exploring Binary Formation and Fundamental Physics with Asymmetric, High-Spin Black Hole Coalescence**|The LIGO Scientific Collaboration et.al.|[2510.26931](http://arxiv.org/abs/2510.26931)|null|
