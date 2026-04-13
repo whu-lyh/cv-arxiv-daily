@@ -1192,10 +1192,10 @@
 |**2026-02-10**|**SciFlow-Bench: Evaluating Structure-Aware Scientific Diagram Generation via Inverse Parsing**|Tong Zhang et.al.|[2602.09809](http://arxiv.org/abs/2602.09809)|null|
 |**2026-02-10**|**Toward Fine-Grained Facial Control in 3D Talking Head Generation**|Shaoyang Xie et.al.|[2602.09736](http://arxiv.org/abs/2602.09736)|null|
 |**2026-02-10**|**Stability and Concentration in Nonlinear Inverse Problems with Block-Structured Parameters: Lipschitz Geometry, Identifiability, and an Application to Gaussian Splatting**|Joe-Mei Feng et.al.|[2602.09415](http://arxiv.org/abs/2602.09415)|null|
-|**2026-02-10**|**Grow with the Flow: 4D Reconstruction of Growing Plants with Gaussian Flow Fields**|Weihan Luo et.al.|[2602.08958](http://arxiv.org/abs/2602.08958)|null|
+|**2026-02-10**|**Grow with the Flow: 4D Reconstruction of Growing Plants with Gaussian Flow Fields**|Weihan Luo et.al.|[2602.08958](http://arxiv.org/abs/2602.08958)|**[link](https://github.com/weihan1/growflow)**|
 |**2026-02-09**|**Analysis of Converged 3D Gaussian Splatting Solutions: Density Effects and Prediction Limit**|Zhendong Wang et.al.|[2602.08909](http://arxiv.org/abs/2602.08909)|null|
-|**2026-02-09**|**GaussianCaR: Gaussian Splatting for Efficient Camera-Radar Fusion**|Santiago Montiel-Marín et.al.|[2602.08784](http://arxiv.org/abs/2602.08784)|null|
-|**2026-02-09**|**Rotated Lights for Consistent and Efficient 2D Gaussians Inverse Rendering**|Geng Lin et.al.|[2602.08724](http://arxiv.org/abs/2602.08724)|null|
+|**2026-02-09**|**GaussianCaR: Gaussian Splatting for Efficient Camera-Radar Fusion**|Santiago Montiel-Marín et.al.|[2602.08784](http://arxiv.org/abs/2602.08784)|**[link](https://github.com/santimontiel/gaussiancar)**|
+|**2026-02-09**|**Rotated Lights for Consistent and Efficient 2D Gaussians Inverse Rendering**|Geng Lin et.al.|[2602.08724](http://arxiv.org/abs/2602.08724)|**[link](https://github.com/rotlight-ir/rotlight)**|
 |**2026-02-09**|**Informative Object-centric Next Best View for Object-aware 3D Gaussian Splatting in Cluttered Scenes**|Seunghoon Jeong et.al.|[2602.08266](http://arxiv.org/abs/2602.08266)|null|
 |**2026-02-08**|**Recovering 3D Shapes from Ultra-Fast Motion-Blurred Images**|Fei Yu et.al.|[2602.07860](http://arxiv.org/abs/2602.07860)|null|
 |**2026-02-11**|**Thermal odometry and dense mapping using learned odometry and Gaussian splatting**|Tianhao Zhou et.al.|[2602.07493](http://arxiv.org/abs/2602.07493)|null|
@@ -1795,11 +1795,11 @@
 |**2025-09-29**|**DWGS: Enhancing Sparse-View Gaussian Splatting with Hybrid-Loss Depth Estimation and Bidirectional Warping**|Yu Ma et.al.|[2509.24893](http://arxiv.org/abs/2509.24893)|null|
 |**2025-09-29**|**ExGS: Extreme 3D Gaussian Compression with Diffusion Priors**|Jiaqi Chen et.al.|[2509.24758](http://arxiv.org/abs/2509.24758)|null|
 |**2025-10-01**|**Proxy-GS: Efficient 3D Gaussian Splatting via Proxy Mesh**|Yuanyuan Gao et.al.|[2509.24421](http://arxiv.org/abs/2509.24421)|null|
-|**2025-09-29**|**OMeGa: Joint Optimization of Explicit Meshes and Gaussian Splats for Robust Scene-Level Surface Reconstruction**|Yuhang Cao et.al.|[2509.24308](http://arxiv.org/abs/2509.24308)|null|
-|**2025-09-28**|**CrashSplat: 2D to 3D Vehicle Damage Segmentation in Gaussian Splatting**|Dragoş-Andrei Chileban et.al.|[2509.23947](http://arxiv.org/abs/2509.23947)|null|
+|**2025-09-29**|**OMeGa: Joint Optimization of Explicit Meshes and Gaussian Splats for Robust Scene-Level Surface Reconstruction**|Yuhang Cao et.al.|[2509.24308](http://arxiv.org/abs/2509.24308)|**[link](https://github.com/Hao7un/OMeGa)**|
+|**2025-09-28**|**CrashSplat: 2D to 3D Vehicle Damage Segmentation in Gaussian Splatting**|Dragoş-Andrei Chileban et.al.|[2509.23947](http://arxiv.org/abs/2509.23947)|**[link](https://github.com/DragosChileban/CrashSplat)**|
 |**2025-09-28**|**From Fields to Splats: A Cross-Domain Survey of Real-Time Neural Scene Representations**|Javed Ahmad et.al.|[2509.23555](http://arxiv.org/abs/2509.23555)|null|
 |**2025-09-27**|**Orientation-anchored Hyper-Gaussian for 4D Reconstruction from Casual Videos**|Junyi Wu et.al.|[2509.23492](http://arxiv.org/abs/2509.23492)|null|
-|**2025-09-27**|**OracleGS: Grounding Generative Priors for Sparse-View Gaussian Splatting**|Atakan Topaloglu et.al.|[2509.23258](http://arxiv.org/abs/2509.23258)|null|
+|**2025-09-27**|**OracleGS: Grounding Generative Priors for Sparse-View Gaussian Splatting**|Atakan Topaloglu et.al.|[2509.23258](http://arxiv.org/abs/2509.23258)|**[link](https://github.com/atakan-topaloglu/vggt_aten)**|
 |**2025-09-26**|**Learning Unified Representation of 3D Gaussian Splatting**|Yuelin Xin et.al.|[2509.22917](http://arxiv.org/abs/2509.22917)|null|
 |**2025-09-26**|**Vision-Language Alignment from Compressed Image Representations using 2D Gaussian Splatting**|Yasmine Omri et.al.|[2509.22615](http://arxiv.org/abs/2509.22615)|null|
 |**2025-09-26**|**GS-2M: Gaussian Splatting for Joint Mesh Reconstruction and Material Decomposition**|Dinh Minh Nguyen et.al.|[2509.22276](http://arxiv.org/abs/2509.22276)|null|
@@ -2338,7 +2338,7 @@
 |**2026-02-02**|**UniDWM: Towards a Unified Driving World Model via Multifaceted Representation Learning**|Shuai Liu et.al.|[2602.01536](http://arxiv.org/abs/2602.01536)|null|
 |**2026-02-01**|**TF-Lane: Traffic Flow Module for Robust Lane Perception**|Yihan Xie et.al.|[2602.01277](http://arxiv.org/abs/2602.01277)|null|
 |**2026-02-01**|**OASIS-DC: Generalizable Depth Completion via Output-level Alignment of Sparse-Integrated Monocular Pseudo Depth**|Jaehyeon Cho et.al.|[2602.01268](http://arxiv.org/abs/2602.01268)|null|
-|**2026-02-01**|**LightCity: An Urban Dataset for Outdoor Inverse Rendering and Reconstruction under Multi-illumination Conditions**|Jingjing Wang et.al.|[2602.01118](http://arxiv.org/abs/2602.01118)|null|
+|**2026-02-01**|**LightCity: An Urban Dataset for Outdoor Inverse Rendering and Reconstruction under Multi-illumination Conditions**|Jingjing Wang et.al.|[2602.01118](http://arxiv.org/abs/2602.01118)|**[link](https://github.com/23wjj/LightCity)**|
 |**2026-02-01**|**HERMES: A Holistic End-to-End Risk-Aware Multimodal Embodied System with Vision-Language Models for Long-Tail Autonomous Driving**|Weizhe Tang et.al.|[2602.00993](http://arxiv.org/abs/2602.00993)|null|
 |**2026-01-31**|**A Graph-based Framework for Coverage Analysis in Autonomous Driving**|Thomas Muehlenstädt et.al.|[2602.00903](http://arxiv.org/abs/2602.00903)|null|
 |**2026-01-31**|**VVLoc: Prior-free 3-DoF Vehicle Visual Localization**|Ze Huang et.al.|[2602.00810](http://arxiv.org/abs/2602.00810)|null|
@@ -2532,7 +2532,7 @@
 |**2025-12-15**|**Sequence of Expert: Boosting Imitation Planners for Autonomous Driving through Temporal Alternation**|Xiang Li et.al.|[2512.13094](http://arxiv.org/abs/2512.13094)|null|
 |**2025-12-15**|**Machine Learning Architectures for the Estimation of Predicted Occupancy Grids in Road Traffic**|Parthasarathy Nadarajan et.al.|[2512.12907](http://arxiv.org/abs/2512.12907)|null|
 |**2025-12-14**|**GradID: Adversarial Detection via Intrinsic Dimensionality of Gradients**|Mohammad Mahdi Razmjoo et.al.|[2512.12827](http://arxiv.org/abs/2512.12827)|null|
-|**2025-12-14**|**DrivePI: Spatial-aware 4D MLLM for Unified Autonomous Driving Understanding, Perception, Prediction and Planning**|Zhe Liu et.al.|[2512.12799](http://arxiv.org/abs/2512.12799)|null|
+|**2025-12-14**|**DrivePI: Spatial-aware 4D MLLM for Unified Autonomous Driving Understanding, Perception, Prediction and Planning**|Zhe Liu et.al.|[2512.12799](http://arxiv.org/abs/2512.12799)|**[link](https://github.com/happinesslz/DrivePI)**|
 |**2025-12-14**|**High Order Control Lyapunov Function - Control Barrier Function - Quadratic Programming Based Autonomous Driving Controller for Bicyclist Safety**|Haochong Chen et.al.|[2512.12776](http://arxiv.org/abs/2512.12776)|null|
 |**2025-12-13**|**From Human Intention to Action Prediction: A Comprehensive Benchmark for Intention-driven End-to-End Autonomous Driving**|Huan Zheng et.al.|[2512.12302](http://arxiv.org/abs/2512.12302)|null|
 |**2025-12-13**|**Measuring What Matters: Scenario-Driven Evaluation for Trajectory Predictors in Autonomous Driving**|Longchao Da et.al.|[2512.12211](http://arxiv.org/abs/2512.12211)|null|
@@ -3880,7 +3880,7 @@
 |**2026-03-10**|**Model Merging in the Era of Large Language Models: Methods, Applications, and Future Directions**|Mingyang Song et.al.|[2603.09938](http://arxiv.org/abs/2603.09938)|null|
 |**2026-03-10**|**Quantifying the Necessity of Chain of Thought through Opaque Serial Depth**|Jonah Brown-Cohen et.al.|[2603.09786](http://arxiv.org/abs/2603.09786)|null|
 |**2026-03-10**|**MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants**|Zuhao Zhang et.al.|[2603.09652](http://arxiv.org/abs/2603.09652)|null|
-|**2026-03-10**|**MORE-R1: Guiding LVLM for Multimodal Object-Entity Relation Extraction via Stepwise Reasoning with Reinforcement Learning**|Xiang Yuan et.al.|[2603.09478](http://arxiv.org/abs/2603.09478)|null|
+|**2026-03-10**|**MORE-R1: Guiding LVLM for Multimodal Object-Entity Relation Extraction via Stepwise Reasoning with Reinforcement Learning**|Xiang Yuan et.al.|[2603.09478](http://arxiv.org/abs/2603.09478)|**[link](https://github.com/Ufere/Assingment_1)**|
 |**2026-03-12**|**Multi-tasking through quantum annealing**|Jargalsaikhan Artag et.al.|[2603.09468](http://arxiv.org/abs/2603.09468)|null|
 |**2026-03-10**|**Variational Routing: A Scalable Bayesian Framework for Calibrated Mixture-of-Experts Transformers**|Albus Yizhuo Li et.al.|[2603.09453](http://arxiv.org/abs/2603.09453)|null|
 |**2026-03-10**|**Exploring Modality-Aware Fusion and Decoupled Temporal Propagation for Multi-Modal Object Tracking**|Shilei Wang et.al.|[2603.09287](http://arxiv.org/abs/2603.09287)|null|
