@@ -881,6 +881,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Unfolding 3D Gaussian Splatting via Iterative Gaussian Synopsis**|Yuqin Lu et.al.|[2604.11685](http://arxiv.org/abs/2604.11685)|null|
 |**2026-04-13**|**GS4City: Hierarchical Semantic Gaussian Splatting via City-Model Priors**|Qilin Zhang et.al.|[2604.11401](http://arxiv.org/abs/2604.11401)|null|
 |**2026-04-13**|**Naka-GS: A Bionics-inspired Dual-Branch Naka Correction and Progressive Point Pruning for Low-Light 3DGS**|Runyu Zhu et.al.|[2604.11142](http://arxiv.org/abs/2604.11142)|null|
 |**2026-04-13**|**ViserDex: Visual Sim-to-Real for Robust Dexterous In-hand Reorientation**|Arjun Bhardwaj et.al.|[2604.11138](http://arxiv.org/abs/2604.11138)|null|
@@ -1925,6 +1926,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction**|Efstathios Karypidis et.al.|[2604.11707](http://arxiv.org/abs/2604.11707)|null|
 |**2026-04-13**|**OpenDT: Exploring Datacenter Performance and Sustainability with a Self-Calibrating Digital Twin**|Radu Nicolae et.al.|[2604.11445](http://arxiv.org/abs/2604.11445)|null|
 |**2026-04-13**|**MapATM: Enhancing HD Map Construction through Actor Trajectory Modeling**|Mingyang Li et.al.|[2604.11081](http://arxiv.org/abs/2604.11081)|null|
 |**2026-04-12**|**BridgeSim: Unveiling the OL-CL Gap in End-to-End Autonomous Driving**|Seth Z. Zhao et.al.|[2604.10856](http://arxiv.org/abs/2604.10856)|null|
@@ -4982,6 +4984,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems**|Mohammed Ezzaldin Babiker Abdullah et.al.|[2604.11807](http://arxiv.org/abs/2604.11807)|null|
 |**2026-04-13**|**Structured State-Space Regularization for Compact and Generation-Friendly Image Tokenization**|Jinsung Lee et.al.|[2604.11089](http://arxiv.org/abs/2604.11089)|null|
 |**2026-04-12**|**COREY: A Prototype Study of Entropy-Guided Operator Fusion with Hadamard Reparameterization for Selective State Space Models**|Bo Ma et.al.|[2604.10597](http://arxiv.org/abs/2604.10597)|null|
 |**2026-04-11**|**Dual-Branch Remote Sensing Infrared Image Super-Resolution**|Xining Ge et.al.|[2604.10112](http://arxiv.org/abs/2604.10112)|null|
@@ -5748,7 +5751,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-10**|**Unmixing-Guided Spatial-Spectral Mamba with Clustering Tokens for Hyperspectral Image Classification**|Yimin Zhu et.al.|[2604.09948](http://arxiv.org/abs/2604.09948)|null|
+|**2026-04-10**|**Unmixing-Guided Spatial-Spectral Mamba with Clustering Tokens for Hyperspectral Image Classification**|Yimin Zhu et.al.|[2604.09948](http://arxiv.org/abs/2604.09948)|**[link](https://github.com/GSIL-UCalgary/Unmixing_guided_Mamba)**|
 |**2026-04-10**|**HM-Bench: A Comprehensive Benchmark for Multimodal Large Language Models in Hyperspectral Remote Sensing**|Xinyu Zhang et.al.|[2604.08884](http://arxiv.org/abs/2604.08884)|null|
 |**2026-04-09**|**Optical spin defect pairs in cubic boron nitride**|Josiah E. Hsi et.al.|[2604.08737](http://arxiv.org/abs/2604.08737)|null|
 |**2026-04-09**|**Preventing Overfitting in Deep Image Prior for Hyperspectral Image Denoising**|Panagiotis Gkotsis et.al.|[2604.08272](http://arxiv.org/abs/2604.08272)|null|
