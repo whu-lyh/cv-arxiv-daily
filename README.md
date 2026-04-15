@@ -3236,11 +3236,11 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2009-10-21**|**Quantum Error Correction Beyond Completely Positive Maps**|A. Shabani et.al.|[quant-ph/0610028](http://arxiv.org/abs/quant-ph/0610028)|null|
-|**2026-04-13**|**Bridging the RGB-IR Gap: Consensus and Discrepancy Modeling for Text-Guided Multispectral Detection**|Jiaqi Wu et.al.|[2604.11234](http://arxiv.org/abs/2604.11234)|null|
+|**2026-04-13**|**Bridging the RGB-IR Gap: Consensus and Discrepancy Modeling for Text-Guided Multispectral Detection**|Jiaqi Wu et.al.|[2604.11234](http://arxiv.org/abs/2604.11234)|**[link](https://github.com/zhenwang5372/Bridging-RGB-IR-Gap)**|
 |**2026-04-13**|**Ψ-Map: Panoptic Surface Integrated Mapping Enables Real2Sim Transfer**|Xuan Yu et.al.|[2604.10982](http://arxiv.org/abs/2604.10982)|null|
-|**2026-04-10**|**HTNav: A Hybrid Navigation Framework with Tiered Structure for Urban Aerial Vision-and-Language Navigation**|Chengjie Fan et.al.|[2604.08883](http://arxiv.org/abs/2604.08883)|null|
+|**2026-04-10**|**HTNav: A Hybrid Navigation Framework with Tiered Structure for Urban Aerial Vision-and-Language Navigation**|Chengjie Fan et.al.|[2604.08883](http://arxiv.org/abs/2604.08883)|**[link](https://github.com/tyrofanfan/HTNav)**|
 |**2026-04-08**|**RichMap: A Reachability Map Balancing Precision, Efficiency, and Flexibility for Rich Robot Manipulation Tasks**|Yupu Lu et.al.|[2604.06778](http://arxiv.org/abs/2604.06778)|null|
-|**2026-04-02**|**TOL: Textual Localization with OpenStreetMap**|Youqi Liao et.al.|[2604.01644](http://arxiv.org/abs/2604.01644)|null|
+|**2026-04-02**|**TOL: Textual Localization with OpenStreetMap**|Youqi Liao et.al.|[2604.01644](http://arxiv.org/abs/2604.01644)|**[link](https://github.com/WHU-USI3DV/TOL)**|
 |**2026-04-01**|**Compact Keyframe-Optimized Multi-Agent Gaussian Splatting SLAM**|Monica M. Q. Li et.al.|[2604.00804](http://arxiv.org/abs/2604.00804)|null|
 |**2026-03-30**|**Pandora: Articulated 3D Scene Graphs from Egocentric Vision**|Alan Yu et.al.|[2603.28732](http://arxiv.org/abs/2603.28732)|null|
 |**2026-03-24**|**Active Robotic Perception for Disease Detection and Mapping in Apple Trees**|Hayden Feddock et.al.|[2603.23112](http://arxiv.org/abs/2603.23112)|null|
