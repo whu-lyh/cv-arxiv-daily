@@ -15,7 +15,7 @@ layout: default
 |**2026-04-14**|**VidTAG: Temporally Aligned Video to GPS Geolocalization with Denoising Sequence Prediction at a Global Scale**|Parth Parag Kulkarni et.al.|[2604.12159](http://arxiv.org/abs/2604.12159)|**[link](https://github.com/ParthPK/vidtag_webpage)**|
 |**2026-04-13**|**Human-Inspired Context-Selective Multimodal Memory for Social Robots**|Hangyeol Kang et.al.|[2604.12081](http://arxiv.org/abs/2604.12081)|null|
 |**2026-04-13**|**Privacy-Preserving Structureless Visual Localization via Image Obfuscation**|Vojtech Panek et.al.|[2604.12068](http://arxiv.org/abs/2604.12068)|null|
-|**2026-04-13**|**Seeing Through Touch: Tactile-Driven Visual Localization of Material Regions**|Seongyu Kim et.al.|[2604.11579](http://arxiv.org/abs/2604.11579)|null|
+|**2026-04-13**|**Seeing Through Touch: Tactile-Driven Visual Localization of Material Regions**|Seongyu Kim et.al.|[2604.11579](http://arxiv.org/abs/2604.11579)|**[link](https://github.com/kaistmm/SeeingThroughTouch)**|
 |**2026-04-13**|**CLAY: Conditional Visual Similarity Modulation in Vision-Language Embedding Space**|Sohwi Lim et.al.|[2604.11539](http://arxiv.org/abs/2604.11539)|null|
 |**2026-04-11**|**Buried Fiber-Optic Geolocalization with Distributed Acoustic Sensing**|Khen Cohen et.al.|[2604.10331](http://arxiv.org/abs/2604.10331)|null|
 |**2026-04-11**|**FashionMV: Product-Level Composed Image Retrieval with Multi-View Fashion Data**|Peng Yuan et.al.|[2604.10297](http://arxiv.org/abs/2604.10297)|null|
