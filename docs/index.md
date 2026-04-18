@@ -2,19 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.04.17
+## Updated on 2026.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-16**|**G-MIXER: Geodesic Mixup-based Implicit Semantic Expansion and Explicit Semantic Re-ranking for Zero-Shot Composed Image Retrieval**|Jiyoung Lim et.al.|[2604.14710](http://arxiv.org/abs/2604.14710)|**[link](https://github.com/maya0395/gmixer)**|
+|**2026-04-16**|**G-MIXER: Geodesic Mixup-based Implicit Semantic Expansion and Explicit Semantic Re-ranking for Zero-Shot Composed Image Retrieval**|Jiyoung Lim et.al.|[2604.14710](http://arxiv.org/abs/2604.14710)|null|
 |**2026-04-15**|**Comprehensive Review of Doppler Shift Localization Methods: Advances, Limitations, and Research Opportunities**|Rafal Szczepanik et.al.|[2604.14413](http://arxiv.org/abs/2604.14413)|null|
-|**2026-04-15**|**SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation**|Songlin Du et.al.|[2604.13941](http://arxiv.org/abs/2604.13941)|**[link](https://github.com/songlin-du/SceneGlue)**|
+|**2026-04-15**|**SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation**|Songlin Du et.al.|[2604.13941](http://arxiv.org/abs/2604.13941)|null|
 |**2026-04-14**|**Indexing Multimodal Language Models for Large-scale Image Retrieval**|Bahey Tharwat et.al.|[2604.13268](http://arxiv.org/abs/2604.13268)|null|
-|**2026-04-14**|**A Sanity Check on Composed Image Retrieval**|Yikun Liu et.al.|[2604.12904](http://arxiv.org/abs/2604.12904)|**[link](https://github.com/Code-kunkun/SanityCIR)**|
-|**2026-04-14**|**VidTAG: Temporally Aligned Video to GPS Geolocalization with Denoising Sequence Prediction at a Global Scale**|Parth Parag Kulkarni et.al.|[2604.12159](http://arxiv.org/abs/2604.12159)|**[link](https://github.com/ParthPK/vidtag_webpage)**|
+|**2026-04-14**|**A Sanity Check on Composed Image Retrieval**|Yikun Liu et.al.|[2604.12904](http://arxiv.org/abs/2604.12904)|null|
+|**2026-04-14**|**VidTAG: Temporally Aligned Video to GPS Geolocalization with Denoising Sequence Prediction at a Global Scale**|Parth Parag Kulkarni et.al.|[2604.12159](http://arxiv.org/abs/2604.12159)|null|
 |**2026-04-13**|**Human-Inspired Context-Selective Multimodal Memory for Social Robots**|Hangyeol Kang et.al.|[2604.12081](http://arxiv.org/abs/2604.12081)|null|
 |**2026-04-13**|**Privacy-Preserving Structureless Visual Localization via Image Obfuscation**|Vojtech Panek et.al.|[2604.12068](http://arxiv.org/abs/2604.12068)|null|
 |**2026-04-13**|**Seeing Through Touch: Tactile-Driven Visual Localization of Material Regions**|Seongyu Kim et.al.|[2604.11579](http://arxiv.org/abs/2604.11579)|null|
