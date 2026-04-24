@@ -909,9 +909,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-04-20**|**High-Fidelity 3D Gaussian Human Reconstruction via Region-Aware Initialization and Geometric Priors**|Yang Liu et.al.|[2604.21714](http://arxiv.org/abs/2604.21714)|null|
-|**2026-04-23**|**DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures**|Xu Wang et.al.|[2604.21631](http://arxiv.org/abs/2604.21631)|null|
-|**2026-04-23**|**You Only Gaussian Once: Controllable 3D Gaussian Splatting for Ultra-Densely Sampled Scenes**|Jinrang Jia et.al.|[2604.21400](http://arxiv.org/abs/2604.21400)|null|
-|**2026-04-23**|**WildSplatter: Feed-forward 3D Gaussian Splatting with Appearance Control from Unconstrained Images**|Yuki Fujimura et.al.|[2604.21182](http://arxiv.org/abs/2604.21182)|null|
+|**2026-04-23**|**DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures**|Xu Wang et.al.|[2604.21631](http://arxiv.org/abs/2604.21631)|**[link](https://github.com/Lans1ot/DualSplat)**|
+|**2026-04-23**|**You Only Gaussian Once: Controllable 3D Gaussian Splatting for Ultra-Densely Sampled Scenes**|Jinrang Jia et.al.|[2604.21400](http://arxiv.org/abs/2604.21400)|**[link](https://github.com/jjrCN/YOGO)**|
+|**2026-04-23**|**WildSplatter: Feed-forward 3D Gaussian Splatting with Appearance Control from Unconstrained Images**|Yuki Fujimura et.al.|[2604.21182](http://arxiv.org/abs/2604.21182)|**[link](https://github.com/yfujimura/WildSplatter)**|
 |**2026-04-22**|**GSCompleter: A Distillation-Free Plugin for Metric-Aware 3D Gaussian Splatting Completion in Seconds**|Ao Gao et.al.|[2604.20155](http://arxiv.org/abs/2604.20155)|null|
 |**2026-04-21**|**Gaussians on a Diet: High-Quality Memory-Bounded 3D Gaussian Splatting Training**|Yangming Zhang et.al.|[2604.20046](http://arxiv.org/abs/2604.20046)|null|
 |**2026-04-21**|**FluSplat: Sparse-View 3D Editing without Test-Time Optimization**|Haitao Huang et.al.|[2604.20038](http://arxiv.org/abs/2604.20038)|null|
@@ -3779,7 +3779,7 @@ layout: default
 |**2026-04-22**|**On Bayesian Softmax-Gated Mixture-of-Experts Models**|Nicola Bariletto et.al.|[2604.20551](http://arxiv.org/abs/2604.20551)|null|
 |**2026-04-22**|**XRF 241001A/SN 2024aiiq: A Faint Soft X-ray Transient Detected by SVOM with a Broad-Line Type Ic Supernova Revealed by JWST**|B. Schneider et.al.|[2604.20346](http://arxiv.org/abs/2604.20346)|null|
 |**2026-04-22**|**MD-Face: MoE-Enhanced Label-Free Disentangled Representation for Interactive Facial Attribute Editing**|Xuan Cui et.al.|[2604.20317](http://arxiv.org/abs/2604.20317)|null|
-|**2026-04-22**|**Multi-Perspective Evidence Synthesis and Reasoning for Unsupervised Multimodal Entity Linking**|Mo Zhou et.al.|[2604.20283](http://arxiv.org/abs/2604.20283)|null|
+|**2026-04-22**|**Multi-Perspective Evidence Synthesis and Reasoning for Unsupervised Multimodal Entity Linking**|Mo Zhou et.al.|[2604.20283](http://arxiv.org/abs/2604.20283)|**[link](https://github.com/Wangzhezhou/MSR-MEL)**|
 |**2026-04-22**|**All Languages Matter: Understanding and Mitigating Language Bias in Multilingual RAG**|Dan Wang et.al.|[2604.20199](http://arxiv.org/abs/2604.20199)|null|
 |**2026-04-22**|**Aligning Human-AI-Interaction Trust for Mental Health Support: Survey and Position for Multi-Stakeholders**|Xin Sun et.al.|[2604.20166](http://arxiv.org/abs/2604.20166)|null|
 |**2026-04-22**|**Temporally Extended Mixture-of-Experts Models**|Zeyu Shen et.al.|[2604.20156](http://arxiv.org/abs/2604.20156)|null|
