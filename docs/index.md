@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.04.23
+## Updated on 2026.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**TEMA: Anchor the Image, Follow the Text for Multi-Modification Composed Image Retrieval**|Zixu Li et.al.|[2604.21806](http://arxiv.org/abs/2604.21806)|**[link](https://github.com/iLearn-Lab/ACL26-TEMA)**|
+|**2026-04-22**|**StarLoc: Pinpointing Transmitting LEO Satellites from a Single Passive Array**|Ishani Janveja et.al.|[2604.21147](http://arxiv.org/abs/2604.21147)|null|
 |**2026-04-22**|**ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval**|Zixu Li et.al.|[2604.20358](http://arxiv.org/abs/2604.20358)|**[link](https://github.com/iLearn-Lab/CVPR26-ConeSep)**|
 |**2026-04-22**|**UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval**|Haokun Wen et.al.|[2604.20318](http://arxiv.org/abs/2604.20318)|null|
 |**2026-04-22**|**Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval**|Zhiheng Fu et.al.|[2604.19386](http://arxiv.org/abs/2604.19386)|**[link](https://github.com/iLearn-Lab/CVPR26-Air-Know)**|
@@ -709,7 +711,7 @@ layout: default
 |**2026-03-09**|**RLPR: Radar-to-LiDAR Place Recognition via Two-Stage Asymmetric Cross-Modal Alignment for Autonomous Driving**|Zhangshuo Qi et.al.|[2603.07920](http://arxiv.org/abs/2603.07920)|null|
 |**2026-03-06**|**PROBE: Probabilistic Occupancy BEV Encoding with Analytical Translation Robustness for 3D Place Recognition**|Jinseop Lee et.al.|[2603.05965](http://arxiv.org/abs/2603.05965)|null|
 |**2026-01-29**|**Advanced techniques and applications of LiDAR Place Recognition in Agricultural Environments: A Comprehensive Survey**|Judith Vilella-Cantos et.al.|[2601.22198](http://arxiv.org/abs/2601.22198)|null|
-|**2026-01-26**|**Low Cost, High Efficiency: LiDAR Place Recognition in Vineyards with Matryoshka Representation Learning**|Judith Vilella-Cantos et.al.|[2601.18714](http://arxiv.org/abs/2601.18714)|null|
+|**2026-04-22**|**Low Cost, High Efficiency: LiDAR Place Recognition in Vineyards with Matryoshka Representation Learning**|Judith Vilella-Cantos et.al.|[2601.18714](http://arxiv.org/abs/2601.18714)|null|
 |**2025-12-05**|**NormalView: sensor-agnostic tree species classification from backpack and aerial lidar data using geometric projections**|Juho Korkeala et.al.|[2512.05610](http://arxiv.org/abs/2512.05610)|null|
 |**2025-12-04**|**A dynamic memory assignment strategy for dilation-based ICP algorithm on embedded GPUs**|Qiong Chang et.al.|[2512.04996](http://arxiv.org/abs/2512.04996)|null|
 |**2025-12-04**|**TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards**|Mauro Martini et.al.|[2512.04772](http://arxiv.org/abs/2512.04772)|null|
@@ -906,6 +908,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**High-Fidelity 3D Gaussian Human Reconstruction via Region-Aware Initialization and Geometric Priors**|Yang Liu et.al.|[2604.21714](http://arxiv.org/abs/2604.21714)|null|
+|**2026-04-23**|**DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures**|Xu Wang et.al.|[2604.21631](http://arxiv.org/abs/2604.21631)|null|
+|**2026-04-23**|**You Only Gaussian Once: Controllable 3D Gaussian Splatting for Ultra-Densely Sampled Scenes**|Jinrang Jia et.al.|[2604.21400](http://arxiv.org/abs/2604.21400)|null|
+|**2026-04-23**|**WildSplatter: Feed-forward 3D Gaussian Splatting with Appearance Control from Unconstrained Images**|Yuki Fujimura et.al.|[2604.21182](http://arxiv.org/abs/2604.21182)|null|
 |**2026-04-22**|**GSCompleter: A Distillation-Free Plugin for Metric-Aware 3D Gaussian Splatting Completion in Seconds**|Ao Gao et.al.|[2604.20155](http://arxiv.org/abs/2604.20155)|null|
 |**2026-04-21**|**Gaussians on a Diet: High-Quality Memory-Bounded 3D Gaussian Splatting Training**|Yangming Zhang et.al.|[2604.20046](http://arxiv.org/abs/2604.20046)|null|
 |**2026-04-21**|**FluSplat: Sparse-View 3D Editing without Test-Time Optimization**|Haitao Huang et.al.|[2604.20038](http://arxiv.org/abs/2604.20038)|null|
@@ -919,7 +925,7 @@ layout: default
 |**2026-04-20**|**A Comparative Evaluation of Geometric Accuracy in NeRF and Gaussian Splatting**|Mikolaj Zielinski et.al.|[2604.18205](http://arxiv.org/abs/2604.18205)|null|
 |**2026-04-20**|**Multiplication in Multimodal LLMs: Computation with Text, Image, and Audio Inputs**|Samuel G. Balter et.al.|[2604.18203](http://arxiv.org/abs/2604.18203)|null|
 |**2026-04-20**|**GS-STVSR: Ultra-Efficient Continuous Spatio-Temporal Video Super-Resolution via 2D Gaussian Splatting**|Mingyu Shi et.al.|[2604.18047](http://arxiv.org/abs/2604.18047)|null|
-|**2026-04-20**|**E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes**|Koya Sakamoto et.al.|[2604.17969](http://arxiv.org/abs/2604.17969)|null|
+|**2026-04-23**|**E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes**|Koya Sakamoto et.al.|[2604.17969](http://arxiv.org/abs/2604.17969)|null|
 |**2026-04-20**|**Voronoi-guided Bilateral 2D Gaussian Splatting for Arbitrary-Scale Hyperspectral Image Super-Resolution**|Jie Zhang et.al.|[2604.17727](http://arxiv.org/abs/2604.17727)|null|
 |**2026-04-18**|**Instant Colorization of Gaussian Splats**|Daniel Lieber et.al.|[2604.17155](http://arxiv.org/abs/2604.17155)|null|
 |**2026-04-18**|**mEOL: Training-Free Instruction-Guided Multimodal Embedder for Vector Graphics and Image Retrieval**|Kyeong Seon Kim et.al.|[2604.17054](http://arxiv.org/abs/2604.17054)|null|
@@ -1995,6 +2001,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**MISTY: High-Throughput Motion Planning via Mixer-based Single-step Drifting**|Yining Xing et.al.|[2604.21489](http://arxiv.org/abs/2604.21489)|null|
+|**2026-04-23**|**Frozen LLMs as Map-Aware Spatio-Temporal Reasoners for Vehicle Trajectory Prediction**|Yanjiao Liu et.al.|[2604.21479](http://arxiv.org/abs/2604.21479)|null|
+|**2026-04-23**|**Reasoning About Traversability: Language-Guided Off-Road 3D Trajectory Planning**|Byounggun Park et.al.|[2604.21249](http://arxiv.org/abs/2604.21249)|null|
+|**2026-04-22**|**Enabling Mixed criticality applications for the Versal AI-Engines**|Vincent Sprave et.al.|[2604.21124](http://arxiv.org/abs/2604.21124)|null|
+|**2026-04-21**|**Towards a Systematic Risk Assessment of Deep Neural Network Limitations in Autonomous Driving Perception**|Svetlana Pavlitska et.al.|[2604.20895](http://arxiv.org/abs/2604.20895)|null|
 |**2026-04-22**|**OVPD: A Virtual-Physical Fusion Testing Dataset of OnSite Auton-omous Driving Challenge**|Yuhang Zhang et.al.|[2604.20423](http://arxiv.org/abs/2604.20423)|null|
 |**2026-04-22**|**X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference**|Yixiao Zeng et.al.|[2604.20289](http://arxiv.org/abs/2604.20289)|null|
 |**2026-04-22**|**Lightweight Low-SNR-Robust Semantic Communication System for Autonomous Driving**|Ruixing Ren et.al.|[2604.20278](http://arxiv.org/abs/2604.20278)|null|
@@ -2002,7 +2013,7 @@ layout: default
 |**2026-04-22**|**From Scene to Object: Text-Guided Dual-Gaze Prediction**|Zehong Ke et.al.|[2604.20191](http://arxiv.org/abs/2604.20191)|null|
 |**2026-04-21**|**CityRAG: Stepping Into a City via Spatially-Grounded Video Generation**|Gene Chou et.al.|[2604.19741](http://arxiv.org/abs/2604.19741)|null|
 |**2026-04-21**|**SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model**|Zewei Zhou et.al.|[2604.19710](http://arxiv.org/abs/2604.19710)|null|
-|**2026-04-21**|**PC2Model: ISPRS benchmark on 3D point cloud to model registration**|Mehdi Maboudi et.al.|[2604.19596](http://arxiv.org/abs/2604.19596)|null|
+|**2026-04-23**|**PC2Model: ISPRS benchmark on 3D point cloud to model registration**|Mehdi Maboudi et.al.|[2604.19596](http://arxiv.org/abs/2604.19596)|null|
 |**2026-04-21**|**VCE: A zero-cost hallucination mitigation method of LVLMs via visual contrastive editing**|Yanbin Huang et.al.|[2604.19412](http://arxiv.org/abs/2604.19412)|null|
 |**2026-04-21**|**PanDA: Unsupervised Domain Adaptation for Multimodal 3D Panoptic Segmentation in Autonomous Driving**|Yining Pan et.al.|[2604.19379](http://arxiv.org/abs/2604.19379)|null|
 |**2026-04-21**|**Unposed-to-3D: Learning Simulation-Ready Vehicles from Real-World Images**|Hongyuan Liu et.al.|[2604.19257](http://arxiv.org/abs/2604.19257)|null|
@@ -3308,6 +3319,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2009-10-21**|**Quantum Error Correction Beyond Completely Positive Maps**|A. Shabani et.al.|[quant-ph/0610028](http://arxiv.org/abs/quant-ph/0610028)|null|
+|**2026-04-23**|**SLAM as a Stochastic Control Problem with Partial Information: Optimal Solutions and Rigorous Approximations**|Ilir Gusija et.al.|[2604.21693](http://arxiv.org/abs/2604.21693)|null|
 |**2026-04-17**|**Environment-Adaptive Solid-State LiDAR-Inertial Odometry**|Zhi Zhang et.al.|[2604.15864](http://arxiv.org/abs/2604.15864)|null|
 |**2026-04-17**|**GaussianFlow SLAM: Monocular Gaussian Splatting SLAM Guided by GaussianFlow**|Dong-Uk Seo et.al.|[2604.15612](http://arxiv.org/abs/2604.15612)|null|
 |**2026-04-15**|**BIEVR-LIO: Robust LiDAR-Inertial Odometry through Bump-Image-Enhanced Voxel Maps**|Patrick Pfreundschuh et.al.|[2604.14421](http://arxiv.org/abs/2604.14421)|null|
@@ -3758,6 +3770,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Direct observation of surface bandgap shrinkage and negative electronic compressibility in SrTiO3**|Warakorn Jindata et.al.|[2604.21783](http://arxiv.org/abs/2604.21783)|null|
+|**2026-04-23**|**Rethinking Cross-Domain Evaluation for Face Forgery Detection with Semantic Fine-grained Alignment and Mixture-of-Experts**|Yuhan Luo et.al.|[2604.21478](http://arxiv.org/abs/2604.21478)|null|
+|**2026-04-23**|**Decoupled DiLoCo for Resilient Distributed Pre-training**|Arthur Douillard et.al.|[2604.21428](http://arxiv.org/abs/2604.21428)|null|
+|**2026-04-23**|**Teacher-Guided Routing for Sparse Vision Mixture-of-Experts**|Masahiro Kada et.al.|[2604.21330](http://arxiv.org/abs/2604.21330)|null|
+|**2026-04-23**|**Enhancing Online Recruitment with Category-Aware MoE and LLM-based Data Augmentation**|Minping Chen et.al.|[2604.21264](http://arxiv.org/abs/2604.21264)|null|
 |**2026-04-22**|**LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model**|Inclusion AI et.al.|[2604.20796](http://arxiv.org/abs/2604.20796)|null|
 |**2026-04-22**|**On Bayesian Softmax-Gated Mixture-of-Experts Models**|Nicola Bariletto et.al.|[2604.20551](http://arxiv.org/abs/2604.20551)|null|
 |**2026-04-22**|**XRF 241001A/SN 2024aiiq: A Faint Soft X-ray Transient Detected by SVOM with a Broad-Line Type Ic Supernova Revealed by JWST**|B. Schneider et.al.|[2604.20346](http://arxiv.org/abs/2604.20346)|null|
@@ -5175,6 +5192,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**On a class of constrained particle filters for continuous-discrete state space models**|Utku Erdogan et.al.|[2604.21538](http://arxiv.org/abs/2604.21538)|null|
+|**2026-04-22**|**Data-Driven Open-Loop Simulation for Digital-Twin Operator Decision Support in Wastewater Treatment**|Gary Simethy et.al.|[2604.20935](http://arxiv.org/abs/2604.20935)|null|
 |**2026-04-22**|**Beyond ZOH: Advanced Discretization Strategies for Vision Mamba**|Fady Ibrahim et.al.|[2604.20606](http://arxiv.org/abs/2604.20606)|null|
 |**2026-04-22**|**An explicit operator explains end-to-end computation in the modern neural networks used for sequence and language modeling**|Anif N. Shikder et.al.|[2604.20595](http://arxiv.org/abs/2604.20595)|null|
 |**2026-04-22**|**MambaLiteUNet: Cross-Gated Adaptive Feature Fusion for Robust Skin Lesion Segmentation**|Md Maklachur Rahman et.al.|[2604.20286](http://arxiv.org/abs/2604.20286)|null|
