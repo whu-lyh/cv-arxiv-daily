@@ -29,7 +29,7 @@
 |**2026-04-20**|**Colour Extraction Pipeline for Odonates using Computer Vision**|Megan Mirnalini Sundaram Rajaraman et.al.|[2604.18725](http://arxiv.org/abs/2604.18725)|null|
 |**2026-04-20**|**T-REN: Learning Text-Aligned Region Tokens Improves Dense Vision-Language Alignment and Scalability**|Savya Khosla et.al.|[2604.18573](http://arxiv.org/abs/2604.18573)|null|
 |**2026-04-20**|**S2H-DPO: Hardness-Aware Preference Optimization for Vision-Language Models**|Nitish Shukla et.al.|[2604.18512](http://arxiv.org/abs/2604.18512)|null|
-|**2026-04-20**|**INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval**|Zhiwei Chen et.al.|[2604.18051](http://arxiv.org/abs/2604.18051)|null|
+|**2026-04-20**|**INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval**|Zhiwei Chen et.al.|[2604.18051](http://arxiv.org/abs/2604.18051)|**[link](https://github.com/iLearn-Lab/AAAI26-INTENT)**|
 |**2026-04-20**|**HABIT: Chrono-Synergia Robust Progressive Learning Framework for Composed Image Retrieval**|Zixu Li et.al.|[2604.18037](http://arxiv.org/abs/2604.18037)|null|
 |**2026-04-20**|**Brain-Inspired Capture: Evidence-Driven Neuromimetic Perceptual Simulation for Visual Decoding**|Feixue Shao et.al.|[2604.17927](http://arxiv.org/abs/2604.17927)|null|
 |**2026-04-20**|**ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval**|Zixu Li et.al.|[2604.17898](http://arxiv.org/abs/2604.17898)|null|
