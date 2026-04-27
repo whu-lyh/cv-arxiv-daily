@@ -2,22 +2,24 @@
 layout: default
 ---
 
-## Updated on 2026.04.26
+## Updated on 2026.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-23**|**TEMA: Anchor the Image, Follow the Text for Multi-Modification Composed Image Retrieval**|Zixu Li et.al.|[2604.21806](http://arxiv.org/abs/2604.21806)|**[link](https://github.com/iLearn-Lab/ACL26-TEMA)**|
+|**2026-04-24**|**Region Matters: Efficient and Reliable Region-Aware Visual Place Recognition**|Shunpeng Chen et.al.|[2604.22390](http://arxiv.org/abs/2604.22390)|null|
+|**2026-04-24**|**Revisiting Geometric Obfuscation with Dual Convergent Lines for Privacy-Preserving Image Queries in Visual Localization**|Jeonggon Kim et.al.|[2604.22310](http://arxiv.org/abs/2604.22310)|null|
+|**2026-04-24**|**TEMA: Anchor the Image, Follow the Text for Multi-Modification Composed Image Retrieval**|Zixu Li et.al.|[2604.21806](http://arxiv.org/abs/2604.21806)|**[link](https://github.com/iLearn-Lab/ACL26-TEMA)**|
 |**2026-04-22**|**StarLoc: Pinpointing Transmitting LEO Satellites from a Single Passive Array**|Ishani Janveja et.al.|[2604.21147](http://arxiv.org/abs/2604.21147)|null|
 |**2026-04-22**|**ConeSep: Cone-based Robust Noise-Unlearning Compositional Network for Composed Image Retrieval**|Zixu Li et.al.|[2604.20358](http://arxiv.org/abs/2604.20358)|**[link](https://github.com/iLearn-Lab/CVPR26-ConeSep)**|
 |**2026-04-22**|**UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval**|Haokun Wen et.al.|[2604.20318](http://arxiv.org/abs/2604.20318)|null|
-|**2026-04-22**|**Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval**|Zhiheng Fu et.al.|[2604.19386](http://arxiv.org/abs/2604.19386)|**[link](https://github.com/iLearn-Lab/CVPR26-Air-Know)**|
+|**2026-04-22**|**Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval**|Zhiheng Fu et.al.|[2604.19386](http://arxiv.org/abs/2604.19386)|null|
 |**2026-04-20**|**Colour Extraction Pipeline for Odonates using Computer Vision**|Megan Mirnalini Sundaram Rajaraman et.al.|[2604.18725](http://arxiv.org/abs/2604.18725)|null|
 |**2026-04-20**|**T-REN: Learning Text-Aligned Region Tokens Improves Dense Vision-Language Alignment and Scalability**|Savya Khosla et.al.|[2604.18573](http://arxiv.org/abs/2604.18573)|null|
 |**2026-04-20**|**S2H-DPO: Hardness-Aware Preference Optimization for Vision-Language Models**|Nitish Shukla et.al.|[2604.18512](http://arxiv.org/abs/2604.18512)|null|
-|**2026-04-20**|**INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval**|Zhiwei Chen et.al.|[2604.18051](http://arxiv.org/abs/2604.18051)|**[link](https://github.com/iLearn-Lab/AAAI26-INTENT)**|
+|**2026-04-20**|**INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval**|Zhiwei Chen et.al.|[2604.18051](http://arxiv.org/abs/2604.18051)|null|
 |**2026-04-20**|**HABIT: Chrono-Synergia Robust Progressive Learning Framework for Composed Image Retrieval**|Zixu Li et.al.|[2604.18037](http://arxiv.org/abs/2604.18037)|null|
 |**2026-04-20**|**Brain-Inspired Capture: Evidence-Driven Neuromimetic Perceptual Simulation for Visual Decoding**|Feixue Shao et.al.|[2604.17927](http://arxiv.org/abs/2604.17927)|null|
 |**2026-04-20**|**ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval**|Zixu Li et.al.|[2604.17898](http://arxiv.org/abs/2604.17898)|null|
@@ -908,12 +910,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**NRGS: Neural Regularization for Robust 3D Semantic Gaussian Splatting**|Zaiyan Yang et.al.|[2604.22439](http://arxiv.org/abs/2604.22439)|null|
+|**2026-04-24**|**Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM**|Yunsong Wang et.al.|[2604.22339](http://arxiv.org/abs/2604.22339)|null|
+|**2026-04-24**|**EvFlow-GS: Event Enhanced Motion Deblurring with Optical Flow for 3D Gaussian Splatting**|Feiyu An et.al.|[2604.22183](http://arxiv.org/abs/2604.22183)|null|
+|**2026-04-24**|**PAGaS: Pixel-Aligned 1DoF Gaussian Splatting for Depth Refinement**|David Recasens et.al.|[2604.22129](http://arxiv.org/abs/2604.22129)|null|
 |**2026-04-20**|**High-Fidelity 3D Gaussian Human Reconstruction via Region-Aware Initialization and Geometric Priors**|Yang Liu et.al.|[2604.21714](http://arxiv.org/abs/2604.21714)|null|
 |**2026-04-23**|**DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures**|Xu Wang et.al.|[2604.21631](http://arxiv.org/abs/2604.21631)|null|
-|**2026-04-23**|**You Only Gaussian Once: Controllable 3D Gaussian Splatting for Ultra-Densely Sampled Scenes**|Jinrang Jia et.al.|[2604.21400](http://arxiv.org/abs/2604.21400)|null|
+|**2026-04-24**|**You Only Gaussian Once: Controllable 3D Gaussian Splatting for Ultra-Densely Sampled Scenes**|Jinrang Jia et.al.|[2604.21400](http://arxiv.org/abs/2604.21400)|null|
 |**2026-04-23**|**WildSplatter: Feed-forward 3D Gaussian Splatting with Appearance Control from Unconstrained Images**|Yuki Fujimura et.al.|[2604.21182](http://arxiv.org/abs/2604.21182)|null|
 |**2026-04-22**|**GSCompleter: A Distillation-Free Plugin for Metric-Aware 3D Gaussian Splatting Completion in Seconds**|Ao Gao et.al.|[2604.20155](http://arxiv.org/abs/2604.20155)|null|
-|**2026-04-21**|**Gaussians on a Diet: High-Quality Memory-Bounded 3D Gaussian Splatting Training**|Yangming Zhang et.al.|[2604.20046](http://arxiv.org/abs/2604.20046)|null|
+|**2026-04-23**|**Gaussians on a Diet: High-Quality Memory-Bounded 3D Gaussian Splatting Training**|Yangming Zhang et.al.|[2604.20046](http://arxiv.org/abs/2604.20046)|null|
 |**2026-04-21**|**FluSplat: Sparse-View 3D Editing without Test-Time Optimization**|Haitao Huang et.al.|[2604.20038](http://arxiv.org/abs/2604.20038)|null|
 |**2026-04-21**|**Camera Control for Text-to-Image Generation via Learning Viewpoint Tokens**|Xinxuan Lu et.al.|[2604.19954](http://arxiv.org/abs/2604.19954)|null|
 |**2026-04-21**|**TransSplat: Unbalanced Semantic Transport for Language-Driven 3DGS Editing**|Yanhui Chen et.al.|[2604.19571](http://arxiv.org/abs/2604.19571)|null|
@@ -2001,8 +2007,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Cross-Stage Coherence in Hierarchical Driving VQA: Explicit Baselines and Learned Gated Context Projectors**|Gautam Kumar Jain et.al.|[2604.22560](http://arxiv.org/abs/2604.22560)|null|
+|**2026-04-24**|**Transferable Physical-World Adversarial Patches Against Pedestrian Detection Models**|Shihui Yan et.al.|[2604.22552](http://arxiv.org/abs/2604.22552)|null|
+|**2026-04-24**|**Towards Safe Mobility: A Unified Transportation Foundation Model enabled by Open-Ended Vision-Language Dataset**|Wenhui Huang et.al.|[2604.22260](http://arxiv.org/abs/2604.22260)|null|
+|**2026-04-24**|**OccDirector: Language-Guided Behavior and Interaction Generation in 4D Occupancy Space**|Zhuding Liang et.al.|[2604.22240](http://arxiv.org/abs/2604.22240)|null|
+|**2026-04-24**|**GICC: A High-Performance Runtime for GPU-Initiated Communication and Coordination in Modern HPC Systems**|Baodi Shan et.al.|[2604.22126](http://arxiv.org/abs/2604.22126)|null|
 |**2026-04-23**|**MISTY: High-Throughput Motion Planning via Mixer-based Single-step Drifting**|Yining Xing et.al.|[2604.21489](http://arxiv.org/abs/2604.21489)|null|
-|**2026-04-23**|**Frozen LLMs as Map-Aware Spatio-Temporal Reasoners for Vehicle Trajectory Prediction**|Yanjiao Liu et.al.|[2604.21479](http://arxiv.org/abs/2604.21479)|null|
+|**2026-04-24**|**Frozen LLMs as Map-Aware Spatio-Temporal Reasoners for Vehicle Trajectory Prediction**|Yanjiao Liu et.al.|[2604.21479](http://arxiv.org/abs/2604.21479)|null|
 |**2026-04-23**|**Reasoning About Traversability: Language-Guided Off-Road 3D Trajectory Planning**|Byounggun Park et.al.|[2604.21249](http://arxiv.org/abs/2604.21249)|null|
 |**2026-04-22**|**Enabling Mixed criticality applications for the Versal AI-Engines**|Vincent Sprave et.al.|[2604.21124](http://arxiv.org/abs/2604.21124)|null|
 |**2026-04-21**|**Towards a Systematic Risk Assessment of Deep Neural Network Limitations in Autonomous Driving Perception**|Svetlana Pavlitska et.al.|[2604.20895](http://arxiv.org/abs/2604.20895)|null|
@@ -3770,6 +3781,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Synchrotron polarization of anisotropic electron distribution in GRB prompt emission**|Kang-Fa Cheng et.al.|[2604.22598](http://arxiv.org/abs/2604.22598)|null|
+|**2026-04-24**|**Towards Adaptive Continual Model Merging via Manifold-Aware Expert Evolution**|Haiyun Qiu et.al.|[2604.22464](http://arxiv.org/abs/2604.22464)|null|
+|**2026-04-24**|**The Cathaya argyrophylla Genome Reveals the Evolutionary Trade-offs of a Living Fossil**|Yun Wang et.al.|[2604.22440](http://arxiv.org/abs/2604.22440)|null|
+|**2026-04-24**|**QAssemble: A Pure Python Package for Quantum Many-Body Theory**|Seongjun Mo et.al.|[2604.22223](http://arxiv.org/abs/2604.22223)|null|
 |**2026-04-23**|**Direct observation of surface bandgap shrinkage and negative electronic compressibility in SrTiO3**|Warakorn Jindata et.al.|[2604.21783](http://arxiv.org/abs/2604.21783)|null|
 |**2026-04-23**|**Rethinking Cross-Domain Evaluation for Face Forgery Detection with Semantic Fine-grained Alignment and Mixture-of-Experts**|Yuhan Luo et.al.|[2604.21478](http://arxiv.org/abs/2604.21478)|null|
 |**2026-04-23**|**Decoupled DiLoCo for Resilient Distributed Pre-training**|Arthur Douillard et.al.|[2604.21428](http://arxiv.org/abs/2604.21428)|null|
@@ -5192,6 +5207,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Short timescale variation in the submillimeter flux of Sagittarius A***|Makoto Miyoshi et.al.|[2604.22144](http://arxiv.org/abs/2604.22144)|null|
+|**2026-04-23**|**MambaCSP: Hybrid-Attention State Space Models for Hardware-Efficient Channel State Prediction**|Aladin Djuhera et.al.|[2604.21957](http://arxiv.org/abs/2604.21957)|null|
 |**2026-04-23**|**On a class of constrained particle filters for continuous-discrete state space models**|Utku Erdogan et.al.|[2604.21538](http://arxiv.org/abs/2604.21538)|null|
 |**2026-04-22**|**Data-Driven Open-Loop Simulation for Digital-Twin Operator Decision Support in Wastewater Treatment**|Gary Simethy et.al.|[2604.20935](http://arxiv.org/abs/2604.20935)|null|
 |**2026-04-22**|**Beyond ZOH: Advanced Discretization Strategies for Vision Mamba**|Fady Ibrahim et.al.|[2604.20606](http://arxiv.org/abs/2604.20606)|null|
