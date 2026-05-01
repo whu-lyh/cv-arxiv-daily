@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Twitter climate discourse as a signal of pro-environmental behaviors**|Edoardo Maggioni et.al.|[2604.27330](http://arxiv.org/abs/2604.27330)|null|
+|**2026-04-30**|**Static Attribution of Android Residential Proxy Malware Using Graph Kernels**|Peter Clark et.al.|[2604.27302](http://arxiv.org/abs/2604.27302)|null|
 |**2026-04-29**|**AirZoo: A Unified Large-Scale Dataset for Grounding Aerial Geometric 3D Vision**|Xiaoya Cheng et.al.|[2604.26567](http://arxiv.org/abs/2604.26567)|null|
 |**2026-04-29**|**3D-LENS: A 3D Lifting-based Elevated Novel-view Synthesis method for Single-View Aerial-Ground Re-Identification**|William Grolleau et.al.|[2604.26520](http://arxiv.org/abs/2604.26520)|null|
 |**2026-04-28**|**GeoSearch: Augmenting Worldwide Geolocalization with Web-Scale Reverse Image Search and Image Matching**|Tung-Duong Le-Duc et.al.|[2604.25390](http://arxiv.org/abs/2604.25390)|null|
@@ -877,19 +879,19 @@ layout: default
 |**2025-10-20**|**Closed-Loop Transfer for Weakly-supervised Affordance Grounding**|Jiajin Tang et.al.|[2510.17384](http://arxiv.org/abs/2510.17384)|null|
 |**2025-09-27**|**AttAnchor: Guiding Cross-Modal Token Alignment in VLMs with Attention Anchors**|Junyang Zhang et.al.|[2509.23109](http://arxiv.org/abs/2509.23109)|null|
 |**2025-09-30**|**InterKey: Cross-modal Intersection Keypoints for Global Localization on OpenStreetMap**|Nguyen Hoang Khoi Tran et.al.|[2509.13857](http://arxiv.org/abs/2509.13857)|null|
-|**2025-12-28**|**Cross-modal Full-mode Fine-grained Alignment for Text-to-Image Person Retrieval**|Hao Yin et.al.|[2509.13754](http://arxiv.org/abs/2509.13754)|null|
+|**2025-12-28**|**Cross-modal Full-mode Fine-grained Alignment for Text-to-Image Person Retrieval**|Hao Yin et.al.|[2509.13754](http://arxiv.org/abs/2509.13754)|**[link](https://github.com/yinhao1102/FMFA)**|
 |**2025-09-16**|**Semantic-Enhanced Cross-Modal Place Recognition for Robust Robot Localization**|Yujia Lin et.al.|[2509.13474](http://arxiv.org/abs/2509.13474)|null|
 |**2025-09-12**|**TUNI: Real-time RGB-T Semantic Segmentation with Unified Multi-Modal Feature Extraction and Cross-Modal Feature Fusion**|Xiaodong Guo et.al.|[2509.10005](http://arxiv.org/abs/2509.10005)|null|
 |**2025-09-09**|**Aerial-ground Cross-modal Localization: Dataset, Ground-truth, and Benchmark**|Yandi Yang et.al.|[2509.07362](http://arxiv.org/abs/2509.07362)|null|
-|**2025-10-10**|**SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization**|Hanjun Kim et.al.|[2506.15175](http://arxiv.org/abs/2506.15175)|null|
-|**2025-08-27**|**OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**|Shuhao Kang et.al.|[2504.19258](http://arxiv.org/abs/2504.19258)|null|
+|**2025-10-10**|**SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization**|Hanjun Kim et.al.|[2506.15175](http://arxiv.org/abs/2506.15175)|**[link](https://github.com/hanjun815/SHeRLoc)**|
+|**2025-08-27**|**OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**|Shuhao Kang et.al.|[2504.19258](http://arxiv.org/abs/2504.19258)|**[link](https://github.com/kang-1-2-3/OPAL)**|
 |**2024-12-19**|**Dense Audio-Visual Event Localization under Cross-Modal Consistency and Multi-Temporal Granularity Collaboration**|Ziheng Zhou et.al.|[2412.12628](http://arxiv.org/abs/2412.12628)|null|
 |**2024-12-02**|**Cross-Modal Visual Relocalization in Prior LiDAR Maps Utilizing Intensity Textures**|Qiyuan Shen et.al.|[2412.01299](http://arxiv.org/abs/2412.01299)|null|
-|**2024-11-02**|**X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios**|Yichen Xie et.al.|[2411.01123](http://arxiv.org/abs/2411.01123)|null|
+|**2024-11-02**|**X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios**|Yichen Xie et.al.|[2411.01123](http://arxiv.org/abs/2411.01123)|**[link](https://github.com/yichen928/X-Drive)**|
 |**2025-05-12**|**Locality-aware Cross-modal Correspondence Learning for Dense Audio-Visual Events Localization**|Ling Xing et.al.|[2409.07967](http://arxiv.org/abs/2409.07967)|null|
 |**2025-02-24**|**MambaPlace:Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms**|Tianyi Shang et.al.|[2408.15740](http://arxiv.org/abs/2408.15740)|null|
 |**2024-06-26**|**Local-to-Global Cross-Modal Attention-Aware Fusion for HSI-X Semantic Segmentation**|Xuming Zhang et.al.|[2406.17679](http://arxiv.org/abs/2406.17679)|null|
-|**2024-05-13**|**JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation**|Xubo Luo et.al.|[2405.07429](http://arxiv.org/abs/2405.07429)|null|
+|**2024-05-13**|**JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation**|Xubo Luo et.al.|[2405.07429](http://arxiv.org/abs/2405.07429)|**[link](https://github.com/LuoXubo/JointLoc)**|
 |**2024-04-27**|**Instance-free Text to Point Cloud Localization with Relative Position Awareness**|Lichao Wang et.al.|[2404.17845](http://arxiv.org/abs/2404.17845)|null|
 |**2024-07-15**|**SceneGraphLoc: Cross-Modal Coarse Visual Localization on 3D Scene Graphs**|Yang Miao et.al.|[2404.00469](http://arxiv.org/abs/2404.00469)|null|
 |**2024-03-11**|**LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**|Xinrui Wu et.al.|[2403.05002](http://arxiv.org/abs/2403.05002)|null|
@@ -915,6 +917,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Stop Holding Your Breath: CT-Informed Gaussian Splatting for Dynamic Bronchoscopy**|Andrea Dunn Beltran et.al.|[2604.28179](http://arxiv.org/abs/2604.28179)|null|
+|**2026-04-30**|**GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment**|Ziang Guo et.al.|[2604.28111](http://arxiv.org/abs/2604.28111)|null|
+|**2026-04-30**|**Faster 3D Gaussian Splatting Convergence via Structure-Aware Densification**|Linjie Lyu et.al.|[2604.28016](http://arxiv.org/abs/2604.28016)|null|
+|**2026-04-30**|**Fake3DGS: A Benchmark for 3D Manipulation Detection in Neural Rendering**|Davide Di Nucci et.al.|[2604.27590](http://arxiv.org/abs/2604.27590)|null|
+|**2026-04-30**|**SandSim: Curve-Guided Gaussian Splatting for Reconstructing Sand Painting Processes**|Yilin Wang et.al.|[2604.27572](http://arxiv.org/abs/2604.27572)|null|
+|**2026-04-30**|**Residual Gaussian Splatting for Ultra Sparse-View CBCT Reconstruction**|Jian Lin et.al.|[2604.27552](http://arxiv.org/abs/2604.27552)|null|
+|**2026-04-30**|**Softmax-GS: Generalized Gaussians Learning When to Blend or Bound**|Chen Ziwen et.al.|[2604.27437](http://arxiv.org/abs/2604.27437)|null|
+|**2026-04-30**|**Sparse-View 3D Gaussian Splatting in the Wild**|Wongi Park et.al.|[2604.27422](http://arxiv.org/abs/2604.27422)|null|
 |**2026-04-29**|**Color-Encoded Illumination for High-Speed Volumetric Scene Reconstruction**|David Novikov et.al.|[2604.26920](http://arxiv.org/abs/2604.26920)|null|
 |**2026-04-29**|**MesonGS++: Post-training Compression of 3D Gaussian Splatting with Hyperparameter Searching**|Shuzhao Xie et.al.|[2604.26799](http://arxiv.org/abs/2604.26799)|null|
 |**2026-04-29**|**Learning Sparse BRDF Measurement Samples from Image**|Wen Cao et.al.|[2604.26740](http://arxiv.org/abs/2604.26740)|null|
@@ -2026,6 +2036,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2604.28196](http://arxiv.org/abs/2604.28196)|null|
+|**2026-04-30**|**GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment**|Ziang Guo et.al.|[2604.28111](http://arxiv.org/abs/2604.28111)|null|
+|**2026-04-30**|**Towards Neuro-symbolic Causal Rule Synthesis, Verification, and Evaluation Grounded in Legal and Safety Principles**|Zainab Rehan et.al.|[2604.28087](http://arxiv.org/abs/2604.28087)|null|
+|**2026-04-30**|**Towards All-Day Perception for Off-Road Driving: A Large-Scale Multispectral Dataset and Comprehensive Benchmark**|Shuo Wang et.al.|[2604.27499](http://arxiv.org/abs/2604.27499)|null|
+|**2026-04-30**|**Understanding Adversarial Transferability in Vision-Language Models for Autonomous Driving: A Cross-Architecture Analysis**|David Fernandez et.al.|[2604.27414](http://arxiv.org/abs/2604.27414)|null|
+|**2026-04-30**|**Judge, Then Drive: A Critic-Centric Vision Language Action Framework for Autonomous Driving**|Lijin Yang et.al.|[2604.27366](http://arxiv.org/abs/2604.27366)|null|
 |**2026-04-28**|**SWAN: World-Aware Adaptive Multimodal Networks for Runtime Variations**|Jason Wu et.al.|[2604.26181](http://arxiv.org/abs/2604.26181)|null|
 |**2026-04-28**|**Control Your Queries: Heterogeneous Query Interaction for Camera-Radar Fusion**|Jialong Wu et.al.|[2604.25574](http://arxiv.org/abs/2604.25574)|null|
 |**2026-04-28**|**Leveraging Previous-Traversal Point Cloud Map Priors for Camera-Based 3D Object Detection and Tracking**|Markus Käppeler et.al.|[2604.25405](http://arxiv.org/abs/2604.25405)|null|
@@ -3822,6 +3838,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning**|Sudong Wang et.al.|[2604.28123](http://arxiv.org/abs/2604.28123)|null|
+|**2026-04-30**|**Language Models Refine Mechanical Linkage Designs Through Symbolic Reflection and Modular Optimisation**|João Pedro Gandarela et.al.|[2604.27962](http://arxiv.org/abs/2604.27962)|null|
+|**2026-04-30**|**Prediction-powered Inference by Mixture of Experts**|Yanwu Gu et.al.|[2604.27892](http://arxiv.org/abs/2604.27892)|null|
+|**2026-04-30**|**ZipCCL: Efficient Lossless Data Compression of Communication Collectives for Accelerating LLM Training**|Wenxiang Lin et.al.|[2604.27844](http://arxiv.org/abs/2604.27844)|null|
+|**2026-04-30**|**MASCing: Configurable Mixture-of-Experts Behavior via Activation Steering Masks**|Jona te Lintelo et.al.|[2604.27818](http://arxiv.org/abs/2604.27818)|null|
+|**2026-04-30**|**EdgeFM: Efficient Edge Inference for Vision-Language Models**|Mengling Deng et.al.|[2604.27476](http://arxiv.org/abs/2604.27476)|null|
+|**2026-04-30**|**DeepPropNet: an operator learning-based predictor for thermal plasma properties**|Zuo Wang et.al.|[2604.27298](http://arxiv.org/abs/2604.27298)|null|
+|**2026-04-29**|**First-Principles Thermodynamic Analysis of Ternary Chalcogenide Phase Change Materials**|Felix Adams et.al.|[2604.27120](http://arxiv.org/abs/2604.27120)|null|
+|**2026-04-29**|**Observation of a Doubly-strange Hyperon $Ξ(1720)$ in $J/ψ\rightarrow{}K^{-}Σ^0\barΞ^{+}+c.c.$**|BESIII Collaboration et.al.|[2604.27028](http://arxiv.org/abs/2604.27028)|null|
 |**2026-04-29**|**Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models**|Gongbo Zhang et.al.|[2604.26951](http://arxiv.org/abs/2604.26951)|null|
 |**2026-04-29**|**FaaSMoE: A Serverless Framework for Multi-Tenant Mixture-of-Experts Serving**|Minghe Wang et.al.|[2604.26881](http://arxiv.org/abs/2604.26881)|null|
 |**2026-04-29**|**Human-in-the-Loop Benchmarking of Heterogeneous LLMs for Automated Competency Assessment in Secondary Level Mathematics**|Jatin Bhusal et.al.|[2604.26607](http://arxiv.org/abs/2604.26607)|null|
@@ -5287,6 +5312,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Sequential Inference for Gaussian Processes: A Signal Processing Perspective**|Daniel Waxman et.al.|[2604.28163](http://arxiv.org/abs/2604.28163)|null|
+|**2026-04-30**|**RopeDreamer: A Kinematic Recurrent State Space Model for Dynamics of Flexible Deformable Linear Objects**|Tim Missal et.al.|[2604.28161](http://arxiv.org/abs/2604.28161)|null|
+|**2026-04-29**|**Toward Personalized Digital Twins for Cognitive Decline Assessment: A Multimodal, Uncertainty-Aware Framework**|Bulent Soykan et.al.|[2604.27217](http://arxiv.org/abs/2604.27217)|null|
 |**2026-04-29**|**$\text{PKS}^4$ :Parallel Kinematic Selective State Space Scanners for Efficient Video Understanding**|Lingjie Zeng et.al.|[2604.26461](http://arxiv.org/abs/2604.26461)|null|
 |**2026-04-28**|**PPG-Based Affect Recognition with Long-Range Deep Models: A Measurement-Driven Comparison of CNN, Transformer, and Mamba Architectures**|Karim Alghoul et.al.|[2604.26078](http://arxiv.org/abs/2604.26078)|null|
 |**2026-04-28**|**Observable Neural ODEs for Identifiable Causal Forecasting in Continuous Time**|Jennifer Wendland et.al.|[2604.26070](http://arxiv.org/abs/2604.26070)|null|
@@ -6097,6 +6125,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**FUN: A Focal U-Net Combining Reconstruction and Object Detection for Snapshot Spectral Imaging**|Dahua Gao et.al.|[2604.27653](http://arxiv.org/abs/2604.27653)|null|
+|**2026-04-30**|**Hyperspectral Image Classification via Efficient Global Spectral Supertoken Clustering**|Peifu Liu et.al.|[2604.27364](http://arxiv.org/abs/2604.27364)|null|
+|**2026-04-30**|**Spectral Dynamic Attention Network for Hyperspectral Image Super-Resolution**|Tengya Zhang et.al.|[2604.27326](http://arxiv.org/abs/2604.27326)|null|
+|**2026-04-30**|**Representative Spectral Correlation Network for Multi-source Remote Sensing Image Classification**|Chuanzheng Gong et.al.|[2604.27323](http://arxiv.org/abs/2604.27323)|null|
 |**2026-04-29**|**Cross-Domain Transfer of Hyperspectral Foundation Models**|Nick Theisen et.al.|[2604.26478](http://arxiv.org/abs/2604.26478)|null|
 |**2026-04-29**|**High-Dimensional Noise to Low-Dimensional Manifolds: A Manifold-Space Diffusion Framework for Degraded Hyperspectral Image Classification**|Boxiang Yang et.al.|[2604.26279](http://arxiv.org/abs/2604.26279)|null|
 |**2026-04-28**|**MixerCA: An Efficient and Accurate Model for High-Performance Hyperspectral Image Classification**|Mohammed Q. Alkhatib et.al.|[2604.26138](http://arxiv.org/abs/2604.26138)|null|
