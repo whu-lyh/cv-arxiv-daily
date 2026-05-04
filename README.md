@@ -398,7 +398,7 @@
 |**2025-11-26**|**Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy**|Teng Hu et.al.|[2511.21579](http://arxiv.org/abs/2511.21579)|null|
 |**2025-11-26**|**CanKD: Cross-Attention-based Non-local operation for Feature-based Knowledge Distillation**|Shizhe Sun et.al.|[2511.21503](http://arxiv.org/abs/2511.21503)|null|
 |**2025-11-26**|**Semantic-Enhanced Feature Matching with Learnable Geometric Verification for Cross-Modal Neuron Registration**|Wenwei Li et.al.|[2511.21452](http://arxiv.org/abs/2511.21452)|null|
-|**2025-11-26**|**Hierarchical Besov-Laplace priors for spatially inhomogeneous binary classification**|Patric Dolmeta et.al.|[2511.21441](http://arxiv.org/abs/2511.21441)|null|
+|**2025-11-26**|**Hierarchical Besov-Laplace priors for spatially inhomogeneous binary classification**|Patric Dolmeta et.al.|[2511.21441](http://arxiv.org/abs/2511.21441)|**[link](https://github.com/PatricDolmeta/Besov-Laplace-Classification)**|
 |**2025-11-26**|**FITRep: Attention-Guided Item Representation via MLLMs**|Guoxiao Zhang et.al.|[2511.21389](http://arxiv.org/abs/2511.21389)|null|
 |**2025-11-26**|**Thinking With Bounding Boxes: Enhancing Spatio-Temporal Video Grounding via Reinforcement Fine-Tuning**|Xin Gu et.al.|[2511.21375](http://arxiv.org/abs/2511.21375)|null|
 |**2025-11-26**|**The Directed Prediction Change - Efficient and Trustworthy Fidelity Assessment for Local Feature Attribution Methods**|Kevin Iselborn et.al.|[2511.21363](http://arxiv.org/abs/2511.21363)|null|
@@ -971,7 +971,7 @@
 |**2026-04-24**|**EvFlow-GS: Event Enhanced Motion Deblurring with Optical Flow for 3D Gaussian Splatting**|Feiyu An et.al.|[2604.22183](http://arxiv.org/abs/2604.22183)|null|
 |**2026-04-24**|**PAGaS: Pixel-Aligned 1DoF Gaussian Splatting for Depth Refinement**|David Recasens et.al.|[2604.22129](http://arxiv.org/abs/2604.22129)|null|
 |**2026-04-20**|**High-Fidelity 3D Gaussian Human Reconstruction via Region-Aware Initialization and Geometric Priors**|Yang Liu et.al.|[2604.21714](http://arxiv.org/abs/2604.21714)|null|
-|**2026-04-23**|**DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures**|Xu Wang et.al.|[2604.21631](http://arxiv.org/abs/2604.21631)|null|
+|**2026-04-23**|**DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures**|Xu Wang et.al.|[2604.21631](http://arxiv.org/abs/2604.21631)|**[link](https://github.com/Lans1ot/DualSplat)**|
 |**2026-04-24**|**You Only Gaussian Once: Controllable 3D Gaussian Splatting for Ultra-Densely Sampled Scenes**|Jinrang Jia et.al.|[2604.21400](http://arxiv.org/abs/2604.21400)|null|
 |**2026-04-23**|**WildSplatter: Feed-forward 3D Gaussian Splatting with Appearance Control from Unconstrained Images**|Yuki Fujimura et.al.|[2604.21182](http://arxiv.org/abs/2604.21182)|null|
 |**2026-04-22**|**GSCompleter: A Distillation-Free Plugin for Metric-Aware 3D Gaussian Splatting Completion in Seconds**|Ao Gao et.al.|[2604.20155](http://arxiv.org/abs/2604.20155)|null|
@@ -1623,8 +1623,8 @@
 |**2025-11-28**|**NumeriKontrol: Adding Numeric Control to Diffusion Transformers for Instruction-based Image Editing**|Zhenyu Xu et.al.|[2511.23105](http://arxiv.org/abs/2511.23105)|null|
 |**2025-11-28**|**Geometry-Consistent 4D Gaussian Splatting for Sparse-Input Dynamic View Synthesis**|Yiwei Li et.al.|[2511.23044](http://arxiv.org/abs/2511.23044)|null|
 |**2025-11-28**|**DiskChunGS: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management**|Casimir Feldmann et.al.|[2511.23030](http://arxiv.org/abs/2511.23030)|null|
-|**2025-11-28**|**MrGS: Multi-modal Radiance Fields with 3D Gaussian Splatting for RGB-Thermal Novel View Synthesis**|Minseong Kweon et.al.|[2511.22997](http://arxiv.org/abs/2511.22997)|null|
-|**2025-11-28**|**MultiBanana: A Challenging Benchmark for Multi-Reference Text-to-Image Generation**|Yuta Oshima et.al.|[2511.22989](http://arxiv.org/abs/2511.22989)|null|
+|**2025-11-28**|**MrGS: Multi-modal Radiance Fields with 3D Gaussian Splatting for RGB-Thermal Novel View Synthesis**|Minseong Kweon et.al.|[2511.22997](http://arxiv.org/abs/2511.22997)|**[link](https://github.com/mnseong/MrGS)**|
+|**2025-11-28**|**MultiBanana: A Challenging Benchmark for Multi-Reference Text-to-Image Generation**|Yuta Oshima et.al.|[2511.22989](http://arxiv.org/abs/2511.22989)|**[link](https://github.com/matsuolab/multibanana)**|
 |**2025-11-28**|**Ovis-Image Technical Report**|Guo-Hua Wang et.al.|[2511.22982](http://arxiv.org/abs/2511.22982)|null|
 |**2025-11-28**|**Taming the Light: Illumination-Invariant Semantic 3DGS-SLAM**|Shouhe Zhang et.al.|[2511.22968](http://arxiv.org/abs/2511.22968)|null|
 |**2025-11-28**|**DenoiseGS: Gaussian Reconstruction Model for Burst Denoising**|Yongsen Cheng et.al.|[2511.22939](http://arxiv.org/abs/2511.22939)|null|
@@ -2640,7 +2640,7 @@
 |**2026-01-15**|**OT-Drive: Out-of-Distribution Off-Road Traversable Area Segmentation via Optimal Transport**|Zhihua Zhao et.al.|[2601.09952](http://arxiv.org/abs/2601.09952)|null|
 |**2026-01-14**|**LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving**|Carlo Sgaravatti et.al.|[2601.09812](http://arxiv.org/abs/2601.09812)|null|
 |**2026-01-14**|**MAD: Motion Appearance Decoupling for efficient Driving World Models**|Ahmad Rahimi et.al.|[2601.09452](http://arxiv.org/abs/2601.09452)|null|
-|**2026-01-14**|**Data Scaling for Navigation in Unknown Environments**|Lauri Suomela et.al.|[2601.09444](http://arxiv.org/abs/2601.09444)|null|
+|**2026-01-14**|**Data Scaling for Navigation in Unknown Environments**|Lauri Suomela et.al.|[2601.09444](http://arxiv.org/abs/2601.09444)|**[link](https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020)**|
 |**2026-01-14**|**ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving**|Xuemei Yao et.al.|[2601.09377](http://arxiv.org/abs/2601.09377)|null|
 |**2026-01-14**|**Monte-Carlo Tree Search with Neural Network Guidance for Lane-Free Autonomous Driving**|Ioannis Peridis et.al.|[2601.09353](http://arxiv.org/abs/2601.09353)|null|
 |**2026-01-13**|**SoC: Semantic Orthogonal Calibration for Test-Time Prompt Tuning**|Leo Fillioux et.al.|[2601.08617](http://arxiv.org/abs/2601.08617)|null|
@@ -2767,7 +2767,7 @@
 |**2025-12-16**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Haoyu Fu et.al.|[2512.13636](http://arxiv.org/abs/2512.13636)|null|
 |**2025-12-15**|**Post-Training and Test-Time Scaling of Generative Agent Behavior Models for Interactive Autonomous Driving**|Hyunki Seong et.al.|[2512.13262](http://arxiv.org/abs/2512.13262)|null|
 |**2025-12-16**|**MMDrive: Interactive Scene Understanding Beyond Vision with Multi-representational Fusion**|Minghui Hou et.al.|[2512.13177](http://arxiv.org/abs/2512.13177)|null|
-|**2025-12-15**|**Diffusion-Based Restoration for Multi-Modal 3D Object Detection in Adverse Weather**|Zhijian He et.al.|[2512.13107](http://arxiv.org/abs/2512.13107)|null|
+|**2025-12-15**|**Diffusion-Based Restoration for Multi-Modal 3D Object Detection in Adverse Weather**|Zhijian He et.al.|[2512.13107](http://arxiv.org/abs/2512.13107)|**[link](https://github.com/SCNU-RISLAB/DiffFusion)**|
 |**2025-12-15**|**Sequence of Expert: Boosting Imitation Planners for Autonomous Driving through Temporal Alternation**|Xiang Li et.al.|[2512.13094](http://arxiv.org/abs/2512.13094)|null|
 |**2025-12-15**|**Machine Learning Architectures for the Estimation of Predicted Occupancy Grids in Road Traffic**|Parthasarathy Nadarajan et.al.|[2512.12907](http://arxiv.org/abs/2512.12907)|null|
 |**2025-12-14**|**GradID: Adversarial Detection via Intrinsic Dimensionality of Gradients**|Mohammad Mahdi Razmjoo et.al.|[2512.12827](http://arxiv.org/abs/2512.12827)|null|
@@ -3405,7 +3405,7 @@
 |**2024-04-16**|**Are NeRFs ready for autonomous driving? Towards closing the real-to-simulation gap**|Carl Lindström et.al.|[2403.16092](http://arxiv.org/abs/2403.16092)|null|
 |**2023-05-30**|**Selective Communication for Cooperative Perception in End-to-End Autonomous Driving**|Hsu-kuang Chiu et.al.|[2305.17181](http://arxiv.org/abs/2305.17181)|null|
 |**2023-09-14**|**Collaborative Perception in Autonomous Driving: Methods, Datasets and Challenges**|Yushan Han et.al.|[2301.06262](http://arxiv.org/abs/2301.06262)|**[link](https://github.com/CatOneTwo/Collaborative-Perception-in-Autonomous-Driving)**|
-|**2022-06-28**|**A Human-Centric Method for Generating Causal Explanations in Natural Language for Autonomous Vehicle Motion Planning**|Balint Gyevnar et.al.|[2206.08783](http://arxiv.org/abs/2206.08783)|null|
+|**2022-06-28**|**A Human-Centric Method for Generating Causal Explanations in Natural Language for Autonomous Vehicle Motion Planning**|Balint Gyevnar et.al.|[2206.08783](http://arxiv.org/abs/2206.08783)|**[link](https://github.com/uoe-agents/xavi-ai4ad)**|
 |**2023-07-31**|**Pushing the Limits of Learning-based Traversability Analysis for Autonomous Driving on CPU**|Daniel Fusaro et.al.|[2206.03083](http://arxiv.org/abs/2206.03083)|null|
 |**2021-11-16**|**A Scenario-Based Platform for Testing Autonomous Vehicle Behavior Prediction Models in Simulation**|Francis Indaheng et.al.|[2110.14870](http://arxiv.org/abs/2110.14870)|null|
 |**2021-11-03**|**Offline Reinforcement Learning for Autonomous Driving with Safety and Exploration Enhancement**|Tianyu Shi et.al.|[2110.07067](http://arxiv.org/abs/2110.07067)|null|
@@ -3413,7 +3413,7 @@
 |**2021-08-10**|**Workshop on Autonomous Driving at CVPR 2021: Technical Report for Streaming Perception Challenge**|Songyang Zhang et.al.|[2108.04230](http://arxiv.org/abs/2108.04230)|null|
 |**2021-04-23**|**Multi-task Learning with Attention for End-to-end Autonomous Driving**|Keishi Ishihara et.al.|[2104.10753](http://arxiv.org/abs/2104.10753)|null|
 |**2021-03-31**|**Multi-modal Trajectory Prediction for Autonomous Driving with Semantic Map and Dynamic Graph Attention Network**|Bo Dong et.al.|[2103.16273](http://arxiv.org/abs/2103.16273)|null|
-|**2023-05-16**|**Control Strategies for Autonomous Vehicles**|Chinmay Vilas Samak et.al.|[2011.08729](http://arxiv.org/abs/2011.08729)|null|
+|**2023-05-16**|**Control Strategies for Autonomous Vehicles**|Chinmay Vilas Samak et.al.|[2011.08729](http://arxiv.org/abs/2011.08729)|**[link](https://github.com/jettbrains/-L-)**|
 |**2019-12-03**|**Quadratic Q-network for Learning Continuous Control for Autonomous Vehicles**|Pin Wang et.al.|[1912.00074](http://arxiv.org/abs/1912.00074)|null|
 |**2019-09-18**|**A*3D Dataset: Towards Autonomous Driving in Challenging Environments**|Quang-Hieu Pham et.al.|[1909.07541](http://arxiv.org/abs/1909.07541)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
@@ -4610,7 +4610,7 @@
 |**2026-01-27**|**LoPRo: Enhancing Low-Rank Quantization via Permuted Block-Wise Rotation**|Hongyaoxing Gu et.al.|[2601.19675](http://arxiv.org/abs/2601.19675)|null|
 |**2026-01-27**|**GMS-CAVP: Improving Audio-Video Correspondence with Multi-Scale Contrastive and Generative Pretraining**|Shentong Mo et.al.|[2601.19606](http://arxiv.org/abs/2601.19606)|null|
 |**2026-01-27**|**Search for the isospin-violating decays $\boldsymbol{χ_{cJ}\toΛ\barΣ^{0}+c.c.}$ and $\boldsymbol{η_{c}\toΛ\barΣ^{0}+c.c.}$**|BESIII Collaboration et.al.|[2601.19493](http://arxiv.org/abs/2601.19493)|null|
-|**2026-01-27**|**Dynamic Multi-Expert Projectors with Stabilized Routing for Multilingual Speech Recognition**|Isha Pandey et.al.|[2601.19451](http://arxiv.org/abs/2601.19451)|null|
+|**2026-01-27**|**Dynamic Multi-Expert Projectors with Stabilized Routing for Multilingual Speech Recognition**|Isha Pandey et.al.|[2601.19451](http://arxiv.org/abs/2601.19451)|**[link](https://github.com/iishapandey/SMEAR-MoE-ASR)**|
 |**2026-01-26**|**Superlinear Multi-Step Attention**|Yufeng Huang et.al.|[2601.18401](http://arxiv.org/abs/2601.18401)|null|
 |**2026-01-26**|**FP8-RL: A Practical and Stable Low-Precision Stack for LLM Reinforcement Learning**|Zhaopeng Qiu et.al.|[2601.18150](http://arxiv.org/abs/2601.18150)|null|
 |**2026-01-26**|**Beyond Static Datasets: Robust Offline Policy Optimization via Vetted Synthetic Transitions**|Pedram Agand et.al.|[2601.18107](http://arxiv.org/abs/2601.18107)|null|
