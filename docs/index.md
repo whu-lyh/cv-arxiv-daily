@@ -2,16 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.05.05
+## Updated on 2026.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Geolocating News about Extreme Climate Events: A Comparative Analysis of Off-the-Shelf Tools for Toponym Identification in German**|Brielen Madureira et.al.|[2605.03414](http://arxiv.org/abs/2605.03414)|null|
+|**2026-05-04**|**AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion**|Yu-Ju Tsai et.al.|[2605.02892](http://arxiv.org/abs/2605.02892)|null|
 |**2026-05-04**|**TRACED: In vivo imaging of extracellular intrinsic diffusivity, tortuosity, cell size distribution and cell density in human glioma patients**|Joshua K. Marchant et.al.|[2605.02615](http://arxiv.org/abs/2605.02615)|null|
 |**2026-05-04**|**StableMind: Source-Free Cross-Subject fMRI Decoding with Regularized Adaptation**|Jintao Guo et.al.|[2605.02586](http://arxiv.org/abs/2605.02586)|null|
-|**2026-05-04**|**GuardSec: A Multi-Modal Web Platform for Real-Time Digital Fraud Detection, Entity Verification, and Connection Security Analysis in the African Context**|Gilda Rech Bansimba et.al.|[2605.02502](http://arxiv.org/abs/2605.02502)|null|
+|**2026-05-05**|**GuardSec: A Multi-Modal Web Platform for Real-Time Digital Fraud Detection, Entity Verification, and Connection Security Analysis in the African Context**|Gilda Rech Bansimba et.al.|[2605.02502](http://arxiv.org/abs/2605.02502)|null|
 |**2026-05-04**|**Rethinking Electro-Optical Vision Foundation Models for Remote Sensing Retrieval: A Controlled Comparison with Generalist VFM**|Hyobin Park et.al.|[2605.02283](http://arxiv.org/abs/2605.02283)|null|
 |**2026-05-02**|**X-ray dark-field imaging from intensity flow: A Fokker-Planck approach to grating interferometry**|Samantha J. Alloo et.al.|[2605.01265](http://arxiv.org/abs/2605.01265)|null|
 |**2026-04-29**|**Object-Level Explanations for Image Geolocation Models: a GeoGuessr use-case**|Emilie Durrieu et.al.|[2605.00912](http://arxiv.org/abs/2605.00912)|null|
@@ -729,7 +731,7 @@ layout: default
 |**2026-04-02**|**Riemannian and Symplectic Geometry for Hierarchical Text-Driven Place Recognition**|Tianyi Shang et.al.|[2604.01598](http://arxiv.org/abs/2604.01598)|null|
 |**2026-03-16**|**Voronoi-based Second-order Descriptor with Whitened Metric in LiDAR Place Recognition**|Jaein Kim et.al.|[2603.14974](http://arxiv.org/abs/2603.14974)|null|
 |**2026-03-09**|**RLPR: Radar-to-LiDAR Place Recognition via Two-Stage Asymmetric Cross-Modal Alignment for Autonomous Driving**|Zhangshuo Qi et.al.|[2603.07920](http://arxiv.org/abs/2603.07920)|null|
-|**2026-03-06**|**PROBE: Probabilistic Occupancy BEV Encoding with Analytical Translation Robustness for 3D Place Recognition**|Jinseop Lee et.al.|[2603.05965](http://arxiv.org/abs/2603.05965)|null|
+|**2026-05-05**|**PROBE: Probabilistic Occupancy BEV Encoding with Analytical Translation Robustness for 3D Place Recognition**|Jinseop Lee et.al.|[2603.05965](http://arxiv.org/abs/2603.05965)|null|
 |**2026-01-29**|**Advanced techniques and applications of LiDAR Place Recognition in Agricultural Environments: A Comprehensive Survey**|Judith Vilella-Cantos et.al.|[2601.22198](http://arxiv.org/abs/2601.22198)|null|
 |**2026-04-22**|**Low Cost, High Efficiency: LiDAR Place Recognition in Vineyards with Matryoshka Representation Learning**|Judith Vilella-Cantos et.al.|[2601.18714](http://arxiv.org/abs/2601.18714)|null|
 |**2025-12-05**|**NormalView: sensor-agnostic tree species classification from backpack and aerial lidar data using geometric projections**|Juho Korkeala et.al.|[2512.05610](http://arxiv.org/abs/2512.05610)|null|
@@ -890,12 +892,12 @@ layout: default
 |**2025-10-20**|**Closed-Loop Transfer for Weakly-supervised Affordance Grounding**|Jiajin Tang et.al.|[2510.17384](http://arxiv.org/abs/2510.17384)|null|
 |**2025-09-27**|**AttAnchor: Guiding Cross-Modal Token Alignment in VLMs with Attention Anchors**|Junyang Zhang et.al.|[2509.23109](http://arxiv.org/abs/2509.23109)|null|
 |**2025-09-30**|**InterKey: Cross-modal Intersection Keypoints for Global Localization on OpenStreetMap**|Nguyen Hoang Khoi Tran et.al.|[2509.13857](http://arxiv.org/abs/2509.13857)|null|
-|**2025-12-28**|**Cross-modal Full-mode Fine-grained Alignment for Text-to-Image Person Retrieval**|Hao Yin et.al.|[2509.13754](http://arxiv.org/abs/2509.13754)|null|
+|**2025-12-28**|**Cross-modal Full-mode Fine-grained Alignment for Text-to-Image Person Retrieval**|Hao Yin et.al.|[2509.13754](http://arxiv.org/abs/2509.13754)|**[link](https://github.com/yinhao1102/FMFA)**|
 |**2025-09-16**|**Semantic-Enhanced Cross-Modal Place Recognition for Robust Robot Localization**|Yujia Lin et.al.|[2509.13474](http://arxiv.org/abs/2509.13474)|null|
 |**2025-09-12**|**TUNI: Real-time RGB-T Semantic Segmentation with Unified Multi-Modal Feature Extraction and Cross-Modal Feature Fusion**|Xiaodong Guo et.al.|[2509.10005](http://arxiv.org/abs/2509.10005)|null|
 |**2025-09-09**|**Aerial-ground Cross-modal Localization: Dataset, Ground-truth, and Benchmark**|Yandi Yang et.al.|[2509.07362](http://arxiv.org/abs/2509.07362)|null|
-|**2025-10-10**|**SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization**|Hanjun Kim et.al.|[2506.15175](http://arxiv.org/abs/2506.15175)|null|
-|**2025-08-27**|**OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**|Shuhao Kang et.al.|[2504.19258](http://arxiv.org/abs/2504.19258)|null|
+|**2025-10-10**|**SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization**|Hanjun Kim et.al.|[2506.15175](http://arxiv.org/abs/2506.15175)|**[link](https://github.com/hanjun815/SHeRLoc)**|
+|**2025-08-27**|**OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**|Shuhao Kang et.al.|[2504.19258](http://arxiv.org/abs/2504.19258)|**[link](https://github.com/kang-1-2-3/OPAL)**|
 |**2024-12-19**|**Dense Audio-Visual Event Localization under Cross-Modal Consistency and Multi-Temporal Granularity Collaboration**|Ziheng Zhou et.al.|[2412.12628](http://arxiv.org/abs/2412.12628)|null|
 |**2024-12-02**|**Cross-Modal Visual Relocalization in Prior LiDAR Maps Utilizing Intensity Textures**|Qiyuan Shen et.al.|[2412.01299](http://arxiv.org/abs/2412.01299)|null|
 |**2024-11-02**|**X-Drive: Cross-modality consistent multi-sensor data synthesis for driving scenarios**|Yichen Xie et.al.|[2411.01123](http://arxiv.org/abs/2411.01123)|null|
@@ -928,6 +930,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**FreeTimeGS++: Secrets of Dynamic Gaussian Splatting and Their Principles**|Lucas Yunkyu Lee et.al.|[2605.03337](http://arxiv.org/abs/2605.03337)|null|
 |**2026-05-04**|**HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar**|Yeheng Zong et.al.|[2605.02784](http://arxiv.org/abs/2605.02784)|null|
 |**2026-05-03**|**GETA-3DGS: Automatic Joint Structured Pruning and Quantization for 3D Gaussian Splatting**|Baobing Zhang et.al.|[2605.02086](http://arxiv.org/abs/2605.02086)|null|
 |**2026-05-03**|**From Concept to Capability: Evaluating 3D Gaussian Splatting for Synthetic Scene Editing in Autonomous Driving**|Ali Nouri et.al.|[2605.01995](http://arxiv.org/abs/2605.01995)|null|
@@ -2061,6 +2064,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Real-Time Evaluation of Autonomous Systems under Adversarial Attacks**|Adithya Mohan et.al.|[2605.03491](http://arxiv.org/abs/2605.03491)|null|
+|**2026-05-05**|**Dual-Foundation Models for Unsupervised Domain Adaptation**|Yerin Cheon et.al.|[2605.03365](http://arxiv.org/abs/2605.03365)|null|
 |**2026-05-04**|**Unified Map Prior Encoder for Mapping and Planning**|Zongzheng Zhang et.al.|[2605.02762](http://arxiv.org/abs/2605.02762)|null|
 |**2026-05-04**|**Parking Assistance for Trailer-Truck Transport Vehicles Using Sensor Fusion and Motion Planning**|George Alenchery et.al.|[2605.02716](http://arxiv.org/abs/2605.02716)|null|
 |**2026-05-04**|**Hyp2Former: Hierarchy-Aware Hyperbolic Embeddings for Open-Set Panoptic Segmentation**|Yao Lu et.al.|[2605.02580](http://arxiv.org/abs/2605.02580)|null|
@@ -3825,7 +3830,7 @@ layout: default
 |**2026-01-09**|**Deformation-Aware Observation Modeling for Radar-Based Human Sensing via 3D Scan-Depth Sequence Fusion**|Guangqi Shi et.al.|[2601.05676](http://arxiv.org/abs/2601.05676)|null|
 |**2025-12-27**|**Multimodal Diffeomorphic Registration with Neural ODEs and Structural Descriptors**|Salvador Rodriguez-Sanz et.al.|[2512.22689](http://arxiv.org/abs/2512.22689)|null|
 |**2025-12-16**|**Test Time Optimized Generalized AI-based Medical Image Registration Method**|Sneha Sree C. et.al.|[2512.14556](http://arxiv.org/abs/2512.14556)|null|
-|**2025-12-01**|**Robust Rigid and Non-Rigid Medical Image Registration Using Learnable Edge Kernels**|Ahsan Raza Siyal et.al.|[2512.01771](http://arxiv.org/abs/2512.01771)|null|
+|**2025-12-01**|**Robust Rigid and Non-Rigid Medical Image Registration Using Learnable Edge Kernels**|Ahsan Raza Siyal et.al.|[2512.01771](http://arxiv.org/abs/2512.01771)|**[link](https://github.com/AhsanSiyal/Robust-Rigid-and-Non-Rigid-Medical-Image-Registration-Using-Learnable-Edge-Kernels)**|
 |**2025-11-19**|**Coarse-to-Fine Non-Rigid Registration for Side-Scan Sonar Mosaicking**|Can Lei et.al.|[2512.00052](http://arxiv.org/abs/2512.00052)|null|
 |**2025-11-06**|**Systematic Evaluation of Preprocessing Techniques for Accurate Image Registration in Digital Pathology**|Fatemehzahra Darzi et.al.|[2511.04171](http://arxiv.org/abs/2511.04171)|null|
 |**2025-11-25**|**CORE -- A Cell-Level Coarse-to-Fine Image Registration Engine for Multi-stain Image Alignment**|Esha Sadia Nasir et.al.|[2511.03826](http://arxiv.org/abs/2511.03826)|null|
@@ -3886,6 +3891,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**RD-ViT: Recurrent-Depth Vision Transformer for Semantic Segmentation with Reduced Data Dependence Extending the Recurrent-Depth Transformer Architecture to Dense Prediction**|Renjie He et.al.|[2605.03999](http://arxiv.org/abs/2605.03999)|null|
+|**2026-05-05**|**MiniMind-O Technical Report: An Open Small-Scale Speech-Native Omni Model**|Jingyao Gong et.al.|[2605.03937](http://arxiv.org/abs/2605.03937)|null|
+|**2026-05-05**|**Unified Multimodal Visual Tracking with Dual Mixture-of-Experts**|Lingyi Hong et.al.|[2605.03716](http://arxiv.org/abs/2605.03716)|null|
+|**2026-05-05**|**Identification and characterization of 15265 super-Nyquist frequencies in 1309 δ Scuti stars from Kepler photometry**|Yanqi Mo et.al.|[2605.03502](http://arxiv.org/abs/2605.03502)|null|
+|**2026-05-05**|**Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts**|Hahyeon Choi et.al.|[2605.03348](http://arxiv.org/abs/2605.03348)|null|
+|**2026-05-05**|**Symmetry-Protected Lyapunov Neutral Modes in Equivariant Recurrent Networks**|Hanson Hanxuan Mo et.al.|[2605.03338](http://arxiv.org/abs/2605.03338)|null|
+|**2026-05-05**|**When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning**|Jiaqi Wei et.al.|[2605.03314](http://arxiv.org/abs/2605.03314)|null|
+|**2026-05-05**|**RFPrompt: Prompt-Based Expert Adaptation of the Large Wireless Model for Modulation Classification**|Md Raihan Uddin et.al.|[2605.03279](http://arxiv.org/abs/2605.03279)|null|
+|**2026-05-05**|**Ortho-Hydra: Orthogonalized Experts for DiT LoRA**|Seunghyun Ji et.al.|[2605.03252](http://arxiv.org/abs/2605.03252)|null|
+|**2026-05-04**|**Kerncap: Automated Kernel Extraction and Isolation for AMD GPUs**|Cole Ramos et.al.|[2605.03208](http://arxiv.org/abs/2605.03208)|null|
+|**2026-05-03**|**ZeRO-Prefill: Zero Redundancy Overheads in MoE Prefill Serving**|Zhaoyuan Su et.al.|[2605.02960](http://arxiv.org/abs/2605.02960)|null|
 |**2026-05-04**|**Mamoda2.5: Enhancing Unified Multimodal Model with DiT-MoE**|Yangming Shi et.al.|[2605.02641](http://arxiv.org/abs/2605.02641)|null|
 |**2026-05-04**|**Universal Smoothness via Bernstein Polynomials: A Constructive Approximation Approach for Activation Functions**|Wentao Zhang et.al.|[2605.02591](http://arxiv.org/abs/2605.02591)|null|
 |**2026-05-04**|**M\textsuperscript{4}Fuse: Lightweight State-Space MoE with a Cross-Scale Gating Bridge for Brain Tumor Segmentation**|Meihua Zhou et.al.|[2605.02444](http://arxiv.org/abs/2605.02444)|null|
@@ -5378,6 +5394,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Identification of Clock Ensemble Noise Parameters Using Differential Measurement Analysis**|Jindrich Dunik et.al.|[2605.03418](http://arxiv.org/abs/2605.03418)|null|
+|**2026-05-02**|**DynoSys: A Dynamic Systems Framework for Multimodal Integration of Genetic, Environmental, and Neurobiological Signals**|Mengman Wei et.al.|[2605.02952](http://arxiv.org/abs/2605.02952)|null|
 |**2026-05-04**|**The Bayesian Reflex: Online Learning as the Autonomic Nervous System of Modern and Future AI**|Durba Bhattacharya et.al.|[2605.02825](http://arxiv.org/abs/2605.02825)|null|
 |**2026-05-04**|**Edge-Efficient Image Restoration: Transformer Distillation into State-Space Models**|Srinivas Soumitri Miriyala et.al.|[2605.02794](http://arxiv.org/abs/2605.02794)|null|
 |**2026-05-04**|**Semi-Markov Models with Particle-Based Bayesian Inference for Epidemics**|Patrick Aschermayr et.al.|[2605.02706](http://arxiv.org/abs/2605.02706)|null|
@@ -6202,6 +6220,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**SoDa2: Single-Stage Open-Set Domain Adaptation via Decoupled Alignment for Cross-Scene Hyperspectral Image Classification**|Yiwen Liu et.al.|[2605.03371](http://arxiv.org/abs/2605.03371)|null|
 |**2026-04-30**|**FUN: A Focal U-Net Combining Reconstruction and Object Detection for Snapshot Spectral Imaging**|Dahua Gao et.al.|[2604.27653](http://arxiv.org/abs/2604.27653)|null|
 |**2026-04-30**|**Hyperspectral Image Classification via Efficient Global Spectral Supertoken Clustering**|Peifu Liu et.al.|[2604.27364](http://arxiv.org/abs/2604.27364)|null|
 |**2026-04-30**|**Spectral Dynamic Attention Network for Hyperspectral Image Super-Resolution**|Tengya Zhang et.al.|[2604.27326](http://arxiv.org/abs/2604.27326)|null|
