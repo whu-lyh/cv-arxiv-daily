@@ -2,18 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.05.06
+## Updated on 2026.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**MIRAGE: Retrieval and Generation of Multimodal Images and Texts for Medical Education**|Miguel Diaz Benito et.al.|[2605.04772](http://arxiv.org/abs/2605.04772)|null|
+|**2026-05-06**|**ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting**|Yingdong Gu et.al.|[2605.04730](http://arxiv.org/abs/2605.04730)|null|
+|**2026-05-06**|**Multi-Level Bidirectional Biomimetic Learning for EEG-Based Visual Decoding**|Jingtao Liu et.al.|[2605.04680](http://arxiv.org/abs/2605.04680)|null|
 |**2026-05-05**|**Geolocating News about Extreme Climate Events: A Comparative Analysis of Off-the-Shelf Tools for Toponym Identification in German**|Brielen Madureira et.al.|[2605.03414](http://arxiv.org/abs/2605.03414)|null|
 |**2026-05-04**|**AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion**|Yu-Ju Tsai et.al.|[2605.02892](http://arxiv.org/abs/2605.02892)|null|
 |**2026-05-04**|**TRACED: In vivo imaging of extracellular intrinsic diffusivity, tortuosity, cell size distribution and cell density in human glioma patients**|Joshua K. Marchant et.al.|[2605.02615](http://arxiv.org/abs/2605.02615)|null|
 |**2026-05-04**|**StableMind: Source-Free Cross-Subject fMRI Decoding with Regularized Adaptation**|Jintao Guo et.al.|[2605.02586](http://arxiv.org/abs/2605.02586)|null|
-|**2026-05-05**|**GuardSec: A Multi-Modal Web Platform for Real-Time Digital Fraud Detection, Entity Verification, and Connection Security Analysis in the African Context**|Gilda Rech Bansimba et.al.|[2605.02502](http://arxiv.org/abs/2605.02502)|null|
+|**2026-05-06**|**GuardSec: A Multi-Modal Web Platform for Real-Time Digital Fraud Detection, Entity Verification, and Connection Security Analysis in the African Context**|Gilda Rech Bansimba et.al.|[2605.02502](http://arxiv.org/abs/2605.02502)|null|
 |**2026-05-04**|**Rethinking Electro-Optical Vision Foundation Models for Remote Sensing Retrieval: A Controlled Comparison with Generalist VFM**|Hyobin Park et.al.|[2605.02283](http://arxiv.org/abs/2605.02283)|null|
 |**2026-05-02**|**X-ray dark-field imaging from intensity flow: A Fokker-Planck approach to grating interferometry**|Samantha J. Alloo et.al.|[2605.01265](http://arxiv.org/abs/2605.01265)|null|
 |**2026-04-29**|**Object-Level Explanations for Image Geolocation Models: a GeoGuessr use-case**|Emilie Durrieu et.al.|[2605.00912](http://arxiv.org/abs/2605.00912)|null|
@@ -792,8 +795,8 @@ layout: default
 |**2025-08-08**|**ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models**|Minwoo Jung et.al.|[2505.18364](http://arxiv.org/abs/2505.18364)|null|
 |**2025-05-26**|**MinkUNeXt-SI: Improving point cloud-based place recognition including spherical coordinates and LiDAR intensity**|Judith Vilella-Cantos et.al.|[2505.17591](http://arxiv.org/abs/2505.17591)|null|
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
-|**2025-08-27**|**OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**|Shuhao Kang et.al.|[2504.19258](http://arxiv.org/abs/2504.19258)|**[link](https://github.com/kang-1-2-3/OPAL)**|
-|**2025-06-19**|**An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather**|Xiongwei Zhao et.al.|[2504.14806](http://arxiv.org/abs/2504.14806)|**[link](https://github.com/Grandzxw/ITDNet)**|
+|**2025-08-27**|**OPAL: Visibility-aware LiDAR-to-OpenStreetMap Place Recognition via Adaptive Radial Fusion**|Shuhao Kang et.al.|[2504.19258](http://arxiv.org/abs/2504.19258)|null|
+|**2025-06-19**|**An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather**|Xiongwei Zhao et.al.|[2504.14806](http://arxiv.org/abs/2504.14806)|null|
 |**2025-04-16**|**Diffusion Based Robust LiDAR Place Recognition**|Benjamin Krummenacher et.al.|[2504.12412](http://arxiv.org/abs/2504.12412)|null|
 |**2025-10-03**|**Vehicle-Scene Interaction: A Text-Driven 3D Lidar Place Recognition Method for Autonomous Driving**|Tianyi Shang et.al.|[2503.18035](http://arxiv.org/abs/2503.18035)|null|
 |**2025-10-29**|**L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery**|Ziwei Shi et.al.|[2503.11245](http://arxiv.org/abs/2503.11245)|null|
@@ -930,6 +933,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Aes3D: Aesthetic Assessment in 3D Gaussian Splatting**|Chuanzhi Xu et.al.|[2605.05155](http://arxiv.org/abs/2605.05155)|null|
+|**2026-05-06**|**QuadBox: Accelerating 3D Gaussian Splatting with Geometry-Aware Boxes**|Xinze Li et.al.|[2605.04844](http://arxiv.org/abs/2605.04844)|null|
+|**2026-05-06**|**ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting**|Yingdong Gu et.al.|[2605.04730](http://arxiv.org/abs/2605.04730)|null|
+|**2026-05-06**|**CoherentRaster: Efficient 3D Gaussian Splatting for Light Field Displays**|Gyujin Sim et.al.|[2605.04509](http://arxiv.org/abs/2605.04509)|null|
+|**2026-05-06**|**Ilov3Splat: Instance-Level Open-Vocabulary 3D Scene Understanding in Gaussian Splatting**|Binh Long Nguyen et.al.|[2605.04506](http://arxiv.org/abs/2605.04506)|null|
+|**2026-05-06**|**Ground4D: Spatially-Grounded Feedforward 4D Reconstruction for Unstructured Off-Road Scenes**|Shuo Wang et.al.|[2605.04435](http://arxiv.org/abs/2605.04435)|null|
 |**2026-05-05**|**FreeTimeGS++: Secrets of Dynamic Gaussian Splatting and Their Principles**|Lucas Yunkyu Lee et.al.|[2605.03337](http://arxiv.org/abs/2605.03337)|null|
 |**2026-05-04**|**HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar**|Yeheng Zong et.al.|[2605.02784](http://arxiv.org/abs/2605.02784)|null|
 |**2026-05-03**|**GETA-3DGS: Automatic Joint Structured Pruning and Quantization for 3D Gaussian Splatting**|Baobing Zhang et.al.|[2605.02086](http://arxiv.org/abs/2605.02086)|null|
@@ -2064,6 +2073,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching**|Andranik Sargsyan et.al.|[2605.05077](http://arxiv.org/abs/2605.05077)|null|
+|**2026-05-06**|**CARD: A Multi-Modal Automotive Dataset for Dense 3D Reconstruction in Challenging Road Topography**|Gasser Elazab et.al.|[2605.05014](http://arxiv.org/abs/2605.05014)|null|
+|**2026-05-06**|**Spiral metasurface enables tunable directional edge enhancement**|Wenli Wang et.al.|[2605.04963](http://arxiv.org/abs/2605.04963)|null|
+|**2026-05-06**|**Physical Adversarial Clothing Evades Visible-Thermal Detectors via Non-Overlapping RGB-T Pattern**|Xiaopei Zhu et.al.|[2605.04675](http://arxiv.org/abs/2605.04675)|null|
+|**2026-05-06**|**ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving**|Huimin Wang et.al.|[2605.04647](http://arxiv.org/abs/2605.04647)|null|
+|**2026-05-06**|**Information Coordination as a Bridge: A Neuro-Symbolic Architecture for Reliable Autonomous Driving Scene Understanding**|Shuo Liu et.al.|[2605.04475](http://arxiv.org/abs/2605.04475)|null|
+|**2026-05-06**|**CRAFT: Counterfactual-to-Interactive Reinforcement Fine-Tuning for Driving Policies**|Keyu Chen et.al.|[2605.04470](http://arxiv.org/abs/2605.04470)|null|
+|**2026-05-06**|**Ground4D: Spatially-Grounded Feedforward 4D Reconstruction for Unstructured Off-Road Scenes**|Shuo Wang et.al.|[2605.04435](http://arxiv.org/abs/2605.04435)|null|
+|**2026-05-05**|**InterFuserDVS: Event-Enhanced Sensor Fusion for Safe RL-Based Decision Making**|Mustafa Sakhaia et.al.|[2605.04355](http://arxiv.org/abs/2605.04355)|null|
+|**2026-05-05**|**Beyond Fixed Thresholds and Domain-Specific Benchmarks for Explainable Multi-Task Classification in Autonomous Vehicles**|Maryam Sadat Hosseini Azad et.al.|[2605.04299](http://arxiv.org/abs/2605.04299)|null|
 |**2026-05-05**|**Real-Time Evaluation of Autonomous Systems under Adversarial Attacks**|Adithya Mohan et.al.|[2605.03491](http://arxiv.org/abs/2605.03491)|null|
 |**2026-05-05**|**Dual-Foundation Models for Unsupervised Domain Adaptation**|Yerin Cheon et.al.|[2605.03365](http://arxiv.org/abs/2605.03365)|null|
 |**2026-05-04**|**Unified Map Prior Encoder for Mapping and Planning**|Zongzheng Zhang et.al.|[2605.02762](http://arxiv.org/abs/2605.02762)|null|
@@ -3891,11 +3910,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Representation**|Enhui Chai et.al.|[2605.05164](http://arxiv.org/abs/2605.05164)|null|
+|**2026-05-06**|**Piper: Efficient Large-Scale MoE Training via Resource Modeling and Pipelined Hybrid Parallelism**|Sajal Dash et.al.|[2605.05049](http://arxiv.org/abs/2605.05049)|null|
+|**2026-05-06**|**You Snooze, You Lose: Automatic Safety Alignment Restoration through Neural Weight Translation**|Marco Arazzi et.al.|[2605.04992](http://arxiv.org/abs/2605.04992)|null|
+|**2026-05-06**|**Adaptive Inverted-Index Routing for Granular Mixtures-of-Experts**|Klaus-Rudolf Kladny et.al.|[2605.04952](http://arxiv.org/abs/2605.04952)|null|
+|**2026-05-06**|**Phase-Time Array Enabled Multistatic Sensing with Multi-Level Fusion for UAV Localization**|Ming Gao et.al.|[2605.04919](http://arxiv.org/abs/2605.04919)|null|
+|**2026-05-06**|**Measurement of the double Dalitz decay $η\to e^+e^-e^+e^-$**|BESIII Collaboration et.al.|[2605.04898](http://arxiv.org/abs/2605.04898)|null|
+|**2026-05-06**|**OpenWatch: A Multimodal Benchmark for Hand Gesture Recognition on Smartwatches**|Pietro Bonazzi et.al.|[2605.04791](http://arxiv.org/abs/2605.04791)|null|
+|**2026-05-06**|**AxMoE: Characterizing the Impact of Approximate Multipliers on Mixture-of-Experts DNN Architectures**|Omkar B Shende et.al.|[2605.04754](http://arxiv.org/abs/2605.04754)|null|
+|**2026-05-06**|**SPHERE: Mitigating the Loss of Spectral Plasticity in Mixture-of-Experts for Deep Reinforcement Learning**|Lirui Luo et.al.|[2605.04712](http://arxiv.org/abs/2605.04712)|null|
+|**2026-05-06**|**YOTOnet: Zero-Shot Cross-Domain Fault Diagnosis via Domain-Conditioned Mixture of Experts**|Zesen Wang et.al.|[2605.04528](http://arxiv.org/abs/2605.04528)|null|
+|**2026-05-06**|**GEM: Graph-Enhanced Mixture-of-Experts with ReAct Agents for Dialogue State Tracking**|Ziqi Zhu et.al.|[2605.04449](http://arxiv.org/abs/2605.04449)|null|
+|**2026-05-06**|**Misrouter: Exploiting Routing Mechanisms for Input-Only Attacks on Mixture-of-Experts LLMs**|Zekun Fei et.al.|[2605.04446](http://arxiv.org/abs/2605.04446)|null|
+|**2026-05-06**|**Autonomous Laparoscope Control through Unified Mechanics-Based Representation of Multimodal Intraoperative Information**|Xiaojian Li et.al.|[2605.04408](http://arxiv.org/abs/2605.04408)|null|
+|**2026-05-05**|**2D Optical Beam Scanning using Integrated Acousto-Optics and a Frequency Comb**|Shucheng Fang et.al.|[2605.04287](http://arxiv.org/abs/2605.04287)|null|
 |**2026-05-05**|**RD-ViT: Recurrent-Depth Vision Transformer for Semantic Segmentation with Reduced Data Dependence Extending the Recurrent-Depth Transformer Architecture to Dense Prediction**|Renjie He et.al.|[2605.03999](http://arxiv.org/abs/2605.03999)|null|
 |**2026-05-05**|**MiniMind-O Technical Report: An Open Small-Scale Speech-Native Omni Model**|Jingyao Gong et.al.|[2605.03937](http://arxiv.org/abs/2605.03937)|null|
 |**2026-05-05**|**Unified Multimodal Visual Tracking with Dual Mixture-of-Experts**|Lingyi Hong et.al.|[2605.03716](http://arxiv.org/abs/2605.03716)|null|
 |**2026-05-05**|**Identification and characterization of 15265 super-Nyquist frequencies in 1309 δ Scuti stars from Kepler photometry**|Yanqi Mo et.al.|[2605.03502](http://arxiv.org/abs/2605.03502)|null|
-|**2026-05-05**|**Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts**|Hahyeon Choi et.al.|[2605.03348](http://arxiv.org/abs/2605.03348)|null|
+|**2026-05-06**|**Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts**|Hahyeon Choi et.al.|[2605.03348](http://arxiv.org/abs/2605.03348)|null|
 |**2026-05-05**|**Symmetry-Protected Lyapunov Neutral Modes in Equivariant Recurrent Networks**|Hanson Hanxuan Mo et.al.|[2605.03338](http://arxiv.org/abs/2605.03338)|null|
 |**2026-05-05**|**When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning**|Jiaqi Wei et.al.|[2605.03314](http://arxiv.org/abs/2605.03314)|null|
 |**2026-05-05**|**RFPrompt: Prompt-Based Expert Adaptation of the Large Wireless Model for Modulation Classification**|Md Raihan Uddin et.al.|[2605.03279](http://arxiv.org/abs/2605.03279)|null|
@@ -5394,6 +5427,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Representation**|Enhui Chai et.al.|[2605.05164](http://arxiv.org/abs/2605.05164)|null|
+|**2026-05-06**|**The Impossibility Triangle of Long-Context Modeling**|Yan Zhou et.al.|[2605.05066](http://arxiv.org/abs/2605.05066)|null|
+|**2026-05-06**|**ELVIS: Ensemble-Calibrated Latent Imagination for Long-Horizon Visual MPC**|Yurui Du et.al.|[2605.04709](http://arxiv.org/abs/2605.04709)|**[link](https://github.com/RILEY-REEDUS/ELVIS)**|
+|**2026-05-06**|**SAMIC: A Lightweight Semantic-Aware Mamba for Efficient Perceptual Image Compression**|Jiaqian Zhang et.al.|[2605.04560](http://arxiv.org/abs/2605.04560)|null|
 |**2026-05-05**|**Identification of Clock Ensemble Noise Parameters Using Differential Measurement Analysis**|Jindrich Dunik et.al.|[2605.03418](http://arxiv.org/abs/2605.03418)|null|
 |**2026-05-02**|**DynoSys: A Dynamic Systems Framework for Multimodal Integration of Genetic, Environmental, and Neurobiological Signals**|Mengman Wei et.al.|[2605.02952](http://arxiv.org/abs/2605.02952)|null|
 |**2026-05-04**|**The Bayesian Reflex: Online Learning as the Autonomic Nervous System of Modern and Future AI**|Durba Bhattacharya et.al.|[2605.02825](http://arxiv.org/abs/2605.02825)|null|
