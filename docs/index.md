@@ -5429,7 +5429,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-05-06**|**Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Representation**|Enhui Chai et.al.|[2605.05164](http://arxiv.org/abs/2605.05164)|null|
 |**2026-05-06**|**The Impossibility Triangle of Long-Context Modeling**|Yan Zhou et.al.|[2605.05066](http://arxiv.org/abs/2605.05066)|null|
-|**2026-05-06**|**ELVIS: Ensemble-Calibrated Latent Imagination for Long-Horizon Visual MPC**|Yurui Du et.al.|[2605.04709](http://arxiv.org/abs/2605.04709)|**[link](https://github.com/RILEY-REEDUS/ELVIS)**|
+|**2026-05-06**|**ELVIS: Ensemble-Calibrated Latent Imagination for Long-Horizon Visual MPC**|Yurui Du et.al.|[2605.04709](http://arxiv.org/abs/2605.04709)|null|
 |**2026-05-06**|**SAMIC: A Lightweight Semantic-Aware Mamba for Efficient Perceptual Image Compression**|Jiaqian Zhang et.al.|[2605.04560](http://arxiv.org/abs/2605.04560)|null|
 |**2026-05-05**|**Identification of Clock Ensemble Noise Parameters Using Differential Measurement Analysis**|Jindrich Dunik et.al.|[2605.03418](http://arxiv.org/abs/2605.03418)|null|
 |**2026-05-02**|**DynoSys: A Dynamic Systems Framework for Multimodal Integration of Genetic, Environmental, and Neurobiological Signals**|Mengman Wei et.al.|[2605.02952](http://arxiv.org/abs/2605.02952)|null|
@@ -6259,9 +6259,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-05-05**|**SoDa2: Single-Stage Open-Set Domain Adaptation via Decoupled Alignment for Cross-Scene Hyperspectral Image Classification**|Yiwen Liu et.al.|[2605.03371](http://arxiv.org/abs/2605.03371)|null|
 |**2026-04-30**|**FUN: A Focal U-Net Combining Reconstruction and Object Detection for Snapshot Spectral Imaging**|Dahua Gao et.al.|[2604.27653](http://arxiv.org/abs/2604.27653)|null|
-|**2026-04-30**|**Hyperspectral Image Classification via Efficient Global Spectral Supertoken Clustering**|Peifu Liu et.al.|[2604.27364](http://arxiv.org/abs/2604.27364)|null|
-|**2026-04-30**|**Spectral Dynamic Attention Network for Hyperspectral Image Super-Resolution**|Tengya Zhang et.al.|[2604.27326](http://arxiv.org/abs/2604.27326)|null|
-|**2026-04-30**|**Representative Spectral Correlation Network for Multi-source Remote Sensing Image Classification**|Chuanzheng Gong et.al.|[2604.27323](http://arxiv.org/abs/2604.27323)|null|
+|**2026-04-30**|**Hyperspectral Image Classification via Efficient Global Spectral Supertoken Clustering**|Peifu Liu et.al.|[2604.27364](http://arxiv.org/abs/2604.27364)|**[link](https://github.com/laprf/DSCC)**|
+|**2026-04-30**|**Spectral Dynamic Attention Network for Hyperspectral Image Super-Resolution**|Tengya Zhang et.al.|[2604.27326](http://arxiv.org/abs/2604.27326)|**[link](https://github.com/oucailab/SDANet)**|
+|**2026-04-30**|**Representative Spectral Correlation Network for Multi-source Remote Sensing Image Classification**|Chuanzheng Gong et.al.|[2604.27323](http://arxiv.org/abs/2604.27323)|**[link](https://github.com/oucailab/RSCNet)**|
 |**2026-04-29**|**Cross-Domain Transfer of Hyperspectral Foundation Models**|Nick Theisen et.al.|[2604.26478](http://arxiv.org/abs/2604.26478)|null|
 |**2026-04-29**|**High-Dimensional Noise to Low-Dimensional Manifolds: A Manifold-Space Diffusion Framework for Degraded Hyperspectral Image Classification**|Boxiang Yang et.al.|[2604.26279](http://arxiv.org/abs/2604.26279)|null|
 |**2026-04-28**|**MixerCA: An Efficient and Accurate Model for High-Performance Hyperspectral Image Classification**|Mohammed Q. Alkhatib et.al.|[2604.26138](http://arxiv.org/abs/2604.26138)|null|
