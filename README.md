@@ -962,8 +962,8 @@
 |**2026-05-07**|**OpenGaFF: Open-Vocabulary Gaussian Feature Field with Codebook Attention**|Kunyi Li et.al.|[2605.06088](http://arxiv.org/abs/2605.06088)|null|
 |**2026-05-08**|**3DSS: 3D Surface Splatting for Inverse Rendering**|Mae Younes et.al.|[2605.05876](http://arxiv.org/abs/2605.05876)|null|
 |**2026-05-06**|**Aes3D: Aesthetic Assessment in 3D Gaussian Splatting**|Chuanzhi Xu et.al.|[2605.05155](http://arxiv.org/abs/2605.05155)|null|
-|**2026-05-06**|**QuadBox: Accelerating 3D Gaussian Splatting with Geometry-Aware Boxes**|Xinze Li et.al.|[2605.04844](http://arxiv.org/abs/2605.04844)|null|
-|**2026-05-06**|**ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting**|Yingdong Gu et.al.|[2605.04730](http://arxiv.org/abs/2605.04730)|null|
+|**2026-05-06**|**QuadBox: Accelerating 3D Gaussian Splatting with Geometry-Aware Boxes**|Xinze Li et.al.|[2605.04844](http://arxiv.org/abs/2605.04844)|**[link](https://github.com/Powertony102/QuadBox)**|
+|**2026-05-06**|**ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting**|Yingdong Gu et.al.|[2605.04730](http://arxiv.org/abs/2605.04730)|**[link](https://github.com/Cyril-gyd/ULF-Loc)**|
 |**2026-05-06**|**CoherentRaster: Efficient 3D Gaussian Splatting for Light Field Displays**|Gyujin Sim et.al.|[2605.04509](http://arxiv.org/abs/2605.04509)|null|
 |**2026-05-06**|**Ilov3Splat: Instance-Level Open-Vocabulary 3D Scene Understanding in Gaussian Splatting**|Binh Long Nguyen et.al.|[2605.04506](http://arxiv.org/abs/2605.04506)|null|
 |**2026-05-06**|**Ground4D: Spatially-Grounded Feedforward 4D Reconstruction for Unstructured Off-Road Scenes**|Shuo Wang et.al.|[2605.04435](http://arxiv.org/abs/2605.04435)|null|
@@ -1246,8 +1246,8 @@
 |**2026-03-11**|**InstantHDR: Single-forward Gaussian Splatting for High Dynamic Range 3D Reconstruction**|Dingqiang Ye et.al.|[2603.11298](http://arxiv.org/abs/2603.11298)|null|
 |**2026-03-11**|**S2D: Sparse to Dense Lifting for 3D Reconstruction with Minimal Inputs**|Yuzhou Ji et.al.|[2603.10893](http://arxiv.org/abs/2603.10893)|**[link](https://github.com/George-Attano/S2D_Base)**|
 |**2026-03-11**|**PolGS++: Physically-Guided Polarimetric Gaussian Splatting for Fast Reflective Surface Reconstruction**|Yufei Han et.al.|[2603.10801](http://arxiv.org/abs/2603.10801)|null|
-|**2026-03-11**|**Splat2Real: Novel-view Scaling for Physical AI with 3D Gaussian Splatting**|Hansol Lim et.al.|[2603.10638](http://arxiv.org/abs/2603.10638)|null|
-|**2026-03-11**|**P-GSVC: Layered Progressive 2D Gaussian Splatting for Scalable Image and Video**|Longan Wang et.al.|[2603.10551](http://arxiv.org/abs/2603.10551)|null|
+|**2026-03-11**|**Splat2Real: Novel-view Scaling for Physical AI with 3D Gaussian Splatting**|Hansol Lim et.al.|[2603.10638](http://arxiv.org/abs/2603.10638)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-03-11**|**P-GSVC: Layered Progressive 2D Gaussian Splatting for Scalable Image and Video**|Longan Wang et.al.|[2603.10551](http://arxiv.org/abs/2603.10551)|**[link](https://github.com/LonganWANG-cs/PGSVC)**|
 |**2026-03-12**|**SignSparK: Efficient Multilingual Sign Language Production via Sparse Keyframe Learning**|Jianhe Low et.al.|[2603.10446](http://arxiv.org/abs/2603.10446)|null|
 |**2026-03-10**|**ReCoSplat: Autoregressive Feed-Forward Gaussian Splatting Using Render-and-Compare**|Freeman Cheng et.al.|[2603.09968](http://arxiv.org/abs/2603.09968)|null|
 |**2026-03-10**|**GSStream: 3D Gaussian Splatting based Volumetric Scene Streaming System**|Zhiye Tang et.al.|[2603.09718](http://arxiv.org/abs/2603.09718)|null|
@@ -1274,8 +1274,8 @@
 |**2026-03-08**|**3DGS-HPC: Distractor-free 3D Gaussian Splatting with Hybrid Patch-wise Classification**|Jiahao Chen et.al.|[2603.07587](http://arxiv.org/abs/2603.07587)|null|
 |**2026-03-08**|**ReconDrive: Fast Feed-Forward 4D Gaussian Splatting for Autonomous Driving Scene Reconstruction**|Haibao Yu et.al.|[2603.07552](http://arxiv.org/abs/2603.07552)|null|
 |**2026-03-07**|**MipSLAM: Alias-Free Gaussian Splatting SLAM**|Yingzhao Li et.al.|[2603.06989](http://arxiv.org/abs/2603.06989)|null|
-|**2026-03-06**|**ColonSplat: Reconstruction of Peristaltic Motion in Colonoscopy with Dynamic Gaussian Splatting**|Weronika Smolak-Dyżewska et.al.|[2603.06860](http://arxiv.org/abs/2603.06860)|null|
-|**2026-03-06**|**Active View Selection with Perturbed Gaussian Ensemble for Tomographic Reconstruction**|Yulun Wu et.al.|[2603.06852](http://arxiv.org/abs/2603.06852)|null|
+|**2026-03-06**|**ColonSplat: Reconstruction of Peristaltic Motion in Colonoscopy with Dynamic Gaussian Splatting**|Weronika Smolak-Dyżewska et.al.|[2603.06860](http://arxiv.org/abs/2603.06860)|**[link](https://github.com/wMito/ColonSplat)**|
+|**2026-03-06**|**Active View Selection with Perturbed Gaussian Ensemble for Tomographic Reconstruction**|Yulun Wu et.al.|[2603.06852](http://arxiv.org/abs/2603.06852)|**[link](https://github.com/yulunwu0108/Perturbed-Gaussian-Ensemble)**|
 |**2026-03-06**|**EntON: Eigenentropy-Optimized Neighborhood Densification in 3D Gaussian Splatting**|Miriam Jäger et.al.|[2603.06216](http://arxiv.org/abs/2603.06216)|null|
 |**2026-03-06**|**VG3S: Visual Geometry Grounded Gaussian Splatting for Semantic Occupancy Prediction**|Xiaoyang Yan et.al.|[2603.06210](http://arxiv.org/abs/2603.06210)|null|
 |**2026-03-06**|**Transforming Omnidirectional RGB-LiDAR data into 3D Gaussian Splatting**|Semin Bae et.al.|[2603.06061](http://arxiv.org/abs/2603.06061)|null|
@@ -1584,7 +1584,7 @@
 |**2025-12-07**|**RAVE: Rate-Adaptive Visual Encoding for 3D Gaussian Splatting**|Hoang-Nhat Tran et.al.|[2512.07052](http://arxiv.org/abs/2512.07052)|null|
 |**2025-12-07**|**MeshSplatting: Differentiable Rendering with Opaque Meshes**|Jan Held et.al.|[2512.06818](http://arxiv.org/abs/2512.06818)|null|
 |**2025-12-07**|**RDSplat: Robust Watermarking Against Diffusion Editing for 3D Gaussian Splatting**|Longjie Zhao et.al.|[2512.06774](http://arxiv.org/abs/2512.06774)|null|
-|**2025-12-07**|**EMGauss: Continuous Slice-to-3D Reconstruction via Dynamic Gaussian Modeling in Volume Electron Microscopy**|Yumeng He et.al.|[2512.06684](http://arxiv.org/abs/2512.06684)|null|
+|**2025-12-07**|**EMGauss: Continuous Slice-to-3D Reconstruction via Dynamic Gaussian Modeling in Volume Electron Microscopy**|Yumeng He et.al.|[2512.06684](http://arxiv.org/abs/2512.06684)|**[link](https://github.com/raynehe/EMGauss)**|
 |**2025-12-06**|**AGORA: Adversarial Generation Of Real-time Animatable 3D Gaussian Head Avatars**|Ramazan Fazylov et.al.|[2512.06438](http://arxiv.org/abs/2512.06438)|null|
 |**2025-12-06**|**TriaGS: Differentiable Triangulation-Guided Geometric Consistency for 3D Gaussian Splatting**|Quan Tran et.al.|[2512.06269](http://arxiv.org/abs/2512.06269)|null|
 |**2025-12-05**|**Tracking-Guided 4D Generation: Foundation-Tracker Motion Priors for 3D Model Animation**|Su Sun et.al.|[2512.06158](http://arxiv.org/abs/2512.06158)|null|
@@ -2115,7 +2115,7 @@
 |**2026-05-07**|**Adding Thermal Awareness to Visual Systems in Real-Time via Distilled Diffusion Models**|Yuchen Guo et.al.|[2605.06010](http://arxiv.org/abs/2605.06010)|null|
 |**2026-05-07**|**Uncertainty Estimation via Hyperspherical Confidence Mapping**|Eunseo Choi et.al.|[2605.05964](http://arxiv.org/abs/2605.05964)|null|
 |**2026-05-07**|**Comparative Analysis of Direct-to-Cell (D2C) and 3GPP Non-Terrestrial Networks (NTN) for Global Connectivity**|Donglin Wang et.al.|[2605.05843](http://arxiv.org/abs/2605.05843)|null|
-|**2026-05-06**|**FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching**|Andranik Sargsyan et.al.|[2605.05077](http://arxiv.org/abs/2605.05077)|null|
+|**2026-05-06**|**FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching**|Andranik Sargsyan et.al.|[2605.05077](http://arxiv.org/abs/2605.05077)|**[link](https://github.com/Picsart-AI-Research/FlowDIS)**|
 |**2026-05-07**|**CARD: A Multi-Modal Automotive Dataset for Dense 3D Reconstruction in Challenging Road Topography**|Gasser Elazab et.al.|[2605.05014](http://arxiv.org/abs/2605.05014)|null|
 |**2026-05-06**|**Spiral metasurface enables tunable directional edge enhancement**|Wenli Wang et.al.|[2605.04963](http://arxiv.org/abs/2605.04963)|null|
 |**2026-05-06**|**Physical Adversarial Clothing Evades Visible-Thermal Detectors via Non-Overlapping RGB-T Pattern**|Xiaopei Zhu et.al.|[2605.04675](http://arxiv.org/abs/2605.04675)|null|
@@ -2126,7 +2126,7 @@
 |**2026-05-05**|**InterFuserDVS: Event-Enhanced Sensor Fusion for Safe RL-Based Decision Making**|Mustafa Sakhaia et.al.|[2605.04355](http://arxiv.org/abs/2605.04355)|null|
 |**2026-05-05**|**Beyond Fixed Thresholds and Domain-Specific Benchmarks for Explainable Multi-Task Classification in Autonomous Vehicles**|Maryam Sadat Hosseini Azad et.al.|[2605.04299](http://arxiv.org/abs/2605.04299)|null|
 |**2026-05-05**|**Real-Time Evaluation of Autonomous Systems under Adversarial Attacks**|Adithya Mohan et.al.|[2605.03491](http://arxiv.org/abs/2605.03491)|null|
-|**2026-05-05**|**Dual-Foundation Models for Unsupervised Domain Adaptation**|Yerin Cheon et.al.|[2605.03365](http://arxiv.org/abs/2605.03365)|null|
+|**2026-05-05**|**Dual-Foundation Models for Unsupervised Domain Adaptation**|Yerin Cheon et.al.|[2605.03365](http://arxiv.org/abs/2605.03365)|**[link](https://github.com/ycheon1101/DFUDA)**|
 |**2026-05-04**|**Unified Map Prior Encoder for Mapping and Planning**|Zongzheng Zhang et.al.|[2605.02762](http://arxiv.org/abs/2605.02762)|null|
 |**2026-05-04**|**Parking Assistance for Trailer-Truck Transport Vehicles Using Sensor Fusion and Motion Planning**|George Alenchery et.al.|[2605.02716](http://arxiv.org/abs/2605.02716)|null|
 |**2026-05-04**|**Hyp2Former: Hierarchy-Aware Hyperbolic Embeddings for Open-Set Panoptic Segmentation**|Yao Lu et.al.|[2605.02580](http://arxiv.org/abs/2605.02580)|null|
@@ -2138,7 +2138,7 @@
 |**2026-05-03**|**Optimizing Trajectory-Trees in Belief Space: An Application from Model Predictive Control to Task and Motion Planning**|Camille Phiquepal et.al.|[2605.01860](http://arxiv.org/abs/2605.01860)|null|
 |**2026-05-02**|**Dynamics Distillation for Efficient and Transferable Control Learning**|Xunjiang Gu et.al.|[2605.01516](http://arxiv.org/abs/2605.01516)|null|
 |**2026-05-02**|**LIE: LiDAR-only HD Map Construction with Intensity Enhancement via Online Knowledge Distillation**|Kanak Mazumder et.al.|[2605.01478](http://arxiv.org/abs/2605.01478)|null|
-|**2026-05-01**|**WILD SAM: A Simulated-and-Real Data Augmentation for Autonomous Driving Perception under Challenging Weather**|Hamed Khatounabadi et.al.|[2605.01081](http://arxiv.org/abs/2605.01081)|null|
+|**2026-05-01**|**WILD SAM: A Simulated-and-Real Data Augmentation for Autonomous Driving Perception under Challenging Weather**|Hamed Khatounabadi et.al.|[2605.01081](http://arxiv.org/abs/2605.01081)|**[link](https://github.com/Kh-Hamed/WILD-SAM)**|
 |**2026-05-01**|**Map2World: Segment Map Conditioned Text to 3D World Generation**|Jaeyoung Chung et.al.|[2605.00781](http://arxiv.org/abs/2605.00781)|null|
 |**2026-05-01**|**From Research to Practice: An Interactive Rapid Review of Autonomous Driving System Testing in Industry**|Qunying Song et.al.|[2605.00531](http://arxiv.org/abs/2605.00531)|null|
 |**2026-05-01**|**Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling**|Sen Cui et.al.|[2605.00412](http://arxiv.org/abs/2605.00412)|null|
@@ -3215,7 +3215,7 @@
 |**2025-10-21**|**BlendCLIP: Bridging Synthetic and Real Domains for Zero-Shot 3D Object Classification with Multimodal Pretraining**|Ajinkya Khoche et.al.|[2510.18244](http://arxiv.org/abs/2510.18244)|null|
 |**2025-10-20**|**SPACeR: Self-Play Anchoring with Centralized Reference Models**|Wei-Jer Chang et.al.|[2510.18060](http://arxiv.org/abs/2510.18060)|null|
 |**2025-10-20**|**SAVANT: Semantic Analysis with Vision-Augmented Anomaly deTection**|Roberto Brusnicki et.al.|[2510.18034](http://arxiv.org/abs/2510.18034)|null|
-|**2025-10-20**|**4DSegStreamer: Streaming 4D Panoptic Segmentation via Dual Threads**|Ling Liu et.al.|[2510.17664](http://arxiv.org/abs/2510.17664)|null|
+|**2025-10-20**|**4DSegStreamer: Streaming 4D Panoptic Segmentation via Dual Threads**|Ling Liu et.al.|[2510.17664](http://arxiv.org/abs/2510.17664)|**[link](https://github.com/llada60/4DSegStreamer)**|
 |**2025-10-20**|**Enhanced Motion Forecasting with Plug-and-Play Multimodal Large Language Models**|Katie Luo et.al.|[2510.17274](http://arxiv.org/abs/2510.17274)|null|
 |**2025-10-20**|**Explainability of Large Language Models: Opportunities and Challenges toward Generating Trustworthy Explanations**|Shahin Atakishiyev et.al.|[2510.17256](http://arxiv.org/abs/2510.17256)|null|
 |**2025-10-20**|**SimpleVSF: VLM-Scoring Fusion for Trajectory Prediction of End-to-End Autonomous Driving**|Peiru Zheng et.al.|[2510.17191](http://arxiv.org/abs/2510.17191)|null|
@@ -4062,7 +4062,7 @@
 |**2025-11-20**|**How Noise Benefits AI-generated Image Detection**|Jiazhen Yan et.al.|[2511.16136](http://arxiv.org/abs/2511.16136)|null|
 |**2025-11-20**|**Decoupling Complexity from Scale in Latent Diffusion Model**|Tianxiong Zhong et.al.|[2511.16117](http://arxiv.org/abs/2511.16117)|null|
 |**2025-11-20**|**Parallelizable Complex Neural Dynamics Models for PMSM Temperature Estimation with Hardware Acceleration**|Xinyuan Liao et.al.|[2511.16093](http://arxiv.org/abs/2511.16093)|null|
-|**2025-11-20**|**A Hybrid Proactive And Predictive Framework For Edge Cloud Resource Management**|Hrikshesh Kumar et.al.|[2511.16075](http://arxiv.org/abs/2511.16075)|null|
+|**2025-11-20**|**A Hybrid Proactive And Predictive Framework For Edge Cloud Resource Management**|Hrikshesh Kumar et.al.|[2511.16075](http://arxiv.org/abs/2511.16075)|**[link](https://github.com/Anshul-Gupta-1410/Design-Project)**|
 |**2025-11-20**|**High-Throughput Exploration of Refractory High-Entropy Alloys for Strength and Plasticity**|Stephen A. Giles et.al.|[2511.16057](http://arxiv.org/abs/2511.16057)|null|
 |**2025-11-20**|**Exploiting Inter-Sample Information for Long-tailed Out-of-Distribution Detection**|Nimeshika Udayangani et.al.|[2511.16015](http://arxiv.org/abs/2511.16015)|null|
 |**2025-11-20**|**Synergizing Deconfounding and Temporal Generalization For Time-series Counterfactual Outcome Estimation**|Yiling Liu et.al.|[2511.16006](http://arxiv.org/abs/2511.16006)|null|
