@@ -32,12 +32,9 @@ keywords:
         filters: ["Cross-modality Coarse Localization", "Cross-modality Localization", "Cross-modal Localization"]
     "3D GS":
         filters: ["Gaussian Splatting", "Gaussian SLAM", "Rendering Images", "GS SLAM"]
-    "MoE":
-        filters: ["Mixture of Experts", "MoE"]
     "Mamba":
         filters: ["Point Cloud Mamba", "Visual Mamba", "State Space Model"]
     "Autonomous Driving":
         filters: ["Autonomous Driving", "Autonomous Scenario"]
-    "HSI Classification":
-        filters: ["Hyperspectral and LiDAR Classification", "Hyperspectral Image Classification", "HSI"]
+
 
