@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**BGG: Bridging the Geometric Gap between Cross-View images by Vision Foundation Model Adaptation for Geo-Localization**|Wei Wang et.al.|[2605.10345](http://arxiv.org/abs/2605.10345)|null|
 |**2026-05-11**|**Hystar: Hypernetwork-driven Style-adaptive Retrieval via Dynamic SVD Modulation**|Yujia Cai et.al.|[2605.10009](http://arxiv.org/abs/2605.10009)|null|
 |**2026-05-11**|**Learning to Align Generative Appearance Priors for Fine-grained Image Retrieval**|Shijie Wang et.al.|[2605.09859](http://arxiv.org/abs/2605.09859)|null|
 |**2026-05-09**|**IPAD-CLIP: Teaching CLIP to Detect Image Local Perceptual Artifacts**|Juan Wang et.al.|[2605.08664](http://arxiv.org/abs/2605.08664)|null|
@@ -941,6 +942,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**MAGS-SLAM: Monocular Multi-Agent Gaussian Splatting SLAM for Geometrically and Photometrically Consistent Reconstruction**|Zhihao Cao et.al.|[2605.10760](http://arxiv.org/abs/2605.10760)|null|
+|**2026-05-11**|**UAV-Assisted Scan-to-Simulation for Landslides Using Physics-Informed Gaussian Splatting**|Zhenyu Liang et.al.|[2605.10715](http://arxiv.org/abs/2605.10715)|null|
+|**2026-05-11**|**TransmissiveGS: Residual-Guided Disentangled Gaussian Splatting for Transmissive Scene Reconstruction and Rendering**|Zhenyu Liang et.al.|[2605.10705](http://arxiv.org/abs/2605.10705)|null|
+|**2026-05-11**|**VEGA: Visual Encoder Grounding Alignment for Spatially-Aware Vision-Language-Action Models**|Hao Wang et.al.|[2605.10485](http://arxiv.org/abs/2605.10485)|null|
+|**2026-05-11**|**DySurface: Consistent 4D Surface Reconstruction via Bridging Explicit Gaussians and Implicit Functions**|Minje Kim et.al.|[2605.10360](http://arxiv.org/abs/2605.10360)|null|
 |**2026-05-11**|**PaMoSplat: Part-Aware Motion-Guided Gaussian Splatting for Dynamic Scene Reconstruction**|Yinan Deng et.al.|[2605.10307](http://arxiv.org/abs/2605.10307)|null|
 |**2026-05-11**|**AdaptSplat: Adapting Vision Foundation Models for Feed-Forward 3D Gaussian Splatting**|Mingwei Xing et.al.|[2605.10239](http://arxiv.org/abs/2605.10239)|null|
 |**2026-05-11**|**SDTalk: Structured Facial Priors and Dual-Branch Motion Fields for Generalizable Gaussian Talking Head Synthesis**|Peng Jia et.al.|[2605.09956](http://arxiv.org/abs/2605.09956)|null|
@@ -2104,6 +2110,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**MDrive: Benchmarking Closed-Loop Cooperative Driving for End-to-End Multi-agent Systems**|Marco Coscoy et.al.|[2605.10904](http://arxiv.org/abs/2605.10904)|null|
+|**2026-05-11**|**C-CoT: Counterfactual Chain-of-Thought with Vision-Language Models for Safe Autonomous Driving**|Kefei Tian et.al.|[2605.10744](http://arxiv.org/abs/2605.10744)|null|
+|**2026-05-11**|**DeepSight: Long-Horizon World Modeling via Latent States Prediction for End-to-End Autonomous Driving**|Lingjun Zhang et.al.|[2605.10564](http://arxiv.org/abs/2605.10564)|null|
+|**2026-05-11**|**CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving**|Minqing Huang et.al.|[2605.10426](http://arxiv.org/abs/2605.10426)|null|
+|**2026-05-11**|**Temporal Sampling Frequency Matters: A Capacity-Aware Study of End-to-End Driving Trajectory Prediction**|Yumao Liu et.al.|[2605.10388](http://arxiv.org/abs/2605.10388)|null|
+|**2026-05-11**|**GuardAD: Safeguarding Autonomous Driving MLLMs via Markovian Safety Logic**|Tianyuan Zhang et.al.|[2605.10386](http://arxiv.org/abs/2605.10386)|null|
 |**2026-05-11**|**MTA-RL: Robust Urban Driving via Multi-modal Transformer-based 3D Affordances and Reinforcement Learning**|Guangli Chen et.al.|[2605.10177](http://arxiv.org/abs/2605.10177)|null|
 |**2026-05-11**|**Think as Needed: Geometry-Driven Adaptive Perception for Autonomous Driving**|Donghyun Kim et.al.|[2605.10117](http://arxiv.org/abs/2605.10117)|null|
 |**2026-05-11**|**Beyond Self-Play and Scale: A Behavior Benchmark for Generalization in Autonomous Driving**|Aron Distelzweig et.al.|[2605.10034](http://arxiv.org/abs/2605.10034)|null|
@@ -3514,6 +3526,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Polygon-mamba: Retinal vessel segmentation using polygon scanning mamba and space-frequency collaborative attention**|Yuanyuan Peng et.al.|[2605.10581](http://arxiv.org/abs/2605.10581)|null|
+|**2026-05-11**|**Learning to Focus Synthetic Aperture Radar On-line with State-Space Models**|Sebastian Fieldhouse et.al.|[2605.10340](http://arxiv.org/abs/2605.10340)|null|
 |**2026-05-11**|**Increasing the Efficiency of DETR for Maritime High-Resolution Images**|Tinsae Yehuala et.al.|[2605.10269](http://arxiv.org/abs/2605.10269)|null|
 |**2026-05-10**|**TIDES: Implicit Time-Awareness in Selective State Space Models**|Taylan Soydan et.al.|[2605.09742](http://arxiv.org/abs/2605.09742)|null|
 |**2026-05-09**|**Prediction Bottlenecks Don't Discover Causal Structure (But Here's What They Actually Do)**|Ankit Hemant Lade et.al.|[2605.09169](http://arxiv.org/abs/2605.09169)|null|
@@ -3527,7 +3541,7 @@ layout: default
 |**2026-05-08**|**Rethinking State Tracking in Recurrent Models Through Error Control Dynamics**|Jiwan Chung et.al.|[2605.07755](http://arxiv.org/abs/2605.07755)|null|
 |**2026-05-08**|**Breaking Spatial Uniformity: Prior-Guided Mamba with Radial Serialization for Lens Flare Removal**|Zijia Fu et.al.|[2605.07650](http://arxiv.org/abs/2605.07650)|null|
 |**2026-05-08**|**VIMCAN: Visual-Inertial 3D Human Pose Estimation with Hybrid Mamba-Cross-Attention Network**|Zepeng Yang et.al.|[2605.07552](http://arxiv.org/abs/2605.07552)|null|
-|**2026-05-08**|**StreamPhy: Streaming Inference of High-Dimensional Physical Dynamics via State Space Models**|Panqi Chen et.al.|[2605.07384](http://arxiv.org/abs/2605.07384)|null|
+|**2026-05-11**|**StreamPhy: Streaming Inference of High-Dimensional Physical Dynamics via State Space Models**|Panqi Chen et.al.|[2605.07384](http://arxiv.org/abs/2605.07384)|null|
 |**2026-05-08**|**ShellfishNet: A Domain-Specific Benchmark for Visual Recognition of Marine Molluscs**|Ziheng Zhou et.al.|[2605.07338](http://arxiv.org/abs/2605.07338)|null|
 |**2026-05-07**|**Echo: KV-Cache-Free Associative Recall with Spectral Koopman Operators**|Anupama Sridhar et.al.|[2605.06997](http://arxiv.org/abs/2605.06997)|null|
 |**2026-05-07**|**Adaptive Memory Decay for Log-Linear Attention**|Yaxita Amin et.al.|[2605.06946](http://arxiv.org/abs/2605.06946)|null|
