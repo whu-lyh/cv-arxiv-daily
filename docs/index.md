@@ -745,8 +745,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-05-04**|**EdgeLPR: On the Deep Neural Network trade-off between Precision and Performance in LiDAR Place Recognition**|Pierpaolo Serio et.al.|[2605.02275](http://arxiv.org/abs/2605.02275)|null|
 |**2026-04-02**|**Riemannian and Symplectic Geometry for Hierarchical Text-Driven Place Recognition**|Tianyi Shang et.al.|[2604.01598](http://arxiv.org/abs/2604.01598)|null|
-|**2026-03-16**|**Voronoi-based Second-order Descriptor with Whitened Metric in LiDAR Place Recognition**|Jaein Kim et.al.|[2603.14974](http://arxiv.org/abs/2603.14974)|**[link](https://github.com/jykim2958/Voronoi-Second-Pooling)**|
-|**2026-03-09**|**RLPR: Radar-to-LiDAR Place Recognition via Two-Stage Asymmetric Cross-Modal Alignment for Autonomous Driving**|Zhangshuo Qi et.al.|[2603.07920](http://arxiv.org/abs/2603.07920)|**[link](https://github.com/QiZS-BIT/RLPR)**|
+|**2026-03-16**|**Voronoi-based Second-order Descriptor with Whitened Metric in LiDAR Place Recognition**|Jaein Kim et.al.|[2603.14974](http://arxiv.org/abs/2603.14974)|null|
+|**2026-03-09**|**RLPR: Radar-to-LiDAR Place Recognition via Two-Stage Asymmetric Cross-Modal Alignment for Autonomous Driving**|Zhangshuo Qi et.al.|[2603.07920](http://arxiv.org/abs/2603.07920)|null|
 |**2026-05-05**|**PROBE: Probabilistic Occupancy BEV Encoding with Analytical Translation Robustness for 3D Place Recognition**|Jinseop Lee et.al.|[2603.05965](http://arxiv.org/abs/2603.05965)|null|
 |**2026-01-29**|**Advanced techniques and applications of LiDAR Place Recognition in Agricultural Environments: A Comprehensive Survey**|Judith Vilella-Cantos et.al.|[2601.22198](http://arxiv.org/abs/2601.22198)|null|
 |**2026-04-22**|**Low Cost, High Efficiency: LiDAR Place Recognition in Vineyards with Matryoshka Representation Learning**|Judith Vilella-Cantos et.al.|[2601.18714](http://arxiv.org/abs/2601.18714)|null|
@@ -947,7 +947,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-14**|**3D Skew-Normal Splatting**|Xiangru Wu et.al.|[2605.15010](http://arxiv.org/abs/2605.15010)|null|
+|**2026-05-15**|**Smart target point control for Gaussian Splatting methods**|Pratik Singh Bisht et.al.|[2605.16158](http://arxiv.org/abs/2605.16158)|null|
+|**2026-05-15**|**Robust Prior-Guided Segmentation for Editable 3D Gaussian Splatting**|Raushan Joshi et.al.|[2605.16065](http://arxiv.org/abs/2605.16065)|null|
+|**2026-05-15**|**EndoGSim: Physics-Aware 4D Dynamic Endoscopic Scene Simulations via MLLM-Guided Gaussian Splatting**|Changjing Liu et.al.|[2605.16022](http://arxiv.org/abs/2605.16022)|null|
+|**2026-05-15**|**Learn2Splat: Extending the Horizon of Learned 3DGS Optimization**|Naama Pearl et.al.|[2605.15760](http://arxiv.org/abs/2605.15760)|null|
+|**2026-05-14**|**3DEditSafe: Defending 3D Editing Pipelines from Unsafe Generation**|Nicole Meng et.al.|[2605.15398](http://arxiv.org/abs/2605.15398)|null|
+|**2026-05-14**|**Eff-WRFGS: Efficient Wireless Radiance Field Using 3D Gaussian Splatting**|Chenghong Bian et.al.|[2605.15324](http://arxiv.org/abs/2605.15324)|null|
+|**2026-05-15**|**3D Skew-Normal Splatting**|Xiangru Wu et.al.|[2605.15010](http://arxiv.org/abs/2605.15010)|null|
 |**2026-05-14**|**Denoising-GS: Gaussian Splatting with Spatial-aware Denoising**|Qingyuan Zhou et.al.|[2605.14880](http://arxiv.org/abs/2605.14880)|null|
 |**2026-05-14**|**Efficient Dense Matching for Enhanced Gaussian Splatting Using AV1 Motion Vectors**|Julien Zouein et.al.|[2605.14629](http://arxiv.org/abs/2605.14629)|null|
 |**2026-05-13**|**PanoPlane: Plane-Aware Panoramic Completion for Sparse-View Indoor 3D Gaussian Splatting**|Adil Qureshi et.al.|[2605.14135](http://arxiv.org/abs/2605.14135)|null|
@@ -956,7 +962,7 @@ layout: default
 |**2026-05-13**|**Real2Sim: A Physics-driven and Editable Gaussian Splatting Framework for Autonomous Driving Scenes**|Kaicong Huang et.al.|[2605.13591](http://arxiv.org/abs/2605.13591)|null|
 |**2026-05-13**|**Z-Order Transformer for Feed-Forward Gaussian Splatting**|Can Wang et.al.|[2605.13465](http://arxiv.org/abs/2605.13465)|null|
 |**2026-05-13**|**RoSplat: Robust Feed-Forward Pixel-wise Gaussian Splatting for Varying Input Views and High-Resolution Rendering**|Hoang Chuong Nguyen et.al.|[2605.13093](http://arxiv.org/abs/2605.13093)|null|
-|**2026-05-13**|**HarmoGS: Robust 3D Gaussian Splatting in the Wild via Conflict-Aware Gradient Harmonization**|Yulei Kang et.al.|[2605.13073](http://arxiv.org/abs/2605.13073)|null|
+|**2026-05-15**|**HarmoGS: Robust 3D Gaussian Splatting in the Wild via Conflict-Aware Gradient Harmonization**|Yulei Kang et.al.|[2605.13073](http://arxiv.org/abs/2605.13073)|null|
 |**2026-05-13**|**GuardMarkGS: Unified Ownership Tracing and Edit Deterrence for 3D Gaussian Splatting**|Utae Jeong et.al.|[2605.12919](http://arxiv.org/abs/2605.12919)|null|
 |**2026-05-12**|**Revisiting Photometric Ambiguity for Accurate Gaussian-Splatting Surface Reconstruction**|Jiahe Li et.al.|[2605.12494](http://arxiv.org/abs/2605.12494)|null|
 |**2026-05-12**|**3D Gaussian Splatting for Efficient Retrospective Dynamic Scene Novel View Synthesis with a Standardized Benchmark**|Yunxiao Zhang et.al.|[2605.12437](http://arxiv.org/abs/2605.12437)|null|
@@ -2139,7 +2145,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-14**|**CLOVER: Closed-Loop Value Estimation \& Ranking for End-to-End Autonomous Driving Planning**|Sining Ang et.al.|[2605.15120](http://arxiv.org/abs/2605.15120)|null|
+|**2026-05-15**|**Towards Trustworthy and Explainable AI for Perception Models: From Concept to Prototype Vehicle Deployment**|Till Beemelmanns et.al.|[2605.16087](http://arxiv.org/abs/2605.16087)|null|
+|**2026-05-15**|**Learning Context-conditioned Gaussian Overbounds for Convolution-Based Uncertainty Propagation**|Ruirui Liu et.al.|[2605.15789](http://arxiv.org/abs/2605.15789)|null|
+|**2026-05-15**|**PCASim: Promptable Closed-loop Adversarial Simulation for Urban Traffic Environment**|Chuancheng Zhang et.al.|[2605.15654](http://arxiv.org/abs/2605.15654)|null|
+|**2026-05-15**|**CLOVER: Closed-Loop Value Estimation and Ranking for End-to-End Autonomous Driving Planning**|Sining Ang et.al.|[2605.15120](http://arxiv.org/abs/2605.15120)|null|
 |**2026-05-14**|**DriveCtrl: Conditioned Sim-to-Real Driving Video Generation**|Haonan Zhao et.al.|[2605.15116](http://arxiv.org/abs/2605.15116)|null|
 |**2026-05-14**|**Learning Direct Control Policies with Flow Matching for Autonomous Driving**|Marcello Ceresini et.al.|[2605.14832](http://arxiv.org/abs/2605.14832)|null|
 |**2026-05-14**|**EponaV2: Driving World Model with Comprehensive Future Reasoning**|Jiawei Xu et.al.|[2605.14696](http://arxiv.org/abs/2605.14696)|null|
@@ -3578,6 +3587,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-15**|**Looped SSMs: Depth-Recurrence and Input Reshaping for Time Series Classification**|Mónika Farsang et.al.|[2605.16048](http://arxiv.org/abs/2605.16048)|null|
+|**2026-05-13**|**FSCM: Frequency-Enhanced Spatial-Spectral Coupled Mamba for Infrared Hyperspectral Image Colorization**|Tingting Liu et.al.|[2605.15880](http://arxiv.org/abs/2605.15880)|null|
+|**2026-05-15**|**3DTMDet: A Dual-Path Synergy Network of Transformer and SSM for 3D Object Detection in Point Clouds**|Bingwen Qiu et.al.|[2605.15546](http://arxiv.org/abs/2605.15546)|null|
+|**2026-05-14**|**Social-Mamba: Socially-Aware Trajectory Forecasting with State-Space Models**|Po-Chien Luan et.al.|[2605.15424](http://arxiv.org/abs/2605.15424)|null|
+|**2026-05-14**|**Time-Varying Deep State Space Models for Sequences with Switching Dynamics**|Sanja Karilanova et.al.|[2605.15311](http://arxiv.org/abs/2605.15311)|null|
 |**2026-05-14**|**Can Visual Mamba Improve AI-Generated Image Detection? An In-Depth Investigation**|Mamadou Keita et.al.|[2605.14799](http://arxiv.org/abs/2605.14799)|null|
 |**2026-05-14**|**DSSP: Diffusion State Space Policy with Full-History Encoding**|Zhiyuan Guan et.al.|[2605.14598](http://arxiv.org/abs/2605.14598)|null|
 |**2026-05-13**|**QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling**|Hoang-Quan Nguyen et.al.|[2605.13833](http://arxiv.org/abs/2605.13833)|null|
