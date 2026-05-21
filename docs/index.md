@@ -2,20 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.05.20
+## Updated on 2026.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval**|Miaoge Li et.al.|[2605.21261](http://arxiv.org/abs/2605.21261)|null|
+|**2026-05-20**|**JobArabi: An Arabic Corpus and Analysis of Job Announcements from Social Media**|Wajdi Zaghouani et.al.|[2605.20960](http://arxiv.org/abs/2605.20960)|null|
+|**2026-05-19**|**Faster or Stronger: Towards Flexible Visual Place Recognition via Weighted Aggregation and Token Pruning**|Zichao Zeng et.al.|[2605.20551](http://arxiv.org/abs/2605.20551)|null|
 |**2026-05-19**|**Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth**|Viktor Kocur et.al.|[2605.19797](http://arxiv.org/abs/2605.19797)|null|
 |**2026-05-19**|**KappaPlace: Learning Hyperspherical Uncertainty for Visual Place Recognition via Prototype-Anchored Supervision**|Maya Yanko et.al.|[2605.19435](http://arxiv.org/abs/2605.19435)|null|
 |**2026-05-18**|**How Loud Rumbles Hit Newsstands: A Data Analysis of Coverage and Spatial Bias in German News about Landslides Around the World**|Brielen Madureira et.al.|[2605.18105](http://arxiv.org/abs/2605.18105)|null|
 |**2026-05-18**|**Imaging Hidden Objects with Consumer LiDAR via Motion Induced Sampling**|Siddharth Somasundaram et.al.|[2605.17865](http://arxiv.org/abs/2605.17865)|null|
 |**2026-05-18**|**Efficient Sparse-to-Dense Visual Localization via Compact Gaussian Scene Representation and Accelerated Dense Pose Estimation**|Zizhuo Li et.al.|[2605.17777](http://arxiv.org/abs/2605.17777)|null|
 |**2026-05-17**|**Memory-Augmented Query Intent Understanding for Efficient Chat-based Image Retrieval**|Xianke Chen et.al.|[2605.17365](http://arxiv.org/abs/2605.17365)|null|
-|**2026-05-16**|**Neuroscience-inspired Staged Representation Learning with Disentangled Coarse- and Fine-Grained Semantics for EEG Visual Decoding**|Xiang Gao et.al.|[2605.16923](http://arxiv.org/abs/2605.16923)|null|
+|**2026-05-20**|**Neuroscience-inspired Staged Representation Learning with Disentangled Coarse- and Fine-Grained Semantics for EEG Visual Decoding**|Xiang Gao et.al.|[2605.16923](http://arxiv.org/abs/2605.16923)|null|
 |**2026-05-15**|**SeamCam: Quantifying Seamless Camouflage via Multi-Cue Visual Detectability**|Amin Karimi Monsefi et.al.|[2605.16515](http://arxiv.org/abs/2605.16515)|null|
 |**2026-05-15**|**DeepArrhythmia: Segment-Contextualized ECG Arrhythmia Classification via Selective Evidence Acquisition**|Jiahui Li et.al.|[2605.16441](http://arxiv.org/abs/2605.16441)|null|
 |**2026-05-14**|**Neural Visual Decoding via Cognitive guided Adaptive Blurring and Information Constrained Alignment**|Fan Yin et.al.|[2605.16418](http://arxiv.org/abs/2605.16418)|null|
@@ -755,8 +758,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-05-04**|**EdgeLPR: On the Deep Neural Network trade-off between Precision and Performance in LiDAR Place Recognition**|Pierpaolo Serio et.al.|[2605.02275](http://arxiv.org/abs/2605.02275)|null|
 |**2026-04-02**|**Riemannian and Symplectic Geometry for Hierarchical Text-Driven Place Recognition**|Tianyi Shang et.al.|[2604.01598](http://arxiv.org/abs/2604.01598)|null|
-|**2026-03-16**|**Voronoi-based Second-order Descriptor with Whitened Metric in LiDAR Place Recognition**|Jaein Kim et.al.|[2603.14974](http://arxiv.org/abs/2603.14974)|null|
-|**2026-03-09**|**RLPR: Radar-to-LiDAR Place Recognition via Two-Stage Asymmetric Cross-Modal Alignment for Autonomous Driving**|Zhangshuo Qi et.al.|[2603.07920](http://arxiv.org/abs/2603.07920)|null|
+|**2026-03-16**|**Voronoi-based Second-order Descriptor with Whitened Metric in LiDAR Place Recognition**|Jaein Kim et.al.|[2603.14974](http://arxiv.org/abs/2603.14974)|**[link](https://github.com/jykim2958/Voronoi-Second-Pooling)**|
+|**2026-03-09**|**RLPR: Radar-to-LiDAR Place Recognition via Two-Stage Asymmetric Cross-Modal Alignment for Autonomous Driving**|Zhangshuo Qi et.al.|[2603.07920](http://arxiv.org/abs/2603.07920)|**[link](https://github.com/QiZS-BIT/RLPR)**|
 |**2026-05-05**|**PROBE: Probabilistic Occupancy BEV Encoding with Analytical Translation Robustness for 3D Place Recognition**|Jinseop Lee et.al.|[2603.05965](http://arxiv.org/abs/2603.05965)|null|
 |**2026-01-29**|**Advanced techniques and applications of LiDAR Place Recognition in Agricultural Environments: A Comprehensive Survey**|Judith Vilella-Cantos et.al.|[2601.22198](http://arxiv.org/abs/2601.22198)|null|
 |**2026-04-22**|**Low Cost, High Efficiency: LiDAR Place Recognition in Vineyards with Matryoshka Representation Learning**|Judith Vilella-Cantos et.al.|[2601.18714](http://arxiv.org/abs/2601.18714)|null|
@@ -957,11 +960,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**RCGDet3D: Rethinking 4D Radar-Camera Fusion-based 3D Object Detection with Enhanced Radar Feature Encoding**|Weiyi Xiong et.al.|[2605.21112](http://arxiv.org/abs/2605.21112)|null|
+|**2026-05-20**|**Transcoding a 3D Gaussian Splatting Model from a Plenoptic Point Cloud or Mesh without the Original Multi-view Images**|Maja Krivokuća et.al.|[2605.21051](http://arxiv.org/abs/2605.21051)|null|
+|**2026-05-20**|**CAdam: Context-Adaptive Moment Estimation for 3D Gaussian Densification in Generative Distillation**|SeungJeh Chung et.al.|[2605.20872](http://arxiv.org/abs/2605.20872)|null|
+|**2026-05-20**|**AIR: Amortized Image Reconstruction Framework for Self-Supervised Feed-Forward 2D Gaussian Splatting**|Zhaojie Zeng et.al.|[2605.20820](http://arxiv.org/abs/2605.20820)|null|
+|**2026-05-19**|**Conflict-Aware Active Perception and Control in 3D Gaussian Splatting Fields via Control Barrier Functions**|Amirhossein Mollaei Khass et.al.|[2605.20566](http://arxiv.org/abs/2605.20566)|null|
 |**2026-05-19**|**TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization**|Chonghao Zhong et.al.|[2605.20150](http://arxiv.org/abs/2605.20150)|null|
 |**2026-05-19**|**OP2GS: Object-Aware 3D Gaussian Splatting with Dual-Opacity Primitives**|Guiyu Liu et.al.|[2605.20044](http://arxiv.org/abs/2605.20044)|null|
 |**2026-05-19**|**Feed-Forward Gaussian Splatting from Sparse Aerial Views**|Dongli Wu et.al.|[2605.19949](http://arxiv.org/abs/2605.19949)|null|
 |**2026-05-19**|**Cross-View Splatter: Feed-Forward View Synthesis with Georeferenced Images**|Matias Turkulainen et.al.|[2605.19656](http://arxiv.org/abs/2605.19656)|null|
-|**2026-05-19**|**CAD-Free Learning of Spacecraft Pose Estimators via NeRF-Based Augmentations**|Antoine Legrand et.al.|[2605.19649](http://arxiv.org/abs/2605.19649)|null|
+|**2026-05-20**|**CAD-Free Learning of Spacecraft Pose Estimators via NeRF-Based Augmentations**|Antoine Legrand et.al.|[2605.19649](http://arxiv.org/abs/2605.19649)|null|
 |**2026-05-19**|**FlyMirage: A Fully Automated Generation Pipeline for Diverse and Scalable UAV Flight Data via Generative World Model**|Jinhan Li et.al.|[2605.19600](http://arxiv.org/abs/2605.19600)|null|
 |**2026-05-19**|**MMGS: 10 $\times$ Compressed 3DGS through Optimal Transport Aggregation based on Multi-view Ranking**|Beizhen Zhao et.al.|[2605.19304](http://arxiv.org/abs/2605.19304)|null|
 |**2026-05-18**|**CosFly: Plan in the Matrix, Fly in the World**|Hanxuan Chen et.al.|[2605.19120](http://arxiv.org/abs/2605.19120)|null|
@@ -2174,6 +2182,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**Lost in Fog: Sensor Perturbations Expose Reasoning Fragility in Driving VLAs**|Abhinaw Priyadershi et.al.|[2605.21446](http://arxiv.org/abs/2605.21446)|null|
+|**2026-05-20**|**Towards Resilient and Autonomous Networks: A BlueSky Vision on AI-Native 6G**|Liang Wu et.al.|[2605.21395](http://arxiv.org/abs/2605.21395)|null|
+|**2026-05-20**|**Closed Loop Dynamic Driving Data Mixture for Real-Synthetic Co-Training**|Hongzhi Ruan et.al.|[2605.21372](http://arxiv.org/abs/2605.21372)|null|
+|**2026-05-20**|**Hyper-V2X: Hypernetworks for Estimating Epistemic and Aleatoric Uncertainty in Cooperative Bird's-Eye-View Semantic Segmentation**|Abhishek Dinkar Jagtap et.al.|[2605.21309](http://arxiv.org/abs/2605.21309)|null|
+|**2026-05-20**|**ScenePilot: Controllable Boundary-Driven Critical Scenario Generation for Autonomous Driving**|Qiyu Ruan et.al.|[2605.21168](http://arxiv.org/abs/2605.21168)|null|
+|**2026-05-20**|**Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving**|Yang Wu et.al.|[2605.21139](http://arxiv.org/abs/2605.21139)|null|
+|**2026-05-20**|**RCGDet3D: Rethinking 4D Radar-Camera Fusion-based 3D Object Detection with Enhanced Radar Feature Encoding**|Weiyi Xiong et.al.|[2605.21112](http://arxiv.org/abs/2605.21112)|null|
+|**2026-05-20**|**Towards Physically Consistent 4D Scene Reconstruction for Closed-loop Autonomous Driving Simulation**|Bowyn Tan et.al.|[2605.21032](http://arxiv.org/abs/2605.21032)|null|
+|**2026-05-20**|**LiteViLNet: Lightweight Vision-LiDAR Fusion Network for Efficient Road Segmentation**|Daojie Peng et.al.|[2605.21007](http://arxiv.org/abs/2605.21007)|null|
+|**2026-05-20**|**Bridging Structure and Language: Graph-Based Visual Reasoning for Autonomous Road Understanding**|Lena Wild et.al.|[2605.20942](http://arxiv.org/abs/2605.20942)|null|
+|**2026-05-20**|**A Semantic and Occlusion-Aware GM-PHD Filter**|Jovan Menezes et.al.|[2605.20666](http://arxiv.org/abs/2605.20666)|null|
+|**2026-05-19**|**STELLAR: Scaling 3D Perception Large Models for Autonomous Driving**|Yingwei Li et.al.|[2605.20390](http://arxiv.org/abs/2605.20390)|null|
+|**2026-05-19**|**Co-Fusion4D: Spatio-temporal Collaborative Fusion for Robust 3D Object Detection**|Wenxuan Li et.al.|[2605.20301](http://arxiv.org/abs/2605.20301)|null|
 |**2026-05-19**|**VL-DPO: Vision-Language-Guided Finetuning for Preference-Aligned Autonomous Driving**|Zhefan Xu et.al.|[2605.20082](http://arxiv.org/abs/2605.20082)|null|
 |**2026-05-19**|**Trajectory Planning and Control near the Limits: an Open Experimental Benchmark on the RoboRacer Platform**|Mattia Piccinini et.al.|[2605.19881](http://arxiv.org/abs/2605.19881)|null|
 |**2026-05-19**|**CADENet: Condition-Adaptive Asynchronous Dual-Stream Enhancement Network for Adverse Weather Perception in Autonomous Driving**|Sherif Khairy et.al.|[2605.19837](http://arxiv.org/abs/2605.19837)|null|
@@ -3640,6 +3661,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**Deformba: Vision State Space Model with Adaptive State Fusion**|Hongyu Ke et.al.|[2605.21308](http://arxiv.org/abs/2605.21308)|null|
+|**2026-05-20**|**Efficient Learning of Deep State Space Models via Importance Smoothing**|John-Joseph Brady et.al.|[2605.21108](http://arxiv.org/abs/2605.21108)|null|
 |**2026-05-19**|**CogScale: Scalable Benchmark for Sequence Processing**|Yannis Bendi-Ouis et.al.|[2605.19758](http://arxiv.org/abs/2605.19758)|null|
 |**2026-05-19**|**An Objective Performance Evaluation of the LSTM Networks in Time Series Classification**|Sooraj Sunil et.al.|[2605.19311](http://arxiv.org/abs/2605.19311)|null|
 |**2026-05-18**|**Flash PD-SSM: Memory-Optimized Structured Sparse State-Space Models**|Aleksandar Terzić et.al.|[2605.19150](http://arxiv.org/abs/2605.19150)|null|
