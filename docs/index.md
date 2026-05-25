@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.24
+## Updated on 2026.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -964,13 +964,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-22**|**Learning a Particle Dynamics Model with Real-world Videos**|Chanho Kim et.al.|[2605.23845](http://arxiv.org/abs/2605.23845)|null|
+|**2026-05-22**|**RiGS: Rigid-aware 4D Gaussian Splatting from a Single Monocular Video**|Chenyu Wu et.al.|[2605.23672](http://arxiv.org/abs/2605.23672)|null|
+|**2026-05-22**|**GlowGS: Generative Semantic Feature Learning for 3D Gaussian Splatting in Nighttime Glow Scenes**|Beibei Lin et.al.|[2605.23602](http://arxiv.org/abs/2605.23602)|null|
+|**2026-05-22**|**LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images**|Yilong Liu et.al.|[2605.23287](http://arxiv.org/abs/2605.23287)|null|
+|**2026-05-21**|**OctCGS: Octree-Contextual Gaussian Splatting with Explicit Multi-Order Propagation Modeling for Channel Knowledge Map Construction**|Jinghan Zhang et.al.|[2605.22961](http://arxiv.org/abs/2605.22961)|null|
 |**2026-05-21**|**Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving**|Jiahao Wang et.al.|[2605.22809](http://arxiv.org/abs/2605.22809)|null|
 |**2026-05-21**|**SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation**|Xiaolong Zhou et.al.|[2605.22536](http://arxiv.org/abs/2605.22536)|null|
 |**2026-05-21**|**4D-GSW: Kinematic-Aware Spatio-Temporal Consistent Watermarking for 4D Gaussian Splatting**|Sifan Zhou et.al.|[2605.22342](http://arxiv.org/abs/2605.22342)|null|
 |**2026-05-21**|**No Pose, No Problem in 4D: Feed-Forward Dynamic Gaussians from Unposed Multi-View Videos**|Matteo Balice et.al.|[2605.22190](http://arxiv.org/abs/2605.22190)|null|
 |**2026-05-21**|**Flow-based Gaussian Splatting for Continuous-Scale Remote Sensing Image Super-Resolution**|Jiangwei Mo et.al.|[2605.22147](http://arxiv.org/abs/2605.22147)|null|
 |**2026-05-21**|**TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting**|Hyeseong Kim et.al.|[2605.22069](http://arxiv.org/abs/2605.22069)|null|
-|**2026-05-21**|**ForeSplat: Optimization-Aware Foresight for Feed-Forward 3D Gaussian Splatting**|Yuke Li et.al.|[2605.22020](http://arxiv.org/abs/2605.22020)|null|
+|**2026-05-22**|**ForeSplat: Optimization-Aware Foresight for Feed-Forward 3D Gaussian Splatting**|Yuke Li et.al.|[2605.22020](http://arxiv.org/abs/2605.22020)|null|
 |**2026-05-21**|**Learning to Evolve: Multi-modal Interactive Fields for Robust Humanoid Navigation in Dynamic Environments**|Peifeng Jiang et.al.|[2605.21935](http://arxiv.org/abs/2605.21935)|null|
 |**2026-05-20**|**RCGDet3D: Rethinking 4D Radar-Camera Fusion-based 3D Object Detection with Enhanced Radar Feature Encoding**|Weiyi Xiong et.al.|[2605.21112](http://arxiv.org/abs/2605.21112)|null|
 |**2026-05-20**|**Transcoding a 3D Gaussian Splatting Model from a Plenoptic Point Cloud or Mesh without the Original Multi-view Images**|Maja Krivokuća et.al.|[2605.21051](http://arxiv.org/abs/2605.21051)|null|
@@ -2194,6 +2199,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-22**|**To Overlay or to Customize? Revisiting Architectural Choices in Heterogeneous Systems**|Xingzhen Chen et.al.|[2605.23630](http://arxiv.org/abs/2605.23630)|null|
+|**2026-05-22**|**RS2AD-LiDAR: End-to-End Autonomous Driving LiDAR Data Generation from Roadside Sensor Observations**|Runyi Huang et.al.|[2605.23406](http://arxiv.org/abs/2605.23406)|null|
+|**2026-05-22**|**GFSR: Geometric Fidelity and Spatial Refinement for Reliable Lane Detection**|Tiancheng Wang et.al.|[2605.23327](http://arxiv.org/abs/2605.23327)|null|
+|**2026-05-22**|**ChainFlow-VLA: Causal Flow Planning with Vision-Language Models**|Xiyang Wang et.al.|[2605.23270](http://arxiv.org/abs/2605.23270)|null|
+|**2026-05-22**|**Lipschitz Optimization for Formal Verification of Homographies**|Jean-Guillaume Durand et.al.|[2605.23203](http://arxiv.org/abs/2605.23203)|null|
+|**2026-05-22**|**DRIVESPATIAL: A Benchmark for Spatiotemporal Intelligence in VLMs for Autonomous Driving**|Hao Vo et.al.|[2605.23176](http://arxiv.org/abs/2605.23176)|null|
+|**2026-05-22**|**Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving**|Kewei Zhang et.al.|[2605.23163](http://arxiv.org/abs/2605.23163)|null|
+|**2026-05-21**|**Scene Reconstruction as Mapping Priors for 3D Detection**|Yang Fu et.al.|[2605.22997](http://arxiv.org/abs/2605.22997)|null|
 |**2026-05-21**|**Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving**|Jiahao Wang et.al.|[2605.22809](http://arxiv.org/abs/2605.22809)|null|
 |**2026-05-21**|**Branch-Stochastic Model Predictive Control for Motion Planning under Multi-Modal Uncertainty with Scenario Clustering**|Zekun Xing et.al.|[2605.22600](http://arxiv.org/abs/2605.22600)|null|
 |**2026-05-21**|**Beyond Chamfer Distance: Granular Order-aware Evaluation Metric For Online Mapping**|Chouaib Bencheikh Lehocine et.al.|[2605.22578](http://arxiv.org/abs/2605.22578)|null|
@@ -3681,6 +3694,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-22**|**ComHymba: Low-Complexity Domain-Informed Foundation Model for Wireless Communications**|Bowen Yang et.al.|[2605.23468](http://arxiv.org/abs/2605.23468)|null|
 |**2026-05-21**|**Meta-Learning for Rapid Adaptation in Reference Tracking of Uncertain Nonlinear Systems**|Jiaqi Yan et.al.|[2605.22513](http://arxiv.org/abs/2605.22513)|null|
 |**2026-05-21**|**Asymmetric Virtual Memory Paging for Hybrid Mamba-Transformer Inference**|An Xuan Nguyen et.al.|[2605.22416](http://arxiv.org/abs/2605.22416)|null|
 |**2026-05-21**|**SO-Mamba: State-Ownership Mamba for Unrolled MRI Reconstruction**|Pengcheng Fang et.al.|[2605.22031](http://arxiv.org/abs/2605.22031)|null|
