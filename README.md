@@ -984,9 +984,9 @@
 |**2026-05-22**|**LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images**|Yilong Liu et.al.|[2605.23287](http://arxiv.org/abs/2605.23287)|null|
 |**2026-05-21**|**OctCGS: Octree-Contextual Gaussian Splatting with Explicit Multi-Order Propagation Modeling for Channel Knowledge Map Construction**|Jinghan Zhang et.al.|[2605.22961](http://arxiv.org/abs/2605.22961)|null|
 |**2026-05-21**|**Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving**|Jiahao Wang et.al.|[2605.22809](http://arxiv.org/abs/2605.22809)|null|
-|**2026-05-21**|**SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation**|Xiaolong Zhou et.al.|[2605.22536](http://arxiv.org/abs/2605.22536)|**[link](https://github.com/Visionary-Laboratory/SpaceDG)**|
+|**2026-05-21**|**SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation**|Xiaolong Zhou et.al.|[2605.22536](http://arxiv.org/abs/2605.22536)|null|
 |**2026-05-21**|**4D-GSW: Kinematic-Aware Spatio-Temporal Consistent Watermarking for 4D Gaussian Splatting**|Sifan Zhou et.al.|[2605.22342](http://arxiv.org/abs/2605.22342)|null|
-|**2026-05-21**|**No Pose, No Problem in 4D: Feed-Forward Dynamic Gaussians from Unposed Multi-View Videos**|Matteo Balice et.al.|[2605.22190](http://arxiv.org/abs/2605.22190)|**[link](https://github.com/bralani/NoPo4D)**|
+|**2026-05-21**|**No Pose, No Problem in 4D: Feed-Forward Dynamic Gaussians from Unposed Multi-View Videos**|Matteo Balice et.al.|[2605.22190](http://arxiv.org/abs/2605.22190)|null|
 |**2026-05-21**|**Flow-based Gaussian Splatting for Continuous-Scale Remote Sensing Image Super-Resolution**|Jiangwei Mo et.al.|[2605.22147](http://arxiv.org/abs/2605.22147)|null|
 |**2026-05-21**|**TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting**|Hyeseong Kim et.al.|[2605.22069](http://arxiv.org/abs/2605.22069)|null|
 |**2026-05-22**|**ForeSplat: Optimization-Aware Foresight for Feed-Forward 3D Gaussian Splatting**|Yuke Li et.al.|[2605.22020](http://arxiv.org/abs/2605.22020)|null|
