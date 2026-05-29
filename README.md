@@ -1,4 +1,4 @@
-## Updated on 2026.05.27
+## Updated on 2026.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-27**|**SAFEVPR: Patch-Based Conformal Verification for Safe Cross-Condition Sequence Visual Place Recognition**|Ha Sier et.al.|[2605.28048](http://arxiv.org/abs/2605.28048)|null|
 |**2026-05-26**|**Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models**|Aaron Branson Cigres Li et.al.|[2605.27243](http://arxiv.org/abs/2605.27243)|null|
 |**2026-05-26**|**CIRCLED: A Multi-turn CIR Dataset with Consistent Dialogues across Domains**|Tomohisa Takeda et.al.|[2605.26734](http://arxiv.org/abs/2605.26734)|**[link](https://github.com/mti-lab/circled)**|
 |**2026-05-26**|**Resolving Ambiguity in Composed Image Retrieval via Calibrated Interaction**|Amsisan Tran et.al.|[2605.24634](http://arxiv.org/abs/2605.24634)|null|
@@ -769,7 +770,7 @@
 |**2018-05-16**|**Visual Global Localization with a Hybrid WNN-CNN Approach**|Avelino Forechi et.al.|[1805.03183](http://arxiv.org/abs/1805.03183)|**[link](https://github.com/LCAD-UFES/WNN-CNN-GL)**|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|null|
 
-<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260529>back to top</a>)</p>
 
 ## Point Cloud Place Recognition
 
@@ -876,7 +877,7 @@
 |**2020-08-04**|**PIC-Net: Point Cloud and Image Collaboration Network for Large-Scale Place Recognition**|Yuheng Lu et.al.|[2008.00658](http://arxiv.org/abs/2008.00658)|null|
 |**2020-07-06**|**LOL: Lidar-Only Odometry and Localization in 3D Point Cloud Maps**|David Rozenberszki et.al.|[2007.01595](http://arxiv.org/abs/2007.01595)|**[link](https://github.com/RozDavid/LOL)**|
 
-<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260529>back to top</a>)</p>
 
 ## Cross-modality Localization
 
@@ -977,18 +978,32 @@
 |**2021-07-28**|**Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization**|Fa-Ting Hong et.al.|[2107.12589](http://arxiv.org/abs/2107.12589)|null|
 |**2020-09-15**|**RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization**|Niluthpol Chowdhury Mithun et.al.|[2009.05695](http://arxiv.org/abs/2009.05695)|null|
 
-<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260529>back to top</a>)</p>
 
 ## 3D GS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-28**|**Uncertainty-driven 3D Gaussian Splatting Active Mapping via Anisotropic Visibility Field**|Shangjie Xue et.al.|[2605.30342](http://arxiv.org/abs/2605.30342)|null|
+|**2026-05-28**|**Supercharging Thermal Gaussian Splatting with Depth Estimation**|Manoj Biswanath et.al.|[2605.30328](http://arxiv.org/abs/2605.30328)|null|
+|**2026-05-28**|**MonoPhysics: Estimating Geometry, Appearance, and Physical Parameters from Monocular Videos**|Daniel Rho et.al.|[2605.30320](http://arxiv.org/abs/2605.30320)|null|
+|**2026-05-28**|**City-Mesh3R: Simulation-Ready City-Scale 3D Mesh Reconstruction from Multi-View Images**|Sayan Paul et.al.|[2605.30310](http://arxiv.org/abs/2605.30310)|null|
+|**2026-05-28**|**PhyGenHOI: Physically-Aware 4D Generation of Dynamic Human-Object Interactions**|Omer Benishu et.al.|[2605.30268](http://arxiv.org/abs/2605.30268)|null|
+|**2026-05-28**|**LoMo: Local Modality Substitution for Deeper Vision-Language Fusion**|Feng Han et.al.|[2605.30265](http://arxiv.org/abs/2605.30265)|null|
+|**2026-05-28**|**Boosting Zero-Shot 3D Style Transfer with 2D Pre-trained Priors**|Xin Dong et.al.|[2605.30065](http://arxiv.org/abs/2605.30065)|null|
+|**2026-05-28**|**FRUC: Feedforward Dynamic Scene Reconstruction from Uncalibrated Collaborative Driving Views**|Yihang Tao et.al.|[2605.29997](http://arxiv.org/abs/2605.29997)|null|
+|**2026-05-28**|**BitC-3DGS: High-Capacity 3D Gaussian Splatting Watermarking via Bit Compression**|Yuquan Bi et.al.|[2605.29583](http://arxiv.org/abs/2605.29583)|null|
+|**2026-05-28**|**Learning Representations from 3D Gaussian Splats**|Julia Farganus et.al.|[2605.29549](http://arxiv.org/abs/2605.29549)|null|
+|**2026-05-28**|**Comparative evaluation of photogrammetric reconstruction methods and 3D Gaussian Splatting for road surface roughness analysis**|Marouane Elmegdar et.al.|[2605.29452](http://arxiv.org/abs/2605.29452)|null|
+|**2026-05-28**|**FreeForm: Reduced-Order Deformable Simulation from Particle-Based Skinning Eigenmodes**|Donglai Xiang et.al.|[2605.29318](http://arxiv.org/abs/2605.29318)|null|
+|**2026-05-27**|**Eulerian Gaussian Splatting using Hashed Probability Pyramids**|Mia Gaia Polansky et.al.|[2605.29136](http://arxiv.org/abs/2605.29136)|null|
+|**2026-05-27**|**POINav: Benchmarking and Enhancing Final-Meters Arrival in Real-World Vision-Language Navigation**|Ruiyan Gong et.al.|[2605.28237](http://arxiv.org/abs/2605.28237)|null|
 |**2026-05-26**|**GScomp-QA: A Subjective Dataset for Quality Assessment of Compressed Gaussian Splatting**|Pedro Martin et.al.|[2605.26880](http://arxiv.org/abs/2605.26880)|null|
 |**2026-05-26**|**DelowlightSplat: Feed-Forward Gaussian Splatting for Lowlight 3D Scene Reconstruction**|Fuzhen Jiang et.al.|[2605.26629](http://arxiv.org/abs/2605.26629)|null|
 |**2026-05-26**|**Gaussian-Voxel Duet: A Dual-Scaffolding Hybrid Representation for Fast and Accurate Monocular Surface Reconstruction**|Zhenhua Du et.al.|[2605.26616](http://arxiv.org/abs/2605.26616)|null|
 |**2026-05-26**|**TrackRef3D: Multi-View Consistent Track-then-Label for Open-World Referring Segmentation in 3D Gaussian Splatting**|Yuyang Tan et.al.|[2605.26576](http://arxiv.org/abs/2605.26576)|null|
 |**2026-05-26**|**Underwater360: Reconstructing Underwater Scenes from Panoramic Images with Omnidirectional Gaussian Splatting**|Jiangbei Hu et.al.|[2605.26447](http://arxiv.org/abs/2605.26447)|null|
-|**2026-05-26**|**Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation**|Jim Salsman et.al.|[2605.26428](http://arxiv.org/abs/2605.26428)|null|
+|**2026-05-27**|**Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation**|Jim Salsman et.al.|[2605.26428](http://arxiv.org/abs/2605.26428)|null|
 |**2026-05-25**|**Channel-wise Vector Quantization**|Wei Song et.al.|[2605.26089](http://arxiv.org/abs/2605.26089)|null|
 |**2026-05-25**|**F-RNG: Feed-Forward Relightable Neural Gaussians**|Guangming Fu et.al.|[2605.25975](http://arxiv.org/abs/2605.25975)|null|
 |**2026-05-25**|**R5DGS: Semantic-Aware 4D Gaussian Splatting with Rigid Body Constraints for Efficient Dynamic Scene Reconstruction**|Denis Gridusov et.al.|[2605.25909](http://arxiv.org/abs/2605.25909)|null|
@@ -2232,12 +2247,22 @@
 |**2024-03-26**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095](http://arxiv.org/abs/2403.16095)|null|
 |**2024-04-09**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700](http://arxiv.org/abs/2311.11700)|null|
 
-<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260529>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-28**|**Supercharging Thermal Gaussian Splatting with Depth Estimation**|Manoj Biswanath et.al.|[2605.30328](http://arxiv.org/abs/2605.30328)|null|
+|**2026-05-28**|**CityGen: Structure-Guided City-Style Synthesis for Cross-City Autonomous Driving**|Zezhong Qian et.al.|[2605.29935](http://arxiv.org/abs/2605.29935)|null|
+|**2026-05-27**|**Multi-Resolution End-to-End Deep Neural Network for Optimizing Latency-Accuracy Tradeoff in Autonomous Driving**|Qitao Weng et.al.|[2605.29138](http://arxiv.org/abs/2605.29138)|null|
+|**2026-05-27**|**ReasonBreak: Probing Vulnerabilities in Reasoning-Enabled Vision-Language-Action Models for Autonomous Driving**|Mohammadreza Teymoorianfard et.al.|[2605.29114](http://arxiv.org/abs/2605.29114)|null|
+|**2026-05-27**|**Deformable Gaussian Occupancy: Decoupling Rigid and Nonrigid Motion with Factorized Distillation**|Yang Gao et.al.|[2605.28587](http://arxiv.org/abs/2605.28587)|null|
+|**2026-05-27**|**SARAD: LLM-Based Safety-Aware Hybrid Reinforcement Learning with Collision Prediction for Autonomous Driving**|Kangyu Wu et.al.|[2605.28583](http://arxiv.org/abs/2605.28583)|null|
+|**2026-05-27**|**DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving**|Chen Shi et.al.|[2605.28544](http://arxiv.org/abs/2605.28544)|null|
+|**2026-05-27**|**Tensor Train Decomposition Based Noise Reduction and Enhanced Parameter Estimation for FMCW MIMO Radar Systems**|Luoyan Zhu et.al.|[2605.28180](http://arxiv.org/abs/2605.28180)|null|
+|**2026-05-27**|**SAM-Enhanced Segmentation on Road Datasets: Balancing Critical Classes in Autonomous Driving**|Toomas Tahves et.al.|[2605.28136](http://arxiv.org/abs/2605.28136)|null|
+|**2026-05-27**|**DRIFT: Driving Risk Inference via Field Transmission for Human-like Autonomous Driving**|Zian Wang et.al.|[2605.27964](http://arxiv.org/abs/2605.27964)|null|
 |**2026-05-26**|**TPS-Drive: Task-Guided Representation Purification for VLM-based Autonomous Driving**|Jiaxiang Li et.al.|[2605.27038](http://arxiv.org/abs/2605.27038)|null|
 |**2026-05-26**|**Bridging Control with Neural Network Verifier alpha-beta-CROWN: A Tutorial**|Haoyu Li et.al.|[2605.26577](http://arxiv.org/abs/2605.26577)|null|
 |**2026-05-26**|**Unveiling the Fragility of Vision-Language Models: Multi-Modal Adversarial Synergy via Texture-Constrained Perturbations and Cross-Modal Optimization**|Xiang Fang et.al.|[2605.26501](http://arxiv.org/abs/2605.26501)|null|
@@ -3747,19 +3772,25 @@
 |**2019-09-18**|**A*3D Dataset: Towards Autonomous Driving in Challenging Environments**|Quang-Hieu Pham et.al.|[1909.07541](http://arxiv.org/abs/1909.07541)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260529>back to top</a>)</p>
 
 ## Mamba
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-28**|**Betting Against Integrity: Identifying Match-Fixing Through In-Play Market Dynamics**|David Winkelmann et.al.|[2605.30209](http://arxiv.org/abs/2605.30209)|null|
+|**2026-05-28**|**GeoMag: Geometric-Aware Video Motion Magnification via State Space Model**|Kecheng Han et.al.|[2605.29762](http://arxiv.org/abs/2605.29762)|null|
+|**2026-05-27**|**Comparing Spatially Periodic Feedback and Space-Time Modulation for Unidirectional Wave Propagation in a 1D Mass-Spring-Damper System**|João H. S. Brandão et.al.|[2605.29086](http://arxiv.org/abs/2605.29086)|null|
+|**2026-05-27**|**CaMBRAIN: Real-time, Continuous EEG Inference with Causal State Space Models**|Abhilash Durgam et.al.|[2605.28792](http://arxiv.org/abs/2605.28792)|null|
+|**2026-05-27**|**Multi-Mixer Models: Flexible Sequence Modeling with Shared Representations**|Kevin Y. Li et.al.|[2605.28769](http://arxiv.org/abs/2605.28769)|null|
+|**2026-05-27**|**Universal Time Series Generation with Neural Controlled Differential Equations**|Torben Berndt et.al.|[2605.28507](http://arxiv.org/abs/2605.28507)|null|
 |**2026-05-26**|**DinoComplete: 3D Shape Completion with Distilled Semantic Priors and State Space Models**|Furkan Mert Algan et.al.|[2605.26949](http://arxiv.org/abs/2605.26949)|null|
-|**2026-05-25**|**Language Models Need Sleep**|Sangyun Lee et.al.|[2605.26099](http://arxiv.org/abs/2605.26099)|null|
+|**2026-05-27**|**Do Language Models Need Sleep? Offline Recurrence for Improved Online Inference**|Sangyun Lee et.al.|[2605.26099](http://arxiv.org/abs/2605.26099)|null|
 |**2026-05-25**|**SP-MoMamba: Superpixel-driven Mixture of State Space Experts for Efficient Image Super-Resolution**|Wenbin Zou et.al.|[2605.25892](http://arxiv.org/abs/2605.25892)|null|
 |**2026-05-24**|**Multi-view Consistent 3D Gaussian Head Avatars 'without' Multi-view Generation**|Aviral Chharia et.al.|[2605.25220](http://arxiv.org/abs/2605.25220)|null|
 |**2026-05-24**|**MedMamba: Multi-View State Space Models with Adaptive Graph Learning for Medical Time Series Classification**|Da Zhang et.al.|[2605.24961](http://arxiv.org/abs/2605.24961)|null|
 |**2026-05-23**|**Interdomain Attention: Beyond Token-Level Key-Value Memory**|Naoki Kiyohara et.al.|[2605.24330](http://arxiv.org/abs/2605.24330)|null|
-|**2026-05-23**|**Cross-Modal Action Recognition in Egocentric Video Using Mamba: Integrating RGB and Hand Skeleton Streams via CLS Token Fusion Strategies**|Juan Ignacio Bustos Gorostegui et.al.|[2605.24302](http://arxiv.org/abs/2605.24302)|null|
+|**2026-05-26**|**Cross-Modal Action Recognition in Egocentric Video Using Mamba: Integrating RGB and Hand Skeleton Streams via CLS Token Fusion Strategies**|Juan Ignacio Bustos Gorostegui et.al.|[2605.24302](http://arxiv.org/abs/2605.24302)|null|
 |**2026-05-22**|**ComHymba: Low-Complexity Domain-Informed Foundation Model for Wireless Communications**|Bowen Yang et.al.|[2605.23468](http://arxiv.org/abs/2605.23468)|null|
 |**2026-05-21**|**Meta-Learning for Rapid Adaptation in Reference Tracking of Uncertain Nonlinear Systems**|Jiaqi Yan et.al.|[2605.22513](http://arxiv.org/abs/2605.22513)|null|
 |**2026-05-21**|**Asymmetric Virtual Memory Paging for Hybrid Mamba-Transformer Inference**|An Xuan Nguyen et.al.|[2605.22416](http://arxiv.org/abs/2605.22416)|null|
@@ -4642,5 +4673,5 @@
 |**2024-11-26**|**PointMamba: A Simple State Space Model for Point Cloud Analysis**|Dingkang Liang et.al.|[2402.10739](http://arxiv.org/abs/2402.10739)|**[link](https://github.com/LMD0311/PointMamba)**|
 |**2024-11-15**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|**[link](https://github.com/hustvl/Vim)**|
 
-<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260529>back to top</a>)</p>
 
