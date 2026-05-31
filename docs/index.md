@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.29
+## Updated on 2026.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
