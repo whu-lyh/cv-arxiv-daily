@@ -2,21 +2,24 @@
 layout: default
 ---
 
-## Updated on 2026.05.31
+## Updated on 2026.06.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning**|Chang-Bin Zhang et.al.|[2605.31096](http://arxiv.org/abs/2605.31096)|**[link](https://github.com/Visual-AI/iVGR)**|
+|**2026-05-29**|**Where's Waldo Library? Using Reverse IP Geolocation to Identify Library IPs**|Nishant Acharya et.al.|[2605.30791](http://arxiv.org/abs/2605.30791)|null|
+|**2026-05-29**|**DisPlace: Discriminative Place Projections for Multi-Reference Visual Place Recognition**|Dhyey Manish Rajani et.al.|[2605.30769](http://arxiv.org/abs/2605.30769)|null|
 |**2026-05-27**|**SAFEVPR: Patch-Based Conformal Verification for Safe Cross-Condition Sequence Visual Place Recognition**|Ha Sier et.al.|[2605.28048](http://arxiv.org/abs/2605.28048)|null|
 |**2026-05-26**|**Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models**|Aaron Branson Cigres Li et.al.|[2605.27243](http://arxiv.org/abs/2605.27243)|null|
-|**2026-05-26**|**CIRCLED: A Multi-turn CIR Dataset with Consistent Dialogues across Domains**|Tomohisa Takeda et.al.|[2605.26734](http://arxiv.org/abs/2605.26734)|**[link](https://github.com/mti-lab/circled)**|
+|**2026-05-26**|**CIRCLED: A Multi-turn CIR Dataset with Consistent Dialogues across Domains**|Tomohisa Takeda et.al.|[2605.26734](http://arxiv.org/abs/2605.26734)|null|
 |**2026-05-26**|**Resolving Ambiguity in Composed Image Retrieval via Calibrated Interaction**|Amsisan Tran et.al.|[2605.24634](http://arxiv.org/abs/2605.24634)|null|
 |**2026-05-23**|**Benchmarking Composed Image Retrieval for Applied Earth Observation**|Bill Psomas et.al.|[2605.24442](http://arxiv.org/abs/2605.24442)|null|
 |**2026-05-18**|**Brain-to-Image Retrieval and Reconstruction via Multimodal EEG Alignment**|Chi Kit Wong et.al.|[2605.23996](http://arxiv.org/abs/2605.23996)|null|
 |**2026-05-21**|**FashionLens: Toward Versatile Fashion Image Retrieval via Task-Adaptive Learning**|Haokun Wen et.al.|[2605.22552](http://arxiv.org/abs/2605.22552)|null|
-|**2026-05-23**|**DeliCIR: Deliberative Test-Time Evolutionary Hierarchical Multi-Agents for Composed Image Retrieval**|Xingtian Pei et.al.|[2605.22478](http://arxiv.org/abs/2605.22478)|null|
+|**2026-05-29**|**DeliCIR: Deliberative Test-Time Evolutionary Hierarchical Multi-Agents for Composed Image Retrieval**|Xingtian Pei et.al.|[2605.22478](http://arxiv.org/abs/2605.22478)|null|
 |**2026-05-21**|**Lost in the Prefix: Revisiting IP Geolocation Accuracy Across Networks and Geographies**|Syed Tauhidun Nabi et.al.|[2605.21937](http://arxiv.org/abs/2605.21937)|null|
 |**2026-05-20**|**MM-Conv: A Multimodal Dataset and Benchmark for Context-Aware Grounding in 3D Dialogue**|Anna Deichler et.al.|[2605.21796](http://arxiv.org/abs/2605.21796)|null|
 |**2026-05-20**|**STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval**|Miaoge Li et.al.|[2605.21261](http://arxiv.org/abs/2605.21261)|null|
@@ -970,6 +973,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**Triangle Splatting SLAM**|Nicholas Fry et.al.|[2605.31419](http://arxiv.org/abs/2605.31419)|null|
+|**2026-05-29**|**LiftNav: Path Planning via Semantic Lifting in TSDF-Guided Gaussian Splatting**|Hannah Schieber et.al.|[2605.31376](http://arxiv.org/abs/2605.31376)|null|
+|**2026-05-29**|**Benchmarking Single-Step Inpainting Methods for Multi-Object 3D Gaussian Splatting Scenes**|Finn Dröge et.al.|[2605.30987](http://arxiv.org/abs/2605.30987)|null|
+|**2026-05-29**|**DSD-GS: Dynamic-Static Decomposition of Gaussian Splatting for Efficient and High-Fidelity Dynamic Scene Reconstruction**|Youngtae Han et.al.|[2605.30863](http://arxiv.org/abs/2605.30863)|null|
+|**2026-05-29**|**Robust Dreamer: Deviation-Aware Latent Gaussian Memory for Action-Controlled AR Video Generation**|Hanlin Chen et.al.|[2605.30855](http://arxiv.org/abs/2605.30855)|null|
+|**2026-05-28**|**Smaller and Faster 3DGS via Post-Training Dictionary Learning**|Jiarong Gong et.al.|[2605.30396](http://arxiv.org/abs/2605.30396)|null|
 |**2026-05-28**|**Uncertainty-driven 3D Gaussian Splatting Active Mapping via Anisotropic Visibility Field**|Shangjie Xue et.al.|[2605.30342](http://arxiv.org/abs/2605.30342)|null|
 |**2026-05-28**|**Supercharging Thermal Gaussian Splatting with Depth Estimation**|Manoj Biswanath et.al.|[2605.30328](http://arxiv.org/abs/2605.30328)|null|
 |**2026-05-28**|**MonoPhysics: Estimating Geometry, Appearance, and Physical Parameters from Monocular Videos**|Daniel Rho et.al.|[2605.30320](http://arxiv.org/abs/2605.30320)|null|
@@ -2237,6 +2246,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving**|Zhiyu Huang et.al.|[2605.31572](http://arxiv.org/abs/2605.31572)|null|
+|**2026-05-29**|**IDOL: Inverse-Dynamics-Guided Future Prediction for End-to-End Autonomous Driving**|Chenghao Zhang et.al.|[2605.31476](http://arxiv.org/abs/2605.31476)|null|
+|**2026-05-29**|**Before Parc Fermé: RL-Time Pruning for Efficient Embodied LLMs in Autonomous Driving**|Luca Benfenati et.al.|[2605.31256](http://arxiv.org/abs/2605.31256)|null|
+|**2026-05-29**|**NTR: Neural Token Reconstruction for Scene Token Bottleneck in End-to-End Driving**|Jiahui Li et.al.|[2605.31116](http://arxiv.org/abs/2605.31116)|null|
+|**2026-05-29**|**Does Visual Information Play a Decisive Role in Vision-Language-Action Model Driving Behavior?**|Jingtao He et.al.|[2605.31041](http://arxiv.org/abs/2605.31041)|null|
+|**2026-05-29**|**Can BEV Perception Gracefully Degrade under Sensor Failures?**|Haifa Zhang et.al.|[2605.30983](http://arxiv.org/abs/2605.30983)|null|
+|**2026-05-29**|**IAF-Net: Illumination-Adaptive Fusion for Low-Light Urban Road Segmentation**|Bingtao Wang et.al.|[2605.30939](http://arxiv.org/abs/2605.30939)|null|
+|**2026-05-28**|**Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving**|Ahmed Abouelazm et.al.|[2605.30576](http://arxiv.org/abs/2605.30576)|null|
 |**2026-05-28**|**Supercharging Thermal Gaussian Splatting with Depth Estimation**|Manoj Biswanath et.al.|[2605.30328](http://arxiv.org/abs/2605.30328)|null|
 |**2026-05-28**|**CityGen: Structure-Guided City-Style Synthesis for Cross-City Autonomous Driving**|Zezhong Qian et.al.|[2605.29935](http://arxiv.org/abs/2605.29935)|null|
 |**2026-05-27**|**Multi-Resolution End-to-End Deep Neural Network for Optimizing Latency-Accuracy Tradeoff in Autonomous Driving**|Qitao Weng et.al.|[2605.29138](http://arxiv.org/abs/2605.29138)|null|
@@ -3760,6 +3777,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**Trading Complexity for Expressivity Through Structured Generalized Linear Token Mixing**|Erwan Fagnou et.al.|[2605.31367](http://arxiv.org/abs/2605.31367)|null|
+|**2026-05-29**|**Dreaming Of Others: Latent Teammate Modeling In World Models For Multi-Agent Reinforcement Learning**|Tomas Leroy-Stone et.al.|[2605.31361](http://arxiv.org/abs/2605.31361)|null|
 |**2026-05-28**|**Betting Against Integrity: Identifying Match-Fixing Through In-Play Market Dynamics**|David Winkelmann et.al.|[2605.30209](http://arxiv.org/abs/2605.30209)|null|
 |**2026-05-28**|**GeoMag: Geometric-Aware Video Motion Magnification via State Space Model**|Kecheng Han et.al.|[2605.29762](http://arxiv.org/abs/2605.29762)|null|
 |**2026-05-27**|**Comparing Spatially Periodic Feedback and Space-Time Modulation for Unidirectional Wave Propagation in a 1D Mass-Spring-Damper System**|João H. S. Brandão et.al.|[2605.29086](http://arxiv.org/abs/2605.29086)|null|
