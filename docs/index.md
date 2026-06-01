@@ -1568,7 +1568,7 @@ layout: default
 |**2026-01-27**|**WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration**|Xinrui Zhang et.al.|[2601.19753](http://arxiv.org/abs/2601.19753)|null|
 |**2026-01-28**|**Fast Converging 3D Gaussian Splatting for 1-Minute Reconstruction**|Ziyu Zhang et.al.|[2601.19489](http://arxiv.org/abs/2601.19489)|null|
 |**2026-01-27**|**ClipGS-VR: Immersive and Interactive Cinematic Visualization of Volumetric Medical Data in Mobile Virtual Reality**|Yuqi Tong et.al.|[2601.19310](http://arxiv.org/abs/2601.19310)|null|
-|**2026-01-27**|**TIGaussian: Disentangle Gaussians for Spatial-Awared Text-Image-3D Alignment**|Jiarun Liu et.al.|[2601.19247](http://arxiv.org/abs/2601.19247)|null|
+|**2026-01-27**|**TIGaussian: Disentangle Gaussians for Spatial-Awared Text-Image-3D Alignment**|Jiarun Liu et.al.|[2601.19247](http://arxiv.org/abs/2601.19247)|**[link](https://github.com/RUiN-jiarun/TIGaussian)**|
 |**2026-01-27**|**UniMGS: Unifying Mesh and 3D Gaussian Splatting with Single-Pass Rasterization and Proxy-Based Deformation**|Zeyu Xiao et.al.|[2601.19233](http://arxiv.org/abs/2601.19233)|null|
 |**2026-01-27**|**Bridging Visual and Wireless Sensing: A Unified Radiation Field for 3D Radio Map Construction**|Chaozheng Wen et.al.|[2601.19216](http://arxiv.org/abs/2601.19216)|null|
 |**2026-01-26**|**Splat-Portrait: Generalizing Talking Heads with Gaussian Splatting**|Tong Shi et.al.|[2601.18633](http://arxiv.org/abs/2601.18633)|null|
@@ -3405,7 +3405,7 @@ layout: default
 |**2025-11-12**|**FLAD: Federated Learning for LLM-based Autonomous Driving in Vehicle-Edge-Cloud Networks**|Tianao Xiang et.al.|[2511.09025](http://arxiv.org/abs/2511.09025)|null|
 |**2025-11-12**|**UniMM-V2X: MoE-Enhanced Multi-Level Fusion for End-to-End Cooperative Autonomous Driving**|Ziyi Song et.al.|[2511.09013](http://arxiv.org/abs/2511.09013)|null|
 |**2025-11-11**|**Information-Driven Fault Detection and Identification for Multi-Agent Spacecraft Systems: Collaborative On-Orbit Inspection Mission**|Akshita Gupta et.al.|[2511.08752](http://arxiv.org/abs/2511.08752)|null|
-|**2025-11-10**|**PlanT 2.0: Exposing Biases and Structural Flaws in Closed-Loop Driving**|Simon Gerstenecker et.al.|[2511.07292](http://arxiv.org/abs/2511.07292)|null|
+|**2025-11-10**|**PlanT 2.0: Exposing Biases and Structural Flaws in Closed-Loop Driving**|Simon Gerstenecker et.al.|[2511.07292](http://arxiv.org/abs/2511.07292)|**[link](https://github.com/autonomousvision/plant2)**|
 |**2025-11-10**|**MVU-Eval: Towards Multi-Video Understanding Evaluation for Multimodal LLMs**|Tianhao Peng et.al.|[2511.07250](http://arxiv.org/abs/2511.07250)|null|
 |**2025-11-10**|**Leveraging Text-Driven Semantic Variation for Robust OOD Segmentation**|Seungheon Song et.al.|[2511.07238](http://arxiv.org/abs/2511.07238)|null|
 |**2025-11-10**|**Dynamics-Decoupled Trajectory Alignment for Sim-to-Real Transfer in Reinforcement Learning for Autonomous Driving**|Thomas Steinecker et.al.|[2511.07155](http://arxiv.org/abs/2511.07155)|null|
@@ -3426,7 +3426,7 @@ layout: default
 |**2025-11-07**|**SnowyLane: Robust Lane Detection on Snow-covered Rural Roads Using Infrastructural Elements**|Jörg Gamerdinger et.al.|[2511.05108](http://arxiv.org/abs/2511.05108)|null|
 |**2025-11-07**|**J-SGFT: Joint Spatial and Graph Fourier Domain Learning for Point Cloud Attribute Deblocking**|Muhammad Talha et.al.|[2511.05047](http://arxiv.org/abs/2511.05047)|null|
 |**2025-11-07**|**4D Imaging in ISAC Systems: A Framework Based on 5G NR Downlink Signals**|Haoyang Weng et.al.|[2511.04913](http://arxiv.org/abs/2511.04913)|null|
-|**2025-11-06**|**ReGen: Generative Robot Simulation via Inverse Design**|Phat Nguyen et.al.|[2511.04769](http://arxiv.org/abs/2511.04769)|null|
+|**2025-11-06**|**ReGen: Generative Robot Simulation via Inverse Design**|Phat Nguyen et.al.|[2511.04769](http://arxiv.org/abs/2511.04769)|**[link](https://github.com/regen-sim/regen-sim.github.io)**|
 |**2025-11-06**|**SAFe-Copilot: Unified Shared Autonomy Framework**|Phat Nguyen et.al.|[2511.04664](http://arxiv.org/abs/2511.04664)|null|
 |**2025-11-06**|**UniSplat: Unified Spatio-Temporal Fusion via 3D Latent Scaffolds for Dynamic Driving Scene Reconstruction**|Chen Shi et.al.|[2511.04595](http://arxiv.org/abs/2511.04595)|null|
 |**2025-11-06**|**A Tool for Benchmarking Large Language Models' Robustness in Assessing the Realism of Driving Scenarios**|Jiahui Wu et.al.|[2511.04267](http://arxiv.org/abs/2511.04267)|null|
