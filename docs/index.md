@@ -2,17 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.06.07
+## Updated on 2026.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**Textual Supervision Enhances Geospatial Representations in Vision-Language Models**|Marcelo Sartori Locatelli et.al.|[2606.07172](http://arxiv.org/abs/2606.07172)|**[link](https://github.com/marceloslo/Textual-Supervision-Enhances-Geospatial-Representations)**|
+|**2026-06-05**|**Never Seen Before: Benchmarking Genuine Zero-Shot Composed Image Retrieval with Consistent Video-Sourced Datasets**|Zhenyu Yang et.al.|[2606.07032](http://arxiv.org/abs/2606.07032)|null|
+|**2026-06-04**|**Atomic-scale phase-field modeling for 2D ferroelectrics including non-Gaussian fluctuations**|Kairi Masuda et.al.|[2606.06771](http://arxiv.org/abs/2606.06771)|null|
 |**2026-06-04**|**Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation**|Yohann Benchetrit et.al.|[2606.06345](http://arxiv.org/abs/2606.06345)|null|
 |**2026-06-03**|**CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation**|Yurim Jeon et.al.|[2606.05011](http://arxiv.org/abs/2606.05011)|null|
 |**2026-06-03**|**Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives**|Ayumi Umemura et.al.|[2606.04788](http://arxiv.org/abs/2606.04788)|null|
-|**2026-06-03**|**COMBINER: Composed Image Retrieval Guided by Attribute-based Neighbor Relations**|Zixu Li et.al.|[2606.04604](http://arxiv.org/abs/2606.04604)|**[link](https://github.com/iLearn-Lab/TIP26-COMBINER)**|
+|**2026-06-03**|**COMBINER: Composed Image Retrieval Guided by Attribute-based Neighbor Relations**|Zixu Li et.al.|[2606.04604](http://arxiv.org/abs/2606.04604)|null|
 |**2026-06-02**|**Pinpoint: Grounded Worldwide Image Geolocation via Cross-Source Retrieval and Reranking**|Nika Chuzhoy et.al.|[2606.04133](http://arxiv.org/abs/2606.04133)|null|
 |**2026-06-02**|**Mixed-Modality Dual Face-Hair Retrieval**|Quoc-Anh Bui-Huynh et.al.|[2606.03470](http://arxiv.org/abs/2606.03470)|null|
 |**2026-06-02**|**SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching**|Xu Pan et.al.|[2606.03406](http://arxiv.org/abs/2606.03406)|null|
@@ -788,8 +791,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-05-04**|**EdgeLPR: On the Deep Neural Network trade-off between Precision and Performance in LiDAR Place Recognition**|Pierpaolo Serio et.al.|[2605.02275](http://arxiv.org/abs/2605.02275)|null|
 |**2026-04-02**|**Riemannian and Symplectic Geometry for Hierarchical Text-Driven Place Recognition**|Tianyi Shang et.al.|[2604.01598](http://arxiv.org/abs/2604.01598)|null|
-|**2026-03-16**|**Voronoi-based Second-order Descriptor with Whitened Metric in LiDAR Place Recognition**|Jaein Kim et.al.|[2603.14974](http://arxiv.org/abs/2603.14974)|null|
-|**2026-03-09**|**RLPR: Radar-to-LiDAR Place Recognition via Two-Stage Asymmetric Cross-Modal Alignment for Autonomous Driving**|Zhangshuo Qi et.al.|[2603.07920](http://arxiv.org/abs/2603.07920)|null|
+|**2026-03-16**|**Voronoi-based Second-order Descriptor with Whitened Metric in LiDAR Place Recognition**|Jaein Kim et.al.|[2603.14974](http://arxiv.org/abs/2603.14974)|**[link](https://github.com/jykim2958/Voronoi-Second-Pooling)**|
+|**2026-03-09**|**RLPR: Radar-to-LiDAR Place Recognition via Two-Stage Asymmetric Cross-Modal Alignment for Autonomous Driving**|Zhangshuo Qi et.al.|[2603.07920](http://arxiv.org/abs/2603.07920)|**[link](https://github.com/QiZS-BIT/RLPR)**|
 |**2026-05-05**|**PROBE: Probabilistic Occupancy BEV Encoding with Analytical Translation Robustness for 3D Place Recognition**|Jinseop Lee et.al.|[2603.05965](http://arxiv.org/abs/2603.05965)|null|
 |**2026-01-29**|**Advanced techniques and applications of LiDAR Place Recognition in Agricultural Environments: A Comprehensive Survey**|Judith Vilella-Cantos et.al.|[2601.22198](http://arxiv.org/abs/2601.22198)|null|
 |**2026-04-22**|**Low Cost, High Efficiency: LiDAR Place Recognition in Vineyards with Matryoshka Representation Learning**|Judith Vilella-Cantos et.al.|[2601.18714](http://arxiv.org/abs/2601.18714)|null|
@@ -990,6 +993,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**EvoGS: Constructing Continuous-Layered Gaussian Splatting with Evolution Tree for Scalable 3D Streaming**|Yuang Shi et.al.|[2606.07179](http://arxiv.org/abs/2606.07179)|null|
+|**2026-06-05**|**QuadVerse: An Integrated Framework Aligning Visual-Physical Reality for Quadruped Simulation**|Yuxiang Chen et.al.|[2606.07118](http://arxiv.org/abs/2606.07118)|null|
+|**2026-06-04**|**RPC-GS: Gaussian Splatting with native RPC Rendering for Satellite Imagery**|Valentin Wagner et.al.|[2606.06690](http://arxiv.org/abs/2606.06690)|null|
+|**2026-06-04**|**RigPAPR: Rig-Based Animation of Static Neural Point Clouds from a Fixed-Viewpoint Video**|Shichong Peng et.al.|[2606.06685](http://arxiv.org/abs/2606.06685)|null|
 |**2026-06-04**|**GS-NFS: Bandwidth-adaptive Streaming of Dynamic Gaussian Splats and Point Clouds**|Rajrup Ghosh et.al.|[2606.05650](http://arxiv.org/abs/2606.05650)|null|
 |**2026-06-03**|**Unpaired RGB-Thermal Gaussian-Splatting Using Visual Geometric Transformers**|Jean Cordonnier et.al.|[2606.05491](http://arxiv.org/abs/2606.05491)|null|
 |**2026-06-03**|**Geometry Gaussians: Decoupling Appearance and Geometry in Gaussian Splatting**|Hongyu Zhou et.al.|[2606.05124](http://arxiv.org/abs/2606.05124)|null|
@@ -2283,6 +2290,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**Planning-aligned Token Compression for Long-Context Autonomous Driving**|Zhixuan Liang et.al.|[2606.07464](http://arxiv.org/abs/2606.07464)|null|
+|**2026-06-05**|**A Causal Probabilistic Framework for Perception-Informed Closed-Loop Simulation of Autonomous Driving**|Zhennan Fei et.al.|[2606.07186](http://arxiv.org/abs/2606.07186)|null|
+|**2026-06-05**|**Test-Time Trajectory Optimization for Autonomous Driving**|Yihong Xu et.al.|[2606.07170](http://arxiv.org/abs/2606.07170)|null|
+|**2026-06-05**|**Extending Responsibility-Sensitive Safety for the Assessment of Offloaded Autonomous Driving Services**|Robin Dehler et.al.|[2606.07067](http://arxiv.org/abs/2606.07067)|null|
+|**2026-06-05**|**Mission-Level Runtime Assurance Framework for Autonomous Driving**|Chieh Tsai et.al.|[2606.06996](http://arxiv.org/abs/2606.06996)|null|
 |**2026-06-04**|**RiskFlow: Fast and Faithful Safety-Critical Traffic Scenario Generation**|Qi Lan et.al.|[2606.06423](http://arxiv.org/abs/2606.06423)|null|
 |**2026-06-04**|**Risk Assessment of Autonomous Driving: Integrating Technical Failures, Ethical Dilemmas, and Policy Frameworks**|Boyi Chen et.al.|[2606.06396](http://arxiv.org/abs/2606.06396)|null|
 |**2026-06-04**|**Waypoints Matter: A Systematic Study for Sampling-Based Trajectory Planning**|Josep M. Barbera et.al.|[2606.06366](http://arxiv.org/abs/2606.06366)|null|
@@ -3834,6 +3846,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**A Held-Out Transition-Pair Falsifier for Long-Horizon Non-Abelian State Tracking**|Jeonghoon Lee et.al.|[2606.07254](http://arxiv.org/abs/2606.07254)|null|
 |**2026-06-04**|**HoT-SSM:Higher-order Temporal Knowledge Graph Reasoning with State Space Models for Health Care**|Thummaluru Siddartha Reddy et.al.|[2606.05994](http://arxiv.org/abs/2606.05994)|null|
 |**2026-06-03**|**Mamba-Assisted Non-Markovian Closure for Reduced-Order Modeling**|Zhi-Feng Wei et.al.|[2606.05371](http://arxiv.org/abs/2606.05371)|null|
 |**2026-06-03**|**MOSAIC: A Workload-Driven Simulation and Design-Space Exploration Framework for Heterogeneous NPUs**|Arghadip Das et.al.|[2606.05362](http://arxiv.org/abs/2606.05362)|null|
@@ -3848,7 +3861,7 @@ layout: default
 |**2026-06-01**|**State-Coupled Volatility in Latent Dynamical Systems: Recovery Under Partial Observation**|Imani Beckett et.al.|[2606.02664](http://arxiv.org/abs/2606.02664)|null|
 |**2026-06-02**|**Forget Attention: Importance-Aware Attention Is All You Need**|Suhyeong Shin et.al.|[2606.02332](http://arxiv.org/abs/2606.02332)|null|
 |**2026-06-01**|**Physics-Guided Recurrent State-Space Neural Networks for Multi-Step Prediction**|Ruiyuan Li et.al.|[2606.02278](http://arxiv.org/abs/2606.02278)|null|
-|**2026-06-01**|**An Algebraic View of the Expressivity of Recurrent Language Models**|Franz Nowak et.al.|[2606.01765](http://arxiv.org/abs/2606.01765)|null|
+|**2026-06-05**|**An Algebraic View of the Expressivity of Recurrent Language Models**|Franz Nowak et.al.|[2606.01765](http://arxiv.org/abs/2606.01765)|null|
 |**2026-06-01**|**RPCASSM: Robust PCA State Space Model For Infrared Small Target Detection**|Pingping Liu et.al.|[2606.01689](http://arxiv.org/abs/2606.01689)|null|
 |**2026-06-01**|**ForestMamba: Sparse Mamba with Geometry-guided Queries for 3D Forest Point Cloud Segmentation**|Trung Thanh Nguyen et.al.|[2606.01549](http://arxiv.org/abs/2606.01549)|null|
 |**2026-05-31**|**Computation-Aware Kalman Filtering with Model Selection for Neural Dynamics**|JR Huml et.al.|[2606.01468](http://arxiv.org/abs/2606.01468)|null|
