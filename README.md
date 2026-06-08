@@ -801,8 +801,8 @@
 |---|---|---|---|---|
 |**2026-05-04**|**EdgeLPR: On the Deep Neural Network trade-off between Precision and Performance in LiDAR Place Recognition**|Pierpaolo Serio et.al.|[2605.02275](http://arxiv.org/abs/2605.02275)|null|
 |**2026-04-02**|**Riemannian and Symplectic Geometry for Hierarchical Text-Driven Place Recognition**|Tianyi Shang et.al.|[2604.01598](http://arxiv.org/abs/2604.01598)|null|
-|**2026-03-16**|**Voronoi-based Second-order Descriptor with Whitened Metric in LiDAR Place Recognition**|Jaein Kim et.al.|[2603.14974](http://arxiv.org/abs/2603.14974)|**[link](https://github.com/jykim2958/Voronoi-Second-Pooling)**|
-|**2026-03-09**|**RLPR: Radar-to-LiDAR Place Recognition via Two-Stage Asymmetric Cross-Modal Alignment for Autonomous Driving**|Zhangshuo Qi et.al.|[2603.07920](http://arxiv.org/abs/2603.07920)|**[link](https://github.com/QiZS-BIT/RLPR)**|
+|**2026-03-16**|**Voronoi-based Second-order Descriptor with Whitened Metric in LiDAR Place Recognition**|Jaein Kim et.al.|[2603.14974](http://arxiv.org/abs/2603.14974)|null|
+|**2026-03-09**|**RLPR: Radar-to-LiDAR Place Recognition via Two-Stage Asymmetric Cross-Modal Alignment for Autonomous Driving**|Zhangshuo Qi et.al.|[2603.07920](http://arxiv.org/abs/2603.07920)|null|
 |**2026-05-05**|**PROBE: Probabilistic Occupancy BEV Encoding with Analytical Translation Robustness for 3D Place Recognition**|Jinseop Lee et.al.|[2603.05965](http://arxiv.org/abs/2603.05965)|null|
 |**2026-01-29**|**Advanced techniques and applications of LiDAR Place Recognition in Agricultural Environments: A Comprehensive Survey**|Judith Vilella-Cantos et.al.|[2601.22198](http://arxiv.org/abs/2601.22198)|null|
 |**2026-04-22**|**Low Cost, High Efficiency: LiDAR Place Recognition in Vineyards with Matryoshka Representation Learning**|Judith Vilella-Cantos et.al.|[2601.18714](http://arxiv.org/abs/2601.18714)|null|
@@ -2319,7 +2319,7 @@
 |**2026-06-04**|**CLEAR: Cognition and Latent Evaluation for Adaptive Routing in End-to-End Autonomous Driving**|Yining Xing et.al.|[2606.06219](http://arxiv.org/abs/2606.06219)|null|
 |**2026-06-04**|**PLAN-S: Bridging Planning with Latent Style Dynamics for Autonomous Driving World Models**|Xiaoyun Qiu et.al.|[2606.06014](http://arxiv.org/abs/2606.06014)|null|
 |**2026-06-04**|**LiAuto-GeoX: Efficient Grounded Driving Transformer**|Jiawei Lian et.al.|[2606.05774](http://arxiv.org/abs/2606.05774)|null|
-|**2026-06-04**|**LongSpace: Exploring Long-Horizon Spatial Memory from Perception to Recall in Video**|Shiqiang Lang et.al.|[2606.05677](http://arxiv.org/abs/2606.05677)|null|
+|**2026-06-04**|**LongSpace: Exploring Long-Horizon Spatial Memory from Perception to Recall in Video**|Shiqiang Lang et.al.|[2606.05677](http://arxiv.org/abs/2606.05677)|**[link](https://github.com/ShiqiangLang/LongSpace)**|
 |**2026-06-04**|**Discrete-WAM: Unified Discrete Vision-Action Token Editing for World-Policy Learning**|Ziyang Yao et.al.|[2606.05645](http://arxiv.org/abs/2606.05645)|null|
 |**2026-06-03**|**Output Type Before Quality: A Standards-Derived XAI Admissibility Rubric for Autonomous-Driving Safety**|Abhinaw Priyadershi et.al.|[2606.05461](http://arxiv.org/abs/2606.05461)|null|
 |**2026-06-03**|**X4Val: Learning Neural Surrogates for Variance-Reduced Policy Evaluation**|Rachel Luo et.al.|[2606.05159](http://arxiv.org/abs/2606.05159)|null|
