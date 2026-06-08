@@ -263,7 +263,7 @@
 |**2026-02-03**|**ObjEmbed: Towards Universal Multimodal Object Embeddings**|Shenghao Fu et.al.|[2602.01753](http://arxiv.org/abs/2602.01753)|**[link](https://github.com/WeChatCV/ObjEmbed)**|
 |**2026-02-02**|**Real-Time Loop Closure Detection in Visual SLAM via NetVLAD and Faiss**|Enguang Fan et.al.|[2602.01673](http://arxiv.org/abs/2602.01673)|null|
 |**2026-02-02**|**ReCALL: Recalibrating Capability Degradation for MLLM-based Composed Image Retrieval**|Tianyu Yang et.al.|[2602.01639](http://arxiv.org/abs/2602.01639)|null|
-|**2026-02-01**|**Interacted Planes Reveal 3D Line Mapping**|Zeran Ke et.al.|[2602.01296](http://arxiv.org/abs/2602.01296)|null|
+|**2026-02-01**|**Interacted Planes Reveal 3D Line Mapping**|Zeran Ke et.al.|[2602.01296](http://arxiv.org/abs/2602.01296)|**[link](https://github.com/calmke/LiPMAP)**|
 |**2026-02-05**|**Invariance on Manifolds: Understanding Robust Visual Representations for Place Recognition**|Jintao Cheng et.al.|[2602.00841](http://arxiv.org/abs/2602.00841)|null|
 |**2026-02-03**|**Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval**|Tong Wang et.al.|[2602.00813](http://arxiv.org/abs/2602.00813)|null|
 |**2026-01-31**|**VVLoc: Prior-free 3-DoF Vehicle Visual Localization**|Ze Huang et.al.|[2602.00810](http://arxiv.org/abs/2602.00810)|null|
@@ -2784,7 +2784,7 @@
 |**2026-03-14**|**Evaluation of Visual Place Recognition Methods for Image Pair Retrieval in 3D Vision and Robotics**|Dennis Haitz et.al.|[2603.13917](http://arxiv.org/abs/2603.13917)|null|
 |**2026-03-14**|**Fine-tuning is Not Enough: A Parallel Framework for Collaborative Imitation and Reinforcement Learning in End-to-end Autonomous Driving**|Zhexi Lian et.al.|[2603.13842](http://arxiv.org/abs/2603.13842)|null|
 |**2026-03-11**|**FlowAD: Ego-Scene Interactive Modeling for Autonomous Driving**|Mingzhe Guo et.al.|[2603.13399](http://arxiv.org/abs/2603.13399)|null|
-|**2026-03-13**|**Panoramic Multimodal Semantic Occupancy Prediction for Quadruped Robots**|Guoqiang Zhao et.al.|[2603.13108](http://arxiv.org/abs/2603.13108)|null|
+|**2026-03-13**|**Panoramic Multimodal Semantic Occupancy Prediction for Quadruped Robots**|Guoqiang Zhao et.al.|[2603.13108](http://arxiv.org/abs/2603.13108)|**[link](https://github.com/Ufere/Assingment_1)**|
 |**2026-03-13**|**VIRD: View-Invariant Representation through Dual-Axis Transformation for Cross-View Pose Estimation**|Juhye Park et.al.|[2603.12918](http://arxiv.org/abs/2603.12918)|null|
 |**2026-03-16**|**Surprised by Attention: Predictable Query Dynamics for Time Series Anomaly Detection**|Kadir-Kaan Özer et.al.|[2603.12916](http://arxiv.org/abs/2603.12916)|null|
 |**2026-03-13**|**Composing Driving Worlds through Disentangled Control for Adversarial Scenario Generation**|Yifan Zhan et.al.|[2603.12864](http://arxiv.org/abs/2603.12864)|null|
@@ -2878,7 +2878,7 @@
 |**2026-03-02**|**Unifying Language-Action Understanding and Generation for Autonomous Driving**|Xinyang Wang et.al.|[2603.01441](http://arxiv.org/abs/2603.01441)|null|
 |**2026-03-02**|**Perspective-Equivariant Fine-tuning for Multispectral Demosaicing without Ground Truth**|Andrew Wang et.al.|[2603.01332](http://arxiv.org/abs/2603.01332)|null|
 |**2026-03-01**|**FoSS: Modeling Long Range Dependencies and Multimodal Uncertainty in Trajectory Prediction via Fourier State Space Integration**|Yizhou Huang et.al.|[2603.01284](http://arxiv.org/abs/2603.01284)|null|
-|**2026-03-01**|**Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures**|Yuechen Luo et.al.|[2603.01063](http://arxiv.org/abs/2603.01063)|null|
+|**2026-03-01**|**Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures**|Yuechen Luo et.al.|[2603.01063](http://arxiv.org/abs/2603.01063)|**[link](https://github.com/luo-yc17/ELF-VLA)**|
 |**2026-03-01**|**An Open-Source Modular Benchmark for Diffusion-Based Motion Planning in Closed-Loop Autonomous Driving**|Yun Li et.al.|[2603.01023](http://arxiv.org/abs/2603.01023)|null|
 |**2026-03-01**|**Dr.Occ: Depth- and Region-Guided 3D Occupancy from Surround-View Cameras for Autonomous Driving**|Xubo Zhu et.al.|[2603.01007](http://arxiv.org/abs/2603.01007)|null|
 |**2026-03-01**|**DriveCode: Domain Specific Numerical Encoding for LLM-Based Autonomous Driving**|Zhiye Wang et.al.|[2603.00919](http://arxiv.org/abs/2603.00919)|null|
@@ -4288,7 +4288,7 @@
 |**2025-12-08**|**How Far are Modern Trackers from UAV-Anti-UAV? A Million-Scale Benchmark and New Baseline**|Chunhui Zhang et.al.|[2512.07385](http://arxiv.org/abs/2512.07385)|null|
 |**2025-12-07**|**Always Keep Your Promises: DynamicLRP, A Model-Agnostic Solution To Layer-Wise Relevance Propagation**|Kevin Lee et.al.|[2512.07010](http://arxiv.org/abs/2512.07010)|null|
 |**2025-12-07**|**FGE: A Fast Free-Boundary Grad-Shafranov Evolutive Solver**|Cosmas Heiß et.al.|[2512.06847](http://arxiv.org/abs/2512.06847)|null|
-|**2025-12-07**|**TextMamba: Scene Text Detector with Mamba**|Qiyan Zhao et.al.|[2512.06657](http://arxiv.org/abs/2512.06657)|null|
+|**2025-12-07**|**TextMamba: Scene Text Detector with Mamba**|Qiyan Zhao et.al.|[2512.06657](http://arxiv.org/abs/2512.06657)|**[link](https://github.com/ErikZ719/TextMamba)**|
 |**2025-12-06**|**Assessing the Information Content of Individual Spikes in Population-Level Models of Neural Spiking Activity**|Azar Ghahari et.al.|[2512.06280](http://arxiv.org/abs/2512.06280)|null|
 |**2025-12-05**|**Speech World Model: Causal State-Action Planning with Explicit Reasoning for Speech**|Xuanru Zhou et.al.|[2512.05933](http://arxiv.org/abs/2512.05933)|null|
 |**2025-12-05**|**World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty**|Zhiting Mei et.al.|[2512.05927](http://arxiv.org/abs/2512.05927)|**[link](https://github.com/irom-princeton/c-cubed)**|

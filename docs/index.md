@@ -2169,7 +2169,7 @@ layout: default
 |**2025-09-27**|**Orientation-anchored Hyper-Gaussian for 4D Reconstruction from Casual Videos**|Junyi Wu et.al.|[2509.23492](http://arxiv.org/abs/2509.23492)|null|
 |**2025-09-27**|**OracleGS: Grounding Generative Priors for Sparse-View Gaussian Splatting**|Atakan Topaloglu et.al.|[2509.23258](http://arxiv.org/abs/2509.23258)|**[link](https://github.com/atakan-topaloglu/vggt_aten)**|
 |**2025-09-26**|**Learning Unified Representation of 3D Gaussian Splatting**|Yuelin Xin et.al.|[2509.22917](http://arxiv.org/abs/2509.22917)|null|
-|**2025-09-26**|**Vision-Language Alignment from Compressed Image Representations using 2D Gaussian Splatting**|Yasmine Omri et.al.|[2509.22615](http://arxiv.org/abs/2509.22615)|null|
+|**2025-09-26**|**Vision-Language Alignment from Compressed Image Representations using 2D Gaussian Splatting**|Yasmine Omri et.al.|[2509.22615](http://arxiv.org/abs/2509.22615)|**[link](https://github.com/Tambe-Lab/GaussianVision)**|
 |**2025-09-26**|**GS-2M: Gaussian Splatting for Joint Mesh Reconstruction and Material Decomposition**|Dinh Minh Nguyen et.al.|[2509.22276](http://arxiv.org/abs/2509.22276)|null|
 |**2025-09-26**|**Polysemous Language Gaussian Splatting via Matching-based Mask Lifting**|Jiayu Ding et.al.|[2509.22225](http://arxiv.org/abs/2509.22225)|null|
 |**2025-09-26**|**Large Material Gaussian Model for Relightable 3D Generation**|Jingrui Ye et.al.|[2509.22112](http://arxiv.org/abs/2509.22112)|null|
@@ -2498,7 +2498,7 @@ layout: default
 |**2026-04-30**|**Do Open-Loop Metrics Predict Closed-Loop Driving? A Cross-Benchmark Correlation Study of NAVSIM and Bench2Drive**|Yiru Wang et.al.|[2605.00066](http://arxiv.org/abs/2605.00066)|null|
 |**2026-04-29**|**Learning from the Unseen: Generative Data Augmentation for Geometric-Semantic Accident Anticipation**|Yanchen Guan et.al.|[2605.00051](http://arxiv.org/abs/2605.00051)|null|
 |**2026-04-29**|**Learning physically grounded traffic accident reconstruction from public accident reports**|Yanchen Guan et.al.|[2605.00050](http://arxiv.org/abs/2605.00050)|null|
-|**2026-04-30**|**HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2604.28196](http://arxiv.org/abs/2604.28196)|null|
+|**2026-04-30**|**HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2604.28196](http://arxiv.org/abs/2604.28196)|**[link](https://github.com/H-EmbodVis/HERMESV2)**|
 |**2026-05-01**|**GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment**|Ziang Guo et.al.|[2604.28111](http://arxiv.org/abs/2604.28111)|null|
 |**2026-04-30**|**Towards Neuro-symbolic Causal Rule Synthesis, Verification, and Evaluation Grounded in Legal and Safety Principles**|Zainab Rehan et.al.|[2604.28087](http://arxiv.org/abs/2604.28087)|null|
 |**2026-04-30**|**Towards All-Day Perception for Off-Road Driving: A Large-Scale Multispectral Dataset and Comprehensive Benchmark**|Shuo Wang et.al.|[2604.27499](http://arxiv.org/abs/2604.27499)|null|
@@ -3427,7 +3427,7 @@ layout: default
 |**2025-11-17**|**DriveLiDAR4D: Sequential and Controllable LiDAR Scene Generation for Autonomous Driving**|Kaiwen Cai et.al.|[2511.13309](http://arxiv.org/abs/2511.13309)|null|
 |**2025-11-17**|**DAP: A Discrete-token Autoregressive Planner for Autonomous Driving**|Bowen Ye et.al.|[2511.13306](http://arxiv.org/abs/2511.13306)|null|
 |**2025-11-17**|**CorrectAD: A Self-Correcting Agentic System to Improve End-to-end Planning in Autonomous Driving**|Enhui Ma et.al.|[2511.13297](http://arxiv.org/abs/2511.13297)|null|
-|**2025-11-17**|**GeoX-Bench: Benchmarking Cross-View Geo-Localization and Pose Estimation Capabilities of Large Multimodal Models**|Yushuo Zheng et.al.|[2511.13259](http://arxiv.org/abs/2511.13259)|null|
+|**2025-11-17**|**GeoX-Bench: Benchmarking Cross-View Geo-Localization and Pose Estimation Capabilities of Large Multimodal Models**|Yushuo Zheng et.al.|[2511.13259](http://arxiv.org/abs/2511.13259)|**[link](https://github.com/IntMeGroup/GeoX-Bench)**|
 |**2025-11-17**|**Event-Triggered Regulation of Mixed-Autonomy Traffic Under Varying Traffic Conditions**|Yihuai Zhang et.al.|[2511.13206](http://arxiv.org/abs/2511.13206)|null|
 |**2025-11-17**|**Difficulty-Aware Label-Guided Denoising for Monocular 3D Object Detection**|Soyul Lee et.al.|[2511.13195](http://arxiv.org/abs/2511.13195)|null|
 |**2025-11-17**|**Autonomous Sensing UAV for Accurate Multi-User Identification and Localization in Cellular Networks**|Niccolò Paglierani et.al.|[2511.13171](http://arxiv.org/abs/2511.13171)|null|
