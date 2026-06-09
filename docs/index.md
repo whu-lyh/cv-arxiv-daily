@@ -2,14 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.06.08
+## Updated on 2026.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-05**|**Textual Supervision Enhances Geospatial Representations in Vision-Language Models**|Marcelo Sartori Locatelli et.al.|[2606.07172](http://arxiv.org/abs/2606.07172)|**[link](https://github.com/marceloslo/Textual-Supervision-Enhances-Geospatial-Representations)**|
+|**2026-06-08**|**CRANE: Knowledge Editing for Reasoning MLLMs**|Han Huang et.al.|[2606.09033](http://arxiv.org/abs/2606.09033)|null|
+|**2026-06-06**|**GeoGNN: Time Series Geo-Localization using Two-Tower Graph Neural Networks**|Toan Tran et.al.|[2606.08303](http://arxiv.org/abs/2606.08303)|null|
+|**2026-06-06**|**Empowering Feed-Forward Reconstruction Models with Metric Scale via Satellite Images**|Xianghui Ze et.al.|[2606.08205](http://arxiv.org/abs/2606.08205)|null|
+|**2026-06-06**|**IMAGINE: Adaptive Schema-Imagery Enhanced Composition for Composed Video Retrieval**|Jiale Huang et.al.|[2606.08144](http://arxiv.org/abs/2606.08144)|null|
+|**2026-06-05**|**Textual Supervision Enhances Geospatial Representations in Vision-Language Models**|Marcelo Sartori Locatelli et.al.|[2606.07172](http://arxiv.org/abs/2606.07172)|null|
 |**2026-06-05**|**Never Seen Before: Benchmarking Genuine Zero-Shot Composed Image Retrieval with Consistent Video-Sourced Datasets**|Zhenyu Yang et.al.|[2606.07032](http://arxiv.org/abs/2606.07032)|null|
 |**2026-06-04**|**Atomic-scale phase-field modeling for 2D ferroelectrics including non-Gaussian fluctuations**|Kairi Masuda et.al.|[2606.06771](http://arxiv.org/abs/2606.06771)|null|
 |**2026-06-04**|**Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation**|Yohann Benchetrit et.al.|[2606.06345](http://arxiv.org/abs/2606.06345)|null|
@@ -993,8 +997,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-08**|**TABVERSE: Benchmarking Cross-Format Table Understanding in LLMs and VLMs**|Momina Ahsan et.al.|[2606.09578](http://arxiv.org/abs/2606.09578)|null|
+|**2026-06-08**|**REFINE: Super-efficient 3D Gaussian Splatting Pruning via Rendering-Free Primitive Importance**|Zhang Chen et.al.|[2606.09074](http://arxiv.org/abs/2606.09074)|null|
+|**2026-06-08**|**Leveraging NeRF-Rendered Images for 3D Gaussian Splatting**|Mizuki Morikawa et.al.|[2606.09034](http://arxiv.org/abs/2606.09034)|null|
+|**2026-06-08**|**MaterialClusterGS: Palette-Based Material Decomposition and Physically-Based Relighting with 2D Gaussian Splatting**|Hao Zhang et.al.|[2606.09018](http://arxiv.org/abs/2606.09018)|null|
+|**2026-06-06**|**LEGS: Laplacian-Enhanced Gaussian Splatting with a Nonlinear Weighted Loss**|Yongfei Guo et.al.|[2606.07932](http://arxiv.org/abs/2606.07932)|null|
+|**2026-06-04**|**Liquid Neural Networks as a Drop-in Continuous-Time Deformation Field for Dynamic 3D Gaussian Splatting**|Mingzhao Li et.al.|[2606.07670](http://arxiv.org/abs/2606.07670)|null|
 |**2026-06-05**|**EvoGS: Constructing Continuous-Layered Gaussian Splatting with Evolution Tree for Scalable 3D Streaming**|Yuang Shi et.al.|[2606.07179](http://arxiv.org/abs/2606.07179)|null|
-|**2026-06-05**|**QuadVerse: An Integrated Framework Aligning Visual-Physical Reality for Quadruped Simulation**|Yuxiang Chen et.al.|[2606.07118](http://arxiv.org/abs/2606.07118)|null|
+|**2026-06-08**|**QuadVerse: An Integrated Framework Aligning Visual-Physical Reality for Quadruped Simulation**|Yuxiang Chen et.al.|[2606.07118](http://arxiv.org/abs/2606.07118)|null|
 |**2026-06-04**|**RPC-GS: Gaussian Splatting with native RPC Rendering for Satellite Imagery**|Valentin Wagner et.al.|[2606.06690](http://arxiv.org/abs/2606.06690)|null|
 |**2026-06-04**|**RigPAPR: Rig-Based Animation of Static Neural Point Clouds from a Fixed-Viewpoint Video**|Shichong Peng et.al.|[2606.06685](http://arxiv.org/abs/2606.06685)|null|
 |**2026-06-04**|**GS-NFS: Bandwidth-adaptive Streaming of Dynamic Gaussian Splats and Point Clouds**|Rajrup Ghosh et.al.|[2606.05650](http://arxiv.org/abs/2606.05650)|null|
@@ -2290,6 +2300,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-08**|**Where Does the Answer Come From? Benchmarking View-Level Visual Evidence Identification in Multi-View MLLMs for Autonomous Driving**|Yimu Wang et.al.|[2606.09644](http://arxiv.org/abs/2606.09644)|null|
+|**2026-06-08**|**Efficient Minimal Solvers for Relative Pose Estimation in Autonomous Driving Applications**|Tao Li et.al.|[2606.09569](http://arxiv.org/abs/2606.09569)|null|
+|**2026-06-08**|**Zero-Shot Semantic Re-Identification for Autonomous Driving: A VLM Baseline Study**|Eduardo Borges et.al.|[2606.09362](http://arxiv.org/abs/2606.09362)|null|
+|**2026-06-08**|**Taming Perception Jitter: Uncertainty-Aware LiDAR Object Detection for Reliable Motion Classification**|Cornelius Schröder et.al.|[2606.09350](http://arxiv.org/abs/2606.09350)|null|
+|**2026-06-08**|**EditSSC: Toward Editable Semantic Occupancy Scenes with Unconditional Diffusion Models**|Fatima Balde et.al.|[2606.09273](http://arxiv.org/abs/2606.09273)|null|
+|**2026-06-08**|**Self-Paced Curriculum Reinforcement Learning for Autonomous Superbike Racing in Simulation**|Luca Ghisi et.al.|[2606.09236](http://arxiv.org/abs/2606.09236)|null|
+|**2026-06-08**|**Driving Video Retrieval for Complex Queries with Structured Grounding**|Manyi Yao et.al.|[2606.09109](http://arxiv.org/abs/2606.09109)|null|
+|**2026-06-07**|**BLUE: Toward Better Language Use in Efficient Vision-Language-Action Models for Autonomous Driving**|George Ling et.al.|[2606.08684](http://arxiv.org/abs/2606.08684)|null|
+|**2026-06-07**|**Distortion-Aware PETR for BEV Object Detection with Mixed Pinhole-Fisheye Cameras**|Xiangzhong Liu et.al.|[2606.08680](http://arxiv.org/abs/2606.08680)|null|
+|**2026-06-07**|**DriveReward: A Comprehensive Dataset and Generative Vision-Language Reward Model for Autonomous Driving**|Qimao Chen et.al.|[2606.08525](http://arxiv.org/abs/2606.08525)|null|
+|**2026-06-07**|**LUNA-AD: Lightweight Uncertainty-Aware Language Model with Lifelong Learning for Autonomous Driving**|Ruoyu Yao et.al.|[2606.08470](http://arxiv.org/abs/2606.08470)|null|
+|**2026-06-06**|**AlignFed: Alignment-Aware Asynchronous Federated Fine-Tuning for Large Language Models in Heterogeneous Edge Environments**|Yan Wang et.al.|[2606.08197](http://arxiv.org/abs/2606.08197)|null|
+|**2026-06-06**|**Learning from Human Driving: A Human-in-the-Loop Online Behavior Cloning Framework for Autonomous Driving**|Yuhong Shi et.al.|[2606.08170](http://arxiv.org/abs/2606.08170)|null|
+|**2026-06-05**|**TianJi-Environ: An Autonomous AI Scientist for Atmospheric Environmental Research**|Haoluo Zhao et.al.|[2606.07697](http://arxiv.org/abs/2606.07697)|null|
 |**2026-06-05**|**Planning-aligned Token Compression for Long-Context Autonomous Driving**|Zhixuan Liang et.al.|[2606.07464](http://arxiv.org/abs/2606.07464)|null|
 |**2026-06-05**|**A Causal Probabilistic Framework for Perception-Informed Closed-Loop Simulation of Autonomous Driving**|Zhennan Fei et.al.|[2606.07186](http://arxiv.org/abs/2606.07186)|null|
 |**2026-06-05**|**Test-Time Trajectory Optimization for Autonomous Driving**|Yihong Xu et.al.|[2606.07170](http://arxiv.org/abs/2606.07170)|null|
@@ -3846,10 +3870,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-08**|**Graph Mamba Operator: A Latent Simulator for Interacting Particle Systems**|Karn Tiwari et.al.|[2606.09432](http://arxiv.org/abs/2606.09432)|null|
+|**2026-06-08**|**Vision-Language Guided Hyperspectral Object Tracking via Semantics Fusion and Contextual Template Updating**|Rui Yao et.al.|[2606.09167](http://arxiv.org/abs/2606.09167)|null|
+|**2026-06-07**|**DeepMine-Mamba: Mitigating Information Dilution in Mamba-Based State Space Models for Document Image Binarization**|Sheng-Wei Chan et.al.|[2606.08781](http://arxiv.org/abs/2606.08781)|null|
 |**2026-06-05**|**A Held-Out Transition-Pair Falsifier for Long-Horizon Non-Abelian State Tracking**|Jeonghoon Lee et.al.|[2606.07254](http://arxiv.org/abs/2606.07254)|null|
 |**2026-06-04**|**HoT-SSM:Higher-order Temporal Knowledge Graph Reasoning with State Space Models for Health Care**|Thummaluru Siddartha Reddy et.al.|[2606.05994](http://arxiv.org/abs/2606.05994)|null|
 |**2026-06-03**|**Mamba-Assisted Non-Markovian Closure for Reduced-Order Modeling**|Zhi-Feng Wei et.al.|[2606.05371](http://arxiv.org/abs/2606.05371)|null|
-|**2026-06-03**|**MOSAIC: A Workload-Driven Simulation and Design-Space Exploration Framework for Heterogeneous NPUs**|Arghadip Das et.al.|[2606.05362](http://arxiv.org/abs/2606.05362)|null|
+|**2026-06-06**|**MOSAIC: A Workload-Driven Simulation and Design-Space Exploration Framework for Heterogeneous NPUs**|Arghadip Das et.al.|[2606.05362](http://arxiv.org/abs/2606.05362)|null|
 |**2026-06-03**|**BIDENT: Heterogeneous Operator-level Mapping for Efficient Edge Inference**|Hoseok Kim et.al.|[2606.05271](http://arxiv.org/abs/2606.05271)|null|
 |**2026-06-03**|**Learning Control-Affine Reduced-Order Models via Autoencoders**|Ali Mjalled et.al.|[2606.05045](http://arxiv.org/abs/2606.05045)|null|
 |**2026-06-03**|**Query-based Cross-Modal Projector Bolstering Mamba Multimodal LLM**|SooHwan Eom et.al.|[2606.04719](http://arxiv.org/abs/2606.04719)|null|
