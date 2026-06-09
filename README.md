@@ -21,7 +21,7 @@
 |**2026-06-06**|**GeoGNN: Time Series Geo-Localization using Two-Tower Graph Neural Networks**|Toan Tran et.al.|[2606.08303](http://arxiv.org/abs/2606.08303)|null|
 |**2026-06-06**|**Empowering Feed-Forward Reconstruction Models with Metric Scale via Satellite Images**|Xianghui Ze et.al.|[2606.08205](http://arxiv.org/abs/2606.08205)|null|
 |**2026-06-06**|**IMAGINE: Adaptive Schema-Imagery Enhanced Composition for Composed Video Retrieval**|Jiale Huang et.al.|[2606.08144](http://arxiv.org/abs/2606.08144)|null|
-|**2026-06-05**|**Textual Supervision Enhances Geospatial Representations in Vision-Language Models**|Marcelo Sartori Locatelli et.al.|[2606.07172](http://arxiv.org/abs/2606.07172)|null|
+|**2026-06-05**|**Textual Supervision Enhances Geospatial Representations in Vision-Language Models**|Marcelo Sartori Locatelli et.al.|[2606.07172](http://arxiv.org/abs/2606.07172)|**[link](https://github.com/marceloslo/Textual-Supervision-Enhances-Geospatial-Representations)**|
 |**2026-06-05**|**Never Seen Before: Benchmarking Genuine Zero-Shot Composed Image Retrieval with Consistent Video-Sourced Datasets**|Zhenyu Yang et.al.|[2606.07032](http://arxiv.org/abs/2606.07032)|null|
 |**2026-06-04**|**Atomic-scale phase-field modeling for 2D ferroelectrics including non-Gaussian fluctuations**|Kairi Masuda et.al.|[2606.06771](http://arxiv.org/abs/2606.06771)|null|
 |**2026-06-04**|**Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation**|Yohann Benchetrit et.al.|[2606.06345](http://arxiv.org/abs/2606.06345)|null|
@@ -2316,6 +2316,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-08**|**Hybrid Robustness Verification for Spatio-Temporal Neural Networks**|Sherwin Varghese et.al.|[2606.09746](http://arxiv.org/abs/2606.09746)|null|
 |**2026-06-08**|**Where Does the Answer Come From? Benchmarking View-Level Visual Evidence Identification in Multi-View MLLMs for Autonomous Driving**|Yimu Wang et.al.|[2606.09644](http://arxiv.org/abs/2606.09644)|null|
 |**2026-06-08**|**Efficient Minimal Solvers for Relative Pose Estimation in Autonomous Driving Applications**|Tao Li et.al.|[2606.09569](http://arxiv.org/abs/2606.09569)|null|
 |**2026-06-08**|**Zero-Shot Semantic Re-Identification for Autonomous Driving: A VLM Baseline Study**|Eduardo Borges et.al.|[2606.09362](http://arxiv.org/abs/2606.09362)|null|
