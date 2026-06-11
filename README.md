@@ -1,4 +1,4 @@
-## Updated on 2026.06.10
+## Updated on 2026.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**Bridging the Modality Gap in Forensic Image Retrieval**|Ricardo González-Gazapo et.al.|[2606.12294](http://arxiv.org/abs/2606.12294)|null|
+|**2026-06-10**|**SG2Loc: Sequential Visual Localization on 3D Scene Graphs**|Nicole Damblon et.al.|[2606.11880](http://arxiv.org/abs/2606.11880)|null|
+|**2026-06-10**|**RankVR: Low-Rank Structure Perception and Value Recalibration for Robust Composed Image Retrieval**|Jiale Huang et.al.|[2606.11689](http://arxiv.org/abs/2606.11689)|null|
 |**2026-06-09**|**Beyond Patches: Superpixel Token-based Transformers for Attribute-Specific Fashion Retrieval**|Shuili Zhang et.al.|[2606.10697](http://arxiv.org/abs/2606.10697)|null|
 |**2026-06-08**|**CRANE: Knowledge Editing for Reasoning MLLMs**|Han Huang et.al.|[2606.09033](http://arxiv.org/abs/2606.09033)|null|
 |**2026-06-06**|**GeoGNN: Time Series Geo-Localization using Two-Tower Graph Neural Networks**|Toan Tran et.al.|[2606.08303](http://arxiv.org/abs/2606.08303)|null|
@@ -28,7 +31,7 @@
 |**2026-06-04**|**Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation**|Yohann Benchetrit et.al.|[2606.06345](http://arxiv.org/abs/2606.06345)|null|
 |**2026-06-03**|**CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation**|Yurim Jeon et.al.|[2606.05011](http://arxiv.org/abs/2606.05011)|null|
 |**2026-06-03**|**Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives**|Ayumi Umemura et.al.|[2606.04788](http://arxiv.org/abs/2606.04788)|null|
-|**2026-06-03**|**COMBINER: Composed Image Retrieval Guided by Attribute-based Neighbor Relations**|Zixu Li et.al.|[2606.04604](http://arxiv.org/abs/2606.04604)|null|
+|**2026-06-03**|**COMBINER: Composed Image Retrieval Guided by Attribute-based Neighbor Relations**|Zixu Li et.al.|[2606.04604](http://arxiv.org/abs/2606.04604)|**[link](https://github.com/iLearn-Lab/TIP26-COMBINER)**|
 |**2026-06-02**|**Pinpoint: Grounded Worldwide Image Geolocation via Cross-Source Retrieval and Reranking**|Nika Chuzhoy et.al.|[2606.04133](http://arxiv.org/abs/2606.04133)|null|
 |**2026-06-02**|**Mixed-Modality Dual Face-Hair Retrieval**|Quoc-Anh Bui-Huynh et.al.|[2606.03470](http://arxiv.org/abs/2606.03470)|null|
 |**2026-06-02**|**SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching**|Xu Pan et.al.|[2606.03406](http://arxiv.org/abs/2606.03406)|null|
@@ -798,7 +801,7 @@
 |**2018-05-16**|**Visual Global Localization with a Hybrid WNN-CNN Approach**|Avelino Forechi et.al.|[1805.03183](http://arxiv.org/abs/1805.03183)|**[link](https://github.com/LCAD-UFES/WNN-CNN-GL)**|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 ## Point Cloud Place Recognition
 
@@ -905,7 +908,7 @@
 |**2020-08-04**|**PIC-Net: Point Cloud and Image Collaboration Network for Large-Scale Place Recognition**|Yuheng Lu et.al.|[2008.00658](http://arxiv.org/abs/2008.00658)|null|
 |**2020-07-06**|**LOL: Lidar-Only Odometry and Localization in 3D Point Cloud Maps**|David Rozenberszki et.al.|[2007.01595](http://arxiv.org/abs/2007.01595)|**[link](https://github.com/RozDavid/LOL)**|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 ## Cross-modality Localization
 
@@ -969,10 +972,10 @@
 |**2025-11-02**|**Integrating Visual and X-Ray Machine Learning Features in the Study of Paintings by Goya**|Hassan Ugail et.al.|[2511.01000](http://arxiv.org/abs/2511.01000)|null|
 |**2025-11-02**|**VesSAM: Efficient Multi-Prompting for Segmenting Complex Vessel**|Suzhong Fu et.al.|[2511.00981](http://arxiv.org/abs/2511.00981)|null|
 |**2025-10-24**|**A Parameter-Efficient Mixture-of-Experts Framework for Cross-Modal Geo-Localization**|LinFeng Li et.al.|[2510.20291](http://arxiv.org/abs/2510.20291)|null|
-|**2025-10-20**|**Closed-Loop Transfer for Weakly-supervised Affordance Grounding**|Jiajin Tang et.al.|[2510.17384](http://arxiv.org/abs/2510.17384)|**[link](https://github.com/SooLab/LoopTrans)**|
-|**2025-09-27**|**AttAnchor: Guiding Cross-Modal Token Alignment in VLMs with Attention Anchors**|Junyang Zhang et.al.|[2509.23109](http://arxiv.org/abs/2509.23109)|**[link](https://github.com/garyz712/attanchor)**|
+|**2025-10-20**|**Closed-Loop Transfer for Weakly-supervised Affordance Grounding**|Jiajin Tang et.al.|[2510.17384](http://arxiv.org/abs/2510.17384)|null|
+|**2025-09-27**|**AttAnchor: Guiding Cross-Modal Token Alignment in VLMs with Attention Anchors**|Junyang Zhang et.al.|[2509.23109](http://arxiv.org/abs/2509.23109)|null|
 |**2025-09-30**|**InterKey: Cross-modal Intersection Keypoints for Global Localization on OpenStreetMap**|Nguyen Hoang Khoi Tran et.al.|[2509.13857](http://arxiv.org/abs/2509.13857)|null|
-|**2025-12-28**|**Cross-modal Full-mode Fine-grained Alignment for Text-to-Image Person Retrieval**|Hao Yin et.al.|[2509.13754](http://arxiv.org/abs/2509.13754)|**[link](https://github.com/yinhao1102/FMFA)**|
+|**2025-12-28**|**Cross-modal Full-mode Fine-grained Alignment for Text-to-Image Person Retrieval**|Hao Yin et.al.|[2509.13754](http://arxiv.org/abs/2509.13754)|null|
 |**2025-09-16**|**Semantic-Enhanced Cross-Modal Place Recognition for Robust Robot Localization**|Yujia Lin et.al.|[2509.13474](http://arxiv.org/abs/2509.13474)|null|
 |**2025-09-12**|**TUNI: Real-time RGB-T Semantic Segmentation with Unified Multi-Modal Feature Extraction and Cross-Modal Feature Fusion**|Xiaodong Guo et.al.|[2509.10005](http://arxiv.org/abs/2509.10005)|null|
 |**2025-09-09**|**Aerial-ground Cross-modal Localization: Dataset, Ground-truth, and Benchmark**|Yandi Yang et.al.|[2509.07362](http://arxiv.org/abs/2509.07362)|null|
@@ -1006,12 +1009,16 @@
 |**2021-07-28**|**Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization**|Fa-Ting Hong et.al.|[2107.12589](http://arxiv.org/abs/2107.12589)|null|
 |**2020-09-15**|**RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization**|Niluthpol Chowdhury Mithun et.al.|[2009.05695](http://arxiv.org/abs/2009.05695)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 ## 3D GS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**Wild3R: Feed-Forward 3D Gaussian Splatting from Unconstrained Sparse Photo Collection**|Yuto Furutani et.al.|[2606.11894](http://arxiv.org/abs/2606.11894)|null|
+|**2026-06-10**|**Scene-Adaptive Nonlinear Tone Curves for Pseudo Ground-Truth Generation in Low-Light 3D Gaussian Splatting**|Mingzhe Lyu et.al.|[2606.11841](http://arxiv.org/abs/2606.11841)|null|
+|**2026-06-10**|**Seeing What Matters: Perceptual Wrapper with Common Randomness for 3D Gaussian Splatting**|He-Bi Yang et.al.|[2606.11782](http://arxiv.org/abs/2606.11782)|null|
+|**2026-06-09**|**A Scalable PyTorch Abstraction for Multi-GPU Gaussian Splatting**|Matthew Cong et.al.|[2606.11390](http://arxiv.org/abs/2606.11390)|null|
 |**2026-06-09**|**WorldOlympiad: Can Your World Model Survive a Triathlon?**|Yuke Zhao et.al.|[2606.11129](http://arxiv.org/abs/2606.11129)|null|
 |**2026-06-09**|**Envision4D: Envisioning Visual Futures via Feed-forward 4D Gaussian Splatting for Autonomous Driving**|Qi Song et.al.|[2606.10656](http://arxiv.org/abs/2606.10656)|null|
 |**2026-06-09**|**ManiSplat: Manipulation Trajectory Synthesis from Monocular Video via Decoupled 3D Gaussian Splatting**|Wenhao Hu et.al.|[2606.10645](http://arxiv.org/abs/2606.10645)|null|
@@ -2316,12 +2323,21 @@
 |**2024-03-26**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095](http://arxiv.org/abs/2403.16095)|null|
 |**2024-04-09**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700](http://arxiv.org/abs/2311.11700)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving**|Jin Yao et.al.|[2606.12396](http://arxiv.org/abs/2606.12396)|null|
+|**2026-06-10**|**DrivingAgent: Design and Scheduling Agents for Autonomous Driving Systems**|Zhongyu Xia et.al.|[2606.12236](http://arxiv.org/abs/2606.12236)|null|
+|**2026-06-10**|**Intelligent Automation for Embodied Benchmark Construction: Pipelines, Embodiments, Simulators, and Trends**|Jinshan Lai et.al.|[2606.12207](http://arxiv.org/abs/2606.12207)|null|
+|**2026-06-10**|**Performance Analysis of YOLOv11 and YOLOv8 for Mixed Traffic Object Detection under Adverse Weather Conditions in Developing Countries**|Quoc Thuan Nguyen et.al.|[2606.12066](http://arxiv.org/abs/2606.12066)|null|
+|**2026-06-10**|**From Nominal Intensity to Equivalent Rainfall: A Path-Based Credibility Evaluation Framework for Simulated Rainfall in Autonomous-Driving Perception Tests**|Tian Xia et.al.|[2606.11989](http://arxiv.org/abs/2606.11989)|null|
+|**2026-06-10**|**Task-Aligned Stability Analysis of Vision-Language Models for Autonomous Driving Hazard Detection**|Everett Richards et.al.|[2606.11889](http://arxiv.org/abs/2606.11889)|null|
+|**2026-06-10**|**AutoMine Solution for AV2 2026 Scenario Mining Challenge**|Songliang Cao et.al.|[2606.11874](http://arxiv.org/abs/2606.11874)|null|
+|**2026-06-10**|**Systematic Cybersecurity Risk Analysis of European Rail Traffic Management System**|Kacper Darowski et.al.|[2606.11839](http://arxiv.org/abs/2606.11839)|null|
+|**2026-06-10**|**ConsistencyPlanner: Real-time Planning with Fast-Sampling Consistency Models**|Qichao Zhang et.al.|[2606.11569](http://arxiv.org/abs/2606.11569)|null|
 |**2026-06-09**|**Monte Carlo Pass Search: Using Trajectory Generation for 3D Counterfactual Pass Evaluation in Football**|Andrew Kang et.al.|[2606.11120](http://arxiv.org/abs/2606.11120)|null|
 |**2026-06-09**|**Diffusion Forcing Planner: History-Annealed Planning with Time-Dependent Guidance for Autonomous Driving**|Zehan Zhang et.al.|[2606.11019](http://arxiv.org/abs/2606.11019)|null|
 |**2026-06-09**|**Language-Driven Cost Optimization for Autonomous Driving**|Diego Martinez-Baselga et.al.|[2606.10974](http://arxiv.org/abs/2606.10974)|null|
@@ -3898,12 +3914,15 @@
 |**2019-09-18**|**A*3D Dataset: Towards Autonomous Driving in Challenging Environments**|Quang-Hieu Pham et.al.|[1909.07541](http://arxiv.org/abs/1909.07541)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
 ## Mamba
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**Weibull-Stationary Stochastic Differential Equations for Conditional Long-Horizon Wind Power Forecasting**|Luca Di Persio et.al.|[2606.12097](http://arxiv.org/abs/2606.12097)|null|
+|**2026-06-10**|**Lung-SRAD: Spectral-Aware Regularized Audio DASS with Dual-Axis Patch-Mix Contrastive Learning for Respiratory Sound Classification**|Hemansh Shridhar et.al.|[2606.11922](http://arxiv.org/abs/2606.11922)|null|
+|**2026-06-10**|**Time Series Analysis in Machine Learning**|Antonio Pagliaro et.al.|[2606.11746](http://arxiv.org/abs/2606.11746)|null|
 |**2026-06-09**|**Free Parametrization of L_2-Bounded Structured State-Space Controllers for Nonlinear Control with Stability Guarantees**|Muhammad Zakwan et.al.|[2606.11049](http://arxiv.org/abs/2606.11049)|null|
 |**2026-06-09**|**Machine Learning Methods for Studying Latent Neural Activity Dynamics**|Shufeng Kong et.al.|[2606.10530](http://arxiv.org/abs/2606.10530)|null|
 |**2026-06-09**|**Parallel Causal Associative Fields: Gated Sparse Memory for Long-Context Language Modeling**|Muhammad Ahmed et.al.|[2606.10435](http://arxiv.org/abs/2606.10435)|null|
@@ -4831,5 +4850,5 @@
 |**2024-11-26**|**PointMamba: A Simple State Space Model for Point Cloud Analysis**|Dingkang Liang et.al.|[2402.10739](http://arxiv.org/abs/2402.10739)|**[link](https://github.com/LMD0311/PointMamba)**|
 |**2024-11-15**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|**[link](https://github.com/hustvl/Vim)**|
 
-<p align=right>(<a href=#updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260611>back to top</a>)</p>
 
