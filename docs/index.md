@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.06.11
+## Updated on 2026.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**Measurement-Calibrated Multi-Camera Fusion for Vision-Based Indoor Localization**|Mateo Toro Diz et.al.|[2606.13509](http://arxiv.org/abs/2606.13509)|null|
+|**2026-06-11**|**VietFashion: Benchmarking Sketch-Text Composed Image Retrieval for Cultural Outfits**|Hoang-Nguyen Cao et.al.|[2606.13427](http://arxiv.org/abs/2606.13427)|null|
+|**2026-06-11**|**Visual Place Recognition in Forests with Depth-Aware Distillation**|Walter Nedov et.al.|[2606.13206](http://arxiv.org/abs/2606.13206)|null|
 |**2026-06-10**|**Bridging the Modality Gap in Forensic Image Retrieval**|Ricardo González-Gazapo et.al.|[2606.12294](http://arxiv.org/abs/2606.12294)|null|
 |**2026-06-10**|**SG2Loc: Sequential Visual Localization on 3D Scene Graphs**|Nicole Damblon et.al.|[2606.11880](http://arxiv.org/abs/2606.11880)|null|
 |**2026-06-10**|**RankVR: Low-Rank Structure Perception and Value Recalibration for Robust Composed Image Retrieval**|Jiale Huang et.al.|[2606.11689](http://arxiv.org/abs/2606.11689)|null|
@@ -801,7 +804,7 @@ layout: default
 |**2026-04-02**|**Riemannian and Symplectic Geometry for Hierarchical Text-Driven Place Recognition**|Tianyi Shang et.al.|[2604.01598](http://arxiv.org/abs/2604.01598)|null|
 |**2026-03-16**|**Voronoi-based Second-order Descriptor with Whitened Metric in LiDAR Place Recognition**|Jaein Kim et.al.|[2603.14974](http://arxiv.org/abs/2603.14974)|null|
 |**2026-03-09**|**RLPR: Radar-to-LiDAR Place Recognition via Two-Stage Asymmetric Cross-Modal Alignment for Autonomous Driving**|Zhangshuo Qi et.al.|[2603.07920](http://arxiv.org/abs/2603.07920)|null|
-|**2026-05-05**|**PROBE: Probabilistic Occupancy BEV Encoding with Analytical Translation Robustness for 3D Place Recognition**|Jinseop Lee et.al.|[2603.05965](http://arxiv.org/abs/2603.05965)|null|
+|**2026-06-11**|**PROBE: Probabilistic Occupancy BEV Encoding with Analytical Translation Robustness for 3D Place Recognition**|Jinseop Lee et.al.|[2603.05965](http://arxiv.org/abs/2603.05965)|null|
 |**2026-01-29**|**Advanced techniques and applications of LiDAR Place Recognition in Agricultural Environments: A Comprehensive Survey**|Judith Vilella-Cantos et.al.|[2601.22198](http://arxiv.org/abs/2601.22198)|null|
 |**2026-04-22**|**Low Cost, High Efficiency: LiDAR Place Recognition in Vineyards with Matryoshka Representation Learning**|Judith Vilella-Cantos et.al.|[2601.18714](http://arxiv.org/abs/2601.18714)|null|
 |**2025-12-05**|**NormalView: sensor-agnostic tree species classification from backpack and aerial lidar data using geometric projections**|Juho Korkeala et.al.|[2512.05610](http://arxiv.org/abs/2512.05610)|null|
@@ -1001,7 +1004,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-10**|**Wild3R: Feed-Forward 3D Gaussian Splatting from Unconstrained Sparse Photo Collection**|Yuto Furutani et.al.|[2606.11894](http://arxiv.org/abs/2606.11894)|null|
+|**2026-06-11**|**Flex4DHuman: Flexible Multi-view Video Diffusion for 4D Human Reconstruction**|Jen-Hao Cheng et.al.|[2606.13655](http://arxiv.org/abs/2606.13655)|null|
+|**2026-06-11**|**Wild3R: Feed-Forward 3D Gaussian Splatting from Unconstrained Sparse Photo Collection**|Yuto Furutani et.al.|[2606.11894](http://arxiv.org/abs/2606.11894)|null|
 |**2026-06-10**|**Scene-Adaptive Nonlinear Tone Curves for Pseudo Ground-Truth Generation in Low-Light 3D Gaussian Splatting**|Mingzhe Lyu et.al.|[2606.11841](http://arxiv.org/abs/2606.11841)|null|
 |**2026-06-10**|**Seeing What Matters: Perceptual Wrapper with Common Randomness for 3D Gaussian Splatting**|He-Bi Yang et.al.|[2606.11782](http://arxiv.org/abs/2606.11782)|null|
 |**2026-06-09**|**A Scalable PyTorch Abstraction for Multi-GPU Gaussian Splatting**|Matthew Cong et.al.|[2606.11390](http://arxiv.org/abs/2606.11390)|null|
@@ -2313,8 +2317,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**VISA: VLM-Guided Instance Semantic Auditing for 3D Occupancy World Models**|Ruiqi Xian et.al.|[2606.13460](http://arxiv.org/abs/2606.13460)|null|
+|**2026-06-11**|**DIMOS: Disentangling Instance-level Moving Object Segmentation**|Hongxiang Huang et.al.|[2606.12826](http://arxiv.org/abs/2606.12826)|null|
+|**2026-06-11**|**A Tutorial on World Models and Physical AI**|Il-Seok Oh et.al.|[2606.12783](http://arxiv.org/abs/2606.12783)|null|
+|**2026-06-11**|**Agentic MPC for Semantic Control System Resynthesis**|Yuya Miyaoka et.al.|[2606.12774](http://arxiv.org/abs/2606.12774)|null|
+|**2026-06-10**|**VLADriveBench: Evaluating CoT-Action Relationship in VLA for Autonomous Driving**|Thach Nguyen et.al.|[2606.12706](http://arxiv.org/abs/2606.12706)|null|
+|**2026-06-10**|**Context-Aware Feature-Fusion for Co-occurring Object Detection in Autonomous Driving**|Binay Kumar Singh et.al.|[2606.12628](http://arxiv.org/abs/2606.12628)|null|
+|**2026-06-10**|**From Imitation to Alignment: Human-Preference Flow Policies for Long-Horizon Sidewalk Navigation**|Honglin He et.al.|[2606.12603](http://arxiv.org/abs/2606.12603)|null|
 |**2026-06-10**|**VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving**|Jin Yao et.al.|[2606.12396](http://arxiv.org/abs/2606.12396)|null|
-|**2026-06-10**|**DrivingAgent: Design and Scheduling Agents for Autonomous Driving Systems**|Zhongyu Xia et.al.|[2606.12236](http://arxiv.org/abs/2606.12236)|null|
+|**2026-06-11**|**DrivingAgent: Design and Scheduling Agents for Autonomous Driving Systems**|Zhongyu Xia et.al.|[2606.12236](http://arxiv.org/abs/2606.12236)|null|
 |**2026-06-10**|**Intelligent Automation for Embodied Benchmark Construction: Pipelines, Embodiments, Simulators, and Trends**|Jinshan Lai et.al.|[2606.12207](http://arxiv.org/abs/2606.12207)|null|
 |**2026-06-10**|**Performance Analysis of YOLOv11 and YOLOv8 for Mixed Traffic Object Detection under Adverse Weather Conditions in Developing Countries**|Quoc Thuan Nguyen et.al.|[2606.12066](http://arxiv.org/abs/2606.12066)|null|
 |**2026-06-10**|**From Nominal Intensity to Equivalent Rainfall: A Path-Based Credibility Evaluation Framework for Simulated Rainfall in Autonomous-Driving Perception Tests**|Tian Xia et.al.|[2606.11989](http://arxiv.org/abs/2606.11989)|null|
@@ -3902,6 +3913,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**Sizing of a grid-forming power converter to improve the small-signal stability of an LCC-HVDC system connected to a weak grid**|Anup Joshi et.al.|[2606.13358](http://arxiv.org/abs/2606.13358)|null|
+|**2026-06-11**|**LongSpike: Fractional Order Spiking State Space Models for Efficient Long Sequence Learning**|Xinrui He et.al.|[2606.12895](http://arxiv.org/abs/2606.12895)|null|
 |**2026-06-10**|**Weibull-Stationary Stochastic Differential Equations for Conditional Long-Horizon Wind Power Forecasting**|Luca Di Persio et.al.|[2606.12097](http://arxiv.org/abs/2606.12097)|null|
 |**2026-06-10**|**Lung-SRAD: Spectral-Aware Regularized Audio DASS with Dual-Axis Patch-Mix Contrastive Learning for Respiratory Sound Classification**|Hemansh Shridhar et.al.|[2606.11922](http://arxiv.org/abs/2606.11922)|null|
 |**2026-06-10**|**Time Series Analysis in Machine Learning**|Antonio Pagliaro et.al.|[2606.11746](http://arxiv.org/abs/2606.11746)|null|
