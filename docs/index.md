@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.14
+## Updated on 2026.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -1032,7 +1032,7 @@ layout: default
 |**2026-06-02**|**Multi-Agent Next-Best-View Optimization for Risk-Averse Planning**|Amirhossein Mollaei Khass et.al.|[2606.04158](http://arxiv.org/abs/2606.04158)|null|
 |**2026-06-02**|**SparseStreet: Sparse Gaussian Splatting for Real-Time Street Scene Simulation**|Qingpo Wuwu et.al.|[2606.03909](http://arxiv.org/abs/2606.03909)|null|
 |**2026-06-02**|**MLP Splatting: Object-Centric Neural Fields**|Shinjeong Kim et.al.|[2606.03877](http://arxiv.org/abs/2606.03877)|null|
-|**2026-06-02**|**GN0: Toward a Unified Paradigm for Generation, Evaluation, and Policy Learning in Visual-Language Navigation**|Xinhai Li et.al.|[2606.03682](http://arxiv.org/abs/2606.03682)|null|
+|**2026-06-02**|**GN0: Toward a Unified Paradigm for Generation, Evaluation, and Policy Learning in Visual-Language Navigation**|Xinhai Li et.al.|[2606.03682](http://arxiv.org/abs/2606.03682)|**[link](https://github.com/TeleHuman/GN0)**|
 |**2026-06-02**|**UnsOcc: 3D Semantic Occupancy Prediction in Unstructured Scene via Rendering Fusion**|Ye Wu et.al.|[2606.03581](http://arxiv.org/abs/2606.03581)|null|
 |**2026-06-02**|**Characterizing Detectability in 3DGS Poisoning: A Stage-wise Benchmark**|Quoc-Anh Bui-Huynh et.al.|[2606.03499](http://arxiv.org/abs/2606.03499)|null|
 |**2026-06-02**|**PersistGS: Differentiable Physics for Object Permanence in 4D Gaussian Splatting**|Adrian Ramlal et.al.|[2606.03479](http://arxiv.org/abs/2606.03479)|null|
@@ -1987,8 +1987,8 @@ layout: default
 |**2025-11-17**|**GRLoc: Geometric Representation Regression for Visual Localization**|Changyang Li et.al.|[2511.13864](http://arxiv.org/abs/2511.13864)|null|
 |**2025-11-17**|**Training-Free Multi-View Extension of IC-Light for Textual Position-Aware Scene Relighting**|Jiangnan Ye et.al.|[2511.13684](http://arxiv.org/abs/2511.13684)|null|
 |**2025-11-17**|**Opt3DGS: Optimizing 3D Gaussian Splatting with Adaptive Exploration and Curvature-Aware Exploitation**|Ziyang Huang et.al.|[2511.13571](http://arxiv.org/abs/2511.13571)|null|
-|**2025-11-17**|**Semantic Document Derendering: SVG Reconstruction via Vision-Language Modeling**|Adam Hazimeh et.al.|[2511.13478](http://arxiv.org/abs/2511.13478)|null|
-|**2025-11-17**|**SkyReels-Text: Fine-grained Font-Controllable Text Editing for Poster Design**|Yunjie Yu et.al.|[2511.13285](http://arxiv.org/abs/2511.13285)|null|
+|**2025-11-17**|**Semantic Document Derendering: SVG Reconstruction via Vision-Language Modeling**|Adam Hazimeh et.al.|[2511.13478](http://arxiv.org/abs/2511.13478)|**[link](https://github.com/adamhazimeh/SliDer)**|
+|**2025-11-17**|**SkyReels-Text: Fine-grained Font-Controllable Text Editing for Poster Design**|Yunjie Yu et.al.|[2511.13285](http://arxiv.org/abs/2511.13285)|**[link](https://github.com/SkyworkAI/SkyReels-Text)**|
 |**2025-11-17**|**SF-Recon: Simplification-Free Lightweight Building Reconstruction via 3D Gaussian Splatting**|Zihan Li et.al.|[2511.13278](http://arxiv.org/abs/2511.13278)|null|
 |**2025-11-17**|**SymGS : Leveraging Local Symmetries for 3D Gaussian Splatting Compression**|Keshav Gupta et.al.|[2511.13264](http://arxiv.org/abs/2511.13264)|null|
 |**2025-11-17**|**Birth of a Painting: Differentiable Brushstroke Reconstruction**|Ying Jiang et.al.|[2511.13191](http://arxiv.org/abs/2511.13191)|null|
@@ -2011,7 +2011,7 @@ layout: default
 |**2025-11-14**|**RealisticDreamer: Guidance Score Distillation for Few-shot Gaussian Splatting**|Ruocheng Wu et.al.|[2511.11213](http://arxiv.org/abs/2511.11213)|null|
 |**2025-11-14**|**Dynamic Gaussian Scene Reconstruction from Unsynchronized Videos**|Zhixin Xu et.al.|[2511.11175](http://arxiv.org/abs/2511.11175)|null|
 |**2025-11-14**|**PINGS-X: Physics-Informed Normalized Gaussian Splatting with Axes Alignment for Efficient Super-Resolution of 4D Flow MRI**|Sun Jo et.al.|[2511.11048](http://arxiv.org/abs/2511.11048)|null|
-|**2025-11-14**|**Draft and Refine with Visual Experts**|Sungheon Jeong et.al.|[2511.11005](http://arxiv.org/abs/2511.11005)|null|
+|**2025-11-14**|**Draft and Refine with Visual Experts**|Sungheon Jeong et.al.|[2511.11005](http://arxiv.org/abs/2511.11005)|**[link](https://github.com/EavnJeong/Draft-and-Refine-with-Visual-Experts)**|
 |**2025-11-13**|**MonkeyOCR v1.5 Technical Report: Unlocking Robust Document Parsing for Complex Patterns**|Jiarui Zhang et.al.|[2511.10390](http://arxiv.org/abs/2511.10390)|null|
 |**2025-11-13**|**Depth-Consistent 3D Gaussian Splatting via Physical Defocus Modeling and Multi-View Geometric Supervision**|Yu Deng et.al.|[2511.10316](http://arxiv.org/abs/2511.10316)|null|
 |**2025-11-13**|**HeatV2X: Scalable Heterogeneous Collaborative Perception via Efficient Alignment and Interaction**|Yueran Zhao et.al.|[2511.10211](http://arxiv.org/abs/2511.10211)|null|
@@ -2646,7 +2646,7 @@ layout: default
 |**2026-04-14**|**Physics-Grounded Monocular Vehicle Distance Estimation Using Standardized License Plate Typography**|Manognya Lokesh Reddy et.al.|[2604.12239](http://arxiv.org/abs/2604.12239)|null|
 |**2026-04-14**|**Unveiling the Surprising Efficacy of Navigation Understanding in End-to-End Autonomous Driving**|Zhihua Hua et.al.|[2604.12208](http://arxiv.org/abs/2604.12208)|null|
 |**2026-04-13**|**MVAdapt: Zero-Shot Multi-Vehicle Adaptation for End-to-End Autonomous Driving**|Haesung Oh et.al.|[2604.11854](http://arxiv.org/abs/2604.11854)|null|
-|**2026-04-13**|**Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction**|Efstathios Karypidis et.al.|[2604.11707](http://arxiv.org/abs/2604.11707)|null|
+|**2026-04-13**|**Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction**|Efstathios Karypidis et.al.|[2604.11707](http://arxiv.org/abs/2604.11707)|**[link](https://github.com/Sta8is/Re2Pix)**|
 |**2026-04-13**|**OpenDT: Exploring Datacenter Performance and Sustainability with a Self-Calibrating Digital Twin**|Radu Nicolae et.al.|[2604.11445](http://arxiv.org/abs/2604.11445)|null|
 |**2026-04-13**|**MapATM: Enhancing HD Map Construction through Actor Trajectory Modeling**|Mingyang Li et.al.|[2604.11081](http://arxiv.org/abs/2604.11081)|null|
 |**2026-04-12**|**BridgeSim: Unveiling the OL-CL Gap in End-to-End Autonomous Driving**|Seth Z. Zhao et.al.|[2604.10856](http://arxiv.org/abs/2604.10856)|null|
@@ -3524,7 +3524,7 @@ layout: default
 |**2025-11-13**|**Safe Planning in Interactive Environments via Iterative Policy Updates and Adversarially Robust Conformal Prediction**|Omid Mirzaeedodangeh et.al.|[2511.10586](http://arxiv.org/abs/2511.10586)|null|
 |**2025-11-13**|**LongComp: Long-Tail Compositional Zero-Shot Generalization for Robust Trajectory Prediction**|Benjamin Stoler et.al.|[2511.10411](http://arxiv.org/abs/2511.10411)|null|
 |**2025-11-13**|**nuPlan-R: A Closed-Loop Planning Benchmark for Autonomous Driving via Reactive Multi-Agent Simulation**|Mingxing Peng et.al.|[2511.10403](http://arxiv.org/abs/2511.10403)|null|
-|**2025-11-13**|**AgentEvolver: Towards Efficient Self-Evolving Agent System**|Yunpeng Zhai et.al.|[2511.10395](http://arxiv.org/abs/2511.10395)|null|
+|**2025-11-13**|**AgentEvolver: Towards Efficient Self-Evolving Agent System**|Yunpeng Zhai et.al.|[2511.10395](http://arxiv.org/abs/2511.10395)|**[link](https://github.com/modelscope/AgentEvolver)**|
 |**2025-11-13**|**Operator Models for Continuous-Time Offline Reinforcement Learning**|Nicolas Hoischen et.al.|[2511.10383](http://arxiv.org/abs/2511.10383)|null|
 |**2025-11-13**|**Physically Interpretable Multi-Degradation Image Restoration via Deep Unfolding and Explainable Convolution**|Hu Gao et.al.|[2511.10166](http://arxiv.org/abs/2511.10166)|null|
 |**2025-11-13**|**Trapped by Their Own Light: Deployable and Stealth Retroreflective Patch Attacks on Traffic Sign Recognition Systems**|Go Tsuruoka et.al.|[2511.10050](http://arxiv.org/abs/2511.10050)|null|
@@ -4139,7 +4139,7 @@ layout: default
 |**2026-03-20**|**MFil-Mamba: Multi-Filter Scanning for Spatial Redundancy-Aware Visual State Space Models**|Puskal Khadka et.al.|[2603.20074](http://arxiv.org/abs/2603.20074)|null|
 |**2026-03-20**|**Grid-following and Grid-forming Switching Control for Grid-connected Inverters Considering Small-signal Security Region**|Qiping Lai et.al.|[2603.19618](http://arxiv.org/abs/2603.19618)|null|
 |**2026-03-20**|**ARMOR: Adaptive Resilience Against Model Poisoning Attacks in Continual Federated Learning for Mobile Indoor Localization**|Danish Gufran et.al.|[2603.19594](http://arxiv.org/abs/2603.19594)|null|
-|**2026-03-19**|**Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders**|Shang-Jui Ray Kuo et.al.|[2603.19209](http://arxiv.org/abs/2603.19209)|null|
+|**2026-03-19**|**Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders**|Shang-Jui Ray Kuo et.al.|[2603.19209](http://arxiv.org/abs/2603.19209)|**[link](https://github.com/raykuo18/vlm-ssm-vision-encoders)**|
 |**2026-03-19**|**The Exponentially Weighted Signature**|Alexandre Bloch et.al.|[2603.19198](http://arxiv.org/abs/2603.19198)|null|
 |**2026-03-19**|**LuMamba: Latent Unified Mamba for Electrode Topology-Invariant and Efficient EEG Modeling**|Danaé Broustail et.al.|[2603.19100](http://arxiv.org/abs/2603.19100)|null|
 |**2026-03-19**|**DA-Mamba: Learning Domain-Aware State Space Model for Global-Local Alignment in Domain Adaptive Object Detection**|Haochen Li et.al.|[2603.18757](http://arxiv.org/abs/2603.18757)|null|
