@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.06.17
+## Updated on 2026.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Show, Don't Ask: Generative Visual Disambiguation for Composed Image Retrieval with Turn-Valid Coverage**|Amsisan Tran et.al.|[2606.18992](http://arxiv.org/abs/2606.18992)|null|
+|**2026-06-17**|**LARE: Low-Attention Region Encoding for Text-Image Retrieval**|Abdulmalik Alquwayfili et.al.|[2606.18885](http://arxiv.org/abs/2606.18885)|**[link](https://github.com/AbdulmalikDS/LARE)**|
+|**2026-06-16**|**A Survey on Data-Driven Models for Soil Moisture Regression and Classification**|Ilektra Tsimpidi et.al.|[2606.18316](http://arxiv.org/abs/2606.18316)|null|
 |**2026-06-14**|**VL2Spike: Spike-driven Distillation from VLMs for Low-Power Visual Perception in Embodied AI**|Zinan Liu et.al.|[2606.15898](http://arxiv.org/abs/2606.15898)|null|
 |**2026-06-13**|**Beyond Scalar Distances: Semantic Attribute Gradients from Frozen MLLMs for Visual Embeddings**|Shubhang Bhatnagar et.al.|[2606.15134](http://arxiv.org/abs/2606.15134)|null|
 |**2026-06-11**|**Measurement-Calibrated Multi-Camera Fusion for Vision-Based Indoor Localization**|Mateo Toro Diz et.al.|[2606.13509](http://arxiv.org/abs/2606.13509)|null|
@@ -802,6 +805,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Aerial-ground LiDAR place recognition with patch-level self-supervised learning and expanded reciprocal re-ranking**|Yandi Yang et.al.|[2606.18583](http://arxiv.org/abs/2606.18583)|null|
 |**2026-06-13**|**G2IA: Geometry-Guided Instance-Aware Retrieval and Refinement for Cross-Modal Place Recognition**|Xianyun Jiao et.al.|[2606.15287](http://arxiv.org/abs/2606.15287)|null|
 |**2026-05-04**|**EdgeLPR: On the Deep Neural Network trade-off between Precision and Performance in LiDAR Place Recognition**|Pierpaolo Serio et.al.|[2605.02275](http://arxiv.org/abs/2605.02275)|null|
 |**2026-04-02**|**Riemannian and Symplectic Geometry for Hierarchical Text-Driven Place Recognition**|Tianyi Shang et.al.|[2604.01598](http://arxiv.org/abs/2604.01598)|null|
@@ -1007,6 +1011,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Hand-4DGS: Feed-Forward 3D Gaussian Splatting for 4D Hand Reconstruction from Egocentric Videos**|Jeongmin Bae et.al.|[2606.19156](http://arxiv.org/abs/2606.19156)|null|
+|**2026-06-17**|**FlowObject: Flow Steering for Bridging Generative Priors and Reconstruction Fidelity**|Yuchen Rao et.al.|[2606.19019](http://arxiv.org/abs/2606.19019)|null|
+|**2026-06-17**|**Point-Cloud-Assistant Localized Statistical Channel Prediction by Tangent Gaussian Splatting**|Ye Xue et.al.|[2606.18734](http://arxiv.org/abs/2606.18734)|null|
+|**2026-06-17**|**Intrinsic 4D Gaussian Segmentation from Scene Cues**|Hasan Yazar et.al.|[2606.18623](http://arxiv.org/abs/2606.18623)|null|
+|**2026-06-17**|**Splaxel: Efficient Distributed Training of 3D Gaussian Splatting for Large-scale Scene Reconstruction via Pixel-level Communication**|Wenqi Jia et.al.|[2606.18588](http://arxiv.org/abs/2606.18588)|null|
+|**2026-06-16**|**Rendering Separoid Information: Rate-Distortion Reconstruction of Convex Apartness Scenes**|Faruk Alpay et.al.|[2606.18486](http://arxiv.org/abs/2606.18486)|null|
 |**2026-06-16**|**AIGS-Net: Compact Illumination Field Modeling via 2D Gaussian Splatting for Fast Low-Light Image Enhancement**|Yuhan Chen et.al.|[2606.17998](http://arxiv.org/abs/2606.17998)|null|
 |**2026-06-16**|**Gaussian Light Field Splatting: A Physical Prior-Driven Vision Transformer for Unsupervised Low-Light Image Enhancement**|Yuhan Chen et.al.|[2606.17985](http://arxiv.org/abs/2606.17985)|null|
 |**2026-06-16**|**MoonSplat: Monocular Online Gaussian Splatting with Sim(3) Global Optimization**|Guo Pu et.al.|[2606.17935](http://arxiv.org/abs/2606.17935)|null|
@@ -2340,6 +2350,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Monocular 3D Occupancy Perception for Robots on Sidewalks via Hybrid 2D-3D Learning**|Yukai Ma et.al.|[2606.19122](http://arxiv.org/abs/2606.19122)|null|
+|**2026-06-16**|**Do as the Romans Do: Learning Universal Behaviors from Heterogeneous Agents**|Caleb Chang et.al.|[2606.18537](http://arxiv.org/abs/2606.18537)|null|
 |**2026-06-16**|**EventDrive: Event Cameras for Vision-Language Driving Intelligence**|Dongyue Lu et.al.|[2606.18242](http://arxiv.org/abs/2606.18242)|null|
 |**2026-06-16**|**Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System**|Jiazhao Zhang et.al.|[2606.18112](http://arxiv.org/abs/2606.18112)|null|
 |**2026-06-16**|**Learn to Quantify Social Interaction with Constraints for Pedestrian Walking**|Xiaodan Shi et.al.|[2606.17897](http://arxiv.org/abs/2606.17897)|null|
@@ -2347,7 +2359,7 @@ layout: default
 |**2026-06-16**|**TerraTransfer: Learning End-to-End Driving Policies Without Expert Demonstrations**|Zikang Xiong et.al.|[2606.17386](http://arxiv.org/abs/2606.17386)|null|
 |**2026-06-15**|**DriveJudge: Rethinking Autonomous Driving Evaluation with Vision-Language Models**|Xinglong Sun et.al.|[2606.17362](http://arxiv.org/abs/2606.17362)|null|
 |**2026-06-15**|**BRDFusion: Physics Meets Generation for Urban Scene Inverse Rendering**|Yi-Ruei Liu et.al.|[2606.17049](http://arxiv.org/abs/2606.17049)|null|
-|**2026-06-16**|**Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation**|Jie Zhang et.al.|[2606.17030](http://arxiv.org/abs/2606.17030)|null|
+|**2026-06-17**|**Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation**|Jie Zhang et.al.|[2606.17030](http://arxiv.org/abs/2606.17030)|null|
 |**2026-06-15**|**ActiveSAM: Image-Conditional Class Pruning for Fast and Accurate Open-Vocabulary Segmentation**|Tran Dinh Tien et.al.|[2606.16996](http://arxiv.org/abs/2606.16996)|null|
 |**2026-06-15**|**SurroundNEXO: Ego-Centric Metric Bridging for Spatially Consistent Geometry in Autonomous Driving**|Shuai Yuan et.al.|[2606.16960](http://arxiv.org/abs/2606.16960)|null|
 |**2026-06-15**|**HOLO-MPPI: Multi-Scenario Motion Planning via Hierarchical Policy Optimization**|Youngjae Min et.al.|[2606.16480](http://arxiv.org/abs/2606.16480)|null|
@@ -3966,6 +3978,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Tracking Brazil's Real Neutral Rate: A Multi-Block Ensemble Framework Combining Statistical Trends, Market Prices, and State-Space Models**|Gabriel de Macedo Santos et.al.|[2606.19000](http://arxiv.org/abs/2606.19000)|null|
+|**2026-06-17**|**Leveraging Energy Features for Surface Classification with Deep Learning: A Comparative Analysis Across Three Independent Datasets**|Alexander Belyaev et.al.|[2606.18698](http://arxiv.org/abs/2606.18698)|null|
+|**2026-06-17**|**MIDS: Detecting Stealthy Masquerade and Tampering Attacks on CAN Bus via Bidirectional Mamba**|Qiqi Liu et.al.|[2606.18599](http://arxiv.org/abs/2606.18599)|null|
 |**2026-06-16**|**Ternary Mamba: Grouped Quantization-Aware Training of W1.58A16 State Space Models**|Ramprasath Ganesaraja et.al.|[2606.18114](http://arxiv.org/abs/2606.18114)|null|
 |**2026-06-16**|**S4oP: Operator-level Pruning of Structured State Space Models for Resource-Constrained Devices**|Marco Deano et.al.|[2606.18096](http://arxiv.org/abs/2606.18096)|null|
 |**2026-06-16**|**Model-based clustering of compositional trajectories for the analysis of mobility data**|Andrea Panarotto et.al.|[2606.18044](http://arxiv.org/abs/2606.18044)|null|
