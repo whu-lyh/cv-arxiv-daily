@@ -17,11 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**Low-Complexity Direct Geolocation of Terrestrial GNSS Jammers from Low Earth Orbit**|Giacomo Pojani et.al.|[2606.22751](http://arxiv.org/abs/2606.22751)|null|
 |**2026-06-20**|**Lexical Consensus: Grounded Word Learning and Shared Meaning in Artificial Agents**|Patricio M. Vera et.al.|[2606.22207](http://arxiv.org/abs/2606.22207)|null|
 |**2026-06-18**|**Multimodal Concept Bottleneck Models**|Tongqing Shi et.al.|[2606.19882](http://arxiv.org/abs/2606.19882)|**[link](https://github.com/YangYY-Liu/MMCBM)**|
 |**2026-06-18**|**Exploring Multi-Modal Large Language Models and Two-Stage Fine-Tuning for Fashion Image Retrieval**|Nguyen Cao Hoang et.al.|[2606.19684](http://arxiv.org/abs/2606.19684)|null|
 |**2026-06-17**|**Show, Don't Ask: Generative Visual Disambiguation for Composed Image Retrieval with Turn-Valid Coverage**|Amsisan Tran et.al.|[2606.18992](http://arxiv.org/abs/2606.18992)|null|
-|**2026-06-17**|**LARE: Low-Attention Region Encoding for Text-Image Retrieval**|Abdulmalik Alquwayfili et.al.|[2606.18885](http://arxiv.org/abs/2606.18885)|**[link](https://github.com/AbdulmalikDS/LARE)**|
+|**2026-06-17**|**LARE: Low-Attention Region Encoding for Text-Image Retrieval**|Abdulmalik Alquwayfili et.al.|[2606.18885](http://arxiv.org/abs/2606.18885)|null|
 |**2026-06-16**|**A Survey on Data-Driven Models for Soil Moisture Regression and Classification**|Ilektra Tsimpidi et.al.|[2606.18316](http://arxiv.org/abs/2606.18316)|null|
 |**2026-06-14**|**VL2Spike: Spike-driven Distillation from VLMs for Low-Power Visual Perception in Embodied AI**|Zinan Liu et.al.|[2606.15898](http://arxiv.org/abs/2606.15898)|null|
 |**2026-06-13**|**Beyond Scalar Distances: Semantic Attribute Gradients from Frozen MLLMs for Visual Embeddings**|Shubhang Bhatnagar et.al.|[2606.15134](http://arxiv.org/abs/2606.15134)|null|
@@ -1028,6 +1029,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild**|Yehonathan Litman et.al.|[2606.23688](http://arxiv.org/abs/2606.23688)|null|
+|**2026-06-22**|**MeGAS: Thermomechanical Dynamic Gaussian Splatting for Thermophysical Scene Editing**|Zesong Yang et.al.|[2606.23455](http://arxiv.org/abs/2606.23455)|null|
+|**2026-06-22**|**Temporally Aware Densification for Dynamic 3D Gaussian Splatting**|Vikram Sandu et.al.|[2606.23212](http://arxiv.org/abs/2606.23212)|null|
+|**2026-06-22**|**DrivingVoxels: Compositional Sparse Voxel Rasterization for Dynamic Driving Scene Reconstruction**|Tania Aguirre et.al.|[2606.23031](http://arxiv.org/abs/2606.23031)|null|
+|**2026-06-22**|**Learning Stable Canonical Worlds for Novel View Synthesis and Beyond**|Xiaoyu Xu et.al.|[2606.23027](http://arxiv.org/abs/2606.23027)|null|
 |**2026-06-21**|**Projection-Volume Fidelity Divergence: Diagnosing and Controlling Optimization Drift in Sparse-View 3D Gaussian Tomography**|Yikuang Yuluo et.al.|[2606.22525](http://arxiv.org/abs/2606.22525)|null|
 |**2026-06-21**|**Lighting-Consistent Object Transfer Across Radiance Fields**|Nicolás Violante et.al.|[2606.22481](http://arxiv.org/abs/2606.22481)|null|
 |**2026-06-20**|**Lost in Aggregation: A Multi-Scale Diagnostic Benchmark for LLM Spatial Navigation**|Yuhan jiang et.al.|[2606.22219](http://arxiv.org/abs/2606.22219)|null|
@@ -2387,6 +2393,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**UECP: Uncertainty-Enhanced Collaborative Perception**|Kang Yang et.al.|[2606.23046](http://arxiv.org/abs/2606.23046)|null|
+|**2026-06-22**|**Humanoid-OmniOcc: Stereo-Based Full-View Occupancy Dataset for Embodied AI**|Xianda Guo et.al.|[2606.22971](http://arxiv.org/abs/2606.22971)|null|
+|**2026-06-22**|**Intend, Reflect, Refine: An Adaptive Multimodal Reflection Framework for Autonomous Driving**|Zisheng Chen et.al.|[2606.22913](http://arxiv.org/abs/2606.22913)|null|
+|**2026-06-22**|**Active Inference as the Test-Time Scaling Law for Physical AI Agents**|Omar Hashash et.al.|[2606.22813](http://arxiv.org/abs/2606.22813)|null|
 |**2026-06-19**|**A DVDrive Approach for doScenes Instructed Driving Challenge**|Zijian Fu et.al.|[2606.21623](http://arxiv.org/abs/2606.21623)|null|
 |**2026-06-19**|**FAST: A Framework for Aligned Sampling and Training in Parallel Reinforcement Learning for Autonomous Driving**|Bonan Wang et.al.|[2606.21587](http://arxiv.org/abs/2606.21587)|null|
 |**2026-06-19**|**A Stitch in Time Saves Nine: Preserving Policy Compatibility Under Perception Updates in End-to-End Autonomous Driving**|Yueyuan Li et.al.|[2606.21509](http://arxiv.org/abs/2606.21509)|null|
@@ -4034,6 +4044,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**Scaling State-Space Models from Lines to Paragraphs: An Ablation of Mamba-based OCR**|Merveilles Agbeti-Messan et.al.|[2606.23524](http://arxiv.org/abs/2606.23524)|null|
+|**2026-06-22**|**Bayesian modelling of herd-level infection dynamics in cattle: Local spread as the primary driver of Salmonella Dublin persistence on Öland**|Stefan Widgren et.al.|[2606.23148](http://arxiv.org/abs/2606.23148)|null|
+|**2026-06-22**|**MambaADv2: Evolving Duality-enhanced State Space Model for Unsupervised Anomaly Detection**|Xiaobin Hu et.al.|[2606.23126](http://arxiv.org/abs/2606.23126)|null|
+|**2026-06-22**|**Non-intrusive nonlinear reduced-order modeling with variable projection**|Dimitrios Xylogiannis et.al.|[2606.23077](http://arxiv.org/abs/2606.23077)|null|
+|**2026-06-22**|**Physics-Guided Spatiotemporal State Space Modeling for Lookahead Molten Pool Segmentation in Laser Wire-Feed Welding**|Sen Li et.al.|[2606.23028](http://arxiv.org/abs/2606.23028)|null|
+|**2026-06-22**|**Learning Adaptive Dynamical Features via Multi- $τ$ Liquid-Mamba for All-in-one Image Restoration**|Hu Gao et.al.|[2606.22801](http://arxiv.org/abs/2606.22801)|null|
 |**2026-06-21**|**Bridging Self-Supervised Learning and Speech Enhancement: A Wav2Vec2-Conditioned Framework**|Shuubham Ojha et.al.|[2606.22591](http://arxiv.org/abs/2606.22591)|null|
 |**2026-06-21**|**All Routes Lead to Collapse**|K. R. Balasubramanian et.al.|[2606.22325](http://arxiv.org/abs/2606.22325)|null|
 |**2026-06-20**|**Temporal Coarse-Graining of Multi-Sector Default Count Data Generates Posterior-Implied Copulas**|Shintaro Mori et.al.|[2606.22162](http://arxiv.org/abs/2606.22162)|null|
