@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.06.23
+## Updated on 2026.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**From Open Waters to Enclosed Cabins: ProteusVPR for Cross-Scene Visual Place Recognition in Maritime Perception and Cabin Inspection**|Zexi Chena et.al.|[2606.24234](http://arxiv.org/abs/2606.24234)|null|
+|**2026-06-23**|**Overconfident Coordinates: Quantifying Confidence in Traceroute Geolocation**|Santiago Klein et.al.|[2606.24027](http://arxiv.org/abs/2606.24027)|null|
 |**2026-06-22**|**Low-Complexity Direct Geolocation of Terrestrial GNSS Jammers from Low Earth Orbit**|Giacomo Pojani et.al.|[2606.22751](http://arxiv.org/abs/2606.22751)|null|
 |**2026-06-20**|**Lexical Consensus: Grounded Word Learning and Shared Meaning in Artificial Agents**|Patricio M. Vera et.al.|[2606.22207](http://arxiv.org/abs/2606.22207)|null|
 |**2026-06-18**|**Multimodal Concept Bottleneck Models**|Tongqing Shi et.al.|[2606.19882](http://arxiv.org/abs/2606.19882)|**[link](https://github.com/YangYY-Liu/MMCBM)**|
@@ -1015,6 +1017,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation**|Haorui Ji et.al.|[2606.24874](http://arxiv.org/abs/2606.24874)|null|
+|**2026-06-23**|**OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis**|Chenrui Fan et.al.|[2606.24799](http://arxiv.org/abs/2606.24799)|null|
+|**2026-06-23**|**Pocket-SLAM: Rendering-Area-Aware Pruning for Memory-Efficient 3DGS-SLAM**|Leshu Li et.al.|[2606.24796](http://arxiv.org/abs/2606.24796)|null|
+|**2026-06-23**|**ArtiTwinSplat: Interactable Digital Twin Reconstruction via Gaussian Splatting from RGB-D videos**|Pranjal Mishra et.al.|[2606.24628](http://arxiv.org/abs/2606.24628)|null|
+|**2026-06-23**|**SignNet-1M: Large-Scale Multilingual Sign Language Video Dataset with Downstream Benchmarks**|Zhewen He et.al.|[2606.24361](http://arxiv.org/abs/2606.24361)|null|
+|**2026-06-23**|**Open-Vocabulary BEV Segmentation with 3D-Aware Geometric Constraints**|Hojun Choi et.al.|[2606.24353](http://arxiv.org/abs/2606.24353)|null|
+|**2026-06-23**|**MM-TRELLIS: Point-Cloud Guided Multi-Modal 3D Vehicle Generation in Autonomous Driving**|Hongli Xiao et.al.|[2606.24301](http://arxiv.org/abs/2606.24301)|null|
+|**2026-06-23**|**3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis**|Hongli Xiao et.al.|[2606.24257](http://arxiv.org/abs/2606.24257)|null|
+|**2026-06-23**|**Deep Learning Approaches for 3D Medical Scene Completion: From Geometric Modeling to Generative Paradigms**|Afifa Khaled et.al.|[2606.24180](http://arxiv.org/abs/2606.24180)|null|
+|**2026-06-23**|**Geometry-Aware Style Transfer in 3D Gaussian Splatting**|Min Hyeok Bang et.al.|[2606.24144](http://arxiv.org/abs/2606.24144)|null|
 |**2026-06-22**|**Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild**|Yehonathan Litman et.al.|[2606.23688](http://arxiv.org/abs/2606.23688)|null|
 |**2026-06-22**|**MeGAS: Thermomechanical Dynamic Gaussian Splatting for Thermophysical Scene Editing**|Zesong Yang et.al.|[2606.23455](http://arxiv.org/abs/2606.23455)|null|
 |**2026-06-22**|**Temporally Aware Densification for Dynamic 3D Gaussian Splatting**|Vikram Sandu et.al.|[2606.23212](http://arxiv.org/abs/2606.23212)|null|
@@ -2377,6 +2389,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**Pocket-SLAM: Rendering-Area-Aware Pruning for Memory-Efficient 3DGS-SLAM**|Leshu Li et.al.|[2606.24796](http://arxiv.org/abs/2606.24796)|null|
+|**2026-06-23**|**UniDrive: A Unified Vision-Language and Grounding Framework for Interpretable Risk Understanding in Autonomous Driving**|Xiaowei Gao et.al.|[2606.24759](http://arxiv.org/abs/2606.24759)|null|
+|**2026-06-23**|**Open-Vocabulary BEV Segmentation with 3D-Aware Geometric Constraints**|Hojun Choi et.al.|[2606.24353](http://arxiv.org/abs/2606.24353)|null|
+|**2026-06-23**|**MM-TRELLIS: Point-Cloud Guided Multi-Modal 3D Vehicle Generation in Autonomous Driving**|Hongli Xiao et.al.|[2606.24301](http://arxiv.org/abs/2606.24301)|null|
+|**2026-06-23**|**3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis**|Hongli Xiao et.al.|[2606.24257](http://arxiv.org/abs/2606.24257)|null|
+|**2026-06-23**|**Beyond Bayer: Task-Optimal Sensor Co-Design for Robust Autonomous-Driving Segmentation**|Reeshad Khan et.al.|[2606.24096](http://arxiv.org/abs/2606.24096)|null|
 |**2026-06-22**|**UECP: Uncertainty-Enhanced Collaborative Perception**|Kang Yang et.al.|[2606.23046](http://arxiv.org/abs/2606.23046)|null|
 |**2026-06-22**|**Humanoid-OmniOcc: Stereo-Based Full-View Occupancy Dataset for Embodied AI**|Xianda Guo et.al.|[2606.22971](http://arxiv.org/abs/2606.22971)|null|
 |**2026-06-22**|**Intend, Reflect, Refine: An Adaptive Multimodal Reflection Framework for Autonomous Driving**|Zisheng Chen et.al.|[2606.22913](http://arxiv.org/abs/2606.22913)|null|
@@ -4026,6 +4044,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**Learning Nonlinear Dynamics: Improving the Estimation Efficiency and Reliability of Gaussian Process State-Space Models**|Jan I. Failenschmid et.al.|[2606.24691](http://arxiv.org/abs/2606.24691)|null|
+|**2026-06-23**|**MambaRaw: Selective State Space Modeling for Efficient 4K Raw Image Reconstruction**|Peize Li et.al.|[2606.24479](http://arxiv.org/abs/2606.24479)|null|
+|**2026-06-22**|**Stochastic Expectation Maximization for Robust State-Space Radio Interferometric Imaging**|Nawel Arab et.al.|[2606.23944](http://arxiv.org/abs/2606.23944)|null|
 |**2026-06-22**|**Scaling State-Space Models from Lines to Paragraphs: An Ablation of Mamba-based OCR**|Merveilles Agbeti-Messan et.al.|[2606.23524](http://arxiv.org/abs/2606.23524)|null|
 |**2026-06-22**|**Bayesian modelling of herd-level infection dynamics in cattle: Local spread as the primary driver of Salmonella Dublin persistence on Öland**|Stefan Widgren et.al.|[2606.23148](http://arxiv.org/abs/2606.23148)|null|
 |**2026-06-22**|**MambaADv2: Evolving Duality-enhanced State Space Model for Unsupervised Anomaly Detection**|Xiaobin Hu et.al.|[2606.23126](http://arxiv.org/abs/2606.23126)|null|
