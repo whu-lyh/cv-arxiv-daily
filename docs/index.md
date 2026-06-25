@@ -2,18 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.06.24
+## Updated on 2026.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**SwarmFly: A simulation platform for UAV swarm experiment design and validation**|Abhishek Phadke et.al.|[2606.25146](http://arxiv.org/abs/2606.25146)|null|
 |**2026-06-23**|**From Open Waters to Enclosed Cabins: ProteusVPR for Cross-Scene Visual Place Recognition in Maritime Perception and Cabin Inspection**|Zexi Chena et.al.|[2606.24234](http://arxiv.org/abs/2606.24234)|null|
-|**2026-06-23**|**Overconfident Coordinates: Quantifying Confidence in Traceroute Geolocation**|Santiago Klein et.al.|[2606.24027](http://arxiv.org/abs/2606.24027)|null|
+|**2026-06-24**|**Overconfident Coordinates: Quantifying Confidence in Traceroute Geolocation**|Santiago Klein et.al.|[2606.24027](http://arxiv.org/abs/2606.24027)|null|
 |**2026-06-22**|**Low-Complexity Direct Geolocation of Terrestrial GNSS Jammers from Low Earth Orbit**|Giacomo Pojani et.al.|[2606.22751](http://arxiv.org/abs/2606.22751)|null|
 |**2026-06-20**|**Lexical Consensus: Grounded Word Learning and Shared Meaning in Artificial Agents**|Patricio M. Vera et.al.|[2606.22207](http://arxiv.org/abs/2606.22207)|null|
-|**2026-06-18**|**Multimodal Concept Bottleneck Models**|Tongqing Shi et.al.|[2606.19882](http://arxiv.org/abs/2606.19882)|**[link](https://github.com/YangYY-Liu/MMCBM)**|
+|**2026-06-18**|**Multimodal Concept Bottleneck Models**|Tongqing Shi et.al.|[2606.19882](http://arxiv.org/abs/2606.19882)|null|
 |**2026-06-18**|**Exploring Multi-Modal Large Language Models and Two-Stage Fine-Tuning for Fashion Image Retrieval**|Nguyen Cao Hoang et.al.|[2606.19684](http://arxiv.org/abs/2606.19684)|null|
 |**2026-06-17**|**Show, Don't Ask: Generative Visual Disambiguation for Composed Image Retrieval with Turn-Valid Coverage**|Amsisan Tran et.al.|[2606.18992](http://arxiv.org/abs/2606.18992)|null|
 |**2026-06-17**|**LARE: Low-Attention Region Encoding for Text-Image Retrieval**|Abdulmalik Alquwayfili et.al.|[2606.18885](http://arxiv.org/abs/2606.18885)|null|
@@ -1017,6 +1018,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-24**|**Gastroendoscopy View Synthesis: A New Real Dataset and Evaluation**|Masaki Minai et.al.|[2606.25427](http://arxiv.org/abs/2606.25427)|null|
 |**2026-06-23**|**FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation**|Haorui Ji et.al.|[2606.24874](http://arxiv.org/abs/2606.24874)|null|
 |**2026-06-23**|**OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis**|Chenrui Fan et.al.|[2606.24799](http://arxiv.org/abs/2606.24799)|null|
 |**2026-06-23**|**Pocket-SLAM: Rendering-Area-Aware Pruning for Memory-Efficient 3DGS-SLAM**|Leshu Li et.al.|[2606.24796](http://arxiv.org/abs/2606.24796)|null|
@@ -2389,6 +2391,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-24**|**G2DP: Diffusion Planning with Spatio-Temporal Grid Guidance**|Hang Yu et.al.|[2606.26017](http://arxiv.org/abs/2606.26017)|null|
+|**2026-06-24**|**DSP-SLAM++: A Unified Framework for Multi-Class, High-Fidelity Object SLAM in the Wild**|Ahmad Kourani et.al.|[2606.25953](http://arxiv.org/abs/2606.25953)|null|
+|**2026-06-24**|**UniTeD: Unified Temporal Diffusion for Joint Perception and Planning in Autonomous Driving**|Bo Zhao et.al.|[2606.25736](http://arxiv.org/abs/2606.25736)|null|
+|**2026-06-24**|**Auto-Labelling-Based Domain Transfer for 3D Object Detection on a Bicycle-Mounted LiDAR Platform**|Mario Finkbeiner et.al.|[2606.25652](http://arxiv.org/abs/2606.25652)|null|
+|**2026-06-24**|**Reasonable Motion: A General ASP Foundation for Environment Constrained Movement Trajectory Computation**|Julius Monsen et.al.|[2606.25626](http://arxiv.org/abs/2606.25626)|null|
+|**2026-06-24**|**ASSCG: Just-Right Gating over Chattering for Fast-Slow LLM Planning in Autonomous Driving**|Sining Ang et.al.|[2606.25509](http://arxiv.org/abs/2606.25509)|null|
+|**2026-06-24**|**SafeGen: LLM-Driven Assertion Generation and Fault Criticality Evaluation for Functional Safety**|Xuanyi Tan et.al.|[2606.25296](http://arxiv.org/abs/2606.25296)|null|
+|**2026-06-23**|**Tensor-Based Batch Fuzzing with Adaptive Perturbation Scaling for Deep Neural Networks**|Guanqin Zhang et.al.|[2606.25239](http://arxiv.org/abs/2606.25239)|null|
+|**2026-06-23**|**Causality-Based Parametric Control Barrier Function for Safe Multi-Vehicle Interaction**|Yiwei Lyu et.al.|[2606.25134](http://arxiv.org/abs/2606.25134)|null|
+|**2026-06-23**|**Reward-Conditioned Attention: How Reward Design Shapes What Autonomous Driving Agents See**|Mohamed Benabdelouahad et.al.|[2606.25127](http://arxiv.org/abs/2606.25127)|null|
+|**2026-06-23**|**Towards Scalable Multi-Task Reinforcement Learning with Large Decision Models**|Thibaut Kulak et.al.|[2606.24962](http://arxiv.org/abs/2606.24962)|null|
 |**2026-06-23**|**Pocket-SLAM: Rendering-Area-Aware Pruning for Memory-Efficient 3DGS-SLAM**|Leshu Li et.al.|[2606.24796](http://arxiv.org/abs/2606.24796)|null|
 |**2026-06-23**|**UniDrive: A Unified Vision-Language and Grounding Framework for Interpretable Risk Understanding in Autonomous Driving**|Xiaowei Gao et.al.|[2606.24759](http://arxiv.org/abs/2606.24759)|null|
 |**2026-06-23**|**Open-Vocabulary BEV Segmentation with 3D-Aware Geometric Constraints**|Hojun Choi et.al.|[2606.24353](http://arxiv.org/abs/2606.24353)|null|
@@ -4044,6 +4057,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-24**|**Lifelong In-Context Learning with Transformers Requires Parametric Forms of Attention**|Luke McDermott et.al.|[2606.25342](http://arxiv.org/abs/2606.25342)|null|
+|**2026-06-24**|**State Space Models Meet Remote Sensing: A Survey**|Qinzhe Yang et.al.|[2606.25329](http://arxiv.org/abs/2606.25329)|null|
+|**2026-06-24**|**Efficient Remote Sensing Instance Segmentation with Linear-Time State Space Distilled Visual Foundation Models**|Qinzhe Yang et.al.|[2606.25324](http://arxiv.org/abs/2606.25324)|null|
 |**2026-06-23**|**Learning Nonlinear Dynamics: Improving the Estimation Efficiency and Reliability of Gaussian Process State-Space Models**|Jan I. Failenschmid et.al.|[2606.24691](http://arxiv.org/abs/2606.24691)|null|
 |**2026-06-23**|**MambaRaw: Selective State Space Modeling for Efficient 4K Raw Image Reconstruction**|Peize Li et.al.|[2606.24479](http://arxiv.org/abs/2606.24479)|null|
 |**2026-06-22**|**Stochastic Expectation Maximization for Robust State-Space Radio Interferometric Imaging**|Nawel Arab et.al.|[2606.23944](http://arxiv.org/abs/2606.23944)|null|
