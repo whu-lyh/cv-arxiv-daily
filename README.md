@@ -1,4 +1,4 @@
-## Updated on 2026.06.28
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,12 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-25**|**Tessellating The Earth**|Daniel Cher et.al.|[2606.27514](http://arxiv.org/abs/2606.27514)|null|
 |**2026-06-23**|**SwarmFly: A simulation platform for UAV swarm experiment design and validation**|Abhishek Phadke et.al.|[2606.25146](http://arxiv.org/abs/2606.25146)|null|
 |**2026-06-23**|**From Open Waters to Enclosed Cabins: ProteusVPR for Cross-Scene Visual Place Recognition in Maritime Perception and Cabin Inspection**|Zexi Chena et.al.|[2606.24234](http://arxiv.org/abs/2606.24234)|null|
 |**2026-06-24**|**Overconfident Coordinates: Quantifying Confidence in Traceroute Geolocation**|Santiago Klein et.al.|[2606.24027](http://arxiv.org/abs/2606.24027)|null|
 |**2026-06-22**|**Low-Complexity Direct Geolocation of Terrestrial GNSS Jammers from Low Earth Orbit**|Giacomo Pojani et.al.|[2606.22751](http://arxiv.org/abs/2606.22751)|null|
 |**2026-06-20**|**Lexical Consensus: Grounded Word Learning and Shared Meaning in Artificial Agents**|Patricio M. Vera et.al.|[2606.22207](http://arxiv.org/abs/2606.22207)|null|
-|**2026-06-18**|**Multimodal Concept Bottleneck Models**|Tongqing Shi et.al.|[2606.19882](http://arxiv.org/abs/2606.19882)|null|
+|**2026-06-18**|**Multimodal Concept Bottleneck Models**|Tongqing Shi et.al.|[2606.19882](http://arxiv.org/abs/2606.19882)|**[link](https://github.com/YangYY-Liu/MMCBM)**|
 |**2026-06-18**|**Exploring Multi-Modal Large Language Models and Two-Stage Fine-Tuning for Fashion Image Retrieval**|Nguyen Cao Hoang et.al.|[2606.19684](http://arxiv.org/abs/2606.19684)|null|
 |**2026-06-17**|**Show, Don't Ask: Generative Visual Disambiguation for Composed Image Retrieval with Turn-Valid Coverage**|Amsisan Tran et.al.|[2606.18992](http://arxiv.org/abs/2606.18992)|null|
 |**2026-06-17**|**LARE: Low-Attention Region Encoding for Text-Image Retrieval**|Abdulmalik Alquwayfili et.al.|[2606.18885](http://arxiv.org/abs/2606.18885)|null|
@@ -816,7 +817,7 @@
 |**2018-05-16**|**Visual Global Localization with a Hybrid WNN-CNN Approach**|Avelino Forechi et.al.|[1805.03183](http://arxiv.org/abs/1805.03183)|**[link](https://github.com/LCAD-UFES/WNN-CNN-GL)**|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Point Cloud Place Recognition
 
@@ -925,12 +926,13 @@
 |**2020-08-04**|**PIC-Net: Point Cloud and Image Collaboration Network for Large-Scale Place Recognition**|Yuheng Lu et.al.|[2008.00658](http://arxiv.org/abs/2008.00658)|null|
 |**2020-07-06**|**LOL: Lidar-Only Odometry and Localization in 3D Point Cloud Maps**|David Rozenberszki et.al.|[2007.01595](http://arxiv.org/abs/2007.01595)|**[link](https://github.com/RozDavid/LOL)**|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Cross-modality Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-25**|**DeLux: Cross-Modal Local Artifact Restoration in Video Using Neuromorphic Data**|Bartosz Stachowiak et.al.|[2606.27576](http://arxiv.org/abs/2606.27576)|null|
 |**2026-06-25**|**Modeling Local, Global, and Cross-Modal Context in Multimodal 3D MRI**|Minh Duc Do et.al.|[2606.26894](http://arxiv.org/abs/2606.26894)|null|
 |**2026-05-12**|**Interactive State Space Model with Cross-Modal Local Scanning for Depth Super-Resolution**|Chen Wu et.al.|[2605.11934](http://arxiv.org/abs/2605.11934)|null|
 |**2026-03-08**|**TAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events**|Jiaxiong Liu et.al.|[2603.04989](http://arxiv.org/abs/2603.04989)|null|
@@ -1027,12 +1029,15 @@
 |**2021-07-28**|**Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization**|Fa-Ting Hong et.al.|[2107.12589](http://arxiv.org/abs/2107.12589)|null|
 |**2020-09-15**|**RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization**|Niluthpol Chowdhury Mithun et.al.|[2009.05695](http://arxiv.org/abs/2009.05695)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## 3D GS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-26**|**StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views**|Jia-Chen Zhao et.al.|[2606.28321](http://arxiv.org/abs/2606.28321)|null|
+|**2026-06-25**|**CoIn: Comprehensive 2D-3D Inpainting with Gaussian Splatting Guidance**|Hana Kim et.al.|[2606.27584](http://arxiv.org/abs/2606.27584)|null|
+|**2026-06-25**|**Structured-Li-GS: Structured 3D Gaussians Splatting with LiDAR Incorporation and Spatial Constraints**|Huaiyuan Weng et.al.|[2606.27509](http://arxiv.org/abs/2606.27509)|null|
 |**2026-06-25**|**SatSplatDiff: Geometry-preserving generative refinement for high-fidelity satellite Gaussian Splatting**|Jiyong Kim et.al.|[2606.27223](http://arxiv.org/abs/2606.27223)|null|
 |**2026-06-25**|**Vis4GS: A Visual Analytic Tool for 3D Gaussian Splatting Reconstruction**|Kai-Yuan Lin et.al.|[2606.26985](http://arxiv.org/abs/2606.26985)|null|
 |**2026-06-25**|**Capacity-Controlled Multi-View Stylization of 3D Gaussian Splatting**|Zhihao Wen et.al.|[2606.26754](http://arxiv.org/abs/2606.26754)|null|
@@ -2406,12 +2411,17 @@
 |**2024-03-26**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095](http://arxiv.org/abs/2403.16095)|null|
 |**2024-04-09**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700](http://arxiv.org/abs/2311.11700)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-26**|**Long-Term Prediction of Local and Global Human Motion with Occlusion Recovery**|Qiaoyue Yang et.al.|[2606.27900](http://arxiv.org/abs/2606.27900)|null|
+|**2026-06-26**|**MVPruner: Dynamic Token Pruning for Accelerating Multi-view Vision-Language Models in Autonomous Driving**|Nan Yang et.al.|[2606.27660](http://arxiv.org/abs/2606.27660)|null|
+|**2026-06-26**|**CascadeOcc: Rethinking 3D Occupancy World Models with Cascaded VQ Representations**|Kyumin Hwang et.al.|[2606.27644](http://arxiv.org/abs/2606.27644)|null|
+|**2026-06-25**|**Understanding Cross-Rig Generalization in Automotive Perception: a Multi-Rig Benchmark and Rig Variation Metrics**|Tim Alexander Bader et.al.|[2606.27554](http://arxiv.org/abs/2606.27554)|null|
+|**2026-06-25**|**ReWorld: Learning Better Representations for World Action Models**|Tianze Xia et.al.|[2606.27504](http://arxiv.org/abs/2606.27504)|null|
 |**2026-06-25**|**LAMP: Lane-Aligned Motion Primitives for Feasible Trajectory Prediction**|Sangjin Han et.al.|[2606.26661](http://arxiv.org/abs/2606.26661)|null|
 |**2026-06-25**|**Revisiting Action Factorization for Complex Action Spaces**|Timothy Flavin et.al.|[2606.26574](http://arxiv.org/abs/2606.26574)|null|
 |**2026-06-24**|**Towards Safety-Aware Mutation Testing for Autonomous Driving Systems**|Donghwan Shin et.al.|[2606.26456](http://arxiv.org/abs/2606.26456)|null|
@@ -4078,12 +4088,14 @@
 |**2019-09-18**|**A*3D Dataset: Towards Autonomous Driving in Challenging Environments**|Quang-Hieu Pham et.al.|[1909.07541](http://arxiv.org/abs/1909.07541)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 ## Mamba
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-26**|**Higher-Order Fourier Neural Operator: Explicit Mode Mixer for Nonlinear PDEs**|Alex Colagrande et.al.|[2606.28122](http://arxiv.org/abs/2606.28122)|null|
+|**2026-06-26**|**MASS: Motion-Aligned Selective Scan for Refinement in Flow-Based Video Frame Interpolation**|Jun-Sang Yoo et.al.|[2606.27718](http://arxiv.org/abs/2606.27718)|null|
 |**2026-06-25**|**Liquid Fusion of Heterogeneous Representations Towards General Salient Object Detection**|Ke Chen et.al.|[2606.26849](http://arxiv.org/abs/2606.26849)|null|
 |**2026-06-25**|**Data-driven inference of Hopf normal form representations from oscillatory time series**|Shinsuke Koyama et.al.|[2606.26847](http://arxiv.org/abs/2606.26847)|null|
 |**2026-06-24**|**A probabilistic framework for online test-time adaptation**|Daniel Corrales et.al.|[2606.26457](http://arxiv.org/abs/2606.26457)|null|
@@ -5059,5 +5071,5 @@
 |**2024-11-26**|**PointMamba: A Simple State Space Model for Point Cloud Analysis**|Dingkang Liang et.al.|[2402.10739](http://arxiv.org/abs/2402.10739)|**[link](https://github.com/LMD0311/PointMamba)**|
 |**2024-11-15**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|**[link](https://github.com/hustvl/Vim)**|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
