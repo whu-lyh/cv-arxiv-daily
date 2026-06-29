@@ -34,7 +34,7 @@
 |**2026-06-11**|**VietFashion: Benchmarking Sketch-Text Composed Image Retrieval for Cultural Outfits**|Hoang-Nguyen Cao et.al.|[2606.13427](http://arxiv.org/abs/2606.13427)|null|
 |**2026-06-11**|**Visual Place Recognition in Forests with Depth-Aware Distillation**|Walter Nedov et.al.|[2606.13206](http://arxiv.org/abs/2606.13206)|null|
 |**2026-06-10**|**Bridging the Modality Gap in Forensic Image Retrieval**|Ricardo González-Gazapo et.al.|[2606.12294](http://arxiv.org/abs/2606.12294)|null|
-|**2026-06-10**|**SG2Loc: Sequential Visual Localization on 3D Scene Graphs**|Nicole Damblon et.al.|[2606.11880](http://arxiv.org/abs/2606.11880)|null|
+|**2026-06-10**|**SG2Loc: Sequential Visual Localization on 3D Scene Graphs**|Nicole Damblon et.al.|[2606.11880](http://arxiv.org/abs/2606.11880)|**[link](https://github.com/DmblnNicole/sg2loc)**|
 |**2026-06-10**|**RankVR: Low-Rank Structure Perception and Value Recalibration for Robust Composed Image Retrieval**|Jiale Huang et.al.|[2606.11689](http://arxiv.org/abs/2606.11689)|null|
 |**2026-06-09**|**Beyond Patches: Superpixel Token-based Transformers for Attribute-Specific Fashion Retrieval**|Shuili Zhang et.al.|[2606.10697](http://arxiv.org/abs/2606.10697)|null|
 |**2026-06-08**|**CRANE: Knowledge Editing for Reasoning MLLMs**|Han Huang et.al.|[2606.09033](http://arxiv.org/abs/2606.09033)|null|
@@ -1819,7 +1819,7 @@
 |**2025-12-29**|**Contour Information Aware 2D Gaussian Splatting for Image Representation**|Masaya Takabe et.al.|[2512.23255](http://arxiv.org/abs/2512.23255)|null|
 |**2025-12-29**|**GVSynergy-Det: Synergistic Gaussian-Voxel Representations for Multi-View 3D Object Detection**|Yi Zhang et.al.|[2512.23176](http://arxiv.org/abs/2512.23176)|null|
 |**2025-12-30**|**Differentiable Physics-Driven Human Representation for Millimeter-Wave Based Pose Estimation**|Shuntian Zheng et.al.|[2512.23054](http://arxiv.org/abs/2512.23054)|null|
-|**2025-12-28**|**Hash Grid Feature Pruning**|Yangzhi Ma et.al.|[2512.22882](http://arxiv.org/abs/2512.22882)|null|
+|**2025-12-28**|**Hash Grid Feature Pruning**|Yangzhi Ma et.al.|[2512.22882](http://arxiv.org/abs/2512.22882)|**[link](https://github.com/jgamble77/REST-API)**|
 |**2025-12-28**|**Next Best View Selections for Semantic and Dynamic 3D Gaussian Splatting**|Yiqian Li et.al.|[2512.22771](http://arxiv.org/abs/2512.22771)|null|
 |**2025-12-27**|**SCPainter: A Unified Framework for Realistic 3D Asset Insertion and Novel View Synthesis**|Paul Dobre et.al.|[2512.22706](http://arxiv.org/abs/2512.22706)|null|
 |**2025-12-30**|**Tracking by Predicting 3-D Gaussians Over Time**|Tanish Baranwal et.al.|[2512.22489](http://arxiv.org/abs/2512.22489)|null|
@@ -2595,8 +2595,8 @@
 |**2026-05-24**|**Scaling up Energy-Aware Multi-Agent Reinforcement Learning for Mission-Oriented Drone Networks with Individual Reward**|Changling Li et.al.|[2605.24992](http://arxiv.org/abs/2605.24992)|null|
 |**2026-05-24**|**ARCANE-PedSynth: Synthetic Multi-Pedestrian Datasets with Behavioural Crossing Annotations**|Muhammad Naveed Riaz et.al.|[2605.24950](http://arxiv.org/abs/2605.24950)|null|
 |**2026-05-23**|**PEDESTRIANQA: A Benchmark for Vision-Language Models on Pedestrian Intention and Trajectory Prediction**|Naman Mishra et.al.|[2605.24562](http://arxiv.org/abs/2605.24562)|null|
-|**2026-05-23**|**SparseWorld: Enhancing End-to-End Autonomous Driving via World Models with Sparse Scene Representation**|Ruoyu Wang et.al.|[2605.24354](http://arxiv.org/abs/2605.24354)|null|
-|**2026-05-22**|**D2-V2X: Depth-Driven Cooperative V2X Reasoning for Autonomous Driving**|Kevin Richard et.al.|[2605.24098](http://arxiv.org/abs/2605.24098)|null|
+|**2026-05-23**|**SparseWorld: Enhancing End-to-End Autonomous Driving via World Models with Sparse Scene Representation**|Ruoyu Wang et.al.|[2605.24354](http://arxiv.org/abs/2605.24354)|**[link](https://github.com/SparseWorld/SparseWorld)**|
+|**2026-05-22**|**D2-V2X: Depth-Driven Cooperative V2X Reasoning for Autonomous Driving**|Kevin Richard et.al.|[2605.24098](http://arxiv.org/abs/2605.24098)|**[link](https://github.com/KevinRichard1/D2-V2X)**|
 |**2026-05-22**|**To Overlay or to Customize? Revisiting Architectural Choices in Heterogeneous Systems**|Xingzhen Chen et.al.|[2605.23630](http://arxiv.org/abs/2605.23630)|null|
 |**2026-05-22**|**RS2AD-LiDAR: End-to-End Autonomous Driving LiDAR Data Generation from Roadside Sensor Observations**|Runyi Huang et.al.|[2605.23406](http://arxiv.org/abs/2605.23406)|null|
 |**2026-05-22**|**GFSR: Geometric Fidelity and Spatial Refinement for Reliable Lane Detection**|Tiancheng Wang et.al.|[2605.23327](http://arxiv.org/abs/2605.23327)|null|
@@ -2947,7 +2947,7 @@
 |**2026-03-24**|**Gau-Occ: Geometry-Completed Gaussians for Multi-Modal 3D Occupancy Prediction**|Chengxin Lv et.al.|[2603.22852](http://arxiv.org/abs/2603.22852)|null|
 |**2026-03-24**|**Typography-Based Monocular Distance Estimation Framework for Vehicle Safety Systems**|Manognya Lokesh Reddy et.al.|[2603.22781](http://arxiv.org/abs/2603.22781)|null|
 |**2026-03-23**|**LRC-WeatherNet: LiDAR, RADAR, and Camera Fusion Network for Real-time Weather-type Classification in Autonomous Driving**|Nour Alhuda Albashir et.al.|[2603.21987](http://arxiv.org/abs/2603.21987)|null|
-|**2026-03-23**|**The Golden Subspace: Where Efficiency Meets Generalization in Continual Test-Time Adaptation**|Guannan Lai et.al.|[2603.21928](http://arxiv.org/abs/2603.21928)|null|
+|**2026-03-23**|**The Golden Subspace: Where Efficiency Meets Generalization in Continual Test-Time Adaptation**|Guannan Lai et.al.|[2603.21928](http://arxiv.org/abs/2603.21928)|**[link](https://github.com/AIGNLAI/GOLD)**|
 |**2026-03-23**|**Disengagement Analysis and Field Tests of a Prototypical Open-Source Level 4 Autonomous Driving System**|Marvin Seegert et.al.|[2603.21926](http://arxiv.org/abs/2603.21926)|null|
 |**2026-03-23**|**Cross-Scenario Deraining Adaptation with Unpaired Data: Superpixel Structural Priors and Multi-Stage Pseudo-Rain Synthesis**|Kangbo Zhao et.al.|[2603.21661](http://arxiv.org/abs/2603.21661)|null|
 |**2026-03-23**|**HACMatch Semi-Supervised Rotation Regression with Hardness-Aware Curriculum Pseudo Labeling**|Mei Li et.al.|[2603.21583](http://arxiv.org/abs/2603.21583)|null|
@@ -3703,7 +3703,7 @@
 |**2025-11-13**|**Safe Planning in Interactive Environments via Iterative Policy Updates and Adversarially Robust Conformal Prediction**|Omid Mirzaeedodangeh et.al.|[2511.10586](http://arxiv.org/abs/2511.10586)|null|
 |**2025-11-13**|**LongComp: Long-Tail Compositional Zero-Shot Generalization for Robust Trajectory Prediction**|Benjamin Stoler et.al.|[2511.10411](http://arxiv.org/abs/2511.10411)|null|
 |**2025-11-13**|**nuPlan-R: A Closed-Loop Planning Benchmark for Autonomous Driving via Reactive Multi-Agent Simulation**|Mingxing Peng et.al.|[2511.10403](http://arxiv.org/abs/2511.10403)|null|
-|**2025-11-13**|**AgentEvolver: Towards Efficient Self-Evolving Agent System**|Yunpeng Zhai et.al.|[2511.10395](http://arxiv.org/abs/2511.10395)|null|
+|**2025-11-13**|**AgentEvolver: Towards Efficient Self-Evolving Agent System**|Yunpeng Zhai et.al.|[2511.10395](http://arxiv.org/abs/2511.10395)|**[link](https://github.com/modelscope/AgentEvolver)**|
 |**2025-11-13**|**Operator Models for Continuous-Time Offline Reinforcement Learning**|Nicolas Hoischen et.al.|[2511.10383](http://arxiv.org/abs/2511.10383)|null|
 |**2025-11-13**|**Physically Interpretable Multi-Degradation Image Restoration via Deep Unfolding and Explainable Convolution**|Hu Gao et.al.|[2511.10166](http://arxiv.org/abs/2511.10166)|null|
 |**2025-11-13**|**Trapped by Their Own Light: Deployable and Stealth Retroreflective Patch Attacks on Traffic Sign Recognition Systems**|Go Tsuruoka et.al.|[2511.10050](http://arxiv.org/abs/2511.10050)|null|
@@ -4831,7 +4831,7 @@
 |**2025-11-18**|**D-PerceptCT: Deep Perceptual Enhancement for Low-Dose CT Images**|Taifour Yousra Nabila et.al.|[2511.14518](http://arxiv.org/abs/2511.14518)|null|
 |**2025-11-18**|**Full Atom Peptide Design via Riemannian Euclidean Bayesian Flow Networks**|Hao Qian et.al.|[2511.14516](http://arxiv.org/abs/2511.14516)|null|
 |**2025-11-18**|**Parameter Aware Mamba Model for Multi-task Dense Prediction**|Xinzhuo Yu et.al.|[2511.14503](http://arxiv.org/abs/2511.14503)|null|
-|**2025-11-18**|**An introduction to Coupling**|Artur O. Lopes et.al.|[2511.14489](http://arxiv.org/abs/2511.14489)|null|
+|**2025-11-18**|**An introduction to Coupling**|Artur O. Lopes et.al.|[2511.14489](http://arxiv.org/abs/2511.14489)|**[link](https://github.com/javonn13/AWS-Basic-for-Beginners)**|
 |**2025-11-18**|**Towards a Comprehensive Theory of Reservoir Computing**|Denis Kleyko et.al.|[2511.14484](http://arxiv.org/abs/2511.14484)|null|
 |**2025-11-18**|**Segmentation-Aware Latent Diffusion for Satellite Image Super-Resolution: Enabling Smallholder Farm Boundary Delineation**|Aditi Agarwal et.al.|[2511.14481](http://arxiv.org/abs/2511.14481)|null|
 |**2025-11-18**|**Hölder regularity in bang-bang type affine optimal control problems**|Alberto Domínguez Corella et.al.|[2511.14459](http://arxiv.org/abs/2511.14459)|null|
