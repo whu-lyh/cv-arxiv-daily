@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.06.30
+## Updated on 2026.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**Thinking Before Retrieving: Robust Zero-Shot Composed Image Retrieval via Strategic Planning and Self-Criticism**|Gunho Jung et.al.|[2606.31222](http://arxiv.org/abs/2606.31222)|null|
+|**2026-06-30**|**Seeing Through the Weights: Privacy Leakage in Scene Coordinate Regression**|Oleksii Nasypanyi et.al.|[2606.31164](http://arxiv.org/abs/2606.31164)|**[link](https://github.com/LexaNagiBator228/Seeing-Through-the-Weights)**|
+|**2026-06-30**|**AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images**|Meng Yang et.al.|[2606.31077](http://arxiv.org/abs/2606.31077)|null|
 |**2026-06-29**|**High-Resolution Flood Mapping With Sentinel-1 and Sentinel-2 via Misalignment-Robust Cross-Sensor Learning and Generative Despeckling**|David Ma et.al.|[2606.30511](http://arxiv.org/abs/2606.30511)|null|
 |**2026-06-29**|**Cross-Resolution Semantic Transfer for Robust Text-to-Image Retrieval in Low-Resolution Surveillance**|Wenjie Qian et.al.|[2606.30458](http://arxiv.org/abs/2606.30458)|null|
 |**2026-06-25**|**Tessellating The Earth**|Daniel Cher et.al.|[2606.27514](http://arxiv.org/abs/2606.27514)|null|
@@ -821,7 +824,7 @@ layout: default
 |**2026-04-02**|**Riemannian and Symplectic Geometry for Hierarchical Text-Driven Place Recognition**|Tianyi Shang et.al.|[2604.01598](http://arxiv.org/abs/2604.01598)|null|
 |**2026-03-16**|**Voronoi-based Second-order Descriptor with Whitened Metric in LiDAR Place Recognition**|Jaein Kim et.al.|[2603.14974](http://arxiv.org/abs/2603.14974)|null|
 |**2026-06-15**|**RLPR: Radar-to-LiDAR Place Recognition via Two-Stage Asymmetric Cross-Modal Alignment for Autonomous Driving**|Zhangshuo Qi et.al.|[2603.07920](http://arxiv.org/abs/2603.07920)|null|
-|**2026-06-28**|**PROBE: Probabilistic Occupancy BEV Encoding with Analytical Translation Robustness for 3D Place Recognition**|Jinseop Lee et.al.|[2603.05965](http://arxiv.org/abs/2603.05965)|null|
+|**2026-06-30**|**PROBE: Probabilistic Occupancy BEV Encoding with Analytical Translation Robustness for 3D Place Recognition**|Jinseop Lee et.al.|[2603.05965](http://arxiv.org/abs/2603.05965)|null|
 |**2026-01-29**|**Advanced techniques and applications of LiDAR Place Recognition in Agricultural Environments: A Comprehensive Survey**|Judith Vilella-Cantos et.al.|[2601.22198](http://arxiv.org/abs/2601.22198)|null|
 |**2026-04-22**|**Low Cost, High Efficiency: LiDAR Place Recognition in Vineyards with Matryoshka Representation Learning**|Judith Vilella-Cantos et.al.|[2601.18714](http://arxiv.org/abs/2601.18714)|null|
 |**2025-12-05**|**NormalView: sensor-agnostic tree species classification from backpack and aerial lidar data using geometric projections**|Juho Korkeala et.al.|[2512.05610](http://arxiv.org/abs/2512.05610)|null|
@@ -1023,6 +1026,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**PointSplat: Compact Gaussian Splatting via Human-Centric Prediction**|Yujie Guo et.al.|[2606.32036](http://arxiv.org/abs/2606.32036)|null|
+|**2026-06-30**|**Practical High-Fidelity Novel-View Synthesis of Mounted Lepidoptera**|Kristof Overdulve et.al.|[2606.31679](http://arxiv.org/abs/2606.31679)|null|
+|**2026-06-30**|**Intrinsic decomposition and editing of 3D Gaussian splats**|Alexandre Lanvin et.al.|[2606.31637](http://arxiv.org/abs/2606.31637)|null|
+|**2026-06-30**|**AugSplat: Radiance Field-Informed Gaussian Splatting for Sparse-View Settings**|Lorenzo Lazzaroni et.al.|[2606.31556](http://arxiv.org/abs/2606.31556)|null|
+|**2026-06-30**|**Learning Video Dynamics with Predictive Differentiable Rendering**|Yujin Tang et.al.|[2606.31050](http://arxiv.org/abs/2606.31050)|null|
+|**2026-06-29**|**GRay: Ray Tracing 3D Gaussians Near the Speed of Splats**|Yohan Poirier-Ginter et.al.|[2606.30869](http://arxiv.org/abs/2606.30869)|null|
+|**2026-06-29**|**Editable Physically-based Reflections in Raytraced Gaussian Radiance Fields**|Yohan Poirier-Ginter et.al.|[2606.30861](http://arxiv.org/abs/2606.30861)|null|
+|**2026-06-29**|**GaussLite: Online Task-Conditioned 3D Gaussian Splatting for Real-Time Robotic Mapping**|Annika Thomas et.al.|[2606.30809](http://arxiv.org/abs/2606.30809)|null|
 |**2026-06-29**|**VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes**|Yen-Jen Wang et.al.|[2606.30645](http://arxiv.org/abs/2606.30645)|null|
 |**2026-06-29**|**Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors**|Jameel Hassan et.al.|[2606.30638](http://arxiv.org/abs/2606.30638)|null|
 |**2026-06-29**|**StereoGS: Sparse-View 3D Gaussian Splatting via Stereo Priors**|Wenhao Yuan et.al.|[2606.30545](http://arxiv.org/abs/2606.30545)|null|
@@ -2428,6 +2439,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation**|Junzhe Jiang et.al.|[2606.31918](http://arxiv.org/abs/2606.31918)|null|
+|**2026-06-30**|**SENSE-VAD: Sentient and Semantic Video Anomaly Detection for Autonomous Driving**|Nghia T. Nguyen et.al.|[2606.31875](http://arxiv.org/abs/2606.31875)|null|
+|**2026-06-30**|**Real-Time Source-Free Object Detection**|Sairam VCR et.al.|[2606.31834](http://arxiv.org/abs/2606.31834)|null|
+|**2026-06-30**|**PriorEye: Geospatial Visual Priors for End-to-End Autonomous Driving**|Kyuhwan Yeon et.al.|[2606.31830](http://arxiv.org/abs/2606.31830)|null|
+|**2026-06-30**|**Gaussian Belief Propagation for Tracking With Unresolved Measurements**|Augustin A. Saucan et.al.|[2606.31716](http://arxiv.org/abs/2606.31716)|null|
+|**2026-06-30**|**Semantic Occupancy Prediction with Dual Range-Voxel Representation**|Sitao Chen et.al.|[2606.31688](http://arxiv.org/abs/2606.31688)|null|
+|**2026-06-30**|**From Failure to Alignment: A Requirements Engineering Framework for Machine Learning Systems**|Amel Bennaceur et.al.|[2606.31589](http://arxiv.org/abs/2606.31589)|null|
+|**2026-06-30**|**Support of Teleoperated Driving with 5G Networks**|M. Carmen Lucas-Estañ et.al.|[2606.31512](http://arxiv.org/abs/2606.31512)|null|
+|**2026-06-30**|**DrivingDepth: Sparse-Prompted Pixel-wise Scale Correction for Driving Depth Estimation**|Chi Huang et.al.|[2606.31488](http://arxiv.org/abs/2606.31488)|null|
+|**2026-06-30**|**Failure-Based Testing for Deep Reinforcement Learning Agents**|Weibin Lin et.al.|[2606.31372](http://arxiv.org/abs/2606.31372)|null|
+|**2026-06-30**|**ForgeDrive: Bidirectional Cross-Conditioning for Unified Visual-Action Generation in Autonomous Driving**|Xuchang Zhong et.al.|[2606.31226](http://arxiv.org/abs/2606.31226)|null|
+|**2026-06-30**|**Long-term Traffic Simulation via Structured Autoregressive Modeling**|Lingyu Xiao et.al.|[2606.31209](http://arxiv.org/abs/2606.31209)|null|
+|**2026-06-30**|**GaussianMap: Learning Gaussian Representation for Multi-Sensor Online HD Map Construction**|Hongyu Lyu et.al.|[2606.31177](http://arxiv.org/abs/2606.31177)|null|
+|**2026-06-30**|**HSDF-Lane: Height-Aligned Signed Distance Field with Semantic Lane Prior for 3D Lane Detection**|Jiyong Boo et.al.|[2606.31172](http://arxiv.org/abs/2606.31172)|null|
+|**2026-06-30**|**Reasoning-aware Speculative Decoding for Efficient Vision-Language-Action Models in Autonomous Driving**|Anh Dung Dinh et.al.|[2606.31160](http://arxiv.org/abs/2606.31160)|null|
+|**2026-06-30**|**Scenario Generation for Testing of Autonomous Driving Systems Using Real-World Failure Records**|Anjali Parashar et.al.|[2606.31131](http://arxiv.org/abs/2606.31131)|null|
+|**2026-06-30**|**InfiniVerse: Occupancy Guided Unbounded Scene Generation for Autonomous Driving**|Xiaoyu Ye et.al.|[2606.31109](http://arxiv.org/abs/2606.31109)|null|
+|**2026-06-30**|**What Probing Reveals about Autonomous Driving: Linking Internal Prediction Errors to Ego Planning**|Hyeonchang Jeon et.al.|[2606.31106](http://arxiv.org/abs/2606.31106)|null|
+|**2026-06-30**|**Horizon3D: Sparse Radar-Camera Fusion for Long-Range 3D Perception in Autonomous Driving**|Geonho Bang et.al.|[2606.31096](http://arxiv.org/abs/2606.31096)|null|
+|**2026-06-29**|**Knowledge-Driven Dimension Estimation from a Single Image -3D Asset Generation Technology for Digital Twin Construction**|Hidenori Sakaniwa et.al.|[2606.30896](http://arxiv.org/abs/2606.30896)|null|
 |**2026-06-29**|**Learning from Mistakes: Rollout-Retrieval Lifelong Policy Learning for Autonomous Driving**|Cheng Gong et.al.|[2606.30537](http://arxiv.org/abs/2606.30537)|null|
 |**2026-06-29**|**OWMDrive: Causality-Aware End-to-End Autonomous Driving via 4D Occupancy World Model**|Junjie Cheng et.al.|[2606.30421](http://arxiv.org/abs/2606.30421)|null|
 |**2026-06-29**|**LWDrive: Layer-Wise World-Model-Guided Vision-Language Model Planning for Autonomous Driving**|Chen Yang et.al.|[2606.29879](http://arxiv.org/abs/2606.29879)|null|
@@ -4113,6 +4144,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**RCL-Mamba: A Dual-domain State Space Model for Measurement-oriented Image Restoration in Rotational Sparse-View Scanning Computed Laminography**|Xuyang Duan et.al.|[2606.31353](http://arxiv.org/abs/2606.31353)|null|
+|**2026-06-30**|**A Bayesian Filtering Approach for Learning Lagrangian Dynamics from Noisy Measurements**|Kundan Kumar et.al.|[2606.31137](http://arxiv.org/abs/2606.31137)|null|
 |**2026-06-29**|**MuonSSM: Orthogonalizing State Space Models for Sequence Modeling**|Thai-Khanh Nguyen et.al.|[2606.30461](http://arxiv.org/abs/2606.30461)|null|
 |**2026-06-29**|**Chronos: A Physics-Informed Full-History Framework for Non-Markovian Long-Horizon Manipulation**|Yulin Zhou et.al.|[2606.30318](http://arxiv.org/abs/2606.30318)|null|
 |**2026-06-29**|**SUMO: Segment and Track Any Motion with Nonlinear State Space Models**|Kexin Tian et.al.|[2606.29861](http://arxiv.org/abs/2606.29861)|null|
