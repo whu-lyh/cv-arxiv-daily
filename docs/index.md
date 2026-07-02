@@ -2,16 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.07.01
+## Updated on 2026.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Learning to Compose: Revisiting Proxy Task Design for Zero-Shot Composed Image Retrieval**|Jingjing Zhang et.al.|[2607.00374](http://arxiv.org/abs/2607.00374)|null|
+|**2026-06-30**|**Lost in the Tail: Addressing Geographic Imbalance in Urban Visual Place Recognition**|Zhiyao Shu et.al.|[2607.00090](http://arxiv.org/abs/2607.00090)|null|
 |**2026-06-30**|**Thinking Before Retrieving: Robust Zero-Shot Composed Image Retrieval via Strategic Planning and Self-Criticism**|Gunho Jung et.al.|[2606.31222](http://arxiv.org/abs/2606.31222)|null|
 |**2026-06-30**|**Seeing Through the Weights: Privacy Leakage in Scene Coordinate Regression**|Oleksii Nasypanyi et.al.|[2606.31164](http://arxiv.org/abs/2606.31164)|**[link](https://github.com/LexaNagiBator228/Seeing-Through-the-Weights)**|
-|**2026-06-30**|**AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images**|Meng Yang et.al.|[2606.31077](http://arxiv.org/abs/2606.31077)|null|
+|**2026-07-01**|**AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images**|Meng Yang et.al.|[2606.31077](http://arxiv.org/abs/2606.31077)|null|
 |**2026-06-29**|**High-Resolution Flood Mapping With Sentinel-1 and Sentinel-2 via Misalignment-Robust Cross-Sensor Learning and Generative Despeckling**|David Ma et.al.|[2606.30511](http://arxiv.org/abs/2606.30511)|null|
 |**2026-06-29**|**Cross-Resolution Semantic Transfer for Robust Text-to-Image Retrieval in Low-Resolution Surveillance**|Wenjie Qian et.al.|[2606.30458](http://arxiv.org/abs/2606.30458)|null|
 |**2026-06-25**|**Tessellating The Earth**|Daniel Cher et.al.|[2606.27514](http://arxiv.org/abs/2606.27514)|null|
@@ -1026,6 +1028,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**FastBridge: Closing the Model-Based Realization Gap in Safety Filters on 3D Gaussian Splatting for Fast Quadrotor Flight**|Tscholl Dario et.al.|[2607.01200](http://arxiv.org/abs/2607.01200)|null|
+|**2026-07-01**|**GaussianEmoTalker: Real-Time Emotional Talking Head Synthesis with Audio-Driven and Blendshape-Based 3D Gaussian Splatting**|Haijie Yang et.al.|[2607.00959](http://arxiv.org/abs/2607.00959)|null|
+|**2026-07-01**|**Improving Sparse-View 3DGS Generalization via Flat Minima Optimization**|Kangmin Seo et.al.|[2607.00885](http://arxiv.org/abs/2607.00885)|null|
+|**2026-07-01**|**Path Planning in Physically Viable World Models**|Su Ann Low et.al.|[2607.00673](http://arxiv.org/abs/2607.00673)|null|
+|**2026-07-01**|**GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting**|Siwoo Lim et.al.|[2607.00595](http://arxiv.org/abs/2607.00595)|null|
+|**2026-06-30**|**Progressive Pose-Guided 4D Animal Reconstruction from Monocular Video**|Siyuan Li et.al.|[2607.00157](http://arxiv.org/abs/2607.00157)|null|
 |**2026-06-30**|**PointSplat: Compact Gaussian Splatting via Human-Centric Prediction**|Yujie Guo et.al.|[2606.32036](http://arxiv.org/abs/2606.32036)|null|
 |**2026-06-30**|**Practical High-Fidelity Novel-View Synthesis of Mounted Lepidoptera**|Kristof Overdulve et.al.|[2606.31679](http://arxiv.org/abs/2606.31679)|null|
 |**2026-06-30**|**Intrinsic decomposition and editing of 3D Gaussian splats**|Alexandre Lanvin et.al.|[2606.31637](http://arxiv.org/abs/2606.31637)|null|
@@ -2439,6 +2447,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**Towards Metric-Agnostic Trajectory Forecasting**|Markus Knoche et.al.|[2607.01133](http://arxiv.org/abs/2607.01133)|null|
+|**2026-07-01**|**Rethinking Multi-Label Image Classification With Deep Learning: Taxonomy, Challenge, and Outlook**|Xuelin Zhu et.al.|[2607.00839](http://arxiv.org/abs/2607.00839)|null|
+|**2026-07-01**|**Creating Impactful Autonomous Driving Datasets: A Strategic Guide from Research Gap to Benchmark**|Richard Schwarzkopf et.al.|[2607.00710](http://arxiv.org/abs/2607.00710)|null|
+|**2026-07-01**|**ECoSim: Data Efficient Fine-Tuning for Controllable Traffic Simulation**|Yu-Hsiang Chen et.al.|[2607.00545](http://arxiv.org/abs/2607.00545)|null|
+|**2026-07-01**|**DriveVer: Lightweight Trajectory Evaluator as Test-Time Verifier for Autonomous Driving**|Chong He et.al.|[2607.00399](http://arxiv.org/abs/2607.00399)|null|
+|**2026-07-01**|**What's Hidden Matters: Identifying Planning-Critical Occluded Agents using Vision-Language Models**|Amirhosein Chahe et.al.|[2607.00283](http://arxiv.org/abs/2607.00283)|null|
 |**2026-06-30**|**DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation**|Junzhe Jiang et.al.|[2606.31918](http://arxiv.org/abs/2606.31918)|null|
 |**2026-06-30**|**SENSE-VAD: Sentient and Semantic Video Anomaly Detection for Autonomous Driving**|Nghia T. Nguyen et.al.|[2606.31875](http://arxiv.org/abs/2606.31875)|null|
 |**2026-06-30**|**Real-Time Source-Free Object Detection**|Sairam VCR et.al.|[2606.31834](http://arxiv.org/abs/2606.31834)|null|
@@ -4144,6 +4158,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**From Objectives to Applications: Aligning Architectural Biases in Audio Self-Supervised Learning**|Kele Xu et.al.|[2607.00387](http://arxiv.org/abs/2607.00387)|null|
 |**2026-06-30**|**RCL-Mamba: A Dual-domain State Space Model for Measurement-oriented Image Restoration in Rotational Sparse-View Scanning Computed Laminography**|Xuyang Duan et.al.|[2606.31353](http://arxiv.org/abs/2606.31353)|null|
 |**2026-06-30**|**A Bayesian Filtering Approach for Learning Lagrangian Dynamics from Noisy Measurements**|Kundan Kumar et.al.|[2606.31137](http://arxiv.org/abs/2606.31137)|null|
 |**2026-06-29**|**MuonSSM: Orthogonalizing State Space Models for Sequence Modeling**|Thai-Khanh Nguyen et.al.|[2606.30461](http://arxiv.org/abs/2606.30461)|null|
