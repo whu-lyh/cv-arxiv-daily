@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.05
+## Updated on 2026.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -907,7 +907,7 @@ layout: default
 |**2024-10-10**|**Monocular Visual Place Recognition in LiDAR Maps via Cross-Modal State Space Model and Multi-View Matching**|Gongxin Yao et.al.|[2410.06285](http://arxiv.org/abs/2410.06285)|null|
 |**2025-05-19**|**A Deeper Look into Second-Order Feature Aggregation for LiDAR Place Recognition**|Saimunur Rahman et.al.|[2409.15919](http://arxiv.org/abs/2409.15919)|null|
 |**2024-09-06**|**Matched Filtering based LiDAR Place Recognition for Urban and Natural Environments**|Therese Joseph et.al.|[2409.03998](http://arxiv.org/abs/2409.03998)|null|
-|**2024-10-02**|**Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**|Hogyun Kim et.al.|[2408.07330](http://arxiv.org/abs/2408.07330)|null|
+|**2024-10-02**|**Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**|Hogyun Kim et.al.|[2408.07330](http://arxiv.org/abs/2408.07330)|**[link](https://github.com/kimsoohwan/SOLiD-A-LOAM)**|
 |**2024-07-31**|**SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition**|Raktim Gautam Goswami et.al.|[2407.08260](http://arxiv.org/abs/2407.08260)|null|
 |**2024-06-21**|**Voxel-Based Point Cloud Localization for Smart Spaces Management**|F. S. Mortazavi et.al.|[2406.15110](http://arxiv.org/abs/2406.15110)|null|
 |**2024-10-09**|**PointNetPGAP-SLC: A 3D LiDAR-based Place Recognition Approach with Segment-level Consistency Training for Mobile Robots in Horticulture**|T. Barros et.al.|[2405.19038](http://arxiv.org/abs/2405.19038)|**[link](https://github.com/Cybonic/PointNetPGAP-SLC)**|
@@ -1040,11 +1040,11 @@ layout: default
 |**2026-07-02**|**SimWorlds: A Multi-Agent System for Dynamic 3D Scene Creation**|Chunjiang Liu et.al.|[2607.01766](http://arxiv.org/abs/2607.01766)|null|
 |**2026-07-02**|**The Turning Point of 3D Plant Phenotyping: 3D Foundation Models Enable Minute-to-Second Cross-Crop Reconstruction and Beyond**|Hanyue Jia et.al.|[2607.01753](http://arxiv.org/abs/2607.01753)|null|
 |**2026-07-02**|**Consistent Scene Understanding in 3D Gaussian Splatting via Multi-Cue Mask Refinement**|Hyunjoon Park et.al.|[2607.01708](http://arxiv.org/abs/2607.01708)|null|
-|**2026-07-02**|**Structure-Aware Gaussian Splatting for Large-Scale Scene Reconstruction**|Weiyi Xue et.al.|[2607.01698](http://arxiv.org/abs/2607.01698)|null|
+|**2026-07-02**|**Structure-Aware Gaussian Splatting for Large-Scale Scene Reconstruction**|Weiyi Xue et.al.|[2607.01698](http://arxiv.org/abs/2607.01698)|**[link](https://github.com/weiyixue999/Signal_Structure_Aware_Gaussian)**|
 |**2026-07-02**|**Online Segment 3D Gaussians via Launching Virtual Drones**|Liwei Liao et.al.|[2607.01628](http://arxiv.org/abs/2607.01628)|null|
-|**2026-07-02**|**MVFusion-GS: Motion-Variance Guided Temporal Attention for High-Quality Dynamic Gaussian Splatting**|Jianwei Hu et.al.|[2607.01578](http://arxiv.org/abs/2607.01578)|null|
+|**2026-07-02**|**MVFusion-GS: Motion-Variance Guided Temporal Attention for High-Quality Dynamic Gaussian Splatting**|Jianwei Hu et.al.|[2607.01578](http://arxiv.org/abs/2607.01578)|**[link](https://github.com/htx0601/MVFusion-GS)**|
 |**2026-07-02**|**Mind the Gap: Standard 3DGS Evaluation Primarily Measures Near-Trajectory Interpolation**|Gaoxiang Jia et.al.|[2607.01556](http://arxiv.org/abs/2607.01556)|null|
-|**2026-07-01**|**AnchorSplat: Fast and Structure Consistent Detail Synthesis for Gaussian Splatting**|Dexu Zhu et.al.|[2607.01290](http://arxiv.org/abs/2607.01290)|null|
+|**2026-07-01**|**AnchorSplat: Fast and Structure Consistent Detail Synthesis for Gaussian Splatting**|Dexu Zhu et.al.|[2607.01290](http://arxiv.org/abs/2607.01290)|**[link](https://github.com/zhude233/AnchorSplat)**|
 |**2026-07-01**|**FastBridge: Closing the Model-Based Realization Gap in Safety Filters on 3D Gaussian Splatting for Fast Quadrotor Flight**|Tscholl Dario et.al.|[2607.01200](http://arxiv.org/abs/2607.01200)|null|
 |**2026-07-01**|**GaussianEmoTalker: Real-Time Emotional Talking Head Synthesis with Audio-Driven and Blendshape-Based 3D Gaussian Splatting**|Haijie Yang et.al.|[2607.00959](http://arxiv.org/abs/2607.00959)|null|
 |**2026-07-01**|**Improving Sparse-View 3DGS Generalization via Flat Minima Optimization**|Kangmin Seo et.al.|[2607.00885](http://arxiv.org/abs/2607.00885)|null|
@@ -1413,10 +1413,10 @@ layout: default
 |**2026-04-14**|**GlotOCR Bench: OCR Models Still Struggle Beyond a Handful of Unicode Scripts**|Amir Hossein Kargaran et.al.|[2604.12978](http://arxiv.org/abs/2604.12978)|null|
 |**2026-04-14**|**RMGS-SLAM: Real-time Multi-sensor Gaussian Splatting SLAM**|Dongen Li et.al.|[2604.12942](http://arxiv.org/abs/2604.12942)|null|
 |**2026-04-14**|**GGD-SLAM: Monocular 3DGS SLAM Powered by Generalizable Motion Model for Dynamic Environments**|Yi Liu et.al.|[2604.12837](http://arxiv.org/abs/2604.12837)|null|
-|**2026-04-14**|**Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting**|Ziyuan Xia et.al.|[2604.12626](http://arxiv.org/abs/2604.12626)|null|
+|**2026-04-14**|**Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting**|Ziyuan Xia et.al.|[2604.12626](http://arxiv.org/abs/2604.12626)|**[link](https://github.com/zju3dv/habitat-gs)**|
 |**2026-04-14**|**ELoG-GS: Dual-Branch Gaussian Splatting with Luminance-Guided Enhancement for Extreme Low-light 3D Reconstruction**|Yuhao Liu et.al.|[2604.12592](http://arxiv.org/abs/2604.12592)|null|
-|**2026-04-16**|**PDF-GS: Progressive Distractor Filtering for Robust 3D Gaussian Splatting**|Kangmin Seo et.al.|[2604.12580](http://arxiv.org/abs/2604.12580)|null|
-|**2026-04-14**|**ArtifactWorld: Scaling 3D Gaussian Splatting Artifact Restoration via Video Generation Models**|Xinliang Wang et.al.|[2604.12251](http://arxiv.org/abs/2604.12251)|null|
+|**2026-04-16**|**PDF-GS: Progressive Distractor Filtering for Robust 3D Gaussian Splatting**|Kangmin Seo et.al.|[2604.12580](http://arxiv.org/abs/2604.12580)|**[link](https://github.com/kangrnin/PDF-GS)**|
+|**2026-04-14**|**ArtifactWorld: Scaling 3D Gaussian Splatting Artifact Restoration via Video Generation Models**|Xinliang Wang et.al.|[2604.12251](http://arxiv.org/abs/2604.12251)|**[link](https://github.com/fyting/ArtifactWorld)**|
 |**2026-04-14**|**VVGT: Visual Volume-Grounded Transformer**|Yuxuan Wang et.al.|[2604.12217](http://arxiv.org/abs/2604.12217)|null|
 |**2026-04-13**|**ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting**|Daniel Yang et.al.|[2604.11992](http://arxiv.org/abs/2604.11992)|null|
 |**2026-04-13**|**Unfolding 3D Gaussian Splatting via Iterative Gaussian Synopsis**|Yuqin Lu et.al.|[2604.11685](http://arxiv.org/abs/2604.11685)|null|
@@ -2609,7 +2609,7 @@ layout: default
 |**2026-06-09**|**An Exposure-Time-Aligned Primary-Path Architecture for Autonomous-Driving ECUs**|Toru Saito et.al.|[2606.10856](http://arxiv.org/abs/2606.10856)|null|
 |**2026-06-09**|**Modular2Simple: A Tool for Modular Scenario Creation Based on the OpenSCENARIO Format**|Nikolai Khriapov et.al.|[2606.10851](http://arxiv.org/abs/2606.10851)|null|
 |**2026-06-09**|**Self-Supervised Relevance Modelling in Autonomous Driving via Counterfactual Analysis**|Luca Lusvarghi et.al.|[2606.10688](http://arxiv.org/abs/2606.10688)|null|
-|**2026-06-09**|**Envision4D: Envisioning Visual Futures via Feed-forward 4D Gaussian Splatting for Autonomous Driving**|Qi Song et.al.|[2606.10656](http://arxiv.org/abs/2606.10656)|null|
+|**2026-06-09**|**Envision4D: Envisioning Visual Futures via Feed-forward 4D Gaussian Splatting for Autonomous Driving**|Qi Song et.al.|[2606.10656](http://arxiv.org/abs/2606.10656)|**[link](https://github.com/maggiesong7/Envision4D)**|
 |**2026-06-09**|**Isolation-aware Scheduling Framework for DNN-based End-to-End Autonomous Driving System on Tile-based Accelerators**|Chenguang Zhang et.al.|[2606.10303](http://arxiv.org/abs/2606.10303)|null|
 |**2026-06-08**|**Uncertainty-Aware Motion Planning for Autonomous Driving in Mixed Traffic Environment**|Ming Cheng et.al.|[2606.09958](http://arxiv.org/abs/2606.09958)|null|
 |**2026-06-08**|**Hybrid Robustness Verification for Spatio-Temporal Neural Networks**|Sherwin Varghese et.al.|[2606.09746](http://arxiv.org/abs/2606.09746)|null|
@@ -2984,7 +2984,7 @@ layout: default
 |**2026-04-01**|**Bench2Drive-VL: Benchmarks for Closed-Loop Autonomous Driving with Vision-Language Models**|Xiaosong Jia et.al.|[2604.01259](http://arxiv.org/abs/2604.01259)|null|
 |**2026-04-01**|**Simulating Realistic LiDAR Data Under Adverse Weather for Autonomous Vehicles: A Physics-Informed Learning Approach**|Vivek Anand et.al.|[2604.01254](http://arxiv.org/abs/2604.01254)|null|
 |**2026-04-01**|**VRUD: A Drone Dataset for Complex Vehicle-VRU Interactions within Mixed Traffic**|Ziyu Wang et.al.|[2604.01134](http://arxiv.org/abs/2604.01134)|null|
-|**2026-04-01**|**ProOOD: Prototype-Guided Out-of-Distribution 3D Occupancy Prediction**|Yuheng Zhang et.al.|[2604.01081](http://arxiv.org/abs/2604.01081)|null|
+|**2026-04-01**|**ProOOD: Prototype-Guided Out-of-Distribution 3D Occupancy Prediction**|Yuheng Zhang et.al.|[2604.01081](http://arxiv.org/abs/2604.01081)|**[link](https://github.com/7uHeng/ProOOD)**|
 |**2026-04-01**|**DLWM: Dual Latent World Models enable Holistic Gaussian-centric Pre-training in Autonomous Driving**|Yiyao Zhu et.al.|[2604.00969](http://arxiv.org/abs/2604.00969)|null|
 |**2026-04-01**|**DVGT-2: Vision-Geometry-Action Model for Autonomous Driving at Scale**|Sicheng Zuo et.al.|[2604.00813](http://arxiv.org/abs/2604.00813)|null|
 |**2026-04-01**|**Towards Viewpoint-Robust End-to-End Autonomous Driving with 3D Foundation Model Priors**|Hiroki Hashimoto et.al.|[2604.00597](http://arxiv.org/abs/2604.00597)|null|
@@ -3358,7 +3358,7 @@ layout: default
 |**2026-01-29**|**LLM-Driven Scenario-Aware Planning for Autonomous Driving**|He Li et.al.|[2601.21876](http://arxiv.org/abs/2601.21876)|null|
 |**2026-01-29**|**4D-CAAL: 4D Radar-Camera Calibration and Auto-Labeling for Autonomous Driving**|Shanliang Yao et.al.|[2601.21454](http://arxiv.org/abs/2601.21454)|null|
 |**2026-01-29**|**Drive-KD: Multi-Teacher Distillation for VLMs in Autonomous Driving**|Weitong Lian et.al.|[2601.21288](http://arxiv.org/abs/2601.21288)|null|
-|**2026-01-28**|**Li-ViP3D++: Query-Gated Deformable Camera-LiDAR Fusion for End-to-End Perception and Trajectory Prediction**|Matej Halinkovic et.al.|[2601.20720](http://arxiv.org/abs/2601.20720)|null|
+|**2026-01-28**|**Li-ViP3D++: Query-Gated Deformable Camera-LiDAR Fusion for End-to-End Perception and Trajectory Prediction**|Matej Halinkovic et.al.|[2601.20720](http://arxiv.org/abs/2601.20720)|**[link](https://github.com/mathali/Li-ViP3D-PP)**|
 |**2026-01-28**|**Learning Contextual Runtime Monitors for Safe AI-Based Autonomy**|Alejandro Luque-Cerpa et.al.|[2601.20666](http://arxiv.org/abs/2601.20666)|null|
 |**2026-01-28**|**Unsupervised Anomaly Detection in Multi-Agent Trajectory Prediction via Transformer-Based Models**|Qing Lyu et.al.|[2601.20367](http://arxiv.org/abs/2601.20367)|null|
 |**2026-01-27**|**Game-Theoretic Autonomous Driving: A Graphs of Convex Sets Approach**|Nikolaj Käfer et.al.|[2601.20054](http://arxiv.org/abs/2601.20054)|null|
