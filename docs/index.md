@@ -2514,7 +2514,7 @@ layout: default
 |**2026-07-06**|**E-CoDrive: A Co-Simulation Framework for Testing Energy-Critical Driving Scenarios**|Manfredi Napolitano et.al.|[2607.04803](http://arxiv.org/abs/2607.04803)|null|
 |**2026-07-06**|**Cam2Sim: Neural Scenario Reconstruction for Closed-Loop Autonomous Driving Simulation**|Davide Jannussi et.al.|[2607.04770](http://arxiv.org/abs/2607.04770)|null|
 |**2026-07-06**|**SparseOcc++: Geometry-Aware Sparse Latent Representation for Semantic Occupancy Prediction**|Pin Tang et.al.|[2607.04732](http://arxiv.org/abs/2607.04732)|null|
-|**2026-07-06**|**A Reliable Context-Aware and Temporal Planning Framework for Autonomous Driving**|Argho Dey et.al.|[2607.04689](http://arxiv.org/abs/2607.04689)|**[link](https://github.com/ArghoDey/RCT-AD)**|
+|**2026-07-06**|**A Reliable Context-Aware and Temporal Planning Framework for Autonomous Driving**|Argho Dey et.al.|[2607.04689](http://arxiv.org/abs/2607.04689)|null|
 |**2026-07-06**|**Do Vision-Language-Action Models Mean What They Say? On the Role of Faithfulness in Embodied Reasoning**|Matthew Foutter et.al.|[2607.04681](http://arxiv.org/abs/2607.04681)|null|
 |**2026-07-06**|**Who Responds When the Driver Is Gone? A Framework for Human Intent Understanding**|Xuewen Luo et.al.|[2607.04670](http://arxiv.org/abs/2607.04670)|null|
 |**2026-07-06**|**Targeted Structure Completion for Sparse-View 3D Reconstruction in Autonomous Driving**|Guoqing Wang et.al.|[2607.04661](http://arxiv.org/abs/2607.04661)|null|
