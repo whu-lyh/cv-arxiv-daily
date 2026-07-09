@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.07.08
+## Updated on 2026.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models**|Hyunjae Kim et.al.|[2607.07673](http://arxiv.org/abs/2607.07673)|null|
 |**2026-07-07**|**RFHNet: Relational and Frequency-Aware Hashing Network for Large-Scale Fine-Grained Food Image Retrieval**|Junsong Wang et.al.|[2607.06148](http://arxiv.org/abs/2607.06148)|null|
 |**2026-07-07**|**Visualizing Local Maxima of the Ohio overdose epidemic with Vineyards**|Nicholas Bermingham et.al.|[2607.05710](http://arxiv.org/abs/2607.05710)|null|
 |**2026-07-06**|**CanvasAgent: Enabling Complex Image Creation and Editing via Visual Tool Orchestration**|Hairui Zhu et.al.|[2607.05465](http://arxiv.org/abs/2607.05465)|null|
@@ -1047,6 +1048,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM**|Lipu Zhou et.al.|[2607.07452](http://arxiv.org/abs/2607.07452)|null|
+|**2026-07-08**|**SoccerNet 2026 Challenges Results**|Anthony Cioppa et.al.|[2607.07320](http://arxiv.org/abs/2607.07320)|null|
+|**2026-07-08**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168](http://arxiv.org/abs/2607.07168)|null|
+|**2026-07-08**|**EscFOA: Enhancing Spatial Learning for Visually Impaired Learners via Generative Spatial Audio in 360-Degree Educational Environments**|Ziyu Luo et.al.|[2607.07015](http://arxiv.org/abs/2607.07015)|null|
+|**2026-07-07**|**RoboSnap: One-Shot Real-to-Sim Scene Generation for Generalizable Robot Learning and Evaluation**|Shujie Zhang et.al.|[2607.06699](http://arxiv.org/abs/2607.06699)|null|
 |**2026-07-07**|**PhyMRI-SR: Toward Physics-Aware MRI Image Super-Resolution**|Lihua Wei et.al.|[2607.06238](http://arxiv.org/abs/2607.06238)|null|
 |**2026-07-07**|**GaussFusion: Towards Multimodal 3D Gaussian Pretraining**|Zhixuan You et.al.|[2607.05906](http://arxiv.org/abs/2607.05906)|null|
 |**2026-07-06**|**SSA-3DGS: Unsupervised Removal of Screen-Space Artifacts for 3D Gaussian Splatting**|Kristof Overdulve et.al.|[2607.05598](http://arxiv.org/abs/2607.05598)|null|
@@ -2500,6 +2506,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**CARLA-GS: Decoupling Representation, Reasoning, and Physics Simulation for Autonomous Driving Corner-Case Synthesis**|Kaicong Huang et.al.|[2607.07601](http://arxiv.org/abs/2607.07601)|null|
+|**2026-07-08**|**Validate the Dream Before You Trust Its Verdict: Admissibility for World-Model Simulators**|Christian Oefinger et.al.|[2607.07196](http://arxiv.org/abs/2607.07196)|null|
+|**2026-07-08**|**A knowledge-augmented dataset of high-risk driving scenarios with LLM annotations for autonomous driving**|Heye Huang et.al.|[2607.07103](http://arxiv.org/abs/2607.07103)|null|
+|**2026-07-08**|**Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation**|Seulbin Hwang et.al.|[2607.06957](http://arxiv.org/abs/2607.06957)|null|
 |**2026-07-07**|**Point as Skeleton: Accumulated Point Cloud Enhanced Autoregressive Generation for Closed-Loop Autonomous Driving Simulation**|Songbur Wong et.al.|[2607.06516](http://arxiv.org/abs/2607.06516)|null|
 |**2026-07-07**|**Driving the Wrong Way: Leveraging Interpretability in End2End Autonomous Driving Models**|Franz Motzkus et.al.|[2607.06328](http://arxiv.org/abs/2607.06328)|null|
 |**2026-07-07**|**Synthetic-to-Real Translation for Class-Agnostic Motion Prediction**|Yizheng Wu et.al.|[2607.06319](http://arxiv.org/abs/2607.06319)|null|
@@ -4245,12 +4255,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**Neural-Enhanced Micro-Kalman Filtering for Satellite Tracking: A Comparative Study**|Moh Kamalul Wafi et.al.|[2607.06830](http://arxiv.org/abs/2607.06830)|null|
 |**2026-07-07**|**When Does Tool Use Increase the Expressive Power of Finite-Precision Recurrent Models?**|Nikola Zubić et.al.|[2607.06155](http://arxiv.org/abs/2607.06155)|null|
 |**2026-07-06**|**Uncertainty-Aware Velocity Correction for Proprioceptive Vehicle Localization using Evidential Mamba**|Abinav Kalyanasundaram et.al.|[2607.05669](http://arxiv.org/abs/2607.05669)|null|
 |**2026-07-06**|**Risk Sensitive Filtering for Singular Systems subject to Round-Robin Protocol**|Ashna Goel et.al.|[2607.04734](http://arxiv.org/abs/2607.04734)|null|
 |**2026-07-06**|**A Differentiable Covariance Calculus for Linear Gaussian Bayesian Networks**|Tadashi Wadayama et.al.|[2607.04578](http://arxiv.org/abs/2607.04578)|null|
 |**2026-07-05**|**UniSkip-Mamba: A Frequency-Aware State Space Model for Audio-Visual Temporal Forgery Localization**|Cangjin Qiu et.al.|[2607.04498](http://arxiv.org/abs/2607.04498)|null|
-|**2026-07-03**|**Vision Non-Causal Trapezoidal Mamba: Eliminating Directional Scanning in Vision SSMs with Second-Order Dynamics**|Anvitha Ramachandran et.al.|[2607.03589](http://arxiv.org/abs/2607.03589)|null|
+|**2026-07-07**|**Vision Non-Causal Trapezoidal Mamba: Eliminating Directional Scanning in Vision SSMs with Second-Order Dynamics**|Anvitha Ramachandran et.al.|[2607.03589](http://arxiv.org/abs/2607.03589)|null|
 |**2026-07-03**|**Lacuna Inc. at SemEval-2026 Task 4: Structurally Gated State-Space Models for Disentangling Narrative Similarity**|Aleksey Kudelya et.al.|[2607.03482](http://arxiv.org/abs/2607.03482)|null|
 |**2026-07-03**|**MambaLIE: Scene Light Intensity-Boosted Low-Light Image Enhancement with State Space Model**|Wanshu Fan et.al.|[2607.03013](http://arxiv.org/abs/2607.03013)|null|
 |**2026-07-03**|**Physics-Informed Neural State-Space Modeling of Battery-Electric Vehicle Dynamics for Closed-Loop Automated Parking Simulation**|Sirong Pan et.al.|[2607.03000](http://arxiv.org/abs/2607.03000)|null|
