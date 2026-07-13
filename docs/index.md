@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**GReFEM: Multimodal LLMs as Zero-Shot Semantic Assistants for Physics-Guided 3D Mesh Refinement**|Kartik Bali et.al.|[2607.08798](http://arxiv.org/abs/2607.08798)|null|
 |**2026-07-07**|**SASGeo: Stability-Aware Semantic Map Localization for GNSS-Denied UAVs -- A Framework and Synthetic Proof of Concept**|Natalia Trukhina et.al.|[2607.07737](http://arxiv.org/abs/2607.07737)|null|
 |**2026-07-08**|**MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models**|Hyunjae Kim et.al.|[2607.07673](http://arxiv.org/abs/2607.07673)|null|
 |**2026-07-07**|**RFHNet: Relational and Frequency-Aware Hashing Network for Large-Scale Fine-Grained Food Image Retrieval**|Junsong Wang et.al.|[2607.06148](http://arxiv.org/abs/2607.06148)|null|
@@ -1049,6 +1050,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**AnythingReality: Robust Online Gaussian Splatting SLAM for Open-Vocabulary VR Scene Exploration**|Timofei Kozlov et.al.|[2607.09260](http://arxiv.org/abs/2607.09260)|null|
+|**2026-07-09**|**SplatCtrl: Perception-Action Coupling via Gaussian Scene Representations and Reactive Robot Control**|Siddarth Jain et.al.|[2607.08948](http://arxiv.org/abs/2607.08948)|null|
+|**2026-07-09**|**StereoSplat+: Feed-Forward Stereo Gaussian Splatting with Diffusion-Assisted Progressive Inference**|Zihua Liu et.al.|[2607.08808](http://arxiv.org/abs/2607.08808)|null|
 |**2026-07-09**|**Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction**|Weijian Chen et.al.|[2607.08769](http://arxiv.org/abs/2607.08769)|null|
 |**2026-07-09**|**Track2Map: Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery**|Tianyi Song et.al.|[2607.08408](http://arxiv.org/abs/2607.08408)|null|
 |**2026-07-09**|**On the Design of Mixture-of-Experts for Dynamic Gaussian Splatting**|In-Hwan Jin et.al.|[2607.08250](http://arxiv.org/abs/2607.08250)|null|
@@ -2510,6 +2514,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-10**|**OpenLongTail: Generative Scaling of Long-Tail Driving Data**|Lulin Liu et.al.|[2607.09655](http://arxiv.org/abs/2607.09655)|null|
+|**2026-07-10**|**4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception**|Xiaokai Bai et.al.|[2607.09629](http://arxiv.org/abs/2607.09629)|null|
+|**2026-07-10**|**Multimodal Scenario Similarity Search for Autonomous Driving**|Tamás Matuszka et.al.|[2607.09428](http://arxiv.org/abs/2607.09428)|null|
+|**2026-07-10**|**BeyondSight: Object Permanence for End-to-End Autonomous Driving**|Sandro Papais et.al.|[2607.09138](http://arxiv.org/abs/2607.09138)|null|
+|**2026-07-10**|**Can the Cloud Drive? Infrastructure Feasibility of Offloading Autonomous Driving Across 5G and 6G**|Pouya Parsa et.al.|[2607.09045](http://arxiv.org/abs/2607.09045)|null|
 |**2026-07-09**|**AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding**|Siddharth Damodharan et.al.|[2607.08745](http://arxiv.org/abs/2607.08745)|null|
 |**2026-07-09**|**On Exploring Input Resolution Scaling For Anytime LiDAR Object Detection**|Ahmet Soyyigit et.al.|[2607.08391](http://arxiv.org/abs/2607.08391)|null|
 |**2026-07-09**|**WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving**|Xuerun Yan et.al.|[2607.08375](http://arxiv.org/abs/2607.08375)|null|
