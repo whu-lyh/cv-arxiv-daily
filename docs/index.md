@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.13
+## Updated on 2026.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -1050,12 +1050,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space**|Mingchao Sun et.al.|[2607.11673](http://arxiv.org/abs/2607.11673)|null|
+|**2026-07-13**|**HyperGS: Fast and Generalizable Gaussian Video Representation**|Fatimah Zohra et.al.|[2607.11500](http://arxiv.org/abs/2607.11500)|null|
+|**2026-07-13**|**SalientGS: Unified SfM-to-3DGS with Importance-Guided MCMC Gaussian Allocation**|Tianyu Xiong et.al.|[2607.11285](http://arxiv.org/abs/2607.11285)|null|
+|**2026-07-13**|**GeoGS-SLAM: Online Monocular Reconstruction Using Gaussian Splatting with Geometric Priors**|Ruilan Gao et.al.|[2607.11184](http://arxiv.org/abs/2607.11184)|null|
+|**2026-07-13**|**AsySplat: Efficient Asymmetric 3D Gaussian Splatting for Long-Sequence Scene Modeling**|Yingji Zhong et.al.|[2607.10995](http://arxiv.org/abs/2607.10995)|null|
+|**2026-07-12**|**DP-Splat: Bayesian Nonparametric Complexity Control for Gaussian Splatting**|Aqi Dong et.al.|[2607.10912](http://arxiv.org/abs/2607.10912)|null|
+|**2026-07-12**|**MAC-Splat: Multi-Attribute Consistency for High-Fidelity Sparse-View Reconstruction**|Jinqian Yang et.al.|[2607.10792](http://arxiv.org/abs/2607.10792)|null|
+|**2026-07-12**|**Incremental Online Scene Reconstruction by 3D Gaussian Triangulation**|Yanjin Zhu et.al.|[2607.10690](http://arxiv.org/abs/2607.10690)|null|
+|**2026-07-11**|**Grassmannian Splatting I: Moving rank-2 Spacetime Surfels for Dynamic Scene Rendering**|Aaron Maurice Berman et.al.|[2607.10489](http://arxiv.org/abs/2607.10489)|null|
+|**2026-07-11**|**CoSAG: Compact Semantic Anchor Gaussians via Training-Free Rate-Distortion Coding**|Yuang Jia et.al.|[2607.10237](http://arxiv.org/abs/2607.10237)|null|
+|**2026-07-11**|**SyncSpace: Layout-Conditioned 3D Gaussian Splatting for Space Reskinning in Mixed Reality**|Qinchuan Zhang et.al.|[2607.10050](http://arxiv.org/abs/2607.10050)|null|
 |**2026-07-10**|**AnythingReality: Robust Online Gaussian Splatting SLAM for Open-Vocabulary VR Scene Exploration**|Timofei Kozlov et.al.|[2607.09260](http://arxiv.org/abs/2607.09260)|null|
 |**2026-07-09**|**SplatCtrl: Perception-Action Coupling via Gaussian Scene Representations and Reactive Robot Control**|Siddarth Jain et.al.|[2607.08948](http://arxiv.org/abs/2607.08948)|null|
 |**2026-07-09**|**StereoSplat+: Feed-Forward Stereo Gaussian Splatting with Diffusion-Assisted Progressive Inference**|Zihua Liu et.al.|[2607.08808](http://arxiv.org/abs/2607.08808)|null|
 |**2026-07-09**|**Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction**|Weijian Chen et.al.|[2607.08769](http://arxiv.org/abs/2607.08769)|null|
 |**2026-07-09**|**Track2Map: Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery**|Tianyi Song et.al.|[2607.08408](http://arxiv.org/abs/2607.08408)|null|
-|**2026-07-09**|**On the Design of Mixture-of-Experts for Dynamic Gaussian Splatting**|In-Hwan Jin et.al.|[2607.08250](http://arxiv.org/abs/2607.08250)|null|
+|**2026-07-13**|**On the Design of Mixture-of-Experts for Dynamic Gaussian Splatting**|In-Hwan Jin et.al.|[2607.08250](http://arxiv.org/abs/2607.08250)|null|
 |**2026-07-08**|**GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM**|Lipu Zhou et.al.|[2607.07452](http://arxiv.org/abs/2607.07452)|null|
 |**2026-07-08**|**SoccerNet 2026 Challenges Results**|Anthony Cioppa et.al.|[2607.07320](http://arxiv.org/abs/2607.07320)|null|
 |**2026-07-08**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168](http://arxiv.org/abs/2607.07168)|null|
@@ -2514,8 +2525,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**Technical Report on the CVPR 2026@AdvML Workshop Challenge**|Tianyuan Zhang et.al.|[2607.11560](http://arxiv.org/abs/2607.11560)|null|
+|**2026-07-13**|**Real-Time Rulebook-Aware Nonlinear MPC for Autonomous Driving with Priority-Biased Tiered Slacks**|Hadi Hajieghrary et.al.|[2607.10975](http://arxiv.org/abs/2607.10975)|null|
+|**2026-07-12**|**Edge Physical AI Deployment of Vision Transformers on Heterogeneous Edge GPU Targeting Autonomous Vehicles**|Ashiyana Abdul Majeed et.al.|[2607.10942](http://arxiv.org/abs/2607.10942)|null|
+|**2026-07-12**|**BucketKD: A Safety-Aware Bucket-Based Knowledge Distillation Framework for End-to-End Motion Planning**|Md Nahidul Islam et.al.|[2607.10565](http://arxiv.org/abs/2607.10565)|null|
+|**2026-07-11**|**Large Language Model Enhanced Differentiable Trajectory Planning for IoT-Enabled Autonomous Driving**|Shihao Zhang et.al.|[2607.10438](http://arxiv.org/abs/2607.10438)|null|
+|**2026-07-11**|**PrismAD: Decoupled Planning via Semantic Mixture-of-Planners for End-to-End Autonomous Driving**|Kang Ding et.al.|[2607.10336](http://arxiv.org/abs/2607.10336)|null|
+|**2026-07-11**|**Channel Knowledge Empowered Finite-Blocklength Rate-Splitting Transmission for High-Mobility Autonomous Driving**|Yi Wang et.al.|[2607.10138](http://arxiv.org/abs/2607.10138)|null|
+|**2026-07-11**|**FlashBEV: Fast and Memory-Efficient Exact BEV Transformation with IO-Awareness**|Shunsuke Yokokawa et.al.|[2607.10071](http://arxiv.org/abs/2607.10071)|null|
+|**2026-07-10**|**Plug-and-Play Reweighting for Resilient Collaborative Decision-Making in Connected Autonomous Driving**|Jiewen Liu et.al.|[2607.10037](http://arxiv.org/abs/2607.10037)|null|
 |**2026-07-10**|**OpenLongTail: Generative Scaling of Long-Tail Driving Data**|Lulin Liu et.al.|[2607.09655](http://arxiv.org/abs/2607.09655)|null|
-|**2026-07-10**|**4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception**|Xiaokai Bai et.al.|[2607.09629](http://arxiv.org/abs/2607.09629)|null|
+|**2026-07-13**|**4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception**|Xiaokai Bai et.al.|[2607.09629](http://arxiv.org/abs/2607.09629)|null|
 |**2026-07-10**|**Multimodal Scenario Similarity Search for Autonomous Driving**|Tamás Matuszka et.al.|[2607.09428](http://arxiv.org/abs/2607.09428)|null|
 |**2026-07-10**|**BeyondSight: Object Permanence for End-to-End Autonomous Driving**|Sandro Papais et.al.|[2607.09138](http://arxiv.org/abs/2607.09138)|null|
 |**2026-07-10**|**Can the Cloud Drive? Infrastructure Feasibility of Offloading Autonomous Driving Across 5G and 6G**|Pouya Parsa et.al.|[2607.09045](http://arxiv.org/abs/2607.09045)|null|
@@ -4274,6 +4294,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**An Exact Instrument for State Usage in Selective State-Space Models, and the Input-Driven Migration It Reveals**|Raktim Bhattacharya et.al.|[2607.11796](http://arxiv.org/abs/2607.11796)|null|
+|**2026-07-13**|**Machines that Predict Trajectories from Templates**|Claudio De Persis et.al.|[2607.11551](http://arxiv.org/abs/2607.11551)|null|
+|**2026-07-11**|**DSSMs: State Space Models with Explicit Memory via Delay Differential Equations**|Yixiao Qian et.al.|[2607.10244](http://arxiv.org/abs/2607.10244)|null|
+|**2026-07-10**|**Remembering Distinct Items, Not Tokens: A Learnable Dirichlet-Process Cache Between State-Space Models and Attention**|Siddharth Pal et.al.|[2607.09889](http://arxiv.org/abs/2607.09889)|null|
 |**2026-07-09**|**LDFE: Laplacian Decoupled Feature Enhancement Block for Dual-Stream CNN-based RGB-IR Object Detection**|Wenhao Dong et.al.|[2607.08076](http://arxiv.org/abs/2607.08076)|null|
 |**2026-07-07**|**Neural-Enhanced Micro-Kalman Filtering for Satellite Tracking: A Comparative Study**|Moh Kamalul Wafi et.al.|[2607.06830](http://arxiv.org/abs/2607.06830)|null|
 |**2026-07-07**|**When Does Tool Use Increase the Expressive Power of Finite-Precision Recurrent Models?**|Nikola Zubić et.al.|[2607.06155](http://arxiv.org/abs/2607.06155)|null|
