@@ -1,4 +1,4 @@
-## Updated on 2026.07.14
+## Updated on 2026.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**Breaking Déjà Vu: Independent Auditing of Visual Place Recognition through Vision-Language Reasoning**|Sania Waheed et.al.|[2607.12818](http://arxiv.org/abs/2607.12818)|null|
+|**2026-07-14**|**Towards Vision-Free CIR: Attribute-Augmented Scoring and LLM-Based Reranking for Zero-Shot Composed Image Retrieval**|Ryotaro Shimada et.al.|[2607.12621](http://arxiv.org/abs/2607.12621)|null|
+|**2026-07-14**|**Adaptive Cross-Modal Fusion with Sparse Attention for Pedestrian Crossing Intention Prediction**|Md Mahfuzur Rahman et.al.|[2607.12293](http://arxiv.org/abs/2607.12293)|null|
+|**2026-07-14**|**GeoSEAN: Explainable Country-Level Image Geolocation for ASEAN Regions**|Muhamad Syukron et.al.|[2607.12284](http://arxiv.org/abs/2607.12284)|null|
 |**2026-07-08**|**GReFEM: Multimodal LLMs as Zero-Shot Semantic Assistants for Physics-Guided 3D Mesh Refinement**|Kartik Bali et.al.|[2607.08798](http://arxiv.org/abs/2607.08798)|null|
 |**2026-07-07**|**SASGeo: Stability-Aware Semantic Map Localization for GNSS-Denied UAVs -- A Framework and Synthetic Proof of Concept**|Natalia Trukhina et.al.|[2607.07737](http://arxiv.org/abs/2607.07737)|null|
 |**2026-07-08**|**MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models**|Hyunjae Kim et.al.|[2607.07673](http://arxiv.org/abs/2607.07673)|null|
@@ -845,7 +849,7 @@
 |**2018-05-16**|**Visual Global Localization with a Hybrid WNN-CNN Approach**|Avelino Forechi et.al.|[1805.03183](http://arxiv.org/abs/1805.03183)|**[link](https://github.com/LCAD-UFES/WNN-CNN-GL)**|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|null|
 
-<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
 
 ## Point Cloud Place Recognition
 
@@ -955,7 +959,7 @@
 |**2020-08-04**|**PIC-Net: Point Cloud and Image Collaboration Network for Large-Scale Place Recognition**|Yuheng Lu et.al.|[2008.00658](http://arxiv.org/abs/2008.00658)|null|
 |**2020-07-06**|**LOL: Lidar-Only Odometry and Localization in 3D Point Cloud Maps**|David Rozenberszki et.al.|[2007.01595](http://arxiv.org/abs/2007.01595)|**[link](https://github.com/RozDavid/LOL)**|
 
-<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
 
 ## Cross-modality Localization
 
@@ -1058,13 +1062,18 @@
 |**2021-07-28**|**Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization**|Fa-Ting Hong et.al.|[2107.12589](http://arxiv.org/abs/2107.12589)|null|
 |**2020-09-15**|**RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization**|Niluthpol Chowdhury Mithun et.al.|[2009.05695](http://arxiv.org/abs/2009.05695)|null|
 
-<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
 
 ## 3D GS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-07-13**|**ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space**|Mingchao Sun et.al.|[2607.11673](http://arxiv.org/abs/2607.11673)|null|
+|**2026-07-14**|**ExtraGS: Enhancing Endoscopic View Extrapolation via Diffusion-Guided 3D Gaussian Splatting**|Cheng-Tai Hsieh et.al.|[2607.12785](http://arxiv.org/abs/2607.12785)|null|
+|**2026-07-14**|**SpeedyGS: Content-Aware 3D Gaussian Splatting Compression via Two-Stage Optimization**|Junteng Zhang et.al.|[2607.12656](http://arxiv.org/abs/2607.12656)|null|
+|**2026-07-14**|**GeoFovea-GS: Geometry-Aware Cross-Layer Gaussian Splatting for Wireless Aerial VR**|Zeyi Ren et.al.|[2607.12641](http://arxiv.org/abs/2607.12641)|null|
+|**2026-07-14**|**Detecting Rendering Bugs in Imperative Data Visualization Libraries via Equivalent Mutations**|Weiqi Lu et.al.|[2607.12363](http://arxiv.org/abs/2607.12363)|null|
+|**2026-07-14**|**Implicit 4D Gaussian Splatting for Fast Motion with Large Inter-Frame Displacements**|Seung-gyeom Kim et.al.|[2607.12362](http://arxiv.org/abs/2607.12362)|null|
+|**2026-07-14**|**ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space**|Mingchao Sun et.al.|[2607.11673](http://arxiv.org/abs/2607.11673)|null|
 |**2026-07-13**|**HyperGS: Fast and Generalizable Gaussian Video Representation**|Fatimah Zohra et.al.|[2607.11500](http://arxiv.org/abs/2607.11500)|null|
 |**2026-07-13**|**SalientGS: Unified SfM-to-3DGS with Importance-Guided MCMC Gaussian Allocation**|Tianyu Xiong et.al.|[2607.11285](http://arxiv.org/abs/2607.11285)|null|
 |**2026-07-13**|**GeoGS-SLAM: Online Monocular Reconstruction Using Gaussian Splatting with Geometric Priors**|Ruilan Gao et.al.|[2607.11184](http://arxiv.org/abs/2607.11184)|null|
@@ -2535,12 +2544,19 @@
 |**2024-03-26**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095](http://arxiv.org/abs/2403.16095)|null|
 |**2024-04-09**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700](http://arxiv.org/abs/2311.11700)|null|
 
-<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale**|Zhouchonghao Wu et.al.|[2607.13028](http://arxiv.org/abs/2607.13028)|null|
+|**2026-07-14**|**LARAD: Layout-Aware Road Anomaly Detection via Spatial-Logic Reasoning**|Shiyi Mu et.al.|[2607.12858](http://arxiv.org/abs/2607.12858)|null|
+|**2026-07-14**|**Hierarchical Fault Localization for Autonomous Driving Systems with Hypothesis Validation and Intent Analysis**|Rui Zheng et.al.|[2607.12598](http://arxiv.org/abs/2607.12598)|null|
+|**2026-07-14**|**Improving Autonomous Nano-drones Performance via Automated End-to-End Optimization and Deployment of DNNs**|Vlad Niculescu et.al.|[2607.12593](http://arxiv.org/abs/2607.12593)|null|
+|**2026-07-14**|**DeGuNet: Depth-Guided Ultra-Compact Backbones for Efficient LiDAR-Camera 3D Detection**|Haifa Zhang et.al.|[2607.12419](http://arxiv.org/abs/2607.12419)|null|
+|**2026-07-14**|**Adaptive Cross-Modal Fusion with Sparse Attention for Pedestrian Crossing Intention Prediction**|Md Mahfuzur Rahman et.al.|[2607.12293](http://arxiv.org/abs/2607.12293)|null|
+|**2026-07-12**|**LIDAR-AD: A Decoder-Free Latent-Interaction Dreamer with Action-Residual Chains for Autonomous Driving**|Yongzhi Liu et.al.|[2607.11964](http://arxiv.org/abs/2607.11964)|null|
 |**2026-07-13**|**Technical Report on the CVPR 2026@AdvML Workshop Challenge**|Tianyuan Zhang et.al.|[2607.11560](http://arxiv.org/abs/2607.11560)|null|
 |**2026-07-13**|**Real-Time Rulebook-Aware Nonlinear MPC for Autonomous Driving with Priority-Biased Tiered Slacks**|Hadi Hajieghrary et.al.|[2607.10975](http://arxiv.org/abs/2607.10975)|null|
 |**2026-07-12**|**Edge Physical AI Deployment of Vision Transformers on Heterogeneous Edge GPU Targeting Autonomous Vehicles**|Ashiyana Abdul Majeed et.al.|[2607.10942](http://arxiv.org/abs/2607.10942)|null|
@@ -4306,12 +4322,13 @@
 |**2019-09-18**|**A*3D Dataset: Towards Autonomous Driving in Challenging Environments**|Quang-Hieu Pham et.al.|[1909.07541](http://arxiv.org/abs/1909.07541)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
 
 ## Mamba
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**MambaPSA: A Mamba-based Replacement for C2PSA in YOLO26**|Sheng-Wei Chan et.al.|[2607.12681](http://arxiv.org/abs/2607.12681)|null|
 |**2026-07-13**|**An Exact Instrument for State Usage in Selective State-Space Models, and the Input-Driven Migration It Reveals**|Raktim Bhattacharya et.al.|[2607.11796](http://arxiv.org/abs/2607.11796)|null|
 |**2026-07-13**|**Machines that Predict Trajectories from Templates**|Claudio De Persis et.al.|[2607.11551](http://arxiv.org/abs/2607.11551)|null|
 |**2026-07-11**|**DSSMs: State Space Models with Explicit Memory via Delay Differential Equations**|Yixiao Qian et.al.|[2607.10244](http://arxiv.org/abs/2607.10244)|null|
@@ -5318,5 +5335,5 @@
 |**2024-11-26**|**PointMamba: A Simple State Space Model for Point Cloud Analysis**|Dingkang Liang et.al.|[2402.10739](http://arxiv.org/abs/2402.10739)|**[link](https://github.com/LMD0311/PointMamba)**|
 |**2024-11-15**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|**[link](https://github.com/hustvl/Vim)**|
 
-<p align=right>(<a href=#updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260715>back to top</a>)</p>
 

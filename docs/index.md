@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.07.14
+## Updated on 2026.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-14**|**Breaking Déjà Vu: Independent Auditing of Visual Place Recognition through Vision-Language Reasoning**|Sania Waheed et.al.|[2607.12818](http://arxiv.org/abs/2607.12818)|null|
+|**2026-07-14**|**Towards Vision-Free CIR: Attribute-Augmented Scoring and LLM-Based Reranking for Zero-Shot Composed Image Retrieval**|Ryotaro Shimada et.al.|[2607.12621](http://arxiv.org/abs/2607.12621)|null|
+|**2026-07-14**|**Adaptive Cross-Modal Fusion with Sparse Attention for Pedestrian Crossing Intention Prediction**|Md Mahfuzur Rahman et.al.|[2607.12293](http://arxiv.org/abs/2607.12293)|null|
+|**2026-07-14**|**GeoSEAN: Explainable Country-Level Image Geolocation for ASEAN Regions**|Muhamad Syukron et.al.|[2607.12284](http://arxiv.org/abs/2607.12284)|null|
 |**2026-07-08**|**GReFEM: Multimodal LLMs as Zero-Shot Semantic Assistants for Physics-Guided 3D Mesh Refinement**|Kartik Bali et.al.|[2607.08798](http://arxiv.org/abs/2607.08798)|null|
 |**2026-07-07**|**SASGeo: Stability-Aware Semantic Map Localization for GNSS-Denied UAVs -- A Framework and Synthetic Proof of Concept**|Natalia Trukhina et.al.|[2607.07737](http://arxiv.org/abs/2607.07737)|null|
 |**2026-07-08**|**MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models**|Hyunjae Kim et.al.|[2607.07673](http://arxiv.org/abs/2607.07673)|null|
@@ -1050,7 +1054,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-13**|**ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space**|Mingchao Sun et.al.|[2607.11673](http://arxiv.org/abs/2607.11673)|null|
+|**2026-07-14**|**ExtraGS: Enhancing Endoscopic View Extrapolation via Diffusion-Guided 3D Gaussian Splatting**|Cheng-Tai Hsieh et.al.|[2607.12785](http://arxiv.org/abs/2607.12785)|null|
+|**2026-07-14**|**SpeedyGS: Content-Aware 3D Gaussian Splatting Compression via Two-Stage Optimization**|Junteng Zhang et.al.|[2607.12656](http://arxiv.org/abs/2607.12656)|null|
+|**2026-07-14**|**GeoFovea-GS: Geometry-Aware Cross-Layer Gaussian Splatting for Wireless Aerial VR**|Zeyi Ren et.al.|[2607.12641](http://arxiv.org/abs/2607.12641)|null|
+|**2026-07-14**|**Detecting Rendering Bugs in Imperative Data Visualization Libraries via Equivalent Mutations**|Weiqi Lu et.al.|[2607.12363](http://arxiv.org/abs/2607.12363)|null|
+|**2026-07-14**|**Implicit 4D Gaussian Splatting for Fast Motion with Large Inter-Frame Displacements**|Seung-gyeom Kim et.al.|[2607.12362](http://arxiv.org/abs/2607.12362)|null|
+|**2026-07-14**|**ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space**|Mingchao Sun et.al.|[2607.11673](http://arxiv.org/abs/2607.11673)|null|
 |**2026-07-13**|**HyperGS: Fast and Generalizable Gaussian Video Representation**|Fatimah Zohra et.al.|[2607.11500](http://arxiv.org/abs/2607.11500)|null|
 |**2026-07-13**|**SalientGS: Unified SfM-to-3DGS with Importance-Guided MCMC Gaussian Allocation**|Tianyu Xiong et.al.|[2607.11285](http://arxiv.org/abs/2607.11285)|null|
 |**2026-07-13**|**GeoGS-SLAM: Online Monocular Reconstruction Using Gaussian Splatting with Geometric Priors**|Ruilan Gao et.al.|[2607.11184](http://arxiv.org/abs/2607.11184)|null|
@@ -2525,6 +2534,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-14**|**TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale**|Zhouchonghao Wu et.al.|[2607.13028](http://arxiv.org/abs/2607.13028)|null|
+|**2026-07-14**|**LARAD: Layout-Aware Road Anomaly Detection via Spatial-Logic Reasoning**|Shiyi Mu et.al.|[2607.12858](http://arxiv.org/abs/2607.12858)|null|
+|**2026-07-14**|**Hierarchical Fault Localization for Autonomous Driving Systems with Hypothesis Validation and Intent Analysis**|Rui Zheng et.al.|[2607.12598](http://arxiv.org/abs/2607.12598)|null|
+|**2026-07-14**|**Improving Autonomous Nano-drones Performance via Automated End-to-End Optimization and Deployment of DNNs**|Vlad Niculescu et.al.|[2607.12593](http://arxiv.org/abs/2607.12593)|null|
+|**2026-07-14**|**DeGuNet: Depth-Guided Ultra-Compact Backbones for Efficient LiDAR-Camera 3D Detection**|Haifa Zhang et.al.|[2607.12419](http://arxiv.org/abs/2607.12419)|null|
+|**2026-07-14**|**Adaptive Cross-Modal Fusion with Sparse Attention for Pedestrian Crossing Intention Prediction**|Md Mahfuzur Rahman et.al.|[2607.12293](http://arxiv.org/abs/2607.12293)|null|
+|**2026-07-12**|**LIDAR-AD: A Decoder-Free Latent-Interaction Dreamer with Action-Residual Chains for Autonomous Driving**|Yongzhi Liu et.al.|[2607.11964](http://arxiv.org/abs/2607.11964)|null|
 |**2026-07-13**|**Technical Report on the CVPR 2026@AdvML Workshop Challenge**|Tianyuan Zhang et.al.|[2607.11560](http://arxiv.org/abs/2607.11560)|null|
 |**2026-07-13**|**Real-Time Rulebook-Aware Nonlinear MPC for Autonomous Driving with Priority-Biased Tiered Slacks**|Hadi Hajieghrary et.al.|[2607.10975](http://arxiv.org/abs/2607.10975)|null|
 |**2026-07-12**|**Edge Physical AI Deployment of Vision Transformers on Heterogeneous Edge GPU Targeting Autonomous Vehicles**|Ashiyana Abdul Majeed et.al.|[2607.10942](http://arxiv.org/abs/2607.10942)|null|
@@ -4294,6 +4310,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-14**|**MambaPSA: A Mamba-based Replacement for C2PSA in YOLO26**|Sheng-Wei Chan et.al.|[2607.12681](http://arxiv.org/abs/2607.12681)|null|
 |**2026-07-13**|**An Exact Instrument for State Usage in Selective State-Space Models, and the Input-Driven Migration It Reveals**|Raktim Bhattacharya et.al.|[2607.11796](http://arxiv.org/abs/2607.11796)|null|
 |**2026-07-13**|**Machines that Predict Trajectories from Templates**|Claudio De Persis et.al.|[2607.11551](http://arxiv.org/abs/2607.11551)|null|
 |**2026-07-11**|**DSSMs: State Space Models with Explicit Memory via Delay Differential Equations**|Yixiao Qian et.al.|[2607.10244](http://arxiv.org/abs/2607.10244)|null|
