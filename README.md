@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-17**|**Are All Tokens Necessary for Visual Place Recognition? An Empirical Study of Token Reduction for Efficient Inference**|Tong Jin et.al.|[2607.15563](http://arxiv.org/abs/2607.15563)|null|
+|**2026-07-16**|**VTAP Gripper: Synergizing Fingertip Sensing and a Visuo-Tactile Active Palm for Dexterous In-Hand Manipulation**|Yuhao Zhou et.al.|[2607.15448](http://arxiv.org/abs/2607.15448)|null|
 |**2026-07-16**|**SceneBind: Binding What and Where Across Vision, Audio and Language**|Mingfei Chen et.al.|[2607.15265](http://arxiv.org/abs/2607.15265)|null|
 |**2026-07-16**|**On Success and Simplicity: A Second Look at Transferable Vision-Language Attack Pipeline**|Yuchen Ren et.al.|[2607.14974](http://arxiv.org/abs/2607.14974)|null|
 |**2026-07-16**|**Selectivity Drives Efficiency: Dataset Pruning for Visual Place Recognition**|Tong Jin et.al.|[2607.14897](http://arxiv.org/abs/2607.14897)|null|
@@ -1073,19 +1075,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-17**|**HybridSim: A Physics-Learning Hybrid Digital Twin for mmWave Human Sensing**|Weitao Xiong et.al.|[2607.15806](http://arxiv.org/abs/2607.15806)|null|
+|**2026-07-17**|**ImprovedVBGS: Real-time Continual Variational Bayes Gaussian Splatting**|Damani Mguni-Coker et.al.|[2607.15542](http://arxiv.org/abs/2607.15542)|null|
+|**2026-07-17**|**E3DGS: Unified Geometric-Photometric Equivariance for 3D Gaussian Splatting via Color-as-Geometry Embedding**|Chankyo Kim et.al.|[2607.15536](http://arxiv.org/abs/2607.15536)|null|
+|**2026-07-16**|**GS-RealBlur: A Flexible Data Acquisition Framework for Real-World Image Deblurring**|Mingyang Chen et.al.|[2607.15401](http://arxiv.org/abs/2607.15401)|null|
 |**2026-07-16**|**AeroAct: Action-Centered World-Action Models for Language-Conditioned Quadrotor Flight**|Xinhong Zhang et.al.|[2607.14997](http://arxiv.org/abs/2607.14997)|null|
 |**2026-07-16**|**JADE-GS: Joint Alternating Deblurring Guided by Events in 3D Gaussian Splatting**|Haoyu Fu et.al.|[2607.14990](http://arxiv.org/abs/2607.14990)|null|
 |**2026-07-16**|**Compression of 3D Gaussian Splatting Data Using GPU-friendly Graphics Texture Coding**|Amir Said et.al.|[2607.14513](http://arxiv.org/abs/2607.14513)|null|
 |**2026-07-16**|**Immediate 3D Gaussian Splat Reconstruction of Unordered Input with Global Consistency**|Andreas Meuleman et.al.|[2607.14481](http://arxiv.org/abs/2607.14481)|null|
 |**2026-07-16**|**G $^2$ SR: Geometric Methods for Fast and Memory-Efficient Gaussian-based Surface Reconstruction**|Dasong Gao et.al.|[2607.14470](http://arxiv.org/abs/2607.14470)|null|
-|**2026-07-15**|**Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation**|NVIDIA et.al.|[2607.14203](http://arxiv.org/abs/2607.14203)|null|
+|**2026-07-15**|**Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation**| NVIDIA et.al.|[2607.14203](http://arxiv.org/abs/2607.14203)|null|
 |**2026-07-15**|**Bake It Till You Make It: Ultrafast Spatial Texture-Atlas Splatting**|Neel Kelkar et.al.|[2607.13808](http://arxiv.org/abs/2607.13808)|null|
 |**2026-07-15**|**Calibrated Closed-Form Uncertainty for Radiative Gaussian Splatting in Sparse-View CT**|Chulin Zhao et.al.|[2607.13682](http://arxiv.org/abs/2607.13682)|null|
 |**2026-07-15**|**T3HG-Editor: Text-driven 3D Human Garment Editing with Body Priors Embedded in SMPL-X**|Shaoru Sun et.al.|[2607.13654](http://arxiv.org/abs/2607.13654)|null|
 |**2026-07-15**|**OvisOCR2 Technical Report**|Shiyin Lu et.al.|[2607.13639](http://arxiv.org/abs/2607.13639)|null|
 |**2026-07-15**|**COLMAR: Cooperative View Policy Learning for Multi-Agent Active 3D Reconstruction**|Phu Pham et.al.|[2607.13524](http://arxiv.org/abs/2607.13524)|null|
 |**2026-07-15**|**Learning Physics-Guided Residual Dynamics for Deformable Object Simulation**|Shivansh Patel et.al.|[2607.13451](http://arxiv.org/abs/2607.13451)|null|
-|**2026-07-14**|**Worlds in One Demo: A Synthetic Data Engine for Learning Open-World Mobile Manipulation**|Lingxiao Guo et.al.|[2607.13154](http://arxiv.org/abs/2607.13154)|null|
+|**2026-07-17**|**Worlds in One Demo: A Synthetic Data Engine for Learning Open-World Mobile Manipulation**|Lingxiao Guo et.al.|[2607.13154](http://arxiv.org/abs/2607.13154)|null|
 |**2026-07-15**|**ExtraGS: Enhancing Endoscopic View Extrapolation via Diffusion-Guided 3D Gaussian Splatting**|Cheng-Tai Hsieh et.al.|[2607.12785](http://arxiv.org/abs/2607.12785)|null|
 |**2026-07-14**|**SpeedyGS: Content-Aware 3D Gaussian Splatting Compression via Two-Stage Optimization**|Junteng Zhang et.al.|[2607.12656](http://arxiv.org/abs/2607.12656)|null|
 |**2026-07-14**|**GeoFovea-GS: Geometry-Aware Cross-Layer Gaussian Splatting for Wireless Aerial VR**|Zeyi Ren et.al.|[2607.12641](http://arxiv.org/abs/2607.12641)|null|
@@ -2568,12 +2574,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-17**|**Vision-Language Assistant for Emotional Reactions to Risky Driving**|Harine Choi et.al.|[2607.16181](http://arxiv.org/abs/2607.16181)|null|
+|**2026-07-17**|**Red Light, Grey Zone: A Multi-Perspective Interactive Narrative for Autonomous Driving Ethics**|Mengyi Wei et.al.|[2607.15888](http://arxiv.org/abs/2607.15888)|null|
+|**2026-07-17**|**In the Driver's Seat: A Multi-Company Study on the Reality of Autonomous Driving System Testing**|Qunying Song et.al.|[2607.15820](http://arxiv.org/abs/2607.15820)|null|
+|**2026-07-17**|**Map as a Prompt: Learning Multi-Modal Spatial-Signal Foundation Models for Cross-scenario Wireless Localization**|Yong Chu et.al.|[2607.15713](http://arxiv.org/abs/2607.15713)|null|
+|**2026-07-17**|**SpeechGuard: Online Defense against Backdoor Attacks on Speech Recognition Models**|Jinwen Xin et.al.|[2607.15697](http://arxiv.org/abs/2607.15697)|null|
 |**2026-07-16**|**RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping**|Tianchen Deng et.al.|[2607.15048](http://arxiv.org/abs/2607.15048)|null|
 |**2026-07-16**|**WorkDrive: Roadwork Chain of Causation for Autonomous Driving**|Tianyi Jiang et.al.|[2607.14727](http://arxiv.org/abs/2607.14727)|null|
 |**2026-07-16**|**Variational Inference for Bird's Eye View Segmentation in Autonomous Driving**|Jingyue Shi et.al.|[2607.14710](http://arxiv.org/abs/2607.14710)|null|
 |**2026-07-15**|**Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving**|Yuan Gao et.al.|[2607.14387](http://arxiv.org/abs/2607.14387)|null|
 |**2026-07-15**|**3D Lane Detection with Odometry for High-Speed Vehicle Racing**|Omoruyi Atekha et.al.|[2607.14248](http://arxiv.org/abs/2607.14248)|null|
-|**2026-07-15**|**Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation**|NVIDIA et.al.|[2607.14203](http://arxiv.org/abs/2607.14203)|null|
+|**2026-07-15**|**Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation**| NVIDIA et.al.|[2607.14203](http://arxiv.org/abs/2607.14203)|null|
 |**2026-07-15**|**M $^\text{4}$ World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming**|Ke Cheng et.al.|[2607.14005](http://arxiv.org/abs/2607.14005)|null|
 |**2026-07-15**|**Cyclone: Diffusion Model for Cycle-Consistent Weather Editing from Unpaired Driving Data**|Thang-Anh-Quan Nguyen et.al.|[2607.13927](http://arxiv.org/abs/2607.13927)|null|
 |**2026-07-15**|**S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving**|Jianguo Yu et.al.|[2607.13926](http://arxiv.org/abs/2607.13926)|null|
