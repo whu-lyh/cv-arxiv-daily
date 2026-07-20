@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.19
+## Updated on 2026.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -1064,7 +1064,7 @@ layout: default
 |**2026-07-16**|**Compression of 3D Gaussian Splatting Data Using GPU-friendly Graphics Texture Coding**|Amir Said et.al.|[2607.14513](http://arxiv.org/abs/2607.14513)|null|
 |**2026-07-16**|**Immediate 3D Gaussian Splat Reconstruction of Unordered Input with Global Consistency**|Andreas Meuleman et.al.|[2607.14481](http://arxiv.org/abs/2607.14481)|null|
 |**2026-07-16**|**G $^2$ SR: Geometric Methods for Fast and Memory-Efficient Gaussian-based Surface Reconstruction**|Dasong Gao et.al.|[2607.14470](http://arxiv.org/abs/2607.14470)|null|
-|**2026-07-15**|**Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation**| NVIDIA et.al.|[2607.14203](http://arxiv.org/abs/2607.14203)|null|
+|**2026-07-15**|**Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation**|NVIDIA et.al.|[2607.14203](http://arxiv.org/abs/2607.14203)|null|
 |**2026-07-15**|**Bake It Till You Make It: Ultrafast Spatial Texture-Atlas Splatting**|Neel Kelkar et.al.|[2607.13808](http://arxiv.org/abs/2607.13808)|null|
 |**2026-07-15**|**Calibrated Closed-Form Uncertainty for Radiative Gaussian Splatting in Sparse-View CT**|Chulin Zhao et.al.|[2607.13682](http://arxiv.org/abs/2607.13682)|null|
 |**2026-07-15**|**T3HG-Editor: Text-driven 3D Human Garment Editing with Body Priors Embedded in SMPL-X**|Shaoru Sun et.al.|[2607.13654](http://arxiv.org/abs/2607.13654)|null|
@@ -1683,7 +1683,7 @@ layout: default
 |**2026-03-15**|**In-Field 3D Wheat Head Instance Segmentation From TLS Point Clouds Using Deep Learning Without Manual Labels**|Tomislav Medic et.al.|[2603.14309](http://arxiv.org/abs/2603.14309)|null|
 |**2026-03-15**|**4D Synchronized Fields: Motion-Language Gaussian Splatting for Temporal Scene Understanding**|Mohamed Rayan Barhdadi et.al.|[2603.14301](http://arxiv.org/abs/2603.14301)|null|
 |**2026-03-15**|**S2GS: Streaming Semantic Gaussian Splatting for Online Scene Understanding and Reconstruction**|Renhe Zhang et.al.|[2603.14232](http://arxiv.org/abs/2603.14232)|null|
-|**2026-03-14**|**PhyGaP: Physically-Grounded Gaussians with Polarization Cues**|Jiale Wu et.al.|[2603.14001](http://arxiv.org/abs/2603.14001)|null|
+|**2026-03-14**|**PhyGaP: Physically-Grounded Gaussians with Polarization Cues**|Jiale Wu et.al.|[2603.14001](http://arxiv.org/abs/2603.14001)|**[link](https://github.com/Kelvar00/PhyGaP)**|
 |**2026-03-14**|**Scene Generation at Absolute Scale: Utilizing Semantic and Geometric Guidance From Text for Accurate and Interpretable 3D Indoor Scene Generation**|Stefan Ainetter et.al.|[2603.13910](http://arxiv.org/abs/2603.13910)|null|
 |**2026-03-14**|**RetimeGS: Continuous-Time Reconstruction of 4D Gaussian Splatting**|Xuezhen Wang et.al.|[2603.13783](http://arxiv.org/abs/2603.13783)|null|
 |**2026-03-13**|**NumColor: Precise Numeric Color Control in Text-to-Image Generation**|Muhammad Atif Butt et.al.|[2603.13547](http://arxiv.org/abs/2603.13547)|null|
@@ -2362,11 +2362,11 @@ layout: default
 |**2025-10-14**|**G4Splat: Geometry-Guided Gaussian Splatting with Generative Prior**|Junfeng Ni et.al.|[2510.12099](http://arxiv.org/abs/2510.12099)|null|
 |**2025-10-13**|**GS-Verse: Mesh-based Gaussian Splatting for Physics-aware Interaction in Virtual Reality**|Anastasiya Pechko et.al.|[2510.11878](http://arxiv.org/abs/2510.11878)|null|
 |**2025-10-13**|**Ev4DGS: Novel-view Rendering of Non-Rigid Objects from Monocular Event Streams**|Takuya Nakabayashi et.al.|[2510.11717](http://arxiv.org/abs/2510.11717)|null|
-|**2025-10-13**|**Phys2Real: Fusing VLM Priors with Interactive Online Adaptation for Uncertainty-Aware Sim-to-Real Manipulation**|Maggie Wang et.al.|[2510.11689](http://arxiv.org/abs/2510.11689)|null|
-|**2025-10-13**|**VA-GS: Enhancing the Geometric Representation of Gaussian Splatting via View Alignment**|Qing Li et.al.|[2510.11473](http://arxiv.org/abs/2510.11473)|null|
-|**2025-10-13**|**MaterialRefGS: Reflective Gaussian Splatting with Multi-view Consistent Material Inference**|Wenyuan Zhang et.al.|[2510.11387](http://arxiv.org/abs/2510.11387)|null|
+|**2025-10-13**|**Phys2Real: Fusing VLM Priors with Interactive Online Adaptation for Uncertainty-Aware Sim-to-Real Manipulation**|Maggie Wang et.al.|[2510.11689](http://arxiv.org/abs/2510.11689)|**[link](https://github.com/phys2real/phys2real)**|
+|**2025-10-13**|**VA-GS: Enhancing the Geometric Representation of Gaussian Splatting via View Alignment**|Qing Li et.al.|[2510.11473](http://arxiv.org/abs/2510.11473)|**[link](https://github.com/LeoQLi/VA-GS)**|
+|**2025-10-13**|**MaterialRefGS: Reflective Gaussian Splatting with Multi-view Consistent Material Inference**|Wenyuan Zhang et.al.|[2510.11387](http://arxiv.org/abs/2510.11387)|**[link](https://github.com/wen-yuan-zhang/MaterialRefGS)**|
 |**2025-10-12**|**Dynamic Gaussian Splatting from Defocused and Motion-blurred Monocular Videos**|Xuankai Zhang et.al.|[2510.10691](http://arxiv.org/abs/2510.10691)|null|
-|**2025-10-12**|**High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic Manipulation Learning with Gaussian Splatting**|Haoyu Zhao et.al.|[2510.10637](http://arxiv.org/abs/2510.10637)|null|
+|**2025-10-12**|**High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic Manipulation Learning with Gaussian Splatting**|Haoyu Zhao et.al.|[2510.10637](http://arxiv.org/abs/2510.10637)|**[link](https://github.com/Maxwell-Zhao/RoboSimGS)**|
 |**2025-10-12**|**Towards Efficient 3D Gaussian Human Avatar Compression: A Prior-Guided Framework**|Shanzhi Yin et.al.|[2510.10492](http://arxiv.org/abs/2510.10492)|null|
 |**2025-10-11**|**Opacity-Gradient Driven Density Control for Compact and Efficient Few-Shot 3D Gaussian Splatting**|Abdelrhman Elrawy et.al.|[2510.10257](http://arxiv.org/abs/2510.10257)|null|
 |**2025-10-11**|**Color3D: Controllable and Consistent 3D Colorization with Personalized Colorizer**|Yecong Wan et.al.|[2510.10152](http://arxiv.org/abs/2510.10152)|**[link](https://github.com/yecongwan/Color3D)**|
@@ -2557,7 +2557,7 @@ layout: default
 |**2026-07-16**|**Variational Inference for Bird's Eye View Segmentation in Autonomous Driving**|Jingyue Shi et.al.|[2607.14710](http://arxiv.org/abs/2607.14710)|null|
 |**2026-07-15**|**Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving**|Yuan Gao et.al.|[2607.14387](http://arxiv.org/abs/2607.14387)|null|
 |**2026-07-15**|**3D Lane Detection with Odometry for High-Speed Vehicle Racing**|Omoruyi Atekha et.al.|[2607.14248](http://arxiv.org/abs/2607.14248)|null|
-|**2026-07-15**|**Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation**| NVIDIA et.al.|[2607.14203](http://arxiv.org/abs/2607.14203)|null|
+|**2026-07-15**|**Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation**|NVIDIA et.al.|[2607.14203](http://arxiv.org/abs/2607.14203)|null|
 |**2026-07-15**|**M $^\text{4}$ World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming**|Ke Cheng et.al.|[2607.14005](http://arxiv.org/abs/2607.14005)|null|
 |**2026-07-15**|**Cyclone: Diffusion Model for Cycle-Consistent Weather Editing from Unpaired Driving Data**|Thang-Anh-Quan Nguyen et.al.|[2607.13927](http://arxiv.org/abs/2607.13927)|null|
 |**2026-07-15**|**S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving**|Jianguo Yu et.al.|[2607.13926](http://arxiv.org/abs/2607.13926)|null|
@@ -3012,7 +3012,7 @@ layout: default
 |**2026-04-27**|**CLLAP: Contrastive Learning-based LiDAR-Augmented Pretraining for Enhanced Radar-Camera Fusion**|Bingyi Liu et.al.|[2604.24044](http://arxiv.org/abs/2604.24044)|null|
 |**2026-04-27**|**VLM-VPI: A Vision-Language Reasoning Framework for Improving Automated Vehicle-Pedestrian Interactions**|Qingwen Pu et.al.|[2604.23934](http://arxiv.org/abs/2604.23934)|null|
 |**2026-04-26**|**ESIA: An Energy-Based Spatiotemporal Interaction-Aware Framework for Pedestrian Intention Prediction**|Yanping Wu et.al.|[2604.23728](http://arxiv.org/abs/2604.23728)|null|
-|**2026-04-26**|**Learning to Identify Out-of-Distribution Objects for 3D LiDAR Anomaly Segmentation**|Simone Mosco et.al.|[2604.23604](http://arxiv.org/abs/2604.23604)|null|
+|**2026-04-26**|**Learning to Identify Out-of-Distribution Objects for 3D LiDAR Anomaly Segmentation**|Simone Mosco et.al.|[2604.23604](http://arxiv.org/abs/2604.23604)|**[link](https://github.com/SiMoM0/LIDO)**|
 |**2026-04-26**|**Grammar-Constrained Refinement of Safety Operational Rules Using Language in the Loop: What Could Go Wrong**|Khouloud Gaaloul et.al.|[2604.23523](http://arxiv.org/abs/2604.23523)|null|
 |**2026-04-26**|**Large Language Model based Interactive Decision-Making for Autonomous Driving**|Xinwei Dong et.al.|[2604.23513](http://arxiv.org/abs/2604.23513)|null|
 |**2026-04-25**|**UniAda: Universal Adaptive Multi-objective Adversarial Attack for End-to-End Autonomous Driving Systems**|Jingyu Zhang et.al.|[2604.23362](http://arxiv.org/abs/2604.23362)|null|
@@ -3425,7 +3425,7 @@ layout: default
 |**2026-02-14**|**Privacy-Concealing Cooperative Perception for BEV Scene Segmentation**|Song Wang et.al.|[2602.13555](http://arxiv.org/abs/2602.13555)|null|
 |**2026-02-14**|**Nighttime Autonomous Driving Scene Reconstruction with Physically-Based Gaussian Splatting**|Tae-Kyeong Kim et.al.|[2602.13549](http://arxiv.org/abs/2602.13549)|null|
 |**2026-02-13**|**TCRL: Temporal-Coupled Adversarial Training for Robust Constrained Reinforcement Learning in Worst-Case Scenarios**|Wentao Xu et.al.|[2602.13040](http://arxiv.org/abs/2602.13040)|null|
-|**2026-02-13**|**MASAR: Motion-Appearance Synergy Refinement for Joint Detection and Trajectory Forecasting**|Mohammed Amine Bencheikh Lehocine et.al.|[2602.13003](http://arxiv.org/abs/2602.13003)|null|
+|**2026-02-13**|**MASAR: Motion-Appearance Synergy Refinement for Joint Detection and Trajectory Forecasting**|Mohammed Amine Bencheikh Lehocine et.al.|[2602.13003](http://arxiv.org/abs/2602.13003)|**[link](https://github.com/aminmed/MASAR)**|
 |**2026-02-13**|**RoadscapesQA: A Multitask, Multimodal Dataset for Visual Question Answering on Indian Roads**|Vijayasri Iyer et.al.|[2602.12877](http://arxiv.org/abs/2602.12877)|null|
 |**2026-02-13**|**DPUConfig: Optimizing ML Inference in FPGAs Using Reinforcement Learning**|Alexandros Patras et.al.|[2602.12847](http://arxiv.org/abs/2602.12847)|null|
 |**2026-02-13**|**The Constant Eye: Benchmarking and Bridging Appearance Robustness in Autonomous Driving**|Jiabao Wang et.al.|[2602.12563](http://arxiv.org/abs/2602.12563)|null|

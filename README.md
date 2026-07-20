@@ -1,4 +1,4 @@
-## Updated on 2026.07.19
+## Updated on 2026.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -854,7 +854,7 @@
 |**2018-05-16**|**Visual Global Localization with a Hybrid WNN-CNN Approach**|Avelino Forechi et.al.|[1805.03183](http://arxiv.org/abs/1805.03183)|**[link](https://github.com/LCAD-UFES/WNN-CNN-GL)**|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|null|
 
-<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
 
 ## Point Cloud Place Recognition
 
@@ -942,7 +942,7 @@
 |**2024-10-10**|**Monocular Visual Place Recognition in LiDAR Maps via Cross-Modal State Space Model and Multi-View Matching**|Gongxin Yao et.al.|[2410.06285](http://arxiv.org/abs/2410.06285)|null|
 |**2025-05-19**|**A Deeper Look into Second-Order Feature Aggregation for LiDAR Place Recognition**|Saimunur Rahman et.al.|[2409.15919](http://arxiv.org/abs/2409.15919)|null|
 |**2024-09-06**|**Matched Filtering based LiDAR Place Recognition for Urban and Natural Environments**|Therese Joseph et.al.|[2409.03998](http://arxiv.org/abs/2409.03998)|null|
-|**2024-10-02**|**Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**|Hogyun Kim et.al.|[2408.07330](http://arxiv.org/abs/2408.07330)|null|
+|**2024-10-02**|**Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**|Hogyun Kim et.al.|[2408.07330](http://arxiv.org/abs/2408.07330)|**[link](https://github.com/kimsoohwan/SOLiD-A-LOAM)**|
 |**2024-07-31**|**SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition**|Raktim Gautam Goswami et.al.|[2407.08260](http://arxiv.org/abs/2407.08260)|null|
 |**2024-06-21**|**Voxel-Based Point Cloud Localization for Smart Spaces Management**|F. S. Mortazavi et.al.|[2406.15110](http://arxiv.org/abs/2406.15110)|null|
 |**2024-10-09**|**PointNetPGAP-SLC: A 3D LiDAR-based Place Recognition Approach with Segment-level Consistency Training for Mobile Robots in Horticulture**|T. Barros et.al.|[2405.19038](http://arxiv.org/abs/2405.19038)|**[link](https://github.com/Cybonic/PointNetPGAP-SLC)**|
@@ -964,7 +964,7 @@
 |**2020-08-04**|**PIC-Net: Point Cloud and Image Collaboration Network for Large-Scale Place Recognition**|Yuheng Lu et.al.|[2008.00658](http://arxiv.org/abs/2008.00658)|null|
 |**2020-07-06**|**LOL: Lidar-Only Odometry and Localization in 3D Point Cloud Maps**|David Rozenberszki et.al.|[2007.01595](http://arxiv.org/abs/2007.01595)|**[link](https://github.com/RozDavid/LOL)**|
 
-<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
 
 ## Cross-modality Localization
 
@@ -1067,7 +1067,7 @@
 |**2021-07-28**|**Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization**|Fa-Ting Hong et.al.|[2107.12589](http://arxiv.org/abs/2107.12589)|null|
 |**2020-09-15**|**RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization**|Niluthpol Chowdhury Mithun et.al.|[2009.05695](http://arxiv.org/abs/2009.05695)|null|
 
-<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
 
 ## 3D GS
 
@@ -1078,7 +1078,7 @@
 |**2026-07-16**|**Compression of 3D Gaussian Splatting Data Using GPU-friendly Graphics Texture Coding**|Amir Said et.al.|[2607.14513](http://arxiv.org/abs/2607.14513)|null|
 |**2026-07-16**|**Immediate 3D Gaussian Splat Reconstruction of Unordered Input with Global Consistency**|Andreas Meuleman et.al.|[2607.14481](http://arxiv.org/abs/2607.14481)|null|
 |**2026-07-16**|**G $^2$ SR: Geometric Methods for Fast and Memory-Efficient Gaussian-based Surface Reconstruction**|Dasong Gao et.al.|[2607.14470](http://arxiv.org/abs/2607.14470)|null|
-|**2026-07-15**|**Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation**| NVIDIA et.al.|[2607.14203](http://arxiv.org/abs/2607.14203)|null|
+|**2026-07-15**|**Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation**|NVIDIA et.al.|[2607.14203](http://arxiv.org/abs/2607.14203)|null|
 |**2026-07-15**|**Bake It Till You Make It: Ultrafast Spatial Texture-Atlas Splatting**|Neel Kelkar et.al.|[2607.13808](http://arxiv.org/abs/2607.13808)|null|
 |**2026-07-15**|**Calibrated Closed-Form Uncertainty for Radiative Gaussian Splatting in Sparse-View CT**|Chulin Zhao et.al.|[2607.13682](http://arxiv.org/abs/2607.13682)|null|
 |**2026-07-15**|**T3HG-Editor: Text-driven 3D Human Garment Editing with Body Priors Embedded in SMPL-X**|Shaoru Sun et.al.|[2607.13654](http://arxiv.org/abs/2607.13654)|null|
@@ -2562,7 +2562,7 @@
 |**2024-03-26**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095](http://arxiv.org/abs/2403.16095)|null|
 |**2024-04-09**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700](http://arxiv.org/abs/2311.11700)|null|
 
-<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -2573,7 +2573,7 @@
 |**2026-07-16**|**Variational Inference for Bird's Eye View Segmentation in Autonomous Driving**|Jingyue Shi et.al.|[2607.14710](http://arxiv.org/abs/2607.14710)|null|
 |**2026-07-15**|**Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving**|Yuan Gao et.al.|[2607.14387](http://arxiv.org/abs/2607.14387)|null|
 |**2026-07-15**|**3D Lane Detection with Odometry for High-Speed Vehicle Racing**|Omoruyi Atekha et.al.|[2607.14248](http://arxiv.org/abs/2607.14248)|null|
-|**2026-07-15**|**Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation**| NVIDIA et.al.|[2607.14203](http://arxiv.org/abs/2607.14203)|null|
+|**2026-07-15**|**Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation**|NVIDIA et.al.|[2607.14203](http://arxiv.org/abs/2607.14203)|null|
 |**2026-07-15**|**M $^\text{4}$ World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming**|Ke Cheng et.al.|[2607.14005](http://arxiv.org/abs/2607.14005)|null|
 |**2026-07-15**|**Cyclone: Diffusion Model for Cycle-Consistent Weather Editing from Unpaired Driving Data**|Thang-Anh-Quan Nguyen et.al.|[2607.13927](http://arxiv.org/abs/2607.13927)|null|
 |**2026-07-15**|**S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving**|Jianguo Yu et.al.|[2607.13926](http://arxiv.org/abs/2607.13926)|null|
@@ -4354,7 +4354,7 @@
 |**2019-09-18**|**A*3D Dataset: Towards Autonomous Driving in Challenging Environments**|Quang-Hieu Pham et.al.|[1909.07541](http://arxiv.org/abs/1909.07541)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
 
 ## Mamba
 
@@ -5372,5 +5372,5 @@
 |**2024-11-26**|**PointMamba: A Simple State Space Model for Point Cloud Analysis**|Dingkang Liang et.al.|[2402.10739](http://arxiv.org/abs/2402.10739)|**[link](https://github.com/LMD0311/PointMamba)**|
 |**2024-11-15**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|**[link](https://github.com/hustvl/Vim)**|
 
-<p align=right>(<a href=#updated-on-20260719>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260720>back to top</a>)</p>
 
