@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.07.20
+## Updated on 2026.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-18**|**C3DIR: A Deep Learning 3-Dimensional Cloud Property Retrieval Scheme for Passive Satellite Imagers**|Charles H. White et.al.|[2607.16929](http://arxiv.org/abs/2607.16929)|null|
+|**2026-07-18**|**When Do Multimodal and Graph-Augmented RAG Help? A Controlled Evaluation for Document Question Answering**|Sokipriala Jonah et.al.|[2607.16604](http://arxiv.org/abs/2607.16604)|null|
+|**2026-07-09**|**A Step Forward Towards Trustworthy Risk-Aware Facial Retrieval (RA-FR)**|Muhammad Emmad Siddiqui et.al.|[2607.16279](http://arxiv.org/abs/2607.16279)|null|
 |**2026-07-17**|**Are All Tokens Necessary for Visual Place Recognition? An Empirical Study of Token Reduction for Efficient Inference**|Tong Jin et.al.|[2607.15563](http://arxiv.org/abs/2607.15563)|null|
 |**2026-07-16**|**VTAP Gripper: Synergizing Fingertip Sensing and a Visuo-Tactile Active Palm for Dexterous In-Hand Manipulation**|Yuhao Zhou et.al.|[2607.15448](http://arxiv.org/abs/2607.15448)|null|
 |**2026-07-16**|**SceneBind: Binding What and Where Across Vision, Audio and Language**|Mingfei Chen et.al.|[2607.15265](http://arxiv.org/abs/2607.15265)|null|
@@ -852,6 +855,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-18**|**InLiER: Learning-Free Heterogeneous LiDAR Place Recognition via Intermediate Mixed-Radix Structural Keypoint Tokenization**|Nikolaos Stathoulopoulos et.al.|[2607.16862](http://arxiv.org/abs/2607.16862)|null|
 |**2026-07-02**|**Comprehensive Robustness Analysis of LiDAR-based 3D Object Detection in Autonomous Driving**|Adwait Chandorkar et.al.|[2607.02074](http://arxiv.org/abs/2607.02074)|null|
 |**2026-06-17**|**Aerial-ground LiDAR place recognition with patch-level self-supervised learning and expanded reciprocal re-ranking**|Yandi Yang et.al.|[2606.18583](http://arxiv.org/abs/2606.18583)|null|
 |**2026-06-13**|**G2IA: Geometry-Guided Instance-Aware Retrieval and Refinement for Cross-Modal Place Recognition**|Xianyun Jiao et.al.|[2606.15287](http://arxiv.org/abs/2606.15287)|null|
@@ -1061,6 +1065,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**QIRF Quantum-Inspired Non-Orthogonal Function-Space Compression for 3D Gaussian Splatting**|Shizeng Jiang et.al.|[2607.18067](http://arxiv.org/abs/2607.18067)|null|
+|**2026-07-20**|**Exploration Matters for Escaping the Blur Trap in 3D Gaussian Splatting**|Chengbo Wang et.al.|[2607.17965](http://arxiv.org/abs/2607.17965)|null|
+|**2026-07-20**|**Packet-Loss Robust 3D Gaussian Compression via Atomic Packaging and GNN-based Error Concealment**|Yuxuan Tao et.al.|[2607.17916](http://arxiv.org/abs/2607.17916)|null|
+|**2026-07-20**|**Locality-Aware Density Control for Efficient Gaussian-based Image Representation**|Jiacong Chen et.al.|[2607.17896](http://arxiv.org/abs/2607.17896)|null|
+|**2026-07-20**|**CaT-GS: Efficient 3DGS Rendering for Large Scale Scenes via Inter-frame Caching and Tile Scheduling**|Tingjia Zhang et.al.|[2607.17842](http://arxiv.org/abs/2607.17842)|null|
+|**2026-07-20**|**FF-ProCams: Feed-Forward Gaussian Splatting for Projector-Camera System**|Ziyao Wang et.al.|[2607.17803](http://arxiv.org/abs/2607.17803)|null|
+|**2026-07-20**|**FillGauss: Fine-Grained Filling-Aware Impact Sound Generation for 3D Gaussian Splatting**|Chen Yang et.al.|[2607.17773](http://arxiv.org/abs/2607.17773)|null|
+|**2026-07-18**|**Splat-based 3D Scene Reconstruction with Extreme Motion-blur**|Hyeonjoong Jang et.al.|[2607.16926](http://arxiv.org/abs/2607.16926)|null|
+|**2026-07-18**|**TopoGS: Planar Reconstruction via Topology-aware 3D Gaussian Splatting**|Shanshan Pan et.al.|[2607.16838](http://arxiv.org/abs/2607.16838)|null|
+|**2026-07-18**|**SPARE-GS: Structural Parsimony and Resource Efficiency for 3D Gaussian Splatting**|Zhang Chen et.al.|[2607.16624](http://arxiv.org/abs/2607.16624)|null|
+|**2026-07-17**|**OmniStyle-INR: Universal and Multimodal Style Transfer for INRs**|Rafał Kajca et.al.|[2607.16362](http://arxiv.org/abs/2607.16362)|null|
 |**2026-07-17**|**HybridSim: A Physics-Learning Hybrid Digital Twin for mmWave Human Sensing**|Weitao Xiong et.al.|[2607.15806](http://arxiv.org/abs/2607.15806)|null|
 |**2026-07-17**|**ImprovedVBGS: Real-time Continual Variational Bayes Gaussian Splatting**|Damani Mguni-Coker et.al.|[2607.15542](http://arxiv.org/abs/2607.15542)|null|
 |**2026-07-17**|**E3DGS: Unified Geometric-Photometric Equivariance for 3D Gaussian Splatting via Color-as-Geometry Embedding**|Chankyo Kim et.al.|[2607.15536](http://arxiv.org/abs/2607.15536)|null|
@@ -2558,6 +2573,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**Compositional Semantic Communication for Physical AI: Category Theory Meets Game Theory**|Christo Kurisummoottil Thomas et.al.|[2607.18115](http://arxiv.org/abs/2607.18115)|null|
+|**2026-07-20**|**A2RL V\textsubscript{max}: The A2RL autonomous racing dataset for long-range, high-speed perception and multi-vehicle interaction**|Marvin Klemp et.al.|[2607.17813](http://arxiv.org/abs/2607.17813)|null|
+|**2026-07-20**|**VLN-AVP: Zero-Shot Vision-Language Navigation with Hybrid Long-Short-Term Memory for Autonomous Valet Parking**|Yijian Li et.al.|[2607.17767](http://arxiv.org/abs/2607.17767)|null|
+|**2026-07-20**|**GeoWorldAD: Geometry World Action Model for Autonomous Driving**|Songyan Zhang et.al.|[2607.17521](http://arxiv.org/abs/2607.17521)|null|
+|**2026-07-18**|**SinD 2.0: A Multi-City UAV Dataset with Semantic Risk Annotations for SOTIF-Oriented Safety Validation at Signalized Intersections**|Yunwei Li et.al.|[2607.16943](http://arxiv.org/abs/2607.16943)|null|
+|**2026-07-18**|**What Do They See? Interpreting Complex Road Scenarios Through the Eyes of Vision-Language-Action Models for Safe and Trustworthy Autonomous Vehicle Learning**|Kalpana Panda et.al.|[2607.16938](http://arxiv.org/abs/2607.16938)|null|
+|**2026-07-18**|**Hybrid Machine Learning for Articulation Angle Estimation of Truck-Semitrailer Combinations**|Qixuan Zhang et.al.|[2607.16758](http://arxiv.org/abs/2607.16758)|null|
+|**2026-07-18**|**From Modalities to Propositions: A Language-Centric Framework for Multimodal Intelligence**|Nadine Chang et.al.|[2607.16560](http://arxiv.org/abs/2607.16560)|null|
 |**2026-07-17**|**Vision-Language Assistant for Emotional Reactions to Risky Driving**|Harine Choi et.al.|[2607.16181](http://arxiv.org/abs/2607.16181)|null|
 |**2026-07-17**|**Red Light, Grey Zone: A Multi-Perspective Interactive Narrative for Autonomous Driving Ethics**|Mengyi Wei et.al.|[2607.15888](http://arxiv.org/abs/2607.15888)|null|
 |**2026-07-17**|**In the Driver's Seat: A Multi-Company Study on the Reality of Autonomous Driving System Testing**|Qunying Song et.al.|[2607.15820](http://arxiv.org/abs/2607.15820)|null|
@@ -4353,6 +4376,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**Adaptive Mamba Neural Operators**|Zeyuan Song et.al.|[2607.18043](http://arxiv.org/abs/2607.18043)|null|
+|**2026-07-20**|**Online learning of neural state-space models**|Bendegúz Györök et.al.|[2607.17614](http://arxiv.org/abs/2607.17614)|null|
+|**2026-07-19**|**A recursive subspace based method for errors-in-variables model identification of time-varying systems**|Deepanjhan Das et.al.|[2607.17065](http://arxiv.org/abs/2607.17065)|null|
 |**2026-07-16**|**Statistical Modelling of Planetary Boundary Layer Height and Its Measurement Uncertainty Using GRUAN Profiles**|Tommaso Locatelli et.al.|[2607.14960](http://arxiv.org/abs/2607.14960)|null|
 |**2026-07-15**|**DCVC-MB: Neural B-Frame Video Compression using State Space Models**|Arjun Arora et.al.|[2607.14305](http://arxiv.org/abs/2607.14305)|null|
 |**2026-07-16**|**A modular state-space model of human perception, cognition, and decision dynamics**|Sven Schoonebeek et.al.|[2607.14078](http://arxiv.org/abs/2607.14078)|null|
