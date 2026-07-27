@@ -17,7 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-07-23**|**CRAG-MM-Diagnostics: Enabling Stage-Wise Analysis of Knowledge-Intensive VQA**|Hanseok Oh et.al.|[2607.21155](http://arxiv.org/abs/2607.21155)|**[link](https://github.com/McGill-NLP/crag-mm-diagnostics)**|
+|**2026-07-24**|**Visual Relocalization from Sparse Views in Aliased and Low-Texture Environments via Novel View Synthesis**|Maria Peribañez et.al.|[2607.22147](http://arxiv.org/abs/2607.22147)|null|
+|**2026-07-23**|**CRAG-MM-Diagnostics: Enabling Stage-Wise Analysis of Knowledge-Intensive VQA**|Hanseok Oh et.al.|[2607.21155](http://arxiv.org/abs/2607.21155)|null|
 |**2026-07-23**|**Webly Supervised Multi-Label Recognition: Evaluation Benchmark and Dual-Branch Multi-Label Contrastive Learning**|Zhihua Xu et.al.|[2607.20874](http://arxiv.org/abs/2607.20874)|**[link](https://github.com/zizizihua/WS-MLR)**|
 |**2026-07-22**|**Diverse-Intent Multi-Turn Fashion Image Retrieval**|Mingqiang Tang et.al.|[2607.20291](http://arxiv.org/abs/2607.20291)|null|
 |**2026-07-22**|**RIM: A Retrieval-In-Matching Framework for Cross-Domain Global Visual Localization of UAVs**|Xin Li et.al.|[2607.20116](http://arxiv.org/abs/2607.20116)|null|
@@ -1093,8 +1094,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-24**|**Visual Relocalization from Sparse Views in Aliased and Low-Texture Environments via Novel View Synthesis**|Maria Peribañez et.al.|[2607.22147](http://arxiv.org/abs/2607.22147)|null|
+|**2026-07-23**|**Pixels for Programs? A Cross-Provider Case Study of Input-Token Accounting for Source Code as Text and Images**|Ronak Bhalgami et.al.|[2607.21672](http://arxiv.org/abs/2607.21672)|null|
 |**2026-07-23**|**Scene Parameter Saliency via Differentiable Light Transport**|Linas Beresna et.al.|[2607.21562](http://arxiv.org/abs/2607.21562)|null|
-|**2026-07-23**|**GrainGS: Gradient-Decoupled Gaussian Splatting for Efficient Dynamic Novel View Synthesis**|Jiahao He et.al.|[2607.21448](http://arxiv.org/abs/2607.21448)|null|
+|**2026-07-24**|**GrainGS: Gradient-Decoupled Gaussian Splatting for Efficient Dynamic Novel View Synthesis**|Jiahao He et.al.|[2607.21448](http://arxiv.org/abs/2607.21448)|null|
 |**2026-07-23**|**GLAM-SLAM: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition**|Panagiotis Mermigkas et.al.|[2607.21416](http://arxiv.org/abs/2607.21416)|null|
 |**2026-07-23**|**Construction and Dynamic Update of Channel Gain Maps via 3D Gaussian Splatting**|Yilong Chen et.al.|[2607.21099](http://arxiv.org/abs/2607.21099)|null|
 |**2026-07-23**|**SubSplat: High-Resolution Pixel-aligned 3DGS via Sub-pixel Gaussian Reparameterization**|Jiun Lee et.al.|[2607.20813](http://arxiv.org/abs/2607.20813)|null|
@@ -2619,6 +2622,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-24**|**Explainable Reinforcement Learning for assisting Air Traffic Controllers**|Anduel Mehmeti et.al.|[2607.22525](http://arxiv.org/abs/2607.22525)|null|
+|**2026-07-24**|**CARA: Concept-Aware Risk Attention for Interpretable Collision Anticipation**|Zhishan Tao et.al.|[2607.22494](http://arxiv.org/abs/2607.22494)|null|
+|**2026-07-24**|**DB-VIO: Dual-Branch Visual Inertial Odometry with Enhanced Visual-Inertial Representation**|Ziyu Wan et.al.|[2607.22123](http://arxiv.org/abs/2607.22123)|null|
+|**2026-07-24**|**CommandLM: Data driven behavior level descriptor for ego vehicles**|Boris Tokic et.al.|[2607.22078](http://arxiv.org/abs/2607.22078)|null|
+|**2026-07-24**|**Sparse by Command: Task-Conditional Compute Skipping for Multi-Task Inference Accelerators**|Afzal Ahmad et.al.|[2607.22038](http://arxiv.org/abs/2607.22038)|null|
 |**2026-07-23**|**Boosting Robustness for All-Weather Self-Supervised Depth Estimation in Autonomous Driving**|Mengshi Qi et.al.|[2607.21526](http://arxiv.org/abs/2607.21526)|null|
 |**2026-07-23**|**HGeo-TopoMap: Boosting Topological Mapping with Hierarchical Geometric Priors**|Siyu Li et.al.|[2607.21281](http://arxiv.org/abs/2607.21281)|null|
 |**2026-07-23**|**A Real-Time Generalized Nash Equilibrium Framework for Interaction-Aware Autonomous Driving in Mixed Traffic**|Nouhed Naidja et.al.|[2607.21043](http://arxiv.org/abs/2607.21043)|null|
@@ -4441,6 +4449,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-24**|**IR275K: A Benchmark for Infrared Multi-Frame Super-Resolution Toward Efficient Remote Sensing**|Jie Deng et.al.|[2607.22380](http://arxiv.org/abs/2607.22380)|null|
+|**2026-07-24**|**Indexing: the Beginning and the End**|Alexander Kozachinskiy et.al.|[2607.22361](http://arxiv.org/abs/2607.22361)|null|
+|**2026-07-24**|**HEMERA: A Heterogeneous Memory-Centric Accelerator with Recursive Dataflow for Edge-Constrained State-Space-Duality Models Inference**|Hao Ding et.al.|[2607.22022](http://arxiv.org/abs/2607.22022)|null|
 |**2026-07-23**|**Naju: A Native Discrete State-Space Model with Independent Retention and Writing for Long-Sequence Memory**|Hyuk Lim et.al.|[2607.21000](http://arxiv.org/abs/2607.21000)|null|
 |**2026-07-22**|**SPECTRA: State-Space Exogenous Context and Temporal-Frequency Resolution Architecture for Probabilistic Energy Forecasting**|Hang Ye et.al.|[2607.20587](http://arxiv.org/abs/2607.20587)|null|
 |**2026-07-22**|**State-Dependent Observation Noise Reintroduces Epistemic Value in Linear-Gaussian Active Inference**|Daniel Corva et.al.|[2607.20306](http://arxiv.org/abs/2607.20306)|null|
@@ -4452,7 +4463,7 @@
 |**2026-07-20**|**Adaptive Mamba Neural Operators**|Zeyuan Song et.al.|[2607.18043](http://arxiv.org/abs/2607.18043)|null|
 |**2026-07-20**|**Online learning of neural state-space models**|Bendegúz Györök et.al.|[2607.17614](http://arxiv.org/abs/2607.17614)|null|
 |**2026-07-19**|**A recursive subspace based method for errors-in-variables model identification of time-varying systems**|Deepanjhan Das et.al.|[2607.17065](http://arxiv.org/abs/2607.17065)|null|
-|**2026-07-16**|**Statistical Modelling of Planetary Boundary Layer Height and Its Measurement Uncertainty Using GRUAN Profiles**|Tommaso Locatelli et.al.|[2607.14960](http://arxiv.org/abs/2607.14960)|null|
+|**2026-07-24**|**Statistical Modelling of Planetary Boundary Layer Height and Its Measurement Uncertainty Using GRUAN Profiles**|Tommaso Locatelli et.al.|[2607.14960](http://arxiv.org/abs/2607.14960)|null|
 |**2026-07-15**|**DCVC-MB: Neural B-Frame Video Compression using State Space Models**|Arjun Arora et.al.|[2607.14305](http://arxiv.org/abs/2607.14305)|null|
 |**2026-07-16**|**A modular state-space model of human perception, cognition, and decision dynamics**|Sven Schoonebeek et.al.|[2607.14078](http://arxiv.org/abs/2607.14078)|null|
 |**2026-07-15**|**Change-Aware Self-Adaptive AI-Aided Kalman Filters With Neural Change Point Detection**|Wenyi Zhang et.al.|[2607.13387](http://arxiv.org/abs/2607.13387)|null|
