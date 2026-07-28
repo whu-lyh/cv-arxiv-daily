@@ -1,4 +1,4 @@
-## Updated on 2026.07.27
+## Updated on 2026.07.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,12 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-27**|**KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability**|Krithi Shailya et.al.|[2607.24730](http://arxiv.org/abs/2607.24730)|null|
+|**2026-07-27**|**Experimental Observation of Ghost Image Revivals via Structured Coherence**|Weining Wang et.al.|[2607.24486](http://arxiv.org/abs/2607.24486)|null|
+|**2026-07-27**|**Accuracy potential of visual localization exploiting high-end street-level imagery**|Jonas Meyer et.al.|[2607.24409](http://arxiv.org/abs/2607.24409)|null|
 |**2026-07-24**|**Visual Relocalization from Sparse Views in Aliased and Low-Texture Environments via Novel View Synthesis**|Maria Peribañez et.al.|[2607.22147](http://arxiv.org/abs/2607.22147)|null|
 |**2026-07-23**|**CRAG-MM-Diagnostics: Enabling Stage-Wise Analysis of Knowledge-Intensive VQA**|Hanseok Oh et.al.|[2607.21155](http://arxiv.org/abs/2607.21155)|null|
-|**2026-07-23**|**Webly Supervised Multi-Label Recognition: Evaluation Benchmark and Dual-Branch Multi-Label Contrastive Learning**|Zhihua Xu et.al.|[2607.20874](http://arxiv.org/abs/2607.20874)|**[link](https://github.com/zizizihua/WS-MLR)**|
+|**2026-07-23**|**Webly Supervised Multi-Label Recognition: Evaluation Benchmark and Dual-Branch Multi-Label Contrastive Learning**|Zhihua Xu et.al.|[2607.20874](http://arxiv.org/abs/2607.20874)|null|
 |**2026-07-22**|**Diverse-Intent Multi-Turn Fashion Image Retrieval**|Mingqiang Tang et.al.|[2607.20291](http://arxiv.org/abs/2607.20291)|null|
 |**2026-07-22**|**RIM: A Retrieval-In-Matching Framework for Cross-Domain Global Visual Localization of UAVs**|Xin Li et.al.|[2607.20116](http://arxiv.org/abs/2607.20116)|null|
-|**2026-07-22**|**Using Hierarchical Controlled Vocabularies to Understand CLIP Retrieval Failures in Historical Photo Collections**|Ratan Sebastian et.al.|[2607.19836](http://arxiv.org/abs/2607.19836)|**[link](https://github.com/rxvl-d/clip-aat-historical-photos-tpdl26)**|
+|**2026-07-22**|**Using Hierarchical Controlled Vocabularies to Understand CLIP Retrieval Failures in Historical Photo Collections**|Ratan Sebastian et.al.|[2607.19836](http://arxiv.org/abs/2607.19836)|null|
 |**2026-07-22**|**Learning the Arabic Dialect Continuum as a Continuous Space: A Regression Approach to Speaker Origin Prediction**|Mohamed Aziz Khadraoui et.al.|[2607.19751](http://arxiv.org/abs/2607.19751)|null|
 |**2026-07-21**|**Staypoint Detection from Noisy Trajectory Data [Experiment Paper]**|Lance Kennedy et.al.|[2607.19312](http://arxiv.org/abs/2607.19312)|null|
 |**2026-07-21**|**PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image**|Dankai Liao et.al.|[2607.19261](http://arxiv.org/abs/2607.19261)|null|
@@ -874,7 +877,7 @@
 |**2018-05-16**|**Visual Global Localization with a Hybrid WNN-CNN Approach**|Avelino Forechi et.al.|[1805.03183](http://arxiv.org/abs/1805.03183)|**[link](https://github.com/LCAD-UFES/WNN-CNN-GL)**|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|null|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
 
 ## Point Cloud Place Recognition
 
@@ -985,7 +988,7 @@
 |**2020-08-04**|**PIC-Net: Point Cloud and Image Collaboration Network for Large-Scale Place Recognition**|Yuheng Lu et.al.|[2008.00658](http://arxiv.org/abs/2008.00658)|null|
 |**2020-07-06**|**LOL: Lidar-Only Odometry and Localization in 3D Point Cloud Maps**|David Rozenberszki et.al.|[2007.01595](http://arxiv.org/abs/2007.01595)|**[link](https://github.com/RozDavid/LOL)**|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
 
 ## Cross-modality Localization
 
@@ -1088,12 +1091,20 @@
 |**2021-07-28**|**Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization**|Fa-Ting Hong et.al.|[2107.12589](http://arxiv.org/abs/2107.12589)|null|
 |**2020-09-15**|**RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization**|Niluthpol Chowdhury Mithun et.al.|[2009.05695](http://arxiv.org/abs/2009.05695)|null|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
 
 ## 3D GS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-27**|**ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams**|Ali Ansari et.al.|[2607.24707](http://arxiv.org/abs/2607.24707)|null|
+|**2026-07-27**|**GenSplatCodec: Feed-Forward Gaussian Splatting Compression via One-Step Diffusion**|Qiang Hu et.al.|[2607.24403](http://arxiv.org/abs/2607.24403)|null|
+|**2026-07-26**|**Head Avatars with Dynamic Explicit Hair**|Vanessa Sklyarova et.al.|[2607.23861](http://arxiv.org/abs/2607.23861)|null|
+|**2026-07-25**|**Fashion-3DLR: A Controllable 3D Garment Generation Using Pairwise Fashion Elements for Intelligent Design**|Shenghao Yang et.al.|[2607.23189](http://arxiv.org/abs/2607.23189)|null|
+|**2026-07-25**|**Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline**|Qing Yang et.al.|[2607.22997](http://arxiv.org/abs/2607.22997)|null|
+|**2026-07-24**|**3D Gaussian Splatting for Scientific Particle Data Compression and Rendering**|Bo Jiang et.al.|[2607.22956](http://arxiv.org/abs/2607.22956)|null|
+|**2026-07-24**|**Meshless Domain Randomization via Explicit Parameter Perturbation of 3D Gaussian Splatting**|Felipe Nunes Carbone de Carvalho et.al.|[2607.22890](http://arxiv.org/abs/2607.22890)|null|
+|**2026-07-24**|**Inter-Reflective Gaussian Splatting for Robust and Efficient Inverse Rendering**|Chun Gu et.al.|[2607.22780](http://arxiv.org/abs/2607.22780)|null|
 |**2026-07-24**|**Visual Relocalization from Sparse Views in Aliased and Low-Texture Environments via Novel View Synthesis**|Maria Peribañez et.al.|[2607.22147](http://arxiv.org/abs/2607.22147)|null|
 |**2026-07-23**|**Pixels for Programs? A Cross-Provider Case Study of Input-Token Accounting for Source Code as Text and Images**|Ronak Bhalgami et.al.|[2607.21672](http://arxiv.org/abs/2607.21672)|null|
 |**2026-07-23**|**Scene Parameter Saliency via Differentiable Light Transport**|Linas Beresna et.al.|[2607.21562](http://arxiv.org/abs/2607.21562)|null|
@@ -2616,12 +2627,22 @@
 |**2024-03-26**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095](http://arxiv.org/abs/2403.16095)|null|
 |**2024-04-09**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700](http://arxiv.org/abs/2311.11700)|null|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-27**|**Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines**|Jhonatan Tavori et.al.|[2607.24692](http://arxiv.org/abs/2607.24692)|null|
+|**2026-07-27**|**Evaluating Fuzz Testing for Reinforcement Learning Agents**|Zhibin Kang et.al.|[2607.24577](http://arxiv.org/abs/2607.24577)|null|
+|**2026-07-27**|**MATS: A novel multi-modality multi-task learning framework for 3D perception in autonomous driving**|Junchen Huo et.al.|[2607.24224](http://arxiv.org/abs/2607.24224)|null|
+|**2026-07-27**|**Reasoning to Regulate: Chain-of-Thought for Traffic Rule Understanding**|Yueru Luo et.al.|[2607.24199](http://arxiv.org/abs/2607.24199)|null|
+|**2026-07-27**|**Mutual Modality Trust with Lightweight Reconstruction Regularization for Fine-grained Tire Pattern Recognition**|Jianning Yang et.al.|[2607.23979](http://arxiv.org/abs/2607.23979)|null|
+|**2026-07-26**|**RoadVGGT: Road-Structure-Aware Feed-Forward Road Surface Reconstruction**|Han Jiao et.al.|[2607.23758](http://arxiv.org/abs/2607.23758)|null|
+|**2026-07-26**|**ObsDriveBench: Benchmarking Multimodal Understanding under Adverse Weather with Observability Awareness**|Qiao Yan et.al.|[2607.23537](http://arxiv.org/abs/2607.23537)|null|
+|**2026-07-26**|**MOJITO: Modal Joint Learning for Unified End-to-End Autonomous Driving**|Zhijing Cheng et.al.|[2607.23511](http://arxiv.org/abs/2607.23511)|null|
+|**2026-07-25**|**On AI Safety and Security Technical Debt in Engineering AI-Enabled Systems**|Muhammad Tukur et.al.|[2607.23365](http://arxiv.org/abs/2607.23365)|null|
+|**2026-07-25**|**GLST: Defending Confidence-Driven V2X Collaborative Perception Against Stealthy Multi-Attacker Feature Injection**|Ji He et.al.|[2607.23059](http://arxiv.org/abs/2607.23059)|null|
 |**2026-07-24**|**Explainable Reinforcement Learning for assisting Air Traffic Controllers**|Anduel Mehmeti et.al.|[2607.22525](http://arxiv.org/abs/2607.22525)|null|
 |**2026-07-24**|**CARA: Concept-Aware Risk Attention for Interpretable Collision Anticipation**|Zhishan Tao et.al.|[2607.22494](http://arxiv.org/abs/2607.22494)|null|
 |**2026-07-24**|**DB-VIO: Dual-Branch Visual Inertial Odometry with Enhanced Visual-Inertial Representation**|Ziyu Wan et.al.|[2607.22123](http://arxiv.org/abs/2607.22123)|null|
@@ -4443,12 +4464,17 @@
 |**2019-09-18**|**A*3D Dataset: Towards Autonomous Driving in Challenging Environments**|Quang-Hieu Pham et.al.|[1909.07541](http://arxiv.org/abs/1909.07541)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
 
 ## Mamba
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-27**|**Sensor-Limited Observability and Carrier-Induced Reachability of Low-Order Rotor-Coupled NVH in Production Electric Drives: A Magnetic Co-Energy, Gramian, and Active Projection Framework for Production-Signal Feasibility Analysis**|Meng-Chou Wu et.al.|[2607.24134](http://arxiv.org/abs/2607.24134)|null|
+|**2026-07-27**|**Color Fundus Photography Analysis: Co-evolution of Data, Preprocessing, and Modeling toward Multimodal AI**|Yu Li et.al.|[2607.23972](http://arxiv.org/abs/2607.23972)|null|
+|**2026-07-26**|**The Intruder Threshold: A Spectral Law for LoRA Fine-Tuning**|Peng Xie et.al.|[2607.23711](http://arxiv.org/abs/2607.23711)|null|
+|**2026-07-26**|**SketchMamba: A Lightweight State-Space Model for Joint Progressive Sketch Classification and Stroke Auto-Completion**|Kavish Jhaveri et.al.|[2607.23580](http://arxiv.org/abs/2607.23580)|null|
+|**2026-07-21**|**DAMamba-UNet3D: A Parameter-Efficient Mamba State Space U-Net with Dynamic Adaptive Scan for 3D Medical Image Segmentation**|Mohammad Arafat Hussain et.al.|[2607.22718](http://arxiv.org/abs/2607.22718)|null|
 |**2026-07-24**|**IR275K: A Benchmark for Infrared Multi-Frame Super-Resolution Toward Efficient Remote Sensing**|Jie Deng et.al.|[2607.22380](http://arxiv.org/abs/2607.22380)|null|
 |**2026-07-24**|**Indexing: the Beginning and the End**|Alexander Kozachinskiy et.al.|[2607.22361](http://arxiv.org/abs/2607.22361)|null|
 |**2026-07-24**|**HEMERA: A Heterogeneous Memory-Centric Accelerator with Recursive Dataflow for Edge-Constrained State-Space-Duality Models Inference**|Hao Ding et.al.|[2607.22022](http://arxiv.org/abs/2607.22022)|null|
@@ -5475,5 +5501,5 @@
 |**2024-11-26**|**PointMamba: A Simple State Space Model for Point Cloud Analysis**|Dingkang Liang et.al.|[2402.10739](http://arxiv.org/abs/2402.10739)|**[link](https://github.com/LMD0311/PointMamba)**|
 |**2024-11-15**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|**[link](https://github.com/hustvl/Vim)**|
 
-<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260728>back to top</a>)</p>
 
