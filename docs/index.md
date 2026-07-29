@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.07.28
+## Updated on 2026.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-26**|**DisasterTD: Disaster Toponym Disambiguation Using Multimodal LLMs and Cross-View Geolocalization**|Wenping Yin et.al.|[2607.24856](http://arxiv.org/abs/2607.24856)|null|
 |**2026-07-27**|**KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability**|Krithi Shailya et.al.|[2607.24730](http://arxiv.org/abs/2607.24730)|null|
 |**2026-07-27**|**Experimental Observation of Ghost Image Revivals via Structured Coherence**|Weining Wang et.al.|[2607.24486](http://arxiv.org/abs/2607.24486)|null|
 |**2026-07-27**|**Accuracy potential of visual localization exploiting high-end street-level imagery**|Jonas Meyer et.al.|[2607.24409](http://arxiv.org/abs/2607.24409)|null|
@@ -1083,6 +1084,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**SplatStream: Fine Granular Scalable Gaussian Splatting for Adaptive 3D Scene Streaming**|Muhammad Talha et.al.|[2607.25971](http://arxiv.org/abs/2607.25971)|null|
+|**2026-07-28**|**CORF-GS: Real-Time Wireless Radiance Field Reconstruction via Coupled Optical-RF Gaussian Splatting**|Jinya Zhang et.al.|[2607.25569](http://arxiv.org/abs/2607.25569)|null|
+|**2026-07-28**|**PanoLess: Environment Reconstruction from Partial Reflective Views**|Ahitagni Das et.al.|[2607.25362](http://arxiv.org/abs/2607.25362)|null|
+|**2026-07-28**|**SONG: A Photorealistic 3D Gaussian Simulation Platform for Benchmarking Social Navigation**|Weiqi Huang et.al.|[2607.25219](http://arxiv.org/abs/2607.25219)|null|
 |**2026-07-27**|**ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams**|Ali Ansari et.al.|[2607.24707](http://arxiv.org/abs/2607.24707)|null|
 |**2026-07-27**|**GenSplatCodec: Feed-Forward Gaussian Splatting Compression via One-Step Diffusion**|Qiang Hu et.al.|[2607.24403](http://arxiv.org/abs/2607.24403)|null|
 |**2026-07-26**|**Head Avatars with Dynamic Explicit Hair**|Vanessa Sklyarova et.al.|[2607.23861](http://arxiv.org/abs/2607.23861)|null|
@@ -2617,6 +2622,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-26**|**Steeringless Drifting: Differential-Torque Control of a Four-Wheel Independently Driven Vehicle**|Sheng Zhao et.al.|[2607.24863](http://arxiv.org/abs/2607.24863)|null|
 |**2026-07-27**|**Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines**|Jhonatan Tavori et.al.|[2607.24692](http://arxiv.org/abs/2607.24692)|null|
 |**2026-07-27**|**Evaluating Fuzz Testing for Reinforcement Learning Agents**|Zhibin Kang et.al.|[2607.24577](http://arxiv.org/abs/2607.24577)|null|
 |**2026-07-27**|**MATS: A novel multi-modality multi-task learning framework for 3D perception in autonomous driving**|Junchen Huo et.al.|[2607.24224](http://arxiv.org/abs/2607.24224)|null|
@@ -4452,6 +4458,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**FLASH: Efficient Impact Fall Detection with Unified Hypergraph State-Space Model**|Tresor Y. Koffi et.al.|[2607.25791](http://arxiv.org/abs/2607.25791)|null|
+|**2026-07-28**|**Raven: High-Recall Sequence Modeling with Sparse Memory Routing**|Arshia Afzal et.al.|[2607.25357](http://arxiv.org/abs/2607.25357)|null|
 |**2026-07-27**|**Sensor-Limited Observability and Carrier-Induced Reachability of Low-Order Rotor-Coupled NVH in Production Electric Drives: A Magnetic Co-Energy, Gramian, and Active Projection Framework for Production-Signal Feasibility Analysis**|Meng-Chou Wu et.al.|[2607.24134](http://arxiv.org/abs/2607.24134)|null|
 |**2026-07-27**|**Color Fundus Photography Analysis: Co-evolution of Data, Preprocessing, and Modeling toward Multimodal AI**|Yu Li et.al.|[2607.23972](http://arxiv.org/abs/2607.23972)|null|
 |**2026-07-26**|**The Intruder Threshold: A Spectral Law for LoRA Fine-Tuning**|Peng Xie et.al.|[2607.23711](http://arxiv.org/abs/2607.23711)|null|
