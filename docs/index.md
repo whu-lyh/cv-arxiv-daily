@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.07.29
+## Updated on 2026.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**Robust RPC Bundle Adjustment for Multi-Date Satellite Imagery with Season-Invariant Correspondences**|Roger Marí et.al.|[2607.26973](http://arxiv.org/abs/2607.26973)|null|
 |**2026-07-26**|**DisasterTD: Disaster Toponym Disambiguation Using Multimodal LLMs and Cross-View Geolocalization**|Wenping Yin et.al.|[2607.24856](http://arxiv.org/abs/2607.24856)|null|
 |**2026-07-27**|**KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability**|Krithi Shailya et.al.|[2607.24730](http://arxiv.org/abs/2607.24730)|null|
 |**2026-07-27**|**Experimental Observation of Ghost Image Revivals via Structured Coherence**|Weining Wang et.al.|[2607.24486](http://arxiv.org/abs/2607.24486)|null|
@@ -1084,7 +1085,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-28**|**SplatStream: Fine Granular Scalable Gaussian Splatting for Adaptive 3D Scene Streaming**|Muhammad Talha et.al.|[2607.25971](http://arxiv.org/abs/2607.25971)|null|
+|**2026-07-29**|**StructureGS: Structure-aware Gaussian Splatting for Articulated Object Reconstruction**|Gahye Lee et.al.|[2607.26889](http://arxiv.org/abs/2607.26889)|null|
+|**2026-07-29**|**SpatialQ: Understanding 3D Gaussian Splatting Scene Quality via Visual-based MLLM**|Jingxuan Su et.al.|[2607.26595](http://arxiv.org/abs/2607.26595)|null|
+|**2026-07-29**|**3DGBGS: 3D Granular Ball Gaussian Splatting for Compact Novel View Synthesis**|Meng Yang et.al.|[2607.26578](http://arxiv.org/abs/2607.26578)|null|
+|**2026-07-29**|**AtlasLC: Fast Codec-Ready Compression of Object-Centric 3D Gaussian Splatting**|ByungHyun Kim et.al.|[2607.26525](http://arxiv.org/abs/2607.26525)|null|
+|**2026-07-29**|**SplatStream: Fine Granular Scalable Gaussian Splatting for Adaptive 3D Scene Streaming**|Muhammad Talha et.al.|[2607.25971](http://arxiv.org/abs/2607.25971)|null|
 |**2026-07-28**|**CORF-GS: Real-Time Wireless Radiance Field Reconstruction via Coupled Optical-RF Gaussian Splatting**|Jinya Zhang et.al.|[2607.25569](http://arxiv.org/abs/2607.25569)|null|
 |**2026-07-28**|**PanoLess: Environment Reconstruction from Partial Reflective Views**|Ahitagni Das et.al.|[2607.25362](http://arxiv.org/abs/2607.25362)|null|
 |**2026-07-28**|**SONG: A Photorealistic 3D Gaussian Simulation Platform for Benchmarking Social Navigation**|Weiqi Huang et.al.|[2607.25219](http://arxiv.org/abs/2607.25219)|null|
@@ -2622,6 +2627,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**Object Detection for Autonomous Driving in Chinese Rural Scenes: An Experimental Study on Real-Synthetic Data Mixing and Model Evaluation**|Danning Zhu et.al.|[2607.27058](http://arxiv.org/abs/2607.27058)|null|
+|**2026-07-29**|**Mitigating Compounding Error via Video Representation Regularization**|Taiye Chen et.al.|[2607.27036](http://arxiv.org/abs/2607.27036)|null|
+|**2026-07-29**|**Risk-Aware Motion Planning with Learned Trajectory Primitives and Probabilistic Safety Assessment**|Marc Kaufeld et.al.|[2607.26802](http://arxiv.org/abs/2607.26802)|null|
+|**2026-07-29**|**Physically Real-time Infrared Attack against Optical Flow Estimation Networks**|Shen You et.al.|[2607.26651](http://arxiv.org/abs/2607.26651)|null|
+|**2026-07-28**|**DVPSFormer: Efficient Online Depth-aware Video Panoptic Segmentation for Autonomous Driving**|Yung-Hsu Yang et.al.|[2607.26165](http://arxiv.org/abs/2607.26165)|null|
+|**2026-07-28**|**Towards Trustworthy Embodied Intelligence: A Systems Framework and Graded Trustworthiness Levels**|Xinyu Yang et.al.|[2607.26121](http://arxiv.org/abs/2607.26121)|null|
 |**2026-07-26**|**Steeringless Drifting: Differential-Torque Control of a Four-Wheel Independently Driven Vehicle**|Sheng Zhao et.al.|[2607.24863](http://arxiv.org/abs/2607.24863)|null|
 |**2026-07-27**|**Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines**|Jhonatan Tavori et.al.|[2607.24692](http://arxiv.org/abs/2607.24692)|null|
 |**2026-07-27**|**Evaluating Fuzz Testing for Reinforcement Learning Agents**|Zhibin Kang et.al.|[2607.24577](http://arxiv.org/abs/2607.24577)|null|
@@ -4458,6 +4469,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**An Interpretable Low-Rank State-Space Model for Multi-Horizon Simulation of Large-Scale Regional Temperature Fields**|Varun Kotharkar et.al.|[2607.27160](http://arxiv.org/abs/2607.27160)|null|
+|**2026-07-29**|**Journey Operators for Structured Multi-Axis Composition**|Mahesh Godavarti et.al.|[2607.26775](http://arxiv.org/abs/2607.26775)|null|
+|**2026-07-29**|**Phoneme- vs. Character-Level Targets and Selective State-Space Models for Intracortical Brain-to-Text**|Lucas Zamora Vera et.al.|[2607.26751](http://arxiv.org/abs/2607.26751)|null|
+|**2026-07-29**|**Bayesian Inference of Discretization Error Means in ODEs via Ensemble Kalman Filtering**|Shoji Toyota et.al.|[2607.26552](http://arxiv.org/abs/2607.26552)|null|
 |**2026-07-28**|**FLASH: Efficient Impact Fall Detection with Unified Hypergraph State-Space Model**|Tresor Y. Koffi et.al.|[2607.25791](http://arxiv.org/abs/2607.25791)|null|
 |**2026-07-28**|**Raven: High-Recall Sequence Modeling with Sparse Memory Routing**|Arshia Afzal et.al.|[2607.25357](http://arxiv.org/abs/2607.25357)|null|
 |**2026-07-27**|**Sensor-Limited Observability and Carrier-Induced Reachability of Low-Order Rotor-Coupled NVH in Production Electric Drives: A Magnetic Co-Energy, Gramian, and Active Projection Framework for Production-Signal Feasibility Analysis**|Meng-Chou Wu et.al.|[2607.24134](http://arxiv.org/abs/2607.24134)|null|
