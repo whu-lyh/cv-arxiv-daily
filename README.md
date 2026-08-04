@@ -1,4 +1,4 @@
-## Updated on 2026.08.03
+## Updated on 2026.08.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-02**|**CORTIVA: Candidate-Score Fusion of Complementary Visual Teachers for EEG- and MEG-to-Image Retrieval**|Junhan Wang et.al.|[2608.01355](http://arxiv.org/abs/2608.01355)|null|
+|**2026-08-01**|**Reconstruction-Shift Discrimination via Mask-Guided Latent Diffusion for Medical Anomaly Detection**|Yibo Wan et.al.|[2608.00444](http://arxiv.org/abs/2608.00444)|null|
 |**2026-07-31**|**Visual Distribution Anchoring for Efficient Prompt Tuning**|Pouya Parsa et.al.|[2607.28967](http://arxiv.org/abs/2607.28967)|null|
 |**2026-07-30**|**FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval**|Bohan Hou et.al.|[2607.27959](http://arxiv.org/abs/2607.27959)|**[link](https://github.com/iLearn-Lab/SIGIR25-FIRE)**|
 |**2026-07-30**|**EEG-EditBench: Probing Visual Information in EEG-Image Retrieval Models with Controlled Image Edits**|Kaifan Zhang et.al.|[2607.27857](http://arxiv.org/abs/2607.27857)|null|
@@ -884,7 +886,7 @@
 |**2018-05-16**|**Visual Global Localization with a Hybrid WNN-CNN Approach**|Avelino Forechi et.al.|[1805.03183](http://arxiv.org/abs/1805.03183)|**[link](https://github.com/LCAD-UFES/WNN-CNN-GL)**|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|null|
 
-<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
 
 ## Point Cloud Place Recognition
 
@@ -995,7 +997,7 @@
 |**2020-08-04**|**PIC-Net: Point Cloud and Image Collaboration Network for Large-Scale Place Recognition**|Yuheng Lu et.al.|[2008.00658](http://arxiv.org/abs/2008.00658)|null|
 |**2020-07-06**|**LOL: Lidar-Only Odometry and Localization in 3D Point Cloud Maps**|David Rozenberszki et.al.|[2007.01595](http://arxiv.org/abs/2007.01595)|**[link](https://github.com/RozDavid/LOL)**|
 
-<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
 
 ## Cross-modality Localization
 
@@ -1098,12 +1100,32 @@
 |**2021-07-28**|**Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization**|Fa-Ting Hong et.al.|[2107.12589](http://arxiv.org/abs/2107.12589)|null|
 |**2020-09-15**|**RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization**|Niluthpol Chowdhury Mithun et.al.|[2009.05695](http://arxiv.org/abs/2009.05695)|null|
 
-<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
 
 ## 3D GS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-03**|**InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocular View Synthesis**|Jiawei Wang et.al.|[2608.02437](http://arxiv.org/abs/2608.02437)|null|
+|**2026-08-03**|**TRACE: Ergodic Trajectory Optimization for Active Scene Reconstruction**|Ziyue Zheng et.al.|[2608.02304](http://arxiv.org/abs/2608.02304)|null|
+|**2026-08-03**|**CLEAR: Conflict-aware Learning via Evidence-guided Adaptive Routing for Unified Sparse-View 3D Gaussian Super-Resolution**|Hantang Li et.al.|[2608.02206](http://arxiv.org/abs/2608.02206)|null|
+|**2026-08-03**|**DerainSplat: Feed-Forward Clean 3D Gaussian Splatting from Sparse Rainy Views**|Fuzhen Jiang et.al.|[2608.02191](http://arxiv.org/abs/2608.02191)|null|
+|**2026-08-03**|**GSRAIN: Physically Calibrated High-/Low-Frequency Rainfall Synthesis for 3D Gaussian Driving Scenes**|Fanyu Wang et.al.|[2608.02177](http://arxiv.org/abs/2608.02177)|null|
+|**2026-08-03**|**UniqueSplat: View-conditioned 3D Gaussian Splatting for Generalizable 3D Reconstruction**|Haixu Song et.al.|[2608.02145](http://arxiv.org/abs/2608.02145)|null|
+|**2026-08-03**|**Same Semantics, Different Paths: Self-Improving Alignment for Vision-Text Compression**|Tianyu Liang et.al.|[2608.02109](http://arxiv.org/abs/2608.02109)|null|
+|**2026-08-03**|**DeGS: A Scalable 3DGS Architecture via Decoupled Workload Parsing and Reorganization**|Minnan Pei et.al.|[2608.02099](http://arxiv.org/abs/2608.02099)|null|
+|**2026-08-03**|**ASTRA: Asynchronous Spatio-Temporal Reconstruction via Trajectory Alignment**|Junyu Zhu et.al.|[2608.02006](http://arxiv.org/abs/2608.02006)|null|
+|**2026-08-03**|**3D Gaussian Splatting and Mesh-Based Digital Twins: An Exploratory Study for Virtual Reality Tourism**|Maximilian Warsinke et.al.|[2608.01969](http://arxiv.org/abs/2608.01969)|null|
+|**2026-08-03**|**FAST-GS: Frequency Aware Space-time Gaussian Splatting for Photorealistic Dynamic Novel View Synthesis**|Zhengyang Zhang et.al.|[2608.01958](http://arxiv.org/abs/2608.01958)|null|
+|**2026-08-03**|**DecoupleGS: Interactive 3D Gaussian Splatting for End-to-End Autonomous Driving Testing**|Siying Li et.al.|[2608.01761](http://arxiv.org/abs/2608.01761)|null|
+|**2026-08-03**|**G-Skin: Learning to Bind 3D Gaussians with Generative Visual Priors**|Yuxin Yao et.al.|[2608.01726](http://arxiv.org/abs/2608.01726)|null|
+|**2026-08-03**|**StreamSplat: Streaming Feed-Forward 3D Gaussian Splatting**|Changhao Song et.al.|[2608.01659](http://arxiv.org/abs/2608.01659)|null|
+|**2026-08-03**|**D^2-4DGS: Dual-Depth Guided Sparse-Camera 4D Gaussian Splatting**|Jijian Zhao et.al.|[2608.01588](http://arxiv.org/abs/2608.01588)|null|
+|**2026-08-02**|**GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization**|Baihan Yang et.al.|[2608.01492](http://arxiv.org/abs/2608.01492)|null|
+|**2026-08-02**|**QuerySplat: Decoupling Geometry and Appearance Representations in 3DGS Prediction**|Yinglong Li et.al.|[2608.01186](http://arxiv.org/abs/2608.01186)|null|
+|**2026-08-02**|**DynActiveGS: Active Gaussian Splatting for Dynamic Scene Reconstruction**|Hongbo Duan et.al.|[2608.01178](http://arxiv.org/abs/2608.01178)|null|
+|**2026-08-02**|**Swimm3R: Splatting with Medium-aware SfM for Underwater 3D Reconstruction**|Minseong Kweon et.al.|[2608.00950](http://arxiv.org/abs/2608.00950)|null|
+|**2026-08-02**|**Stipple: Real-Time Incremental Gaussian Splatting with Visual-Inertial Tracking**|Kilian Northoff et.al.|[2608.00931](http://arxiv.org/abs/2608.00931)|null|
 |**2026-07-31**|**OASIS: Occlusion-aware Single-image Hand Avatar Reconstruction via 3D Gaussian Splatting**|Zhisheng Han et.al.|[2607.29633](http://arxiv.org/abs/2607.29633)|null|
 |**2026-07-31**|**FillGS: Filling Observation Gaps in 4D Gaussian Splatting via Viewpoint-Time Selection and Generative Refinement**|Takashi Otonari et.al.|[2607.29284](http://arxiv.org/abs/2607.29284)|null|
 |**2026-07-30**|**FocusGS: Spatial Delta Layers for Local Repair and Deterministic Editing of Trained 3D Gaussian Assets**|Yiqun Pan et.al.|[2607.28834](http://arxiv.org/abs/2607.28834)|null|
@@ -2650,12 +2672,32 @@
 |**2024-03-26**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095](http://arxiv.org/abs/2403.16095)|null|
 |**2024-04-09**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700](http://arxiv.org/abs/2311.11700)|null|
 
-<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-03**|**MoRAL: Sensor-Grounded BEV Reasoning for Compact VLMs toward Edge-Oriented Autonomous Driving**|Ambarish Govindarajulu Kaliamurthi et.al.|[2608.02449](http://arxiv.org/abs/2608.02449)|null|
+|**2026-08-03**|**RSC-GestureNet: Reliability-Aware Selective Causal Recognition of Chinese Traffic Police Gestures**|Cheng Li et.al.|[2608.02200](http://arxiv.org/abs/2608.02200)|null|
+|**2026-08-03**|**DerainSplat: Feed-Forward Clean 3D Gaussian Splatting from Sparse Rainy Views**|Fuzhen Jiang et.al.|[2608.02191](http://arxiv.org/abs/2608.02191)|null|
+|**2026-08-03**|**GSRAIN: Physically Calibrated High-/Low-Frequency Rainfall Synthesis for 3D Gaussian Driving Scenes**|Fanyu Wang et.al.|[2608.02177](http://arxiv.org/abs/2608.02177)|null|
+|**2026-08-03**|**TALSC: Timeliness-Aware Large-Small VLM Collaboration for Infrastructure-Assisted Autonomous Driving**|Mengmeng Zhu et.al.|[2608.01998](http://arxiv.org/abs/2608.01998)|null|
+|**2026-08-03**|**DecoupleGS: Interactive 3D Gaussian Splatting for End-to-End Autonomous Driving Testing**|Siying Li et.al.|[2608.01761](http://arxiv.org/abs/2608.01761)|null|
+|**2026-08-03**|**Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous Driving VLMs**|Zixuan Huang et.al.|[2608.01755](http://arxiv.org/abs/2608.01755)|null|
+|**2026-08-03**|**Enhancing Visual Perception in Foggy Conditions via Multiclass Fog Density Modeling**|Mohamad Mofeed Chaar et.al.|[2608.01572](http://arxiv.org/abs/2608.01572)|null|
+|**2026-08-02**|**STAR-VLM: Spatiotemporal Grounding Vision-Language Models for Motion and Velocity Estimation via Automotive Radar Supervision**|Pou-Chun Kung et.al.|[2608.01535](http://arxiv.org/abs/2608.01535)|null|
+|**2026-08-02**|**Driver2Map: Imitating Human Driving for Online High-Definition Map Construction**|Pan Yin et.al.|[2608.01338](http://arxiv.org/abs/2608.01338)|null|
+|**2026-08-02**|**Asleep at the Wheel: JEPA's Limitations in Evaluating Novel Driving Data**|Advait Pavuluri et.al.|[2608.01336](http://arxiv.org/abs/2608.01336)|null|
+|**2026-08-02**|**PRISM: Privileged Probabilistic Latent Supervision for End-to-End Autonomous Driving Motion Planning**|Volodymyr Havrylov et.al.|[2608.01201](http://arxiv.org/abs/2608.01201)|null|
+|**2026-08-02**|**Policy Optimality Measurement for Multi-Vehicle Decision-Making: From Extrinsic Indicators to Intrinsic Quality**|Ye Han et.al.|[2608.01133](http://arxiv.org/abs/2608.01133)|null|
+|**2026-08-02**|**WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA**|Zhihao Zhu et.al.|[2608.01035](http://arxiv.org/abs/2608.01035)|null|
+|**2026-08-01**|**Goal-Oriented Logic-based Semantic Communication for Neuro-Symbolic Reasoning with Applications onto Autonomous Driving**|Ahmet Faruk Saz et.al.|[2608.00878](http://arxiv.org/abs/2608.00878)|null|
+|**2026-08-01**|**SIPTraj: Map-Free End-to-End Trajectory Prediction via Physics-Guided Scene Interaction**|Feifei Liu et.al.|[2608.00779](http://arxiv.org/abs/2608.00779)|null|
+|**2026-08-01**|**LLM-Assisted Coalition Formation for Cooperative Perception in Autonomous Driving**|Ahmad Sarlak et.al.|[2608.00690](http://arxiv.org/abs/2608.00690)|null|
+|**2026-08-01**|**Learning-Based Motion Planning for Dynamic Environments: From Foundational Algorithms to Emerging Paradigms**|Zongyuan Shen et.al.|[2608.00625](http://arxiv.org/abs/2608.00625)|null|
+|**2026-07-31**|**WM-Cov: Test Adequacy for Interactive World-Model-Style Autonomous Driving Simulation**|Jianxun Cui et.al.|[2608.00298](http://arxiv.org/abs/2608.00298)|null|
+|**2026-07-31**|**Latent-Centroid Steering: Single-Pass Classifier-Free Guidance for Command-Aligned Autonomous Driving**|Meibo Hu et.al.|[2608.00237](http://arxiv.org/abs/2608.00237)|null|
 |**2026-07-31**|**STAGE: STyle-controllable Action GEneration for personalized autonomous driving**|Zihao Liu et.al.|[2607.29517](http://arxiv.org/abs/2607.29517)|null|
 |**2026-07-31**|**Outcome-Guided Distillation: A Teacher-Student Framework to Advance VLM Reasoning in Autonomous Driving**|Zeyu Dong et.al.|[2607.29052](http://arxiv.org/abs/2607.29052)|null|
 |**2026-07-31**|**Auto-JEPA: A Latent World Model of Continuous Intent for End-to-End Autonomous Driving**|Jiwei Yang et.al.|[2607.29031](http://arxiv.org/abs/2607.29031)|null|
@@ -4499,12 +4541,16 @@
 |**2019-09-18**|**A*3D Dataset: Towards Autonomous Driving in Challenging Environments**|Quang-Hieu Pham et.al.|[1909.07541](http://arxiv.org/abs/1909.07541)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
 
 ## Mamba
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-03**|**Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection**|Anusha Madan Gopal et.al.|[2608.02560](http://arxiv.org/abs/2608.02560)|null|
+|**2026-08-03**|**Phase-Drift Limits and Adaptive Quadrature Readout in Programmable Photonic Processors**|Gökhan Elmas et.al.|[2608.02249](http://arxiv.org/abs/2608.02249)|null|
+|**2026-08-03**|**DART: Decoded Attention over Recurrent States for Efficient Long-Context Sequence Modeling**|Yixiao Qian et.al.|[2608.02032](http://arxiv.org/abs/2608.02032)|null|
+|**2026-08-02**|**State space modeling of RLC ladder circuits**|Stephan Scholz et.al.|[2608.01051](http://arxiv.org/abs/2608.01051)|null|
 |**2026-07-31**|**CoDe-SSM: Context-Detail Decoupled State Space Model for Efficient UHD Image Restoration**|Jiaxu Su et.al.|[2607.29595](http://arxiv.org/abs/2607.29595)|null|
 |**2026-07-30**|**A Unified Benchmark of Deep Learning Models for Multi-task 3D Brain Tumor Segmentation from Magnetic Resonance Imaging**|Diego J. Torrejón et.al.|[2607.28858](http://arxiv.org/abs/2607.28858)|null|
 |**2026-07-30**|**Finding Change in Satellite Archives from Text: How to Combine Before-and-After Images Efficiently**|Simon Roy et.al.|[2607.28571](http://arxiv.org/abs/2607.28571)|null|
@@ -5550,5 +5596,5 @@
 |**2024-11-26**|**PointMamba: A Simple State Space Model for Point Cloud Analysis**|Dingkang Liang et.al.|[2402.10739](http://arxiv.org/abs/2402.10739)|**[link](https://github.com/LMD0311/PointMamba)**|
 |**2024-11-15**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|**[link](https://github.com/hustvl/Vim)**|
 
-<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
 
