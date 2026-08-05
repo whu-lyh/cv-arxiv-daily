@@ -2,17 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.08.04
+## Updated on 2026.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**SAT-Edge-Agent: Hardware-in-the-Loop Edge-Agent Orchestration for Onboard Satellite Intelligence**|Longji He et.al.|[2608.03728](http://arxiv.org/abs/2608.03728)|null|
+|**2026-08-04**|**SGFormer: Structure-Guided Transformer for Robust Local Feature Matching**|Runyu Zhu et.al.|[2608.03423](http://arxiv.org/abs/2608.03423)|null|
+|**2026-08-04**|**SeCo-SBIR: Semantically Consistent Prompt Learning for Zero-Shot Sketch-Based Image Retrieval**|Long Hoang Dang et.al.|[2608.03120](http://arxiv.org/abs/2608.03120)|null|
 |**2026-08-02**|**CORTIVA: Candidate-Score Fusion of Complementary Visual Teachers for EEG- and MEG-to-Image Retrieval**|Junhan Wang et.al.|[2608.01355](http://arxiv.org/abs/2608.01355)|null|
 |**2026-08-01**|**Reconstruction-Shift Discrimination via Mask-Guided Latent Diffusion for Medical Anomaly Detection**|Yibo Wan et.al.|[2608.00444](http://arxiv.org/abs/2608.00444)|null|
 |**2026-07-31**|**Visual Distribution Anchoring for Efficient Prompt Tuning**|Pouya Parsa et.al.|[2607.28967](http://arxiv.org/abs/2607.28967)|null|
-|**2026-07-30**|**FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval**|Bohan Hou et.al.|[2607.27959](http://arxiv.org/abs/2607.27959)|**[link](https://github.com/iLearn-Lab/SIGIR25-FIRE)**|
+|**2026-07-30**|**FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval**|Bohan Hou et.al.|[2607.27959](http://arxiv.org/abs/2607.27959)|null|
 |**2026-07-30**|**EEG-EditBench: Probing Visual Information in EEG-Image Retrieval Models with Controlled Image Edits**|Kaifan Zhang et.al.|[2607.27857](http://arxiv.org/abs/2607.27857)|null|
 |**2026-07-30**|**CXR-Retrieve: Compositional Text-to-Image Retrieval in Chest Radiography**|Tomer Erez et.al.|[2607.27779](http://arxiv.org/abs/2607.27779)|null|
 |**2026-07-29**|**PanDent: Toward Comprehensive Tooth-Level Structure-Language Consistency in Dental Radiology**|Xiaohan Li et.al.|[2607.27378](http://arxiv.org/abs/2607.27378)|null|
@@ -1092,7 +1095,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-03**|**InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocular View Synthesis**|Jiawei Wang et.al.|[2608.02437](http://arxiv.org/abs/2608.02437)|null|
+|**2026-08-04**|**3DGSI-Assessor: A Large-Scale Dataset and An LMM-based Method for 3D Gaussian Splatting Image Quality Assessment**|Yuke Xing et.al.|[2608.03279](http://arxiv.org/abs/2608.03279)|null|
+|**2026-08-04**|**Bridging Online and Offline Handwriting via Differentiable Physical Rendering**|Seonmi Park et.al.|[2608.03198](http://arxiv.org/abs/2608.03198)|null|
+|**2026-08-04**|**Standalone DINOv3 for Training-Free Open-Vocabulary Semantic Segmentation in Remote Sensing**|Changhao Zhao et.al.|[2608.03023](http://arxiv.org/abs/2608.03023)|null|
+|**2026-08-04**|**InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocular View Synthesis**|Jiawei Wang et.al.|[2608.02437](http://arxiv.org/abs/2608.02437)|null|
 |**2026-08-03**|**TRACE: Ergodic Trajectory Optimization for Active Scene Reconstruction**|Ziyue Zheng et.al.|[2608.02304](http://arxiv.org/abs/2608.02304)|null|
 |**2026-08-03**|**CLEAR: Conflict-aware Learning via Evidence-guided Adaptive Routing for Unified Sparse-View 3D Gaussian Super-Resolution**|Hantang Li et.al.|[2608.02206](http://arxiv.org/abs/2608.02206)|null|
 |**2026-08-03**|**DerainSplat: Feed-Forward Clean 3D Gaussian Splatting from Sparse Rainy Views**|Fuzhen Jiang et.al.|[2608.02191](http://arxiv.org/abs/2608.02191)|null|
@@ -2662,13 +2668,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**Pivot-Centric Trajectory Prediction: Bridging Long Horizons via Dynamical Guidance**|Xiucong Zhao et.al.|[2608.03521](http://arxiv.org/abs/2608.03521)|null|
+|**2026-08-04**|**Lightweight 3D Object Detection via Mamba-Based Knowledge Distillation**|Quoc Cuong Ninh et.al.|[2608.03490](http://arxiv.org/abs/2608.03490)|null|
+|**2026-08-04**|**The Evolutionary Origin of Values: implications for AI alignment, sentience and existential risk**|Francis Heylighen et.al.|[2608.03361](http://arxiv.org/abs/2608.03361)|null|
+|**2026-08-04**|**Long-term Traffic Scene Prediction via Polynomial Representations in Autonomous Driving**|Yue Yao et.al.|[2608.03330](http://arxiv.org/abs/2608.03330)|null|
+|**2026-08-04**|**Passively Safe Convex Guidance for Cislunar Rendezvous and Proximity Operations**|Ian M. Down et.al.|[2608.03060](http://arxiv.org/abs/2608.03060)|null|
+|**2026-08-03**|**RealWeather: Realistic and Scene-Faithful Weather Translation with Driving World Models**|Yuwei Ning et.al.|[2608.02953](http://arxiv.org/abs/2608.02953)|null|
 |**2026-08-03**|**MoRAL: Sensor-Grounded BEV Reasoning for Compact VLMs toward Edge-Oriented Autonomous Driving**|Ambarish Govindarajulu Kaliamurthi et.al.|[2608.02449](http://arxiv.org/abs/2608.02449)|null|
 |**2026-08-03**|**RSC-GestureNet: Reliability-Aware Selective Causal Recognition of Chinese Traffic Police Gestures**|Cheng Li et.al.|[2608.02200](http://arxiv.org/abs/2608.02200)|null|
 |**2026-08-03**|**DerainSplat: Feed-Forward Clean 3D Gaussian Splatting from Sparse Rainy Views**|Fuzhen Jiang et.al.|[2608.02191](http://arxiv.org/abs/2608.02191)|null|
 |**2026-08-03**|**GSRAIN: Physically Calibrated High-/Low-Frequency Rainfall Synthesis for 3D Gaussian Driving Scenes**|Fanyu Wang et.al.|[2608.02177](http://arxiv.org/abs/2608.02177)|null|
 |**2026-08-03**|**TALSC: Timeliness-Aware Large-Small VLM Collaboration for Infrastructure-Assisted Autonomous Driving**|Mengmeng Zhu et.al.|[2608.01998](http://arxiv.org/abs/2608.01998)|null|
 |**2026-08-03**|**DecoupleGS: Interactive 3D Gaussian Splatting for End-to-End Autonomous Driving Testing**|Siying Li et.al.|[2608.01761](http://arxiv.org/abs/2608.01761)|null|
-|**2026-08-03**|**Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous Driving VLMs**|Zixuan Huang et.al.|[2608.01755](http://arxiv.org/abs/2608.01755)|null|
+|**2026-08-04**|**Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous Driving VLMs**|Zixuan Huang et.al.|[2608.01755](http://arxiv.org/abs/2608.01755)|null|
 |**2026-08-03**|**Enhancing Visual Perception in Foggy Conditions via Multiclass Fog Density Modeling**|Mohamad Mofeed Chaar et.al.|[2608.01572](http://arxiv.org/abs/2608.01572)|null|
 |**2026-08-02**|**STAR-VLM: Spatiotemporal Grounding Vision-Language Models for Motion and Velocity Estimation via Automotive Radar Supervision**|Pou-Chun Kung et.al.|[2608.01535](http://arxiv.org/abs/2608.01535)|null|
 |**2026-08-02**|**Driver2Map: Imitating Human Driving for Online High-Definition Map Construction**|Pan Yin et.al.|[2608.01338](http://arxiv.org/abs/2608.01338)|null|
@@ -4529,6 +4541,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**Muon Meets Mamba: Spectral Optimization for State Space Models**|Arslan Battalov et.al.|[2608.03941](http://arxiv.org/abs/2608.03941)|null|
+|**2026-08-04**|**Fast covariance-free spatiotemporal modeling via coarse-to-fine learning**|Daisuke Murakami et.al.|[2608.03449](http://arxiv.org/abs/2608.03449)|null|
+|**2026-08-04**|**State Propagation Also Satisfies: A Complex-Valued State-Space Model for Deterministic State Tracking**|Xiaohe Li et.al.|[2608.03425](http://arxiv.org/abs/2608.03425)|null|
+|**2026-08-04**|**Estimating the Conditional Forecast-Revision Scale in Sequential Models: Local-Smoothing Limits, Matched Models, and Cost--Accuracy Trade-offs**|Hui-Mean Foo et.al.|[2608.03163](http://arxiv.org/abs/2608.03163)|null|
+|**2026-08-03**|**LowRank-SSM: Hardware-Software Co-Design for Rank-Reduced Mamba Acceleration on FPGA**|Haocheng Xu et.al.|[2608.02954](http://arxiv.org/abs/2608.02954)|null|
+|**2026-08-03**|**Efficient Audio Enhancement with a Differentiable Psychoacoustic Loss**|Wallace Abreu et.al.|[2608.02918](http://arxiv.org/abs/2608.02918)|null|
 |**2026-08-03**|**Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection**|Anusha Madan Gopal et.al.|[2608.02560](http://arxiv.org/abs/2608.02560)|null|
 |**2026-08-03**|**Phase-Drift Limits and Adaptive Quadrature Readout in Programmable Photonic Processors**|Gökhan Elmas et.al.|[2608.02249](http://arxiv.org/abs/2608.02249)|null|
 |**2026-08-03**|**DART: Decoded Attention over Recurrent States for Efficient Long-Context Sequence Modeling**|Yixiao Qian et.al.|[2608.02032](http://arxiv.org/abs/2608.02032)|null|
