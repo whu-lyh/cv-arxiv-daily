@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.08.06
+## Updated on 2026.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**Learning visual representations for compositional analysis of artworks and photographs**|Fatemeh Behrad et.al.|[2608.06142](http://arxiv.org/abs/2608.06142)|null|
+|**2026-08-06**|**Topometric Autonomous Vehicle Localization by Combining Visual Embeddings and Feed-Forward 3D Models**|Eulogio Quemada-Torres et.al.|[2608.06021](http://arxiv.org/abs/2608.06021)|null|
 |**2026-08-05**|**CoCo-IR: Contextual Composed Image Retrieval**|Shengcao Cao et.al.|[2608.05149](http://arxiv.org/abs/2608.05149)|null|
 |**2026-08-05**|**The Beginning of ChatGPT Ads**|Emma Lurie et.al.|[2608.05008](http://arxiv.org/abs/2608.05008)|null|
 |**2026-08-04**|**SIGNPOST-Bench: Benchmarking Text-Vision Conflict Resolution in Multimodal Large Language Models**|Sirun Li et.al.|[2608.04244](http://arxiv.org/abs/2608.04244)|null|
@@ -895,7 +897,7 @@ layout: default
 |**2026-06-13**|**G2IA: Geometry-Guided Instance-Aware Retrieval and Refinement for Cross-Modal Place Recognition**|Xianyun Jiao et.al.|[2606.15287](http://arxiv.org/abs/2606.15287)|null|
 |**2026-05-04**|**EdgeLPR: On the Deep Neural Network trade-off between Precision and Performance in LiDAR Place Recognition**|Pierpaolo Serio et.al.|[2605.02275](http://arxiv.org/abs/2605.02275)|null|
 |**2026-04-02**|**Riemannian and Symplectic Geometry for Hierarchical Text-Driven Place Recognition**|Tianyi Shang et.al.|[2604.01598](http://arxiv.org/abs/2604.01598)|null|
-|**2026-03-16**|**Voronoi-based Second-order Descriptor with Whitened Metric in LiDAR Place Recognition**|Jaein Kim et.al.|[2603.14974](http://arxiv.org/abs/2603.14974)|**[link](https://github.com/jykim2958/Voronoi-Second-Pooling)**|
+|**2026-03-16**|**Voronoi-based Second-order Descriptor with Whitened Metric in LiDAR Place Recognition**|Jaein Kim et.al.|[2603.14974](http://arxiv.org/abs/2603.14974)|null|
 |**2026-06-15**|**RLPR: Radar-to-LiDAR Place Recognition via Two-Stage Asymmetric Cross-Modal Alignment for Autonomous Driving**|Zhangshuo Qi et.al.|[2603.07920](http://arxiv.org/abs/2603.07920)|null|
 |**2026-06-30**|**PROBE: Probabilistic Occupancy BEV Encoding with Analytical Translation Robustness for 3D Place Recognition**|Jinseop Lee et.al.|[2603.05965](http://arxiv.org/abs/2603.05965)|null|
 |**2026-01-29**|**Advanced techniques and applications of LiDAR Place Recognition in Agricultural Environments: A Comprehensive Survey**|Judith Vilella-Cantos et.al.|[2601.22198](http://arxiv.org/abs/2601.22198)|null|
@@ -1058,7 +1060,7 @@ layout: default
 |**2025-11-02**|**Integrating Visual and X-Ray Machine Learning Features in the Study of Paintings by Goya**|Hassan Ugail et.al.|[2511.01000](http://arxiv.org/abs/2511.01000)|null|
 |**2025-11-02**|**VesSAM: Efficient Multi-Prompting for Segmenting Complex Vessel**|Suzhong Fu et.al.|[2511.00981](http://arxiv.org/abs/2511.00981)|null|
 |**2025-10-24**|**A Parameter-Efficient Mixture-of-Experts Framework for Cross-Modal Geo-Localization**|LinFeng Li et.al.|[2510.20291](http://arxiv.org/abs/2510.20291)|null|
-|**2025-10-20**|**Closed-Loop Transfer for Weakly-supervised Affordance Grounding**|Jiajin Tang et.al.|[2510.17384](http://arxiv.org/abs/2510.17384)|null|
+|**2025-10-20**|**Closed-Loop Transfer for Weakly-supervised Affordance Grounding**|Jiajin Tang et.al.|[2510.17384](http://arxiv.org/abs/2510.17384)|**[link](https://github.com/SooLab/LoopTrans)**|
 |**2025-09-27**|**AttAnchor: Guiding Cross-Modal Token Alignment in VLMs with Attention Anchors**|Junyang Zhang et.al.|[2509.23109](http://arxiv.org/abs/2509.23109)|null|
 |**2025-09-30**|**InterKey: Cross-modal Intersection Keypoints for Global Localization on OpenStreetMap**|Nguyen Hoang Khoi Tran et.al.|[2509.13857](http://arxiv.org/abs/2509.13857)|null|
 |**2025-12-28**|**Cross-modal Full-mode Fine-grained Alignment for Text-to-Image Person Retrieval**|Hao Yin et.al.|[2509.13754](http://arxiv.org/abs/2509.13754)|null|
@@ -1099,7 +1101,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-05**|**Objects as Audio-Visual Modal Sound Fields**|Zisen Shao et.al.|[2608.05145](http://arxiv.org/abs/2608.05145)|null|
+|**2026-08-06**|**Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction**|Hongyu Zhou et.al.|[2608.06117](http://arxiv.org/abs/2608.06117)|null|
+|**2026-08-06**|**GSBF: Gaussian Splatting for Environment-Aware Beamforming**|Yijie Bian et.al.|[2608.05896](http://arxiv.org/abs/2608.05896)|null|
+|**2026-08-06**|**G $^2$ ARD-GS: Geometry-Guided Anchor-Regularized Gaussian Splatting Distillation**|Puyuan Zhang et.al.|[2608.05704](http://arxiv.org/abs/2608.05704)|null|
+|**2026-08-06**|**ESVR: 3D Ellipsoid-based Sparse Volume Rendering via Structure-aware Primitive Learning and Per-primitive Ray Sampling**|Suemin Jeon et.al.|[2608.05564](http://arxiv.org/abs/2608.05564)|null|
+|**2026-08-06**|**CDSeg: A Renderable Gaussian Carrier for Image-to-3D Label Transfer**|Wentao Sun et.al.|[2608.05482](http://arxiv.org/abs/2608.05482)|null|
+|**2026-08-05**|**PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads**|Ao Fu et.al.|[2608.05218](http://arxiv.org/abs/2608.05218)|null|
+|**2026-08-06**|**Objects as Audio-Visual Modal Sound Fields**|Zisen Shao et.al.|[2608.05145](http://arxiv.org/abs/2608.05145)|null|
 |**2026-08-05**|**RORA: Realistic Object Reconstruction with Articulation**|Hyesung Lee et.al.|[2608.04842](http://arxiv.org/abs/2608.04842)|null|
 |**2026-08-05**|**UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models**|Haiyang Zhou et.al.|[2608.04701](http://arxiv.org/abs/2608.04701)|null|
 |**2026-08-05**|**ACA-GS: Adaptive-Capacity Anchored Gaussian Splatting for Compact Dynamic Radiance Fields**|Seunghyeon Song et.al.|[2608.04581](http://arxiv.org/abs/2608.04581)|null|
@@ -1109,7 +1117,7 @@ layout: default
 |**2026-08-04**|**Bridging Online and Offline Handwriting via Differentiable Physical Rendering**|Seonmi Park et.al.|[2608.03198](http://arxiv.org/abs/2608.03198)|null|
 |**2026-08-04**|**Standalone DINOv3 for Training-Free Open-Vocabulary Semantic Segmentation in Remote Sensing**|Changhao Zhao et.al.|[2608.03023](http://arxiv.org/abs/2608.03023)|null|
 |**2026-08-04**|**InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocular View Synthesis**|Jiawei Wang et.al.|[2608.02437](http://arxiv.org/abs/2608.02437)|null|
-|**2026-08-04**|**TRACE: Ergodic Trajectory Optimization for Active Scene Reconstruction**|Ziyue Zheng et.al.|[2608.02304](http://arxiv.org/abs/2608.02304)|null|
+|**2026-08-06**|**TRACE: Ergodic Trajectory Optimization for Active Scene Reconstruction**|Ziyue Zheng et.al.|[2608.02304](http://arxiv.org/abs/2608.02304)|null|
 |**2026-08-03**|**CLEAR: Conflict-aware Learning via Evidence-guided Adaptive Routing for Unified Sparse-View 3D Gaussian Super-Resolution**|Hantang Li et.al.|[2608.02206](http://arxiv.org/abs/2608.02206)|null|
 |**2026-08-03**|**DerainSplat: Feed-Forward Clean 3D Gaussian Splatting from Sparse Rainy Views**|Fuzhen Jiang et.al.|[2608.02191](http://arxiv.org/abs/2608.02191)|null|
 |**2026-08-03**|**GSRAIN: Physically Calibrated High-/Low-Frequency Rainfall Synthesis for 3D Gaussian Driving Scenes**|Fanyu Wang et.al.|[2608.02177](http://arxiv.org/abs/2608.02177)|null|
@@ -2678,6 +2686,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**Adaptive-WAM: Quality-Guided Early-Exit Planning from Intermediate Video-Diffusion Features**|Sining Ang et.al.|[2608.06008](http://arxiv.org/abs/2608.06008)|null|
+|**2026-08-06**|**MEC-Patch: Visible-Infrared Cross-Modal Adversarial Attack Driven by Intrinsic Material Emissivity Laws**|Zhixiang Huang et.al.|[2608.05634](http://arxiv.org/abs/2608.05634)|null|
+|**2026-08-06**|**From Sports to Safety: Benchmarking Proactive Risk Inference in MLLMs**|Jiawei Qiu et.al.|[2608.05560](http://arxiv.org/abs/2608.05560)|null|
+|**2026-08-05**|**LoDA: A Level of Detection Aware Method and a Multimodal Sensing Benchmark for Object Level Change Detection**|Haitian Wang et.al.|[2608.05356](http://arxiv.org/abs/2608.05356)|null|
 |**2026-08-05**|**Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen**|Chengming Feng et.al.|[2608.04865](http://arxiv.org/abs/2608.04865)|null|
 |**2026-08-05**|**Toward Blockage-Resilient 6G-V2X Connectivity: Semi-Distributed Bandit with Dynamic Arm Set for mmWave HetNets**|Weiqi Chi et.al.|[2608.04852](http://arxiv.org/abs/2608.04852)|null|
 |**2026-08-05**|**NSF-HRPT: Neural Semantic Field meets Hierarchical Risk Perception Tree for Safety-Critical Scenario Assessment**|Yu Zhao et.al.|[2608.04776](http://arxiv.org/abs/2608.04776)|null|
@@ -4558,6 +4570,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**Asymptotic Expansion of the Kallianpur-Striebel Formula under Perturbations of Linear Models**|Masahiro Kurisaki et.al.|[2608.05842](http://arxiv.org/abs/2608.05842)|null|
+|**2026-08-05**|**Spectral Distillation: From Nonlinear Dynamics to Linear State-Space Models**|Liane Galanti et.al.|[2608.05416](http://arxiv.org/abs/2608.05416)|null|
 |**2026-08-05**|**Drivers of Success: A Bayesian State-Space Model to Disentangling Latent Driver and Constructor Abilities in Formula One**|Tim Lindner et.al.|[2608.04629](http://arxiv.org/abs/2608.04629)|null|
 |**2026-08-04**|**Muon Meets Mamba: Spectral Optimization for State Space Models**|Arslan Battalov et.al.|[2608.03941](http://arxiv.org/abs/2608.03941)|null|
 |**2026-08-04**|**Fast covariance-free spatiotemporal modeling via coarse-to-fine learning**|Daisuke Murakami et.al.|[2608.03449](http://arxiv.org/abs/2608.03449)|null|
@@ -4566,7 +4580,7 @@ layout: default
 |**2026-08-03**|**LowRank-SSM: Hardware-Software Co-Design for Rank-Reduced Mamba Acceleration on FPGA**|Haocheng Xu et.al.|[2608.02954](http://arxiv.org/abs/2608.02954)|null|
 |**2026-08-03**|**Efficient Audio Enhancement with a Differentiable Psychoacoustic Loss**|Wallace Abreu et.al.|[2608.02918](http://arxiv.org/abs/2608.02918)|null|
 |**2026-08-03**|**Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection**|Anusha Madan Gopal et.al.|[2608.02560](http://arxiv.org/abs/2608.02560)|null|
-|**2026-08-03**|**Phase-Drift Limits and Adaptive Quadrature Readout in Programmable Photonic Processors**|Gökhan Elmas et.al.|[2608.02249](http://arxiv.org/abs/2608.02249)|null|
+|**2026-08-06**|**Phase-Drift Limits and Adaptive Quadrature Readout in Programmable Photonic Processors**|Gökhan Elmas et.al.|[2608.02249](http://arxiv.org/abs/2608.02249)|null|
 |**2026-08-03**|**DART: Decoded Attention over Recurrent States for Efficient Long-Context Sequence Modeling**|Yixiao Qian et.al.|[2608.02032](http://arxiv.org/abs/2608.02032)|null|
 |**2026-08-02**|**State space modeling of RLC ladder circuits**|Stephan Scholz et.al.|[2608.01051](http://arxiv.org/abs/2608.01051)|null|
 |**2026-07-31**|**CoDe-SSM: Context-Detail Decoupled State Space Model for Efficient UHD Image Restoration**|Jiaxu Su et.al.|[2607.29595](http://arxiv.org/abs/2607.29595)|null|
