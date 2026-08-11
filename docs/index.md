@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.08.10
+## Updated on 2026.08.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-10**|**XFeat Revisited: Reproducibility and Evaluation of a Lightweight Image Matcher**|Lazar Đoković et.al.|[2608.09519](http://arxiv.org/abs/2608.09519)|null|
+|**2026-08-10**|**MemeMind: Reference-Guided Trace Construction for Offline Context Optimization**|Run Yang et.al.|[2608.09316](http://arxiv.org/abs/2608.09316)|null|
+|**2026-08-10**|**SI-Edit: Toward Sketch-Instruction Guided Local Image Editing with Pixel-Level Precision**|Weixin Ye et.al.|[2608.09097](http://arxiv.org/abs/2608.09097)|null|
+|**2026-08-09**|**Learning Deep Modality-Shared Self-Expressiveness for Image Clustering with Textual Information**|Xianghan Meng et.al.|[2608.08418](http://arxiv.org/abs/2608.08418)|null|
 |**2026-08-07**|**Geometry-Aware Camera Localization for Bronchoscopy**|Lumin Chen et.al.|[2608.07116](http://arxiv.org/abs/2608.07116)|**[link](https://github.com/paulili08/GABL)**|
 |**2026-08-07**|**KnifeHunter: Structured Local Representation Learning for Fine-Grained Knife Image Retrieval in Law Enforcement**|Syed Sameed Husain et.al.|[2608.07057](http://arxiv.org/abs/2608.07057)|null|
 |**2026-08-07**|**Are Visual Place Recognition Models Recognizing Places or Conditions? Distractor-Augmented Evaluation and Condition Suppression**|Beomsu Kim et.al.|[2608.06847](http://arxiv.org/abs/2608.06847)|null|
@@ -1104,6 +1108,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-09**|**EndoMD-SLAM: Endoscopic Gaussian Splatting SLAM under Optical Degradation with Memory and Static-Transient Decomposition**|Nuo Chen et.al.|[2608.08949](http://arxiv.org/abs/2608.08949)|null|
+|**2026-08-09**|**JSGS: JPEG State-Guided Supervision for 3D Gaussian Splatting from Mixed-Quality Views**|Jinhua Cui et.al.|[2608.08659](http://arxiv.org/abs/2608.08659)|null|
+|**2026-08-09**|**EvTrajGS: Accurate and Efficient 3D Gaussian Splatting from Unposed Event Streams**|Zixuan Chen et.al.|[2608.08585](http://arxiv.org/abs/2608.08585)|null|
+|**2026-08-09**|**ERF-GS: Reconstructing Fast Motion from Disjoint Event-RGB Viewpoints**|Xiaoyang Bai et.al.|[2608.08531](http://arxiv.org/abs/2608.08531)|null|
+|**2026-08-08**|**FlexSplat: Flexible Feed-Forward 3D Gaussian Splatting without Point Cloud Correspondence**|Amir Sabbaghziarani et.al.|[2608.07937](http://arxiv.org/abs/2608.07937)|null|
+|**2026-08-07**|**XClipGS: Exact Half-Space Clipping for Medical Volume Gaussian Splatting**|Zhongpai Gao et.al.|[2608.07760](http://arxiv.org/abs/2608.07760)|null|
 |**2026-08-07**|**InstanceSplat: Instance-Aware Feed-Forward 3D Gaussian Splatting for Scene Understanding**|Minchao Jiang et.al.|[2608.07144](http://arxiv.org/abs/2608.07144)|null|
 |**2026-08-07**|**AdvTiles: Physical Adversarial Camouflage Clothing against Person Detectors via Learnable Tiles**|Jinlei Wang et.al.|[2608.06801](http://arxiv.org/abs/2608.06801)|null|
 |**2026-08-06**|**Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction**|Hongyu Zhou et.al.|[2608.06117](http://arxiv.org/abs/2608.06117)|null|
@@ -2691,6 +2701,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-10**|**FactorDrive: Adaptive Multi-Step Reasoning Driven by Planning-Critical Factors for End-to-End Autonomous Driving**|Guolei Huang et.al.|[2608.09591](http://arxiv.org/abs/2608.09591)|null|
+|**2026-08-10**|**GeoRoute: Geometry-Aware Hybrid Inference for Traffic Future-Frame Prediction**|Khang Minh Le et.al.|[2608.09493](http://arxiv.org/abs/2608.09493)|null|
+|**2026-08-10**|**Beyond the Plane: Coupling Planar Vehicle Dynamics with Three-Dimensional Road Geometry**|Simon Sagmeister et.al.|[2608.09402](http://arxiv.org/abs/2608.09402)|null|
+|**2026-08-10**|**DH-VLM: Dual-Horizon Cooperative Latent Reasoning for Autonomous Driving**|Ziyi Song et.al.|[2608.09333](http://arxiv.org/abs/2608.09333)|null|
+|**2026-08-10**|**CRUISE: Vision-Language Model-Guided Uncertainty-Aware Cross-Modal Sensor Fusion for Robust Autonomous Driving**|Junyao Wang et.al.|[2608.09202](http://arxiv.org/abs/2608.09202)|null|
+|**2026-08-10**|**How Roadside Units Enhance Intersection Safety? Cooperative Autonomous Driving System Design and A Proof of Concept**|Taoyuan Yu et.al.|[2608.09144](http://arxiv.org/abs/2608.09144)|null|
+|**2026-08-10**|**UnsDrive: Towards Robust End-to-End Autonomous Driving in Unstructured Scenes**|Nanxin Zeng et.al.|[2608.09098](http://arxiv.org/abs/2608.09098)|null|
+|**2026-08-09**|**Can Webcam Gaze Constrain Mesa-Objectives in Driving Models? An Instrument Precision Analysis**|Lennox Anderson et.al.|[2608.08947](http://arxiv.org/abs/2608.08947)|null|
+|**2026-08-09**|**From Operational Design Domain to Action: A Systematic Behavioral Taxonomy for Autonomous Driving**|Chaitanya Shinde et.al.|[2608.08941](http://arxiv.org/abs/2608.08941)|null|
+|**2026-08-09**|**RayLift: Lifting Complementary Ray-Wise Evidence with 3D Geometry Priors for Semantic Scene Completion**|Meng Wang et.al.|[2608.08476](http://arxiv.org/abs/2608.08476)|null|
+|**2026-08-07**|**Multi-Task Consistency-based Detection of Adversarial Attacks**|Cong Chen et.al.|[2608.07750](http://arxiv.org/abs/2608.07750)|null|
+|**2026-08-07**|**CMU-Drive and V2V-VLA: Cooperative Multi-agent Unified Driving with Reasoning Benchmark and Vehicle-to-Vehicle Vision-Language-Action Models**|Hsu-kuang Chiu et.al.|[2608.07621](http://arxiv.org/abs/2608.07621)|null|
 |**2026-08-07**|**SimWAM: A Simple World Action Model for End-to-End Autonomous Driving**|Zongchuang Zhao et.al.|[2608.07468](http://arxiv.org/abs/2608.07468)|null|
 |**2026-08-07**|**Depth-Wise Probing and Pruning of the Planning Token in a Driving Vision-Language-Action Model**|Harisankar Babu et.al.|[2608.07361](http://arxiv.org/abs/2608.07361)|null|
 |**2026-08-06**|**Flaky Test Recognition when Testing CPSs Using Hybrid Models**|Zahra Sadri-Moshkenani et.al.|[2608.06535](http://arxiv.org/abs/2608.06535)|null|
@@ -4578,13 +4600,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-10**|**Conditional Regime Analog Forecasting with Trajectories: A Nonparametric Framework for Multivariate Probabilistic**|Giancarlo Vercellino et.al.|[2608.09534](http://arxiv.org/abs/2608.09534)|null|
+|**2026-08-10**|**MixFormer: Linear Transformer with Mixture of Memory Experts**|Yu Guo et.al.|[2608.09468](http://arxiv.org/abs/2608.09468)|null|
+|**2026-08-10**|**HOPPER: Learnable Hop Extraction for Linearized Graph Sequence Models**|Isuru Herath et.al.|[2608.09031](http://arxiv.org/abs/2608.09031)|null|
+|**2026-08-08**|**Causal State-Space Model for Causal Inference: Estimating Longitudinal Individual Treatment Effects**|Abisoye Abidakun et.al.|[2608.08288](http://arxiv.org/abs/2608.08288)|null|
+|**2026-08-08**|**AraSSM: A bidirectional state-space encoder for Arabic masked language modeling**|Ahmed Amine Aliane et.al.|[2608.08256](http://arxiv.org/abs/2608.08256)|null|
+|**2026-08-08**|**On the (Intuitionistic) Logic of Next-Token Prediction**|Paul Tarau et.al.|[2608.08145](http://arxiv.org/abs/2608.08145)|null|
+|**2026-08-07**|**Phase State Space Models: Parallel, Surrogate-Free Training of Spiking Networks**|Wilkie Olin-Ammentorp et.al.|[2608.07754](http://arxiv.org/abs/2608.07754)|null|
 |**2026-08-07**|**StateFlow: Sequence Pipeline Parallelism for Long-Context Modeling with Linear Recurrence**|Wenxuan Zhao et.al.|[2608.06838](http://arxiv.org/abs/2608.06838)|null|
 |**2026-08-06**|**Asymptotic Expansion of the Kallianpur-Striebel Formula under Perturbations of Linear Models**|Masahiro Kurisaki et.al.|[2608.05842](http://arxiv.org/abs/2608.05842)|null|
 |**2026-08-05**|**Spectral Distillation: From Nonlinear Dynamics to Linear State-Space Models**|Liane Galanti et.al.|[2608.05416](http://arxiv.org/abs/2608.05416)|null|
 |**2026-08-05**|**Drivers of Success: A Bayesian State-Space Model to Disentangling Latent Driver and Constructor Abilities in Formula One**|Tim Lindner et.al.|[2608.04629](http://arxiv.org/abs/2608.04629)|null|
 |**2026-08-04**|**Muon Meets Mamba: Spectral Optimization for State Space Models**|Arslan Battalov et.al.|[2608.03941](http://arxiv.org/abs/2608.03941)|null|
 |**2026-08-04**|**Fast covariance-free spatiotemporal modeling via coarse-to-fine learning**|Daisuke Murakami et.al.|[2608.03449](http://arxiv.org/abs/2608.03449)|null|
-|**2026-08-04**|**State Propagation Also Satisfies: A Complex-Valued State-Space Model for Deterministic State Tracking**|Xiaohe Li et.al.|[2608.03425](http://arxiv.org/abs/2608.03425)|null|
+|**2026-08-08**|**State Propagation Also Satisfies: A Complex-Valued State-Space Model for Deterministic State Tracking**|Xiaohe Li et.al.|[2608.03425](http://arxiv.org/abs/2608.03425)|null|
 |**2026-08-04**|**Estimating the Conditional Forecast-Revision Scale in Sequential Models: Local-Smoothing Limits, Matched Models, and Cost--Accuracy Trade-offs**|Hui-Mean Foo et.al.|[2608.03163](http://arxiv.org/abs/2608.03163)|null|
 |**2026-08-03**|**LowRank-SSM: Hardware-Software Co-Design for Rank-Reduced Mamba Acceleration on FPGA**|Haocheng Xu et.al.|[2608.02954](http://arxiv.org/abs/2608.02954)|null|
 |**2026-08-03**|**Efficient Audio Enhancement with a Differentiable Psychoacoustic Loss**|Wallace Abreu et.al.|[2608.02918](http://arxiv.org/abs/2608.02918)|null|
