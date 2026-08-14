@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.08.13
+## Updated on 2026.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**Edit2TikZ: A Comprehensive and Challenging Benchmark for Scientific Figure Editing with TikZ**|Zongyun Zhang et.al.|[2608.13441](http://arxiv.org/abs/2608.13441)|**[link](https://github.com/Solunny/Edit2TikZ)**|
+|**2026-08-12**|**Hate speech toward migrants on a citizen reporting platform concentrates in neighborhoods undergoing demographic change**|Eduardo Graells-Garrido et.al.|[2608.12581](http://arxiv.org/abs/2608.12581)|null|
+|**2026-08-12**|**MASCOT: Model-Aware Submodular Coverage for Composite-Attribute Text-to-Image Retrieval**|Aaryan Sharma et.al.|[2608.12532](http://arxiv.org/abs/2608.12532)|null|
 |**2026-08-12**|**GeoBridge: Decoupled Semantic Conditioning for Generative Image Geolocalization**|Zhiyang Dou et.al.|[2608.11838](http://arxiv.org/abs/2608.11838)|null|
 |**2026-08-11**|**Can Frontier LLMs Match Natively Multimodal Embeddings? A Comparison on Hard-Negative Text-to-Image Retrieval**|Archan Dutta et.al.|[2608.11343](http://arxiv.org/abs/2608.11343)|null|
 |**2026-08-11**|**GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting**|Huaiyuan Weng et.al.|[2608.10938](http://arxiv.org/abs/2608.10938)|null|
@@ -1113,6 +1116,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**GS $^{2}$ CI: Robust Gaussian Splatting For Snapshot Compressive Imaging via Large Vision Model Priors**|Yanming Yang et.al.|[2608.13502](http://arxiv.org/abs/2608.13502)|null|
+|**2026-08-13**|**Splat-based Metal Artifact Reduction in Cone-Beam CT via Polychromatic Modeling**|Kiseok Choi et.al.|[2608.13159](http://arxiv.org/abs/2608.13159)|null|
+|**2026-08-13**|**ProbSplat: Efficient Probabilistic Hardware for Gaussian Splatting in 3D Scene Reconstruction**|Siddarth Gottumukkula et.al.|[2608.13143](http://arxiv.org/abs/2608.13143)|null|
+|**2026-08-13**|**PixSDS: Why Latent SDS Makes Noisy Pixels**|Vsevolod Skorokhodov et.al.|[2608.12997](http://arxiv.org/abs/2608.12997)|null|
+|**2026-08-13**|**HumanoidVLN: A Physics-Grounded Simulator and Benchmark for Vision-Language Navigation Across Diverse Humanoid Embodiments**|Quan-Dung Pham et.al.|[2608.12860](http://arxiv.org/abs/2608.12860)|null|
+|**2026-08-13**|**LocusGS: Spatially Grounded Tokens for Feed-Forward 3D Gaussian Splatting**|Wenyu Li et.al.|[2608.12825](http://arxiv.org/abs/2608.12825)|null|
 |**2026-08-12**|**QV-PIC: Query-Aware Visual Position-Independent Caching for Efficient RAG Serving**|Yilin Liu et.al.|[2608.12121](http://arxiv.org/abs/2608.12121)|null|
 |**2026-08-12**|**Seed2GS: Camera-Free, Training-Free Object Extraction from 3D Gaussian Scenes via a Single Reference-View Grounding**|Zongjian Ding et.al.|[2608.11928](http://arxiv.org/abs/2608.11928)|null|
 |**2026-08-12**|**Generative Semantic Segmentation via an Observable Semantic-Image Interface and Hierarchical Generator Evidence Alignment**|Weize Cai et.al.|[2608.11537](http://arxiv.org/abs/2608.11537)|null|
@@ -2719,6 +2728,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**LLM-Assisted Dynamic Threat Analysis for Attacker-Reachable Software Weaknesses in Autonomous Vehicles**|Md Wasiul Haque et.al.|[2608.13450](http://arxiv.org/abs/2608.13450)|null|
+|**2026-08-13**|**FIRE-VLA: Failure-Informed Self-Evolution for Vision-Language-Action Models in Autonomous Driving**|Hao Dou et.al.|[2608.13395](http://arxiv.org/abs/2608.13395)|null|
+|**2026-08-13**|**Geometry-Grounded Unified 3D Perception for Autonomous Driving**|Longfei Xu et.al.|[2608.13147](http://arxiv.org/abs/2608.13147)|null|
+|**2026-08-13**|**FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving**|Zekai Li et.al.|[2608.12932](http://arxiv.org/abs/2608.12932)|null|
+|**2026-08-13**|**BrainWAM: Action-Space Coordination of Semantic Priors and Predictive Dynamics for Autonomous Driving**|Bing Zhan et.al.|[2608.12854](http://arxiv.org/abs/2608.12854)|null|
+|**2026-08-12**|**PseudoMapLabeler: Confidence-Aware Pseudo-Label Generation for Semi-Supervised Online Mapping**|Chikao Tsuchiya et.al.|[2608.12600](http://arxiv.org/abs/2608.12600)|null|
 |**2026-08-12**|**Do Not Forget the Obvious - RISC: A Risk-Informed Slice-Coverage Protocol for Safe Autonomous Driving**|Fabian Hüger et.al.|[2608.12051](http://arxiv.org/abs/2608.12051)|null|
 |**2026-08-12**|**High-Order Liquid Evidence Encoding for Gradual GNSS Spoofing Detection in Autonomous Driving**|Muhammad Ayub Sabir et.al.|[2608.11790](http://arxiv.org/abs/2608.11790)|null|
 |**2026-08-12**|**RoadWeaver: Large-Scale Lane-Level HD Map Generation from Scratch for Autonomous Driving Simulation**|Yueyuan Li et.al.|[2608.11580](http://arxiv.org/abs/2608.11580)|null|
@@ -4630,6 +4645,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-12**|**MARCH: Scaling Recurrent Memory with Content-Routed State Anchors**|Ming Zhang et.al.|[2608.12435](http://arxiv.org/abs/2608.12435)|null|
 |**2026-08-12**|**RT-SEMamba: Real-Time Speech Enhancement Mamba via Progressive Knowledge Distillation**|Rong Chao et.al.|[2608.12099](http://arxiv.org/abs/2608.12099)|null|
 |**2026-08-11**|**Secure Cooperative THz ISAC via Mamba Empowered Graph Neural Network Precoding**|Chao Wang et.al.|[2608.10467](http://arxiv.org/abs/2608.10467)|null|
 |**2026-08-10**|**ChronoSSM: Training for Temporally Aware Representations in Autoregressive State Space Models**|Adrien Schoen et.al.|[2608.10120](http://arxiv.org/abs/2608.10120)|null|
