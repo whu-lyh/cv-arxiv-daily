@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.15
+## Updated on 2026.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -2745,7 +2745,7 @@ layout: default
 |**2026-08-11**|**Threat-guided Policy-aware Scene Perturbation for Safe Autonomous Driving with Online Reinforcement Learning**|Xincong Hu et.al.|[2608.10403](http://arxiv.org/abs/2608.10403)|null|
 |**2026-08-11**|**Dreamer-SAC: Off-Policy Learning in Latent World Models for Sample-Efficient Autonomous Driving**|Jiazhuo Li et.al.|[2608.10386](http://arxiv.org/abs/2608.10386)|null|
 |**2026-08-10**|**Chain of Spatial Thoughts: Modality-Agnostic Spatial Grounding for Vision Language Models**|Hunter Schofield et.al.|[2608.10278](http://arxiv.org/abs/2608.10278)|null|
-|**2026-08-10**|**4D-WAM: 4D Consistent World Modeling for Autonomous Driving**|Jiacheng Fu et.al.|[2608.10107](http://arxiv.org/abs/2608.10107)|null|
+|**2026-08-10**|**4D-WAM: 4D Consistent World Modeling for Autonomous Driving**|Jiacheng Fu et.al.|[2608.10107](http://arxiv.org/abs/2608.10107)|**[link](https://github.com/Quma233/4D-WAM)**|
 |**2026-08-10**|**FactorDrive: Adaptive Multi-Step Reasoning Driven by Planning-Critical Factors for End-to-End Autonomous Driving**|Guolei Huang et.al.|[2608.09591](http://arxiv.org/abs/2608.09591)|null|
 |**2026-08-10**|**GeoRoute: Geometry-Aware Hybrid Inference for Traffic Future-Frame Prediction**|Khang Minh Le et.al.|[2608.09493](http://arxiv.org/abs/2608.09493)|null|
 |**2026-08-10**|**Beyond the Plane: Coupling Planar Vehicle Dynamics with Three-Dimensional Road Geometry**|Simon Sagmeister et.al.|[2608.09402](http://arxiv.org/abs/2608.09402)|null|
