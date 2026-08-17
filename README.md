@@ -32,7 +32,7 @@
 |**2026-08-07**|**Geometry-Aware Camera Localization for Bronchoscopy**|Lumin Chen et.al.|[2608.07116](http://arxiv.org/abs/2608.07116)|null|
 |**2026-08-07**|**KnifeHunter: Structured Local Representation Learning for Fine-Grained Knife Image Retrieval in Law Enforcement**|Syed Sameed Husain et.al.|[2608.07057](http://arxiv.org/abs/2608.07057)|null|
 |**2026-08-07**|**Are Visual Place Recognition Models Recognizing Places or Conditions? Distractor-Augmented Evaluation and Condition Suppression**|Beomsu Kim et.al.|[2608.06847](http://arxiv.org/abs/2608.06847)|null|
-|**2026-08-06**|**Learning visual representations for compositional analysis of artworks and photographs**|Fatemeh Behrad et.al.|[2608.06142](http://arxiv.org/abs/2608.06142)|null|
+|**2026-08-14**|**Learning visual representations for compositional analysis of artworks and photographs**|Fatemeh Behrad et.al.|[2608.06142](http://arxiv.org/abs/2608.06142)|null|
 |**2026-08-06**|**Topometric Autonomous Vehicle Localization by Combining Visual Embeddings and Feed-Forward 3D Models**|Eulogio Quemada-Torres et.al.|[2608.06021](http://arxiv.org/abs/2608.06021)|null|
 |**2026-08-05**|**CoCo-IR: Contextual Composed Image Retrieval**|Shengcao Cao et.al.|[2608.05149](http://arxiv.org/abs/2608.05149)|null|
 |**2026-08-05**|**The Beginning of ChatGPT Ads**|Emma Lurie et.al.|[2608.05008](http://arxiv.org/abs/2608.05008)|null|
@@ -1130,6 +1130,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**HiCo-GS: Hierarchical Context Aggregation and Geometric Consistency for Octree Gaussian Splatting**|Wei Zhang et.al.|[2608.14136](http://arxiv.org/abs/2608.14136)|null|
 |**2026-08-13**|**GS $^{2}$ CI: Robust Gaussian Splatting For Snapshot Compressive Imaging via Large Vision Model Priors**|Yanming Yang et.al.|[2608.13502](http://arxiv.org/abs/2608.13502)|null|
 |**2026-08-13**|**Splat-based Metal Artifact Reduction in Cone-Beam CT via Polychromatic Modeling**|Kiseok Choi et.al.|[2608.13159](http://arxiv.org/abs/2608.13159)|null|
 |**2026-08-13**|**ProbSplat: Efficient Probabilistic Hardware for Gaussian Splatting in 3D Scene Reconstruction**|Siddarth Gottumukkula et.al.|[2608.13143](http://arxiv.org/abs/2608.13143)|null|
@@ -2744,6 +2745,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**GhostPoint: Self-Supervised Representation Learning by Hallucinating Occluded LiDAR Structure**|Mohamed Abdelsamad et.al.|[2608.14428](http://arxiv.org/abs/2608.14428)|null|
+|**2026-08-14**|**IRGNN: Efficient Invariant Radar Graph Neural Network for Radar Point Cloud Object Detection**|Xiao Guo et.al.|[2608.14394](http://arxiv.org/abs/2608.14394)|null|
+|**2026-08-14**|**SSP: An Event-Matched Syn2Sim2Phy Cross-Domain Evaluation Framework for Autonomous Driving VLA Models**|Haojie Feng et.al.|[2608.14024](http://arxiv.org/abs/2608.14024)|null|
+|**2026-08-13**|**Coverage Aware Active Evaluation for Failure Discovery with Paired Systems**|Anjali Parashar et.al.|[2608.13719](http://arxiv.org/abs/2608.13719)|null|
 |**2026-08-13**|**LLM-Assisted Dynamic Threat Analysis for Attacker-Reachable Software Weaknesses in Autonomous Vehicles**|Md Wasiul Haque et.al.|[2608.13450](http://arxiv.org/abs/2608.13450)|null|
 |**2026-08-13**|**FIRE-VLA: Failure-Informed Self-Evolution for Vision-Language-Action Models in Autonomous Driving**|Hao Dou et.al.|[2608.13395](http://arxiv.org/abs/2608.13395)|null|
 |**2026-08-13**|**Geometry-Grounded Unified 3D Perception for Autonomous Driving**|Longfei Xu et.al.|[2608.13147](http://arxiv.org/abs/2608.13147)|null|
@@ -2754,7 +2759,7 @@
 |**2026-08-12**|**High-Order Liquid Evidence Encoding for Gradual GNSS Spoofing Detection in Autonomous Driving**|Muhammad Ayub Sabir et.al.|[2608.11790](http://arxiv.org/abs/2608.11790)|null|
 |**2026-08-12**|**RoadWeaver: Large-Scale Lane-Level HD Map Generation from Scratch for Autonomous Driving Simulation**|Yueyuan Li et.al.|[2608.11580](http://arxiv.org/abs/2608.11580)|null|
 |**2026-08-11**|**Herding End-to-End Autonomous Driving via Neuro-Symbolic Safety Guards**|Simón Patiño Idarraga et.al.|[2608.11451](http://arxiv.org/abs/2608.11451)|null|
-|**2026-08-11**|**XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving**|Foundation Model Team et.al.|[2608.10976](http://arxiv.org/abs/2608.10976)|null|
+|**2026-08-11**|**XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving**| Foundation Model Team et.al.|[2608.10976](http://arxiv.org/abs/2608.10976)|null|
 |**2026-08-11**|**Multi-View Relational Distillation for Spatial Reasoning with Vision-Language Models**|Kiet T. Nguyen et.al.|[2608.10864](http://arxiv.org/abs/2608.10864)|null|
 |**2026-08-11**|**Cross-View Sequential Visual Localization with Spatio-Temporal Context Modeling for Autonomous Driving**|Jiaping Wang et.al.|[2608.10660](http://arxiv.org/abs/2608.10660)|null|
 |**2026-08-11**|**DriveVLA-M0: Failure-Aware Memory Augmentation for Autonomous Driving**|Zebin Xing et.al.|[2608.10413](http://arxiv.org/abs/2608.10413)|null|
@@ -4663,6 +4668,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**CSG-Mamba: A Convolutional Scoring Gating Vision State Space Network for Endoscopic Polyp Segmentation**|Yuliang Wang et.al.|[2608.14146](http://arxiv.org/abs/2608.14146)|null|
 |**2026-08-12**|**MARCH: Scaling Recurrent Memory with Content-Routed State Anchors**|Ming Zhang et.al.|[2608.12435](http://arxiv.org/abs/2608.12435)|null|
 |**2026-08-12**|**RT-SEMamba: Real-Time Speech Enhancement Mamba via Progressive Knowledge Distillation**|Rong Chao et.al.|[2608.12099](http://arxiv.org/abs/2608.12099)|null|
 |**2026-08-11**|**Secure Cooperative THz ISAC via Mamba Empowered Graph Neural Network Precoding**|Chao Wang et.al.|[2608.10467](http://arxiv.org/abs/2608.10467)|null|
