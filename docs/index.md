@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.16
+## Updated on 2026.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -46,11 +46,11 @@ layout: default
 |**2026-07-27**|**Experimental Observation of Ghost Image Revivals via Structured Coherence**|Weining Wang et.al.|[2607.24486](http://arxiv.org/abs/2607.24486)|null|
 |**2026-07-27**|**Accuracy potential of visual localization exploiting high-end street-level imagery**|Jonas Meyer et.al.|[2607.24409](http://arxiv.org/abs/2607.24409)|null|
 |**2026-07-24**|**Visual Relocalization from Sparse Views in Aliased and Low-Texture Environments via Novel View Synthesis**|Maria Peribañez et.al.|[2607.22147](http://arxiv.org/abs/2607.22147)|null|
-|**2026-07-23**|**CRAG-MM-Diagnostics: Enabling Stage-Wise Analysis of Knowledge-Intensive VQA**|Hanseok Oh et.al.|[2607.21155](http://arxiv.org/abs/2607.21155)|null|
-|**2026-07-23**|**Webly Supervised Multi-Label Recognition: Evaluation Benchmark and Dual-Branch Multi-Label Contrastive Learning**|Zhihua Xu et.al.|[2607.20874](http://arxiv.org/abs/2607.20874)|null|
+|**2026-07-23**|**CRAG-MM-Diagnostics: Enabling Stage-Wise Analysis of Knowledge-Intensive VQA**|Hanseok Oh et.al.|[2607.21155](http://arxiv.org/abs/2607.21155)|**[link](https://github.com/McGill-NLP/crag-mm-diagnostics)**|
+|**2026-07-23**|**Webly Supervised Multi-Label Recognition: Evaluation Benchmark and Dual-Branch Multi-Label Contrastive Learning**|Zhihua Xu et.al.|[2607.20874](http://arxiv.org/abs/2607.20874)|**[link](https://github.com/zizizihua/WS-MLR)**|
 |**2026-07-22**|**Diverse-Intent Multi-Turn Fashion Image Retrieval**|Mingqiang Tang et.al.|[2607.20291](http://arxiv.org/abs/2607.20291)|null|
 |**2026-07-22**|**RIM: A Retrieval-In-Matching Framework for Cross-Domain Global Visual Localization of UAVs**|Xin Li et.al.|[2607.20116](http://arxiv.org/abs/2607.20116)|null|
-|**2026-07-22**|**Using Hierarchical Controlled Vocabularies to Understand CLIP Retrieval Failures in Historical Photo Collections**|Ratan Sebastian et.al.|[2607.19836](http://arxiv.org/abs/2607.19836)|null|
+|**2026-07-22**|**Using Hierarchical Controlled Vocabularies to Understand CLIP Retrieval Failures in Historical Photo Collections**|Ratan Sebastian et.al.|[2607.19836](http://arxiv.org/abs/2607.19836)|**[link](https://github.com/rxvl-d/clip-aat-historical-photos-tpdl26)**|
 |**2026-07-22**|**Learning the Arabic Dialect Continuum as a Continuous Space: A Regression Approach to Speaker Origin Prediction**|Mohamed Aziz Khadraoui et.al.|[2607.19751](http://arxiv.org/abs/2607.19751)|null|
 |**2026-07-21**|**Staypoint Detection from Noisy Trajectory Data [Experiment Paper]**|Lance Kennedy et.al.|[2607.19312](http://arxiv.org/abs/2607.19312)|null|
 |**2026-07-30**|**PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image**|Dankai Liao et.al.|[2607.19261](http://arxiv.org/abs/2607.19261)|null|
@@ -352,9 +352,9 @@ layout: default
 |**2026-02-14**|**A Deep Convolutional Network to Extract Real-Time Landmarks for UAV Navigation**|Osman Tokluoglu et.al.|[2602.13814](http://arxiv.org/abs/2602.13814)|null|
 |**2026-02-13**|**InfoCIR: Multimedia Analysis for Composed Image Retrieval**|Ioannis Dravilas et.al.|[2602.13402](http://arxiv.org/abs/2602.13402)|null|
 |**2026-02-13**|**EPRBench: A High-Quality Benchmark Dataset for Event Stream Based Visual Place Recognition**|Xiao Wang et.al.|[2602.12919](http://arxiv.org/abs/2602.12919)|null|
-|**2026-02-13**|**GeoAgent: Learning to Geolocate Everywhere with Reinforced Geographic Characteristics**|Modi Jin et.al.|[2602.12617](http://arxiv.org/abs/2602.12617)|null|
+|**2026-02-13**|**GeoAgent: Learning to Geolocate Everywhere with Reinforced Geographic Characteristics**|Modi Jin et.al.|[2602.12617](http://arxiv.org/abs/2602.12617)|**[link](https://github.com/HVision-NKU/GeoAgent)**|
 |**2026-02-12**|**DiffPlace: Street View Generation via Place-Controllable Diffusion Model Enhancing Place Recognition**|Ji Li et.al.|[2602.11875](http://arxiv.org/abs/2602.11875)|null|
-|**2026-02-12**|**Arbitrary Ratio Feature Compression via Next Token Prediction**|Yufan Liu et.al.|[2602.11494](http://arxiv.org/abs/2602.11494)|null|
+|**2026-02-12**|**Arbitrary Ratio Feature Compression via Next Token Prediction**|Yufan Liu et.al.|[2602.11494](http://arxiv.org/abs/2602.11494)|**[link](https://github.com/yufanLIU/ARFC)**|
 |**2026-02-11**|**WHEREIS: IP Address Registration Geo-Consistency**|Robert Beverly et.al.|[2602.11102](http://arxiv.org/abs/2602.11102)|null|
 |**2026-02-11**|**DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories**|Chenlong Deng et.al.|[2602.10809](http://arxiv.org/abs/2602.10809)|null|
 |**2026-02-09**|**Large Language Models for Geolocation Extraction in Humanitarian Crisis Response**|G. Cafferata et.al.|[2602.08872](http://arxiv.org/abs/2602.08872)|null|
@@ -2200,7 +2200,7 @@ layout: default
 |**2025-12-09**|**Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform**|Yuning Gong et.al.|[2512.08478](http://arxiv.org/abs/2512.08478)|null|
 |**2025-12-09**|**HybridSplat: Fast Reflection-baked Gaussian Tracing using Hybrid Splatting**|Chang Liu et.al.|[2512.08334](http://arxiv.org/abs/2512.08334)|null|
 |**2025-12-09**|**Zero-Splat TeleAssist: A Zero-Shot Pose Estimation Framework for Semantic Teleoperation**|Srijan Dokania et.al.|[2512.08271](http://arxiv.org/abs/2512.08271)|null|
-|**2025-12-08**|**Multi-view Pyramid Transformer: Look Coarser to See Broader**|Gyeongjin Kang et.al.|[2512.07806](http://arxiv.org/abs/2512.07806)|null|
+|**2025-12-08**|**Multi-view Pyramid Transformer: Look Coarser to See Broader**|Gyeongjin Kang et.al.|[2512.07806](http://arxiv.org/abs/2512.07806)|**[link](https://github.com/Gynjn/MVP)**|
 |**2025-12-08**|**Tessellation GS: Neural Mesh Gaussians for Robust Monocular Reconstruction of Dynamic Objects**|Shuohan Tao et.al.|[2512.07381](http://arxiv.org/abs/2512.07381)|null|
 |**2025-12-08**|**Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting**|Shilong Jin et.al.|[2512.07345](http://arxiv.org/abs/2512.07345)|null|
 |**2025-12-08**|**AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing**|Ziming Hong et.al.|[2512.07247](http://arxiv.org/abs/2512.07247)|null|
@@ -2221,7 +2221,7 @@ layout: default
 |**2025-12-05**|**3D Path Planning for Robot-assisted Vertebroplasty from Arbitrary Bi-plane X-ray via Differentiable Rendering**|Blanca Inigo et.al.|[2512.05803](http://arxiv.org/abs/2512.05803)|null|
 |**2025-12-05**|**Learning High-Fidelity Cloth Animation via Skinning-Free Image Transfer**|Rong Wang et.al.|[2512.05593](http://arxiv.org/abs/2512.05593)|null|
 |**2025-12-05**|**SCoNE: Spherical Consistent Neighborhoods Ensemble for Effective and Efficient Multi-View Anomaly Detection**|Yang Xu et.al.|[2512.05540](http://arxiv.org/abs/2512.05540)|null|
-|**2025-12-05**|**TED-4DGS: Temporally Activated and Embedding-based Deformation for 4DGS Compression**|Cheng-Yuan Ho et.al.|[2512.05446](http://arxiv.org/abs/2512.05446)|null|
+|**2025-12-05**|**TED-4DGS: Temporally Activated and Embedding-based Deformation for 4DGS Compression**|Cheng-Yuan Ho et.al.|[2512.05446](http://arxiv.org/abs/2512.05446)|**[link](https://github.com/NYCU-MAPL/TED-4DGS)**|
 |**2025-12-05**|**Image Semantic Communication with Quadtree Partition-based Coding**|Yinhuan Huang et.al.|[2512.05395](http://arxiv.org/abs/2512.05395)|null|
 |**2025-12-05**|**SplatPainter: Interactive Authoring of 3D Gaussians from 2D Edits via Test-Time Training**|Yang Zheng et.al.|[2512.05354](http://arxiv.org/abs/2512.05354)|null|
 |**2025-12-04**|**DEAR: Dataset for Evaluating the Aesthetics of RenderingDEAR: Dataset for Evaluating the Aesthetics of Rendering**|Vsevolod Plohotnuk et.al.|[2512.05209](http://arxiv.org/abs/2512.05209)|null|
@@ -2738,7 +2738,7 @@ layout: default
 |**2026-08-12**|**High-Order Liquid Evidence Encoding for Gradual GNSS Spoofing Detection in Autonomous Driving**|Muhammad Ayub Sabir et.al.|[2608.11790](http://arxiv.org/abs/2608.11790)|null|
 |**2026-08-12**|**RoadWeaver: Large-Scale Lane-Level HD Map Generation from Scratch for Autonomous Driving Simulation**|Yueyuan Li et.al.|[2608.11580](http://arxiv.org/abs/2608.11580)|null|
 |**2026-08-11**|**Herding End-to-End Autonomous Driving via Neuro-Symbolic Safety Guards**|Simón Patiño Idarraga et.al.|[2608.11451](http://arxiv.org/abs/2608.11451)|null|
-|**2026-08-11**|**XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving**| Foundation Model Team et.al.|[2608.10976](http://arxiv.org/abs/2608.10976)|null|
+|**2026-08-11**|**XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving**|Foundation Model Team et.al.|[2608.10976](http://arxiv.org/abs/2608.10976)|null|
 |**2026-08-11**|**Multi-View Relational Distillation for Spatial Reasoning with Vision-Language Models**|Kiet T. Nguyen et.al.|[2608.10864](http://arxiv.org/abs/2608.10864)|null|
 |**2026-08-11**|**Cross-View Sequential Visual Localization with Spatio-Temporal Context Modeling for Autonomous Driving**|Jiaping Wang et.al.|[2608.10660](http://arxiv.org/abs/2608.10660)|null|
 |**2026-08-11**|**DriveVLA-M0: Failure-Aware Memory Augmentation for Autonomous Driving**|Zebin Xing et.al.|[2608.10413](http://arxiv.org/abs/2608.10413)|null|
@@ -4487,9 +4487,9 @@ layout: default
 |**2025-09-28**|**Foundation Model-Based Adaptive Semantic Image Transmission for Dynamic Wireless Environments**|Fangyu Liu et.al.|[2509.23590](http://arxiv.org/abs/2509.23590)|null|
 |**2025-09-28**|**BridgeDrive: Diffusion Bridge Policy for Closed-Loop Trajectory Planning in Autonomous Driving**|Shu Liu et.al.|[2509.23589](http://arxiv.org/abs/2509.23589)|null|
 |**2025-09-27**|**WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving**|Ziyue Zhu et.al.|[2509.23402](http://arxiv.org/abs/2509.23402)|**[link](https://github.com/wm-research/worldsplat)**|
-|**2025-09-27**|**Preventing Robotic Jailbreaking via Multimodal Domain Adaptation**|Francesco Marchiori et.al.|[2509.23281](http://arxiv.org/abs/2509.23281)|null|
+|**2025-09-27**|**Preventing Robotic Jailbreaking via Multimodal Domain Adaptation**|Francesco Marchiori et.al.|[2509.23281](http://arxiv.org/abs/2509.23281)|**[link](https://github.com/Mhackiori/J-DAPT)**|
 |**2025-09-26**|**Persistent Autoregressive Mapping with Traffic Rules for Autonomous Driving**|Shiyi Liang et.al.|[2509.22756](http://arxiv.org/abs/2509.22756)|null|
-|**2025-09-26**|**Self-driving cars: Are we there yet?**|Merve Atasever et.al.|[2509.22754](http://arxiv.org/abs/2509.22754)|null|
+|**2025-09-26**|**Self-driving cars: Are we there yet?**|Merve Atasever et.al.|[2509.22754](http://arxiv.org/abs/2509.22754)|**[link](https://github.com/Aryia-Behroziuan/References)**|
 |**2025-09-26**|**An Intention-driven Lane Change Framework Considering Heterogeneous Dynamic Cooperation in Mixed-traffic Environment**|Xiaoyun Qiu et.al.|[2509.22550](http://arxiv.org/abs/2509.22550)|null|
 |**2025-09-26**|**EfficientDepth: A Fast and Detail-Preserving Monocular Depth Estimation Model**|Andrii Litvynchuk et.al.|[2509.22527](http://arxiv.org/abs/2509.22527)|null|
 |**2025-09-29**|**A Multi-Modality Evaluation of the Reality Gap in Autonomous Driving Systems**|Stefano Carlo Lambertenghi et.al.|[2509.22379](http://arxiv.org/abs/2509.22379)|null|
@@ -4820,8 +4820,8 @@ layout: default
 |**2026-05-30**|**State-Space Modelling and Analysis**|Hao Li et.al.|[2606.00699](http://arxiv.org/abs/2606.00699)|null|
 |**2026-05-29**|**Trading Complexity for Expressivity Through Structured Generalized Linear Token Mixing**|Erwan Fagnou et.al.|[2605.31367](http://arxiv.org/abs/2605.31367)|null|
 |**2026-05-29**|**Dreaming Of Others: Latent Teammate Modeling In World Models For Multi-Agent Reinforcement Learning**|Tomas Leroy-Stone et.al.|[2605.31361](http://arxiv.org/abs/2605.31361)|null|
-|**2026-05-28**|**Betting Against Integrity: Identifying Match-Fixing Through In-Play Market Dynamics**|David Winkelmann et.al.|[2605.30209](http://arxiv.org/abs/2605.30209)|null|
-|**2026-05-28**|**GeoMag: Geometric-Aware Video Motion Magnification via State Space Model**|Kecheng Han et.al.|[2605.29762](http://arxiv.org/abs/2605.29762)|null|
+|**2026-05-28**|**Betting Against Integrity: Identifying Match-Fixing Through In-Play Market Dynamics**|David Winkelmann et.al.|[2605.30209](http://arxiv.org/abs/2605.30209)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-05-28**|**GeoMag: Geometric-Aware Video Motion Magnification via State Space Model**|Kecheng Han et.al.|[2605.29762](http://arxiv.org/abs/2605.29762)|**[link](https://github.com/scottHankcheng/GeoMag)**|
 |**2026-05-27**|**Comparing Spatially Periodic Feedback and Space-Time Modulation for Unidirectional Wave Propagation in a 1D Mass-Spring-Damper System**|João H. S. Brandão et.al.|[2605.29086](http://arxiv.org/abs/2605.29086)|null|
 |**2026-05-27**|**CaMBRAIN: Real-time, Continuous EEG Inference with Causal State Space Models**|Abhilash Durgam et.al.|[2605.28792](http://arxiv.org/abs/2605.28792)|null|
 |**2026-05-27**|**Multi-Mixer Models: Flexible Sequence Modeling with Shared Representations**|Kevin Y. Li et.al.|[2605.28769](http://arxiv.org/abs/2605.28769)|null|
@@ -5228,7 +5228,7 @@ layout: default
 |**2025-12-05**|**Measurements of Light Nuclei (d, t, $^3$He)-$Λ$ Correlations in Au+Au Collisions at $\sqrt{s_{NN}}=3$ GeV from STAR**|Xialei Jiang et.al.|[2512.05885](http://arxiv.org/abs/2512.05885)|null|
 |**2025-12-05**|**Vague Knowledge: Information without Transitivity and Partitions**|Kerry Xiao et.al.|[2512.05833](http://arxiv.org/abs/2512.05833)|null|
 |**2025-12-05**|**Ferroelectricity in dipolar liquids: from an exactly solvable model in the large-dimensional limit to finite dimensions**|M. G. Izzo et.al.|[2512.05758](http://arxiv.org/abs/2512.05758)|null|
-|**2025-12-05**|**Comparing the latent features of universal machine-learning interatomic potentials**|Sofiia Chorna et.al.|[2512.05717](http://arxiv.org/abs/2512.05717)|null|
+|**2025-12-05**|**Comparing the latent features of universal machine-learning interatomic potentials**|Sofiia Chorna et.al.|[2512.05717](http://arxiv.org/abs/2512.05717)|**[link](https://github.com/sofiia-chorna/universal_feature_space_comparison)**|
 |**2025-12-05**|**LA-RL: Language Action-guided Reinforcement Learning with Safety Guarantees for Autonomous Highway Driving**|Yiming Shu et.al.|[2512.05686](http://arxiv.org/abs/2512.05686)|null|
 |**2025-12-05**|**Efficient sequential Bayesian inference for state-space epidemic models using ensemble data assimilation**|Dhorasso Temfack et.al.|[2512.05650](http://arxiv.org/abs/2512.05650)|null|
 |**2025-12-05**|**DistillFSS: Synthesizing Few-Shot Knowledge into a Lightweight Segmentation Model**|Pasquale De Marinis et.al.|[2512.05613](http://arxiv.org/abs/2512.05613)|null|
@@ -5389,7 +5389,7 @@ layout: default
 |**2025-11-25**|**Communication-Efficient Learning for Satellite Constellations**|Ruxandra-Stefania Tudose et.al.|[2511.20220](http://arxiv.org/abs/2511.20220)|null|
 |**2025-11-25**|**Exo2EgoSyn: Unlocking Foundation Video Generation Models for Exocentric-to-Egocentric Video Synthesis**|Mohammad Mahdi et.al.|[2511.20186](http://arxiv.org/abs/2511.20186)|null|
 |**2025-11-25**|**Alzheimers Disease Progression Prediction Based on Manifold Mapping of Irregularly Sampled Longitudinal Data**|Xin Hong et.al.|[2511.20154](http://arxiv.org/abs/2511.20154)|null|
-|**2025-11-24**|**Cloud4D**|Jacob Lin et.al.|[2511.19431](http://arxiv.org/abs/2511.19431)|null|
+|**2025-11-24**|**Cloud4D**|Jacob Lin et.al.|[2511.19431](http://arxiv.org/abs/2511.19431)|**[link](https://github.com/linjacob2/cloud4d)**|
 |**2025-11-24**|**Dual-Granularity Semantic Prompting for Language Guidance Infrared Small Target Detection**|Zixuan Wang et.al.|[2511.19306](http://arxiv.org/abs/2511.19306)|null|
 |**2025-11-24**|**Innovative Modular Design and Kinematic Approach based on Screw Theory for Triple Scissors Links Deployable Space Antenna Mechanism**|Mamoon Aamir et.al.|[2511.19287](http://arxiv.org/abs/2511.19287)|null|
 |**2025-11-24**|**What is the signature of a trion in photoemission?**|Jinyuan Wu et.al.|[2511.19280](http://arxiv.org/abs/2511.19280)|null|
