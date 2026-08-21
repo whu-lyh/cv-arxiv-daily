@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.08.20
+## Updated on 2026.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**A Non-Hermitian Biorthogonal Encoding Paradigm for Physical-Layer Secure Computational Imaging**|Xi-Hao Chen et.al.|[2608.19878](http://arxiv.org/abs/2608.19878)|null|
+|**2026-08-20**|**Far from the Crowd: Scalable Self-Supervised Learning via Geographic Isolation**|Daniele Rege Cambrin et.al.|[2608.19766](http://arxiv.org/abs/2608.19766)|null|
 |**2026-08-19**|**SCORE: Subject Coordinate Recovery for Label-Free Cross-Subject EEG-to-Image Retrieval**|Zhenyao Cui et.al.|[2608.19134](http://arxiv.org/abs/2608.19134)|null|
 |**2026-08-19**|**Beyond Trial Averaging: Anchoring Neural and Visual Representations for Few-Repetition Brain-to-Image Retrieval**|Zhenyao Cui et.al.|[2608.19128](http://arxiv.org/abs/2608.19128)|null|
 |**2026-08-19**|**Composed Historical Image Retrieval by Modeling Temporal Representations**|Adrià Molina Rodríguez et.al.|[2608.18694](http://arxiv.org/abs/2608.18694)|null|
@@ -1122,9 +1124,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**4DAnyone: Create Anyone in 4D from a Casual Monocular Video**|Yudong Jin et.al.|[2608.20335](http://arxiv.org/abs/2608.20335)|null|
+|**2026-08-20**|**Point-Based 3D Reconstruction from Sparse Views under Known Illumination**|Magnus Kaufmann Gjerde et.al.|[2608.20000](http://arxiv.org/abs/2608.20000)|null|
+|**2026-08-20**|**Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models**|Yuanhao Ban et.al.|[2608.19556](http://arxiv.org/abs/2608.19556)|null|
 |**2026-08-19**|**GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting**|Yechan Park et.al.|[2608.19066](http://arxiv.org/abs/2608.19066)|null|
 |**2026-08-19**|**CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction**|Shihan Chen et.al.|[2608.18413](http://arxiv.org/abs/2608.18413)|null|
-|**2026-08-18**|**Depth Anything V4: Dynamic 4D Scene Reconstruction via Riemannian Flow Matching on 4D Gaussian Splatting**|Jiaming Fan et.al.|[2608.18388](http://arxiv.org/abs/2608.18388)|null|
+|**2026-08-20**|**Depth Anything V4: Dynamic 4D Scene Reconstruction via Riemannian Flow Matching on 4D Gaussian Splatting**|Jiaming Fan et.al.|[2608.18388](http://arxiv.org/abs/2608.18388)|null|
 |**2026-08-18**|**QuARC-GS: Quantized Anchored Residual Coding for Compact Dynamic Scene Streaming with Gaussian Splatting**|Vu Trung Nghia Nguyen et.al.|[2608.18285](http://arxiv.org/abs/2608.18285)|null|
 |**2026-08-18**|**GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation**|Ming Qian et.al.|[2608.17988](http://arxiv.org/abs/2608.17988)|null|
 |**2026-08-18**|**Differentiable Voronoi Ray Tracing Beyond Rasterization Speeds**|Bernardo Taveira et.al.|[2608.17682](http://arxiv.org/abs/2608.17682)|null|
@@ -2756,10 +2761,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-19**|**DA-WAM: Decision-Aligned Future Latents for Driving World Models**|Ruiguo Zhong et.al.|[2608.19085](http://arxiv.org/abs/2608.19085)|null|
+|**2026-08-20**|**Multi-Agent Orchestration with the Common-Sense Reasoning Capabilities of LLMs for Autonomous Driving**|Mehdi Azarafza et.al.|[2608.20129](http://arxiv.org/abs/2608.20129)|null|
+|**2026-08-20**|**Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms**|Yanchen Guan et.al.|[2608.20111](http://arxiv.org/abs/2608.20111)|null|
+|**2026-08-20**|**G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via Knowledge Graphs**|Bhavya Gupta et.al.|[2608.19964](http://arxiv.org/abs/2608.19964)|null|
+|**2026-08-19**|**SCAPE: Scenario-Conditioned Simulation-Augmented Policy Evaluation**|Dijie Zhu et.al.|[2608.19425](http://arxiv.org/abs/2608.19425)|null|
+|**2026-08-19**|**CAViAR: A Causal Video Dataset for Fine-Grained Accident Reasoning in Real-World Scenarios**|Sparsh Garg et.al.|[2608.19380](http://arxiv.org/abs/2608.19380)|null|
+|**2026-08-19**|**SceneGTMM: A Conformal Mapping-based Scene-Aware Transferable GNN-Transformer Dual-Graph Interaction Framework for Map Matching**|Yongliang Zhang et.al.|[2608.19298](http://arxiv.org/abs/2608.19298)|null|
+|**2026-08-20**|**DA-WAM: Decision-Aligned Future Latents for Driving World Models**|Ruiguo Zhong et.al.|[2608.19085](http://arxiv.org/abs/2608.19085)|null|
 |**2026-08-19**|**USR-Drive: Unified Driving Scene Representation via Joint Denoising of 3D Gaussians and Boxes**|Li-Heng Chen et.al.|[2608.19036](http://arxiv.org/abs/2608.19036)|null|
 |**2026-08-19**|**One-Stage Object Detectors in Autonomous Driving**|Jonel Roman et.al.|[2608.19014](http://arxiv.org/abs/2608.19014)|null|
-|**2026-08-19**|**\textsc{TestifAI}: Tomography-Based Testing for Deep Learning Systems**|Arooj Arif et.al.|[2608.18900](http://arxiv.org/abs/2608.18900)|null|
+|**2026-08-20**|**TestifAI: Tomography-Based Testing for Deep Learning Systems**|Arooj Arif et.al.|[2608.18900](http://arxiv.org/abs/2608.18900)|null|
 |**2026-08-19**|**The Impact of CutMix on Reliability and Robustness in Semantic Segmentation**|Steven Landgraf et.al.|[2608.18715](http://arxiv.org/abs/2608.18715)|null|
 |**2026-08-18**|**GAPL: Grounded Action-effect Policy Learning for LLM-Based Trajectory Planning**|Zhihong Cui et.al.|[2608.18254](http://arxiv.org/abs/2608.18254)|null|
 |**2026-08-18**|**Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving**|Zongzheng Zhang et.al.|[2608.18035](http://arxiv.org/abs/2608.18035)|null|
@@ -4699,6 +4710,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**Energy-Mamba: A Physics-Constrained State-Space Model for Medical Image Classification**|Mohamed Mabrok et.al.|[2608.19813](http://arxiv.org/abs/2608.19813)|null|
+|**2026-08-20**|**DAVSS: Distilled Audio-Visual State Space Models**|Saurabhchand Bhati et.al.|[2608.19523](http://arxiv.org/abs/2608.19523)|null|
 |**2026-08-18**|**RetiWave-Mamba: A Dual-Stream Network for Retinal Disease Detection based on Multi-scale Context and Frequency-Adaptive Mamba Projection**|Cheng Cheng et.al.|[2608.17623](http://arxiv.org/abs/2608.17623)|null|
 |**2026-08-19**|**FESC: Remodeling Long-Context Private Inference with Encrypted State-Space Models**|Yufan Zhu et.al.|[2608.17442](http://arxiv.org/abs/2608.17442)|null|
 |**2026-08-18**|**TEAMS: Text-prompted spatiotEmporal dual-heAd Mamba Snake**|Ruicheng Zhang et.al.|[2608.17421](http://arxiv.org/abs/2608.17421)|null|
