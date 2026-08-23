@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.22
+## Updated on 2026.08.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -17,7 +17,7 @@ layout: default
 |**2026-08-18**|**When More Foundation Models Means Less: Diagnosing and Addressing Multi-View Fusion Failure**|Yibo Liu et.al.|[2608.17490](http://arxiv.org/abs/2608.17490)|null|
 |**2026-08-18**|**Fresnel diffraction imaging of surface nanostructure using coherent resonant X-ray scattering**|L. Burgard et.al.|[2608.17377](http://arxiv.org/abs/2608.17377)|null|
 |**2026-08-17**|**YILDIZ-VPR: A Novel Dataset with Dense Coverage Under Diverse Environmental Conditions for Visual Place Recognition**|Serdar Yildiz et.al.|[2608.17033](http://arxiv.org/abs/2608.17033)|null|
-|**2026-08-13**|**Edit2TikZ: A Comprehensive and Challenging Benchmark for Scientific Figure Editing with TikZ**|Zongyun Zhang et.al.|[2608.13441](http://arxiv.org/abs/2608.13441)|null|
+|**2026-08-13**|**Edit2TikZ: A Comprehensive and Challenging Benchmark for Scientific Figure Editing with TikZ**|Zongyun Zhang et.al.|[2608.13441](http://arxiv.org/abs/2608.13441)|**[link](https://github.com/Solunny/Edit2TikZ)**|
 |**2026-08-12**|**Hate speech toward migrants on a citizen reporting platform concentrates in neighborhoods undergoing demographic change**|Eduardo Graells-Garrido et.al.|[2608.12581](http://arxiv.org/abs/2608.12581)|null|
 |**2026-08-12**|**MASCOT: Model-Aware Submodular Coverage for Composite-Attribute Text-to-Image Retrieval**|Aaryan Sharma et.al.|[2608.12532](http://arxiv.org/abs/2608.12532)|null|
 |**2026-08-12**|**GeoBridge: Decoupled Semantic Conditioning for Generative Image Geolocalization**|Zhiyang Dou et.al.|[2608.11838](http://arxiv.org/abs/2608.11838)|null|
