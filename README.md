@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**EviRank: Structured Relevance Evidence for Multimodal Image Re-ranking**|Enjun Du et.al.|[2608.20886](http://arxiv.org/abs/2608.20886)|null|
 |**2026-08-20**|**A Non-Hermitian Biorthogonal Encoding Paradigm for Physical-Layer Secure Computational Imaging**|Xi-Hao Chen et.al.|[2608.19878](http://arxiv.org/abs/2608.19878)|null|
 |**2026-08-20**|**Far from the Crowd: Scalable Self-Supervised Learning via Geographic Isolation**|Daniele Rege Cambrin et.al.|[2608.19766](http://arxiv.org/abs/2608.19766)|null|
 |**2026-08-19**|**SCORE: Subject Coordinate Recovery for Label-Free Cross-Subject EEG-to-Image Retrieval**|Zhenyao Cui et.al.|[2608.19134](http://arxiv.org/abs/2608.19134)|null|
@@ -25,7 +26,7 @@
 |**2026-08-18**|**When More Foundation Models Means Less: Diagnosing and Addressing Multi-View Fusion Failure**|Yibo Liu et.al.|[2608.17490](http://arxiv.org/abs/2608.17490)|null|
 |**2026-08-18**|**Fresnel diffraction imaging of surface nanostructure using coherent resonant X-ray scattering**|L. Burgard et.al.|[2608.17377](http://arxiv.org/abs/2608.17377)|null|
 |**2026-08-17**|**YILDIZ-VPR: A Novel Dataset with Dense Coverage Under Diverse Environmental Conditions for Visual Place Recognition**|Serdar Yildiz et.al.|[2608.17033](http://arxiv.org/abs/2608.17033)|null|
-|**2026-08-13**|**Edit2TikZ: A Comprehensive and Challenging Benchmark for Scientific Figure Editing with TikZ**|Zongyun Zhang et.al.|[2608.13441](http://arxiv.org/abs/2608.13441)|**[link](https://github.com/Solunny/Edit2TikZ)**|
+|**2026-08-13**|**Edit2TikZ: A Comprehensive and Challenging Benchmark for Scientific Figure Editing with TikZ**|Zongyun Zhang et.al.|[2608.13441](http://arxiv.org/abs/2608.13441)|null|
 |**2026-08-12**|**Hate speech toward migrants on a citizen reporting platform concentrates in neighborhoods undergoing demographic change**|Eduardo Graells-Garrido et.al.|[2608.12581](http://arxiv.org/abs/2608.12581)|null|
 |**2026-08-12**|**MASCOT: Model-Aware Submodular Coverage for Composite-Attribute Text-to-Image Retrieval**|Aaryan Sharma et.al.|[2608.12532](http://arxiv.org/abs/2608.12532)|null|
 |**2026-08-12**|**GeoBridge: Decoupled Semantic Conditioning for Generative Image Geolocalization**|Zhiyang Dou et.al.|[2608.11838](http://arxiv.org/abs/2608.11838)|null|
@@ -1138,6 +1139,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**TopoSurfel: Closing the Loop between Gaussian Surfels and Meshes for Surface Reconstruction**|Chuanjin Fan et.al.|[2608.20687](http://arxiv.org/abs/2608.20687)|null|
+|**2026-08-20**|**Sparse Light Field Sampling Improves Casual 3D and 4D Reconstruction**|Shamus Li et.al.|[2608.20602](http://arxiv.org/abs/2608.20602)|null|
 |**2026-08-20**|**4DAnyone: Create Anyone in 4D from a Casual Monocular Video**|Yudong Jin et.al.|[2608.20335](http://arxiv.org/abs/2608.20335)|null|
 |**2026-08-20**|**Point-Based 3D Reconstruction from Sparse Views under Known Illumination**|Magnus Kaufmann Gjerde et.al.|[2608.20000](http://arxiv.org/abs/2608.20000)|null|
 |**2026-08-20**|**Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models**|Yuanhao Ban et.al.|[2608.19556](http://arxiv.org/abs/2608.19556)|null|
@@ -2777,6 +2780,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**A2DINOv3: Rethinking Multi-Modal Object Detection via Socialized Collaboration**|Jiekang Feng et.al.|[2608.21099](http://arxiv.org/abs/2608.21099)|null|
+|**2026-08-21**|**CoAnchor: Robust Collaborative Perception under Spatio-Temporal Misalignment via Object-Level Anchors**|Chi Li et.al.|[2608.21055](http://arxiv.org/abs/2608.21055)|null|
+|**2026-08-21**|**Roadside-Cooperative Autonomous Driving: From Data Platform to Vision-Language End-to-End Reasoning**|Yitao Xu et.al.|[2608.21032](http://arxiv.org/abs/2608.21032)|null|
+|**2026-08-21**|**WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving**|Xinlin Wang et.al.|[2608.20974](http://arxiv.org/abs/2608.20974)|null|
+|**2026-08-21**|**A Collaborative Multi-Modality Interaction for VLA-based End-to-End Autonomous Driving**|Jingtao Sun et.al.|[2608.20890](http://arxiv.org/abs/2608.20890)|null|
+|**2026-08-21**|**Multi-Modal Traffic Sign Detection with Semantic Attributes for Autonomous Driving**|Meda Lazar et.al.|[2608.20874](http://arxiv.org/abs/2608.20874)|null|
 |**2026-08-20**|**Multi-Agent Orchestration with the Common-Sense Reasoning Capabilities of LLMs for Autonomous Driving**|Mehdi Azarafza et.al.|[2608.20129](http://arxiv.org/abs/2608.20129)|null|
 |**2026-08-20**|**Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms**|Yanchen Guan et.al.|[2608.20111](http://arxiv.org/abs/2608.20111)|null|
 |**2026-08-20**|**G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via Knowledge Graphs**|Bhavya Gupta et.al.|[2608.19964](http://arxiv.org/abs/2608.19964)|null|
@@ -2790,7 +2799,7 @@
 |**2026-08-19**|**The Impact of CutMix on Reliability and Robustness in Semantic Segmentation**|Steven Landgraf et.al.|[2608.18715](http://arxiv.org/abs/2608.18715)|null|
 |**2026-08-18**|**GAPL: Grounded Action-effect Policy Learning for LLM-Based Trajectory Planning**|Zhihong Cui et.al.|[2608.18254](http://arxiv.org/abs/2608.18254)|null|
 |**2026-08-18**|**Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving**|Zongzheng Zhang et.al.|[2608.18035](http://arxiv.org/abs/2608.18035)|null|
-|**2026-08-18**|**ControlledShifts: Towards Standardizing Robustness Evaluation in Trajectory Prediction Under Distribution Shifts**|Ingrid navarro et.al.|[2608.17882](http://arxiv.org/abs/2608.17882)|null|
+|**2026-08-21**|**ControlledShifts: Towards Standardizing Robustness Evaluation in Trajectory Prediction Under Distribution Shifts**|Ingrid Navarro et.al.|[2608.17882](http://arxiv.org/abs/2608.17882)|null|
 |**2026-08-18**|**Stability Control for Real World Testing in Autonomous Racing**|Phillip Pitschi et.al.|[2608.17779](http://arxiv.org/abs/2608.17779)|null|
 |**2026-08-18**|**SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering**|Gen Li et.al.|[2608.17420](http://arxiv.org/abs/2608.17420)|null|
 |**2026-08-17**|**Mask What Matters: Saliency-Guided Video Self-Supervised Learning for Autonomous Driving**|Christopher Lang et.al.|[2608.17178](http://arxiv.org/abs/2608.17178)|null|
@@ -4728,6 +4737,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**Tydra: An Efficient Hybrid Model for Tabular Data**|Mieszko Komisarczyk et.al.|[2608.21199](http://arxiv.org/abs/2608.21199)|null|
+|**2026-08-21**|**Public Signals, Concealed Choices: Dynamic Measurement without Behavioral Identification**|Rok Spruk et.al.|[2608.21077](http://arxiv.org/abs/2608.21077)|null|
 |**2026-08-20**|**Energy-Mamba: A Physics-Constrained State-Space Model for Medical Image Classification**|Mohamed Mabrok et.al.|[2608.19813](http://arxiv.org/abs/2608.19813)|null|
 |**2026-08-20**|**DAVSS: Distilled Audio-Visual State Space Models**|Saurabhchand Bhati et.al.|[2608.19523](http://arxiv.org/abs/2608.19523)|null|
 |**2026-08-18**|**RetiWave-Mamba: A Dual-Stream Network for Retinal Disease Detection based on Multi-scale Context and Frequency-Adaptive Mamba Projection**|Cheng Cheng et.al.|[2608.17623](http://arxiv.org/abs/2608.17623)|null|
