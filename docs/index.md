@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.08.25
+## Updated on 2026.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**PlaceSeek: Human-Centered Geospatial Retrieval of Urban Outdoor Places via Semantic Grounding and Affective Alignment**|Ziqi Cui et.al.|[2608.24133](http://arxiv.org/abs/2608.24133)|null|
 |**2026-08-24**|**Spotter: Efficient Urban Visual Localization via Geo-Referenced Facade Landmarks in GPS-Degraded Environments**|Antoni Valls et.al.|[2608.23290](http://arxiv.org/abs/2608.23290)|null|
 |**2026-08-24**|**PhiShark2026: A Multi-Layer Active-Web Raw-Evidence Dataset for Phishing Website Research**|Furkan Çolhak et.al.|[2608.23199](http://arxiv.org/abs/2608.23199)|null|
 |**2026-08-24**|**Training-Free Pseudo-Fusion for Composed Image Retrieval with Diffusion Models and Multimodal Large Language Models**|Fan Xu et.al.|[2608.23102](http://arxiv.org/abs/2608.23102)|null|
@@ -1137,9 +1138,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**Physics-Integrated Operator Learning via Gaussian Splatting Representations**|Jihao Zhang et.al.|[2608.24049](http://arxiv.org/abs/2608.24049)|null|
 |**2026-08-24**|**FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors**|Khiem Vuong et.al.|[2608.23549](http://arxiv.org/abs/2608.23549)|null|
 |**2026-08-24**|**AquaFlow: A Monocular Gaussian Splatting SLAM for Underwater Streaming Reconstruction**|Yingxiang Xu et.al.|[2608.22906](http://arxiv.org/abs/2608.22906)|null|
-|**2026-08-24**|**NemoSplat: Feed-Forward 4D Gaussian Splatting for Media-Aware Underwater Reconstruction**|Xiaopeng Guo et.al.|[2608.22888](http://arxiv.org/abs/2608.22888)|null|
+|**2026-08-25**|**NemoSplat: Feed-Forward 4D Gaussian Splatting for Media-Aware Underwater Reconstruction**|Xiaopeng Guo et.al.|[2608.22888](http://arxiv.org/abs/2608.22888)|null|
 |**2026-08-24**|**LagrangeGS: Non-Conservative Lagrangian System on Dynamic 3D Gaussian Splatting**|Shogo Sato et.al.|[2608.22773](http://arxiv.org/abs/2608.22773)|null|
 |**2026-08-24**|**Seeing the Unseen: Semantic-in-Gaussian for Sparse-View 3D Generalization**|Zeyang Bai et.al.|[2608.22740](http://arxiv.org/abs/2608.22740)|null|
 |**2026-08-23**|**M $^3$ ISR: A Multi-Modal Multi-View Benchmark for 3D/4D Gaussian Splatting and Feedforward Compression**|Xinhui Liu et.al.|[2608.22465](http://arxiv.org/abs/2608.22465)|null|
@@ -2787,7 +2789,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-08-24**|**GeoWAM: Visual Geometry World Action Models for Autonomous Driving**|Yiren Lu et.al.|[2608.23486](http://arxiv.org/abs/2608.23486)|null|
+|**2026-08-25**|**CARE: Camera-Residual Reserves for First Sightings in Adaptive LiDAR Sensing**|Jiachen Gong et.al.|[2608.24282](http://arxiv.org/abs/2608.24282)|null|
+|**2026-08-25**|**SIREN-Bench: Behavior-Driven Generation and Evaluation of Emergency-Vehicle Interactions**|Yicheng Zhu et.al.|[2608.24094](http://arxiv.org/abs/2608.24094)|null|
+|**2026-08-25**|**SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image**|Zefan Tian et.al.|[2608.23930](http://arxiv.org/abs/2608.23930)|null|
+|**2026-08-25**|**GeoWAM: Visual Geometry World Action Models for Autonomous Driving**|Yiren Lu et.al.|[2608.23486](http://arxiv.org/abs/2608.23486)|null|
 |**2026-08-24**|**MomADv2: Reliable Temporal Memory for End-to-End Autonomous Driving**|Ziying Song et.al.|[2608.23405](http://arxiv.org/abs/2608.23405)|null|
 |**2026-08-24**|**LoViF 2026 The First Challenge on Unified Removal of Raindrops and Reflections: Methods and Results**|Zewei He et.al.|[2608.22723](http://arxiv.org/abs/2608.22723)|null|
 |**2026-08-23**|**Scaling Curriculum Learning For Autonomous Driving**|Cevahir Koprulu et.al.|[2608.22549](http://arxiv.org/abs/2608.22549)|null|
@@ -4746,6 +4751,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**Strictly Causal Streaming Video Anomaly Detection with a Theoretically-Grounded State-Space Core**|Yogesh Kumar et.al.|[2608.24810](http://arxiv.org/abs/2608.24810)|null|
+|**2026-08-25**|**SeisMamba: Low-Latency Single-Station Seismic Magnitude Estimation for Spatially Distributed Earthquake Early Warning**|Quenton Yeo et.al.|[2608.24561](http://arxiv.org/abs/2608.24561)|null|
+|**2026-08-25**|**Feedback control of vortex shedding using data-driven modelling**|Jack Proudfoot et.al.|[2608.24435](http://arxiv.org/abs/2608.24435)|null|
+|**2026-08-25**|**EM-KalmanNet: Learned Expectation-Maximization for Adaptive Tracking in Partially Known, Block-Wise Time-Varying State-Space Models**|Ori Cohen et.al.|[2608.24404](http://arxiv.org/abs/2608.24404)|null|
+|**2026-08-24**|**CRISP: Calibration-Aware Visual State Space Duality for Remote Sensing Semantic Segmentation**|Kangning Wang et.al.|[2608.23746](http://arxiv.org/abs/2608.23746)|null|
 |**2026-08-24**|**Following Motion for Sequential Modeling in Video Frame Interpolation**|Jaehyun Park et.al.|[2608.22861](http://arxiv.org/abs/2608.22861)|null|
 |**2026-08-23**|**NOVA: Technology-Architecture Co-Design of Near-Memory Processing for Attention-SSM-MoE Hybrid LLM Inference**|In-Jun Jung et.al.|[2608.22613](http://arxiv.org/abs/2608.22613)|null|
 |**2026-08-23**|**Dual-Scale State-Space Modeling with Speaker-Wise Dynamic CRF for Speech Emotion Recognition in Conversation**|Guan-Hua Wen et.al.|[2608.22399](http://arxiv.org/abs/2608.22399)|null|
