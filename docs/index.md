@@ -971,8 +971,8 @@ layout: default
 |**2025-11-20**|**Rad-GS: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments**|Renxiang Xiao et.al.|[2511.16091](http://arxiv.org/abs/2511.16091)|null|
 |**2025-11-19**|**Atlas Gaussian processes on restricted domains and point clouds**|Mu Niu et.al.|[2511.15822](http://arxiv.org/abs/2511.15822)|null|
 |**2025-11-21**|**The MeerKAT Fornax Survey VI. The collapse of the galaxy HI Mass Function in Fornax**|D. Kleiner et.al.|[2511.15795](http://arxiv.org/abs/2511.15795)|null|
-|**2025-11-19**|**Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2511.15597](http://arxiv.org/abs/2511.15597)|null|
-|**2025-11-19**|**Text2Loc++: Generalizing 3D Point Cloud Localization from Natural Language**|Yan Xia et.al.|[2511.15308](http://arxiv.org/abs/2511.15308)|null|
+|**2025-11-19**|**Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2511.15597](http://arxiv.org/abs/2511.15597)|**[link](https://github.com/Thunder-Volcano/KDF-plus)**|
+|**2025-11-19**|**Text2Loc++: Generalizing 3D Point Cloud Localization from Natural Language**|Yan Xia et.al.|[2511.15308](http://arxiv.org/abs/2511.15308)|**[link](https://github.com/anslt/Text2LocPP)**|
 |**2025-11-18**|**NeuralBoneReg: A Novel Self-Supervised Method for Robust and Accurate Multi-Modal Bone Surface Registration**|Luohong Wu et.al.|[2511.14286](http://arxiv.org/abs/2511.14286)|null|
 |**2025-11-17**|**Part-X-MLLM: Part-aware 3D Multimodal Large Language Model**|Chunshi Wang et.al.|[2511.13647](http://arxiv.org/abs/2511.13647)|**[link](https://github.com/AiEson/Part-X-MLLM)**|
 |**2025-11-18**|**ArtiWorld: LLM-Driven Articulation of 3D Objects in Scenes**|Yixuan Yang et.al.|[2511.12977](http://arxiv.org/abs/2511.12977)|null|
@@ -981,7 +981,7 @@ layout: default
 |**2025-11-13**|**AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models**|Xinyi Wang et.al.|[2511.10017](http://arxiv.org/abs/2511.10017)|**[link](https://github.com/hannahwxy/AffordBot)**|
 |**2025-11-12**|**PALMS+: Modular Image-Based Floor Plan Localization Leveraging Depth Foundation Model**|Yunqian Cheng et.al.|[2511.09724](http://arxiv.org/abs/2511.09724)|**[link](https://github.com/Head-inthe-Cloud/PALMS-Plane-based-Accessible-Indoor-Localization-Using-Mobile-Smartphones)**|
 |**2025-11-12**|**IFG: Internet-Scale Guidance for Functional Grasping Generation**|Ray Muxin Liu et.al.|[2511.09558](http://arxiv.org/abs/2511.09558)|null|
-|**2026-04-09**|**HOTFLoc++: End-to-End Hierarchical LiDAR Place Recognition, Re-Ranking, and 6-DoF Metric Localisation in Forests**|Ethan Griffiths et.al.|[2511.09170](http://arxiv.org/abs/2511.09170)|null|
+|**2026-04-09**|**HOTFLoc++: End-to-End Hierarchical LiDAR Place Recognition, Re-Ranking, and 6-DoF Metric Localisation in Forests**|Ethan Griffiths et.al.|[2511.09170](http://arxiv.org/abs/2511.09170)|**[link](https://github.com/csiro-robotics/HOTFLoc)**|
 |**2025-11-11**|**Enhancing Rotation-Invariant 3D Learning with Global Pose Awareness and Attention Mechanisms**|Jiaxun Guo et.al.|[2511.08833](http://arxiv.org/abs/2511.08833)|null|
 |**2025-11-11**|**Hierarchical Direction Perception via Atomic Dot-Product Operators for Rotation-Invariant Point Clouds Learning**|Chenyu Hu et.al.|[2511.08240](http://arxiv.org/abs/2511.08240)|null|
 |**2025-11-11**|**Accurate and Efficient Surface Reconstruction from Point Clouds via Geometry-Aware Local Adaptation**|Eito Ogawa et.al.|[2511.08233](http://arxiv.org/abs/2511.08233)|null|
@@ -998,7 +998,7 @@ layout: default
 |**2025-10-31**|**MambaNetLK: Enhancing Colonoscopy Point Cloud Registration with Mamba**|Linzhe Jiang et.al.|[2511.00260](http://arxiv.org/abs/2511.00260)|null|
 |**2025-10-29**|**Figuring Out Gas & Galaxies In Enzo (FOGGIE) XI: Circumgalactic O VI Emission Traces Clumpy Inflowing Recycled Gas**|Cassandra Lochhaas et.al.|[2510.25844](http://arxiv.org/abs/2510.25844)|null|
 |**2025-10-02**|**LangGrasp: Leveraging Fine-Tuned LLMs for Language Interactive Robot Grasping with Ambiguous Instructions**|Yunhan Lin et.al.|[2510.02104](http://arxiv.org/abs/2510.02104)|null|
-|**2025-08-09**|**LifelongPR: Lifelong point cloud place recognition based on sample replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|null|
+|**2025-08-09**|**LifelongPR: Lifelong point cloud place recognition based on sample replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|**[link](https://github.com/zouxianghong/LifelongPR)**|
 |**2025-08-08**|**ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models**|Minwoo Jung et.al.|[2505.18364](http://arxiv.org/abs/2505.18364)|null|
 |**2025-05-26**|**MinkUNeXt-SI: Improving point cloud-based place recognition including spherical coordinates and LiDAR intensity**|Judith Vilella-Cantos et.al.|[2505.17591](http://arxiv.org/abs/2505.17591)|null|
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
