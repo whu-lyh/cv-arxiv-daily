@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.30
+## Updated on 2026.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -1290,10 +1290,10 @@ layout: default
 |**2026-07-22**|**ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion**|Cho In et.al.|[2607.20417](http://arxiv.org/abs/2607.20417)|null|
 |**2026-07-22**|**Persian Pixel: A large-scale synthetic OCR dataset for Persian language**|Pouria Mahdi et.al.|[2607.20385](http://arxiv.org/abs/2607.20385)|null|
 |**2026-07-22**|**MR-Compare: A Mixed-Reality Framework for Spatially Grounded Visual Comparison of 3D Gaussian Splatting and Mesh Reconstructions with the Physical Environment**|Changrui Zhu et.al.|[2607.20325](http://arxiv.org/abs/2607.20325)|null|
-|**2026-07-22**|**Trace: A Taxonomy-Guided Environment for Multidomain Visual Reasoning**|Md Tanvirul Alam et.al.|[2607.19790](http://arxiv.org/abs/2607.19790)|null|
+|**2026-07-22**|**Trace: A Taxonomy-Guided Environment for Multidomain Visual Reasoning**|Md Tanvirul Alam et.al.|[2607.19790](http://arxiv.org/abs/2607.19790)|**[link](https://github.com/maveryn/trace)**|
 |**2026-07-22**|**Look Before You Edit: Attention-Guided Camera Placement and Multi-View Alignment for 3D Gaussian Splatting Editing**|Jaeyeon Park et.al.|[2607.19777](http://arxiv.org/abs/2607.19777)|null|
 |**2026-07-21**|**FlexiAvatar: Unified 3D Gaussian Human Avatars Under Arbitrary Body Visibility**|Yihalem Yimolal Tiruneh et.al.|[2607.19100](http://arxiv.org/abs/2607.19100)|null|
-|**2026-07-21**|**ZeroSplat: Generalized Referring Segmentation in 3D Gaussian Splatting**|Jiayu Ding et.al.|[2607.18801](http://arxiv.org/abs/2607.18801)|null|
+|**2026-07-21**|**ZeroSplat: Generalized Referring Segmentation in 3D Gaussian Splatting**|Jiayu Ding et.al.|[2607.18801](http://arxiv.org/abs/2607.18801)|**[link](https://github.com/InkMind-AI/ZeroSplat)**|
 |**2026-07-20**|**AniGS: Bridging Rendering and Diffusion Prior for 3D Scene Animation**|Yen-Chi Cheng et.al.|[2607.18539](http://arxiv.org/abs/2607.18539)|null|
 |**2026-07-20**|**ECoNGS: Efficient Compressive Neural Gaussian Splats for Volume Visualization**|Kaiyuan Tang et.al.|[2607.18466](http://arxiv.org/abs/2607.18466)|null|
 |**2026-07-20**|**QIRF Quantum-Inspired Non-Orthogonal Function-Space Compression for 3D Gaussian Splatting**|Shizeng Jiang et.al.|[2607.18067](http://arxiv.org/abs/2607.18067)|null|
@@ -2278,7 +2278,7 @@ layout: default
 |**2025-12-09**|**Zero-Splat TeleAssist: A Zero-Shot Pose Estimation Framework for Semantic Teleoperation**|Srijan Dokania et.al.|[2512.08271](http://arxiv.org/abs/2512.08271)|null|
 |**2025-12-08**|**Multi-view Pyramid Transformer: Look Coarser to See Broader**|Gyeongjin Kang et.al.|[2512.07806](http://arxiv.org/abs/2512.07806)|**[link](https://github.com/Gynjn/MVP)**|
 |**2025-12-08**|**Tessellation GS: Neural Mesh Gaussians for Robust Monocular Reconstruction of Dynamic Objects**|Shuohan Tao et.al.|[2512.07381](http://arxiv.org/abs/2512.07381)|null|
-|**2025-12-08**|**Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting**|Shilong Jin et.al.|[2512.07345](http://arxiv.org/abs/2512.07345)|null|
+|**2025-12-08**|**Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting**|Shilong Jin et.al.|[2512.07345](http://arxiv.org/abs/2512.07345)|**[link](https://github.com/kimslong/AAAI26-TDAttn)**|
 |**2025-12-08**|**AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing**|Ziming Hong et.al.|[2512.07247](http://arxiv.org/abs/2512.07247)|null|
 |**2025-12-08**|**STRinGS: Selective Text Refinement in Gaussian Splatting**|Abhinav Raundhal et.al.|[2512.07230](http://arxiv.org/abs/2512.07230)|null|
 |**2025-12-08**|**SUCCESS-GS: Survey of Compactness and Compression for Efficient Static and Dynamic Gaussian Splatting**|Seokhyun Youn et.al.|[2512.07197](http://arxiv.org/abs/2512.07197)|null|
@@ -5340,13 +5340,13 @@ layout: default
 |**2026-01-05**|**Scalable Gaussian Processes for Integrated and Overlapping Measurements Via Augmented State Space Models**|Ryan A. Rubenzahl et.al.|[2601.02527](http://arxiv.org/abs/2601.02527)|null|
 |**2026-01-02**|**SpikySpace: A Spiking State Space Model for Energy-Efficient Time Series Forecasting**|Kaiwen Tang et.al.|[2601.02411](http://arxiv.org/abs/2601.02411)|null|
 |**2026-01-05**|**A Mamba-Based Model for Automatic Chord Recognition**|Chunyu Yuan et.al.|[2601.02101](http://arxiv.org/abs/2601.02101)|null|
-|**2026-01-06**|**Hidden State Poisoning Attacks against Mamba-based Language Models**|Alexandre Le Mercier et.al.|[2601.01972](http://arxiv.org/abs/2601.01972)|null|
+|**2026-01-06**|**Hidden State Poisoning Attacks against Mamba-based Language Models**|Alexandre Le Mercier et.al.|[2601.01972](http://arxiv.org/abs/2601.01972)|**[link](https://github.com/TortueSagace/hispa)**|
 |**2026-01-08**|**Reliable Grid Forecasting: State Space Models for Safety-Critical Energy Systems**|Jisoo Lee et.al.|[2601.01410](http://arxiv.org/abs/2601.01410)|null|
 |**2026-01-04**|**LinMU: Multimodal Understanding Made Linear**|Hongjie Wang et.al.|[2601.01322](http://arxiv.org/abs/2601.01322)|null|
 |**2026-01-03**|**MambaFormer: Token-Level Guided Routing Mixture-of-Experts for Accurate and Efficient Clinical Assistance**|Hamad Khan et.al.|[2601.01260](http://arxiv.org/abs/2601.01260)|null|
 |**2026-01-03**|**Benchmarking the Computational and Representational Efficiency of State Space Models against Transformers on Long-Context Dyadic Sessions**|Abidemi Koledoye et.al.|[2601.01237](http://arxiv.org/abs/2601.01237)|null|
 |**2026-01-03**|**NeuroSSM: Multiscale Differential State-Space Modeling for Context-Aware fMRI Analysis**|Furkan Genç et.al.|[2601.01229](http://arxiv.org/abs/2601.01229)|null|
-|**2026-01-01**|**Depth-Synergized Mamba Meets Memory Experts for All-Day Image Reflection Separation**|Siyan Fang et.al.|[2601.00322](http://arxiv.org/abs/2601.00322)|null|
+|**2026-01-01**|**Depth-Synergized Mamba Meets Memory Experts for All-Day Image Reflection Separation**|Siyan Fang et.al.|[2601.00322](http://arxiv.org/abs/2601.00322)|**[link](https://github.com/fashyon/DMDNet)**|
 |**2026-01-08**|**Modern Neuromorphic AI: From Intra-Token to Inter-Token Processing**|Osvaldo Simeone et.al.|[2601.00245](http://arxiv.org/abs/2601.00245)|null|
 |**2025-12-30**|**Bridging the Perception-Cognition Gap:Re-engineering SAM2 with Hilbert-Mamba for Robust VLM-based Medical Diagnosis**|Hao Wu et.al.|[2512.24013](http://arxiv.org/abs/2512.24013)|null|
 |**2025-12-29**|**MS-SSM: A Multi-Scale State Space Model for Efficient Sequence Modeling**|Mahdi Karami et.al.|[2512.23824](http://arxiv.org/abs/2512.23824)|null|
