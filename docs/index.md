@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-28**|**WeAgent-MMSearch: Native Text-Vision Interaction for Multimodal Search Agents**|Zongkai Liu et.al.|[2608.28062](http://arxiv.org/abs/2608.28062)|null|
+|**2026-08-27**|**Image Augmentation as Test Generation for Deep Learning-Based Image Retrieval Systems**|Yehan De Silva et.al.|[2608.27502](http://arxiv.org/abs/2608.27502)|null|
 |**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181](http://arxiv.org/abs/2608.27181)|null|
 |**2026-08-27**|**PailitaoGR: Latent Think-with-Images for Generative Image Retrieval**|Xiaomeng Fan et.al.|[2608.26658](http://arxiv.org/abs/2608.26658)|null|
 |**2026-08-26**|**PUMA: Post-Hoc Sparsification of Universal Multimodal Embeddings for Efficient Retrieval**|Matteo Attimonelli et.al.|[2608.25780](http://arxiv.org/abs/2608.25780)|**[link](https://github.com/sisinflab/PUMA)**|
@@ -1143,6 +1145,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-28**|**ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos**|Seungyeon Kim et.al.|[2608.28570](http://arxiv.org/abs/2608.28570)|null|
+|**2026-08-28**|**Non-Uniform Quantisation for 3DGS Compression**|Bert Van hauwermeiren et.al.|[2608.28272](http://arxiv.org/abs/2608.28272)|null|
+|**2026-08-28**|**WilLaGS: Latent-Conditional 3D Appearance Fields for Robust Gaussian Splatting In-the-Wild**|Yuhao Bai et.al.|[2608.28240](http://arxiv.org/abs/2608.28240)|null|
+|**2026-08-27**|**ABCD: Alpha-Composited Block Coordinate Descent: Constant-VRAM Training for Large Radiance Fields**|Ka Heng Shiu et.al.|[2608.27735](http://arxiv.org/abs/2608.27735)|null|
 |**2026-08-27**|**Comparative Evaluation of 3D Reconstruction Methods for Immersive Visualization of Laboratory Objects**|Brian De La Cruz et.al.|[2608.27301](http://arxiv.org/abs/2608.27301)|null|
 |**2026-08-27**|**Per-View Gaussian Predictions Enable Training-Free Distractor Filtering in Feed-Forward 3DGS**|Kangmin Seo et.al.|[2608.26951](http://arxiv.org/abs/2608.26951)|null|
 |**2026-08-27**|**KISS-GS: 3D Gaussian Splatting Compression Kept Simple**|Wieland Morgenstern et.al.|[2608.26948](http://arxiv.org/abs/2608.26948)|null|
@@ -2804,6 +2810,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-28**|**How Far Can 5,500 Hours of Driving Take You? A Scaling Law Analysis of Video Diffusion Models**|Victor Besnier et.al.|[2608.28404](http://arxiv.org/abs/2608.28404)|null|
 |**2026-08-27**|**Safety by Design: Realized-Cost Constraints for Contextual Bandits with Continuous Actions**|Spyros Dragazis et.al.|[2608.26755](http://arxiv.org/abs/2608.26755)|null|
 |**2026-08-27**|**DPA-I2P: Depth-Guided Projective Alignment for Image-to-Point-Cloud Registration in Autonomous Driving**|Wenxin Zhang et.al.|[2608.26589](http://arxiv.org/abs/2608.26589)|null|
 |**2026-08-27**|**Barrier Function Conformal Safety Clearance Certification with CVaR for Driving Trajectory Selection**|Pei Yu Chang et.al.|[2608.26533](http://arxiv.org/abs/2608.26533)|null|
@@ -4772,6 +4779,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-28**|**Multirate State Space Models for End-to-End Processing of Pulse Density Modulated Speech Signals**|Ludovic Boulanger et.al.|[2608.28472](http://arxiv.org/abs/2608.28472)|null|
+|**2026-08-28**|**Causal Non-causal State Space Models and the Modelling of Financial Bubbles**|Frederik Bjerg Krabbe et.al.|[2608.28115](http://arxiv.org/abs/2608.28115)|null|
+|**2026-08-28**|**A Compact Selective State-Space Model for Cross-Sectional Stock Return Ranking from Raw Intraday Bars**|Mingju Chen et.al.|[2608.28060](http://arxiv.org/abs/2608.28060)|null|
+|**2026-08-27**|**Fast Weight Attention for Continual Learning**|Yifan Zhang et.al.|[2608.27763](http://arxiv.org/abs/2608.27763)|null|
 |**2026-08-27**|**How exceptional was the Big Three era? Extremes and persistence in men's professional tennis**|Manuele Leonelli et.al.|[2608.27362](http://arxiv.org/abs/2608.27362)|null|
 |**2026-08-27**|**Cross-Architecture Knowledge Distillation from a Vision Foundation Model to a Lightweight Visual State Space Model for Tea Leaf Disease Classification**|Zibo Zhou et.al.|[2608.26771](http://arxiv.org/abs/2608.26771)|null|
 |**2026-08-27**|**FU-Mamba: A Frequency-Enhanced Dynamic Scanning Framework for Oralscan Image Segmentation**|Xinxin Zhao et.al.|[2608.26607](http://arxiv.org/abs/2608.26607)|null|
