@@ -17,11 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-03**|**IPGeoAI: Transformer-Based Geolocation with LLM Semantic Fusion**|Avinash Kadimisetty et.al.|[2609.04559](http://arxiv.org/abs/2609.04559)|null|
+|**2026-09-03**|**AdaptVPR: Route-Aware Hard Positive Generation for Robust Visual Place Recognition**|Shunpeng Chen et.al.|[2609.04369](http://arxiv.org/abs/2609.04369)|**[link](https://github.com/chenshunpeng/AdaptVPR)**|
 |**2026-09-02**|**AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels**|Javier Tirado-Garín et.al.|[2609.02798](http://arxiv.org/abs/2609.02798)|null|
 |**2026-09-02**|**From Multi-Fisheye Sensing to Panoramic Perception: A Parallax-Aware Onboard Platform for Ultra-Low-Altitude UAVs**|Dun Dai et.al.|[2609.02319](http://arxiv.org/abs/2609.02319)|null|
 |**2026-09-02**|**GeoStore: Finding Small Storefronts in Large Scenes -- A Fine-Grained POI Localization Benchmark with Global-to-Local Asymmetric Matching**|Lu Han et.al.|[2609.02012](http://arxiv.org/abs/2609.02012)|null|
 |**2026-09-02**|**Aggregating Neighbor Embedding Projection and Rank-Based Manifold Learning for Image Retrieval**|Vinicius Atsushi Sato Kawai et.al.|[2609.01963](http://arxiv.org/abs/2609.01963)|**[link](https://github.com/ViniciusAtsushi/Manifold-Rank-Fusion)**|
-|**2026-09-01**|**From Visual Cues to Spoken Narration: Rethinking Audio Description**|Akshita Gupta et.al.|[2609.01725](http://arxiv.org/abs/2609.01725)|**[link](https://github.com/multimodal-ai-lab/Cue2Narrate)**|
+|**2026-09-01**|**From Visual Cues to Spoken Narration: Rethinking Audio Description**|Akshita Gupta et.al.|[2609.01725](http://arxiv.org/abs/2609.01725)|null|
 |**2026-09-01**|**AutoConcept: Training-Free Concept-Guided Reranking for Metadata-Available Composed Image Retrieval**|Tianyu Wang et.al.|[2609.01456](http://arxiv.org/abs/2609.01456)|null|
 |**2026-09-01**|**ViTAMINS: An Empirical Study of Training Self-Supervised Vision Transformers with Synthetic Hard Negatives**|Nikos Giakoumoglou et.al.|[2609.01041](http://arxiv.org/abs/2609.01041)|null|
 |**2026-08-31**|**A Composition-Aware Pretraining Framework for Geospatial Foundation Models**|Aryan Kashyap Naveen et.al.|[2608.30817](http://arxiv.org/abs/2608.30817)|null|
@@ -34,7 +36,7 @@
 |**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181](http://arxiv.org/abs/2608.27181)|null|
 |**2026-08-27**|**PailitaoGR: Latent Think-with-Images for Generative Image Retrieval**|Xiaomeng Fan et.al.|[2608.26658](http://arxiv.org/abs/2608.26658)|null|
 |**2026-08-26**|**PUMA: Post-Hoc Sparsification of Universal Multimodal Embeddings for Efficient Retrieval**|Matteo Attimonelli et.al.|[2608.25780](http://arxiv.org/abs/2608.25780)|null|
-|**2026-08-26**|**MulVec: Fine-Grained Role-Aware Matching for Training-Free Zero-Shot Composed Image Retrieval**|Zihao Zhang et.al.|[2608.25305](http://arxiv.org/abs/2608.25305)|null|
+|**2026-09-04**|**MulVec: Fine-Grained Role-Aware Matching for Training-Free Zero-Shot Composed Image Retrieval**|Zihao Zhang et.al.|[2608.25305](http://arxiv.org/abs/2608.25305)|null|
 |**2026-08-23**|**A Lightweight Multimodal Vision-Language Framework for Early-Stage Anatomical Green Fruit Classification in Commercial Orchards**|Ranjan Sapkota et.al.|[2608.24935](http://arxiv.org/abs/2608.24935)|null|
 |**2026-08-25**|**PlaceSeek: Human-Centered Geospatial Retrieval of Urban Outdoor Places via Semantic Grounding and Affective Alignment**|Ziqi Cui et.al.|[2608.24133](http://arxiv.org/abs/2608.24133)|null|
 |**2026-08-24**|**Spotter: Efficient Urban Visual Localization via Geo-Referenced Facade Landmarks in GPS-Degraded Environments**|Antoni Valls et.al.|[2608.23290](http://arxiv.org/abs/2608.23290)|null|
@@ -1171,9 +1173,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-04**|**Compact Neural Appearance Models for Efficient Gaussian Splatting**|Florian Hahlbohm et.al.|[2609.05255](http://arxiv.org/abs/2609.05255)|null|
+|**2026-09-04**|**GradRig: Differentiable Weights for Skinned Gaussian Splat Deformation**|Nina Vesseron et.al.|[2609.05127](http://arxiv.org/abs/2609.05127)|null|
+|**2026-09-04**|**NavArena: Automated Construction of Goal-Oriented Navigation Benchmarks from 3D Gaussian Splatting Reconstructions**|Junhui Wang et.al.|[2609.04602](http://arxiv.org/abs/2609.04602)|null|
+|**2026-09-03**|**Where Appearance Fails, Geometry Recognizes: A CAD-Free 3D Shape Prior That Complements Vision Foundation Models**|Chenxi Tao et.al.|[2609.04381](http://arxiv.org/abs/2609.04381)|null|
 |**2026-09-03**|**Sparse auto-regressive modeling for scene generation from multi-view images**|Thomas Lucas et.al.|[2609.03931](http://arxiv.org/abs/2609.03931)|null|
 |**2026-09-03**|**Reparametrizing 3D Gaussian Splatting for Real-Time Palette-based Color and Luminance Editing**|Cheng-Kang Ted Chao et.al.|[2609.03897](http://arxiv.org/abs/2609.03897)|null|
-|**2026-09-03**|**RealCADBench: Benchmarking Parametric CAD Modeling from Industrial Design Intents**|JoyIndustrial VisCAD Team et.al.|[2609.03773](http://arxiv.org/abs/2609.03773)|null|
+|**2026-09-04**|**RealCADBench: Benchmarking Parametric CAD Modeling from Industrial Design Intents**|Guanlin Li et.al.|[2609.03773](http://arxiv.org/abs/2609.03773)|null|
 |**2026-09-03**|**Rethinking 3D Noise: Learning 3D-Aware Video Priors via Optimization-Free Morphological Perturbations**|Onat Şahin et.al.|[2609.03657](http://arxiv.org/abs/2609.03657)|null|
 |**2026-09-03**|**TileGS: Tile-Local Depth Binning for Gaussian Splatting Rasterization**|Wei Tan et.al.|[2609.03613](http://arxiv.org/abs/2609.03613)|null|
 |**2026-09-03**|**TruncGradGS: Improved 3D Gaussian Splatting via Truncated Gradient Updates**|Theo Morales et.al.|[2609.03534](http://arxiv.org/abs/2609.03534)|null|
@@ -1182,7 +1188,7 @@
 |**2026-09-03**|**PointGT: Simultaneous Geometry and Texture Editing for Point-Based Representations**|Yanshu Zhang et.al.|[2609.03341](http://arxiv.org/abs/2609.03341)|null|
 |**2026-09-03**|**Laplacian Frequency Hierarchies for Efficient 3D Gaussian Splatting Training**|Yixiong Yang et.al.|[2609.03334](http://arxiv.org/abs/2609.03334)|null|
 |**2026-09-03**|**AnyGS2Mesh: Feed-Forward Mesh Reconstruction from 3D Gaussian Splatting with Arbitrary-Resolution Views**|Yuxuan Song et.al.|[2609.03304](http://arxiv.org/abs/2609.03304)|null|
-|**2026-09-02**|**RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation**|Xiaolei Lang et.al.|[2609.02847](http://arxiv.org/abs/2609.02847)|null|
+|**2026-09-04**|**RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation**|Xiaolei Lang et.al.|[2609.02847](http://arxiv.org/abs/2609.02847)|null|
 |**2026-09-02**|**InceptionGS: Generative Bootstrapping for Large-Scale Gaussian Splatting under Unstructured View Sampling**|Tianheng Lu et.al.|[2609.02747](http://arxiv.org/abs/2609.02747)|null|
 |**2026-09-02**|**LightBridge: Feed-Forward Generative Relighting for 3D Gaussian Splatting**|Hezhi Cao et.al.|[2609.02543](http://arxiv.org/abs/2609.02543)|null|
 |**2026-09-02**|**Atlas: Algorithm-Hardware Co-Design for On-Device City-Scale 3D Gaussian Splatting in VR**|He Zhu et.al.|[2609.02352](http://arxiv.org/abs/2609.02352)|null|
@@ -2874,6 +2880,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-04**|**CrossDepth: Geometry-Constrained Attention for Generalizable Multi-View Surround Depth Estimation**|Samer Abualhanud et.al.|[2609.05397](http://arxiv.org/abs/2609.05397)|null|
+|**2026-09-04**|**Task-oriented Framework for Communication-Efficient Federated Learning: From Isolated Optimization to Holistic Synergy**|Fuqiang Pan et.al.|[2609.04945](http://arxiv.org/abs/2609.04945)|null|
+|**2026-09-04**|**One Diffusion Model, Two Roles: Guided Trajectory Planning and Safety-Critical Scenario Generation in Closed-Loop Simulation**|Arka Pal et.al.|[2609.04921](http://arxiv.org/abs/2609.04921)|null|
+|**2026-09-04**|**Mitigating Performance Discrepancy in Cross-Domain 3D Class-Incremental Learning**|Jinge Ma et.al.|[2609.04860](http://arxiv.org/abs/2609.04860)|null|
+|**2026-09-04**|**CoLMIN: LLM-based Multi-Decision Path Negotiation for Cooperative Autonomous Driving**|Zhe Huang et.al.|[2609.04807](http://arxiv.org/abs/2609.04807)|null|
 |**2026-09-03**|**A Low-Cost, Open Platform for End-to-End Autonomous Driving on a Miniature Ackermann Vehicle**|Gustavo Claudio Karl Couto et.al.|[2609.04147](http://arxiv.org/abs/2609.04147)|null|
 |**2026-09-03**|**Corner Cases: Headland Coverage Path Planning for Autonomous Driving in Arable Farming**|Riikka Soitinaho et.al.|[2609.04103](http://arxiv.org/abs/2609.04103)|null|
 |**2026-09-03**|**Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving**|Ruoyu Yao et.al.|[2609.04070](http://arxiv.org/abs/2609.04070)|null|
@@ -4876,6 +4887,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-04**|**Locating and Steering Refusal Beyond Attention**|Preethi Carmel Bosco et.al.|[2609.04721](http://arxiv.org/abs/2609.04721)|null|
 |**2026-09-03**|**Prospective Coding Improves Learning in Deep Continuous-Time Recurrent Networks**|Shivang Rawat et.al.|[2609.04134](http://arxiv.org/abs/2609.04134)|null|
 |**2026-09-03**|**Semantic-Aware Subgraph State Space Model for WSI Classification in Histopathology**|Feixing Chen et.al.|[2609.03689](http://arxiv.org/abs/2609.03689)|null|
 |**2026-09-02**|**Turnpike properties in nonlinear system identification**|Julian D. Schiller et.al.|[2609.02071](http://arxiv.org/abs/2609.02071)|null|
