@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.06
+## Updated on 2026.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -853,7 +853,7 @@ layout: default
 |**2025-10-15**|**Mobile Coverage Analysis using Crowdsourced Data**|Timothy Wong et.al.|[2510.13459](http://arxiv.org/abs/2510.13459)|null|
 |**2025-10-13**|**Embedding the Teacher: Distilling vLLM Preferences for Scalable Image Retrieval**|Eric He et.al.|[2510.12014](http://arxiv.org/abs/2510.12014)|null|
 |**2025-10-13**|**Where on Earth? A Vision-Language Benchmark for Probing Model Geolocation Skills Across Scales**|Zhaofang Qian et.al.|[2510.10880](http://arxiv.org/abs/2510.10880)|null|
-|**2025-10-08**|**Population synthesis with geographic coordinates**|Jacopo Lenti et.al.|[2510.09669](http://arxiv.org/abs/2510.09669)|null|
+|**2025-10-08**|**Population synthesis with geographic coordinates**|Jacopo Lenti et.al.|[2510.09669](http://arxiv.org/abs/2510.09669)|**[link](https://github.com/jaclenti/NFVAE-population-synthesis)**|
 |**2025-10-10**|**Hierarchical Scheduling for Multi-Vector Image Retrieval**|Maoliang Li et.al.|[2510.08976](http://arxiv.org/abs/2510.08976)|null|
 |**2025-10-09**|**DarkHash: A Data-Free Backdoor Attack Against Deep Hashing**|Ziqi Zhou et.al.|[2510.08094](http://arxiv.org/abs/2510.08094)|**[link](https://github.com/Zhou-Zi7/DarkHash)**|
 |**2025-10-09**|**CIR-CoT: Towards Interpretable Composed Image Retrieval via End-to-End Chain-of-Thought Reasoning**|Weihuang Lin et.al.|[2510.08003](http://arxiv.org/abs/2510.08003)|null|
@@ -1159,7 +1159,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-09-03**|**Sparse auto-regressive modeling for scene generation from multi-view images**|Thomas Lucas et.al.|[2609.03931](http://arxiv.org/abs/2609.03931)|null|
 |**2026-09-03**|**Reparametrizing 3D Gaussian Splatting for Real-Time Palette-based Color and Luminance Editing**|Cheng-Kang Ted Chao et.al.|[2609.03897](http://arxiv.org/abs/2609.03897)|null|
-|**2026-09-03**|**RealCADBench: Benchmarking Parametric CAD Modeling from Industrial Design Intents**| JoyIndustrial VisCAD Team et.al.|[2609.03773](http://arxiv.org/abs/2609.03773)|null|
+|**2026-09-03**|**RealCADBench: Benchmarking Parametric CAD Modeling from Industrial Design Intents**|JoyIndustrial VisCAD Team et.al.|[2609.03773](http://arxiv.org/abs/2609.03773)|null|
 |**2026-09-03**|**Rethinking 3D Noise: Learning 3D-Aware Video Priors via Optimization-Free Morphological Perturbations**|Onat Şahin et.al.|[2609.03657](http://arxiv.org/abs/2609.03657)|null|
 |**2026-09-03**|**TileGS: Tile-Local Depth Binning for Gaussian Splatting Rasterization**|Wei Tan et.al.|[2609.03613](http://arxiv.org/abs/2609.03613)|null|
 |**2026-09-03**|**TruncGradGS: Improved 3D Gaussian Splatting via Truncated Gradient Updates**|Theo Morales et.al.|[2609.03534](http://arxiv.org/abs/2609.03534)|null|
@@ -1613,7 +1613,7 @@ layout: default
 |**2026-05-27**|**Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation**|Jim Salsman et.al.|[2605.26428](http://arxiv.org/abs/2605.26428)|null|
 |**2026-05-25**|**Channel-wise Vector Quantization**|Wei Song et.al.|[2605.26089](http://arxiv.org/abs/2605.26089)|null|
 |**2026-05-25**|**F-RNG: Feed-Forward Relightable Neural Gaussians**|Guangming Fu et.al.|[2605.25975](http://arxiv.org/abs/2605.25975)|null|
-|**2026-05-25**|**R5DGS: Semantic-Aware 4D Gaussian Splatting with Rigid Body Constraints for Efficient Dynamic Scene Reconstruction**|Denis Gridusov et.al.|[2605.25909](http://arxiv.org/abs/2605.25909)|null|
+|**2026-05-25**|**R5DGS: Semantic-Aware 4D Gaussian Splatting with Rigid Body Constraints for Efficient Dynamic Scene Reconstruction**|Denis Gridusov et.al.|[2605.25909](http://arxiv.org/abs/2605.25909)|**[link](https://github.com/be2rlab/r5dgs)**|
 |**2026-05-25**|**SplitAvatar: One-shot Head Avatar with Autoregressive Gaussian Splitting**|Hongzhe Liao et.al.|[2605.25751](http://arxiv.org/abs/2605.25751)|null|
 |**2026-05-25**|**CodecSplat: Ultra-Compact Latent Coding for Feed-Forward 3D Gaussian Splatting**|Pengpeng Yu et.al.|[2605.25563](http://arxiv.org/abs/2605.25563)|null|
 |**2026-05-25**|**Physics-Aware 3D Gaussian Editing for Driving Scene Generation**|Feng Zhou et.al.|[2605.25373](http://arxiv.org/abs/2605.25373)|null|
@@ -2635,10 +2635,10 @@ layout: default
 |**2025-10-22**|**MoE-GS: Mixture of Experts for Dynamic Gaussian Splatting**|In-Hwan Jin et.al.|[2510.19210](http://arxiv.org/abs/2510.19210)|null|
 |**2025-10-22**|**GRASPLAT: Enabling dexterous grasping through novel view synthesis**|Matteo Bortolon et.al.|[2510.19200](http://arxiv.org/abs/2510.19200)|null|
 |**2025-10-21**|**Moving Light Adaptive Colonoscopy Reconstruction via Illumination-Attenuation-Aware 3D Gaussian Splatting**|Hao Wang et.al.|[2510.18739](http://arxiv.org/abs/2510.18739)|null|
-|**2025-10-21**|**Mono4DGS-HDR: High Dynamic Range 4D Gaussian Splatting from Alternating-exposure Monocular Videos**|Jinfeng Liu et.al.|[2510.18489](http://arxiv.org/abs/2510.18489)|null|
-|**2025-10-21**|**OpenInsGaussian: Open-vocabulary Instance Gaussian Segmentation with Context-aware Cross-view Fusion**|Tianyu Huang et.al.|[2510.18253](http://arxiv.org/abs/2510.18253)|null|
+|**2025-10-21**|**Mono4DGS-HDR: High Dynamic Range 4D Gaussian Splatting from Alternating-exposure Monocular Videos**|Jinfeng Liu et.al.|[2510.18489](http://arxiv.org/abs/2510.18489)|**[link](https://github.com/LiuJF1226/Mono4DGS-HDR)**|
+|**2025-10-21**|**OpenInsGaussian: Open-vocabulary Instance Gaussian Segmentation with Context-aware Cross-view Fusion**|Tianyu Huang et.al.|[2510.18253](http://arxiv.org/abs/2510.18253)|**[link](https://github.com/TianyuHuang-000/OpenInsGaussian)**|
 |**2025-10-20**|**From Volume Rendering to 3D Gaussian Splatting: Theory and Applications**|Vitor Pereira Matias et.al.|[2510.18101](http://arxiv.org/abs/2510.18101)|null|
-|**2025-10-20**|**HouseTour: A Virtual Real Estate A(I)gent**|Ata Çelen et.al.|[2510.18054](http://arxiv.org/abs/2510.18054)|null|
+|**2025-10-20**|**HouseTour: A Virtual Real Estate A(I)gent**|Ata Çelen et.al.|[2510.18054](http://arxiv.org/abs/2510.18054)|**[link](https://github.com/GradientSpaces/HouseTour)**|
 |**2025-10-20**|**Botany-Bot: Digital Twin Monitoring of Occluded and Underleaf Plant Structures with Gaussian Splats**|Simeon Adebola et.al.|[2510.17783](http://arxiv.org/abs/2510.17783)|null|
 |**2025-10-20**|**Raindrop GS: A Benchmark for 3D Gaussian Splatting under Raindrop Conditions**|Zhiqiang Teng et.al.|[2510.17719](http://arxiv.org/abs/2510.17719)|null|
 |**2025-10-20**|**Initialize to Generalize: A Stronger Initialization Pipeline for Sparse-View 3DGS**|Feng Zhou et.al.|[2510.17479](http://arxiv.org/abs/2510.17479)|**[link](https://github.com/zss171999645/ItG-GS)**|
@@ -4188,7 +4188,7 @@ layout: default
 |**2025-12-18**|**Driving in Corner Case: A Real-World Adversarial Closed-Loop Evaluation Platform for End-to-End Autonomous Driving**|Jiaheng Geng et.al.|[2512.16055](http://arxiv.org/abs/2512.16055)|null|
 |**2025-12-17**|**From Words to Wavelengths: VLMs for Few-Shot Multispectral Object Detection**|Manuel Nkegoum et.al.|[2512.15971](http://arxiv.org/abs/2512.15971)|null|
 |**2025-12-17**|**Human-like Working Memory from Artificial Intrinsic Plasticity Neurons**|Jingli Liu et.al.|[2512.15829](http://arxiv.org/abs/2512.15829)|null|
-|**2025-12-17**|**OccSTeP: Benchmarking 4D Occupancy Spatio-Temporal Persistence**|Yu Zheng et.al.|[2512.15621](http://arxiv.org/abs/2512.15621)|null|
+|**2025-12-17**|**OccSTeP: Benchmarking 4D Occupancy Spatio-Temporal Persistence**|Yu Zheng et.al.|[2512.15621](http://arxiv.org/abs/2512.15621)|**[link](https://github.com/InSAI-Lab/OccSTeP)**|
 |**2025-12-17**|**Gaussian Process Dual MPC using Active Inference: An Autonomous Vehicle Usecase**|Mohammad Mahmoudi Filabadi et.al.|[2512.15381](http://arxiv.org/abs/2512.15381)|null|
 |**2025-12-17**|**KD360-VoxelBEV: LiDAR and 360-degree Camera Cross Modality Knowledge Distillation for Bird's-Eye-View Segmentation**|Wenke E et.al.|[2512.15311](http://arxiv.org/abs/2512.15311)|null|
 |**2025-12-17**|**EPSM: A Novel Metric to Evaluate the Safety of Environmental Perception in Autonomous Driving**|Jörg Gamerdinger et.al.|[2512.15195](http://arxiv.org/abs/2512.15195)|null|
@@ -5494,9 +5494,9 @@ layout: default
 |**2025-12-05**|**Supervisory Measurement-Guided Noise Covariance Estimation: Discussing Forward and Reverse Differentiation**|Haoying Li et.al.|[2512.05604](http://arxiv.org/abs/2512.05604)|null|
 |**2025-12-05**|**CureAgent: A Training-Free Executor-Analyst Framework for Clinical Reasoning**|Ting-Ting Xie et.al.|[2512.05576](http://arxiv.org/abs/2512.05576)|null|
 |**2025-12-05**|**MIND: Multi-rationale INtegrated Discriminative Reasoning Framework for Multi-modal Large Models**|Chuang Yu et.al.|[2512.05530](http://arxiv.org/abs/2512.05530)|null|
-|**2025-12-05**|**UniFS: Unified Multi-Contrast MRI Reconstruction via Frequency-Spatial Fusion**|Jialin Li et.al.|[2512.05481](http://arxiv.org/abs/2512.05481)|null|
-|**2025-12-05**|**TED-4DGS: Temporally Activated and Embedding-based Deformation for 4DGS Compression**|Cheng-Yuan Ho et.al.|[2512.05446](http://arxiv.org/abs/2512.05446)|null|
-|**2025-12-05**|**BEAVER: An Efficient Deterministic LLM Verifier**|Tarun Suresh et.al.|[2512.05439](http://arxiv.org/abs/2512.05439)|null|
+|**2025-12-05**|**UniFS: Unified Multi-Contrast MRI Reconstruction via Frequency-Spatial Fusion**|Jialin Li et.al.|[2512.05481](http://arxiv.org/abs/2512.05481)|**[link](https://github.com/LIKP0/UniFS)**|
+|**2025-12-05**|**TED-4DGS: Temporally Activated and Embedding-based Deformation for 4DGS Compression**|Cheng-Yuan Ho et.al.|[2512.05446](http://arxiv.org/abs/2512.05446)|**[link](https://github.com/NYCU-MAPL/TED-4DGS)**|
+|**2025-12-05**|**BEAVER: An Efficient Deterministic LLM Verifier**|Tarun Suresh et.al.|[2512.05439](http://arxiv.org/abs/2512.05439)|**[link](https://github.com/uiuc-focal-lab/Beaver)**|
 |**2025-12-05**|**Computing Supported Models via Transformation to Stable Models**|Fang Li et.al.|[2512.05437](http://arxiv.org/abs/2512.05437)|null|
 |**2025-12-05**|**RevoNAD: Reflective Evolutionary Exploration for Neural Architecture Design**|Gyusam Chang et.al.|[2512.05403](http://arxiv.org/abs/2512.05403)|null|
 |**2025-12-05**|**Group Orthogonal Low-Rank Adaptation for RGB-T Tracking**|Zekai Shao et.al.|[2512.05359](http://arxiv.org/abs/2512.05359)|null|
