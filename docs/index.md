@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.11
+## Updated on 2026.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -13,7 +13,7 @@ layout: default
 |**2026-09-04**|**GeoContext: One Context Ladder, Two Failure Modes in Vision-Language Geolocation: Flat Reliance on User-Provided Location Context and False Confirmation of Location Claims**|Yifan Zhang et.al.|[2609.05761](http://arxiv.org/abs/2609.05761)|null|
 |**2026-08-31**|**CrossModalQA: A Cross-modal and Multi-hop Benchmark for Multimodal Retrieval-augmented Generation**|Jiacheng Cai et.al.|[2609.05518](http://arxiv.org/abs/2609.05518)|null|
 |**2026-09-03**|**IPGeoAI: Transformer-Based Geolocation with LLM Semantic Fusion**|Avinash Kadimisetty et.al.|[2609.04559](http://arxiv.org/abs/2609.04559)|null|
-|**2026-09-03**|**AdaptVPR: Route-Aware Hard Positive Generation for Robust Visual Place Recognition**|Shunpeng Chen et.al.|[2609.04369](http://arxiv.org/abs/2609.04369)|null|
+|**2026-09-03**|**AdaptVPR: Route-Aware Hard Positive Generation for Robust Visual Place Recognition**|Shunpeng Chen et.al.|[2609.04369](http://arxiv.org/abs/2609.04369)|**[link](https://github.com/chenshunpeng/AdaptVPR)**|
 |**2026-09-02**|**AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels**|Javier Tirado-Garín et.al.|[2609.02798](http://arxiv.org/abs/2609.02798)|null|
 |**2026-09-05**|**From Multi-Fisheye Sensing to Panoramic Perception: A Parallax-Aware Onboard Platform for Ultra-Low-Altitude UAVs**|Dun Dai et.al.|[2609.02319](http://arxiv.org/abs/2609.02319)|null|
 |**2026-09-02**|**GeoStore: Finding Small Storefronts in Large Scenes -- A Fine-Grained POI Localization Benchmark with Global-to-Local Asymmetric Matching**|Lu Han et.al.|[2609.02012](http://arxiv.org/abs/2609.02012)|null|
@@ -4916,7 +4916,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-09-10**|**Physics-Informed Drift Diagnosis for Laser-Plasma Accelerator Operations**|Ou Labun et.al.|[2609.11874](http://arxiv.org/abs/2609.11874)|null|
 |**2026-09-10**|**A Dataset and Model for Imputing Water Surface Elevation on a Large and Extremely Sparse Spatiotemporal Graph**|Ruben Cartuyvels et.al.|[2609.11580](http://arxiv.org/abs/2609.11580)|null|
-|**2026-09-10**|**pqSEDMD: Subspace Methods for Extended Dynamic Mode Decomposition Identification**|Camilo Garcia-Tenorio et.al.|[2609.11292](http://arxiv.org/abs/2609.11292)|**[link](https://github.com/tliuboschitz/Liuboschitz_1129290_26092024_Propiedadposition-)**|
+|**2026-09-10**|**pqSEDMD: Subspace Methods for Extended Dynamic Mode Decomposition Identification**|Camilo Garcia-Tenorio et.al.|[2609.11292](http://arxiv.org/abs/2609.11292)|null|
 |**2026-09-10**|**Low-Latency State Space Voice Activity Detection with Robust Onset Time Evaluation**|Elad Cohen et.al.|[2609.11110](http://arxiv.org/abs/2609.11110)|null|
 |**2026-09-09**|**Impedance-Based Sensitivity Analysis for Stability Enhancement of LCC-HVDC Links Connected to Weak Grids Using Grid-Forming Converters**|Luis A. Garcia-Reyes et.al.|[2609.10774](http://arxiv.org/abs/2609.10774)|null|
 |**2026-09-09**|**Koopman Spectral Reduced-Order Modeling of Spherical Diffusion in Lithium-Ion Batteries**|Jihoon Moon et.al.|[2609.09665](http://arxiv.org/abs/2609.09665)|null|
