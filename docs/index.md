@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.16
+## Updated on 2026.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -1164,6 +1164,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**NormLift: From Lifted Features To Semantic Reliability In 3D Gaussian Splatting**|Yihan Zang et.al.|[2609.18898](http://arxiv.org/abs/2609.18898)|null|
+|**2026-09-16**|**Geometry beneath the Waves: Dense Priors for Sparse-View Underwater 3D Gaussian Splatting**|Harvey Caldeira et.al.|[2609.18737](http://arxiv.org/abs/2609.18737)|null|
+|**2026-09-16**|**MoQSplat: Adaptive Progressive Streaming of 3D Gaussian Splatting via MoQ**|Emanuele Artioli et.al.|[2609.18624](http://arxiv.org/abs/2609.18624)|null|
+|**2026-09-16**|**CADSplat: Sparse-View 3D Gaussian Splatting Aided by CAD Models for Robust, Photorealistic Digital-Twin Reconstruction**|Kristof Overdulve et.al.|[2609.18473](http://arxiv.org/abs/2609.18473)|null|
+|**2026-09-15**|**Wind on Trees: Testing Physical Grounding in Dynamic 4D Gaussian Splatting**|Weiying Chen et.al.|[2609.17810](http://arxiv.org/abs/2609.17810)|null|
 |**2026-09-15**|**PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM**|Yongqi Mao et.al.|[2609.17387](http://arxiv.org/abs/2609.17387)|null|
 |**2026-09-15**|**BRAVE-6D: Benchmark for Robotic Active Vision in 6DOF Pose Estimation**|Philipp Ausserlechner et.al.|[2609.17106](http://arxiv.org/abs/2609.17106)|null|
 |**2026-09-15**|**Bi-FlowGS: Bridging Generative View Completion and Gaussian Geometry through Bidirectional Flow Co-Refinement**|Yuetong Wang et.al.|[2609.17039](http://arxiv.org/abs/2609.17039)|null|
@@ -2906,6 +2911,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**GNN-Accelerated Mixed-Integer Dual MPC for Interactive Driving**|Yidan Zhu et.al.|[2609.18679](http://arxiv.org/abs/2609.18679)|null|
+|**2026-09-16**|**FIVE-VLA: Fast and EffectIVE Autonomous Driving with Recurrent Action Memory**|Kemal Oksuz et.al.|[2609.18623](http://arxiv.org/abs/2609.18623)|null|
+|**2026-09-16**|**Accuracy- and Real-Time-Aware 4D Radar Preprocessing for Autonomous Driving Perception Systems**|Woo-Jin Jung et.al.|[2609.18542](http://arxiv.org/abs/2609.18542)|null|
+|**2026-09-16**|**Learning from Distributed Eyes: Leveraging Collaborative Perception for Automated Model Adaptation**|Yanan Ma et.al.|[2609.18511](http://arxiv.org/abs/2609.18511)|null|
+|**2026-09-15**|**Imitation Learning for Autonomous Driving in CARLA**|Jordy Kieto et.al.|[2609.17757](http://arxiv.org/abs/2609.17757)|null|
+|**2026-09-15**|**RAF-VLA: Representation Alignment with the Future for End-to-End Autonomous Driving**|Dogun Kim et.al.|[2609.17728](http://arxiv.org/abs/2609.17728)|null|
 |**2026-09-15**|**NeuroSymbEAD: A Large Scale Neuro-Symbolic Caption Dataset for Omni-Directional Embodied Autonomous Driving**|Muhammad Ahmed Ullah Khan et.al.|[2609.16919](http://arxiv.org/abs/2609.16919)|null|
 |**2026-09-15**|**World Models for Embodied Intelligence: From Plausible to Controllable to Actionable**|Nanjie Yao et.al.|[2609.16697](http://arxiv.org/abs/2609.16697)|null|
 |**2026-09-15**|**Multimodal Emergency Vehicle Classification via Audio-Visual Transformers and Knowledge Distillation**|Vijay John et.al.|[2609.16535](http://arxiv.org/abs/2609.16535)|null|
@@ -4948,6 +4959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-16**|**Conditionally linear, matrix normal state space models**|Drew D. Creal et.al.|[2609.18734](http://arxiv.org/abs/2609.18734)|null|
+|**2026-09-16**|**The Attention Within: Consensus Dynamics in Selective State Space Models**|João Pedro Silvestre et.al.|[2609.17997](http://arxiv.org/abs/2609.17997)|null|
+|**2026-09-15**|**Long-Context Demonstration Selection Using State Space Models**|Ziniu Zhang et.al.|[2609.17888](http://arxiv.org/abs/2609.17888)|null|
+|**2026-09-15**|**Principled Koopman Representations with Kalman Inference for Efficient Time-Series Prediction**|Ruiquan Li et.al.|[2609.17815](http://arxiv.org/abs/2609.17815)|null|
 |**2026-09-15**|**Combining Weather Forecast Aggregation and State-Space Models for Adaptive Probabilistic Electricity Load Forecasting**|Joseph de Vilmarest et.al.|[2609.17000](http://arxiv.org/abs/2609.17000)|null|
 |**2026-09-15**|**Channel-Wise and Token-Aware Post-Training Quantization for Visual State Space Duality**|Jonghyeon Lim et.al.|[2609.16656](http://arxiv.org/abs/2609.16656)|null|
 |**2026-09-15**|**On the Importance of Gating: Memorization vs. In-Context Learning in State Space Models**|William L. Tong et.al.|[2609.16540](http://arxiv.org/abs/2609.16540)|null|
