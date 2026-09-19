@@ -2960,7 +2960,7 @@
 |**2026-09-16**|**FIVE-VLA: Fast and EffectIVE Autonomous Driving with Recurrent Action Memory**|Kemal Oksuz et.al.|[2609.18623](http://arxiv.org/abs/2609.18623)|null|
 |**2026-09-16**|**Accuracy- and Real-Time-Aware 4D Radar Preprocessing for Autonomous Driving Perception Systems**|Woo-Jin Jung et.al.|[2609.18542](http://arxiv.org/abs/2609.18542)|null|
 |**2026-09-16**|**Learning from Distributed Eyes: Leveraging Collaborative Perception for Automated Model Adaptation**|Yanan Ma et.al.|[2609.18511](http://arxiv.org/abs/2609.18511)|null|
-|**2026-09-15**|**Imitation Learning for Autonomous Driving in CARLA**|Jordy Kieto et.al.|[2609.17757](http://arxiv.org/abs/2609.17757)|null|
+|**2026-09-15**|**Imitation Learning for Autonomous Driving in CARLA**|Jordy Kieto et.al.|[2609.17757](http://arxiv.org/abs/2609.17757)|**[link](https://github.com/xzrderek/RayCarla)**|
 |**2026-09-15**|**RAF-VLA: Representation Alignment with the Future for End-to-End Autonomous Driving**|Dogun Kim et.al.|[2609.17728](http://arxiv.org/abs/2609.17728)|null|
 |**2026-09-15**|**NeuroSymbEAD: A Large Scale Neuro-Symbolic Caption Dataset for Omni-Directional Embodied Autonomous Driving**|Muhammad Ahmed Ullah Khan et.al.|[2609.16919](http://arxiv.org/abs/2609.16919)|null|
 |**2026-09-15**|**World Models for Embodied Intelligence: From Plausible to Controllable to Actionable**|Nanjie Yao et.al.|[2609.16697](http://arxiv.org/abs/2609.16697)|null|
