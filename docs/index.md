@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.18
+## Updated on 2026.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -13,7 +13,7 @@ layout: default
 |**2026-09-16**|**PIVOT: Perception-aware Independent Viewpoint Online Optimization**|Yuyang Chen et.al.|[2609.19510](http://arxiv.org/abs/2609.19510)|null|
 |**2026-09-16**|**Less Is More: Graph-free Multimodal RAG via Multi-signal Late Fusion**|Tithi Rakshit et.al.|[2609.19417](http://arxiv.org/abs/2609.19417)|null|
 |**2026-09-15**|**HuMemSLAM: Efficient Human-Inspired Semantic Place Recognition for Robust Visual SLAM**|Mayowa Adebambo et.al.|[2609.17168](http://arxiv.org/abs/2609.17168)|null|
-|**2026-09-15**|**G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity**|Shuo Zhang et.al.|[2609.15018](http://arxiv.org/abs/2609.15018)|null|
+|**2026-09-15**|**G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity**|Shuo Zhang et.al.|[2609.15018](http://arxiv.org/abs/2609.15018)|**[link](https://github.com/zhangshuoneu/G-ray)**|
 |**2026-09-07**|**TRAIL: Trajectory-Aware Visual Place Recognition against Unordered Databases**|Dominik A. Kloepfer et.al.|[2609.07373](http://arxiv.org/abs/2609.07373)|null|
 |**2026-09-04**|**GeoContext: One Context Ladder, Two Failure Modes in Vision-Language Geolocation: Flat Reliance on User-Provided Location Context and False Confirmation of Location Claims**|Yifan Zhang et.al.|[2609.05761](http://arxiv.org/abs/2609.05761)|null|
 |**2026-08-31**|**CrossModalQA: A Cross-modal and Multi-hop Benchmark for Multimodal Retrieval-augmented Generation**|Jiacheng Cai et.al.|[2609.05518](http://arxiv.org/abs/2609.05518)|null|
