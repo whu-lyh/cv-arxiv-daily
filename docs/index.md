@@ -2,16 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.09.21
+## Updated on 2026.09.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**DeCo: Efficient Decouple-to-Couple Learning for Multi-Task Visual Grounding**|Xiaoqiang Lu et.al.|[2609.24409](http://arxiv.org/abs/2609.24409)|**[link](https://github.com/xiaoqiang-lu/DeCo)**|
+|**2026-09-21**|**Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale**|Anubhav Gupta et.al.|[2609.24152](http://arxiv.org/abs/2609.24152)|null|
+|**2026-09-21**|**The Visual Target Matters: Learning across the Visual Hierarchy for Brain-to-Image Retrieval**|Ye Wang et.al.|[2609.24136](http://arxiv.org/abs/2609.24136)|null|
+|**2026-09-21**|**Adaptive Cortically Constrained EEG-Vision Alignment for Zero-Shot Brain-to-Image Retrieval**|Ye Wang et.al.|[2609.24109](http://arxiv.org/abs/2609.24109)|null|
+|**2026-09-20**|**Retrieval Geometry Shapes Cache-Based Clip Adaptation**|Mahir Shahriar Tamim et.al.|[2609.23409](http://arxiv.org/abs/2609.23409)|null|
 |**2026-09-18**|**Hiding in Plain Sight: A Diffusion-based Mitigation of Geolocation Privacy Leakage in Vision-Language Models**|Yining Wang et.al.|[2609.21363](http://arxiv.org/abs/2609.21363)|null|
 |**2026-09-18**|**Locating and Enumerating Anycast: a Comparison of Two Approaches**|Remi Hendriks et.al.|[2609.21292](http://arxiv.org/abs/2609.21292)|null|
-|**2026-09-18**|**Multi-viewpoint Geo-localization with Event Cameras**|Adam D. Hines et.al.|[2609.21219](http://arxiv.org/abs/2609.21219)|**[link](https://github.com/AdamDHines/megaevent)**|
+|**2026-09-18**|**Multi-viewpoint Geo-localization with Event Cameras**|Adam D. Hines et.al.|[2609.21219](http://arxiv.org/abs/2609.21219)|null|
 |**2026-09-17**|**SlugTrails: An Egocentric Benchmark for Floor Plan Localization in Large Buildings**|Yunqian Cheng et.al.|[2609.19876](http://arxiv.org/abs/2609.19876)|null|
 |**2026-09-16**|**PIVOT: Perception-aware Independent Viewpoint Online Optimization**|Yuyang Chen et.al.|[2609.19510](http://arxiv.org/abs/2609.19510)|null|
 |**2026-09-16**|**Less Is More: Graph-free Multimodal RAG via Multi-signal Late Fusion**|Tithi Rakshit et.al.|[2609.19417](http://arxiv.org/abs/2609.19417)|null|
@@ -21,10 +26,10 @@ layout: default
 |**2026-09-04**|**GeoContext: One Context Ladder, Two Failure Modes in Vision-Language Geolocation: Flat Reliance on User-Provided Location Context and False Confirmation of Location Claims**|Yifan Zhang et.al.|[2609.05761](http://arxiv.org/abs/2609.05761)|null|
 |**2026-08-31**|**CrossModalQA: A Cross-modal and Multi-hop Benchmark for Multimodal Retrieval-augmented Generation**|Jiacheng Cai et.al.|[2609.05518](http://arxiv.org/abs/2609.05518)|null|
 |**2026-09-03**|**IPGeoAI: Transformer-Based Geolocation with LLM Semantic Fusion**|Avinash Kadimisetty et.al.|[2609.04559](http://arxiv.org/abs/2609.04559)|null|
-|**2026-09-03**|**AdaptVPR: Route-Aware Hard Positive Generation for Robust Visual Place Recognition**|Shunpeng Chen et.al.|[2609.04369](http://arxiv.org/abs/2609.04369)|**[link](https://github.com/chenshunpeng/AdaptVPR)**|
+|**2026-09-03**|**AdaptVPR: Route-Aware Hard Positive Generation for Robust Visual Place Recognition**|Shunpeng Chen et.al.|[2609.04369](http://arxiv.org/abs/2609.04369)|null|
 |**2026-09-02**|**AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels**|Javier Tirado-Garín et.al.|[2609.02798](http://arxiv.org/abs/2609.02798)|null|
 |**2026-09-05**|**From Multi-Fisheye Sensing to Panoramic Perception: A Parallax-Aware Onboard Platform for Ultra-Low-Altitude UAVs**|Dun Dai et.al.|[2609.02319](http://arxiv.org/abs/2609.02319)|null|
-|**2026-09-02**|**GeoStore: Finding Small Storefronts in Large Scenes -- A Fine-Grained POI Localization Benchmark with Global-to-Local Asymmetric Matching**|Lu Han et.al.|[2609.02012](http://arxiv.org/abs/2609.02012)|null|
+|**2026-09-21**|**POI-Loc: A Fine-Grained POI Localization Benchmark and an Asymmetric Global-to-Local Matching Method**|Lu Han et.al.|[2609.02012](http://arxiv.org/abs/2609.02012)|null|
 |**2026-09-02**|**Aggregating Neighbor Embedding Projection and Rank-Based Manifold Learning for Image Retrieval**|Vinicius Atsushi Sato Kawai et.al.|[2609.01963](http://arxiv.org/abs/2609.01963)|null|
 |**2026-09-01**|**From Visual Cues to Spoken Narration: Rethinking Audio Description**|Akshita Gupta et.al.|[2609.01725](http://arxiv.org/abs/2609.01725)|null|
 |**2026-09-01**|**AutoConcept: Training-Free Concept-Guided Reranking for Metadata-Available Composed Image Retrieval**|Tianyu Wang et.al.|[2609.01456](http://arxiv.org/abs/2609.01456)|null|
@@ -960,6 +965,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-20**|**PosEviLoc: Position-Conditioned Spatial Evidence for Language-Based 3D Localization**|Tianyi Shang et.al.|[2609.23534](http://arxiv.org/abs/2609.23534)|null|
 |**2026-08-30**|**InLiER: Learning-Free Heterogeneous LiDAR Place Recognition via Intermediate Mixed-Radix Structural Keypoint Tokenization**|Nikolaos Stathoulopoulos et.al.|[2607.16862](http://arxiv.org/abs/2607.16862)|null|
 |**2026-07-02**|**Comprehensive Robustness Analysis of LiDAR-based 3D Object Detection in Autonomous Driving**|Adwait Chandorkar et.al.|[2607.02074](http://arxiv.org/abs/2607.02074)|null|
 |**2026-06-17**|**Aerial-ground LiDAR place recognition with patch-level self-supervised learning and expanded reciprocal re-ranking**|Yandi Yang et.al.|[2606.18583](http://arxiv.org/abs/2606.18583)|null|
@@ -1171,6 +1177,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Dynamic Thermal Gaussians: Multimodal 4D Gaussian Splatting**|Rongfeng Lu et.al.|[2609.24531](http://arxiv.org/abs/2609.24531)|null|
+|**2026-09-21**|**OpenFlyScan: A Quality-Guided Aerial Reconstruction System for Consumer Drones**|Zhongrui You et.al.|[2609.24253](http://arxiv.org/abs/2609.24253)|null|
+|**2026-09-21**|**BayesianGS-SLAM: Uncertainty-Aware Neural Rendering SLAM via Probabilistic Formulation**|Kyeongsu Kang et.al.|[2609.24140](http://arxiv.org/abs/2609.24140)|null|
+|**2026-09-20**|**GARO: Geometry-Aware Redundancy Optimization for Real-Time and High-Fidelity Dynamic Gaussian Splatting**|Huiwen Xue et.al.|[2609.23509](http://arxiv.org/abs/2609.23509)|null|
+|**2026-09-20**|**Elevator-VIGS: Separating Elevator Motion from Robot Motion in Visual-Inertial Gaussian Splatting SLAM**|Rui Zhou et.al.|[2609.23491](http://arxiv.org/abs/2609.23491)|null|
+|**2026-09-20**|**GAPS: Generative Active Pseudo-view Selection for Sparse-View 3D Gaussian Splatting**|Hongfei Zhu et.al.|[2609.23436](http://arxiv.org/abs/2609.23436)|null|
+|**2026-09-20**|**LiteTex-GS: Fast and Lightweight Texturing for Gaussian Splatting**|Zhiwei Li et.al.|[2609.23380](http://arxiv.org/abs/2609.23380)|null|
+|**2026-09-19**|**GrapeSplat: Geometry-Grounded Reconstruction via Amalgamated Pose-Free Encoding for Feed-Forward 3D Gaussian Splatting**|Si-Yu Lu et.al.|[2609.23182](http://arxiv.org/abs/2609.23182)|null|
+|**2026-09-19**|**Splat-CBF: Safe Next-Best-View Control in 3D Gaussian-Splat Maps**|Amirhossein Mollaei Khass et.al.|[2609.23100](http://arxiv.org/abs/2609.23100)|null|
+|**2026-09-19**|**VDGS: Visibility-Driven Large-Scale 3D Gaussian Splatting for Aerial Scene Reconstruction**|Haolin Yu et.al.|[2609.23049](http://arxiv.org/abs/2609.23049)|null|
+|**2026-09-19**|**Quality Assessment of 3D Gaussian Splatting: Distortions, Benchmarks, and Open Challenges**|Shuai Liu et.al.|[2609.23027](http://arxiv.org/abs/2609.23027)|null|
+|**2026-09-19**|**Compressing 3D Gaussian Splatting via Cross-Representation Priors**|Yezheng Zhang et.al.|[2609.23005](http://arxiv.org/abs/2609.23005)|null|
+|**2026-09-19**|**D3GS: Depth, DINO, and RGB Diffusion Co-Guided 3D Gaussian Splatting for Sparse-View Reconstruction**|Yunqi Gao et.al.|[2609.22941](http://arxiv.org/abs/2609.22941)|null|
+|**2026-09-19**|**LINGO: Latent Initialization and Gradient Optimization for Sparse-view X-ray Novel View Synthesis and CT Reconstruction with 3D Gaussian Splatting**|Lifeng Xing et.al.|[2609.22849](http://arxiv.org/abs/2609.22849)|null|
+|**2026-09-19**|**Kinematic Interface for the Wild: Modular Bimanual Loco-Manipulation Capture from 360 $^{\circ}$ Cameras Alone**|Benjamin Yang et.al.|[2609.22809](http://arxiv.org/abs/2609.22809)|null|
 |**2026-09-18**|**2D GauSS-MI: Efficient Active Scene Reconstruction with Balanced Visual and Geometric Quality**|Yuhan Xie et.al.|[2609.21516](http://arxiv.org/abs/2609.21516)|null|
 |**2026-09-18**|**VoxelTTO: Voxel-Aligned Feed-Forward 3D Gaussian Splatting with Test-Time Optimization**|Yibin Zhao et.al.|[2609.21498](http://arxiv.org/abs/2609.21498)|null|
 |**2026-09-18**|**Cube-Splat: High-Fidelity 360° Gaussian Splatting SLAM via Cubemap Factorization and Adjoint-Consistent Optimization**|Xiangfei Guo et.al.|[2609.21347](http://arxiv.org/abs/2609.21347)|null|
@@ -2938,6 +2959,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Disparity Estimation of Planar Reflective Surfaces Using Specular Reflections From a Single Light Source**|Katja Kossira et.al.|[2609.24756](http://arxiv.org/abs/2609.24756)|null|
+|**2026-09-21**|**D-JEPA: A Decision-Aligned Latent World Model**|Shuaijun Liu et.al.|[2609.24749](http://arxiv.org/abs/2609.24749)|**[link](https://github.com/NEBULIS-Lab/D-JEPA)**|
+|**2026-09-21**|**Relationally Grounded Latent World Models for Autonomous Driving**|Fabian Schmidt et.al.|[2609.24626](http://arxiv.org/abs/2609.24626)|null|
+|**2026-09-21**|**ME-VLM:A Unified VLM for Embodied Cognition and Agent Coordination**|Foundation Model et.al.|[2609.24526](http://arxiv.org/abs/2609.24526)|null|
+|**2026-09-21**|**Lightweight Pedestrian Head-Orientation Recognition Network for Safe Pedestrian-Vehicle Interaction**|Yuanzhe Li et.al.|[2609.24193](http://arxiv.org/abs/2609.24193)|null|
+|**2026-09-20**|**Hardware-in-the-Loop Evaluation of Game-Theoretic Autonomous Driving**|Aakanksha Kataria et.al.|[2609.23904](http://arxiv.org/abs/2609.23904)|null|
+|**2026-09-20**|**Transferring Visual Explanations: How Cross-Architecture Knowledge Distillation Affects Model Interpretability**|Aleks Czufarow et.al.|[2609.23561](http://arxiv.org/abs/2609.23561)|null|
+|**2026-09-20**|**Towards robust multimodal 3D object detection via visual foundation models**|Ziying Song et.al.|[2609.23541](http://arxiv.org/abs/2609.23541)|null|
+|**2026-09-20**|**FeasibleFlow: One-Step Joint Transport of Configuration Feasibility and Trajectories for End-to-End Driving**|Xiang Li et.al.|[2609.23488](http://arxiv.org/abs/2609.23488)|null|
+|**2026-09-20**|**Scenario MPC with STL Specifications and Pareto-Based Feasibility Repair**|Tianhao Wu et.al.|[2609.23263](http://arxiv.org/abs/2609.23263)|null|
+|**2026-09-19**|**VDGS: Visibility-Driven Large-Scale 3D Gaussian Splatting for Aerial Scene Reconstruction**|Haolin Yu et.al.|[2609.23049](http://arxiv.org/abs/2609.23049)|null|
+|**2026-09-19**|**Planning-Aligned Pretraining of BEV Representations with Sparse Action-Conditioned Targets for End-to-End Autonomous Driving**|Jaeha Song et.al.|[2609.22868](http://arxiv.org/abs/2609.22868)|null|
+|**2026-09-19**|**Image Frame Dynamic Object Segmentation and Ego Motion Estimation using Radar Image Fusion**|Astik Srivastava et.al.|[2609.22857](http://arxiv.org/abs/2609.22857)|null|
+|**2026-09-19**|**ZIL: Zero-shot Image-to-LiDAR Registration**|Zijun Li et.al.|[2609.22716](http://arxiv.org/abs/2609.22716)|null|
+|**2026-09-19**|**UBA-ORL: Unlearning-Activated Backdoor Attacks on Offline Reinforcement Learning**|Fengyi Wang et.al.|[2609.22711](http://arxiv.org/abs/2609.22711)|null|
 |**2026-09-18**|**Traffic Sign Recognition for Autonomous Driving Using Branched YOLOv2 and Geometric Features**|Arefeh Rezaei et.al.|[2609.22060](http://arxiv.org/abs/2609.22060)|null|
 |**2026-09-18**|**PRIME: Perception Feedback with Situational Memory Embeddings in VLA Models**|Erik Deinzer et.al.|[2609.22040](http://arxiv.org/abs/2609.22040)|null|
 |**2026-09-18**|**All-Optical Control over Nonlocality for Ultrafast Image Processing with an Excitonic Metasurface**|Bernardo S. Dias et.al.|[2609.22006](http://arxiv.org/abs/2609.22006)|null|
@@ -5006,6 +5042,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**Neural Kalman Filtering for Unknown Dynamics: Task-Aware Learning with a Koopman Backbone**|Mintaek Oh et.al.|[2609.24763](http://arxiv.org/abs/2609.24763)|null|
+|**2026-09-21**|**Comparing Latent Concept Formation in State Space Models and Transformers via Sparse Autoencoders**|Rithin Nagaraj et.al.|[2609.24440](http://arxiv.org/abs/2609.24440)|null|
+|**2026-09-21**|**Pharmacokinetic State Space Models for Unbiased Prediction of Haemodynamic Collapse**|Rithin Nagaraj et.al.|[2609.24338](http://arxiv.org/abs/2609.24338)|null|
+|**2026-09-21**|**U-PEN Mamba: Progressive Expansion with Selective State-Space Modeling for Efficient Retinal Vessel Segmentation**|Abel A. Reyes-Angulo et.al.|[2609.24049](http://arxiv.org/abs/2609.24049)|null|
+|**2026-09-20**|**Time-uniform accuracy of ensemble Kalman filters with localization**|Xiaoou Cheng et.al.|[2609.23927](http://arxiv.org/abs/2609.23927)|null|
+|**2026-09-19**|**Recursive Parameter Identification of Nonlinear Stochastic State-Space Models via Sequentialized Ensemble Kalman Inversion**|Farzaneh Barat et.al.|[2609.22704](http://arxiv.org/abs/2609.22704)|null|
 |**2026-09-18**|**Adaptive Uncertainty-Aware Modeling and Stochastic Radial Basis Function Predictive Control for Personalized Fluid Resuscitation**|Elham Estiri et.al.|[2609.21821](http://arxiv.org/abs/2609.21821)|null|
 |**2026-09-18**|**Dual-Interest Sequential Product Recommendation With Multi-Granular SSM**|Shuiying Liao et.al.|[2609.21548](http://arxiv.org/abs/2609.21548)|null|
 |**2026-09-18**|**S3VD: Semantic-Guidance Spatio-Temporal Scanning for Video Deraining**|Kui Jiang et.al.|[2609.21322](http://arxiv.org/abs/2609.21322)|null|
