@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.09.22
+## Updated on 2026.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**TM-APR: Thermal Temporal-Memory Localization via Analytic Online Adaptation**|Yanshuo Bai et.al.|[2609.26766](http://arxiv.org/abs/2609.26766)|null|
+|**2026-09-22**|**Calibrating Retrieval Geometry: Reliability-Guided Training-Free Aggregation for Visual Place Recognition**|Xin Li et.al.|[2609.25937](http://arxiv.org/abs/2609.25937)|null|
+|**2026-09-22**|**NaCR: Visual Localization via NeRF-aided Camera Ray Regression**|Yesheng Zhang et.al.|[2609.25907](http://arxiv.org/abs/2609.25907)|null|
+|**2026-09-22**|**What Drives Hierarchy-Aware Image Retrieval? Taxonomy Alignment, Objective Choice, and Geometry**|Ling Shi et.al.|[2609.25638](http://arxiv.org/abs/2609.25638)|null|
 |**2026-09-21**|**DeCo: Efficient Decouple-to-Couple Learning for Multi-Task Visual Grounding**|Xiaoqiang Lu et.al.|[2609.24409](http://arxiv.org/abs/2609.24409)|**[link](https://github.com/xiaoqiang-lu/DeCo)**|
 |**2026-09-21**|**Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale**|Anubhav Gupta et.al.|[2609.24152](http://arxiv.org/abs/2609.24152)|null|
 |**2026-09-21**|**The Visual Target Matters: Learning across the Visual Hierarchy for Brain-to-Image Retrieval**|Ye Wang et.al.|[2609.24136](http://arxiv.org/abs/2609.24136)|null|
@@ -1177,6 +1181,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**φ-RIE: From Photorealistic Reconstruction to Interactive Environments**|Runyi Yang et.al.|[2609.26795](http://arxiv.org/abs/2609.26795)|null|
+|**2026-09-22**|**HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis**|Shufan Sun et.al.|[2609.26793](http://arxiv.org/abs/2609.26793)|null|
+|**2026-09-22**|**ArborSplat: Online Semantic Gaussian Splatting SLAM for Orchards**|Alessandro Masini et.al.|[2609.26315](http://arxiv.org/abs/2609.26315)|null|
+|**2026-09-22**|**Skytopia: Monocular Drone Navigation with Action-Conditioned Latent World Models**|Yuhang Zhang et.al.|[2609.26007](http://arxiv.org/abs/2609.26007)|null|
+|**2026-09-22**|**NaCR: Visual Localization via NeRF-aided Camera Ray Regression**|Yesheng Zhang et.al.|[2609.25907](http://arxiv.org/abs/2609.25907)|null|
+|**2026-09-22**|**Dual Covariance Gaussian Splatting SLAM: Decoupling Rendering and Registration for Robust Real-Time Tracking**|Edward Beng Wai Tan et.al.|[2609.25746](http://arxiv.org/abs/2609.25746)|null|
+|**2026-09-22**|**Robust, Estimator-Agnostic Dynamic 3DGS Compression**|Chenjunjie Wang et.al.|[2609.25633](http://arxiv.org/abs/2609.25633)|null|
+|**2026-09-22**|**Ultra-fast Neural Inference for Stochastic Gaussian Splatting Denoising**|Chenxiao Hu et.al.|[2609.25604](http://arxiv.org/abs/2609.25604)|null|
+|**2026-09-22**|**Agentic Building-Aware Satellite Gaussian Splatting for Auditable Urban DSM Reconstruction**|Wentao Sun et.al.|[2609.25578](http://arxiv.org/abs/2609.25578)|null|
 |**2026-09-21**|**Dynamic Thermal Gaussians: Multimodal 4D Gaussian Splatting**|Rongfeng Lu et.al.|[2609.24531](http://arxiv.org/abs/2609.24531)|null|
 |**2026-09-21**|**OpenFlyScan: A Quality-Guided Aerial Reconstruction System for Consumer Drones**|Zhongrui You et.al.|[2609.24253](http://arxiv.org/abs/2609.24253)|null|
 |**2026-09-21**|**BayesianGS-SLAM: Uncertainty-Aware Neural Rendering SLAM via Probabilistic Formulation**|Kyeongsu Kang et.al.|[2609.24140](http://arxiv.org/abs/2609.24140)|null|
@@ -2959,10 +2972,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**Leveraging Vision-Based Point Cloud Map Priors for Camera-Based 3D Object Detection and Online Vectorized HD Mapping**|Markus Käppeler et.al.|[2609.26325](http://arxiv.org/abs/2609.26325)|null|
+|**2026-09-22**|**ForeDrive: Foresight-Guided End-to-End Autonomous Driving with a Planning-Relevant Latent World Model**|Sinuo Wang et.al.|[2609.26299](http://arxiv.org/abs/2609.26299)|null|
+|**2026-09-22**|**MatchFusion: Explicit-Implicit Instance Matching for Spatio-Temporal Multimodal Autonomous Driving**|Xiaoyu Li et.al.|[2609.25860](http://arxiv.org/abs/2609.25860)|null|
+|**2026-09-22**|**Sometimes You Gotta Run Before You Can Walk: Run-then-Walk Scheduling Strategy for VLM Autonomous Driving**|Yuqi Ye et.al.|[2609.25831](http://arxiv.org/abs/2609.25831)|null|
+|**2026-09-22**|**Real-World Perception for Autonomous Driving in Adverse Weather: Enhancing Standard Detectors via Foundation-Guided Auto-Annotation**|Sepideh Gohari et.al.|[2609.25515](http://arxiv.org/abs/2609.25515)|null|
 |**2026-09-21**|**Disparity Estimation of Planar Reflective Surfaces Using Specular Reflections From a Single Light Source**|Katja Kossira et.al.|[2609.24756](http://arxiv.org/abs/2609.24756)|null|
-|**2026-09-21**|**D-JEPA: A Decision-Aligned Latent World Model**|Shuaijun Liu et.al.|[2609.24749](http://arxiv.org/abs/2609.24749)|**[link](https://github.com/NEBULIS-Lab/D-JEPA)**|
+|**2026-09-21**|**D-JEPA: A Decision-Aligned Latent World Model**|Shuaijun Liu et.al.|[2609.24749](http://arxiv.org/abs/2609.24749)|null|
 |**2026-09-21**|**Relationally Grounded Latent World Models for Autonomous Driving**|Fabian Schmidt et.al.|[2609.24626](http://arxiv.org/abs/2609.24626)|null|
-|**2026-09-21**|**ME-VLM:A Unified VLM for Embodied Cognition and Agent Coordination**|Foundation Model et.al.|[2609.24526](http://arxiv.org/abs/2609.24526)|null|
+|**2026-09-22**|**ME-VLM: A Unified VLM for Embodied Cognition and Agent Coordination**|Foundation Model et.al.|[2609.24526](http://arxiv.org/abs/2609.24526)|null|
 |**2026-09-21**|**Lightweight Pedestrian Head-Orientation Recognition Network for Safe Pedestrian-Vehicle Interaction**|Yuanzhe Li et.al.|[2609.24193](http://arxiv.org/abs/2609.24193)|null|
 |**2026-09-20**|**Hardware-in-the-Loop Evaluation of Game-Theoretic Autonomous Driving**|Aakanksha Kataria et.al.|[2609.23904](http://arxiv.org/abs/2609.23904)|null|
 |**2026-09-20**|**Transferring Visual Explanations: How Cross-Architecture Knowledge Distillation Affects Model Interpretability**|Aleks Czufarow et.al.|[2609.23561](http://arxiv.org/abs/2609.23561)|null|
@@ -5042,6 +5060,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**MambaVoice: Lightweight Audiovisual Singing Voice Separation Via A Hybrid Mamba-Transformer Model**|Adithi Shankar et.al.|[2609.26635](http://arxiv.org/abs/2609.26635)|null|
+|**2026-09-22**|**Point Diffusion Mamba: Unified Diffusion-State-Space Modeling for Single-View 3D Reconstruction under Data Scarcity**|Wei Zhou et.al.|[2609.25538](http://arxiv.org/abs/2609.25538)|null|
 |**2026-09-21**|**Neural Kalman Filtering for Unknown Dynamics: Task-Aware Learning with a Koopman Backbone**|Mintaek Oh et.al.|[2609.24763](http://arxiv.org/abs/2609.24763)|null|
 |**2026-09-21**|**Comparing Latent Concept Formation in State Space Models and Transformers via Sparse Autoencoders**|Rithin Nagaraj et.al.|[2609.24440](http://arxiv.org/abs/2609.24440)|null|
 |**2026-09-21**|**Pharmacokinetic State Space Models for Unbiased Prediction of Haemodynamic Collapse**|Rithin Nagaraj et.al.|[2609.24338](http://arxiv.org/abs/2609.24338)|null|
