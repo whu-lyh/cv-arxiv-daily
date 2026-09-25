@@ -2,19 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.09.24
+## Updated on 2026.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**An Empirical Study of VLM Pipelines for Long-Document QA**|Kenan E. Ak et.al.|[2609.29933](http://arxiv.org/abs/2609.29933)|null|
 |**2026-09-23**|**Large-Scale Geometric Map-Based Localization of UAVs in GNSS-Denied Urban Environments**|Garth Terlizzi et.al.|[2609.28225](http://arxiv.org/abs/2609.28225)|null|
 |**2026-09-23**|**SGDet3D++: Geometry-Grounded Semantics for 4D Radar and Camera 3D Object Detection**|Xiaokai Bai et.al.|[2609.27671](http://arxiv.org/abs/2609.27671)|null|
 |**2026-09-23**|**Geometry-Conditioned Visual Place Recognition in Natural Environments**|Walter Nedov et.al.|[2609.27370](http://arxiv.org/abs/2609.27370)|null|
 |**2026-09-23**|**From LiDAR Maps to Visual Localization: Unified Visual Association for Robust Point-Line-Plane Pose Estimation**|Wentao Zhao et.al.|[2609.27363](http://arxiv.org/abs/2609.27363)|null|
 |**2026-09-22**|**MINER: Multi-crop INference-time Enhancement for Rare-Object Retrieval with Frozen Dual Encoders**|Abdulmalik Alquwayfili et.al.|[2609.27142](http://arxiv.org/abs/2609.27142)|null|
-|**2026-09-22**|**nnFoundation: 3D Foundation Models for Radiology**|Constantin Ulrich Harsy et.al.|[2609.26924](http://arxiv.org/abs/2609.26924)|**[link](https://github.com/aymuos15/nnFoundation-slides)**|
+|**2026-09-22**|**nnFoundation: 3D Foundation Models for Radiology**|Constantin Ulrich Harsy et.al.|[2609.26924](http://arxiv.org/abs/2609.26924)|null|
 |**2026-09-22**|**TM-APR: Thermal Temporal-Memory Localization via Analytic Online Adaptation**|Yanshuo Bai et.al.|[2609.26766](http://arxiv.org/abs/2609.26766)|null|
 |**2026-09-22**|**Calibrating Retrieval Geometry: Reliability-Guided Training-Free Aggregation for Visual Place Recognition**|Xin Li et.al.|[2609.25937](http://arxiv.org/abs/2609.25937)|null|
 |**2026-09-22**|**NaCR: Visual Localization via NeRF-aided Camera Ray Regression**|Yesheng Zhang et.al.|[2609.25907](http://arxiv.org/abs/2609.25907)|null|
@@ -975,6 +976,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**UpDown-SC: Gravity-Canonicalized Dual-Envelope Scan Context for Indoor LiDAR Place Recognition**|Jie Xu et.al.|[2609.29118](http://arxiv.org/abs/2609.29118)|null|
 |**2026-09-20**|**PosEviLoc: Position-Conditioned Spatial Evidence for Language-Based 3D Localization**|Tianyi Shang et.al.|[2609.23534](http://arxiv.org/abs/2609.23534)|null|
 |**2026-08-30**|**InLiER: Learning-Free Heterogeneous LiDAR Place Recognition via Intermediate Mixed-Radix Structural Keypoint Tokenization**|Nikolaos Stathoulopoulos et.al.|[2607.16862](http://arxiv.org/abs/2607.16862)|null|
 |**2026-07-02**|**Comprehensive Robustness Analysis of LiDAR-based 3D Object Detection in Autonomous Driving**|Adwait Chandorkar et.al.|[2607.02074](http://arxiv.org/abs/2607.02074)|null|
@@ -1014,8 +1016,8 @@ layout: default
 |**2025-11-20**|**Rad-GS: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments**|Renxiang Xiao et.al.|[2511.16091](http://arxiv.org/abs/2511.16091)|null|
 |**2025-11-19**|**Atlas Gaussian processes on restricted domains and point clouds**|Mu Niu et.al.|[2511.15822](http://arxiv.org/abs/2511.15822)|null|
 |**2025-11-21**|**The MeerKAT Fornax Survey VI. The collapse of the galaxy HI Mass Function in Fornax**|D. Kleiner et.al.|[2511.15795](http://arxiv.org/abs/2511.15795)|null|
-|**2025-11-19**|**Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2511.15597](http://arxiv.org/abs/2511.15597)|null|
-|**2025-11-19**|**Text2Loc++: Generalizing 3D Point Cloud Localization from Natural Language**|Yan Xia et.al.|[2511.15308](http://arxiv.org/abs/2511.15308)|null|
+|**2025-11-19**|**Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2511.15597](http://arxiv.org/abs/2511.15597)|**[link](https://github.com/Thunder-Volcano/KDF-plus)**|
+|**2025-11-19**|**Text2Loc++: Generalizing 3D Point Cloud Localization from Natural Language**|Yan Xia et.al.|[2511.15308](http://arxiv.org/abs/2511.15308)|**[link](https://github.com/anslt/Text2LocPP)**|
 |**2025-11-18**|**NeuralBoneReg: A Novel Self-Supervised Method for Robust and Accurate Multi-Modal Bone Surface Registration**|Luohong Wu et.al.|[2511.14286](http://arxiv.org/abs/2511.14286)|null|
 |**2025-11-17**|**Part-X-MLLM: Part-aware 3D Multimodal Large Language Model**|Chunshi Wang et.al.|[2511.13647](http://arxiv.org/abs/2511.13647)|**[link](https://github.com/AiEson/Part-X-MLLM)**|
 |**2025-11-18**|**ArtiWorld: LLM-Driven Articulation of 3D Objects in Scenes**|Yixuan Yang et.al.|[2511.12977](http://arxiv.org/abs/2511.12977)|null|
@@ -1024,7 +1026,7 @@ layout: default
 |**2025-11-13**|**AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models**|Xinyi Wang et.al.|[2511.10017](http://arxiv.org/abs/2511.10017)|**[link](https://github.com/hannahwxy/AffordBot)**|
 |**2025-11-12**|**PALMS+: Modular Image-Based Floor Plan Localization Leveraging Depth Foundation Model**|Yunqian Cheng et.al.|[2511.09724](http://arxiv.org/abs/2511.09724)|**[link](https://github.com/Head-inthe-Cloud/PALMS-Plane-based-Accessible-Indoor-Localization-Using-Mobile-Smartphones)**|
 |**2025-11-12**|**IFG: Internet-Scale Guidance for Functional Grasping Generation**|Ray Muxin Liu et.al.|[2511.09558](http://arxiv.org/abs/2511.09558)|null|
-|**2026-04-09**|**HOTFLoc++: End-to-End Hierarchical LiDAR Place Recognition, Re-Ranking, and 6-DoF Metric Localisation in Forests**|Ethan Griffiths et.al.|[2511.09170](http://arxiv.org/abs/2511.09170)|null|
+|**2026-04-09**|**HOTFLoc++: End-to-End Hierarchical LiDAR Place Recognition, Re-Ranking, and 6-DoF Metric Localisation in Forests**|Ethan Griffiths et.al.|[2511.09170](http://arxiv.org/abs/2511.09170)|**[link](https://github.com/csiro-robotics/HOTFLoc)**|
 |**2025-11-11**|**Enhancing Rotation-Invariant 3D Learning with Global Pose Awareness and Attention Mechanisms**|Jiaxun Guo et.al.|[2511.08833](http://arxiv.org/abs/2511.08833)|null|
 |**2025-11-11**|**Hierarchical Direction Perception via Atomic Dot-Product Operators for Rotation-Invariant Point Clouds Learning**|Chenyu Hu et.al.|[2511.08240](http://arxiv.org/abs/2511.08240)|null|
 |**2025-11-11**|**Accurate and Efficient Surface Reconstruction from Point Clouds via Geometry-Aware Local Adaptation**|Eito Ogawa et.al.|[2511.08233](http://arxiv.org/abs/2511.08233)|null|
@@ -1041,7 +1043,7 @@ layout: default
 |**2025-10-31**|**MambaNetLK: Enhancing Colonoscopy Point Cloud Registration with Mamba**|Linzhe Jiang et.al.|[2511.00260](http://arxiv.org/abs/2511.00260)|null|
 |**2025-10-29**|**Figuring Out Gas & Galaxies In Enzo (FOGGIE) XI: Circumgalactic O VI Emission Traces Clumpy Inflowing Recycled Gas**|Cassandra Lochhaas et.al.|[2510.25844](http://arxiv.org/abs/2510.25844)|null|
 |**2025-10-02**|**LangGrasp: Leveraging Fine-Tuned LLMs for Language Interactive Robot Grasping with Ambiguous Instructions**|Yunhan Lin et.al.|[2510.02104](http://arxiv.org/abs/2510.02104)|null|
-|**2025-08-09**|**LifelongPR: Lifelong point cloud place recognition based on sample replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|null|
+|**2025-08-09**|**LifelongPR: Lifelong point cloud place recognition based on sample replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|**[link](https://github.com/zouxianghong/LifelongPR)**|
 |**2025-08-08**|**ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models**|Minwoo Jung et.al.|[2505.18364](http://arxiv.org/abs/2505.18364)|null|
 |**2025-05-26**|**MinkUNeXt-SI: Improving point cloud-based place recognition including spherical coordinates and LiDAR intensity**|Judith Vilella-Cantos et.al.|[2505.17591](http://arxiv.org/abs/2505.17591)|null|
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
@@ -1187,6 +1189,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**Towards Practical Compression of 3D Gaussian Splatting**|Pengpeng Yu et.al.|[2609.30245](http://arxiv.org/abs/2609.30245)|null|
+|**2026-09-24**|**OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning**|Haoran Wang et.al.|[2609.29985](http://arxiv.org/abs/2609.29985)|null|
+|**2026-09-24**|**ADATEX4D: adaptive texture capacity allocation for 4D gaussian splatting**|De Jiang et.al.|[2609.29963](http://arxiv.org/abs/2609.29963)|null|
+|**2026-09-24**|**SplatLabel: Pseudo-Labelling through 4D Gaussian Splatting**|Nitya Nanvani et.al.|[2609.29836](http://arxiv.org/abs/2609.29836)|null|
+|**2026-09-24**|**From Scattered Gaussians to Structured Maps: Efficient Gaussian Splatting Coding via Dual-phase Morton Sorting**|Bolin Chen et.al.|[2609.29041](http://arxiv.org/abs/2609.29041)|null|
+|**2026-09-24**|**Only What Was Seen: Observation-Gram Compaction of View-Dependent Appearance in 3D Gaussian Splatting**|Krzysztof Pietroszek et.al.|[2609.28997](http://arxiv.org/abs/2609.28997)|null|
+|**2026-09-24**|**PlenoCI: Plenoptic CharacterIstics for View Dependence Aware Change Classification**|Jason Lai et.al.|[2609.28930](http://arxiv.org/abs/2609.28930)|null|
+|**2026-09-23**|**PePESeg3D: Perception Prior Enhances Multi-Scale Segmentation for 3D Gaussian Splatting**|Sungjae Choi et.al.|[2609.28645](http://arxiv.org/abs/2609.28645)|null|
 |**2026-09-23**|**GaussPDE: Graph-Based Partial Differential Equation-Driven Rendering for 3D Gaussian Splatting**|Haoyuan Yue et.al.|[2609.27264](http://arxiv.org/abs/2609.27264)|null|
 |**2026-09-22**|**φ-RIE: From Photorealistic Reconstruction to Interactive Environments**|Runyi Yang et.al.|[2609.26795](http://arxiv.org/abs/2609.26795)|null|
 |**2026-09-22**|**HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis**|Shufan Sun et.al.|[2609.26793](http://arxiv.org/abs/2609.26793)|null|
@@ -2979,6 +2989,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**Retrieve-to-Localize: Bridging Large Language Models and LiDAR Geometry for Spatial Grounding**|Byounggun Park et.al.|[2609.29835](http://arxiv.org/abs/2609.29835)|null|
+|**2026-09-24**|**S2Planner: Multi-Scale Semantic Planner for End-to-End Autonomous Driving**|Zhaowei Lu et.al.|[2609.29813](http://arxiv.org/abs/2609.29813)|null|
+|**2026-09-24**|**SARFusion: Scene-Aware Routing Fusion for Robust Camera-LiDAR 3D Object Detection**|Yuting Zhao et.al.|[2609.29235](http://arxiv.org/abs/2609.29235)|null|
+|**2026-09-24**|**Assessing the Impact of Fleet Size on Crowdsourced Mapping Using a Dissimilarity Measure**|Marie-Ngoïe Badibanga Kalenda et.al.|[2609.29198](http://arxiv.org/abs/2609.29198)|null|
+|**2026-09-24**|**Poster: FedWM-Guard: Thwarting Imagination Poisoning in Federated World Model-based Autonomous Driving**|Sheng Liu et.al.|[2609.29178](http://arxiv.org/abs/2609.29178)|null|
+|**2026-09-24**|**Sim-to-Real Aware End-to-End Learning Environment for Micromobility**|Shouma Amano et.al.|[2609.28969](http://arxiv.org/abs/2609.28969)|null|
 |**2026-09-23**|**AnchorReasoning: A Visual Grounding and Causal Reasoning Dataset in Long-Tail Autonomous Driving Scenarios**|Zhipeng Bao et.al.|[2609.28366](http://arxiv.org/abs/2609.28366)|null|
 |**2026-09-23**|**ODPure: Backdoor Purification for Object Detection via Ensemble Corruption Consensus**|Li Zeng et.al.|[2609.28239](http://arxiv.org/abs/2609.28239)|null|
 |**2026-09-23**|**Less Language, More Latents: Annotation-Efficient VLAs for Driving**|Alexey Zakharov et.al.|[2609.27747](http://arxiv.org/abs/2609.27747)|null|
@@ -5076,6 +5092,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**Coupled State-Space Modelling, Control, and Policy Distillation for Hybrid Rigid-Pneumatic Manipulators**|Alan Royce Gabriel Samuel et.al.|[2609.29424](http://arxiv.org/abs/2609.29424)|null|
+|**2026-09-24**|**Gaussian Process Modeling of Time Series**|Genshiro Kitagawa et.al.|[2609.29297](http://arxiv.org/abs/2609.29297)|null|
+|**2026-09-23**|**Token Clustering and Semantic Sequence Mamba for Hyperspectral Image Classification**|Yimin Zhu et.al.|[2609.28580](http://arxiv.org/abs/2609.28580)|null|
 |**2026-09-23**|**CereVLA: Cerebellum-Inspired Consequence-Aware Residual Governance for Efficient Vision-Language-Action Execution**|Shuai Zeng et.al.|[2609.27468](http://arxiv.org/abs/2609.27468)|null|
 |**2026-09-23**|**Mamba-Family State-Space Model Kernels on a Programmable CGLA**|Takuto Ando et.al.|[2609.27437](http://arxiv.org/abs/2609.27437)|null|
 |**2026-09-23**|**When Labels Are Scarce: An Oscillatory State Space Model for Vibration Diagnosis**|Mainak Mallick et.al.|[2609.27411](http://arxiv.org/abs/2609.27411)|null|
