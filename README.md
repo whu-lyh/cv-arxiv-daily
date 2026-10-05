@@ -17,12 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis**|Keerthi Kaashyap et.al.|[2610.03717](http://arxiv.org/abs/2610.03717)|null|
 |**2026-10-01**|**GNSS Spoofing in Mobile Devices: A Survey on Impact and Countermeasures**|Robert Argo et.al.|[2610.01294](http://arxiv.org/abs/2610.01294)|null|
 |**2026-10-01**|**MVDG: Efficient Multi-view 3D Disambiguation on Unconstrained Real-World Images**|Hanyuan Xiao et.al.|[2610.01098](http://arxiv.org/abs/2610.01098)|null|
 |**2026-09-28**|**Decoding the Disaster: Multi-Task Geospatial Reasoning with Vision-Language Models and Crowdsourced Imagery for Disaster Mapping**|Wenping Yin et.al.|[2610.00302](http://arxiv.org/abs/2610.00302)|null|
 |**2026-09-30**|**Front-to-Back: Benchmarking Vision-Language Models for Asymmetric Cross-View Vehicle Re-Identification**|Moseli Mots'oehli et.al.|[2609.39492](http://arxiv.org/abs/2609.39492)|null|
-|**2026-09-29**|**Seeing Is Not Addressing: Auditing Linguistic Access to Frozen Visual Geometry**|Woosang Jeon et.al.|[2609.37230](http://arxiv.org/abs/2609.37230)|**[link](https://github.com/LABA-SNU/seeing-is-not-addressing)**|
-|**2026-09-29**|**Structured Visual Target Learning For Cross-Subject eeg-to-image retrieval**|Salini Yadav et.al.|[2609.36971](http://arxiv.org/abs/2609.36971)|**[link](https://github.com/Shalini-Y1/STRUCTURED-VISUAL-TARGET-LEARNING-FOR-CROSS-SUBJECT-EEG-TO-IMAGE-RETRIEVAL)**|
+|**2026-09-29**|**Seeing Is Not Addressing: Auditing Linguistic Access to Frozen Visual Geometry**|Woosang Jeon et.al.|[2609.37230](http://arxiv.org/abs/2609.37230)|null|
+|**2026-09-29**|**Structured Visual Target Learning For Cross-Subject eeg-to-image retrieval**|Salini Yadav et.al.|[2609.36971](http://arxiv.org/abs/2609.36971)|null|
 |**2026-09-29**|**Optimizing VLP-aligned Multimodal Intent Representation with Correct Visual Instantiation for Zero-Shot Composed Image Retrieval**|Xuri Ge et.al.|[2609.36946](http://arxiv.org/abs/2609.36946)|null|
 |**2026-09-28**|**Structured Interaction, Visual Localization, and Robust Execution for Complex Web Tasks: A Technical Report on the WebRetriever Challenge**|Ziqi Zhang et.al.|[2609.35904](http://arxiv.org/abs/2609.35904)|null|
 |**2026-09-28**|**MarsLab: A Martian Rover Simulator for Planetary Rover Autonomous Navigation**|Hoyun Kim et.al.|[2609.34702](http://arxiv.org/abs/2609.34702)|null|
@@ -1215,6 +1216,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**ManifoldSplat: Language-Guided Semantic Shape Editing of 3D Gaussian Head Avatars**|Antonio Canela et.al.|[2610.03599](http://arxiv.org/abs/2610.03599)|null|
+|**2026-10-02**|**Budgeted-GS: Real-Time Large-Scale Gaussian Splatting via Factoring LOD**|Haipeng Wang et.al.|[2610.03162](http://arxiv.org/abs/2610.03162)|null|
+|**2026-10-02**|**ByteSplat: Efficient Distributed 3D Gaussian Splatting Training via Intra- and Inter-GPU communication reduction**|Shuo Wu et.al.|[2610.02851](http://arxiv.org/abs/2610.02851)|null|
+|**2026-10-01**|**FactorSplat: Appearance-Controllable Gaussian Proxies for Medical Volume Rendering**|Zhongpai Gao et.al.|[2610.02382](http://arxiv.org/abs/2610.02382)|null|
+|**2026-10-01**|**SCION: Scene Composition with Instanced Neural Primitives**|William Koch et.al.|[2610.02322](http://arxiv.org/abs/2610.02322)|null|
 |**2026-10-01**|**EvenSplat: Coupled 2D-3D Decomposition for Gaussian Splatting under Exposure and Illumination Variation**|Tongyu Wu et.al.|[2610.01876](http://arxiv.org/abs/2610.01876)|null|
 |**2026-10-01**|**MEGA: Object-Level Mesh Extraction from 3D Gaussian Splatting via Spatial Visual Distillation**|Liwei Liao et.al.|[2610.01707](http://arxiv.org/abs/2610.01707)|null|
 |**2026-10-01**|**Affine-Aligned Atlas for Canonical Gaussian Construction in Video Representation**|Masaya Takabe et.al.|[2610.01114](http://arxiv.org/abs/2610.01114)|null|
@@ -3074,6 +3080,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**TerrainForge: Physics-Grounded road geometry Editing for Counterfactual Autonomous Driving**|Yang Chen et.al.|[2610.02825](http://arxiv.org/abs/2610.02825)|null|
+|**2026-10-02**|**Localized Conformal Safety Monitoring with Vision-Language Models for Autonomous Driving**|Luís Marques et.al.|[2610.02765](http://arxiv.org/abs/2610.02765)|null|
+|**2026-10-02**|**SymRegFlow: Symmetry-Regularized Flow Matching for Video World Models**|Xi Ye et.al.|[2610.02726](http://arxiv.org/abs/2610.02726)|null|
+|**2026-10-01**|**From Fragments to Global Maps: Learning Vectorized Map Aggregation with Large Language Models**|Ziwei Li et.al.|[2610.02513](http://arxiv.org/abs/2610.02513)|null|
 |**2026-10-01**|**Weather-Aware Domain Adaptation for Street-View Weather Recognition**|Hossein Maghsoumi et.al.|[2610.02000](http://arxiv.org/abs/2610.02000)|null|
 |**2026-10-01**|**MapLightning: Online Vectorized HD Map Construction with 1D Map Tokens**|Shen Zheng et.al.|[2610.01905](http://arxiv.org/abs/2610.01905)|null|
 |**2026-10-01**|**End-to-End Learning vs. Modular Architectures: Comparative Insights into Autonomous Driving Systems**|Kartik B. Kapse et.al.|[2610.01746](http://arxiv.org/abs/2610.01746)|null|
@@ -5232,6 +5242,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**A New Index for Quantifying Stability Adaptation Effort in Power Electronics-Dominated Power Systems Based on Frequency-Domain Impedance Identification**|Luis A. Garcia-Reyes et.al.|[2610.03158](http://arxiv.org/abs/2610.03158)|null|
+|**2026-10-02**|**Bounded Reachability & Jailbreak Detection via Contraction-Constrained State Space Models**|Omanshu Thapliyal et.al.|[2610.02853](http://arxiv.org/abs/2610.02853)|null|
+|**2026-10-02**|**Distributed Learning with Selective State Space Models: Architecture-Aware Convergence Analysis**|Adam Piaseczny et.al.|[2610.02659](http://arxiv.org/abs/2610.02659)|null|
+|**2026-09-30**|**State-Space Unlearning for Non-Stationary Bias in Land Surface Forecasting**|Anidipta Pal et.al.|[2610.02248](http://arxiv.org/abs/2610.02248)|null|
 |**2026-10-01**|**Inferring Multi-Timescale Neural Dynamics with Switching Linear Dynamical Systems**|Lulu Gong et.al.|[2610.01786](http://arxiv.org/abs/2610.01786)|null|
 |**2026-10-01**|**Learning Rate Transfer for Hybrid Transformer-SSM Architectures**|Jimin Seo et.al.|[2610.01172](http://arxiv.org/abs/2610.01172)|null|
 |**2026-10-01**|**Efficient Convex Optimization Methods for State-Space Heartbeat Dynamics Models with Gamma Generalized Linear Models**|Sabrina Liu et.al.|[2610.00884](http://arxiv.org/abs/2610.00884)|null|
@@ -5247,7 +5261,7 @@
 |**2026-09-28**|**DR-net-Mamba: Selective State-Space Modeling for Long-Range ECG Time-Series Denoising**|Basile Morel et.al.|[2609.35634](http://arxiv.org/abs/2609.35634)|null|
 |**2026-09-28**|**Graph World Models for Constrained Epidemic Policy Planning**|Yiqi Su et.al.|[2609.35545](http://arxiv.org/abs/2609.35545)|null|
 |**2026-09-28**|**Riccati State Space Models: Non-iterative Parallelization for Nonlinear Sequence Modeling**|Mónika Farsang et.al.|[2609.35441](http://arxiv.org/abs/2609.35441)|null|
-|**2026-09-28**|**MASCIT: A Mask-Aware State Space Classifier for Naturally Irregular Time Series**|Yoo-Min Jung et.al.|[2609.34409](http://arxiv.org/abs/2609.34409)|null|
+|**2026-10-02**|**MASCIT: A Mask-Aware State Space Classifier for Naturally Irregular Time Series**|Yoo-Min Jung et.al.|[2609.34409](http://arxiv.org/abs/2609.34409)|null|
 |**2026-09-30**|**mmHRI: Towards Privacy-Preserving Human-Robot Interaction with Millimeter-Wave Radar**|Junqiao Fan et.al.|[2609.34220](http://arxiv.org/abs/2609.34220)|null|
 |**2026-09-28**|**GT-PSSM: Unified Probabilistic Framework for Stochastic Dynamics Modeling and Dependency Learning in Multivariate Time Series Anomaly Detection**|Wonmo Koo et.al.|[2609.34161](http://arxiv.org/abs/2609.34161)|null|
 |**2026-09-27**|**3D Point Tracking with State Space Models**|Masahiro Ogawa et.al.|[2609.34035](http://arxiv.org/abs/2609.34035)|null|
