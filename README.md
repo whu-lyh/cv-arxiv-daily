@@ -1,4 +1,4 @@
-## Updated on 2026.10.05
+## Updated on 2026.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-05**|**How Low Can You Go? Validating Administrative Union Records for Substate Estimates of US Union Membership**|John S. Ahlquist et.al.|[2610.06774](http://arxiv.org/abs/2610.06774)|null|
+|**2026-10-05**|**NeuroCBIR: A Fast and Accurate Image Retrieval System for Whole-Brain and Region-Specific MRI**|Felix Nieto-del-Amor et.al.|[2610.06502](http://arxiv.org/abs/2610.06502)|null|
+|**2026-10-05**|**Do Speech Representations Preserve Regional Accent Across Read and Spontaneous Speech?**|Paula A. Perez-Toro et.al.|[2610.06430](http://arxiv.org/abs/2610.06430)|null|
+|**2026-10-05**|**From Transformation to Target State: Rethinking Query Representation for Zero-Shot Composed Image Retrieval**|Yihe Zhao et.al.|[2610.05993](http://arxiv.org/abs/2610.05993)|null|
+|**2026-10-04**|**Reactive Constraint-Based Geolocation of Internet Hosts**|Spencer Ye et.al.|[2610.05545](http://arxiv.org/abs/2610.05545)|null|
 |**2026-10-02**|**Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis**|Keerthi Kaashyap et.al.|[2610.03717](http://arxiv.org/abs/2610.03717)|null|
 |**2026-10-01**|**GNSS Spoofing in Mobile Devices: A Survey on Impact and Countermeasures**|Robert Argo et.al.|[2610.01294](http://arxiv.org/abs/2610.01294)|null|
 |**2026-10-01**|**MVDG: Efficient Multi-view 3D Disambiguation on Unconstrained Real-World Images**|Hanyuan Xiao et.al.|[2610.01098](http://arxiv.org/abs/2610.01098)|null|
@@ -993,7 +998,7 @@
 |**2018-05-16**|**Visual Global Localization with a Hybrid WNN-CNN Approach**|Avelino Forechi et.al.|[1805.03183](http://arxiv.org/abs/1805.03183)|**[link](https://github.com/LCAD-UFES/WNN-CNN-GL)**|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|null|
 
-<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
 
 ## Point Cloud Place Recognition
 
@@ -1106,7 +1111,7 @@
 |**2020-08-04**|**PIC-Net: Point Cloud and Image Collaboration Network for Large-Scale Place Recognition**|Yuheng Lu et.al.|[2008.00658](http://arxiv.org/abs/2008.00658)|null|
 |**2020-07-06**|**LOL: Lidar-Only Odometry and Localization in 3D Point Cloud Maps**|David Rozenberszki et.al.|[2007.01595](http://arxiv.org/abs/2007.01595)|**[link](https://github.com/RozDavid/LOL)**|
 
-<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
 
 ## Cross-modality Localization
 
@@ -1210,12 +1215,28 @@
 |**2021-07-28**|**Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization**|Fa-Ting Hong et.al.|[2107.12589](http://arxiv.org/abs/2107.12589)|null|
 |**2020-09-15**|**RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization**|Niluthpol Chowdhury Mithun et.al.|[2009.05695](http://arxiv.org/abs/2009.05695)|**[link](https://github.com/niluthpol/RGB2LIDAR)**|
 
-<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
 
 ## 3D GS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-05**|**GS-Pool: Object-Level Change Detection in 3D Gaussian Splatting**|Boaz Keren-Gil et.al.|[2610.06688](http://arxiv.org/abs/2610.06688)|null|
+|**2026-10-05**|**MaRO-GS: Mask-Robust Object-Centric Gaussian Splatting from Inconsistent Multi-view Masks**|Eunji Kim et.al.|[2610.06472](http://arxiv.org/abs/2610.06472)|null|
+|**2026-10-05**|**Odyssey: A Closed-Loop Benchmark for Long-Horizon Real-World Driving with Explicit Navigation Routes**|Jungho Kim et.al.|[2610.06469](http://arxiv.org/abs/2610.06469)|null|
+|**2026-10-05**|**Controllable and Photorealistic Pedestrian Risky Motion Generation for End-to-End Driving Safety Evaluation**|Siyuan Liu et.al.|[2610.06171](http://arxiv.org/abs/2610.06171)|null|
+|**2026-10-05**|**Casual Flash Lighting for Gaussian Splat Inverse Rendering**|Jiamin Xu et.al.|[2610.06035](http://arxiv.org/abs/2610.06035)|null|
+|**2026-10-04**|**SteadySplats: Resampling of Low-Variance Gaussians for High-Fidelity Stochastic Rendering**|Felix Windisch et.al.|[2610.05576](http://arxiv.org/abs/2610.05576)|null|
+|**2026-10-04**|**Mobile-4DGS: Unified Static-Dynamic Real-time Mobile Gaussian Splatting**|Xiaobiao Du et.al.|[2610.05289](http://arxiv.org/abs/2610.05289)|null|
+|**2026-10-03**|**GS-Codec: A Gaussian-Splatting Bottleneck for Neural Audio Coding**|Ron Aluf et.al.|[2610.04651](http://arxiv.org/abs/2610.04651)|null|
+|**2026-10-03**|**Sparse-View 4D Gaussian Splatting via Spatiotemporal Priors and Generative Assistance**|Shengqi Wang et.al.|[2610.04606](http://arxiv.org/abs/2610.04606)|null|
+|**2026-10-03**|**LoCoSplat: Real-Time Feed-Forward 3D Gaussian Splatting with Minimal 3D Reasoning**|Sinan Wang et.al.|[2610.04351](http://arxiv.org/abs/2610.04351)|null|
+|**2026-10-03**|**A differentiable Lagrangian-coupled 3D Gaussian Splatting-SPH model for forward simulation and inverse analysis in solid mechanics**|Tian Xu et.al.|[2610.04336](http://arxiv.org/abs/2610.04336)|null|
+|**2026-10-03**|**Sparse-GS2Mesh: 3D Gaussian Splatting Guided by Novel Stereo Views and 2DGS for Sparse View Surface Reconstruction}**|Younghyun Noh et.al.|[2610.04203](http://arxiv.org/abs/2610.04203)|null|
+|**2026-10-03**|**CellSplat4D: PSF-Aware 4D Gaussian Splatting for Sparse Robotic Live-Cell Imaging**|Yingda Tao et.al.|[2610.04199](http://arxiv.org/abs/2610.04199)|null|
+|**2026-10-02**|**VCURF: Virtual Camera-based Uncertainty of Radiance Fields**|Liyan Chen et.al.|[2610.04076](http://arxiv.org/abs/2610.04076)|null|
+|**2026-10-02**|**Return-to-Home Feasible Micro-Aerial Vehicle Exploration for 3D Gaussian Splatting Reconstruction**|Prajit Krisshnakumar et.al.|[2610.04013](http://arxiv.org/abs/2610.04013)|null|
+|**2026-10-02**|**VolS-GS: Relightable Gaussian Splatting with Volumetric Subsurface Scattering**|Junyeong Ahn et.al.|[2610.04007](http://arxiv.org/abs/2610.04007)|null|
 |**2026-10-02**|**ManifoldSplat: Language-Guided Semantic Shape Editing of 3D Gaussian Head Avatars**|Antonio Canela et.al.|[2610.03599](http://arxiv.org/abs/2610.03599)|null|
 |**2026-10-02**|**Budgeted-GS: Real-Time Large-Scale Gaussian Splatting via Factoring LOD**|Haipeng Wang et.al.|[2610.03162](http://arxiv.org/abs/2610.03162)|null|
 |**2026-10-02**|**ByteSplat: Efficient Distributed 3D Gaussian Splatting Training via Intra- and Inter-GPU communication reduction**|Shuo Wu et.al.|[2610.02851](http://arxiv.org/abs/2610.02851)|null|
@@ -3074,12 +3095,27 @@
 |**2024-03-26**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095](http://arxiv.org/abs/2403.16095)|null|
 |**2024-04-09**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700](http://arxiv.org/abs/2311.11700)|**[link](https://github.com/yanchi-3dv/diff-gaussian-rasterization-for-gsslam)**|
 
-<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-05**|**Analysis of SWIR Imaging Detection Performance Under Adverse Environmental Conditions for Autonomous Driving Systems**|Rohan Mehra et.al.|[2610.06596](http://arxiv.org/abs/2610.06596)|null|
+|**2026-10-05**|**Preference-Adaptive Control in Autonomous Driving**|Zhongyu Mo et.al.|[2610.06539](http://arxiv.org/abs/2610.06539)|null|
+|**2026-10-05**|**Generative World Models Enable Predictive Control of Laser Melt Pool Dynamics**|Yiyang Yan et.al.|[2610.06250](http://arxiv.org/abs/2610.06250)|null|
+|**2026-10-05**|**Controllable and Photorealistic Pedestrian Risky Motion Generation for End-to-End Driving Safety Evaluation**|Siyuan Liu et.al.|[2610.06171](http://arxiv.org/abs/2610.06171)|null|
+|**2026-10-05**|**Radar2Plan: Benchmarking 4D Radar for End-to-End Open-Loop Ego-Trajectory Planning**|Ling Yao et.al.|[2610.06121](http://arxiv.org/abs/2610.06121)|null|
+|**2026-10-05**|**Difference Feature Map Distillation: Transferring Inter-Sample Relational Knowledge Towards Efficient Transformer-Based Tracking**|Zhicheng Ding et.al.|[2610.05707](http://arxiv.org/abs/2610.05707)|null|
+|**2026-10-04**|**Building A Multi-Sensor Platform For Autonomous Driving Research: Challenges and Lessons Learned**|Paulo Ricardo Marques de Araujo et.al.|[2610.05604](http://arxiv.org/abs/2610.05604)|null|
+|**2026-10-04**|**Scenario-Based Compositional Statistical Model Checking for Safety Specifications**|Abhinav Pomalapally et.al.|[2610.05571](http://arxiv.org/abs/2610.05571)|null|
+|**2026-10-04**|**How corner is a corner case? Percentile control for highway scenario generation**|Jiaxi Liu et.al.|[2610.05003](http://arxiv.org/abs/2610.05003)|null|
+|**2026-10-04**|**Reflection-Robust 6DoF Object Tracking with Light Fields**|Nikolai Goncharov et.al.|[2610.04883](http://arxiv.org/abs/2610.04883)|null|
+|**2026-10-04**|**Awkernel: RTOS Bridging DAG Scheduling Theory and Component-Oriented Real-Time Systems Practice**|Atsushi Yano et.al.|[2610.04861](http://arxiv.org/abs/2610.04861)|null|
+|**2026-10-03**|**SelectOccFlow: Selective Spatiotemporal Aggregation for 3D Occupancy and Scene Flow Prediction**|Yuhang Wang et.al.|[2610.04356](http://arxiv.org/abs/2610.04356)|null|
+|**2026-10-03**|**Autoware in Construction: Gap Analysis and LiDAR Perception Toward Off-Road Autonomous Driving**|Yu Otsuki et.al.|[2610.04187](http://arxiv.org/abs/2610.04187)|null|
+|**2026-10-02**|**Towards Safer Autonomous Driving in an Open World: A Dual-Process Approach**|Simon Janssen et.al.|[2610.04088](http://arxiv.org/abs/2610.04088)|null|
+|**2026-10-02**|**Retrieval-Augmented Large Language Model Decision-Making for Autonomous Driving Guided by Chinese Philosophical Wisdom**|Xiaojun Bi et.al.|[2610.03948](http://arxiv.org/abs/2610.03948)|null|
 |**2026-10-02**|**TerrainForge: Physics-Grounded road geometry Editing for Counterfactual Autonomous Driving**|Yang Chen et.al.|[2610.02825](http://arxiv.org/abs/2610.02825)|null|
 |**2026-10-02**|**Localized Conformal Safety Monitoring with Vision-Language Models for Autonomous Driving**|Luís Marques et.al.|[2610.02765](http://arxiv.org/abs/2610.02765)|null|
 |**2026-10-02**|**SymRegFlow: Symmetry-Regularized Flow Matching for Video World Models**|Xi Ye et.al.|[2610.02726](http://arxiv.org/abs/2610.02726)|null|
@@ -5236,12 +5272,20 @@
 |**2019-09-18**|**A*3D Dataset: Towards Autonomous Driving in Challenging Environments**|Quang-Hieu Pham et.al.|[1909.07541](http://arxiv.org/abs/1909.07541)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
 
 ## Mamba
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-05**|**WaveGSSM: Graph Wave State Space Models for Propagating Spatio-Temporal Patterns**|Junyou Zhu et.al.|[2610.06540](http://arxiv.org/abs/2610.06540)|null|
+|**2026-10-05**|**MercerFlow: Flow Matching in a Kernel-Induced Latent Space for Probabilistic Forecasting**|Ilya Kuleshov et.al.|[2610.06039](http://arxiv.org/abs/2610.06039)|null|
+|**2026-10-05**|**Weave Mamba Fusion: Global Cross-Scale Interaction for Lightweight Face Detection**|Dohun Kim et.al.|[2610.05865](http://arxiv.org/abs/2610.05865)|null|
+|**2026-10-04**|**Bayesian Reconciliation of Overlapping Multi-Step Forecasts: A Post-Processing Framework for Cross-Origin Coherence**|Oluwatosin Bamidele Fajana et.al.|[2610.05340](http://arxiv.org/abs/2610.05340)|null|
+|**2026-10-04**|**Advectra: Asymmetric Latent Transport for Non-Stationary Physics**|Nodens Koren et.al.|[2610.05098](http://arxiv.org/abs/2610.05098)|null|
+|**2026-10-04**|**LogSig-SSM: Time-Series Modelling with Multi-Scale Log-Signature Compression for State-Space Models**|Felix Oury et.al.|[2610.05051](http://arxiv.org/abs/2610.05051)|null|
+|**2026-10-03**|**DreamTest: World-Model Surrogates for Search-Based Testing of Deep Reinforcement Learning Agents**|Qinghua Xu et.al.|[2610.04494](http://arxiv.org/abs/2610.04494)|null|
+|**2026-10-02**|**PhysMamba: Selective State Space Models as Learned Articulated Body Simulators**|Haochuan Zhang et.al.|[2610.04014](http://arxiv.org/abs/2610.04014)|null|
 |**2026-10-02**|**A New Index for Quantifying Stability Adaptation Effort in Power Electronics-Dominated Power Systems Based on Frequency-Domain Impedance Identification**|Luis A. Garcia-Reyes et.al.|[2610.03158](http://arxiv.org/abs/2610.03158)|null|
 |**2026-10-02**|**Bounded Reachability & Jailbreak Detection via Contraction-Constrained State Space Models**|Omanshu Thapliyal et.al.|[2610.02853](http://arxiv.org/abs/2610.02853)|null|
 |**2026-10-02**|**Distributed Learning with Selective State Space Models: Architecture-Aware Convergence Analysis**|Adam Piaseczny et.al.|[2610.02659](http://arxiv.org/abs/2610.02659)|null|
@@ -6452,5 +6496,5 @@
 |**2024-11-26**|**PointMamba: A Simple State Space Model for Point Cloud Analysis**|Dingkang Liang et.al.|[2402.10739](http://arxiv.org/abs/2402.10739)|**[link](https://github.com/LMD0311/PointMamba)**|
 |**2024-11-15**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|**[link](https://github.com/hustvl/Vim)**|
 
-<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
 
