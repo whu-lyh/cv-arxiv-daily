@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.09
+## Updated on 2026.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -1215,7 +1215,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-08**|**OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs**|You-Zhe Xie et.al.|[2610.12461](http://arxiv.org/abs/2610.12461)|null|
+|**2026-10-08**|**OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs**|You-Zhe Xie et.al.|[2610.12461](http://arxiv.org/abs/2610.12461)|**[link](https://github.com/youzhe0305/OuroWorld)**|
 |**2026-10-08**|**LVS: Local View Synthesis from Relative Camera Pose by Reusing Previous Views**|Qizhou Huo et.al.|[2610.12127](http://arxiv.org/abs/2610.12127)|null|
 |**2026-10-08**|**2DGS-Planner: Rasterization-based Path Planning in 2D Gaussian Splatting Map**|Jiwon Park et.al.|[2610.11752](http://arxiv.org/abs/2610.11752)|null|
 |**2026-10-08**|**PAM-ToD: Plug-and-Play Appearance Modeling for Cross-Time-of-Day 3D Gaussian Splatting**|Kota Shimomura et.al.|[2610.11572](http://arxiv.org/abs/2610.11572)|null|
