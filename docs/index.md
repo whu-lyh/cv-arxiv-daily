@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.16
+## Updated on 2026.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -1237,7 +1237,7 @@ layout: default
 |**2026-10-15**|**Anchor3DGS: Feed-Forward 3D Gaussian Splatting with Compact Anchor-Based Representation**|Sheng Ye et.al.|[2610.21634](http://arxiv.org/abs/2610.21634)|null|
 |**2026-10-15**|**Training-Free Target-Aware Refinement of 3D Gaussian Language Map**|Sibaek Lee et.al.|[2610.21619](http://arxiv.org/abs/2610.21619)|null|
 |**2026-10-15**|**ResStreamGS: Residual-Sensitive Dual-Stream Gaussian Splatting for Mobile Volumetric Video Streaming**|Haoran Liu et.al.|[2610.21121](http://arxiv.org/abs/2610.21121)|null|
-|**2026-10-15**|**Multimodal AI Detection for Math-Heavy Scientific Text**|Yixuan Huang et.al.|[2610.21062](http://arxiv.org/abs/2610.21062)|null|
+|**2026-10-15**|**Multimodal AI Detection for Math-Heavy Scientific Text**|Yixuan Huang et.al.|[2610.21062](http://arxiv.org/abs/2610.21062)|**[link](https://github.com/BensonH555/SnapJudge)**|
 |**2026-10-14**|**CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation**|Xiaoli Xu et.al.|[2610.20603](http://arxiv.org/abs/2610.20603)|null|
 |**2026-10-14**|**Feed-Forward Multi-View Feature Coding for 3D Gaussian Splatting**|Seungmi Choi et.al.|[2610.20590](http://arxiv.org/abs/2610.20590)|null|
 |**2026-10-14**|**Where Should the Gaussians Go? Reusable Label-Aware Allocation for Budget-Constrained Gaussian Splatting of Cinematic CT**|Bowen Xiang et.al.|[2610.20397](http://arxiv.org/abs/2610.20397)|null|
