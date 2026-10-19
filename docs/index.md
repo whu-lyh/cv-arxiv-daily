@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**Semantic-Critical Regions for Video-to-Audio Generation**|Yun Fang et.al.|[2610.23021](http://arxiv.org/abs/2610.23021)|null|
+|**2026-10-15**|**Stuck on Shuffle: On Attribute-Object Binding in Vision-Language Models**|Netanel Y. Tamir et.al.|[2610.22602](http://arxiv.org/abs/2610.22602)|null|
 |**2026-10-15**|**Mobility energetic balance frames spatial configuration of cities**|Federico Bellisardi et.al.|[2610.21558](http://arxiv.org/abs/2610.21558)|null|
 |**2026-10-15**|**Vision-Guided Closed-Loop Autonomous Navigation of Light-Driven Janus Microbots**|Kanhu Charan Andia et.al.|[2610.21222](http://arxiv.org/abs/2610.21222)|null|
 |**2026-10-14**|**GeoCloak: An Agentic Framework for Semantics-Preserving Geolocation Privacy via Peripheral Clue Manipulation**|Yixin Wu et.al.|[2610.20055](http://arxiv.org/abs/2610.20055)|null|
@@ -1230,6 +1232,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**X-Splat: Unified Gaussian Splatting for Joint RGB and X-ray 3D Reconstruction**|Wangze Xu et.al.|[2610.23237](http://arxiv.org/abs/2610.23237)|null|
+|**2026-10-16**|**Frame-Consistent Feed-Forward 3D Gaussian Splatting from Sparse Unposed Images**|Viruthshaan Vinasirajan et.al.|[2610.23039](http://arxiv.org/abs/2610.23039)|null|
+|**2026-10-16**|**Direct Conditional Parameterization for N-Dimensional Splatting**|Zhongpai Gao et.al.|[2610.22778](http://arxiv.org/abs/2610.22778)|null|
+|**2026-10-15**|**KFS $^4$ LAM: Adaptive KeyFrame Selection with Structure-Aware Mapping for Endoscopic Gaussian Splatting SLAM**|Xinwei Ju et.al.|[2610.22505](http://arxiv.org/abs/2610.22505)|null|
+|**2026-10-15**|**DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving**|Wei Wang et.al.|[2610.22450](http://arxiv.org/abs/2610.22450)|null|
 |**2026-10-15**|**Compression of Uniformly Distributed Unit Quaternions**|Carsten Faber et.al.|[2610.22052](http://arxiv.org/abs/2610.22052)|null|
 |**2026-10-15**|**Visual Sanad: Auditing Vision-Language Models for False Acceptance of Qur'anic Citations**|Niaz Mohaiman Abtahi et.al.|[2610.22009](http://arxiv.org/abs/2610.22009)|null|
 |**2026-10-15**|**Learning to Think and Explore in 3D World**|Yijiang Li et.al.|[2610.21783](http://arxiv.org/abs/2610.21783)|null|
@@ -3169,8 +3176,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**PanoBench: A Panoptic Occupancy Prediction Benchmark for Autonomous Driving**|Yi Feng et.al.|[2610.23537](http://arxiv.org/abs/2610.23537)|null|
+|**2026-10-16**|**STC-MGNet: Spatial-Temporal-Channel Attention-Enhanced Multimodal Graph Network for Pedestrian Intention Prediction**|Yuanzhe Li et.al.|[2610.23356](http://arxiv.org/abs/2610.23356)|null|
+|**2026-10-16**|**Expand-and-Prune: Test-Time Candidate-Space Adaptation for End-to-End Autonomous Driving**|Fabian Schmidt et.al.|[2610.23262](http://arxiv.org/abs/2610.23262)|null|
+|**2026-10-16**|**World Action Critic (WAC) Model: Joint Foresight and Criticism for Policy Learning**|Xiangteng Zhang et.al.|[2610.22825](http://arxiv.org/abs/2610.22825)|null|
+|**2026-10-16**|**STRIDE: Evaluating Spatiotemporal Reasoning in Driving Edge Cases**|Lieqi Liu et.al.|[2610.22795](http://arxiv.org/abs/2610.22795)|null|
+|**2026-10-15**|**DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving**|Wei Wang et.al.|[2610.22450](http://arxiv.org/abs/2610.22450)|null|
 |**2026-10-15**|**FutureLift: Lifting Trajectory Proposals into Bidirectional Future Graphs for Motion Forecasting**|Daniel Grimm et.al.|[2610.22215](http://arxiv.org/abs/2610.22215)|null|
-|**2026-10-15**|**FALCON: FPGA-Accelerated Latency-Certifiable Occupancy Networks for Camera-Based Autonomous Driving**|Haohua Que et.al.|[2610.22143](http://arxiv.org/abs/2610.22143)|null|
+|**2026-10-16**|**FALCON: FPGA-Accelerated Latency-Certifiable Occupancy Networks for Camera-Based Autonomous Driving**|Haohua Que et.al.|[2610.22143](http://arxiv.org/abs/2610.22143)|null|
 |**2026-10-15**|**GRID-Planner: Graph-Structured Relational Reward Shaping for Diffusion Planning**|Zhao Yang et.al.|[2610.21984](http://arxiv.org/abs/2610.21984)|null|
 |**2026-10-15**|**Learning Rewards in Strategic Games**|Antoine Bergerault et.al.|[2610.21912](http://arxiv.org/abs/2610.21912)|null|
 |**2026-10-15**|**SpaceCache: Intermediate Feature Reuse for Efficient Semantic Segmentation on Point Cloud Streams**|Dongheon Yang et.al.|[2610.21207](http://arxiv.org/abs/2610.21207)|null|
@@ -5413,6 +5426,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**GRAFT-EEG: Gauge-Aware Physical Field Transport for Cross-Dataset Motor-Imagery EEG**|Ying Zhou et.al.|[2610.23620](http://arxiv.org/abs/2610.23620)|null|
 |**2026-10-15**|**A perturbation theory for Feynman-Kac models and their particle interpretations**|Pierre Del Moral et.al.|[2610.21587](http://arxiv.org/abs/2610.21587)|null|
 |**2026-10-13**|**High-fidelity Three-Dimensional Flow Field Reconstruction Driven by Turbulent Fluid Dynamics**|Hanlin Kong et.al.|[2610.18045](http://arxiv.org/abs/2610.18045)|null|
 |**2026-10-13**|**FETALFusion: Resolution-Aware State-Space Modeling for Multi-Domain Fetal Head Segmentation**|Ammar Bhilwarawala et.al.|[2610.17951](http://arxiv.org/abs/2610.17951)|null|
