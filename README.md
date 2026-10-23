@@ -1267,8 +1267,8 @@
 |---|---|---|---|---|
 |**2026-10-22**|**RecallGS: Geometry-Grounded Recall for Online Semantic Gaussian Splatting**|Thanh-Khoi Nguyen et.al.|[2610.31293](http://arxiv.org/abs/2610.31293)|null|
 |**2026-10-22**|**H-2DGS: Height-Field Gaussian Splatting for Sharp and Deformable Neurosurgical Surface Reconstruction**|Zhang Zichuan et.al.|[2610.30910](http://arxiv.org/abs/2610.30910)|null|
-|**2026-10-21**|**SplatLab: Autonomous Scientific Discovery for 3DGS Research**|Seemandhar Jain et.al.|[2610.30468](http://arxiv.org/abs/2610.30468)|**[link](https://github.com/seemandhar/SplatLab)**|
-|**2026-10-21**|**R4DGS: Referring Segmentation in 4D Gaussian Splatting**|Bangpu Chen et.al.|[2610.30326](http://arxiv.org/abs/2610.30326)|**[link](https://github.com/chenbangpu/R4DGS)**|
+|**2026-10-21**|**SplatLab: Autonomous Scientific Discovery for 3DGS Research**|Seemandhar Jain et.al.|[2610.30468](http://arxiv.org/abs/2610.30468)|null|
+|**2026-10-21**|**R4DGS: Referring Segmentation in 4D Gaussian Splatting**|Bangpu Chen et.al.|[2610.30326](http://arxiv.org/abs/2610.30326)|null|
 |**2026-10-21**|**TerraTransfer++: Demonstration-Free End-to-End Planner**|Zikang Xiong et.al.|[2610.30319](http://arxiv.org/abs/2610.30319)|null|
 |**2026-10-21**|**ClunoGS: Compact Language 3D Gaussian Splatting via Unified Optimization**|Jian Xu et.al.|[2610.30013](http://arxiv.org/abs/2610.30013)|null|
 |**2026-10-21**|**AirPlayground: Benchmarking Aerial Navigation across Diverse Reconstructed Environments**|Rangya Zhang et.al.|[2610.29699](http://arxiv.org/abs/2610.29699)|null|
