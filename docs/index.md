@@ -2,16 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.10.22
+## Updated on 2026.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model**|Xinyang Lu et.al.|[2610.31321](http://arxiv.org/abs/2610.31321)|null|
+|**2026-10-22**|**WovenAnchor Matcher: Specialized Intra- and Inter-Image Context Modeling for Feature Matching**|Zhiyang Li et.al.|[2610.30799](http://arxiv.org/abs/2610.30799)|null|
+|**2026-10-21**|**Not Where You Think: Protecting Location Privacy Against Reasoning-Based Geolocation**|Shanghao Shi et.al.|[2610.30439](http://arxiv.org/abs/2610.30439)|null|
 |**2026-10-21**|**Through the Looking Glass: Analyzing Geolocation Providers Using Looking Glasses and Active Measurements**|William Leung et.al.|[2610.29660](http://arxiv.org/abs/2610.29660)|null|
 |**2026-10-20**|**Copyright Leakage Detection in AI Generated Videos**|Shaif Chowdhury et.al.|[2610.28524](http://arxiv.org/abs/2610.28524)|null|
-|**2026-10-20**|**Multimodal Reranking Is a System One Decision**|Zhuchenyang Liu et.al.|[2610.28435](http://arxiv.org/abs/2610.28435)|**[link](https://github.com/Ryenhails/rerank-as-decision)**|
+|**2026-10-20**|**Multimodal Reranking Is a System One Decision**|Zhuchenyang Liu et.al.|[2610.28435](http://arxiv.org/abs/2610.28435)|null|
 |**2026-10-20**|**Turning-Point Impact Compromises the Biomechanical Integrity of Cortical Bone during Oscillating Sawing**|Han Wang et.al.|[2610.28234](http://arxiv.org/abs/2610.28234)|null|
 |**2026-10-20**|**Less is More: Concise Retrieval and Critic-based Re-ranking for Composed Image Retrieval**|Yuqian Zheng et.al.|[2610.27538](http://arxiv.org/abs/2610.27538)|null|
 |**2026-10-20**|**OmniVLoc: Topo-metric Visual Localization for Omnidirectional Cameras**|Zhuo Yu et.al.|[2610.27522](http://arxiv.org/abs/2610.27522)|null|
@@ -1248,6 +1251,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**RecallGS: Geometry-Grounded Recall for Online Semantic Gaussian Splatting**|Thanh-Khoi Nguyen et.al.|[2610.31293](http://arxiv.org/abs/2610.31293)|null|
+|**2026-10-22**|**H-2DGS: Height-Field Gaussian Splatting for Sharp and Deformable Neurosurgical Surface Reconstruction**|Zhang Zichuan et.al.|[2610.30910](http://arxiv.org/abs/2610.30910)|null|
+|**2026-10-21**|**SplatLab: Autonomous Scientific Discovery for 3DGS Research**|Seemandhar Jain et.al.|[2610.30468](http://arxiv.org/abs/2610.30468)|**[link](https://github.com/seemandhar/SplatLab)**|
+|**2026-10-21**|**R4DGS: Referring Segmentation in 4D Gaussian Splatting**|Bangpu Chen et.al.|[2610.30326](http://arxiv.org/abs/2610.30326)|**[link](https://github.com/chenbangpu/R4DGS)**|
+|**2026-10-21**|**TerraTransfer++: Demonstration-Free End-to-End Planner**|Zikang Xiong et.al.|[2610.30319](http://arxiv.org/abs/2610.30319)|null|
 |**2026-10-21**|**ClunoGS: Compact Language 3D Gaussian Splatting via Unified Optimization**|Jian Xu et.al.|[2610.30013](http://arxiv.org/abs/2610.30013)|null|
 |**2026-10-21**|**AirPlayground: Benchmarking Aerial Navigation across Diverse Reconstructed Environments**|Rangya Zhang et.al.|[2610.29699](http://arxiv.org/abs/2610.29699)|null|
 |**2026-10-21**|**Scaling Multilingual Pretraining of Pixel Language Models**|Ilker Kesen et.al.|[2610.29681](http://arxiv.org/abs/2610.29681)|null|
@@ -1256,7 +1264,7 @@ layout: default
 |**2026-10-20**|**Real2Sem2Real: 3D Semantic Augmentations for Robot Learning from a Single Human RGB Demonstration**|Matthew Strong et.al.|[2610.28880](http://arxiv.org/abs/2610.28880)|null|
 |**2026-10-20**|**AEON: Unifying Video and 3D World Models**|Weiqi Zhang et.al.|[2610.28631](http://arxiv.org/abs/2610.28631)|null|
 |**2026-10-20**|**KoalaGS: Complexity-Aware Continuous Level of Detail for Gaussian Splatting**|Radu Beche et.al.|[2610.28615](http://arxiv.org/abs/2610.28615)|null|
-|**2026-10-20**|**Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection**|Changrui Zhu et.al.|[2610.28490](http://arxiv.org/abs/2610.28490)|null|
+|**2026-10-21**|**Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection**|Changrui Zhu et.al.|[2610.28490](http://arxiv.org/abs/2610.28490)|null|
 |**2026-10-20**|**CrossFit-GS: Out-of-Fold Pose Estimation for COLMAP-Free 3D Gaussian Splatting**|Zijian Wu et.al.|[2610.28190](http://arxiv.org/abs/2610.28190)|null|
 |**2026-10-20**|**OV-Foam: How 3D Representations Shape Semantic Feature Lifting**|Yousef Rajeh et.al.|[2610.28131](http://arxiv.org/abs/2610.28131)|null|
 |**2026-10-20**|**Differentiable Task-Driven Coded Aperture Camera Design with 3D Gaussian Scene Representations**|Chengyang Yan et.al.|[2610.28004](http://arxiv.org/abs/2610.28004)|null|
@@ -3221,6 +3229,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**RaSFNet: Ray-aligned and Scan-aware Fusion Network for LiDAR Semantic Segmentation**|Chuang Chen et.al.|[2610.31186](http://arxiv.org/abs/2610.31186)|null|
+|**2026-10-22**|**Measuring the Reasoning-Action Coupling in Driving Vision-Language-Action Models through Counterfactuals**|Gabriel Manalu et.al.|[2610.30953](http://arxiv.org/abs/2610.30953)|null|
+|**2026-10-22**|**Causal Analysis of Failures of Cyber-Physical Systems with Continuous Inputs**|Tom Yaacov et.al.|[2610.30737](http://arxiv.org/abs/2610.30737)|null|
+|**2026-10-21**|**Integrated Longitudinal and Lateral Control for High-Speed Platooning of Articulated Vehicles**|Aashish Shaju et.al.|[2610.30437](http://arxiv.org/abs/2610.30437)|null|
+|**2026-10-21**|**TerraTransfer++: Demonstration-Free End-to-End Planner**|Zikang Xiong et.al.|[2610.30319](http://arxiv.org/abs/2610.30319)|null|
 |**2026-10-21**|**FaultGene: LLM-Assisted Fault-Augmented Test Generation for Hardware-in-the-Loop Validation of Autonomous Driving Systems**|Chaoran Yuan et.al.|[2610.29969](http://arxiv.org/abs/2610.29969)|null|
 |**2026-10-21**|**DriveMLP: When Training Strategy Outperforms Model Complexity in Autonomous Driving**|Alessandro Canevaro et.al.|[2610.29676](http://arxiv.org/abs/2610.29676)|null|
 |**2026-10-21**|**FogTTA: Online Test-Time Adaptation for Robust Transformer-based Object Detection in Foggy Weather**|Ali Abedi et.al.|[2610.29618](http://arxiv.org/abs/2610.29618)|null|
@@ -5487,6 +5500,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**Transfer Meta-Learning for State Space Autoencoders**|Stefano De Carli et.al.|[2610.31318](http://arxiv.org/abs/2610.31318)|null|
+|**2026-10-22**|**Mixing Matters: Evidence Position Bias Across Sequence Mixers in Long-Context Question Answering**|Aman Behera et.al.|[2610.31135](http://arxiv.org/abs/2610.31135)|null|
+|**2026-10-22**|**Future of Time Series Anomaly Detection: From Historical Review to Unified Outlook**|Zhijie Zhong et.al.|[2610.30628](http://arxiv.org/abs/2610.30628)|null|
 |**2026-10-21**|**Mamba Quantum Eigensolver (MQE): A Selective State Space Model for Scalable Ground State Simulations in Quantum Chemistry**|G. X. A. Petronilo et.al.|[2610.29779](http://arxiv.org/abs/2610.29779)|null|
 |**2026-10-20**|**SSMCGM-Stream: A Streaming State-Space Model for Personalized Diabetes Management**|Shakson Isaac et.al.|[2610.28976](http://arxiv.org/abs/2610.28976)|null|
 |**2026-10-20**|**Understanding the Inner Workings of a State-Space Foundation Model for Limit Order Books**|Valentin Mohl et.al.|[2610.28753](http://arxiv.org/abs/2610.28753)|null|
