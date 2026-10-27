@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.10.26
+## Updated on 2026.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**VPR-Space: A Benchmark for Visual Place Recognition in Space Analog Domains**|Richard Fechner et.al.|[2610.35642](http://arxiv.org/abs/2610.35642)|null|
+|**2026-10-24**|**AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos**|Yuesheng Huang et.al.|[2610.33413](http://arxiv.org/abs/2610.33413)|null|
 |**2026-10-23**|**FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation**|Philipp Lindenberger et.al.|[2610.32976](http://arxiv.org/abs/2610.32976)|**[link](https://github.com/cvg/FlexGlue)**|
 |**2026-10-23**|**From Perception to Pixels: Human-Derived Visually Distinct Colors for Improved Dominant Color Extraction**|Uldana Shyndali et.al.|[2610.32473](http://arxiv.org/abs/2610.32473)|null|
 |**2026-10-23**|**GeoLEON-CLIP: Graph-Anchored Multimodal Contrastive Learning for Geographic Region Representation**|Radoslaw Malek et.al.|[2610.32311](http://arxiv.org/abs/2610.32311)|null|
@@ -1256,6 +1258,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**VidEdit3D: Flexible 3D Gaussian Editing with Video Diffusion**|Yanming Yang et.al.|[2610.35756](http://arxiv.org/abs/2610.35756)|null|
+|**2026-10-26**|**Robot-Aligned 3D Gaussian Splatting for Precise Reaching with Wrist-Camera VLA Policies**|Zuoxu Wang et.al.|[2610.35626](http://arxiv.org/abs/2610.35626)|null|
+|**2026-10-26**|**SG-Splat: Stable Geometry Learning under Pose Uncertainty for Pose-Free 3D Gaussian Splatting**|Xiaohan Lu et.al.|[2610.35361](http://arxiv.org/abs/2610.35361)|null|
+|**2026-10-26**|**CVTSplat: Multi-view Reconstruction Using an Adaptive Centroidal Voronoi Tessellation**|Briac Toussaint et.al.|[2610.35347](http://arxiv.org/abs/2610.35347)|null|
+|**2026-10-26**|**GaussianSpline: Adaptive Bézier Splines for Highly Dynamic 4D Gaussian Splatting**|Tom Yachil et.al.|[2610.35224](http://arxiv.org/abs/2610.35224)|null|
+|**2026-10-26**|**Complexity-guided Regularization for Generalizable Human Gaussian Splatting**|Gun Ryu et.al.|[2610.35152](http://arxiv.org/abs/2610.35152)|null|
+|**2026-10-26**|**DUET4D: Self-Corrective Coupled Guidance for Sparse-View 4D Reconstruction**|Beizhen Zhao et.al.|[2610.35002](http://arxiv.org/abs/2610.35002)|null|
+|**2026-10-26**|**SceneAgent: An Agentic Pipeline from 3D and 4D Captures to Simulation Environments**|Luke Hollis et.al.|[2610.34745](http://arxiv.org/abs/2610.34745)|null|
+|**2026-10-25**|**RIDE-Splat: Reflection Removal for In-the-Wild Driving Environments**|Kevin David Hayes et.al.|[2610.34632](http://arxiv.org/abs/2610.34632)|null|
+|**2026-10-25**|**Birth-Death Structural Learning for 3D Gaussian Splatting**|Quan Tran Hong et.al.|[2610.34344](http://arxiv.org/abs/2610.34344)|null|
+|**2026-10-25**|**RacerGS: Residual-Autoregressive Context for 3D Gaussian Splatting Compression**|Wenqing Wang et.al.|[2610.34263](http://arxiv.org/abs/2610.34263)|null|
+|**2026-10-25**|**ParetoGS: High-Quality Continuous-Budget 3D Gaussian Splatting with Sparse Adapted Anchors**|Xiaobin Deng et.al.|[2610.34235](http://arxiv.org/abs/2610.34235)|null|
+|**2026-10-25**|**BoundedGS: Memory-Efficient High-Resolution Training for 3D Gaussian Splatting**|Xiaobin Deng et.al.|[2610.34233](http://arxiv.org/abs/2610.34233)|null|
+|**2026-10-25**|**LegoOcc++: Towards Consistent Open-Vocabulary 3D Occupancy Prediction**|Changqing Zhou et.al.|[2610.34093](http://arxiv.org/abs/2610.34093)|null|
+|**2026-10-25**|**A Pythagoras Tree Grown from a Dodecahedron**|Miguel Esteban Pérez Ibarra et.al.|[2610.33975](http://arxiv.org/abs/2610.33975)|null|
+|**2026-10-24**|**RelateGS: Reliable Semantic and Relational Evidence for 3D Scene Understanding with Gaussian Splatting**|Seongjun Choi et.al.|[2610.33868](http://arxiv.org/abs/2610.33868)|null|
+|**2026-10-23**|**Gaussian Episodic Memory for Long-Term Spatiotemporal Reasoning**|Ling-Chia Chen et.al.|[2610.33158](http://arxiv.org/abs/2610.33158)|null|
 |**2026-10-23**|**RADIANT: Object-Centric Feed-Forward Global Illumination**|Sarah Zhang et.al.|[2610.32075](http://arxiv.org/abs/2610.32075)|null|
 |**2026-10-22**|**RecallGS: Geometry-Grounded Recall for Online Semantic Gaussian Splatting**|Thanh-Khoi Nguyen et.al.|[2610.31293](http://arxiv.org/abs/2610.31293)|null|
 |**2026-10-22**|**H-2DGS: Height-Field Gaussian Splatting for Sharp and Deformable Neurosurgical Surface Reconstruction**|Zhang Zichuan et.al.|[2610.30910](http://arxiv.org/abs/2610.30910)|null|
@@ -3235,10 +3254,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**OSWAM: An Effective World Action Model with One-Step Action Generation**|Guowen Zhang et.al.|[2610.35850](http://arxiv.org/abs/2610.35850)|null|
+|**2026-10-26**|**Revisiting Direct Control: A Field Evaluation of Sensor Fusion Efficacy in Teleoperating Full-Scale Autonomous Vehicles via Bird's Eye View**|Stanisław Kuczma et.al.|[2610.35630](http://arxiv.org/abs/2610.35630)|null|
+|**2026-10-26**|**Sparse Recovery Bird's-Eye View Model Soup for Robust Camera-Based 3D Object Detection**|Jinwoo Chung et.al.|[2610.34976](http://arxiv.org/abs/2610.34976)|null|
+|**2026-10-26**|**Adaptive Probe Design for Auditing AI Agents**|Zhenghan Li et.al.|[2610.34751](http://arxiv.org/abs/2610.34751)|null|
+|**2026-10-26**|**RSKD: Grounding Semantic Consistency in Driving VLMs via Distillation**|Chuchu Xie et.al.|[2610.34689](http://arxiv.org/abs/2610.34689)|null|
+|**2026-10-25**|**IntNet: A Communication-Driven Multi-Agent Reinforcement Learning Framework for Cooperative Autonomous Driving**|Leandro Parada et.al.|[2610.34466](http://arxiv.org/abs/2610.34466)|null|
+|**2026-10-24**|**C-DFF: Concept-Level Diagnostics for Mechanism Parity in Simulation-Based Validation of Autonomous Driving Perception**|Danial Safaei et.al.|[2610.33760](http://arxiv.org/abs/2610.33760)|null|
+|**2026-10-24**|**Road Infrastructure Perception for Autonomous Driving: Taxonomy, Representations, Tasks, and Challenges**|Guoyang Zhao et.al.|[2610.33758](http://arxiv.org/abs/2610.33758)|null|
+|**2026-10-24**|**FreqPKC: Frequency-Aware PeakConv for Radar Semantic Segmentation**|Yangyong Deng et.al.|[2610.33504](http://arxiv.org/abs/2610.33504)|null|
+|**2026-10-24**|**Dephasing-powered open quantum-dot battery**|Alok Nath Singh et.al.|[2610.33408](http://arxiv.org/abs/2610.33408)|null|
 |**2026-10-23**|**Robust Offset-Free Lane-Keeping Control Framework for Vision-Only Automated Vehicles**|Der-Hau Lee et.al.|[2610.32666](http://arxiv.org/abs/2610.32666)|null|
-|**2026-10-23**|**DriveOSS: Dataset and Benchmark for 3D Anomaly Segmentation and Open-set Semantic Segmentation in Autonomous Driving**|Zhiran Yan et.al.|[2610.32612](http://arxiv.org/abs/2610.32612)|**[link](https://github.com/chrisyan/DriveOSS)**|
+|**2026-10-23**|**DriveOSS: Dataset and Benchmark for 3D Anomaly Segmentation and Open-set Semantic Segmentation in Autonomous Driving**|Zhiran Yan et.al.|[2610.32612](http://arxiv.org/abs/2610.32612)|null|
 |**2026-10-23**|**Towards Effective and Transferable Physical Camouflage against Multi-View BEV-based 3D Perception in Autonomous Driving**|Linye Lyu et.al.|[2610.32230](http://arxiv.org/abs/2610.32230)|null|
-|**2026-10-23**|**DriveMind: Mind-Evolving Belief Tracking for Closed-Loop Autonomous Driving**|Yan Shi et.al.|[2610.32069](http://arxiv.org/abs/2610.32069)|**[link](https://github.com/shiyannacl/drivemind)**|
+|**2026-10-23**|**DriveMind: Mind-Evolving Belief Tracking for Closed-Loop Autonomous Driving**|Yan Shi et.al.|[2610.32069](http://arxiv.org/abs/2610.32069)|null|
 |**2026-10-22**|**RaSFNet: Ray-aligned and Scan-aware Fusion Network for LiDAR Semantic Segmentation**|Chuang Chen et.al.|[2610.31186](http://arxiv.org/abs/2610.31186)|null|
 |**2026-10-22**|**Measuring the Reasoning-Action Coupling in Driving Vision-Language-Action Models through Counterfactuals**|Gabriel Manalu et.al.|[2610.30953](http://arxiv.org/abs/2610.30953)|null|
 |**2026-10-22**|**Causal Analysis of Failures of Cyber-Physical Systems with Continuous Inputs**|Tom Yaacov et.al.|[2610.30737](http://arxiv.org/abs/2610.30737)|null|
@@ -5510,6 +5539,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**LayoutMamba: Efficient Document Layout Analysis with Hybrid Mamba-Transformer Networks**|Kehua Chen et.al.|[2610.34879](http://arxiv.org/abs/2610.34879)|null|
+|**2026-10-25**|**Higher-Order Marginal Likelihood Approximation for Nonlinear State Space Models**|Joshua C. C. Chan et.al.|[2610.34629](http://arxiv.org/abs/2610.34629)|null|
+|**2026-10-25**|**Model-Uncertainty-Aware Digital Twins for Non-Markovian Quantum Repeater Memories**|Muhammad Waqas Haseeb et.al.|[2610.34506](http://arxiv.org/abs/2610.34506)|null|
+|**2026-10-25**|**Self-Supervised Passive WiFi CSI-Based Motion Tracking with Physics-Informed Deep SSM**|Yifan Feng et.al.|[2610.34082](http://arxiv.org/abs/2610.34082)|null|
+|**2026-10-25**|**Hybrid Mamba-Transformer Network for Single-Shot 3D Reconstruction from Fringe Patterns**|Xinjie Zhou et.al.|[2610.33988](http://arxiv.org/abs/2610.33988)|null|
+|**2026-10-24**|**Real-Time Human Trajectory Prediction from RGB-D for Mobile Robots Using Bi-Mamba**|Basheer Al-Tawil et.al.|[2610.33916](http://arxiv.org/abs/2610.33916)|null|
+|**2026-10-24**|**Five Architectures, One Shared Space Cross-Model Representational Alignment Without Weight Merging**|Oladimeji Anthonio et.al.|[2610.33495](http://arxiv.org/abs/2610.33495)|null|
+|**2026-10-23**|**A Gaussian Process State Space Formulation for Materials Constitutive Modeling: Application to Quasi-brittle Materials**|Houlin Xu et.al.|[2610.33175](http://arxiv.org/abs/2610.33175)|null|
 |**2026-10-22**|**Transfer Meta-Learning for State Space Autoencoders**|Stefano De Carli et.al.|[2610.31318](http://arxiv.org/abs/2610.31318)|null|
 |**2026-10-22**|**Mixing Matters: Evidence Position Bias Across Sequence Mixers in Long-Context Question Answering**|Aman Behera et.al.|[2610.31135](http://arxiv.org/abs/2610.31135)|null|
 |**2026-10-22**|**Future of Time Series Anomaly Detection: From Historical Review to Unified Outlook**|Zhijie Zhong et.al.|[2610.30628](http://arxiv.org/abs/2610.30628)|null|
