@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-30**|**PGGT-Loc: Primitive-Grounded Geometry Transformer for Feed-Forward Camera Localization**|Hanqiao Ye et.al.|[2610.41833](http://arxiv.org/abs/2610.41833)|null|
+|**2026-10-30**|**Queryable Gaussian View Index: Text Retrieval and Selective Camera Localization**|Tianyu Xiong et.al.|[2610.41373](http://arxiv.org/abs/2610.41373)|null|
+|**2026-10-29**|**Coupled or Independent? Fault Coupling in Agentic Medical Vision Systems**|Nishi Kanta Paul et.al.|[2610.40913](http://arxiv.org/abs/2610.40913)|null|
 |**2026-10-29**|**FDSML: Formula-Driven Supervised Metric Learning with Parameter-Aware Triplet Loss**|Hina Otake et.al.|[2610.39423](http://arxiv.org/abs/2610.39423)|null|
 |**2026-10-27**|**What Constitutes Food Similarity? Visual Representations and Retrieval in Indian Cuisine**|Saransh Kumar Gupta et.al.|[2610.37867](http://arxiv.org/abs/2610.37867)|null|
 |**2026-10-27**|**RAVEN: A Unified Active SLAM System for Rapid Autonomous Visual Exploration with Aerial Robots under Localization Uncertainty**|Xinyi Chen et.al.|[2610.37111](http://arxiv.org/abs/2610.37111)|null|
@@ -1067,7 +1070,7 @@
 |**2026-05-04**|**EdgeLPR: On the Deep Neural Network trade-off between Precision and Performance in LiDAR Place Recognition**|Pierpaolo Serio et.al.|[2605.02275](http://arxiv.org/abs/2605.02275)|null|
 |**2026-04-02**|**Riemannian and Symplectic Geometry for Hierarchical Text-Driven Place Recognition**|Tianyi Shang et.al.|[2604.01598](http://arxiv.org/abs/2604.01598)|null|
 |**2026-03-16**|**Voronoi-based Second-order Descriptor with Whitened Metric in LiDAR Place Recognition**|Jaein Kim et.al.|[2603.14974](http://arxiv.org/abs/2603.14974)|null|
-|**2026-06-15**|**RLPR: Radar-to-LiDAR Place Recognition via Two-Stage Asymmetric Cross-Modal Alignment for Autonomous Driving**|Zhangshuo Qi et.al.|[2603.07920](http://arxiv.org/abs/2603.07920)|**[link](https://github.com/QiZS-BIT/RLPR)**|
+|**2026-06-15**|**RLPR: Radar-to-LiDAR Place Recognition via Two-Stage Asymmetric Cross-Modal Alignment for Autonomous Driving**|Zhangshuo Qi et.al.|[2603.07920](http://arxiv.org/abs/2603.07920)|null|
 |**2026-06-30**|**PROBE: Probabilistic Occupancy BEV Encoding with Analytical Translation Robustness for 3D Place Recognition**|Jinseop Lee et.al.|[2603.05965](http://arxiv.org/abs/2603.05965)|null|
 |**2026-01-29**|**Advanced techniques and applications of LiDAR Place Recognition in Agricultural Environments: A Comprehensive Survey**|Judith Vilella-Cantos et.al.|[2601.22198](http://arxiv.org/abs/2601.22198)|null|
 |**2026-04-22**|**Low Cost, High Efficiency: LiDAR Place Recognition in Vineyards with Matryoshka Representation Learning**|Judith Vilella-Cantos et.al.|[2601.18714](http://arxiv.org/abs/2601.18714)|null|
@@ -1275,6 +1278,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-30**|**DrawSplat: Atlanta World-Guided Implicit Gaussian SLAM for Indoor Reconstruction**|Fan Zhu et.al.|[2610.41602](http://arxiv.org/abs/2610.41602)|null|
+|**2026-10-29**|**Prior-Guided Single-Exposure HDR Novel View Synthesis via Base-Gain Representation**|Armin Shafiee Sarvestani et.al.|[2610.41011](http://arxiv.org/abs/2610.41011)|null|
+|**2026-10-29**|**AquaProbe: Efficient Adaptation of Frozen Vision Models for Underwater Images**|Md Shihabul Islam Shovo et.al.|[2610.40900](http://arxiv.org/abs/2610.40900)|null|
 |**2026-10-29**|**ACD-GS: Asymmetric Curvature-aware Densification for 3D Gaussian Splatting**|Houqiang Zhong et.al.|[2610.39399](http://arxiv.org/abs/2610.39399)|null|
 |**2026-10-29**|**P^2-Gaussian: Prior-Driven and Projection-Guided Gaussian Splatting for Sparse-View Cone-Beam CT Reconstruction**|Jinqiu Xia et.al.|[2610.39359](http://arxiv.org/abs/2610.39359)|null|
 |**2026-10-29**|**COGS: A Diagnostic Benchmark for Attribute-Aware Object-Level 3D Gaussian Splatting Perception**|Zheng Xiao et.al.|[2610.39201](http://arxiv.org/abs/2610.39201)|null|
@@ -3289,6 +3295,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-30**|**ObjectGuidedMap: An Object-Aware Model for Robust Bird's Eye View Map Prediction in High-Occlusion Scenarios**|Christian Bohn et.al.|[2610.41834](http://arxiv.org/abs/2610.41834)|null|
+|**2026-10-30**|**Mechanistic Interpretability for End-to-End Self-Driving**|Manav Gagvani et.al.|[2610.41185](http://arxiv.org/abs/2610.41185)|null|
+|**2026-10-29**|**Let LiDAR Decide Where to Look: Geometry-Measured Token Selection for Efficient Sparse Latent World Models**|Zeping Zhang et.al.|[2610.40935](http://arxiv.org/abs/2610.40935)|null|
 |**2026-10-29**|**A Unified Benchmark for Aerial-Enhanced Autonomous Driving: The KITScenes Aerial Dataset**|Daniel Lengerer et.al.|[2610.40455](http://arxiv.org/abs/2610.40455)|null|
 |**2026-10-29**|**Nonequilibrium statistical thermodynamics of a small quantum system coupled to quantum reservoirs**|Jeremy Schofield et.al.|[2610.39973](http://arxiv.org/abs/2610.39973)|null|
 |**2026-10-29**|**LiDAR-SHIELD: A Fully Dockerized Adversarial Robustness Assessment Framework for LiDAR-Based 3D Perception Models**|Alexandros Gkillas et.al.|[2610.39848](http://arxiv.org/abs/2610.39848)|null|
@@ -5585,6 +5594,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-30**|**Fuzzy selective state model for forecasting the dynamics of consumer preferences**|P. A. Golovinski et.al.|[2610.41879](http://arxiv.org/abs/2610.41879)|null|
+|**2026-10-30**|**Dynamical Memory Transformer: Selective Recurrent Memories with Constant Cost Attention**|Yannis Bendi-Ouis et.al.|[2610.41850](http://arxiv.org/abs/2610.41850)|null|
+|**2026-10-29**|**TensorSSM: Memorizing Spatial Position in Dynamic State Space for Tensor Core Generation**|Sheng Zhang et.al.|[2610.40871](http://arxiv.org/abs/2610.40871)|null|
 |**2026-10-29**|**Morphology-Aware Channel-Decoupled Mamba Network for Medical Image Segmentation**|Chenchen Wang et.al.|[2610.40085](http://arxiv.org/abs/2610.40085)|null|
 |**2026-10-29**|**Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation**|Chenchen Wang et.al.|[2610.40029](http://arxiv.org/abs/2610.40029)|null|
 |**2026-10-29**|**Modeling and Parametrization of Large-scale Hydrogen Electrolyzers for Transient and Frequency Stability Analysis**|Mahmoud K. Abdelhamid et.al.|[2610.39819](http://arxiv.org/abs/2610.39819)|null|
