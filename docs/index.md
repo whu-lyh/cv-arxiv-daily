@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -272,7 +272,7 @@ layout: default
 |**2026-06-04**|**Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation**|Yohann Benchetrit et.al.|[2606.06345](http://arxiv.org/abs/2606.06345)|null|
 |**2026-06-03**|**CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation**|Yurim Jeon et.al.|[2606.05011](http://arxiv.org/abs/2606.05011)|null|
 |**2026-06-03**|**Z-FLoc: Zero-Shot Floorplan Localization via Geometric Primitives**|Ayumi Umemura et.al.|[2606.04788](http://arxiv.org/abs/2606.04788)|null|
-|**2026-06-03**|**COMBINER: Composed Image Retrieval Guided by Attribute-based Neighbor Relations**|Zixu Li et.al.|[2606.04604](http://arxiv.org/abs/2606.04604)|null|
+|**2026-06-03**|**COMBINER: Composed Image Retrieval Guided by Attribute-based Neighbor Relations**|Zixu Li et.al.|[2606.04604](http://arxiv.org/abs/2606.04604)|**[link](https://github.com/iLearn-Lab/TIP26-COMBINER)**|
 |**2026-06-02**|**Pinpoint: Grounded Worldwide Image Geolocation via Cross-Source Retrieval and Reranking**|Nika Chuzhoy et.al.|[2606.04133](http://arxiv.org/abs/2606.04133)|null|
 |**2026-06-02**|**Mixed-Modality Dual Face-Hair Retrieval**|Quoc-Anh Bui-Huynh et.al.|[2606.03470](http://arxiv.org/abs/2606.03470)|null|
 |**2026-06-02**|**SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching**|Xu Pan et.al.|[2606.03406](http://arxiv.org/abs/2606.03406)|**[link](https://github.com/TwSphinx54/SAMatcher)**|
@@ -1694,7 +1694,7 @@ layout: default
 |**2026-08-06**|**ESVR: 3D Ellipsoid-based Sparse Volume Rendering via Structure-aware Primitive Learning and Per-primitive Ray Sampling**|Suemin Jeon et.al.|[2608.05564](http://arxiv.org/abs/2608.05564)|null|
 |**2026-08-06**|**CDSeg: A Renderable Gaussian Carrier for Image-to-3D Label Transfer**|Wentao Sun et.al.|[2608.05482](http://arxiv.org/abs/2608.05482)|null|
 |**2026-08-05**|**PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads**|Ao Fu et.al.|[2608.05218](http://arxiv.org/abs/2608.05218)|null|
-|**2026-08-06**|**Objects as Audio-Visual Modal Sound Fields**|Zisen Shao et.al.|[2608.05145](http://arxiv.org/abs/2608.05145)|null|
+|**2026-08-06**|**Objects as Audio-Visual Modal Sound Fields**|Zisen Shao et.al.|[2608.05145](http://arxiv.org/abs/2608.05145)|**[link](https://github.com/ZisenShao/AV-MSF)**|
 |**2026-08-05**|**RORA: Realistic Object Reconstruction with Articulation**|Hyesung Lee et.al.|[2608.04842](http://arxiv.org/abs/2608.04842)|null|
 |**2026-08-05**|**UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models**|Haiyang Zhou et.al.|[2608.04701](http://arxiv.org/abs/2608.04701)|null|
 |**2026-08-05**|**ACA-GS: Adaptive-Capacity Anchored Gaussian Splatting for Compact Dynamic Radiance Fields**|Seunghyeon Song et.al.|[2608.04581](http://arxiv.org/abs/2608.04581)|null|
@@ -2195,7 +2195,7 @@ layout: default
 |**2026-04-21**|**OT-UVGS: Revisiting UV Mapping for Gaussian Splatting as a Capacity Allocation Problem**|Byunghyun Kim et.al.|[2604.19127](http://arxiv.org/abs/2604.19127)|null|
 |**2026-04-21**|**AdaGScale: Viewpoint-Adaptive Gaussian Scaling in 3D Gaussian Splatting to Reduce Gaussian-Tile Pairs**|Joongho Jo et.al.|[2604.18980](http://arxiv.org/abs/2604.18980)|null|
 |**2026-04-20**|**A Comparative Evaluation of Geometric Accuracy in NeRF and Gaussian Splatting**|Mikolaj Zielinski et.al.|[2604.18205](http://arxiv.org/abs/2604.18205)|null|
-|**2026-04-20**|**Multiplication in Multimodal LLMs: Computation with Text, Image, and Audio Inputs**|Samuel G. Balter et.al.|[2604.18203](http://arxiv.org/abs/2604.18203)|null|
+|**2026-04-20**|**Multiplication in Multimodal LLMs: Computation with Text, Image, and Audio Inputs**|Samuel G. Balter et.al.|[2604.18203](http://arxiv.org/abs/2604.18203)|**[link](https://github.com/cjerzak/llm-multimodal-math)**|
 |**2026-04-20**|**GS-STVSR: Ultra-Efficient Continuous Spatio-Temporal Video Super-Resolution via 2D Gaussian Splatting**|Mingyu Shi et.al.|[2604.18047](http://arxiv.org/abs/2604.18047)|null|
 |**2026-04-23**|**E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes**|Koya Sakamoto et.al.|[2604.17969](http://arxiv.org/abs/2604.17969)|null|
 |**2026-04-20**|**Voronoi-guided Bilateral 2D Gaussian Splatting for Arbitrary-Scale Hyperspectral Image Super-Resolution**|Jie Zhang et.al.|[2604.17727](http://arxiv.org/abs/2604.17727)|null|
@@ -3621,7 +3621,7 @@ layout: default
 |**2026-08-22**|**Multi-Agent Orchestration with the Common-Sense Reasoning Capabilities of LLMs for Autonomous Driving**|Mehdi Azarafza et.al.|[2608.20129](http://arxiv.org/abs/2608.20129)|null|
 |**2026-08-20**|**Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms**|Yanchen Guan et.al.|[2608.20111](http://arxiv.org/abs/2608.20111)|null|
 |**2026-08-20**|**G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via Knowledge Graphs**|Bhavya Gupta et.al.|[2608.19964](http://arxiv.org/abs/2608.19964)|null|
-|**2026-08-19**|**SCAPE: Scenario-Conditioned Simulation-Augmented Policy Evaluation**|Dijie Zhu et.al.|[2608.19425](http://arxiv.org/abs/2608.19425)|null|
+|**2026-08-19**|**SCAPE: Scenario-Conditioned Simulation-Augmented Policy Evaluation**|Dijie Zhu et.al.|[2608.19425](http://arxiv.org/abs/2608.19425)|**[link](https://github.com/ucla-tams-lab/scape-website)**|
 |**2026-08-19**|**CAViAR: A Causal Video Dataset for Fine-Grained Accident Reasoning in Real-World Scenarios**|Sparsh Garg et.al.|[2608.19380](http://arxiv.org/abs/2608.19380)|null|
 |**2026-08-19**|**SceneGTMM: A Conformal Mapping-based Scene-Aware Transferable GNN-Transformer Dual-Graph Interaction Framework for Map Matching**|Yongliang Zhang et.al.|[2608.19298](http://arxiv.org/abs/2608.19298)|null|
 |**2026-08-20**|**DA-WAM: Decision-Aligned Future Latents for Driving World Models**|Ruiguo Zhong et.al.|[2608.19085](http://arxiv.org/abs/2608.19085)|null|
@@ -3935,7 +3935,7 @@ layout: default
 |**2026-06-19**|**CRAX: Fast Safe Reinforcement Learning Benchmarking**|Tristan Tomilin et.al.|[2606.20376](http://arxiv.org/abs/2606.20376)|null|
 |**2026-06-18**|**Autonomous Driving with Priority-Ordered STL Specifications Under Multimodal Uncertainty**|Taha Bouzid et.al.|[2606.20336](http://arxiv.org/abs/2606.20336)|null|
 |**2026-06-18**|**Lagrange: An Open-Vocabulary, Energy-Based Sparse Framework for Generalized End-to-End Driving**|Shihao Ji et.al.|[2606.20274](http://arxiv.org/abs/2606.20274)|null|
-|**2026-06-19**|**HilDA: Hierarchical Distillation with Diffusion for Advancing Self-Supervised LiDAR Pre-training**|Maciej Wozniak et.al.|[2606.20189](http://arxiv.org/abs/2606.20189)|null|
+|**2026-06-19**|**HilDA: Hierarchical Distillation with Diffusion for Advancing Self-Supervised LiDAR Pre-training**|Maciej Wozniak et.al.|[2606.20189](http://arxiv.org/abs/2606.20189)|**[link](https://github.com/KTH-RPL/HilDA)**|
 |**2026-06-18**|**FrozenDrive: Zero-Shot Text-Guided Driving Scene Generation and Data Augmentation with Parameter-Free Frozen Diffusion Model**|Yuhwan Jeong et.al.|[2606.20110](http://arxiv.org/abs/2606.20110)|null|
 |**2026-06-18**|**World Engine: Towards the Era of Post-Training for Autonomous Driving**|Tianyu Li et.al.|[2606.19836](http://arxiv.org/abs/2606.19836)|null|
 |**2026-06-19**|**Scaling Self-Play for End-to-End Driving**|Luke Rowe et.al.|[2606.19641](http://arxiv.org/abs/2606.19641)|**[link](https://github.com/montrealrobotics/gigapixel)**|
@@ -4091,7 +4091,7 @@ layout: default
 |**2026-05-20**|**Lost in Fog: Sensor Perturbations Expose Reasoning Fragility in Driving VLAs**|Abhinaw Priyadershi et.al.|[2605.21446](http://arxiv.org/abs/2605.21446)|null|
 |**2026-05-20**|**Towards Resilient and Autonomous Networks: A BlueSky Vision on AI-Native 6G**|Liang Wu et.al.|[2605.21395](http://arxiv.org/abs/2605.21395)|null|
 |**2026-05-20**|**Closed Loop Dynamic Driving Data Mixture for Real-Synthetic Co-Training**|Hongzhi Ruan et.al.|[2605.21372](http://arxiv.org/abs/2605.21372)|null|
-|**2026-05-20**|**Hyper-V2X: Hypernetworks for Estimating Epistemic and Aleatoric Uncertainty in Cooperative Bird's-Eye-View Semantic Segmentation**|Abhishek Dinkar Jagtap et.al.|[2605.21309](http://arxiv.org/abs/2605.21309)|null|
+|**2026-05-20**|**Hyper-V2X: Hypernetworks for Estimating Epistemic and Aleatoric Uncertainty in Cooperative Bird's-Eye-View Semantic Segmentation**|Abhishek Dinkar Jagtap et.al.|[2605.21309](http://arxiv.org/abs/2605.21309)|**[link](https://github.com/abhishekjagtap1/Hyper-V2X)**|
 |**2026-05-20**|**ScenePilot: Controllable Boundary-Driven Critical Scenario Generation for Autonomous Driving**|Qiyu Ruan et.al.|[2605.21168](http://arxiv.org/abs/2605.21168)|null|
 |**2026-05-20**|**Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving**|Yang Wu et.al.|[2605.21139](http://arxiv.org/abs/2605.21139)|null|
 |**2026-05-20**|**RCGDet3D: Rethinking 4D Radar-Camera Fusion-based 3D Object Detection with Enhanced Radar Feature Encoding**|Weiyi Xiong et.al.|[2605.21112](http://arxiv.org/abs/2605.21112)|null|
@@ -4562,7 +4562,7 @@ layout: default
 |**2026-03-04**|**LiDAR Prompted Spatio-Temporal Multi-View Stereo for Autonomous Driving**|Qihao Sun et.al.|[2603.03765](http://arxiv.org/abs/2603.03765)|null|
 |**2026-03-03**|**Analyzing the Impact of Adversarial Attacks on C-V2X-Enabled Road Safety: An Age of Information Perspective**|Mahmudul Hassan Ashik et.al.|[2603.03462](http://arxiv.org/abs/2603.03462)|null|
 |**2026-03-03**|**Radar-based Pose Optimization for HD Map Generation from Noisy Multi-Drive Vehicle Fleet Data**|Alexander Blumberg et.al.|[2603.03453](http://arxiv.org/abs/2603.03453)|null|
-|**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[2603.03283](http://arxiv.org/abs/2603.03283)|null|
+|**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[2603.03283](http://arxiv.org/abs/2603.03283)|**[link](https://github.com/Pointcept/Utonia)**|
 |**2026-03-03**|**ACE-Brain-0: Spatial Intelligence as a Shared Scaffold for Universal Embodiments**|Ziyang Gong et.al.|[2603.03198](http://arxiv.org/abs/2603.03198)|null|
 |**2026-03-03**|**Real-Time Generative Policy via Langevin-Guided Flow Matching for Autonomous Driving**|Tianze Zhu et.al.|[2603.02613](http://arxiv.org/abs/2603.02613)|null|
 |**2026-03-03**|**VLMFusionOcc3D: VLM Assisted Multi-Modal 3D Semantic Occupancy Prediction**|A. Enes Doruk et.al.|[2603.02609](http://arxiv.org/abs/2603.02609)|null|
@@ -4588,7 +4588,7 @@ layout: default
 |**2026-03-01**|**Dr.Occ: Depth- and Region-Guided 3D Occupancy from Surround-View Cameras for Autonomous Driving**|Xubo Zhu et.al.|[2603.01007](http://arxiv.org/abs/2603.01007)|null|
 |**2026-03-01**|**DriveCode: Domain Specific Numerical Encoding for LLM-Based Autonomous Driving**|Zhiye Wang et.al.|[2603.00919](http://arxiv.org/abs/2603.00919)|null|
 |**2026-02-28**|**DRIV-EX: Counterfactual Explanations for Driving LLMs**|Amaia Cardiel et.al.|[2603.00696](http://arxiv.org/abs/2603.00696)|null|
-|**2026-02-28**|**Wild-Drive: Off-Road Scene Captioning and Path Planning via Robust Multi-modal Routing and Efficient Large Language Model**|Zihang Wang et.al.|[2603.00694](http://arxiv.org/abs/2603.00694)|null|
+|**2026-02-28**|**Wild-Drive: Off-Road Scene Captioning and Path Planning via Robust Multi-modal Routing and Efficient Large Language Model**|Zihang Wang et.al.|[2603.00694](http://arxiv.org/abs/2603.00694)|**[link](https://github.com/wangzihanggg/Wild-Drive)**|
 |**2026-02-28**|**ReMoT: Reinforcement Learning with Motion Contrast Triplets**|Cong Wan et.al.|[2603.00461](http://arxiv.org/abs/2603.00461)|null|
 |**2026-02-28**|**PointAlign: Feature-Level Alignment Regularization for 3D Vision-Language Models**|Yuanhao Su et.al.|[2603.00412](http://arxiv.org/abs/2603.00412)|null|
 |**2026-02-27**|**TSC: Topology-Conditioned Stackelberg Coordination for Multi-Agent Reinforcement Learning in Interactive Driving**|Xiaotong Zhang et.al.|[2602.23896](http://arxiv.org/abs/2602.23896)|null|
@@ -4709,7 +4709,7 @@ layout: default
 |**2026-02-03**|**HetroD: A High-Fidelity Drone Dataset and Benchmark for Autonomous Driving in Heterogeneous Traffic**|Yu-Hsiang Chen et.al.|[2602.03447](http://arxiv.org/abs/2602.03447)|null|
 |**2026-02-03**|**PlanTRansformer: Unified Prediction and Planning with Goal-conditioned Transformer**|Constantin Selzer et.al.|[2602.03376](http://arxiv.org/abs/2602.03376)|null|
 |**2026-02-03**|**Multi-Resolution Alignment for Voxel Sparsity in Camera-Based 3D Semantic Scene Completion**|Zhiwen Yang et.al.|[2602.03371](http://arxiv.org/abs/2602.03371)|null|
-|**2026-02-03**|**InstaDrive: Instance-Aware Driving World Models for Realistic and Consistent Video Generation**|Zhuoran Yang et.al.|[2602.03242](http://arxiv.org/abs/2602.03242)|null|
+|**2026-02-03**|**InstaDrive: Instance-Aware Driving World Models for Realistic and Consistent Video Generation**|Zhuoran Yang et.al.|[2602.03242](http://arxiv.org/abs/2602.03242)|**[link](https://github.com/shanpoyang654/InstaDrive)**|
 |**2026-02-03**|**ConsisDrive: Identity-Preserving Driving World Models for Video Generation by Instance Mask**|Zhuoran Yang et.al.|[2602.03213](http://arxiv.org/abs/2602.03213)|null|
 |**2026-02-04**|**A Unified Candidate Set with Scene-Adaptive Refinement via Diffusion for End-to-End Autonomous Driving**|Zhengfei Wu et.al.|[2602.03112](http://arxiv.org/abs/2602.03112)|null|
 |**2026-02-03**|**JRDB-Pose3D: A Multi-person 3D Human Pose and Shape Estimation Dataset for Robotics**|Sandika Biswas et.al.|[2602.03064](http://arxiv.org/abs/2602.03064)|null|
