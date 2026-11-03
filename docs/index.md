@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.11.02
+## Updated on 2026.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**EventGPT: Next-Event Pretraining on Banking Customer Histories**|Denis Burakov et.al.|[2611.03302](http://arxiv.org/abs/2611.03302)|null|
+|**2026-11-02**|**Ray-SCR: Generalizing Scene Coordinate Regression Across Camera Models**|Jaemin Cho et.al.|[2611.03098](http://arxiv.org/abs/2611.03098)|null|
+|**2026-11-02**|**GeoGuesser Bench: Benchmarking Vision-Language Agents on Interactive Geolocation**|Huanzhi Mao et.al.|[2611.02698](http://arxiv.org/abs/2611.02698)|null|
+|**2026-11-02**|**Imaging the Current Distribution in Superconducting Transition-Edge Sensors with Scanning SQUID Microscopy**|Samantha Walker et.al.|[2611.02352](http://arxiv.org/abs/2611.02352)|null|
+|**2026-11-01**|**A Deep Reinforcement Learning Framework for Real-Time Electric Vehicle Charging Management in IoEV-Enabled Smart Cities**|Nour-Eddine Moumni et.al.|[2611.01751](http://arxiv.org/abs/2611.01751)|null|
+|**2026-11-01**|**Text-Assisted Event Stream Visual Place Recognition via Multi-Scale Spatiotemporal Optimal Transport**|Lan Chen et.al.|[2611.01558](http://arxiv.org/abs/2611.01558)|null|
+|**2026-10-31**|**LoD-Loc v4: Towards Generalized Aerial Visual Localization via Panoptic LoD 3D Map Registration**|Shuaibang Peng et.al.|[2611.00704](http://arxiv.org/abs/2611.00704)|null|
+|**2026-10-30**|**Seeing Less in a Sparse World: Cross-View Geolocalization from Limited Field-of-View Observations**|Fahimul Aleem et.al.|[2611.00288](http://arxiv.org/abs/2611.00288)|null|
 |**2026-10-30**|**PGGT-Loc: Primitive-Grounded Geometry Transformer for Feed-Forward Camera Localization**|Hanqiao Ye et.al.|[2610.41833](http://arxiv.org/abs/2610.41833)|null|
 |**2026-10-30**|**Queryable Gaussian View Index: Text Retrieval and Selective Camera Localization**|Tianyu Xiong et.al.|[2610.41373](http://arxiv.org/abs/2610.41373)|null|
 |**2026-10-29**|**Coupled or Independent? Fault Coupling in Agentic Medical Vision Systems**|Nishi Kanta Paul et.al.|[2610.40913](http://arxiv.org/abs/2610.40913)|null|
@@ -1264,6 +1272,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields**|Yixiao Yang et.al.|[2611.03114](http://arxiv.org/abs/2611.03114)|null|
+|**2026-11-02**|**GaussFlaw: Fine-Grained Perceptual Diagnosis for 3D Gaussian Splatting**|Shaocheng Shen et.al.|[2611.02767](http://arxiv.org/abs/2611.02767)|null|
+|**2026-11-02**|**OctreeSplat: Hierarchical Octree-Guided Feed-Forward Gaussian Splatting**|Yibin Zhao et.al.|[2611.02658](http://arxiv.org/abs/2611.02658)|null|
+|**2026-11-02**|**SCARF: A Scene-Adaptive Depth-Guided G-3DGS Encoder Accelerator with Semantic Reuse and Fused Dataflow**|Zirui Ma et.al.|[2611.02365](http://arxiv.org/abs/2611.02365)|null|
+|**2026-11-01**|**UniGS-SLAM: Monocular Gaussian SLAM with Enhanced Geometry and Open-Vocabulary Semantics**|Xingyuan Ding et.al.|[2611.02051](http://arxiv.org/abs/2611.02051)|null|
+|**2026-11-01**|**Unified Loss-Aware Density Control for 3D Gaussian Splatting**|Tae-Young Kim et.al.|[2611.02044](http://arxiv.org/abs/2611.02044)|null|
+|**2026-11-01**|**VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph**|Yuntae Jeon et.al.|[2611.01939](http://arxiv.org/abs/2611.01939)|null|
+|**2026-11-01**|**AbacusGS: Gaussian Splatting without Per-Splat Sorting**|Jiacheng Ding et.al.|[2611.01534](http://arxiv.org/abs/2611.01534)|null|
+|**2026-10-31**|**SHield: Watermarking 4D Gaussian Splatting via Spherical Harmonic Coefficient Perturbation**|Kunal Bhosikar et.al.|[2611.01162](http://arxiv.org/abs/2611.01162)|null|
+|**2026-10-31**|**3D Gaussian Splatting: A New Paradigm for Wireless Environment Representation**|Jinya Zhang et.al.|[2611.01122](http://arxiv.org/abs/2611.01122)|null|
+|**2026-10-31**|**A Reproducible Reconstruction and Evaluation Framework for Photorealistic Lunar Analog Scene Reconstruction Toward Digital Twins**|Antar Mazumder et.al.|[2611.00870](http://arxiv.org/abs/2611.00870)|null|
+|**2026-10-31**|**3D Neural Rendering for Automated Ultrasonic Laser Scans**|Thomas Pierson et.al.|[2611.00527](http://arxiv.org/abs/2611.00527)|null|
+|**2026-10-30**|**MoRE-GS: Motion-Regime Experts for Future Gaussian Splatting**|Shima Salehi et.al.|[2611.00375](http://arxiv.org/abs/2611.00375)|null|
 |**2026-10-30**|**DrawSplat: Atlanta World-Guided Implicit Gaussian SLAM for Indoor Reconstruction**|Fan Zhu et.al.|[2610.41602](http://arxiv.org/abs/2610.41602)|null|
 |**2026-10-29**|**Prior-Guided Single-Exposure HDR Novel View Synthesis via Base-Gain Representation**|Armin Shafiee Sarvestani et.al.|[2610.41011](http://arxiv.org/abs/2610.41011)|null|
 |**2026-10-29**|**AquaProbe: Efficient Adaptation of Frozen Vision Models for Underwater Images**|Md Shihabul Islam Shovo et.al.|[2610.40900](http://arxiv.org/abs/2610.40900)|null|
@@ -3279,6 +3300,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**HIVE-Diff: High Frame Rate HDR Video Reconstruction from a Single LDR Frame and Events**|Caixin Wang et.al.|[2611.03465](http://arxiv.org/abs/2611.03465)|null|
+|**2026-11-02**|**CL3DOD: Understanding the Stability-Plasticity Dilemma in Outdoor Class-Incremental 3D Object Detection**|Muhammad Ahmed Ullah Khan et.al.|[2611.03229](http://arxiv.org/abs/2611.03229)|null|
+|**2026-11-02**|**Scaling Action-Free Video Latent Prediction for Transferable Representations in End-to-End Autonomous Driving**|Xingtai Gui et.al.|[2611.02853](http://arxiv.org/abs/2611.02853)|null|
+|**2026-11-02**|**ReinSeg: Retrieval-Guided Bounded Multimodal Refinement for 3-D Road Anomaly Segmentation**|Haifa Zhang et.al.|[2611.02648](http://arxiv.org/abs/2611.02648)|null|
+|**2026-11-02**|**Vehicle Speed-Aware Jammer-Resilient Receiver for Multi-User MIMO V2X Systems**|Hanyoung Park et.al.|[2611.02552](http://arxiv.org/abs/2611.02552)|null|
+|**2026-11-02**|**INTERACT: Learning Interaction-Aware World Dynamics from Driving Videos for Autonomous Driving**|Zhan Chen et.al.|[2611.02526](http://arxiv.org/abs/2611.02526)|null|
+|**2026-11-02**|**Fast-Slow Evolutionary Occupancy Prediction via Controlled Dynamics**|Runhe Yang et.al.|[2611.02499](http://arxiv.org/abs/2611.02499)|null|
+|**2026-11-01**|**Towards a Theory for the Design of Rules in Multi-Agent Systems: the case of Homogeneous Fleets**|Matteo Penlington et.al.|[2611.02260](http://arxiv.org/abs/2611.02260)|null|
+|**2026-11-01**|**Safety4DM: A Vision-Language Framework for Risk-Aware Dynamic Maps in Vehicle-Road-Cloud Collaborative Driving**|Zhengshu Zhou et.al.|[2611.01996](http://arxiv.org/abs/2611.01996)|null|
+|**2026-11-01**|**Leveraging 2D Foundation Priors for Generalized Category Discovery under Test-Time Adaptation in 3D LiDAR Segmentation**|Hanqi Chen et.al.|[2611.01682](http://arxiv.org/abs/2611.01682)|null|
+|**2026-10-31**|**DriftingPlanner: Drifting Generative Models for One-Step Trajectory Planning in End-to-End Autonomous Driving**|Ziming Liu et.al.|[2611.01283](http://arxiv.org/abs/2611.01283)|null|
+|**2026-10-31**|**Acceptance and Responsibility Attribution Toward Autonomous Ambulances Across Driving Conditions: A Preliminary Survey of Fire Service Personnel**|Hirotake Yamazoe et.al.|[2611.01132](http://arxiv.org/abs/2611.01132)|null|
+|**2026-10-31**|**STEER: Route-Aware Adaptive Reasoning for Autonomous Driving**|Yangang Zou et.al.|[2611.00718](http://arxiv.org/abs/2611.00718)|null|
+|**2026-10-31**|**X-World 1.6: Building Controllable Virtual Cities with World Models**| XPeng et.al.|[2611.00596](http://arxiv.org/abs/2611.00596)|null|
 |**2026-10-30**|**ObjectGuidedMap: An Object-Aware Model for Robust Bird's Eye View Map Prediction in High-Occlusion Scenarios**|Christian Bohn et.al.|[2610.41834](http://arxiv.org/abs/2610.41834)|null|
 |**2026-10-30**|**Mechanistic Interpretability for End-to-End Self-Driving**|Manav Gagvani et.al.|[2610.41185](http://arxiv.org/abs/2610.41185)|null|
 |**2026-10-29**|**Let LiDAR Decide Where to Look: Geometry-Measured Token Selection for Efficient Sparse Latent World Models**|Zeping Zhang et.al.|[2610.40935](http://arxiv.org/abs/2610.40935)|null|
@@ -5576,11 +5611,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**Diagonal Equivalence in State Space Models: Characterization, Retrieval Rank, and Selective Extensions**|Dennis Rochau et.al.|[2611.03101](http://arxiv.org/abs/2611.03101)|null|
+|**2026-11-01**|**Beyond Unit-Circle Eigenvalues: Invariant Bases for Stable State Space Dynamics**|Jiaqian Zhu et.al.|[2611.02174](http://arxiv.org/abs/2611.02174)|null|
+|**2026-10-31**|**A model-based adaptive sampling framework for infectious disease surveillance**|Supun Manathunga et.al.|[2611.01199](http://arxiv.org/abs/2611.01199)|null|
+|**2026-10-31**|**Movement based social interactions with label uncertainty**|Anisha J. Mathias et.al.|[2611.00565](http://arxiv.org/abs/2611.00565)|null|
 |**2026-10-30**|**Fuzzy selective state model for forecasting the dynamics of consumer preferences**|P. A. Golovinski et.al.|[2610.41879](http://arxiv.org/abs/2610.41879)|null|
 |**2026-10-30**|**Dynamical Memory Transformer: Selective Recurrent Memories with Constant Cost Attention**|Yannis Bendi-Ouis et.al.|[2610.41850](http://arxiv.org/abs/2610.41850)|null|
 |**2026-10-29**|**TensorSSM: Memorizing Spatial Position in Dynamic State Space for Tensor Core Generation**|Sheng Zhang et.al.|[2610.40871](http://arxiv.org/abs/2610.40871)|null|
-|**2026-10-29**|**Morphology-Aware Channel-Decoupled Mamba Network for Medical Image Segmentation**|Chenchen Wang et.al.|[2610.40085](http://arxiv.org/abs/2610.40085)|null|
-|**2026-10-29**|**Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation**|Chenchen Wang et.al.|[2610.40029](http://arxiv.org/abs/2610.40029)|null|
+|**2026-11-01**|**Morphology-Aware Channel-Decoupled Mamba Network for Medical Image Segmentation**|Chenchen Wang et.al.|[2610.40085](http://arxiv.org/abs/2610.40085)|null|
+|**2026-11-01**|**Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation**|Chenchen Wang et.al.|[2610.40029](http://arxiv.org/abs/2610.40029)|null|
 |**2026-10-29**|**Modeling and Parametrization of Large-scale Hydrogen Electrolyzers for Transient and Frequency Stability Analysis**|Mahmoud K. Abdelhamid et.al.|[2610.39819](http://arxiv.org/abs/2610.39819)|null|
 |**2026-10-28**|**Metropolized backward sampling for conditional sequential Monte Carlo**|Adrien Corenflos et.al.|[2610.38753](http://arxiv.org/abs/2610.38753)|null|
 |**2026-10-28**|**When LLM Architectures Meet Smart Contract Vulnerability Detection: a Replication Study**|Gerardo Iuliano et.al.|[2610.38621](http://arxiv.org/abs/2610.38621)|null|
