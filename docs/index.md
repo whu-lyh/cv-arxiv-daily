@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.07
+## Updated on 2026.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -1297,7 +1297,7 @@ layout: default
 |**2026-11-04**|**BudgetSplat: Budget-Controllable Generalizable Gaussian Splatting**|Yuxi Hu et.al.|[2611.06593](http://arxiv.org/abs/2611.06593)|null|
 |**2026-11-04**|**TwinBridge: Digital Twin-Driven Policy and Reward Transfer for Real-World Reinforcement Learning in Laboratory Robotics**|Shu'ang Sun et.al.|[2611.06442](http://arxiv.org/abs/2611.06442)|null|
 |**2026-11-04**|**Quo Vadis, Driving Scene Reconstruction? Occlusion-Aware Gaussian Densification**|Dung Do Tien et.al.|[2611.06273](http://arxiv.org/abs/2611.06273)|null|
-|**2026-11-04**|**CrossPressor: Scalable Cross-View Fusion for Feed-Forward 3D Gaussian Splatting**|Yuxi Hu et.al.|[2611.06258](http://arxiv.org/abs/2611.06258)|**[link](https://github.com/YuhsiHu/CrossPressor)**|
+|**2026-11-04**|**CrossPressor: Scalable Cross-View Fusion for Feed-Forward 3D Gaussian Splatting**|Yuxi Hu et.al.|[2611.06258](http://arxiv.org/abs/2611.06258)|null|
 |**2026-11-04**|**METRIC-GS: Selective Metric-Scale Estimation for 3D Gaussian Splatting**|Sooyeun Yang et.al.|[2611.06020](http://arxiv.org/abs/2611.06020)|null|
 |**2026-11-03**|**GaussianRenderFormer: Transformer-based Rendering of 3D Gaussian Splats**|Shahaf Valencia Levy et.al.|[2611.05593](http://arxiv.org/abs/2611.05593)|null|
 |**2026-11-04**|**GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs**|Qi Yang et.al.|[2611.05359](http://arxiv.org/abs/2611.05359)|null|
