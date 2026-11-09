@@ -1,4 +1,4 @@
-## Updated on 2026.11.08
+## Updated on 2026.11.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1074,7 +1074,7 @@
 |**2018-05-16**|**Visual Global Localization with a Hybrid WNN-CNN Approach**|Avelino Forechi et.al.|[1805.03183](http://arxiv.org/abs/1805.03183)|**[link](https://github.com/LCAD-UFES/WNN-CNN-GL)**|
 |**2017-04-28**|**Real-Time Visual Place Recognition for Personal Localization on a Mobile Device**|Michał Nowicki et.al.|[1611.02061](http://arxiv.org/abs/1611.02061)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## Point Cloud Place Recognition
 
@@ -1183,13 +1183,13 @@
 |**2022-11-30**|**InCloud: Incremental Learning for Point Cloud Place Recognition**|Joshua Knights et.al.|[2203.00807](http://arxiv.org/abs/2203.00807)|**[link](https://github.com/csiro-robotics/InCloud)**|
 |**2025-06-26**|**BVMatch: Lidar-based Place Recognition Using Bird's-eye View Images**|Lun Luo et.al.|[2109.00317](http://arxiv.org/abs/2109.00317)|null|
 |**2021-04-15**|**MinkLoc++: Lidar and Monocular Image Fusion for Place Recognition**|Jacek Komorowski et.al.|[2104.05327](http://arxiv.org/abs/2104.05327)|**[link](https://github.com/jac99/MinkLocMultimodal)**|
-|**2021-04-23**|**Robust Place Recognition using an Imaging Lidar**|Tixiao Shan et.al.|[2103.02111](http://arxiv.org/abs/2103.02111)|null|
+|**2021-04-23**|**Robust Place Recognition using an Imaging Lidar**|Tixiao Shan et.al.|[2103.02111](http://arxiv.org/abs/2103.02111)|**[link](https://github.com/TixiaoShan/imaging_lidar_place_recognition)**|
 |**2021-06-21**|**Radar-to-Lidar: Heterogeneous Place Recognition via Joint Learning**|Huan Yin et.al.|[2102.04960](http://arxiv.org/abs/2102.04960)|**[link](https://github.com/HuanYin94/radar-to-lidar-place-recognition)**|
 |**2021-08-05**|**A Registration-aided Domain Adaptation Network for 3D Point Cloud Based Place Recognition**|Zhijian Qiao et.al.|[2012.05018](http://arxiv.org/abs/2012.05018)|null|
 |**2020-08-04**|**PIC-Net: Point Cloud and Image Collaboration Network for Large-Scale Place Recognition**|Yuheng Lu et.al.|[2008.00658](http://arxiv.org/abs/2008.00658)|null|
 |**2020-07-06**|**LOL: Lidar-Only Odometry and Localization in 3D Point Cloud Maps**|David Rozenberszki et.al.|[2007.01595](http://arxiv.org/abs/2007.01595)|**[link](https://github.com/RozDavid/LOL)**|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## Cross-modality Localization
 
@@ -1293,7 +1293,7 @@
 |**2021-07-28**|**Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization**|Fa-Ting Hong et.al.|[2107.12589](http://arxiv.org/abs/2107.12589)|null|
 |**2020-09-15**|**RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization**|Niluthpol Chowdhury Mithun et.al.|[2009.05695](http://arxiv.org/abs/2009.05695)|**[link](https://github.com/niluthpol/RGB2LIDAR)**|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## 3D GS
 
@@ -3053,7 +3053,7 @@
 |**2025-11-13**|**AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models**|Xinyi Wang et.al.|[2511.10017](http://arxiv.org/abs/2511.10017)|**[link](https://github.com/hannahwxy/AffordBot)**|
 |**2025-11-13**|**Robust Object Detection with Pseudo Labels from VLMs using Per-Object Co-teaching**|Uday Bhaskar et.al.|[2511.09955](http://arxiv.org/abs/2511.09955)|null|
 |**2025-11-13**|**TSPE-GS: Probabilistic Depth Extraction for Semi-Transparent Surface Reconstruction via 3D Gaussian Splatting**|Zhiyuan Xu et.al.|[2511.09944](http://arxiv.org/abs/2511.09944)|null|
-|**2025-11-13**|**AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting**|Aymen Mir et.al.|[2511.09827](http://arxiv.org/abs/2511.09827)|null|
+|**2025-11-13**|**AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting**|Aymen Mir et.al.|[2511.09827](http://arxiv.org/abs/2511.09827)|**[link](https://github.com/miraymen/aha_codebase)**|
 |**2025-11-12**|**Traversable wormhole with double trace deformations via gravitational shear and sound channels**|Fitria Khairunnisa et.al.|[2511.09815](http://arxiv.org/abs/2511.09815)|null|
 |**2025-11-12**|**A Shared-Autonomy Construction Robotic System for Overhead Works**|David Minkwan Kim et.al.|[2511.09695](http://arxiv.org/abs/2511.09695)|null|
 |**2025-11-12**|**BronchOpt : Vision-Based Pose Optimization with Fine-Tuned Foundation Models for Accurate Bronchoscopy Navigation**|Hongchao Shu et.al.|[2511.09443](http://arxiv.org/abs/2511.09443)|null|
@@ -3347,7 +3347,7 @@
 |**2024-03-26**|**CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field**|Jiarui Hu et.al.|[2403.16095](http://arxiv.org/abs/2403.16095)|null|
 |**2024-04-09**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700](http://arxiv.org/abs/2311.11700)|**[link](https://github.com/yanchi-3dv/diff-gaussian-rasterization-for-gsslam)**|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -3383,7 +3383,7 @@
 |**2026-10-31**|**DriftingPlanner: Drifting Generative Models for One-Step Trajectory Planning in End-to-End Autonomous Driving**|Ziming Liu et.al.|[2611.01283](http://arxiv.org/abs/2611.01283)|null|
 |**2026-10-31**|**Acceptance and Responsibility Attribution Toward Autonomous Ambulances Across Driving Conditions: A Preliminary Survey of Fire Service Personnel**|Hirotake Yamazoe et.al.|[2611.01132](http://arxiv.org/abs/2611.01132)|null|
 |**2026-10-31**|**STEER: Route-Aware Adaptive Reasoning for Autonomous Driving**|Yangang Zou et.al.|[2611.00718](http://arxiv.org/abs/2611.00718)|null|
-|**2026-10-31**|**X-World 1.6: Building Controllable Virtual Cities with World Models**| XPeng et.al.|[2611.00596](http://arxiv.org/abs/2611.00596)|null|
+|**2026-10-31**|**X-World 1.6: Building Controllable Virtual Cities with World Models**|XPeng et.al.|[2611.00596](http://arxiv.org/abs/2611.00596)|null|
 |**2026-10-30**|**ObjectGuidedMap: An Object-Aware Model for Robust Bird's Eye View Map Prediction in High-Occlusion Scenarios**|Christian Bohn et.al.|[2610.41834](http://arxiv.org/abs/2610.41834)|null|
 |**2026-10-30**|**Mechanistic Interpretability for End-to-End Self-Driving**|Manav Gagvani et.al.|[2610.41185](http://arxiv.org/abs/2610.41185)|null|
 |**2026-10-29**|**Let LiDAR Decide Where to Look: Geometry-Measured Token Selection for Efficient Sparse Latent World Models**|Zeping Zhang et.al.|[2610.40935](http://arxiv.org/abs/2610.40935)|null|
@@ -3898,7 +3898,7 @@
 |**2026-07-15**|**3D Lane Detection with Odometry for High-Speed Vehicle Racing**|Omoruyi Atekha et.al.|[2607.14248](http://arxiv.org/abs/2607.14248)|null|
 |**2026-07-15**|**Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation**|NVIDIA et.al.|[2607.14203](http://arxiv.org/abs/2607.14203)|null|
 |**2026-07-15**|**M $^\text{4}$ World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming**|Ke Cheng et.al.|[2607.14005](http://arxiv.org/abs/2607.14005)|null|
-|**2026-07-15**|**Cyclone: Diffusion Model for Cycle-Consistent Weather Editing from Unpaired Driving Data**|Thang-Anh-Quan Nguyen et.al.|[2607.13927](http://arxiv.org/abs/2607.13927)|null|
+|**2026-07-15**|**Cyclone: Diffusion Model for Cycle-Consistent Weather Editing from Unpaired Driving Data**|Thang-Anh-Quan Nguyen et.al.|[2607.13927](http://arxiv.org/abs/2607.13927)|**[link](https://github.com/ntaquan0125/weather-cyclone)**|
 |**2026-07-15**|**S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving**|Jianguo Yu et.al.|[2607.13926](http://arxiv.org/abs/2607.13926)|null|
 |**2026-07-15**|**nuTruck: Benchmarking Autonomous Driving Planning for Distributed Electric-drive Trucks**|Jinyu Miao et.al.|[2607.13704](http://arxiv.org/abs/2607.13704)|null|
 |**2026-07-15**|**Design and Implementation of a Microservice-Architecture Master Control System for AIMS**|Li-Yue Tong et.al.|[2607.13561](http://arxiv.org/abs/2607.13561)|null|
@@ -5677,7 +5677,7 @@
 |**2019-09-18**|**A*3D Dataset: Towards Autonomous Driving in Challenging Environments**|Quang-Hieu Pham et.al.|[1909.07541](http://arxiv.org/abs/1909.07541)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
 ## Mamba
 
@@ -6971,5 +6971,5 @@
 |**2024-11-26**|**PointMamba: A Simple State Space Model for Point Cloud Analysis**|Dingkang Liang et.al.|[2402.10739](http://arxiv.org/abs/2402.10739)|**[link](https://github.com/LMD0311/PointMamba)**|
 |**2024-11-15**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|**[link](https://github.com/hustvl/Vim)**|
 
-<p align=right>(<a href=#updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
 
