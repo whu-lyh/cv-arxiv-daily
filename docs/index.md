@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.11.12
+## Updated on 2026.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Pl@ntNet machine-to-machine identification service with Pl@ntNet API: enabling automated biodiversity monitoring through large-scale plant identification**|Benjamin Bourel et.al.|[2611.16538](http://arxiv.org/abs/2611.16538)|null|
+|**2026-11-12**|**Few-Shot Cross-Subject Neural--Image Retrieval via Stimulus-Anchored Latent Bias Calibration**|Xizhang Yao et.al.|[2611.16257](http://arxiv.org/abs/2611.16257)|null|
 |**2026-11-10**|**RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval**|Tanishq Rachamalla et.al.|[2611.14496](http://arxiv.org/abs/2611.14496)|**[link](https://github.com/Tanishq251/RSJEPA)**|
 |**2026-11-10**|**Satellite Pretraining Is Not One Thing: A Matched-Pair Study of Generic and Earth-Observation Foundation Models for Scene Classification**|Sandarbh Agrawal et.al.|[2611.13849](http://arxiv.org/abs/2611.13849)|null|
 |**2026-11-09**|**X Marks the Spot: Diffusion for Image Geolocalization with Location Representations**|Brian Wei et.al.|[2611.13180](http://arxiv.org/abs/2611.13180)|null|
@@ -25,7 +27,7 @@ layout: default
 |**2026-11-05**|**DreamRealm: Exploring and Materializing Hallucination Worlds for Trustworthy Vision-Language Models**|Benlei Cui et.al.|[2611.06433](http://arxiv.org/abs/2611.06433)|null|
 |**2026-11-04**|**CAPE-JEPA - Cross-modal Adversarial Probabilistic Embedding JEPA**|Aniket Junghare et.al.|[2611.06247](http://arxiv.org/abs/2611.06247)|null|
 |**2026-11-04**|**GeoBiaset: A Counterfactual Benchmark for Demographic Bias in World-Level Geolocalization**|Niccolò Niccoli et.al.|[2611.06085](http://arxiv.org/abs/2611.06085)|null|
-|**2026-11-03**|**Anchored Rank-Adversarial Fine-Tuning Pretrained Visual Place Recognition Models**|Mostafa Kira et.al.|[2611.05286](http://arxiv.org/abs/2611.05286)|null|
+|**2026-11-11**|**Anchored Rank-Adversarial Fine-Tuning of Pretrained Visual Place Recognition Models**|Mostafa Kira et.al.|[2611.05286](http://arxiv.org/abs/2611.05286)|null|
 |**2026-11-04**|**Factorized MLLM Embeddings for Composed Image Retrieval**|WonJun Moon et.al.|[2611.05193](http://arxiv.org/abs/2611.05193)|null|
 |**2026-11-03**|**Sparse Anchors for Visual Multi-Session Registration in Changing Environments**|Yunus Talha Erzurumlu et.al.|[2611.05084](http://arxiv.org/abs/2611.05084)|null|
 |**2026-11-03**|**Heads That Write, Not Just Point: Image Retrieval Heads in Vision-Language Models**|Junsung Park et.al.|[2611.04903](http://arxiv.org/abs/2611.04903)|null|
@@ -1294,17 +1296,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Kosmo-GFM: A Production-Ready Geometry Foundation Model**|Sheng Tang et.al.|[2611.16840](http://arxiv.org/abs/2611.16840)|null|
+|**2026-11-12**|**Reconstruct What You Can: Distractor-free 4D Gaussian Splatting**|Joel Julin et.al.|[2611.16259](http://arxiv.org/abs/2611.16259)|null|
+|**2026-11-11**|**Topology-Aware 4D Gaussian Splatting for Egocentric Videos**|Leonardo Vanni et.al.|[2611.16012](http://arxiv.org/abs/2611.16012)|null|
+|**2026-11-11**|**ThermalSplat: Generalizable Pose-Free Gaussian Splatting for Sparse-View Thermal 3D Reconstruction**|Prasanna S et.al.|[2611.15435](http://arxiv.org/abs/2611.15435)|null|
+|**2026-11-11**|**MatrixSplat: Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs**|Yangming Zhang et.al.|[2611.15153](http://arxiv.org/abs/2611.15153)|null|
 |**2026-11-10**|**Where do we Jam? - The Impact of Real and Virtual XR Spaces on Musical Creativity, Co-Presence, Affect, and Flow**|Ruben Schlagowski et.al.|[2611.14029](http://arxiv.org/abs/2611.14029)|null|
 |**2026-11-10**|**FastWild-GS: Minutes-Scale In-the-Wild Gaussian Splatting via Compact Per-Image Appearance Adaptation**|Donghun Ryu et.al.|[2611.13808](http://arxiv.org/abs/2611.13808)|null|
 |**2026-11-10**|**Marrying Capacity and Precision for Efficient 2D Gaussian Image Representation**|Lin Dong et.al.|[2611.13784](http://arxiv.org/abs/2611.13784)|null|
-|**2026-11-10**|**RF3DGS: Reflection-Free 3D Gaussian Splatting with Self-Priors**|Qiang Wen et.al.|[2611.13772](http://arxiv.org/abs/2611.13772)|null|
+|**2026-11-11**|**RF3DGS: Reflection-Free 3D Gaussian Splatting with Self-Priors**|Qiang Wen et.al.|[2611.13772](http://arxiv.org/abs/2611.13772)|null|
 |**2026-11-10**|**DepthGS: Depth-Guided Gaussian Splatting with Adaptive Regularization for High-Quality Surface Reconstruction**|Xiao Ren et.al.|[2611.13628](http://arxiv.org/abs/2611.13628)|null|
 |**2026-11-10**|**GEMOR-GS: Global Extrinsic-calibration-refined Mapping and Online Relocalization for 3D Gaussian-Splatting SLAM**|Yuchen Yang et.al.|[2611.13528](http://arxiv.org/abs/2611.13528)|null|
 |**2026-11-09**|**RetinexGS: Retinex-Inspired Gaussian Splatting for Low-Light RAW Reconstruction**|Yulang Fei et.al.|[2611.13280](http://arxiv.org/abs/2611.13280)|null|
 |**2026-11-09**|**Plant Orbiter: 3D Plant Reconstruction and Generation with Video Diffusion Orbit Cameras and 3D Gaussian Splatting**|Zane K. J. Hartley et.al.|[2611.12739](http://arxiv.org/abs/2611.12739)|null|
 |**2026-11-09**|**Spaghetti Splatting: Differentiating Curvilinear Dirac Masses via Convolution**|George Shramko et.al.|[2611.12716](http://arxiv.org/abs/2611.12716)|null|
 |**2026-11-09**|**Mitigating SM-Level Load Imbalance in 3D Gaussian Splatting on GPUs**|Junha Ryu et.al.|[2611.12319](http://arxiv.org/abs/2611.12319)|null|
-|**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038](http://arxiv.org/abs/2611.12038)|null|
+|**2026-11-12**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038](http://arxiv.org/abs/2611.12038)|null|
 |**2026-11-09**|**UltraVoxelGS: Voxel-First Feed-Forward Gaussian Splatting for 3D Ultrasound Reconstruction**|Yue Wang et.al.|[2611.11951](http://arxiv.org/abs/2611.11951)|null|
 |**2026-11-08**|**Martine: Benchmarking Multi-View 3D Surface Reconstruction Across Viewpoint Coverage, Resolution, and Lighting**|Robin Bruneau et.al.|[2611.11602](http://arxiv.org/abs/2611.11602)|null|
 |**2026-11-08**|**FastGRT: Accelerating Training of 3D Gaussian Ray Tracing**|Meet Banthia et.al.|[2611.11586](http://arxiv.org/abs/2611.11586)|null|
@@ -3366,6 +3373,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Evaluating Video LLMs' Understanding of Corner Cases in Autonomous Driving**|Gabriel Manalu et.al.|[2611.16767](http://arxiv.org/abs/2611.16767)|null|
+|**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742](http://arxiv.org/abs/2611.16742)|null|
+|**2026-11-12**|**From Foundation VLM to Versatile Driving VLM: A Triplet Incremental Training Approach**|Shengtao Wu et.al.|[2611.16727](http://arxiv.org/abs/2611.16727)|null|
+|**2026-11-12**|**ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving**|Ziying Song et.al.|[2611.16579](http://arxiv.org/abs/2611.16579)|null|
+|**2026-11-11**|**Toward Self-Driving Multi-reference Calculations: Belief-Aware Orbital Selection**|Chen Li et.al.|[2611.15682](http://arxiv.org/abs/2611.15682)|null|
+|**2026-11-11**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Xiao Ma et.al.|[2611.15360](http://arxiv.org/abs/2611.15360)|null|
+|**2026-11-11**|**Towards Robust Vision-Language Reasoning: A Multi-Stage Optimization Pipeline with Masked Diffusion Model**|Shunming Liu et.al.|[2611.15238](http://arxiv.org/abs/2611.15238)|null|
+|**2026-11-11**|**Can MLLMs Reason over Surround-View Driving Videos? A Multi-View Autonomous Driving QA Benchmark**|Shunming Liu et.al.|[2611.15225](http://arxiv.org/abs/2611.15225)|null|
+|**2026-11-11**|**Are We Ready for Snow-tonomous Driving? Challenges Toward Robust Automated Driving in Extreme Weather**|Eren Erdal Aksoy et.al.|[2611.15217](http://arxiv.org/abs/2611.15217)|null|
 |**2026-11-10**|**Spatio-Temporal Calibration of a Vehicle-Mounted Microphone Array for Autonomous Driving**|Marvin Seegert et.al.|[2611.14003](http://arxiv.org/abs/2611.14003)|null|
 |**2026-11-10**|**RiSE-Drive: Risk-Sensitive Long-Horizon Candidate Evaluation for End-to-End Autonomous Driving**|Yu Zhao et.al.|[2611.13790](http://arxiv.org/abs/2611.13790)|null|
 |**2026-11-10**|**Route-Time Conflict Maps for Cooperative End-to-End Autonomous Driving**|Haohua Que et.al.|[2611.13494](http://arxiv.org/abs/2611.13494)|null|
@@ -5710,6 +5726,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**Symmetry in Time: A Representation Theory of Linear Recurrent Memory**|Anif N. Shikder et.al.|[2611.17162](http://arxiv.org/abs/2611.17162)|null|
+|**2026-11-12**|**Climate Temporal Temperature Prediction via an Adaptive Stacked Bidirectional Residual Mamba Network**|Yongxiang Lei et.al.|[2611.16322](http://arxiv.org/abs/2611.16322)|null|
+|**2026-11-11**|**The Posterior-Prior Epistemic Gap: When World Model Imagination Fails to Carry Task-Relevant Signals**|Jaerock Kwon et.al.|[2611.14955](http://arxiv.org/abs/2611.14955)|null|
 |**2026-11-10**|**Parallel Broyden Methods for Efficiently Evaluating Nonlinear State Space Models**|Ian Christopher Tanoh et.al.|[2611.13523](http://arxiv.org/abs/2611.13523)|null|
 |**2026-11-10**|**Seeing the Small: Deformable Duality Mamba for Retinal Lesion Segmentation**|Chang Yu et.al.|[2611.13514](http://arxiv.org/abs/2611.13514)|null|
 |**2026-11-09**|**Electric Propulsion Database Development and Integrated Modelling Analysis**|Talha Baig et.al.|[2611.13121](http://arxiv.org/abs/2611.13121)|null|
