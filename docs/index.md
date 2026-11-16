@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**EPIGRIDS: Documentation and Validation of Seven Open Synthetic Transmission Grid Cases**|Jonathan M. Snodgrass et.al.|[2611.18502](http://arxiv.org/abs/2611.18502)|null|
 |**2026-11-12**|**Pl@ntNet machine-to-machine identification service with Pl@ntNet API: enabling automated biodiversity monitoring through large-scale plant identification**|Benjamin Bourel et.al.|[2611.16538](http://arxiv.org/abs/2611.16538)|null|
 |**2026-11-12**|**Few-Shot Cross-Subject Neural--Image Retrieval via Stimulus-Anchored Latent Bias Calibration**|Xizhang Yao et.al.|[2611.16257](http://arxiv.org/abs/2611.16257)|null|
 |**2026-11-10**|**RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval**|Tanishq Rachamalla et.al.|[2611.14496](http://arxiv.org/abs/2611.14496)|**[link](https://github.com/Tanishq251/RSJEPA)**|
@@ -1081,6 +1082,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**SCAR: Bridging Coarse Retrieval and Fine Localization through Candidate Reranking**|Shuhan Dong et.al.|[2611.18240](http://arxiv.org/abs/2611.18240)|null|
 |**2026-10-19**|**TNVD-SC: Diagnosing Scan Context Failures in Forests with Terrain-Normalized Vertical Distributions**|Jineon Kim et.al.|[2610.25637](http://arxiv.org/abs/2610.25637)|null|
 |**2026-10-07**|**PARC-Loc: Text-to-Point-Cloud Localization with Partial Assignment and Relational Consistency**|Shengkai Ma et.al.|[2610.09761](http://arxiv.org/abs/2610.09761)|null|
 |**2026-09-24**|**UpDown-SC: Gravity-Canonicalized Dual-Envelope Scan Context for Indoor LiDAR Place Recognition**|Jie Xu et.al.|[2609.29118](http://arxiv.org/abs/2609.29118)|null|
@@ -1296,6 +1298,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**MacroGS: Macro-Pixel Shared Gaussian Primitives for Arbitrary-Scale Light Field Super-Resolutio**|Zeqiang Wei et.al.|[2611.17957](http://arxiv.org/abs/2611.17957)|null|
+|**2026-11-13**|**Stage-wise Lineage-aware Dropout for Sparse-View 3D Gaussian Splatting**|Yan Xing et.al.|[2611.17752](http://arxiv.org/abs/2611.17752)|null|
 |**2026-11-12**|**Kosmo-GFM: A Production-Ready Geometry Foundation Model**|Sheng Tang et.al.|[2611.16840](http://arxiv.org/abs/2611.16840)|null|
 |**2026-11-12**|**Reconstruct What You Can: Distractor-free 4D Gaussian Splatting**|Joel Julin et.al.|[2611.16259](http://arxiv.org/abs/2611.16259)|null|
 |**2026-11-11**|**Topology-Aware 4D Gaussian Splatting for Egocentric Videos**|Leonardo Vanni et.al.|[2611.16012](http://arxiv.org/abs/2611.16012)|null|
@@ -3373,12 +3377,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**Ego2Flow: Benchmarking the Traffic-System Impact of Autonomous Driving on Maps Distilled from Real-World Roads**|Yu Dong et.al.|[2611.17720](http://arxiv.org/abs/2611.17720)|null|
+|**2026-11-13**|**EViDS: An Environment--Vehicle Dynamics Integrated Simulation Platform for Intelligent Chassis Development**|Lu Xiong et.al.|[2611.17660](http://arxiv.org/abs/2611.17660)|null|
+|**2026-11-12**|**Real-Time Diffusion Relighting as a Neural Sensor: Closing the Low-Light Domain Gap for Robotic Perception**|Shengjie Xu et.al.|[2611.17438](http://arxiv.org/abs/2611.17438)|null|
 |**2026-11-12**|**Evaluating Video LLMs' Understanding of Corner Cases in Autonomous Driving**|Gabriel Manalu et.al.|[2611.16767](http://arxiv.org/abs/2611.16767)|null|
 |**2026-11-12**|**Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects**|Kazuma Ikeda et.al.|[2611.16742](http://arxiv.org/abs/2611.16742)|null|
 |**2026-11-12**|**From Foundation VLM to Versatile Driving VLM: A Triplet Incremental Training Approach**|Shengtao Wu et.al.|[2611.16727](http://arxiv.org/abs/2611.16727)|null|
 |**2026-11-12**|**ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving**|Ziying Song et.al.|[2611.16579](http://arxiv.org/abs/2611.16579)|null|
 |**2026-11-11**|**Toward Self-Driving Multi-reference Calculations: Belief-Aware Orbital Selection**|Chen Li et.al.|[2611.15682](http://arxiv.org/abs/2611.15682)|null|
-|**2026-11-11**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Xiao Ma et.al.|[2611.15360](http://arxiv.org/abs/2611.15360)|null|
+|**2026-11-13**|**CARE-Drive: Coupled Alternating Refinement for Ego-trajectories**|Xiao Ma et.al.|[2611.15360](http://arxiv.org/abs/2611.15360)|null|
 |**2026-11-11**|**Towards Robust Vision-Language Reasoning: A Multi-Stage Optimization Pipeline with Masked Diffusion Model**|Shunming Liu et.al.|[2611.15238](http://arxiv.org/abs/2611.15238)|null|
 |**2026-11-11**|**Can MLLMs Reason over Surround-View Driving Videos? A Multi-View Autonomous Driving QA Benchmark**|Shunming Liu et.al.|[2611.15225](http://arxiv.org/abs/2611.15225)|null|
 |**2026-11-11**|**Are We Ready for Snow-tonomous Driving? Challenges Toward Robust Automated Driving in Extreme Weather**|Eren Erdal Aksoy et.al.|[2611.15217](http://arxiv.org/abs/2611.15217)|null|
@@ -5726,6 +5733,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**Typing Matters: Muscle, Language and Typing Behaviour in Live Keystroke Decoding from sEMG**|Abhilash Durgam et.al.|[2611.18464](http://arxiv.org/abs/2611.18464)|null|
+|**2026-11-12**|**A thorough review on Deep Learning approaches to 2D-to-3D Registration in Medical Imaging**|Andrea Borghesi et.al.|[2611.17468](http://arxiv.org/abs/2611.17468)|null|
 |**2026-11-12**|**Symmetry in Time: A Representation Theory of Linear Recurrent Memory**|Anif N. Shikder et.al.|[2611.17162](http://arxiv.org/abs/2611.17162)|null|
 |**2026-11-12**|**Climate Temporal Temperature Prediction via an Adaptive Stacked Bidirectional Residual Mamba Network**|Yongxiang Lei et.al.|[2611.16322](http://arxiv.org/abs/2611.16322)|null|
 |**2026-11-11**|**The Posterior-Prior Epistemic Gap: When World Model Imagination Fails to Carry Task-Relevant Signals**|Jaerock Kwon et.al.|[2611.14955](http://arxiv.org/abs/2611.14955)|null|
