@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.15
+## Updated on 2026.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -1841,7 +1841,7 @@ layout: default
 |**2026-07-28**|**SONG: A Photorealistic 3D Gaussian Simulation Platform for Benchmarking Social Navigation**|Weiqi Huang et.al.|[2607.25219](http://arxiv.org/abs/2607.25219)|null|
 |**2026-07-27**|**ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams**|Ali Ansari et.al.|[2607.24707](http://arxiv.org/abs/2607.24707)|null|
 |**2026-07-27**|**GenSplatCodec: Feed-Forward Gaussian Splatting Compression via One-Step Diffusion**|Qiang Hu et.al.|[2607.24403](http://arxiv.org/abs/2607.24403)|null|
-|**2026-07-26**|**Head Avatars with Dynamic Explicit Hair**|Vanessa Sklyarova et.al.|[2607.23861](http://arxiv.org/abs/2607.23861)|null|
+|**2026-07-26**|**Head Avatars with Dynamic Explicit Hair**|Vanessa Sklyarova et.al.|[2607.23861](http://arxiv.org/abs/2607.23861)|**[link](https://github.com/Vanessik/DynHair)**|
 |**2026-07-25**|**Fashion-3DLR: A Controllable 3D Garment Generation Using Pairwise Fashion Elements for Intelligent Design**|Shenghao Yang et.al.|[2607.23189](http://arxiv.org/abs/2607.23189)|null|
 |**2026-07-25**|**Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline**|Qing Yang et.al.|[2607.22997](http://arxiv.org/abs/2607.22997)|null|
 |**2026-07-24**|**3D Gaussian Splatting for Scientific Particle Data Compression and Rendering**|Bo Jiang et.al.|[2607.22956](http://arxiv.org/abs/2607.22956)|null|
@@ -6374,7 +6374,7 @@ layout: default
 |**2026-03-04**|**Harnessing Selective State Space Models to Enhance Semianalytical Design of Fabrication-Ready Multilayered Huygens' Metasurfaces: Part I - Field-based Semianalytical Synthesis**|Sherman W. Marcus et.al.|[2603.03837](http://arxiv.org/abs/2603.03837)|null|
 |**2026-03-04**|**Separators in Enhancing Autoregressive Pretraining for Vision Mamba**|Hanpeng Liu et.al.|[2603.03806](http://arxiv.org/abs/2603.03806)|null|
 |**2026-03-03**|**MaBERT:A Padding Safe Interleaved Transformer Mamba Hybrid Encoder for Efficient Extended Context Masked Language Modeling**|Jinwoong Kim et.al.|[2603.03001](http://arxiv.org/abs/2603.03001)|null|
-|**2026-03-03**|**Retrievit: In-context Retrieval Capabilities of Transformers, State Space Models, and Hybrid Architectures**|Georgios Pantazopoulos et.al.|[2603.02874](http://arxiv.org/abs/2603.02874)|null|
+|**2026-03-03**|**Retrievit: In-context Retrieval Capabilities of Transformers, State Space Models, and Hybrid Architectures**|Georgios Pantazopoulos et.al.|[2603.02874](http://arxiv.org/abs/2603.02874)|**[link](https://github.com/gpantaz/retrievit)**|
 |**2026-03-02**|**The Expressive Limits of Diagonal SSMs for State-Tracking**|Mehran Shakerinava et.al.|[2603.01959](http://arxiv.org/abs/2603.01959)|null|
 |**2026-03-02**|**Deep Learning for Financial Time Series: A Large-Scale Benchmark of Risk-Adjusted Performance**|Adir Saly-Kaufmann et.al.|[2603.01820](http://arxiv.org/abs/2603.01820)|null|
 |**2026-03-01**|**Efficient Extractive Summarization with MAMBA-Transformer Hybrids for Low-Resource Scenarios**|Nisrine Ait Khayi et.al.|[2603.01288](http://arxiv.org/abs/2603.01288)|null|
@@ -6758,9 +6758,9 @@ layout: default
 |**2025-11-20**|**How Noise Benefits AI-generated Image Detection**|Jiazhen Yan et.al.|[2511.16136](http://arxiv.org/abs/2511.16136)|null|
 |**2025-11-20**|**Decoupling Complexity from Scale in Latent Diffusion Model**|Tianxiong Zhong et.al.|[2511.16117](http://arxiv.org/abs/2511.16117)|null|
 |**2025-11-20**|**Parallelizable Complex Neural Dynamics Models for PMSM Temperature Estimation with Hardware Acceleration**|Xinyuan Liao et.al.|[2511.16093](http://arxiv.org/abs/2511.16093)|**[link](https://github.com/XinyuanLiao/ComplexNDM)**|
-|**2025-11-20**|**A Hybrid Proactive And Predictive Framework For Edge Cloud Resource Management**|Hrikshesh Kumar et.al.|[2511.16075](http://arxiv.org/abs/2511.16075)|null|
+|**2025-11-20**|**A Hybrid Proactive And Predictive Framework For Edge Cloud Resource Management**|Hrikshesh Kumar et.al.|[2511.16075](http://arxiv.org/abs/2511.16075)|**[link](https://github.com/Anshul-Gupta-1410/Design-Project)**|
 |**2025-11-20**|**High-Throughput Exploration of Refractory High-Entropy Alloys for Strength and Plasticity**|Stephen A. Giles et.al.|[2511.16057](http://arxiv.org/abs/2511.16057)|null|
-|**2025-11-20**|**Exploiting Inter-Sample Information for Long-tailed Out-of-Distribution Detection**|Nimeshika Udayangani et.al.|[2511.16015](http://arxiv.org/abs/2511.16015)|null|
+|**2025-11-20**|**Exploiting Inter-Sample Information for Long-tailed Out-of-Distribution Detection**|Nimeshika Udayangani et.al.|[2511.16015](http://arxiv.org/abs/2511.16015)|**[link](https://github.com/hdnugit/Graph_OOD_LTR)**|
 |**2025-11-20**|**Synergizing Deconfounding and Temporal Generalization For Time-series Counterfactual Outcome Estimation**|Yiling Liu et.al.|[2511.16006](http://arxiv.org/abs/2511.16006)|null|
 |**2025-11-19**|**Breaking the Bottleneck with DiffuApriel: High-Throughput Diffusion LMs with Mamba Backbone**|Vaibhav Singh et.al.|[2511.15927](http://arxiv.org/abs/2511.15927)|null|
 |**2025-11-19**|**From Qubits to Couplings: A Hybrid Quantum Machine Learning Framework for LHC Physics**|Marwan Ait Haddou et.al.|[2511.15672](http://arxiv.org/abs/2511.15672)|null|
