@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.20
+## Updated on 2026.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Visual Localization
@@ -3429,8 +3429,8 @@ layout: default
 |**2026-11-19**|**PAD: Policy-Aware Data Valuation for Autonomous Driving**|Chengkai Xu et.al.|[2611.25604](http://arxiv.org/abs/2611.25604)|null|
 |**2026-11-19**|**TuringPAI: A Foundation for On-Device Physical AI**|Qiman Wu et.al.|[2611.25474](http://arxiv.org/abs/2611.25474)|null|
 |**2026-11-18**|**Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Driving Scenario Generation**|Beyazit Yalcinkaya et.al.|[2611.24876](http://arxiv.org/abs/2611.24876)|null|
-|**2026-11-18**|**Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving**|Binay Kumar Singh et.al.|[2611.24840](http://arxiv.org/abs/2611.24840)|**[link](https://github.com/binayksingh/does-action-matter)**|
-|**2026-11-18**|**DRIFT: Detachable Reasoning for Runtime-Flexible and Efficient End-to-End Driving**|Emad Aghajanzadeh et.al.|[2611.24719](http://arxiv.org/abs/2611.24719)|**[link](https://github.com/drift-e2e/DRIFT)**|
+|**2026-11-18**|**Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving**|Binay Kumar Singh et.al.|[2611.24840](http://arxiv.org/abs/2611.24840)|null|
+|**2026-11-18**|**DRIFT: Detachable Reasoning for Runtime-Flexible and Efficient End-to-End Driving**|Emad Aghajanzadeh et.al.|[2611.24719](http://arxiv.org/abs/2611.24719)|null|
 |**2026-11-18**|**Teaching VLMs What to Say, Not How to Reason: Rethinking Counterfactual Reasoning in Autonomous Driving**|Hayeon Oh et.al.|[2611.24376](http://arxiv.org/abs/2611.24376)|null|
 |**2026-11-19**|**FedE2E: One-Shot Federated Learning for End-to-End Autonomous Driving with Closed-Loop Evaluation**|Tao Lian et.al.|[2611.24254](http://arxiv.org/abs/2611.24254)|null|
 |**2026-11-18**|**TrajWAM: Trajectory-Conditioned Future Learning for Vision-Language Driving**|Xuerui Fang et.al.|[2611.24192](http://arxiv.org/abs/2611.24192)|null|
