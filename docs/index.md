@@ -9,11 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-20**|**PaMuk-Bench: A Parallel Multilingual Multitask Benchmark for Vision-Language Tasks**|Silviu-Florin Gheorghe et.al.|[2611.27521](http://arxiv.org/abs/2611.27521)|null|
+|**2026-11-20**|**Emergent Fourfold Symmetry in Polarization Images: Local Origin and Diffractive Breakdown**|Igor S. Lobanov et.al.|[2611.27452](http://arxiv.org/abs/2611.27452)|**[link](https://github.com/alepoydes/symmetry-in-pom)**|
+|**2026-11-20**|**GeoCloak: Defending Against Geolocation Reasoning in Multimodal Language Models via Perceptual Image Editing**|Haoyang Xu et.al.|[2611.26987](http://arxiv.org/abs/2611.26987)|null|
+|**2026-11-20**|**SecretAgent: A Multi-Agent Framework for Privacy Protection against Vision Language Models**|Minda Zhao et.al.|[2611.26936](http://arxiv.org/abs/2611.26936)|null|
+|**2026-11-19**|**Are Calibrated Decision Models Calibrated on Markets? Geolocated News, Markov Switching and a System One Model for Nasdaq-100 Allocation**|Jakub Zając et.al.|[2611.26716](http://arxiv.org/abs/2611.26716)|null|
 |**2026-11-19**|**A Task-Level Bias Taxonomy for Historical Image Retrieval**|Omkar Gavali et.al.|[2611.26019](http://arxiv.org/abs/2611.26019)|null|
 |**2026-11-18**|**CHORUS: Cross-Subject Harmonization via Population Relay for Unseen Subjects in Brain Visual Decoding**|Jiayu Zuo et.al.|[2611.24364](http://arxiv.org/abs/2611.24364)|null|
 |**2026-11-18**|**Stabilizing Neural-to-Image Retrieval with Frequency-Domain Priors and Adaptive Supervision**|YaoYang Liu et.al.|[2611.24163](http://arxiv.org/abs/2611.24163)|null|
 |**2026-11-18**|**Benchmarking Reasoning Reliability,Prior_Evidence Contrast,and Spectral Discrimination in Remote-Sensing Geological Image Interpretation**|Jun Wang et.al.|[2611.24068](http://arxiv.org/abs/2611.24068)|null|
-|**2026-11-18**|**SIRAZ: Sparse Inter-Layer Residual Aggregation for Zero-Shot Visual Neural Decoding**|Neha et.al.|[2611.23991](http://arxiv.org/abs/2611.23991)|null|
+|**2026-11-18**|**SIRAZ: Sparse Inter-Layer Residual Aggregation for Zero-Shot Visual Neural Decoding**| Neha et.al.|[2611.23991](http://arxiv.org/abs/2611.23991)|null|
 |**2026-11-17**|**Bits, Not Boxes: Label-Free Layer Selection for Visual Localization in VLMs**|Haisheng Fu et.al.|[2611.23432](http://arxiv.org/abs/2611.23432)|null|
 |**2026-11-17**|**PeriaTrace: Tooth-Level Grounding Diagnosis and Patient-Facing Explanations from Periapical Radiographs**|Zhenhuan Zhou et.al.|[2611.23012](http://arxiv.org/abs/2611.23012)|null|
 |**2026-11-17**|**EfficientVPR: Toward Efficient Visual Place Recognition via Scene-Aware Prompt Tuning and Adaptive Feature Enhancement**|Wenjing Tang et.al.|[2611.22506](http://arxiv.org/abs/2611.22506)|null|
@@ -1311,6 +1316,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-20**|**VeilGS: Solving Darkness as a Veil of 2D Basis Maps over Retinex 3DGS**|Mohab Kishawy et.al.|[2611.27719](http://arxiv.org/abs/2611.27719)|null|
+|**2026-11-20**|**PennyGS: Full Resolution 3DGS Training in Minutes on Consumer GPUs**|Nicholas Jing Shou Nge et.al.|[2611.27525](http://arxiv.org/abs/2611.27525)|null|
+|**2026-11-20**|**BladeR: Scalable, Shape-Guided 3D Reconstruction of Wind Turbine Blades from UAV Imagery**|Jonathan Sterckx et.al.|[2611.27407](http://arxiv.org/abs/2611.27407)|null|
 |**2026-11-19**|**CryoGaussian: Heterogeneous Cryo-EM Reconstruction Made Explicit with Gaussian Splatting**|Ziwen Wang et.al.|[2611.26128](http://arxiv.org/abs/2611.26128)|null|
 |**2026-11-19**|**PaveSplat: Resolution-Robust Feed-Forward Gaussian Splatting with Residually Corrected Surface-Aligned Covariances**|Janghun Kim et.al.|[2611.26045](http://arxiv.org/abs/2611.26045)|null|
 |**2026-11-19**|**Multi-View Transformer with Geometry-Guided Multi-Modal ControlNet for 3D Virtual Try-On**|Sarthak Batra et.al.|[2611.25979](http://arxiv.org/abs/2611.25979)|null|
@@ -3425,6 +3433,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-20**|**Generalist Action Critic: Harnessing Frontier Models in Autonomous Driving**|Yun Yan et.al.|[2611.27804](http://arxiv.org/abs/2611.27804)|null|
+|**2026-11-20**|**To Own or Not to Own? Endogenous Ownership in Peer-to-Peer Sharing of Private Autonomous Vehicles**|Xinling Li et.al.|[2611.27691](http://arxiv.org/abs/2611.27691)|null|
+|**2026-11-20**|**Mechanism Parity for Simulation-Based Validation of Autonomous-Driving Perception**|Danial Safaei et.al.|[2611.27447](http://arxiv.org/abs/2611.27447)|null|
+|**2026-11-20**|**Trailblazer-F: Speculative Action-Flow Inference for Autonomous Driving**|Haibo Hu et.al.|[2611.27226](http://arxiv.org/abs/2611.27226)|null|
+|**2026-11-20**|**UDA-Restoration: Bridging Unsupervised Domain Adaptation and Multi-Degradation Denoising for Enhanced AV Semantic Segmentation**|Zainab Bibi et.al.|[2611.27097](http://arxiv.org/abs/2611.27097)|null|
+|**2026-11-20**|**ReactDrive: Self-Reactive Driving World Model**|Yifan Wang et.al.|[2611.27024](http://arxiv.org/abs/2611.27024)|null|
 |**2026-11-19**|**FastRoverVLA: Fast Vision-Language-Action Execution for Off-Road Autonomous Driving**|Changtao Zhao et.al.|[2611.26242](http://arxiv.org/abs/2611.26242)|null|
 |**2026-11-19**|**PAD: Policy-Aware Data Valuation for Autonomous Driving**|Chengkai Xu et.al.|[2611.25604](http://arxiv.org/abs/2611.25604)|null|
 |**2026-11-19**|**TuringPAI: A Foundation for On-Device Physical AI**|Qiman Wu et.al.|[2611.25474](http://arxiv.org/abs/2611.25474)|null|
@@ -5819,6 +5833,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-20**|**Inject, Encode, Navigate: Feature-Wise Time Injection for Rectified Flow with Bidirectional Feature Encoding**|Xiaogang Wang et.al.|[2611.27179](http://arxiv.org/abs/2611.27179)|null|
+|**2026-11-19**|**Self-Supervised Learning with Recursive Quadrature Filters for Neural Time Series**|Mirko Morello et.al.|[2611.26856](http://arxiv.org/abs/2611.26856)|null|
+|**2026-11-19**|**A Sparsity Analysis of Traffic Forecasting Architectures: How Much Missing Data is Too Much?**|Mohamed Hamad et.al.|[2611.26847](http://arxiv.org/abs/2611.26847)|null|
+|**2026-11-19**|**Hidden Semi-Markov Models for Fully Functional Time Series**|Jake Hoover et.al.|[2611.26838](http://arxiv.org/abs/2611.26838)|null|
 |**2026-11-19**|**Mamba Flow Matching Neural Processes: Linear-Time Inference for Irregularly Observed Spatial Fields**|Cosmo Santoni et.al.|[2611.26355](http://arxiv.org/abs/2611.26355)|null|
 |**2026-11-19**|**MambaLIFT: Reference-Based Mechanism-Aware Attribution for VMamba**|Jintu Kakati et.al.|[2611.25644](http://arxiv.org/abs/2611.25644)|null|
 |**2026-11-18**|**DS3M: Deep structured state space models for nonlinear system identification on modern hardware**|Marco Roschkowski et.al.|[2611.25274](http://arxiv.org/abs/2611.25274)|null|
